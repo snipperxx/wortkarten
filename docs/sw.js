@@ -1,5 +1,5 @@
 // 离线缓存：页面和词库先联网（拿最新版），没网用缓存；发音包看过就存下来；同步请求不经过缓存
-const V = "wortkarten-v3";
+const V = "wortkarten-v4";
 const SHELL = ["./", "index.html", "manifest.webmanifest", "icon-192.png", "icon-512.png", "words.json", "audio/index.json", "changelog.json"];
 self.addEventListener("install", (e) => { e.waitUntil(caches.open(V).then((c) => c.addAll(SHELL))); self.skipWaiting(); });
 self.addEventListener("activate", (e) => {
