@@ -1,0 +1,76 @@
+"""base.json + chunk*_zh.json + chunk*_use.json + extra.json -> site/words.json"""
+import json
+import re
+import sys
+from pathlib import Path
+
+sys.stdout.reconfigure(encoding="utf-8")
+V = Path(sys.argv[1])
+D = V / "data"
+base = json.loads((D / "base.json").read_text(encoding="utf-8"))
+zh, use = {}, {}
+for i in range(8):
+    zh.update(json.loads((D / f"chunk{i}_zh.json").read_text(encoding="utf-8")))
+    f = D / f"chunk{i}_use.json"
+    if f.exists():
+        use.update(json.loads(f.read_text(encoding="utf-8")))
+
+
+def stems(w):
+    core = re.sub(r"\(.*?\)|^sich |^(der|die|das) ", "", w["lemma"]).strip().lower()
+    out = {core[:max(4, len(core) - 3)] if len(core) > 5 else core}
+    for f in (w.get("p2", ""), w.get("forms", ""), w.get("pl_full", "")):
+        for tok in re.findall(r"[a-zäöüß]{3,}", f.lower()):
+            if tok not in ("hat", "ist", "die", "der", "das"):
+                out.add(tok[:max(4, len(tok) - 2)])
+    return out
+
+
+def fits(sentence, w):
+    s = sentence.lower()
+    return len(sentence) >= 12 and not sentence[0].islower() and any(st and st in s for st in stems(w))
+
+
+out, dropped, exfix = [], 0, 0
+for w in base:
+    z = zh.get(w["id"], {})
+    regional = re.search(r"[（(][^）)]*(瑞士|奥|CH|\bA\b)[^）)]*[）)]", z.get("zh", "")) and "德" not in z.get("zh", "")
+    if z.get("drop") or not z.get("zh") or regional:   # 只在瑞士/奥地利用的词不要
+        dropped += 1
+        continue
+    if z.get("fix"):
+        m = re.match(r"^(der|die|das)\s+(.+)$", z["fix"])
+        w["lemma"] = m.group(2) if m else z["fix"]
+        if m:
+            w["art"] = m.group(1)
+    w["zh"], w["pos"] = z["zh"], z.get("pos", "")
+    for k in ("pl_full", "gov"):
+        if z.get(k):
+            w[k] = z[k]
+    ex = [re.sub(r"^[-–]\s*", "", e) for e in w.get("ex", [])]
+    good = [e for e in ex if fits(e, w)]
+    if ex and good and good[0] == ex[0]:
+        w["ex_zh"] = z.get("ex_zh", "")
+    if good != ex:
+        exfix += 1
+    w["ex"] = good[:2]
+    if not w.get("ex_zh"):
+        w.pop("ex_zh", None)
+    u = use.get(w["id"], {})
+    u = {k: u[k] for k in ("senses", "col", "tip") if u.get(k)}   # 不要英文对应（用户 10-28）
+    if u:
+        w["use"] = u
+    if w.get("kind") == "noun" and w.get("pos") != "n":
+        w.pop("art", None)
+    w.pop("hw", None)
+    out.append(w)
+
+extra = json.loads((D / "extra.json").read_text(encoding="utf-8"))
+out += extra
+for w in out:
+    w.pop("kind", None)
+(V / "site" / "words.json").write_text(json.dumps(out, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+from collections import Counter
+print(len(out), "words; dropped", dropped, "; examples trimmed on", exfix, "; with usage", sum(1 for w in out if "use" in w))
+print(Counter(w["lv"] for w in out), Counter(w.get("pos") for w in out).most_common(8))
+print("size KB", (V / "site" / "words.json").stat().st_size // 1024)

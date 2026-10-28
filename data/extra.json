@@ -1,0 +1,1562 @@
+[
+ {
+  "id": "x000",
+  "lv": "求职",
+  "kind": "noun",
+  "lemma": "Bewerbung",
+  "pos": "n",
+  "zh": "申请；求职信",
+  "ex": [
+   "Ich habe meine Bewerbung per E-Mail geschickt."
+  ],
+  "ex_zh": "我已经通过电子邮件发送了申请。",
+  "art": "die",
+  "pl_full": "die Bewerbungen"
+ },
+ {
+  "id": "x001",
+  "lv": "求职",
+  "kind": "verb",
+  "lemma": "sich bewerben",
+  "pos": "v",
+  "zh": "申请（职位）",
+  "ex": [
+   "Ich bewerbe mich um die Stelle als Softwareentwickler."
+  ],
+  "ex_zh": "我申请软件开发员这个职位。",
+  "aux": "hat",
+  "p2": "beworben",
+  "gov": "sich bewerben um + Akk. / bei + Dat."
+ },
+ {
+  "id": "x002",
+  "lv": "求职",
+  "kind": "noun",
+  "lemma": "Anschreiben",
+  "pos": "n",
+  "zh": "求职信",
+  "ex": [
+   "Das Anschreiben sollte nicht länger als eine Seite sein."
+  ],
+  "ex_zh": "求职信不应超过一页。",
+  "art": "das",
+  "pl_full": "die Anschreiben"
+ },
+ {
+  "id": "x003",
+  "lv": "求职",
+  "kind": "noun",
+  "lemma": "Lebenslauf",
+  "pos": "n",
+  "zh": "简历",
+  "ex": [
+   "Bitte schicken Sie uns Ihren Lebenslauf."
+  ],
+  "ex_zh": "请把您的简历发给我们。",
+  "art": "der",
+  "pl_full": "die Lebensläufe"
+ },
+ {
+  "id": "x004",
+  "lv": "求职",
+  "kind": "noun",
+  "lemma": "Vorstellungsgespräch",
+  "pos": "n",
+  "zh": "面试",
+  "ex": [
+   "Morgen habe ich ein Vorstellungsgespräch bei Bosch."
+  ],
+  "ex_zh": "明天我在博世有个面试。",
+  "art": "das",
+  "pl_full": "die Vorstellungsgespräche"
+ },
+ {
+  "id": "x005",
+  "lv": "求职",
+  "kind": "noun",
+  "lemma": "Stellenanzeige",
+  "pos": "n",
+  "zh": "招聘广告",
+  "ex": [
+   "Ich habe die Stellenanzeige auf LinkedIn gesehen."
+  ],
+  "ex_zh": "我在 LinkedIn 上看到了这则招聘广告。",
+  "art": "die",
+  "pl_full": "die Stellenanzeigen"
+ },
+ {
+  "id": "x006",
+  "lv": "求职",
+  "kind": "noun",
+  "lemma": "Stelle",
+  "pos": "n",
+  "zh": "职位；岗位",
+  "ex": [
+   "Die Stelle ist ab sofort zu besetzen."
+  ],
+  "ex_zh": "该职位即刻招人。",
+  "art": "die",
+  "pl_full": "die Stellen"
+ },
+ {
+  "id": "x007",
+  "lv": "求职",
+  "kind": "noun",
+  "lemma": "Anforderung",
+  "pos": "n",
+  "zh": "要求",
+  "ex": [
+   "Erfüllen Sie alle Anforderungen der Stelle?"
+  ],
+  "ex_zh": "您满足这个职位的所有要求吗？",
+  "art": "die",
+  "pl_full": "die Anforderungen"
+ },
+ {
+  "id": "x008",
+  "lv": "求职",
+  "kind": "noun",
+  "lemma": "Voraussetzung",
+  "pos": "n",
+  "zh": "前提条件",
+  "ex": [
+   "Gute Deutschkenntnisse sind Voraussetzung."
+  ],
+  "ex_zh": "良好的德语水平是前提条件。",
+  "art": "die",
+  "pl_full": "die Voraussetzungen"
+ },
+ {
+  "id": "x009",
+  "lv": "求职",
+  "kind": "noun",
+  "lemma": "Kenntnisse (Pl.)",
+  "pos": "n",
+  "zh": "知识；技能（复数）",
+  "ex": [
+   "Sie haben sehr gute Kenntnisse in Python."
+  ],
+  "ex_zh": "您的 Python 技能非常好。",
+  "art": "die"
+ },
+ {
+  "id": "x010",
+  "lv": "求职",
+  "kind": "noun",
+  "lemma": "Berufserfahrung",
+  "pos": "n",
+  "zh": "工作经验",
+  "ex": [
+   "Wir suchen jemanden mit drei Jahren Berufserfahrung."
+  ],
+  "ex_zh": "我们在找有三年工作经验的人。",
+  "art": "die"
+ },
+ {
+  "id": "x011",
+  "lv": "求职",
+  "kind": "noun",
+  "lemma": "Erfahrung",
+  "pos": "n",
+  "zh": "经验",
+  "ex": [
+   "Ich habe Erfahrung mit Datenbanken."
+  ],
+  "ex_zh": "我有数据库方面的经验。",
+  "art": "die",
+  "pl_full": "die Erfahrungen",
+  "gov": "Erfahrung mit + Dat."
+ },
+ {
+  "id": "x012",
+  "lv": "求职",
+  "kind": "noun",
+  "lemma": "Abschluss",
+  "pos": "n",
+  "zh": "毕业；学位",
+  "ex": [
+   "Ich habe meinen Abschluss in Informatik gemacht."
+  ],
+  "ex_zh": "我获得了计算机科学学位。",
+  "art": "der",
+  "pl_full": "die Abschlüsse"
+ },
+ {
+  "id": "x013",
+  "lv": "求职",
+  "kind": "noun",
+  "lemma": "Zeugnis",
+  "pos": "n",
+  "zh": "证书；成绩单",
+  "ex": [
+   "Bitte legen Sie Ihre Zeugnisse bei."
+  ],
+  "ex_zh": "请附上您的证书。",
+  "art": "das",
+  "pl_full": "die Zeugnisse"
+ },
+ {
+  "id": "x014",
+  "lv": "求职",
+  "kind": "noun",
+  "lemma": "Arbeitszeugnis",
+  "pos": "n",
+  "zh": "工作证明（离职评语）",
+  "ex": [
+   "Mein alter Chef hat mir ein gutes Arbeitszeugnis geschrieben."
+  ],
+  "ex_zh": "我以前的老板给我写了一份很好的工作证明。",
+  "art": "das",
+  "pl_full": "die Arbeitszeugnisse"
+ },
+ {
+  "id": "x015",
+  "lv": "求职",
+  "kind": "noun",
+  "lemma": "Anlage",
+  "pos": "n",
+  "zh": "附件",
+  "ex": [
+   "In der Anlage finden Sie meinen Lebenslauf."
+  ],
+  "ex_zh": "附件中是我的简历。",
+  "art": "die",
+  "pl_full": "die Anlagen"
+ },
+ {
+  "id": "x016",
+  "lv": "求职",
+  "kind": "noun",
+  "lemma": "Absage",
+  "pos": "n",
+  "zh": "拒绝；拒信",
+  "ex": [
+   "Leider habe ich eine Absage bekommen."
+  ],
+  "ex_zh": "可惜我收到了拒信。",
+  "art": "die",
+  "pl_full": "die Absagen"
+ },
+ {
+  "id": "x017",
+  "lv": "求职",
+  "kind": "noun",
+  "lemma": "Zusage",
+  "pos": "n",
+  "zh": "录用；答应",
+  "ex": [
+   "Nach dem zweiten Gespräch bekam ich die Zusage."
+  ],
+  "ex_zh": "第二轮面试后我被录用了。",
+  "art": "die",
+  "pl_full": "die Zusagen"
+ },
+ {
+  "id": "x018",
+  "lv": "求职",
+  "kind": "noun",
+  "lemma": "Arbeitgeber",
+  "pos": "n",
+  "zh": "雇主",
+  "ex": [
+   "Mein Arbeitgeber zahlt das Deutschlandticket."
+  ],
+  "ex_zh": "我的雇主报销德国票。",
+  "art": "der",
+  "pl_full": "die Arbeitgeber"
+ },
+ {
+  "id": "x019",
+  "lv": "求职",
+  "kind": "noun",
+  "lemma": "Arbeitnehmer",
+  "pos": "n",
+  "zh": "雇员",
+  "ex": [
+   "Arbeitnehmer haben ein Recht auf Urlaub."
+  ],
+  "ex_zh": "雇员有权休假。",
+  "art": "der",
+  "pl_full": "die Arbeitnehmer"
+ },
+ {
+  "id": "x020",
+  "lv": "求职",
+  "kind": "noun",
+  "lemma": "Arbeitsvertrag",
+  "pos": "n",
+  "zh": "劳动合同",
+  "ex": [
+   "Ich habe den Arbeitsvertrag unterschrieben."
+  ],
+  "ex_zh": "我签了劳动合同。",
+  "art": "der",
+  "pl_full": "die Arbeitsverträge"
+ },
+ {
+  "id": "x021",
+  "lv": "求职",
+  "kind": "noun",
+  "lemma": "Probezeit",
+  "pos": "n",
+  "zh": "试用期",
+  "ex": [
+   "Die Probezeit dauert sechs Monate."
+  ],
+  "ex_zh": "试用期为六个月。",
+  "art": "die",
+  "pl_full": "die Probezeiten"
+ },
+ {
+  "id": "x022",
+  "lv": "求职",
+  "kind": "noun",
+  "lemma": "Kündigungsfrist",
+  "pos": "n",
+  "zh": "解约通知期",
+  "ex": [
+   "Die Kündigungsfrist beträgt drei Monate."
+  ],
+  "ex_zh": "解约通知期为三个月。",
+  "art": "die",
+  "pl_full": "die Kündigungsfristen"
+ },
+ {
+  "id": "x023",
+  "lv": "求职",
+  "kind": "verb",
+  "lemma": "kündigen",
+  "pos": "v",
+  "zh": "辞职；解雇",
+  "ex": [
+   "Er hat seine Stelle gekündigt."
+  ],
+  "ex_zh": "他辞去了工作。",
+  "aux": "hat",
+  "p2": "gekündigt"
+ },
+ {
+  "id": "x024",
+  "lv": "求职",
+  "kind": "noun",
+  "lemma": "Gehalt",
+  "pos": "n",
+  "zh": "薪水",
+  "ex": [
+   "Das Gehalt wird am Monatsende überwiesen."
+  ],
+  "ex_zh": "薪水在月底转账。",
+  "art": "das",
+  "pl_full": "die Gehälter"
+ },
+ {
+  "id": "x025",
+  "lv": "求职",
+  "kind": "noun",
+  "lemma": "Gehaltsvorstellung",
+  "pos": "n",
+  "zh": "期望薪资",
+  "ex": [
+   "Bitte nennen Sie Ihre Gehaltsvorstellung."
+  ],
+  "ex_zh": "请说明您的期望薪资。",
+  "art": "die",
+  "pl_full": "die Gehaltsvorstellungen"
+ },
+ {
+  "id": "x026",
+  "lv": "求职",
+  "kind": "noun",
+  "lemma": "Bruttogehalt",
+  "pos": "n",
+  "zh": "税前工资",
+  "ex": [
+   "Das Bruttogehalt liegt bei 55.000 Euro im Jahr."
+  ],
+  "ex_zh": "税前年薪约 5.5 万欧元。",
+  "art": "das",
+  "pl_full": "die Bruttogehälter"
+ },
+ {
+  "id": "x027",
+  "lv": "求职",
+  "kind": "noun",
+  "lemma": "Eintrittstermin",
+  "pos": "n",
+  "zh": "入职日期",
+  "ex": [
+   "Mein frühestmöglicher Eintrittstermin ist der 1. Januar."
+  ],
+  "ex_zh": "我最早可以 1 月 1 日入职。",
+  "art": "der",
+  "pl_full": "die Eintrittstermine"
+ },
+ {
+  "id": "x028",
+  "lv": "求职",
+  "kind": "noun",
+  "lemma": "Vollzeit",
+  "pos": "n",
+  "zh": "全职",
+  "ex": [
+   "Die Stelle ist in Vollzeit."
+  ],
+  "ex_zh": "这是全职岗位。",
+  "art": "die"
+ },
+ {
+  "id": "x029",
+  "lv": "求职",
+  "kind": "noun",
+  "lemma": "Teilzeit",
+  "pos": "n",
+  "zh": "兼职；非全时",
+  "ex": [
+   "Ich arbeite 20 Stunden pro Woche in Teilzeit."
+  ],
+  "ex_zh": "我每周兼职工作 20 小时。",
+  "art": "die"
+ },
+ {
+  "id": "x030",
+  "lv": "求职",
+  "kind": "noun",
+  "lemma": "Werkstudent",
+  "pos": "n",
+  "zh": "工读生",
+  "ex": [
+   "Ich arbeite als Werkstudent bei FIZ Karlsruhe."
+  ],
+  "ex_zh": "我在 FIZ 卡尔斯鲁厄做工读生。",
+  "art": "der",
+  "pl_full": "die Werkstudenten"
+ },
+ {
+  "id": "x031",
+  "lv": "求职",
+  "kind": "noun",
+  "lemma": "Praktikum",
+  "pos": "n",
+  "zh": "实习",
+  "ex": [
+   "Sie hat ein Praktikum bei SAP gemacht."
+  ],
+  "ex_zh": "她在 SAP 做过实习。",
+  "art": "das",
+  "pl_full": "die Praktika"
+ },
+ {
+  "id": "x032",
+  "lv": "求职",
+  "kind": "other",
+  "lemma": "befristet / unbefristet",
+  "pos": "phr",
+  "zh": "有期限的 / 无期限的",
+  "ex": [
+   "Der Vertrag ist auf zwei Jahre befristet."
+  ],
+  "ex_zh": "合同期限为两年。"
+ },
+ {
+  "id": "x033",
+  "lv": "求职",
+  "kind": "noun",
+  "lemma": "Weiterbildung",
+  "pos": "n",
+  "zh": "进修；培训",
+  "ex": [
+   "Die Firma bietet viele Weiterbildungen an."
+  ],
+  "ex_zh": "公司提供很多进修机会。",
+  "art": "die",
+  "pl_full": "die Weiterbildungen"
+ },
+ {
+  "id": "x034",
+  "lv": "求职",
+  "kind": "noun",
+  "lemma": "Stärke",
+  "pos": "n",
+  "zh": "优点；强项",
+  "ex": [
+   "Was sind Ihre Stärken und Schwächen?"
+  ],
+  "ex_zh": "您的优点和缺点是什么？",
+  "art": "die",
+  "pl_full": "die Stärken"
+ },
+ {
+  "id": "x035",
+  "lv": "求职",
+  "kind": "noun",
+  "lemma": "Schwäche",
+  "pos": "n",
+  "zh": "缺点；弱点",
+  "ex": [
+   "Meine Schwäche ist, dass ich manchmal zu genau bin."
+  ],
+  "ex_zh": "我的缺点是有时太较真。",
+  "art": "die",
+  "pl_full": "die Schwächen"
+ },
+ {
+  "id": "x036",
+  "lv": "求职",
+  "kind": "other",
+  "lemma": "teamfähig",
+  "pos": "adj",
+  "zh": "有团队精神的",
+  "ex": [
+   "Wir suchen eine teamfähige Kollegin."
+  ],
+  "ex_zh": "我们在找一位有团队精神的同事。"
+ },
+ {
+  "id": "x037",
+  "lv": "求职",
+  "kind": "other",
+  "lemma": "belastbar",
+  "pos": "adj",
+  "zh": "抗压的",
+  "ex": [
+   "Sie sollten belastbar und flexibel sein."
+  ],
+  "ex_zh": "您应当抗压且灵活。"
+ },
+ {
+  "id": "x038",
+  "lv": "求职",
+  "kind": "other",
+  "lemma": "zuverlässig",
+  "pos": "adj",
+  "zh": "可靠的",
+  "ex": [
+   "Er ist ein sehr zuverlässiger Mitarbeiter."
+  ],
+  "ex_zh": "他是一位非常可靠的员工。"
+ },
+ {
+  "id": "x039",
+  "lv": "求职",
+  "kind": "noun",
+  "lemma": "Verantwortung",
+  "pos": "n",
+  "zh": "责任",
+  "ex": [
+   "In diesem Projekt hatte ich die Verantwortung für das Backend."
+  ],
+  "ex_zh": "在这个项目里我负责后端。",
+  "art": "die",
+  "pl_full": "die Verantwortungen",
+  "gov": "Verantwortung für + Akk."
+ },
+ {
+  "id": "x040",
+  "lv": "求职",
+  "kind": "verb",
+  "lemma": "zuständig sein",
+  "pos": "v",
+  "zh": "负责（某事）",
+  "ex": [
+   "Wer ist für die Bewerbungen zuständig?"
+  ],
+  "ex_zh": "谁负责处理申请？",
+  "aux": "ist",
+  "p2": "zuständig gewesen",
+  "gov": "zuständig für + Akk."
+ },
+ {
+  "id": "x041",
+  "lv": "求职",
+  "kind": "noun",
+  "lemma": "Ansprechpartner",
+  "pos": "n",
+  "zh": "联系人",
+  "ex": [
+   "Ihr Ansprechpartner ist Herr Schmidt."
+  ],
+  "ex_zh": "您的联系人是施密特先生。",
+  "art": "der",
+  "pl_full": "die Ansprechpartner"
+ },
+ {
+  "id": "x042",
+  "lv": "求职",
+  "kind": "other",
+  "lemma": "Mit freundlichen Grüßen",
+  "pos": "phr",
+  "zh": "此致敬礼（信尾）",
+  "ex": [
+   "Mit freundlichen Grüßen, Zilong Yan"
+  ],
+  "ex_zh": "此致敬礼，Zilong Yan"
+ },
+ {
+  "id": "x043",
+  "lv": "求职",
+  "kind": "other",
+  "lemma": "Sehr geehrte Damen und Herren",
+  "pos": "phr",
+  "zh": "尊敬的女士们先生们",
+  "ex": [
+   "Sehr geehrte Damen und Herren, hiermit bewerbe ich mich …"
+  ],
+  "ex_zh": "尊敬的女士们先生们，我特此申请……"
+ },
+ {
+  "id": "x044",
+  "lv": "求职",
+  "kind": "noun",
+  "lemma": "Agentur für Arbeit",
+  "pos": "n",
+  "zh": "联邦劳动局",
+  "ex": [
+   "Ich habe mich bei der Agentur für Arbeit gemeldet."
+  ],
+  "ex_zh": "我在劳动局做了登记。",
+  "art": "die"
+ },
+ {
+  "id": "x045",
+  "lv": "求职",
+  "kind": "verb",
+  "lemma": "sich arbeitssuchend melden",
+  "pos": "v",
+  "zh": "登记为求职者",
+  "ex": [
+   "Sie müssen sich drei Monate vorher arbeitssuchend melden."
+  ],
+  "ex_zh": "您必须提前三个月登记为求职者。",
+  "aux": "hat",
+  "p2": "gemeldet"
+ },
+ {
+  "id": "x046",
+  "lv": "IT",
+  "kind": "noun",
+  "lemma": "Softwareentwicklung",
+  "pos": "n",
+  "zh": "软件开发",
+  "ex": [
+   "Ich interessiere mich für Softwareentwicklung."
+  ],
+  "ex_zh": "我对软件开发感兴趣。",
+  "art": "die"
+ },
+ {
+  "id": "x047",
+  "lv": "IT",
+  "kind": "noun",
+  "lemma": "Entwickler",
+  "pos": "n",
+  "zh": "开发者",
+  "ex": [
+   "Das Team besteht aus fünf Entwicklern."
+  ],
+  "ex_zh": "团队由五名开发者组成。",
+  "art": "der",
+  "pl_full": "die Entwickler"
+ },
+ {
+  "id": "x048",
+  "lv": "IT",
+  "kind": "noun",
+  "lemma": "Anwendung",
+  "pos": "n",
+  "zh": "应用程序；应用",
+  "ex": [
+   "Wir entwickeln eine Anwendung für Ärzte."
+  ],
+  "ex_zh": "我们为医生开发一个应用。",
+  "art": "die",
+  "pl_full": "die Anwendungen"
+ },
+ {
+  "id": "x049",
+  "lv": "IT",
+  "kind": "noun",
+  "lemma": "Schnittstelle",
+  "pos": "n",
+  "zh": "接口",
+  "ex": [
+   "Die Schnittstelle liefert die Daten im JSON-Format."
+  ],
+  "ex_zh": "该接口以 JSON 格式提供数据。",
+  "art": "die",
+  "pl_full": "die Schnittstellen"
+ },
+ {
+  "id": "x050",
+  "lv": "IT",
+  "kind": "noun",
+  "lemma": "Datenbank",
+  "pos": "n",
+  "zh": "数据库",
+  "ex": [
+   "Die Daten werden in einer Datenbank gespeichert."
+  ],
+  "ex_zh": "数据保存在数据库里。",
+  "art": "die",
+  "pl_full": "die Datenbanken"
+ },
+ {
+  "id": "x051",
+  "lv": "IT",
+  "kind": "verb",
+  "lemma": "speichern",
+  "pos": "v",
+  "zh": "保存；存储",
+  "ex": [
+   "Hast du die Datei gespeichert?"
+  ],
+  "ex_zh": "你保存文件了吗？",
+  "aux": "hat",
+  "p2": "gespeichert"
+ },
+ {
+  "id": "x052",
+  "lv": "IT",
+  "kind": "noun",
+  "lemma": "Datei",
+  "pos": "n",
+  "zh": "文件",
+  "ex": [
+   "Ich schicke dir die Datei per E-Mail."
+  ],
+  "ex_zh": "我把文件用邮件发给你。",
+  "art": "die",
+  "pl_full": "die Dateien"
+ },
+ {
+  "id": "x053",
+  "lv": "IT",
+  "kind": "noun",
+  "lemma": "Fehler",
+  "pos": "n",
+  "zh": "错误；故障",
+  "ex": [
+   "Im Code ist ein Fehler."
+  ],
+  "ex_zh": "代码里有个错误。",
+  "art": "der",
+  "pl_full": "die Fehler"
+ },
+ {
+  "id": "x054",
+  "lv": "IT",
+  "kind": "verb",
+  "lemma": "beheben",
+  "pos": "v",
+  "zh": "排除；修复",
+  "ex": [
+   "Wir haben den Fehler schnell behoben."
+  ],
+  "ex_zh": "我们很快修复了这个错误。",
+  "aux": "hat",
+  "p2": "behoben"
+ },
+ {
+  "id": "x055",
+  "lv": "IT",
+  "kind": "verb",
+  "lemma": "umsetzen",
+  "pos": "v",
+  "zh": "实施；实现",
+  "ex": [
+   "Wir setzen das Projekt in drei Monaten um."
+  ],
+  "ex_zh": "我们在三个月内实施这个项目。",
+  "aux": "hat",
+  "p2": "umgesetzt"
+ },
+ {
+  "id": "x056",
+  "lv": "IT",
+  "kind": "noun",
+  "lemma": "Umsetzung",
+  "pos": "n",
+  "zh": "实施；实现",
+  "ex": [
+   "Die Umsetzung hat länger gedauert als geplant."
+  ],
+  "ex_zh": "实施比计划花了更长时间。",
+  "art": "die",
+  "pl_full": "die Umsetzungen"
+ },
+ {
+  "id": "x057",
+  "lv": "IT",
+  "kind": "verb",
+  "lemma": "entwickeln",
+  "pos": "v",
+  "zh": "开发",
+  "ex": [
+   "Ich habe ein Tool in Python entwickelt."
+  ],
+  "ex_zh": "我用 Python 开发了一个工具。",
+  "aux": "hat",
+  "p2": "entwickelt"
+ },
+ {
+  "id": "x058",
+  "lv": "IT",
+  "kind": "noun",
+  "lemma": "Anforderungsanalyse",
+  "pos": "n",
+  "zh": "需求分析",
+  "ex": [
+   "Am Anfang steht die Anforderungsanalyse."
+  ],
+  "ex_zh": "一开始是需求分析。",
+  "art": "die",
+  "pl_full": "die Anforderungsanalysen"
+ },
+ {
+  "id": "x059",
+  "lv": "IT",
+  "kind": "noun",
+  "lemma": "Benutzeroberfläche",
+  "pos": "n",
+  "zh": "用户界面",
+  "ex": [
+   "Die Benutzeroberfläche ist sehr übersichtlich."
+  ],
+  "ex_zh": "用户界面很清晰。",
+  "art": "die",
+  "pl_full": "die Benutzeroberflächen"
+ },
+ {
+  "id": "x060",
+  "lv": "IT",
+  "kind": "noun",
+  "lemma": "Server",
+  "pos": "n",
+  "zh": "服务器",
+  "ex": [
+   "Der Server läuft wieder."
+  ],
+  "ex_zh": "服务器又正常运行了。",
+  "art": "der",
+  "pl_full": "die Server"
+ },
+ {
+  "id": "x061",
+  "lv": "IT",
+  "kind": "noun",
+  "lemma": "Rechenleistung",
+  "pos": "n",
+  "zh": "算力",
+  "ex": [
+   "Für das Modell braucht man viel Rechenleistung."
+  ],
+  "ex_zh": "这个模型需要大量算力。",
+  "art": "die"
+ },
+ {
+  "id": "x062",
+  "lv": "IT",
+  "kind": "noun",
+  "lemma": "Wissensgraph",
+  "pos": "n",
+  "zh": "知识图谱",
+  "ex": [
+   "Wir bauen einen Wissensgraphen aus Forschungsdaten."
+  ],
+  "ex_zh": "我们用科研数据构建知识图谱。",
+  "art": "der",
+  "pl_full": "die Wissensgraphen"
+ },
+ {
+  "id": "x063",
+  "lv": "IT",
+  "kind": "noun",
+  "lemma": "Künstliche Intelligenz",
+  "pos": "n",
+  "zh": "人工智能",
+  "ex": [
+   "Künstliche Intelligenz verändert viele Berufe."
+  ],
+  "ex_zh": "人工智能正在改变许多职业。",
+  "art": "die"
+ },
+ {
+  "id": "x064",
+  "lv": "IT",
+  "kind": "noun",
+  "lemma": "Sprachmodell",
+  "pos": "n",
+  "zh": "语言模型",
+  "ex": [
+   "Wir testen verschiedene Sprachmodelle."
+  ],
+  "ex_zh": "我们在测试不同的语言模型。",
+  "art": "das",
+  "pl_full": "die Sprachmodelle"
+ },
+ {
+  "id": "x065",
+  "lv": "IT",
+  "kind": "noun",
+  "lemma": "Besprechung",
+  "pos": "n",
+  "zh": "会议；讨论",
+  "ex": [
+   "Die Besprechung beginnt um zehn Uhr."
+  ],
+  "ex_zh": "会议十点开始。",
+  "art": "die",
+  "pl_full": "die Besprechungen"
+ },
+ {
+  "id": "x066",
+  "lv": "IT",
+  "kind": "noun",
+  "lemma": "Rückmeldung",
+  "pos": "n",
+  "zh": "反馈；回复",
+  "ex": [
+   "Ich freue mich auf Ihre Rückmeldung."
+  ],
+  "ex_zh": "期待您的回复。",
+  "art": "die",
+  "pl_full": "die Rückmeldungen"
+ },
+ {
+  "id": "x067",
+  "lv": "IT",
+  "kind": "noun",
+  "lemma": "Ablauf",
+  "pos": "n",
+  "zh": "流程",
+  "ex": [
+   "Können Sie den Ablauf kurz erklären?"
+  ],
+  "ex_zh": "您能简单解释一下流程吗？",
+  "art": "der",
+  "pl_full": "die Abläufe"
+ },
+ {
+  "id": "x068",
+  "lv": "IT",
+  "kind": "noun",
+  "lemma": "Aufgabe",
+  "pos": "n",
+  "zh": "任务；职责",
+  "ex": [
+   "Zu meinen Aufgaben gehörte das Testen."
+  ],
+  "ex_zh": "我的职责包括测试。",
+  "art": "die",
+  "pl_full": "die Aufgaben"
+ },
+ {
+  "id": "x069",
+  "lv": "IT",
+  "kind": "noun",
+  "lemma": "Abteilung",
+  "pos": "n",
+  "zh": "部门",
+  "ex": [
+   "Ich arbeite in der IT-Abteilung."
+  ],
+  "ex_zh": "我在 IT 部门工作。",
+  "art": "die",
+  "pl_full": "die Abteilungen"
+ },
+ {
+  "id": "x070",
+  "lv": "IT",
+  "kind": "verb",
+  "lemma": "einhalten",
+  "pos": "v",
+  "zh": "遵守（期限等）",
+  "ex": [
+   "Wir müssen die Frist unbedingt einhalten."
+  ],
+  "ex_zh": "我们必须严格遵守期限。",
+  "aux": "hat",
+  "p2": "eingehalten"
+ },
+ {
+  "id": "x071",
+  "lv": "IT",
+  "kind": "noun",
+  "lemma": "Homeoffice",
+  "pos": "n",
+  "zh": "居家办公",
+  "ex": [
+   "Zwei Tage pro Woche arbeite ich im Homeoffice."
+  ],
+  "ex_zh": "我每周有两天居家办公。",
+  "art": "das"
+ },
+ {
+  "id": "x072",
+  "lv": "办事",
+  "kind": "noun",
+  "lemma": "Ausländerbehörde",
+  "pos": "n",
+  "zh": "外管局",
+  "ex": [
+   "Ich habe einen Termin bei der Ausländerbehörde."
+  ],
+  "ex_zh": "我在外管局有个预约。",
+  "art": "die",
+  "pl_full": "die Ausländerbehörden"
+ },
+ {
+  "id": "x073",
+  "lv": "办事",
+  "kind": "noun",
+  "lemma": "Aufenthaltstitel",
+  "pos": "n",
+  "zh": "居留许可",
+  "ex": [
+   "Mein Aufenthaltstitel läuft im Dezember ab."
+  ],
+  "ex_zh": "我的居留许可 12 月到期。",
+  "art": "der",
+  "pl_full": "die Aufenthaltstitel"
+ },
+ {
+  "id": "x074",
+  "lv": "办事",
+  "kind": "noun",
+  "lemma": "Aufenthaltserlaubnis",
+  "pos": "n",
+  "zh": "居留许可",
+  "ex": [
+   "Ich brauche eine Aufenthaltserlaubnis zur Arbeitssuche."
+  ],
+  "ex_zh": "我需要一个找工作的居留许可。",
+  "art": "die",
+  "pl_full": "die Aufenthaltserlaubnisse"
+ },
+ {
+  "id": "x075",
+  "lv": "办事",
+  "kind": "noun",
+  "lemma": "Blaue Karte EU",
+  "pos": "n",
+  "zh": "欧盟蓝卡",
+  "ex": [
+   "Mit dem Arbeitsvertrag kann ich die Blaue Karte beantragen."
+  ],
+  "ex_zh": "有了劳动合同我就能申请蓝卡。",
+  "art": "die"
+ },
+ {
+  "id": "x076",
+  "lv": "办事",
+  "kind": "verb",
+  "lemma": "beantragen",
+  "pos": "v",
+  "zh": "申请（办理）",
+  "ex": [
+   "Ich möchte eine Verlängerung beantragen."
+  ],
+  "ex_zh": "我想申请延期。",
+  "aux": "hat",
+  "p2": "beantragt"
+ },
+ {
+  "id": "x077",
+  "lv": "办事",
+  "kind": "noun",
+  "lemma": "Antrag",
+  "pos": "n",
+  "zh": "申请（表）",
+  "ex": [
+   "Haben Sie den Antrag schon ausgefüllt?"
+  ],
+  "ex_zh": "您已经填好申请表了吗？",
+  "art": "der",
+  "pl_full": "die Anträge"
+ },
+ {
+  "id": "x078",
+  "lv": "办事",
+  "kind": "verb",
+  "lemma": "verlängern",
+  "pos": "v",
+  "zh": "延长",
+  "ex": [
+   "Ich muss meinen Pass verlängern lassen."
+  ],
+  "ex_zh": "我得去延长护照。",
+  "aux": "hat",
+  "p2": "verlängert"
+ },
+ {
+  "id": "x079",
+  "lv": "办事",
+  "kind": "noun",
+  "lemma": "Verlängerung",
+  "pos": "n",
+  "zh": "延期",
+  "ex": [
+   "Die Verlängerung kostet 100 Euro."
+  ],
+  "ex_zh": "延期费用 100 欧元。",
+  "art": "die",
+  "pl_full": "die Verlängerungen"
+ },
+ {
+  "id": "x080",
+  "lv": "办事",
+  "kind": "noun",
+  "lemma": "Anmeldung",
+  "pos": "n",
+  "zh": "登记；注册",
+  "ex": [
+   "Für die Anmeldung brauchen Sie die Wohnungsgeberbestätigung."
+  ],
+  "ex_zh": "登记户口需要房东确认书。",
+  "art": "die",
+  "pl_full": "die Anmeldungen"
+ },
+ {
+  "id": "x081",
+  "lv": "办事",
+  "kind": "verb",
+  "lemma": "sich anmelden",
+  "pos": "v",
+  "zh": "登记；报名",
+  "ex": [
+   "Nach dem Umzug muss man sich innerhalb von zwei Wochen anmelden."
+  ],
+  "ex_zh": "搬家后必须在两周内登记。",
+  "aux": "hat",
+  "p2": "angemeldet"
+ },
+ {
+  "id": "x082",
+  "lv": "办事",
+  "kind": "noun",
+  "lemma": "Bürgerbüro",
+  "pos": "n",
+  "zh": "市民办事处",
+  "ex": [
+   "Das Bürgerbüro ist montags geschlossen."
+  ],
+  "ex_zh": "市民办事处周一关门。",
+  "art": "das",
+  "pl_full": "die Bürgerbüros"
+ },
+ {
+  "id": "x083",
+  "lv": "办事",
+  "kind": "noun",
+  "lemma": "Termin",
+  "pos": "n",
+  "zh": "预约；约会",
+  "ex": [
+   "Online kann man einen Termin vereinbaren."
+  ],
+  "ex_zh": "可以在网上预约。",
+  "art": "der",
+  "pl_full": "die Termine"
+ },
+ {
+  "id": "x084",
+  "lv": "办事",
+  "kind": "verb",
+  "lemma": "vereinbaren",
+  "pos": "v",
+  "zh": "约定；商定",
+  "ex": [
+   "Wir haben einen Termin für Dienstag vereinbart."
+  ],
+  "ex_zh": "我们约好了周二。",
+  "aux": "hat",
+  "p2": "vereinbart"
+ },
+ {
+  "id": "x085",
+  "lv": "办事",
+  "kind": "noun",
+  "lemma": "Unterlagen (Pl.)",
+  "pos": "n",
+  "zh": "材料；文件",
+  "ex": [
+   "Bringen Sie bitte alle Unterlagen mit."
+  ],
+  "ex_zh": "请带齐所有材料。",
+  "art": "die"
+ },
+ {
+  "id": "x086",
+  "lv": "办事",
+  "kind": "noun",
+  "lemma": "Nachweis",
+  "pos": "n",
+  "zh": "证明",
+  "ex": [
+   "Sie brauchen einen Nachweis über Ihre Krankenversicherung."
+  ],
+  "ex_zh": "您需要医保证明。",
+  "art": "der",
+  "pl_full": "die Nachweise"
+ },
+ {
+  "id": "x087",
+  "lv": "办事",
+  "kind": "noun",
+  "lemma": "Bescheinigung",
+  "pos": "n",
+  "zh": "证明（书）",
+  "ex": [
+   "Die Uni stellt eine Bescheinigung aus."
+  ],
+  "ex_zh": "大学会开一份证明。",
+  "art": "die",
+  "pl_full": "die Bescheinigungen"
+ },
+ {
+  "id": "x088",
+  "lv": "办事",
+  "kind": "noun",
+  "lemma": "Krankenversicherung",
+  "pos": "n",
+  "zh": "医疗保险",
+  "ex": [
+   "Die Krankenversicherung ist in Deutschland Pflicht."
+  ],
+  "ex_zh": "在德国医疗保险是强制的。",
+  "art": "die",
+  "pl_full": "die Krankenversicherungen"
+ },
+ {
+  "id": "x089",
+  "lv": "办事",
+  "kind": "noun",
+  "lemma": "Steuer",
+  "pos": "n",
+  "zh": "税",
+  "ex": [
+   "Wie viel Steuern zahlst du?"
+  ],
+  "ex_zh": "你交多少税？",
+  "art": "die",
+  "pl_full": "die Steuern"
+ },
+ {
+  "id": "x090",
+  "lv": "办事",
+  "kind": "noun",
+  "lemma": "Steuer-ID",
+  "pos": "n",
+  "zh": "税号",
+  "ex": [
+   "Für den Arbeitgeber brauchen Sie Ihre Steuer-ID."
+  ],
+  "ex_zh": "雇主需要您的税号。",
+  "art": "die"
+ },
+ {
+  "id": "x091",
+  "lv": "办事",
+  "kind": "noun",
+  "lemma": "Steuererklärung",
+  "pos": "n",
+  "zh": "报税",
+  "ex": [
+   "Ich mache meine Steuererklärung mit einer App."
+  ],
+  "ex_zh": "我用 App 报税。",
+  "art": "die",
+  "pl_full": "die Steuererklärungen"
+ },
+ {
+  "id": "x092",
+  "lv": "办事",
+  "kind": "noun",
+  "lemma": "Finanzamt",
+  "pos": "n",
+  "zh": "税务局",
+  "ex": [
+   "Das Finanzamt hat mir Geld zurückgezahlt."
+  ],
+  "ex_zh": "税务局退给我钱了。",
+  "art": "das",
+  "pl_full": "die Finanzämter"
+ },
+ {
+  "id": "x093",
+  "lv": "办事",
+  "kind": "noun",
+  "lemma": "Bescheid",
+  "pos": "n",
+  "zh": "通知；决定书",
+  "ex": [
+   "Ich habe noch keinen Bescheid bekommen."
+  ],
+  "ex_zh": "我还没收到通知。",
+  "art": "der",
+  "pl_full": "die Bescheide"
+ },
+ {
+  "id": "x094",
+  "lv": "办事",
+  "kind": "noun",
+  "lemma": "Frist",
+  "pos": "n",
+  "zh": "期限",
+  "ex": [
+   "Beachten Sie die Frist von vier Wochen."
+  ],
+  "ex_zh": "请注意四周的期限。",
+  "art": "die",
+  "pl_full": "die Fristen"
+ },
+ {
+  "id": "x095",
+  "lv": "办事",
+  "kind": "noun",
+  "lemma": "Formular",
+  "pos": "n",
+  "zh": "表格",
+  "ex": [
+   "Füllen Sie bitte dieses Formular aus."
+  ],
+  "ex_zh": "请填写这张表格。",
+  "art": "das",
+  "pl_full": "die Formulare"
+ },
+ {
+  "id": "x096",
+  "lv": "办事",
+  "kind": "verb",
+  "lemma": "ausfüllen",
+  "pos": "v",
+  "zh": "填写",
+  "ex": [
+   "Ich habe das Formular schon ausgefüllt."
+  ],
+  "ex_zh": "我已经填好表了。",
+  "aux": "hat",
+  "p2": "ausgefüllt"
+ },
+ {
+  "id": "x097",
+  "lv": "办事",
+  "kind": "verb",
+  "lemma": "unterschreiben",
+  "pos": "v",
+  "zh": "签字",
+  "ex": [
+   "Bitte unterschreiben Sie hier."
+  ],
+  "ex_zh": "请在这里签字。",
+  "aux": "hat",
+  "p2": "unterschrieben"
+ },
+ {
+  "id": "x098",
+  "lv": "办事",
+  "kind": "noun",
+  "lemma": "Unterschrift",
+  "pos": "n",
+  "zh": "签名",
+  "ex": [
+   "Hier fehlt noch Ihre Unterschrift."
+  ],
+  "ex_zh": "这里还缺您的签名。",
+  "art": "die",
+  "pl_full": "die Unterschriften"
+ },
+ {
+  "id": "x099",
+  "lv": "办事",
+  "kind": "noun",
+  "lemma": "Wohnsitz",
+  "pos": "n",
+  "zh": "住所",
+  "ex": [
+   "Mein Wohnsitz ist in Konstanz."
+  ],
+  "ex_zh": "我的住所在康斯坦茨。",
+  "art": "der",
+  "pl_full": "die Wohnsitze"
+ },
+ {
+  "id": "x100",
+  "lv": "办事",
+  "kind": "noun",
+  "lemma": "Miete",
+  "pos": "n",
+  "zh": "房租",
+  "ex": [
+   "Die Miete ist am Monatsanfang fällig."
+  ],
+  "ex_zh": "房租在月初到期。",
+  "art": "die",
+  "pl_full": "die Mieten"
+ },
+ {
+  "id": "x101",
+  "lv": "办事",
+  "kind": "noun",
+  "lemma": "Kaution",
+  "pos": "n",
+  "zh": "押金",
+  "ex": [
+   "Die Kaution beträgt drei Monatsmieten."
+  ],
+  "ex_zh": "押金是三个月的房租。",
+  "art": "die",
+  "pl_full": "die Kautionen"
+ },
+ {
+  "id": "x102",
+  "lv": "办事",
+  "kind": "noun",
+  "lemma": "Mietvertrag",
+  "pos": "n",
+  "zh": "租房合同",
+  "ex": [
+   "Der Mietvertrag ist unbefristet."
+  ],
+  "ex_zh": "租房合同是无期限的。",
+  "art": "der",
+  "pl_full": "die Mietverträge"
+ },
+ {
+  "id": "x103",
+  "lv": "办事",
+  "kind": "noun",
+  "lemma": "Nebenkosten (Pl.)",
+  "pos": "n",
+  "zh": "杂费（水电暖等）",
+  "ex": [
+   "Die Nebenkosten sind in der Miete enthalten."
+  ],
+  "ex_zh": "杂费包含在房租里。",
+  "art": "die"
+ },
+ {
+  "id": "x104",
+  "lv": "办事",
+  "kind": "noun",
+  "lemma": "Rundfunkbeitrag",
+  "pos": "n",
+  "zh": "广播电视费",
+  "ex": [
+   "Jede Wohnung zahlt den Rundfunkbeitrag."
+  ],
+  "ex_zh": "每户都要交广播电视费。",
+  "art": "der"
+ },
+ {
+  "id": "x105",
+  "lv": "办事",
+  "kind": "noun",
+  "lemma": "Überweisung",
+  "pos": "n",
+  "zh": "转账",
+  "ex": [
+   "Ich habe die Überweisung gestern gemacht."
+  ],
+  "ex_zh": "我昨天转账了。",
+  "art": "die",
+  "pl_full": "die Überweisungen"
+ },
+ {
+  "id": "x106",
+  "lv": "办事",
+  "kind": "verb",
+  "lemma": "überweisen",
+  "pos": "v",
+  "zh": "转账",
+  "ex": [
+   "Bitte überweisen Sie den Betrag bis Freitag."
+  ],
+  "ex_zh": "请在周五前转账。",
+  "aux": "hat",
+  "p2": "überwiesen"
+ },
+ {
+  "id": "x107",
+  "lv": "办事",
+  "kind": "noun",
+  "lemma": "Konto",
+  "pos": "n",
+  "zh": "账户",
+  "ex": [
+   "Ich möchte ein Konto eröffnen."
+  ],
+  "ex_zh": "我想开个账户。",
+  "art": "das",
+  "pl_full": "die Konten"
+ },
+ {
+  "id": "x108",
+  "lv": "办事",
+  "kind": "noun",
+  "lemma": "Betrag",
+  "pos": "n",
+  "zh": "金额",
+  "ex": [
+   "Der Betrag wird abgebucht."
+  ],
+  "ex_zh": "这笔金额会被扣款。",
+  "art": "der",
+  "pl_full": "die Beträge"
+ },
+ {
+  "id": "x109",
+  "lv": "办事",
+  "kind": "noun",
+  "lemma": "Rechnung",
+  "pos": "n",
+  "zh": "账单；发票",
+  "ex": [
+   "Die Rechnung ist noch nicht bezahlt."
+  ],
+  "ex_zh": "账单还没付。",
+  "art": "die",
+  "pl_full": "die Rechnungen"
+ },
+ {
+  "id": "x110",
+  "lv": "办事",
+  "kind": "noun",
+  "lemma": "Mahnung",
+  "pos": "n",
+  "zh": "催款单",
+  "ex": [
+   "Wenn Sie nicht zahlen, bekommen Sie eine Mahnung."
+  ],
+  "ex_zh": "如果不付款，您会收到催款单。",
+  "art": "die",
+  "pl_full": "die Mahnungen"
+ },
+ {
+  "id": "x111",
+  "lv": "办事",
+  "kind": "noun",
+  "lemma": "Staatsangehörigkeit",
+  "pos": "n",
+  "zh": "国籍",
+  "ex": [
+   "Welche Staatsangehörigkeit haben Sie?"
+  ],
+  "ex_zh": "您是什么国籍？",
+  "art": "die",
+  "pl_full": "die Staatsangehörigkeiten"
+ },
+ {
+  "id": "x112",
+  "lv": "办事",
+  "kind": "noun",
+  "lemma": "Einbürgerung",
+  "pos": "n",
+  "zh": "入籍",
+  "ex": [
+   "Für die Einbürgerung braucht man Deutsch auf B1-Niveau."
+  ],
+  "ex_zh": "入籍需要 B1 德语水平。",
+  "art": "die",
+  "pl_full": "die Einbürgerungen"
+ }
+]

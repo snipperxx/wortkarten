@@ -1,0 +1,6285 @@
+{
+ "w1191": {
+  "en": "inner; internal",
+  "col": [
+   [
+    "innere Verletzungen",
+    "内伤"
+   ],
+   [
+    "die innere Uhr",
+    "生物钟"
+   ],
+   [
+    "innere Medizin",
+    "内科"
+   ]
+  ],
+  "tip": "词干形，实际用 innere/innerer 等；innen 是副词“里面”"
+ },
+ "w1192": {
+  "en": "within; inside",
+  "col": [
+   [
+    "innerhalb einer Woche",
+    "一周之内"
+   ],
+   [
+    "innerhalb der Stadt",
+    "在市内"
+   ]
+  ],
+  "tip": "介词，后接2格；反义 außerhalb（在…之外）"
+ },
+ "w1193": {
+  "en": "island",
+  "col": [
+   [
+    "auf einer Insel",
+    "在岛上"
+   ],
+   [
+    "eine einsame Insel",
+    "一座孤岛"
+   ]
+  ],
+  "tip": "“在岛上”介词用 auf，不用 in"
+ },
+ "w1194": {
+  "en": "(classified) ad",
+  "col": [
+   [
+    "ein Inserat aufgeben",
+    "登广告"
+   ],
+   [
+    "ein Inserat in der Zeitung",
+    "报纸上的广告"
+   ]
+  ],
+  "tip": "同义 Anzeige；Inserat 在奥/瑞更常用"
+ },
+ "w1195": {
+  "en": "in total; altogether",
+  "col": [
+   [
+    "insgesamt 20 Teilnehmer",
+    "一共20位参加者"
+   ],
+   [
+    "insgesamt gesehen",
+    "总的来看"
+   ]
+  ],
+  "tip": "= alles zusammen，句首或句中皆可"
+ },
+ "w1196": {
+  "en": "install",
+  "col": [
+   [
+    "ein Programm installieren",
+    "安装程序"
+   ],
+   [
+    "eine Software installieren",
+    "安装软件"
+   ]
+  ],
+  "tip": "反义 deinstallieren（卸载）"
+ },
+ "w1197": {
+  "en": "institute",
+  "col": [
+   [
+    "am Institut arbeiten",
+    "在研究所工作"
+   ],
+   [
+    "das Goethe-Institut",
+    "歌德学院"
+   ]
+  ]
+ },
+ "w1198": {
+  "en": "instrument",
+  "col": [
+   [
+    "ein Instrument spielen",
+    "演奏乐器"
+   ],
+   [
+    "ein Instrument lernen",
+    "学一种乐器"
+   ]
+  ],
+  "tip": "乐器搭配 spielen；Instrument 也指仪器"
+ },
+ "w1199": {
+  "en": "integrate",
+  "col": [
+   [
+    "sich integrieren",
+    "融入"
+   ],
+   [
+    "in die Gesellschaft integrieren",
+    "融入社会"
+   ],
+   [
+    "gut integriert sein",
+    "融入得好"
+   ]
+  ],
+  "tip": "名词 Integration；常与移民话题连用"
+ },
+ "w1200": {
+  "en": "integration",
+  "col": [
+   [
+    "die Integration von Migranten",
+    "移民融入"
+   ],
+   [
+    "der Integrationskurs",
+    "融入课程"
+   ]
+  ],
+  "tip": "德国移民政策的核心词，Integrationskurs 含德语课"
+ },
+ "w1201": {
+  "en": "intelligent",
+  "col": [
+   [
+    "ein intelligenter Mensch",
+    "聪明的人"
+   ],
+   [
+    "intelligent sein",
+    "聪明"
+   ]
+  ],
+  "tip": "口语常用 klug/schlau"
+ },
+ "w1202": {
+  "en": "intelligence",
+  "col": [
+   [
+    "hohe Intelligenz",
+    "高智商"
+   ],
+   [
+    "künstliche Intelligenz",
+    "人工智能"
+   ],
+   [
+    "der Intelligenztest",
+    "智商测试"
+   ]
+  ],
+  "tip": "künstliche Intelligenz 缩写 KI（英语 AI）"
+ },
+ "w1203": {
+  "en": "intensive",
+  "col": [
+   [
+    "intensiv lernen",
+    "高强度地学习"
+   ],
+   [
+    "ein intensiver Kurs",
+    "强化课程"
+   ]
+  ]
+ },
+ "w1204": {
+  "en": "intensive course",
+  "col": [
+   [
+    "einen Intensivkurs machen",
+    "上强化班"
+   ],
+   [
+    "der Intensivkurs Deutsch",
+    "德语强化班"
+   ]
+  ],
+  "tip": "intensiv + Kurs；复数 Intensivkurse"
+ },
+ "w1205": {
+  "en": "interest",
+  "senses": [
+   "使感兴趣",
+   "sich interessieren für：对…感兴趣"
+  ],
+  "col": [
+   [
+    "Das interessiert mich.",
+    "我对这个感兴趣"
+   ],
+   [
+    "sich für Musik interessieren",
+    "对音乐感兴趣"
+   ]
+  ],
+  "tip": "sich interessieren für + 4格"
+ },
+ "w1206": {
+  "en": "interesting",
+  "col": [
+   [
+    "ein interessantes Buch",
+    "有趣的书"
+   ],
+   [
+    "Das klingt interessant.",
+    "听起来很有意思"
+   ]
+  ],
+  "tip": "interessant（有趣的）≠ interessiert（感兴趣的）"
+ },
+ "w1207": {
+  "en": "interest",
+  "col": [
+   [
+    "Interesse an etwas haben",
+    "对某事感兴趣"
+   ],
+   [
+    "Interesse für Sport",
+    "对运动的兴趣"
+   ],
+   [
+    "im Interesse von ...",
+    "为了…的利益"
+   ]
+  ],
+  "tip": "后接 an + 3格 或 für + 4格；复数 Interessen 指爱好"
+ },
+ "w1208": {
+  "en": "interested",
+  "col": [
+   [
+    "an etwas interessiert sein",
+    "对某事感兴趣"
+   ],
+   [
+    "Sind Sie interessiert?",
+    "您有兴趣吗？"
+   ]
+  ],
+  "tip": "interessiert 是人，interessant 是事物"
+ },
+ "w1209": {
+  "en": "intercultural",
+  "col": [
+   [
+    "interkulturelles Training",
+    "跨文化培训"
+   ],
+   [
+    "interkulturelle Kommunikation",
+    "跨文化交际"
+   ]
+  ]
+ },
+ "w1210": {
+  "en": "international",
+  "col": [
+   [
+    "international bekannt",
+    "国际知名"
+   ],
+   [
+    "ein internationales Team",
+    "国际化团队"
+   ]
+  ]
+ },
+ "w1211": {
+  "en": "interview",
+  "col": [
+   [
+    "ein Interview geben",
+    "接受采访"
+   ],
+   [
+    "ein Interview führen",
+    "进行采访"
+   ]
+  ],
+  "tip": "重音在第一音节：Ínterview；也指面试"
+ },
+ "w1212": {
+  "en": "meanwhile; by now",
+  "col": [
+   [
+    "Inzwischen ist er 30.",
+    "他现在已经30岁了"
+   ],
+   [
+    "Warten Sie bitte inzwischen hier.",
+    "请您在此期间在这里等一下"
+   ]
+  ],
+  "tip": "同 mittlerweile；兼有“期间”和“如今已经”两义"
+ },
+ "w1213": {
+  "en": "any; some",
+  "senses": [
+   "任何一个（无所谓）",
+   "某个（不确定）"
+  ],
+  "col": [
+   [
+    "irgendein Buch",
+    "随便一本书"
+   ],
+   [
+    "irgendeine Lösung",
+    "某种解决办法"
+   ]
+  ],
+  "tip": "词尾变化同 ein；复数用 irgendwelche"
+ },
+ "w1214": {
+  "en": "sometime; at some point",
+  "col": [
+   [
+    "irgendwann einmal",
+    "总有一天"
+   ],
+   [
+    "Wir sehen uns irgendwann.",
+    "我们哪天再见"
+   ]
+  ],
+  "tip": "irgend- 系列：irgendwo/irgendwie/irgendwer"
+ },
+ "w1215": {
+  "en": "be mistaken",
+  "col": [
+   [
+    "Du irrst dich.",
+    "你搞错了"
+   ],
+   [
+    "Wenn ich mich nicht irre, ...",
+    "如果我没记错的话…"
+   ],
+   [
+    "sich in der Zeit irren",
+    "弄错时间"
+   ]
+  ],
+  "tip": "反身动词，完成时 hat sich geirrt"
+ },
+ "w1216": {
+  "en": "yes; (particle)",
+  "senses": [
+   "是；对",
+   "（语气词）可是；你知道的"
+  ],
+  "col": [
+   [
+    "Ja, bitte.",
+    "好的 / 请说"
+   ],
+   [
+    "Das ist ja toll!",
+    "这可真棒！"
+   ],
+   [
+    "Sie wissen ja, ...",
+    "您是知道的…"
+   ]
+  ],
+  "tip": "对否定问句的肯定回答要用 doch，不是 ja"
+ },
+ "w1217": {
+  "en": "jacket",
+  "col": [
+   [
+    "eine Jacke anziehen",
+    "穿上夹克"
+   ],
+   [
+    "eine warme Jacke",
+    "一件暖和的外套"
+   ]
+  ],
+  "tip": "Jacke 夹克/短外套；Mantel 长大衣"
+ },
+ "w1218": {
+  "en": "snack (Austria)",
+  "col": [
+   [
+    "eine Jause machen",
+    "吃点心"
+   ],
+   [
+    "zur Jause",
+    "加餐时"
+   ]
+  ],
+  "tip": "奥地利用语；德国说 Imbiss，瑞士 Znüni/Zvieri"
+ },
+ "w1219": {
+  "en": "each; per; ever",
+  "senses": [
+   "每；各",
+   "（je nach）根据",
+   "（je…desto）越…越…"
+  ],
+  "col": [
+   [
+    "je nach Wetter",
+    "视天气而定"
+   ],
+   [
+    "je zwei Stück",
+    "每两件"
+   ],
+   [
+    "je ... desto ...",
+    "越…越…"
+   ]
+  ],
+  "tip": "je nach + 3格 = 视…而定"
+ },
+ "w1220": {
+  "en": "the ... the ...",
+  "col": [
+   [
+    "je mehr, desto besser",
+    "越多越好"
+   ],
+   [
+    "Je älter ich werde, desto ruhiger werde ich.",
+    "我越老越平静"
+   ]
+  ],
+  "tip": "je 从句动词在句末；desto 后接比较级"
+ },
+ "w1221": {
+  "en": "jeans",
+  "col": [
+   [
+    "eine Jeans tragen",
+    "穿牛仔裤"
+   ],
+   [
+    "eine enge Jeans",
+    "紧身牛仔裤"
+   ]
+  ],
+  "tip": "单复数同形 die Jeans；一条也说 eine Jeans"
+ },
+ "w1222": {
+  "en": "every; each",
+  "col": [
+   [
+    "jeden Tag",
+    "每天"
+   ],
+   [
+    "jeder von uns",
+    "我们每个人"
+   ],
+   [
+    "jedes Mal",
+    "每次"
+   ]
+  ],
+  "tip": "词尾变化同 dieser；只用单数"
+ },
+ "w1223": {
+  "en": "at any time",
+  "col": [
+   [
+    "jederzeit erreichbar",
+    "随时联系得上"
+   ],
+   [
+    "Sie können jederzeit kommen.",
+    "您随时可以来"
+   ]
+  ]
+ },
+ "w1224": {
+  "en": "every time",
+  "col": [
+   [
+    "jedes Mal, wenn ...",
+    "每次…的时候"
+   ],
+   [
+    "fast jedes Mal",
+    "几乎每次"
+   ]
+  ],
+  "tip": "也可写作 jedesmal；分写时 Mal 大写"
+ },
+ "w1225": {
+  "en": "however",
+  "col": [
+   [
+    "..., jedoch ohne Erfolg",
+    "但没有成功"
+   ],
+   [
+    "Er kam jedoch nicht.",
+    "但他没来"
+   ]
+  ],
+  "tip": "= aber/doch，较书面；可放在句中"
+ },
+ "w1226": {
+  "en": "ever",
+  "col": [
+   [
+    "Hast du das jemals gesehen?",
+    "你见过这个吗？"
+   ],
+   [
+    "Wenn du jemals Zeit hast ...",
+    "如果你哪天有时间…"
+   ]
+  ],
+  "tip": "多用于疑问、条件句；反义 niemals"
+ },
+ "w1227": {
+  "en": "someone; anyone",
+  "col": [
+   [
+    "Ist jemand da?",
+    "有人在吗？"
+   ],
+   [
+    "jemand anderes",
+    "别的人"
+   ],
+   [
+    "mit jemandem sprechen",
+    "和某人说话"
+   ]
+  ],
+  "tip": "变格：jemanden(4)、jemandem(3)；反义 niemand"
+ },
+ "w1228": {
+  "en": "now",
+  "col": [
+   [
+    "bis jetzt",
+    "到现在为止"
+   ],
+   [
+    "von jetzt an",
+    "从现在起"
+   ],
+   [
+    "jetzt gleich",
+    "马上"
+   ]
+  ],
+  "tip": "jetzt 说话此刻；gleich 稍后马上"
+ },
+ "w1229": {
+  "en": "each time; respectively",
+  "col": [
+   [
+    "jeweils montags",
+    "每个周一"
+   ],
+   [
+    "jeweils zwei Personen",
+    "每次两人"
+   ]
+  ],
+  "tip": "表“各自/每次”，常与数量、日期连用"
+ },
+ "w1230": {
+  "en": "journalist (m.)",
+  "col": [
+   [
+    "als Journalist arbeiten",
+    "当记者"
+   ],
+   [
+    "Journalist werden",
+    "成为记者"
+   ]
+  ],
+  "tip": "n-变化：den Journalisten；阴性 Journalistin"
+ },
+ "w1231": {
+  "en": "journalist (f.)",
+  "col": [
+   [
+    "Journalistin werden",
+    "成为记者"
+   ],
+   [
+    "eine bekannte Journalistin",
+    "知名女记者"
+   ]
+  ],
+  "tip": "复数 Journalistinnen"
+ },
+ "w1232": {
+  "en": "youth",
+  "col": [
+   [
+    "in meiner Jugend",
+    "在我年轻时"
+   ],
+   [
+    "die Jugend von heute",
+    "当今青年"
+   ]
+  ],
+  "tip": "指青春时期或青年群体；形容词 jugendlich"
+ },
+ "w1233": {
+  "en": "teenager; young person",
+  "col": [
+   [
+    "Kinder und Jugendliche",
+    "儿童和青少年"
+   ],
+   [
+    "ein Jugendlicher",
+    "一名青少年"
+   ]
+  ],
+  "tip": "形容词变化名词：der / ein Jugendlicher"
+ },
+ "w1234": {
+  "en": "youth hostel",
+  "col": [
+   [
+    "in der Jugendherberge übernachten",
+    "住在青年旅舍"
+   ],
+   [
+    "eine Jugendherberge buchen",
+    "订青旅"
+   ]
+  ],
+  "tip": "德国青旅价格低，常用于旅行和班级出游"
+ },
+ "w1235": {
+  "en": "young",
+  "col": [
+   [
+    "jung aussehen",
+    "看起来年轻"
+   ],
+   [
+    "jung und alt",
+    "老老少少"
+   ],
+   [
+    "von jung auf",
+    "从小"
+   ]
+  ],
+  "tip": "比较级 jünger（带变音）"
+ },
+ "w1236": {
+  "en": "boy",
+  "col": [
+   [
+    "ein kleiner Junge",
+    "小男孩"
+   ],
+   [
+    "Jungen und Mädchen",
+    "男孩和女孩"
+   ]
+  ],
+  "tip": "n-变化：den Jungen；奥/瑞说 Bub"
+ },
+ "w1237": {
+  "en": "cable",
+  "col": [
+   [
+    "ein Kabel anschließen",
+    "接线"
+   ],
+   [
+    "das Kabelfernsehen",
+    "有线电视"
+   ]
+  ]
+ },
+ "w1238": {
+  "en": "cabin; booth",
+  "senses": [
+   "（更衣、投票等）小隔间",
+   "（船、飞机）客舱"
+  ],
+  "col": [
+   [
+    "die Umkleidekabine",
+    "更衣室"
+   ],
+   [
+    "die Wahlkabine",
+    "投票亭"
+   ]
+  ],
+  "tip": "指小隔间；船舱/客舱也叫 Kabine"
+ },
+ "w1239": {
+  "en": "coffee",
+  "col": [
+   [
+    "Kaffee kochen",
+    "煮咖啡"
+   ],
+   [
+    "Kaffee mit Milch",
+    "加奶咖啡"
+   ],
+   [
+    "Kaffee und Kuchen",
+    "咖啡加蛋糕（下午茶）"
+   ]
+  ],
+  "tip": "也指下午的咖啡时间"
+ },
+ "w1240": {
+  "en": "café (Austria)",
+  "col": [
+   [
+    "ins Kaffeehaus gehen",
+    "去咖啡馆"
+   ],
+   [
+    "das Wiener Kaffeehaus",
+    "维也纳咖啡馆"
+   ]
+  ],
+  "tip": "奥地利特色；德国日常多说 Café"
+ },
+ "w1241": {
+  "en": "cocoa",
+  "col": [
+   [
+    "heißer Kakao",
+    "热可可"
+   ],
+   [
+    "ein Glas Kakao",
+    "一杯可可"
+   ]
+  ]
+ },
+ "w1242": {
+  "en": "calendar",
+  "col": [
+   [
+    "einen Termin im Kalender eintragen",
+    "把约会记在日历上"
+   ],
+   [
+    "der Wandkalender",
+    "挂历"
+   ]
+  ],
+  "tip": "也指日程本"
+ },
+ "w1243": {
+  "en": "cold",
+  "col": [
+   [
+    "Mir ist kalt.",
+    "我觉得冷"
+   ],
+   [
+    "Es ist kalt.",
+    "天气冷"
+   ],
+   [
+    "kaltes Wasser",
+    "冷水"
+   ]
+  ],
+  "tip": "比较级 kälter；说“我冷”用 Mir ist kalt（3格）"
+ },
+ "w1244": {
+  "en": "cold(ness)",
+  "col": [
+   [
+    "bei dieser Kälte",
+    "在这么冷的天气"
+   ],
+   [
+    "die Kälte spüren",
+    "感到寒冷"
+   ]
+  ],
+  "tip": "kalt → Kälte（带变音）"
+ },
+ "w1245": {
+  "en": "camera",
+  "col": [
+   [
+    "mit der Kamera filmen",
+    "用摄像机拍摄"
+   ],
+   [
+    "eine digitale Kamera",
+    "数码相机"
+   ]
+  ],
+  "tip": "照相机也叫 Fotoapparat"
+ },
+ "w1246": {
+  "en": "fight",
+  "col": [
+   [
+    "für etwas kämpfen",
+    "为某事奋斗"
+   ],
+   [
+    "gegen etwas kämpfen",
+    "与某事斗争"
+   ],
+   [
+    "um den Sieg kämpfen",
+    "争夺胜利"
+   ]
+  ],
+  "tip": "介词 für/gegen/um 都可接"
+ },
+ "w1247": {
+  "en": "fight; struggle",
+  "col": [
+   [
+    "der Kampf um Rechte",
+    "争取权利的斗争"
+   ],
+   [
+    "der Kampf gegen Armut",
+    "反贫困斗争"
+   ]
+  ],
+  "tip": "Kampf um 争取，Kampf gegen 对抗"
+ },
+ "w1248": {
+  "en": "channel; canal",
+  "senses": [
+   "电视频道",
+   "运河；水渠"
+  ],
+  "col": [
+   [
+    "den Kanal wechseln",
+    "换台"
+   ],
+   [
+    "der Ärmelkanal",
+    "英吉利海峡"
+   ]
+  ],
+  "tip": "复数 Kanäle；电视台也叫 Sender"
+ },
+ "w1249": {
+  "en": "candidate",
+  "col": [
+   [
+    "ein Kandidat für die Wahl",
+    "选举候选人"
+   ],
+   [
+    "Kandidaten aufstellen",
+    "提名候选人"
+   ]
+  ],
+  "tip": "n-变化：den Kandidaten；阴性 Kandidatin"
+ },
+ "w1250": {
+  "en": "pot; jug",
+  "col": [
+   [
+    "eine Kanne Tee",
+    "一壶茶"
+   ],
+   [
+    "die Kaffeekanne",
+    "咖啡壶"
+   ]
+  ]
+ },
+ "w1251": {
+  "en": "canteen",
+  "col": [
+   [
+    "in der Kantine essen",
+    "在食堂吃饭"
+   ],
+   [
+    "die Betriebskantine",
+    "公司食堂"
+   ]
+  ],
+  "tip": "公司/机构食堂；大学食堂叫 Mensa"
+ },
+ "w1252": {
+  "en": "chapter",
+  "col": [
+   [
+    "ein Kapitel lesen",
+    "读一章"
+   ],
+   [
+    "im ersten Kapitel",
+    "在第一章"
+   ]
+  ]
+ },
+ "w1253": {
+  "en": "broken; exhausted",
+  "senses": [
+   "坏了",
+   "（口语）累坏了"
+  ],
+  "col": [
+   [
+    "Das Auto ist kaputt.",
+    "车坏了"
+   ],
+   [
+    "Ich bin total kaputt.",
+    "我累极了"
+   ]
+  ],
+  "tip": "口语；正式场合说 defekt"
+ },
+ "w1254": {
+  "en": "break; stop working",
+  "col": [
+   [
+    "Die Uhr geht kaputt.",
+    "表坏了"
+   ],
+   [
+    "leicht kaputtgehen",
+    "容易坏"
+   ]
+  ],
+  "tip": "可分：geht kaputt；完成时 ist kaputtgegangen"
+ },
+ "w1255": {
+  "en": "break; destroy",
+  "col": [
+   [
+    "etwas kaputtmachen",
+    "弄坏某物"
+   ],
+   [
+    "Wer hat das kaputtgemacht?",
+    "谁弄坏的？"
+   ]
+  ],
+  "tip": "可分；kaputtgehen 自己坏，kaputtmachen 被弄坏"
+ },
+ "w1256": {
+  "en": "carnival",
+  "col": [
+   [
+    "Karneval feiern",
+    "过狂欢节"
+   ],
+   [
+    "das Karnevalskostüm",
+    "狂欢节服装"
+   ]
+  ],
+  "tip": "南德/奥地利说 Fasching，瑞士 Fasnacht"
+ },
+ "w1257": {
+  "en": "carrot",
+  "col": [
+   [
+    "Karotten schälen",
+    "削胡萝卜皮"
+   ],
+   [
+    "Karotten raspeln",
+    "胡萝卜擦丝"
+   ]
+  ],
+  "tip": "德国常说 Möhre，瑞士 Rüebli"
+ },
+ "w1258": {
+  "en": "career",
+  "col": [
+   [
+    "Karriere machen",
+    "事业有成"
+   ],
+   [
+    "eine steile Karriere",
+    "平步青云的事业"
+   ]
+  ],
+  "tip": "重音在 -ière；强调晋升，Beruf 才是职业"
+ },
+ "w1259": {
+  "en": "card; ticket; menu",
+  "senses": [
+   "卡片；明信片",
+   "票",
+   "菜单",
+   "扑克牌"
+  ],
+  "col": [
+   [
+    "eine Karte schreiben",
+    "写明信片"
+   ],
+   [
+    "Karten spielen",
+    "打牌"
+   ],
+   [
+    "die Speisekarte",
+    "菜单"
+   ]
+  ],
+  "tip": "Eintrittskarte 门票、Landkarte 地图"
+ },
+ "w1260": {
+  "en": "chip card",
+  "col": [
+   [
+    "eine Chipkarte einlegen",
+    "插入芯片卡"
+   ],
+   [
+    "mit Chipkarte bezahlen",
+    "用芯片卡支付"
+   ]
+  ]
+ },
+ "w1261": {
+  "en": "potato",
+  "col": [
+   [
+    "Kartoffeln schälen",
+    "削土豆皮"
+   ],
+   [
+    "Bratkartoffeln",
+    "煎土豆"
+   ],
+   [
+    "der Kartoffelsalat",
+    "土豆沙拉"
+   ]
+  ],
+  "tip": "奥地利也说 Erdapfel"
+ },
+ "w1262": {
+  "en": "cheese",
+  "col": [
+   [
+    "ein Stück Käse",
+    "一块奶酪"
+   ],
+   [
+    "das Käsebrot",
+    "奶酪面包"
+   ]
+  ],
+  "tip": "ä 读 [ɛː]；各种奶酪 Käsesorten"
+ },
+ "w1263": {
+  "en": "checkout; cash desk",
+  "senses": [
+   "收银台；结账处",
+   "售票处",
+   "（口语）医保公司"
+  ],
+  "col": [
+   [
+    "an der Kasse bezahlen",
+    "在收银台付款"
+   ],
+   [
+    "die Kasse im Kino",
+    "电影院售票处"
+   ]
+  ],
+  "tip": "Kasse 也是 Krankenkasse 的口语简称"
+ },
+ "w1264": {
+  "en": "cassette",
+  "col": [
+   [
+    "eine Kassette abspielen",
+    "播放磁带"
+   ],
+   [
+    "der Kassettenrekorder",
+    "盒式录音机"
+   ]
+  ],
+  "tip": "老式磁带，现多说 CD / Streaming"
+ },
+ "w1265": {
+  "en": "box; crate",
+  "col": [
+   [
+    "ein Kasten Bier",
+    "一箱啤酒"
+   ],
+   [
+    "der Briefkasten",
+    "信箱"
+   ]
+  ],
+  "tip": "复数 Kästen；奥地利说 Kiste"
+ },
+ "w1266": {
+  "en": "catalogue",
+  "col": [
+   [
+    "etwas aus dem Katalog bestellen",
+    "从目录册订购"
+   ],
+   [
+    "der Katalog der Bibliothek",
+    "图书馆目录"
+   ]
+  ]
+ },
+ "w1267": {
+  "en": "disaster",
+  "col": [
+   [
+    "die Naturkatastrophe",
+    "自然灾害"
+   ],
+   [
+    "Das ist eine Katastrophe!",
+    "这真是场灾难！"
+   ]
+  ],
+  "tip": "口语常夸张，表“糟透了”"
+ },
+ "w1268": {
+  "en": "purchase",
+  "col": [
+   [
+    "ein guter Kauf",
+    "划算的买卖"
+   ],
+   [
+    "beim Kauf",
+    "购买时"
+   ],
+   [
+    "etwas in Kauf nehmen",
+    "接受某不利之事"
+   ]
+  ],
+  "tip": "动词 kaufen；Verkauf 是卖"
+ },
+ "w1269": {
+  "en": "buyer",
+  "col": [
+   [
+    "einen Käufer finden",
+    "找到买家"
+   ],
+   [
+    "Käufer und Verkäufer",
+    "买方和卖方"
+   ]
+  ],
+  "tip": "阴性 Käuferin；对立词 Verkäufer"
+ },
+ "w1270": {
+  "en": "hardly; barely",
+  "col": [
+   [
+    "kaum möglich",
+    "几乎不可能"
+   ],
+   [
+    "kaum noch",
+    "几乎不再"
+   ],
+   [
+    "Ich kann kaum atmen.",
+    "我几乎无法呼吸"
+   ]
+  ],
+  "tip": "本身带否定意味，不再加 nicht"
+ },
+ "w1271": {
+  "en": "no; not a",
+  "col": [
+   [
+    "keine Zeit haben",
+    "没有时间"
+   ],
+   [
+    "kein Problem",
+    "没问题"
+   ],
+   [
+    "keinen Hunger haben",
+    "不饿"
+   ]
+  ],
+  "tip": "否定名词用 kein，否定动词/形容词用 nicht"
+ },
+ "w1272": {
+  "en": "cellar; basement",
+  "col": [
+   [
+    "im Keller",
+    "在地下室"
+   ],
+   [
+    "der Weinkeller",
+    "酒窖"
+   ]
+  ],
+  "tip": "复数 Keller 同形；一楼是 Erdgeschoss"
+ },
+ "w1273": {
+  "en": "waiter",
+  "col": [
+   [
+    "als Kellner arbeiten",
+    "当服务员"
+   ],
+   [
+    "Der Kellner bringt die Rechnung.",
+    "服务员送来账单"
+   ]
+  ],
+  "tip": "阴性 Kellnerin；招呼时说 Entschuldigung"
+ },
+ "w1274": {},
+ "w1275": {
+  "en": "know (be acquainted with)",
+  "col": [
+   [
+    "jemanden kennen",
+    "认识某人"
+   ],
+   [
+    "sich gut kennen",
+    "彼此很熟"
+   ],
+   [
+    "eine Stadt kennen",
+    "熟悉一座城市"
+   ]
+  ],
+  "tip": "kennen 认识/熟悉；wissen 知道事实。kannte, gekannt"
+ },
+ "w1276": {
+  "en": "get to know; meet",
+  "col": [
+   [
+    "jemanden kennenlernen",
+    "认识某人"
+   ],
+   [
+    "Freut mich, Sie kennenzulernen.",
+    "很高兴认识您"
+   ],
+   [
+    "sich kennenlernen",
+    "彼此认识"
+   ]
+  ],
+  "tip": "可分：lernt … kennen；强调“认识的开始”"
+ },
+ "w1277": {
+  "en": "knowledge; skills",
+  "col": [
+   [
+    "Deutschkenntnisse",
+    "德语水平"
+   ],
+   [
+    "gute Kenntnisse in Englisch",
+    "良好的英语知识"
+   ],
+   [
+    "Kenntnisse erwerben",
+    "获得知识"
+   ]
+  ],
+  "tip": "常用复数；简历常见词"
+ },
+ "w1278": {
+  "en": "license plate; mark",
+  "col": [
+   [
+    "das Autokennzeichen",
+    "车牌"
+   ],
+   [
+    "besondere Kennzeichen",
+    "特殊标记"
+   ]
+  ],
+  "tip": "车牌也说 Nummernschild"
+ },
+ "w1279": {
+  "en": "candle",
+  "col": [
+   [
+    "eine Kerze anzünden",
+    "点蜡烛"
+   ],
+   [
+    "Kerzen ausblasen",
+    "吹灭蜡烛"
+   ]
+  ]
+ },
+ "w1280": {
+  "en": "chain; necklace",
+  "senses": [
+   "链子",
+   "项链"
+  ],
+  "col": [
+   [
+    "eine Kette tragen",
+    "戴项链"
+   ],
+   [
+    "die Fahrradkette",
+    "自行车链条"
+   ]
+  ]
+ },
+ "w1281": {
+  "en": "child",
+  "col": [
+   [
+    "ein Kind bekommen",
+    "生孩子"
+   ],
+   [
+    "Kinder erziehen",
+    "教养孩子"
+   ],
+   [
+    "von Kind an",
+    "从小"
+   ]
+  ],
+  "tip": "复数 Kinder（-er）"
+ },
+ "w1282": {
+  "en": "kindergarten",
+  "col": [
+   [
+    "in den Kindergarten gehen",
+    "上幼儿园"
+   ],
+   [
+    "ein Platz im Kindergarten",
+    "幼儿园名额"
+   ]
+  ],
+  "tip": "收3–6岁儿童；复数 Kindergärten"
+ },
+ "w1283": {
+  "en": "childhood",
+  "col": [
+   [
+    "in meiner Kindheit",
+    "在我的童年时"
+   ],
+   [
+    "eine glückliche Kindheit",
+    "幸福的童年"
+   ]
+  ]
+ },
+ "w1284": {
+  "en": "cinema",
+  "col": [
+   [
+    "ins Kino gehen",
+    "去看电影"
+   ],
+   [
+    "im Kino",
+    "在电影院"
+   ]
+  ],
+  "tip": "ins Kino 去，im Kino 在"
+ },
+ "w1285": {
+  "en": "kiosk",
+  "col": [
+   [
+    "am Kiosk Zeitungen kaufen",
+    "在报摊买报纸"
+   ],
+   [
+    "der Kiosk an der Ecke",
+    "街角小卖亭"
+   ]
+  ]
+ },
+ "w1286": {
+  "en": "church",
+  "col": [
+   [
+    "in die Kirche gehen",
+    "去教堂"
+   ],
+   [
+    "eine evangelische Kirche",
+    "新教教堂"
+   ]
+  ],
+  "tip": "Kirchensteuer 是德国的教会税"
+ },
+ "w1287": {
+  "en": "box; crate",
+  "col": [
+   [
+    "eine Kiste Wein",
+    "一箱酒"
+   ],
+   [
+    "Kisten packen",
+    "打包箱子"
+   ]
+  ],
+  "tip": "木箱/纸箱；德国饮料箱说 Kasten"
+ },
+ "w1288": {
+  "en": "pillow; cushion",
+  "col": [
+   [
+    "ein Kissen aufs Sofa legen",
+    "把靠垫放在沙发上"
+   ],
+   [
+    "das Kopfkissen",
+    "枕头"
+   ]
+  ]
+ },
+ "w1289": {
+  "en": "complain; sue",
+  "senses": [
+   "抱怨",
+   "起诉"
+  ],
+  "col": [
+   [
+    "über etwas klagen",
+    "抱怨某事"
+   ],
+   [
+    "gegen jemanden klagen",
+    "起诉某人"
+   ]
+  ],
+  "tip": "klagen über 抱怨，klagen gegen 起诉"
+ },
+ "w1290": {
+  "en": "work out; succeed",
+  "senses": [
+   "（口语）顺利；成功",
+   "折起；翻"
+  ],
+  "col": [
+   [
+    "Das hat geklappt.",
+    "成功了"
+   ],
+   [
+    "Es klappt nicht.",
+    "行不通"
+   ],
+   [
+    "Hat alles geklappt?",
+    "一切顺利吗？"
+   ]
+  ],
+  "tip": "口语，主语常是 es/das"
+ },
+ "w1291": {
+  "en": "clear; of course",
+  "senses": [
+   "清楚的；清澈的",
+   "（口语）当然"
+  ],
+  "col": [
+   [
+    "Alles klar!",
+    "明白了！/ 一切OK"
+   ],
+   [
+    "Ist das klar?",
+    "清楚了吗？"
+   ],
+   [
+    "klar und deutlich",
+    "清楚明了"
+   ]
+  ],
+  "tip": "口语单说 Klar! = 当然"
+ },
+ "w1292": {
+  "en": "clarify; settle",
+  "col": [
+   [
+    "eine Frage klären",
+    "弄清问题"
+   ],
+   [
+    "Das muss geklärt werden.",
+    "这必须弄清楚"
+   ]
+  ],
+  "tip": "klar 的动词形式"
+ },
+ "w1293": {
+  "en": "great; super",
+  "col": [
+   [
+    "Das ist klasse!",
+    "太棒了！"
+   ],
+   [
+    "klasse aussehen",
+    "看起来很棒"
+   ]
+  ],
+  "tip": "口语，不变词尾；名词 Klasse 是班级/等级"
+ },
+ "w1294": {
+  "en": "class test",
+  "col": [
+   [
+    "eine Klassenarbeit schreiben",
+    "考一场课堂测验"
+   ],
+   [
+    "die Klassenarbeit zurückbekommen",
+    "拿回试卷"
+   ]
+  ],
+  "tip": "德国中小学用语；奥地利叫 Schularbeit"
+ },
+ "w1295": {
+  "en": "piano",
+  "col": [
+   [
+    "Klavier spielen",
+    "弹钢琴"
+   ],
+   [
+    "Klavierunterricht nehmen",
+    "上钢琴课"
+   ]
+  ],
+  "tip": "乐器前不加冠词"
+ },
+ "w1296": {
+  "en": "stick; glue",
+  "senses": [
+   "粘贴（及物）",
+   "粘着（不及物）"
+  ],
+  "col": [
+   [
+    "eine Briefmarke aufkleben",
+    "贴邮票"
+   ],
+   [
+    "etwas an die Wand kleben",
+    "把东西贴在墙上"
+   ]
+  ],
+  "tip": "Kleber 是胶水"
+ },
+ "w1297": {
+  "en": "dress",
+  "col": [
+   [
+    "ein Kleid anziehen",
+    "穿连衣裙"
+   ],
+   [
+    "ein elegantes Kleid",
+    "优雅的连衣裙"
+   ]
+  ],
+  "tip": "单数 Kleid 是连衣裙；复数 Kleider 也可泛指衣服"
+ },
+ "w1298": {
+  "en": "clothing",
+  "col": [
+   [
+    "Kleidung kaufen",
+    "买衣服"
+   ],
+   [
+    "die Kleidung wechseln",
+    "换衣服"
+   ],
+   [
+    "warme Kleidung",
+    "保暖衣物"
+   ]
+  ],
+  "tip": "不可数名词，无复数"
+ },
+ "w1299": {
+  "en": "small",
+  "col": [
+   [
+    "ein kleines Kind",
+    "小孩"
+   ],
+   [
+    "klein anfangen",
+    "从小处起步"
+   ],
+   [
+    "Klein, aber fein.",
+    "小而精"
+   ]
+  ],
+  "tip": "比较级 kleiner；反义 groß"
+ },
+ "w1300": {
+  "en": "climb",
+  "col": [
+   [
+    "auf einen Baum klettern",
+    "爬树"
+   ],
+   [
+    "klettern gehen",
+    "去攀岩"
+   ]
+  ],
+  "tip": "手脚并用地攀爬；完成时 ist geklettert"
+ },
+ "w1301": {
+  "en": "click",
+  "col": [
+   [
+    "auf einen Link klicken",
+    "点击链接"
+   ],
+   [
+    "mit der Maus klicken",
+    "用鼠标点击"
+   ],
+   [
+    "doppelklicken",
+    "双击"
+   ]
+  ],
+  "tip": "klicken auf + 4格"
+ },
+ "w1302": {
+  "en": "click",
+  "col": [
+   [
+    "mit einem Klick",
+    "一键"
+   ],
+   [
+    "ein Klick auf den Button",
+    "点一下按钮"
+   ]
+  ]
+ },
+ "w1303": {
+  "en": "climate",
+  "col": [
+   [
+    "der Klimawandel",
+    "气候变化"
+   ],
+   [
+    "ein mildes Klima",
+    "温和的气候"
+   ]
+  ],
+  "tip": "Klima 气候；Wetter 天气"
+ },
+ "w1304": {
+  "en": "air conditioning",
+  "col": [
+   [
+    "die Klimaanlage einschalten",
+    "开空调"
+   ],
+   [
+    "mit Klimaanlage",
+    "带空调"
+   ]
+  ]
+ },
+ "w1305": {
+  "en": "ring",
+  "col": [
+   [
+    "Es klingelt.",
+    "有人按门铃 / 铃响了"
+   ],
+   [
+    "an der Tür klingeln",
+    "按门铃"
+   ],
+   [
+    "Das Telefon klingelt.",
+    "电话响了"
+   ]
+  ],
+  "tip": "非人称常用：Es klingelt"
+ },
+ "w1306": {
+  "en": "bell; doorbell",
+  "col": [
+   [
+    "die Klingel drücken",
+    "按门铃"
+   ],
+   [
+    "die Fahrradklingel",
+    "自行车铃"
+   ]
+  ]
+ },
+ "w1307": {
+  "en": "sound",
+  "col": [
+   [
+    "Das klingt gut.",
+    "听起来不错"
+   ],
+   [
+    "Das klingt interessant.",
+    "听起来有意思"
+   ]
+  ],
+  "tip": "强变化 klang, geklungen；同义 sich anhören"
+ },
+ "w1308": {
+  "en": "clinic",
+  "col": [
+   [
+    "in die Klinik kommen",
+    "住院"
+   ],
+   [
+    "die Universitätsklinik",
+    "大学医院"
+   ]
+  ],
+  "tip": "较大或专科医院；Krankenhaus 更通用"
+ },
+ "w1309": {
+  "en": "knock",
+  "col": [
+   [
+    "an die Tür klopfen",
+    "敲门"
+   ],
+   [
+    "Das Herz klopft.",
+    "心怦怦跳"
+   ]
+  ],
+  "tip": "klopfen an + 4格"
+ },
+ "w1310": {
+  "en": "dumpling",
+  "col": [
+   [
+    "Kartoffelklöße",
+    "土豆团子"
+   ],
+   [
+    "Klöße essen",
+    "吃团子"
+   ]
+  ],
+  "tip": "复数 Klöße；南德/奥地利叫 Knödel"
+ },
+ "w1311": {
+  "en": "clever; wise",
+  "col": [
+   [
+    "ein kluger Kopf",
+    "聪明人"
+   ],
+   [
+    "klug handeln",
+    "明智地行事"
+   ],
+   [
+    "Der Klügere gibt nach.",
+    "明智者让步"
+   ]
+  ],
+  "tip": "比较级 klüger；klug 偏明智，schlau 偏机灵"
+ },
+ "w1312": {
+  "en": "scarce; tight; barely",
+  "senses": [
+   "紧缺的",
+   "刚好；差一点",
+   "简短的"
+  ],
+  "col": [
+   [
+    "Die Zeit ist knapp.",
+    "时间很紧"
+   ],
+   [
+    "knapp zwei Stunden",
+    "将近两小时"
+   ],
+   [
+    "knapp gewinnen",
+    "险胜"
+   ]
+  ],
+  "tip": "后接数量时表“不到、刚好”"
+ },
+ "w1313": {
+  "en": "pub",
+  "col": [
+   [
+    "in die Kneipe gehen",
+    "去酒吧"
+   ],
+   [
+    "die Stammkneipe",
+    "常去的酒馆"
+   ]
+  ],
+  "tip": "口语，比 Bar 随意"
+ },
+ "w1314": {
+  "en": "knee",
+  "col": [
+   [
+    "auf die Knie fallen",
+    "跪下"
+   ],
+   [
+    "sich das Knie verletzen",
+    "伤到膝盖"
+   ]
+  ],
+  "tip": "k 要发音：[kniː]"
+ },
+ "w1315": {
+  "en": "bone",
+  "col": [
+   [
+    "einen Knochen brechen",
+    "骨折"
+   ],
+   [
+    "an einem Knochen nagen",
+    "啃骨头"
+   ]
+  ]
+ },
+ "w1316": {
+  "en": "dumpling",
+  "col": [
+   [
+    "Semmelknödel",
+    "面包团子"
+   ],
+   [
+    "Knödel mit Soße",
+    "配酱汁的团子"
+   ]
+  ],
+  "tip": "南德/奥地利说法；北德叫 Kloß"
+ },
+ "w1317": {
+  "en": "button",
+  "col": [
+   [
+    "einen Knopf drücken",
+    "按按钮"
+   ],
+   [
+    "einen Knopf annähen",
+    "缝纽扣"
+   ]
+  ],
+  "tip": "衣服纽扣和电器按钮都叫 Knopf；复数 Knöpfe"
+ },
+ "w1318": {
+  "en": "cook; boil",
+  "senses": [
+   "做饭；烹调",
+   "烧开；煮"
+  ],
+  "col": [
+   [
+    "Essen kochen",
+    "做饭"
+   ],
+   [
+    "Wasser kochen",
+    "烧水"
+   ],
+   [
+    "Eier kochen",
+    "煮蛋"
+   ]
+  ],
+  "tip": "kochen 水煮/烹饪；braten 煎、烤"
+ },
+ "w1319": {
+  "en": "cook (m.)",
+  "col": [
+   [
+    "ein guter Koch",
+    "好厨师"
+   ],
+   [
+    "Koch werden",
+    "当厨师"
+   ]
+  ],
+  "tip": "阴性 Köchin；复数 Köche"
+ },
+ "w1320": {
+  "en": "cook (f.)",
+  "col": [
+   [
+    "als Köchin arbeiten",
+    "当厨师"
+   ],
+   [
+    "eine gute Köchin",
+    "好女厨师"
+   ]
+  ]
+ },
+ "w1321": {
+  "en": "suitcase",
+  "col": [
+   [
+    "den Koffer packen",
+    "收拾行李箱"
+   ],
+   [
+    "den Koffer auspacken",
+    "打开行李箱取东西"
+   ]
+  ],
+  "tip": "背包是 Rucksack"
+ },
+ "w1322": {
+  "en": "colleague (m.)",
+  "col": [
+   [
+    "ein netter Kollege",
+    "友好的同事"
+   ],
+   [
+    "Kollegen im Büro",
+    "办公室同事"
+   ]
+  ],
+  "tip": "n-变化：den Kollegen；阴性 Kollegin"
+ },
+ "w1323": {
+  "en": "colleague (f.)",
+  "col": [
+   [
+    "meine Kollegin",
+    "我的女同事"
+   ],
+   [
+    "mit Kolleginnen zusammenarbeiten",
+    "与同事合作"
+   ]
+  ]
+ },
+ "w1324": {
+  "en": "strange; funny",
+  "senses": [
+   "奇怪的",
+   "滑稽的"
+  ],
+  "col": [
+   [
+    "Das ist komisch.",
+    "这很奇怪"
+   ],
+   [
+    "Mir ist komisch.",
+    "我觉得不舒服 / 怪怪的"
+   ],
+   [
+    "ein komischer Film",
+    "滑稽的电影"
+   ]
+  ],
+  "tip": "最常用义是“奇怪”，不是“喜剧”"
+ },
+ "w1325": {
+  "en": "come",
+  "col": [
+   [
+    "aus China kommen",
+    "来自中国"
+   ],
+   [
+    "nach Hause kommen",
+    "回家"
+   ],
+   [
+    "zu spät kommen",
+    "迟到"
+   ],
+   [
+    "ums Leben kommen",
+    "丧生"
+   ]
+  ],
+  "tip": "强变化 kam, ist gekommen；Woher kommen Sie?"
+ },
+ "w1326": {
+  "en": "communication",
+  "col": [
+   [
+    "die Kommunikation verbessern",
+    "改善沟通"
+   ],
+   [
+    "die Kommunikation im Team",
+    "团队沟通"
+   ]
+  ]
+ },
+ "w1327": {
+  "en": "complete; entire",
+  "col": [
+   [
+    "komplett ausverkauft",
+    "全部售罄"
+   ],
+   [
+    "das komplette Programm",
+    "完整的节目 / 全套"
+   ]
+  ],
+  "tip": "也可作副词：完全地"
+ },
+ "w1328": {
+  "en": "complicated",
+  "col": [
+   [
+    "ein kompliziertes Problem",
+    "复杂的问题"
+   ],
+   [
+    "Das ist nicht so kompliziert.",
+    "这没那么复杂"
+   ]
+  ],
+  "tip": "反义 einfach"
+ },
+ "w1329": {
+  "en": "compromise",
+  "col": [
+   [
+    "einen Kompromiss schließen",
+    "达成妥协"
+   ],
+   [
+    "einen Kompromiss finden",
+    "找到折中办法"
+   ]
+  ],
+  "tip": "阳性；也说 Kompromisse eingehen（作出妥协）"
+ },
+ "w1330": {
+  "en": "conference",
+  "col": [
+   [
+    "an einer Konferenz teilnehmen",
+    "参加会议"
+   ],
+   [
+    "die Telefonkonferenz",
+    "电话会议"
+   ]
+  ],
+  "tip": "较正式的会议；日常工作会议用 Besprechung"
+ },
+ "w1331": {
+  "en": "jam",
+  "col": [
+   [
+    "Brot mit Konfitüre",
+    "涂果酱的面包"
+   ],
+   [
+    "Erdbeerkonfitüre",
+    "草莓酱"
+   ]
+  ],
+  "tip": "瑞士常用；德国日常多说 Marmelade"
+ },
+ "w1332": {
+  "en": "conflict",
+  "col": [
+   [
+    "einen Konflikt lösen",
+    "解决冲突"
+   ],
+   [
+    "in einen Konflikt geraten",
+    "陷入冲突"
+   ]
+  ]
+ },
+ "w1333": {
+  "en": "king",
+  "col": [
+   [
+    "der König von Spanien",
+    "西班牙国王"
+   ],
+   [
+    "der König und die Königin",
+    "国王与王后"
+   ]
+  ],
+  "tip": "阴性 Königin；Königreich 王国"
+ },
+ "w1334": {
+  "en": "competition",
+  "col": [
+   [
+    "Konkurrenz haben",
+    "有竞争对手"
+   ],
+   [
+    "Die Konkurrenz ist groß.",
+    "竞争很大"
+   ],
+   [
+    "in Konkurrenz stehen",
+    "处于竞争中"
+   ]
+  ],
+  "tip": "也指竞争对手本身"
+ },
+ "w1335": {
+  "en": "can; be able to",
+  "senses": [
+   "能；会",
+   "可以（许可）",
+   "可能",
+   "会（语言）"
+  ],
+  "col": [
+   [
+    "Deutsch können",
+    "会德语"
+   ],
+   [
+    "Ich kann schwimmen.",
+    "我会游泳"
+   ],
+   [
+    "Kann ich Ihnen helfen?",
+    "我能帮您吗？"
+   ],
+   [
+    "Das kann sein.",
+    "有可能"
+   ]
+  ],
+  "tip": "情态动词：ich/er kann；单数不加词尾"
+ },
+ "w1336": {
+  "en": "consulate",
+  "col": [
+   [
+    "zum Konsulat gehen",
+    "去领事馆"
+   ],
+   [
+    "das Visum beim Konsulat beantragen",
+    "在领事馆申请签证"
+   ]
+  ],
+  "tip": "Botschaft 大使馆，Konsulat 领事馆"
+ },
+ "w1337": {
+  "en": "consume",
+  "col": [
+   [
+    "Medien konsumieren",
+    "消费媒体内容"
+   ],
+   [
+    "Alkohol konsumieren",
+    "饮酒"
+   ]
+  ],
+  "tip": "较正式；日常多用 essen / trinken"
+ },
+ "w1338": {
+  "en": "consumption",
+  "col": [
+   [
+    "der Konsum von Alkohol",
+    "酒精消费"
+   ],
+   [
+    "Konsum und Umwelt",
+    "消费与环境"
+   ]
+  ],
+  "tip": "指消费行为；Verbrauch 指消耗量"
+ },
+ "w1339": {
+  "en": "contact",
+  "col": [
+   [
+    "Kontakt aufnehmen",
+    "取得联系"
+   ],
+   [
+    "in Kontakt bleiben",
+    "保持联系"
+   ],
+   [
+    "Kontakt zu jemandem haben",
+    "与某人有往来"
+   ]
+  ],
+  "tip": "Kontakt zu + 3格"
+ },
+ "w1340": {
+  "en": "account",
+  "col": [
+   [
+    "ein Konto eröffnen",
+    "开户"
+   ],
+   [
+    "Geld aufs Konto überweisen",
+    "把钱转到账户"
+   ],
+   [
+    "das Konto überziehen",
+    "透支账户"
+   ]
+  ],
+  "tip": "复数 Konten"
+ },
+ "w1341": {
+  "en": "checking account",
+  "col": [
+   [
+    "ein Girokonto eröffnen",
+    "开往来账户"
+   ],
+   [
+    "vom Girokonto abheben",
+    "从活期账户取款"
+   ]
+  ],
+  "tip": "德国日常使用的活期账户；Sparkonto 是储蓄账户"
+ },
+ "w1342": {
+  "en": "check; inspect",
+  "col": [
+   [
+    "die Fahrkarten kontrollieren",
+    "检查车票"
+   ],
+   [
+    "das Gepäck kontrollieren",
+    "检查行李"
+   ]
+  ],
+  "tip": "多为“检查”，不一定是“控制”"
+ },
+ "w1343": {
+  "en": "check; control",
+  "col": [
+   [
+    "die Passkontrolle",
+    "护照检查"
+   ],
+   [
+    "eine Kontrolle durchführen",
+    "进行检查"
+   ],
+   [
+    "außer Kontrolle",
+    "失控"
+   ]
+  ]
+ },
+ "w1344": {
+  "en": "concentrate",
+  "col": [
+   [
+    "sich auf die Arbeit konzentrieren",
+    "专注于工作"
+   ],
+   [
+    "Ich kann mich nicht konzentrieren.",
+    "我无法集中精力"
+   ]
+  ],
+  "tip": "sich konzentrieren auf + 4格"
+ },
+ "w1345": {
+  "en": "concert",
+  "col": [
+   [
+    "ins Konzert gehen",
+    "去听音乐会"
+   ],
+   [
+    "ein Konzert geben",
+    "举办音乐会"
+   ],
+   [
+    "Karten fürs Konzert",
+    "音乐会门票"
+   ]
+  ]
+ },
+ "w1346": {
+  "en": "head",
+  "col": [
+   [
+    "Kopfschmerzen haben",
+    "头疼"
+   ],
+   [
+    "den Kopf schütteln",
+    "摇头"
+   ],
+   [
+    "Kopf hoch!",
+    "打起精神！"
+   ]
+  ],
+  "tip": "复数 Köpfe"
+ },
+ "w1347": {
+  "en": "copy",
+  "col": [
+   [
+    "eine Datei kopieren",
+    "复制文件"
+   ],
+   [
+    "Texte kopieren",
+    "复印文章"
+   ]
+  ],
+  "tip": "复印和电脑复制都用 kopieren"
+ },
+ "w1348": {
+  "en": "copy",
+  "col": [
+   [
+    "eine Kopie machen",
+    "复印"
+   ],
+   [
+    "eine Kopie von etwas anfertigen",
+    "复制某物"
+   ]
+  ],
+  "tip": "Kopie 复印件/副本；Original 原件"
+ },
+ "w1349": {
+  "en": "copier",
+  "col": [
+   [
+    "Der Kopierer ist kaputt.",
+    "复印机坏了"
+   ],
+   [
+    "am Kopierer",
+    "在复印机旁"
+   ]
+  ],
+  "tip": "也叫 Kopiergerät"
+ },
+ "w1350": {
+  "en": "body",
+  "col": [
+   [
+    "der menschliche Körper",
+    "人体"
+   ],
+   [
+    "Körper und Geist",
+    "身心"
+   ],
+   [
+    "die Körperpflege",
+    "身体护理"
+   ]
+  ]
+ },
+ "w1351": {
+  "en": "physical",
+  "col": [
+   [
+    "körperliche Arbeit",
+    "体力劳动"
+   ],
+   [
+    "körperliche Gewalt",
+    "肢体暴力"
+   ]
+  ],
+  "tip": "反义 geistig（精神的）"
+ },
+ "w1352": {
+  "en": "correct",
+  "col": [
+   [
+    "korrekt antworten",
+    "回答正确"
+   ],
+   [
+    "korrekt sein",
+    "合乎规范"
+   ]
+  ],
+  "tip": "korrekt 偏合乎规范；richtig 是日常的“对”"
+ },
+ "w1353": {
+  "en": "corridor",
+  "col": [
+   [
+    "im Korridor warten",
+    "在走廊等候"
+   ],
+   [
+    "der lange Korridor",
+    "长走廊"
+   ]
+  ],
+  "tip": "德国多说 Flur；奥/瑞用 Korridor/Gang"
+ },
+ "w1354": {
+  "en": "correct",
+  "col": [
+   [
+    "Fehler korrigieren",
+    "改正错误"
+   ],
+   [
+    "Hausaufgaben korrigieren",
+    "批改作业"
+   ]
+  ],
+  "tip": "老师批改用它；自己改错也说 verbessern"
+ },
+ "w1355": {
+  "en": "cost; taste",
+  "senses": [
+   "价格为",
+   "花费（时间、精力）",
+   "品尝"
+  ],
+  "col": [
+   [
+    "Was kostet das?",
+    "这个多少钱？"
+   ],
+   [
+    "Das kostet viel Zeit.",
+    "这很费时间"
+   ],
+   [
+    "die Suppe kosten",
+    "尝尝汤"
+   ]
+  ],
+  "tip": "kosten 后接4格：Es kostet mich Zeit"
+ },
+ "w1356": {
+  "en": "costs",
+  "col": [
+   [
+    "die Kosten tragen",
+    "承担费用"
+   ],
+   [
+    "Kosten sparen",
+    "节省开支"
+   ],
+   [
+    "auf eigene Kosten",
+    "自费"
+   ]
+  ],
+  "tip": "常用复数；Preis 是单价，Kosten 是总花费"
+ },
+ "w1357": {
+  "en": "free (of charge)",
+  "col": [
+   [
+    "kostenlos teilnehmen",
+    "免费参加"
+   ],
+   [
+    "kostenlose Beratung",
+    "免费咨询"
+   ]
+  ],
+  "tip": "同义 gratis；umsonst 另有“徒劳”义"
+ },
+ "w1358": {
+  "en": "costume; women's suit",
+  "senses": [
+   "（化装）服装",
+   "（女式）套装"
+  ],
+  "col": [
+   [
+    "ein Kostüm tragen",
+    "穿化装服 / 套装"
+   ],
+   [
+    "ein Kostüm für Karneval",
+    "狂欢节服装"
+   ]
+  ],
+  "tip": "不是男式西装（Anzug）"
+ },
+ "w1359": {
+  "en": "strength; power",
+  "col": [
+   [
+    "mit voller Kraft",
+    "全力"
+   ],
+   [
+    "Kraft haben",
+    "有力气"
+   ],
+   [
+    "in Kraft treten",
+    "（法律）生效"
+   ]
+  ],
+  "tip": "复数 Kräfte"
+ },
+ "w1360": {
+  "en": "strong; vigorous",
+  "col": [
+   [
+    "ein kräftiger Mann",
+    "强壮的男人"
+   ],
+   [
+    "kräftige Farben",
+    "浓烈的颜色"
+   ],
+   [
+    "kräftig essen",
+    "吃得扎实"
+   ]
+  ],
+  "tip": "kräftig 强健有劲；stark 范围更广"
+ },
+ "w1361": {
+  "en": "motor vehicle",
+  "col": [
+   [
+    "die Kraftfahrzeugsteuer",
+    "车辆税"
+   ],
+   [
+    "die Kfz-Werkstatt",
+    "汽车修理厂"
+   ]
+  ],
+  "tip": "缩写 Kfz；官方正式用词"
+ },
+ "w1362": {
+  "en": "power plant",
+  "col": [
+   [
+    "ein Atomkraftwerk",
+    "核电站"
+   ],
+   [
+    "ein Kohlekraftwerk",
+    "燃煤电厂"
+   ]
+  ]
+ },
+ "w1363": {
+  "en": "ill; sick",
+  "col": [
+   [
+    "krank werden",
+    "生病"
+   ],
+   [
+    "sich krank melden",
+    "请病假"
+   ],
+   [
+    "krank sein",
+    "生病"
+   ]
+  ],
+  "tip": "比较级 kränker；krankschreiben 开病假条"
+ },
+ "w1364": {
+  "en": "sick person",
+  "col": [
+   [
+    "die Kranken pflegen",
+    "护理病人"
+   ],
+   [
+    "ein Kranker",
+    "一位病人"
+   ]
+  ],
+  "tip": "形容词变化名词；Patient 指就诊者"
+ },
+ "w1365": {
+  "en": "hospital",
+  "col": [
+   [
+    "ins Krankenhaus kommen",
+    "入院"
+   ],
+   [
+    "im Krankenhaus liegen",
+    "住院"
+   ]
+  ],
+  "tip": "ins 表去，im 表在"
+ },
+ "w1366": {
+  "en": "health insurance fund",
+  "col": [
+   [
+    "bei der Krankenkasse versichert sein",
+    "参加医保"
+   ],
+   [
+    "die Krankenkasse wechseln",
+    "换医保公司"
+   ]
+  ],
+  "tip": "指保险公司；保险本身叫 Krankenversicherung"
+ },
+ "w1367": {
+  "en": "nurse (m.)",
+  "col": [
+   [
+    "als Krankenpfleger arbeiten",
+    "当护理员"
+   ],
+   [
+    "Krankenpfleger werden",
+    "成为护士"
+   ]
+  ],
+  "tip": "阴性 Krankenpflegerin / Krankenschwester"
+ },
+ "w1368": {
+  "en": "nurse (f.)",
+  "col": [
+   [
+    "als Krankenschwester arbeiten",
+    "当护士"
+   ],
+   [
+    "Die Krankenschwester misst Fieber.",
+    "护士量体温"
+   ]
+  ],
+  "tip": "男护士多说 Krankenpfleger"
+ },
+ "w1369": {
+  "en": "ambulance",
+  "col": [
+   [
+    "den Krankenwagen rufen",
+    "叫救护车"
+   ],
+   [
+    "mit dem Krankenwagen",
+    "乘救护车"
+   ]
+  ],
+  "tip": "德国急救电话 112"
+ },
+ "w1370": {
+  "en": "illness",
+  "col": [
+   [
+    "eine schwere Krankheit",
+    "重病"
+   ],
+   [
+    "wegen Krankheit",
+    "因病"
+   ],
+   [
+    "eine Krankheit haben",
+    "患病"
+   ]
+  ],
+  "tip": "形容词 krank → Krankheit"
+ },
+ "w1371": {
+  "en": "creative",
+  "col": [
+   [
+    "kreativ arbeiten",
+    "有创意地工作"
+   ],
+   [
+    "ein kreativer Mensch",
+    "有创造力的人"
+   ]
+  ]
+ },
+ "w1372": {
+  "en": "loan; credit",
+  "col": [
+   [
+    "einen Kredit aufnehmen",
+    "贷款"
+   ],
+   [
+    "einen Kredit zurückzahlen",
+    "还贷款"
+   ],
+   [
+    "auf Kredit kaufen",
+    "赊购"
+   ]
+  ],
+  "tip": "重音在 -dit：Kredít"
+ },
+ "w1373": {
+  "en": "credit card",
+  "col": [
+   [
+    "mit Kreditkarte zahlen",
+    "用信用卡付款"
+   ],
+   [
+    "Kreditkarte akzeptieren",
+    "接受信用卡"
+   ]
+  ],
+  "tip": "德国小店常只收现金或 EC-Karte"
+ },
+ "w1374": {
+  "en": "circle; district",
+  "senses": [
+   "圆；圈子",
+   "（行政）县"
+  ],
+  "col": [
+   [
+    "im Kreis sitzen",
+    "围坐成圈"
+   ],
+   [
+    "der Landkreis",
+    "县"
+   ],
+   [
+    "im Freundeskreis",
+    "在朋友圈内"
+   ]
+  ]
+ },
+ "w1375": {
+  "en": "cross",
+  "senses": [
+   "十字架；叉号",
+   "（口语）腰背"
+  ],
+  "col": [
+   [
+    "das Rote Kreuz",
+    "红十字会"
+   ],
+   [
+    "ein Kreuz setzen",
+    "打叉"
+   ],
+   [
+    "Ich habe Kreuzschmerzen.",
+    "我腰疼"
+   ]
+  ],
+  "tip": "口语里 Kreuz 也指腰背"
+ },
+ "w1376": {
+  "en": "intersection",
+  "col": [
+   [
+    "an der Kreuzung",
+    "在十字路口"
+   ],
+   [
+    "an der Kreuzung rechts abbiegen",
+    "在路口右转"
+   ]
+  ],
+  "tip": "Ampel 是红绿灯"
+ },
+ "w1377": {
+  "en": "war",
+  "col": [
+   [
+    "im Krieg",
+    "在战争中"
+   ],
+   [
+    "Krieg führen",
+    "进行战争"
+   ],
+   [
+    "der Zweite Weltkrieg",
+    "第二次世界大战"
+   ]
+  ],
+  "tip": "反义 Frieden（和平）"
+ },
+ "w1378": {
+  "en": "get",
+  "col": [
+   [
+    "Hunger kriegen",
+    "饿了"
+   ],
+   [
+    "Post kriegen",
+    "收到信"
+   ],
+   [
+    "einen Anruf kriegen",
+    "接到电话"
+   ]
+  ],
+  "tip": "口语，= bekommen；正式用 bekommen"
+ },
+ "w1379": {
+  "en": "criminal investigation police",
+  "tip": "缩写 Kripo，负责刑事案件"
+ },
+ "w1380": {
+  "en": "crime thriller",
+  "col": [
+   [
+    "einen Krimi lesen",
+    "读侦探小说"
+   ],
+   [
+    "einen Krimi im Fernsehen sehen",
+    "看犯罪剧"
+   ]
+  ],
+  "tip": "Kriminalfilm / Kriminalroman 的口语缩写"
+ },
+ "w1381": {
+  "en": "crisis",
+  "col": [
+   [
+    "in einer Krise stecken",
+    "陷入危机"
+   ],
+   [
+    "die Wirtschaftskrise",
+    "经济危机"
+   ]
+  ]
+ },
+ "w1382": {
+  "en": "criticize",
+  "col": [
+   [
+    "jemanden kritisieren",
+    "批评某人"
+   ],
+   [
+    "die Regierung kritisieren",
+    "批评政府"
+   ]
+  ],
+  "tip": "直接带4格，没有介词"
+ },
+ "w1383": {
+  "en": "criticism; review",
+  "col": [
+   [
+    "Kritik üben",
+    "提出批评"
+   ],
+   [
+    "Kritik an etwas äußern",
+    "对某事表示批评"
+   ],
+   [
+    "eine gute Kritik",
+    "好评"
+   ]
+  ],
+  "tip": "Kritik an + 3格；也指影评、书评"
+ },
+ "w1384": {
+  "en": "critical",
+  "col": [
+   [
+    "kritisch denken",
+    "批判性思考"
+   ],
+   [
+    "eine kritische Situation",
+    "危急局面"
+   ]
+  ],
+  "tip": "既指“批评的”，也指“危急的”"
+ },
+ "w1385": {
+  "en": "kitchen; cuisine",
+  "senses": [
+   "厨房",
+   "菜系"
+  ],
+  "col": [
+   [
+    "in der Küche kochen",
+    "在厨房做饭"
+   ],
+   [
+    "die deutsche Küche",
+    "德国菜"
+   ],
+   [
+    "die Einbauküche",
+    "整体厨房"
+   ]
+  ]
+ },
+ "w1386": {
+  "en": "cake",
+  "col": [
+   [
+    "Kuchen backen",
+    "烤蛋糕"
+   ],
+   [
+    "ein Stück Kuchen",
+    "一块蛋糕"
+   ],
+   [
+    "Kaffee und Kuchen",
+    "咖啡配蛋糕"
+   ]
+  ],
+  "tip": "Kuchen 一般蛋糕；Torte 多层奶油蛋糕"
+ },
+ "w1387": {
+  "en": "ballpoint pen",
+  "col": [
+   [
+    "mit Kugelschreiber schreiben",
+    "用圆珠笔写"
+   ],
+   [
+    "Kannst du mir deinen Kugelschreiber leihen?",
+    "你能借我圆珠笔吗？"
+   ]
+  ],
+  "tip": "口语缩写 Kuli"
+ },
+ "w1388": {
+  "en": "ballpoint pen (colloq.)",
+  "col": [
+   [
+    "Hast du einen Kuli?",
+    "你有圆珠笔吗？"
+   ],
+   [
+    "mit dem Kuli unterschreiben",
+    "用圆珠笔签字"
+   ]
+  ],
+  "tip": "口语，= Kugelschreiber"
+ },
+ "w1389": {
+  "en": "cool",
+  "col": [
+   [
+    "kühles Wetter",
+    "凉爽的天气"
+   ],
+   [
+    "kühl lagern",
+    "冷藏存放"
+   ],
+   [
+    "ein kühles Getränk",
+    "冷饮"
+   ]
+  ],
+  "tip": "kühl 凉爽，比 kalt 温和；也可指态度冷淡"
+ },
+ "w1390": {
+  "en": "fridge",
+  "col": [
+   [
+    "etwas in den Kühlschrank stellen",
+    "放进冰箱"
+   ],
+   [
+    "Der Kühlschrank ist leer.",
+    "冰箱是空的"
+   ]
+  ],
+  "tip": "kühlen（冷却）+ Schrank（柜）"
+ },
+ "w1391": {
+  "en": "culture",
+  "col": [
+   [
+    "fremde Kulturen",
+    "外国文化"
+   ],
+   [
+    "Kultur und Sprache",
+    "文化和语言"
+   ]
+  ]
+ },
+ "w1392": {
+  "en": "cultural",
+  "col": [
+   [
+    "kulturelle Unterschiede",
+    "文化差异"
+   ],
+   [
+    "kulturelle Veranstaltungen",
+    "文化活动"
+   ]
+  ]
+ },
+ "w1393": {
+  "en": "take care of",
+  "col": [
+   [
+    "sich um die Kinder kümmern",
+    "照顾孩子"
+   ],
+   [
+    "sich um etwas kümmern",
+    "负责处理某事"
+   ],
+   [
+    "Ich kümmere mich darum.",
+    "我来处理"
+   ]
+  ],
+  "tip": "sich kümmern um + 4格"
+ },
+ "w1394": {
+  "en": "customer",
+  "col": [
+   [
+    "ein neuer Kunde",
+    "新客户"
+   ],
+   [
+    "Kunden bedienen",
+    "接待顾客"
+   ]
+  ],
+  "tip": "n-变化：den Kunden；阴性 Kundin"
+ },
+ "w1395": {
+  "en": "customer (f.)",
+  "col": [
+   [
+    "eine zufriedene Kundin",
+    "满意的女顾客"
+   ],
+   [
+    "die Kundin beraten",
+    "为顾客提供咨询"
+   ]
+  ]
+ },
+ "w1396": {
+  "en": "give notice; terminate",
+  "senses": [
+   "解约；退租；退订",
+   "（自己）辞职",
+   "（雇主）解雇"
+  ],
+  "col": [
+   [
+    "die Wohnung kündigen",
+    "退租"
+   ],
+   [
+    "den Vertrag kündigen",
+    "终止合同"
+   ],
+   [
+    "Er hat gekündigt.",
+    "他辞职了"
+   ]
+  ],
+  "tip": "Ich kündige 我辞职；jdm. kündigen 解雇某人"
+ },
+ "w1397": {
+  "en": "notice; termination",
+  "col": [
+   [
+    "die Kündigung schreiben",
+    "写辞职 / 解约信"
+   ],
+   [
+    "eine Kündigung erhalten",
+    "收到解雇通知"
+   ],
+   [
+    "die Kündigungsfrist",
+    "通知期"
+   ]
+  ],
+  "tip": "Kündigungsfrist 是解约/离职通知期"
+ },
+ "w1398": {
+  "en": "art",
+  "col": [
+   [
+    "moderne Kunst",
+    "现代艺术"
+   ],
+   [
+    "Kunst und Kultur",
+    "艺术与文化"
+   ]
+  ],
+  "tip": "复数 Künste；Kunstwerk 艺术品"
+ },
+ "w1399": {
+  "en": "artist",
+  "col": [
+   [
+    "ein bekannter Künstler",
+    "著名艺术家"
+   ],
+   [
+    "als Künstler leben",
+    "以艺术为生"
+   ]
+  ],
+  "tip": "阴性 Künstlerin；含音乐家、画家等"
+ },
+ "w1400": {
+  "en": "artificial",
+  "col": [
+   [
+    "künstliche Intelligenz",
+    "人工智能"
+   ],
+   [
+    "künstliche Farbstoffe",
+    "人工色素"
+   ]
+  ],
+  "tip": "反义 natürlich"
+ },
+ "w1401": {
+  "en": "plastic",
+  "col": [
+   [
+    "aus Kunststoff",
+    "塑料制的"
+   ],
+   [
+    "die Kunststoffflasche",
+    "塑料瓶"
+   ]
+  ],
+  "tip": "口语常说 Plastik"
+ },
+ "w1402": {
+  "en": "course; rate",
+  "senses": [
+   "课程",
+   "汇率；行情",
+   "方向；航线"
+  ],
+  "col": [
+   [
+    "einen Kurs besuchen",
+    "上课程"
+   ],
+   [
+    "an einem Kurs teilnehmen",
+    "参加课程"
+   ],
+   [
+    "der Wechselkurs",
+    "汇率"
+   ]
+  ],
+  "tip": "einen Kurs belegen 选修课程"
+ },
+ "w1403": {
+  "en": "course instructor",
+  "col": [
+   [
+    "Der Kursleiter erklärt die Aufgabe.",
+    "课程老师讲解任务"
+   ],
+   [
+    "die Kursleiterin",
+    "女课程老师"
+   ]
+  ],
+  "tip": "成人课、语言班的老师，不叫 Lehrer"
+ },
+ "w1404": {
+  "en": "curve; bend",
+  "col": [
+   [
+    "eine scharfe Kurve",
+    "急转弯"
+   ],
+   [
+    "in die Kurve fahren",
+    "驶入弯道"
+   ],
+   [
+    "Vorsicht, Kurve!",
+    "小心，弯道！"
+   ]
+  ]
+ },
+ "w1405": {
+  "en": "short; brief",
+  "senses": [
+   "短的",
+   "短暂的"
+  ],
+  "col": [
+   [
+    "kurz vor ...",
+    "就在…之前"
+   ],
+   [
+    "kurz und gut",
+    "总之"
+   ],
+   [
+    "vor kurzem",
+    "不久前"
+   ]
+  ],
+  "tip": "比较级 kürzer；反义 lang"
+ },
+ "w1406": {
+  "en": "recently",
+  "col": [
+   [
+    "Ich habe ihn kürzlich gesehen.",
+    "我最近见过他"
+   ],
+   [
+    "erst kürzlich",
+    "就在最近"
+   ]
+  ],
+  "tip": "= vor kurzem；用于过去，不用于将来"
+ },
+ "w1407": {
+  "en": "kiss",
+  "col": [
+   [
+    "jemanden küssen",
+    "亲吻某人"
+   ],
+   [
+    "sich küssen",
+    "互相亲吻"
+   ],
+   [
+    "jemanden auf die Wange küssen",
+    "吻某人脸颊"
+   ]
+  ],
+  "tip": "短元音后写 ss：küssen / Kuss"
+ },
+ "w1408": {
+  "en": "kiss",
+  "col": [
+   [
+    "ein Kuss auf die Wange",
+    "脸颊上的吻"
+   ],
+   [
+    "jemandem einen Kuss geben",
+    "吻某人"
+   ]
+  ],
+  "tip": "复数 Küsse"
+ },
+ "w1409": {
+  "en": "coast",
+  "col": [
+   [
+    "an der Küste",
+    "在海岸边"
+   ],
+   [
+    "die Nordseeküste",
+    "北海海岸"
+   ]
+  ]
+ },
+ "w1410": {
+  "en": "envelope (Austria)",
+  "col": [
+   [
+    "ein Kuvert zukleben",
+    "封信封"
+   ],
+   [
+    "Geld ins Kuvert stecken",
+    "把钱放进信封"
+   ]
+  ],
+  "tip": "奥地利用语；德国 Briefumschlag，瑞士 Couvert"
+ },
+ "w1411": {},
+ "w1412": {
+  "en": "smile",
+  "col": [
+   [
+    "freundlich lächeln",
+    "友好地微笑"
+   ],
+   [
+    "jemanden anlächeln",
+    "对某人微笑"
+   ]
+  ],
+  "tip": "lächeln 微笑；lachen 笑出声"
+ },
+ "w1413": {
+  "en": "laugh",
+  "col": [
+   [
+    "laut lachen",
+    "大声笑"
+   ],
+   [
+    "über etwas lachen",
+    "笑某事"
+   ],
+   [
+    "jemanden auslachen",
+    "嘲笑某人"
+   ]
+  ],
+  "tip": "lachen über + 4格；出声才叫 lachen"
+ },
+ "w1414": {},
+ "w1415": {
+  "en": "shop; store",
+  "col": [
+   [
+    "in den Laden gehen",
+    "去商店"
+   ],
+   [
+    "der Bioladen",
+    "有机食品店"
+   ],
+   [
+    "ein Laden an der Ecke",
+    "街角小店"
+   ]
+  ],
+  "tip": "复数 Läden；Fensterladen 是百叶窗"
+ },
+ "w1416": {
+  "en": "situation; location",
+  "senses": [
+   "处境；形势",
+   "位置；地段",
+   "（in der Lage sein）能够"
+  ],
+  "col": [
+   [
+    "in einer schwierigen Lage",
+    "处境困难"
+   ],
+   [
+    "in guter Lage",
+    "地段好"
+   ],
+   [
+    "in der Lage sein, zu ...",
+    "有能力做…"
+   ]
+  ]
+ },
+ "w1417": {
+  "en": "warehouse; camp",
+  "senses": [
+   "仓库；库存",
+   "营地"
+  ],
+  "col": [
+   [
+    "auf Lager haben",
+    "有现货"
+   ],
+   [
+    "das Zeltlager",
+    "露营地"
+   ],
+   [
+    "im Lager arbeiten",
+    "在仓库工作"
+   ]
+  ]
+ },
+ "w1418": {
+  "en": "lamp",
+  "col": [
+   [
+    "die Lampe anmachen",
+    "开灯"
+   ],
+   [
+    "eine Lampe aufhängen",
+    "挂灯"
+   ]
+  ],
+  "tip": "开灯 anmachen/einschalten，关灯 ausmachen"
+ },
+ "w1419": {
+  "en": "country; countryside",
+  "senses": [
+   "国家",
+   "乡村；乡下",
+   "（德国）州"
+  ],
+  "col": [
+   [
+    "auf dem Land",
+    "在乡下"
+   ],
+   [
+    "aufs Land fahren",
+    "去乡下"
+   ],
+   [
+    "das Bundesland",
+    "联邦州"
+   ]
+  ],
+  "tip": "复数 Länder；乡下用 auf dem Land"
+ },
+ "w1420": {
+  "en": "agriculture",
+  "col": [
+   [
+    "in der Landwirtschaft arbeiten",
+    "在农业领域工作"
+   ],
+   [
+    "ökologische Landwirtschaft",
+    "生态农业"
+   ]
+  ],
+  "tip": "Landwirt 是农民"
+ },
+ "w1421": {
+  "en": "landscape",
+  "col": [
+   [
+    "eine schöne Landschaft",
+    "美丽的风景"
+   ],
+   [
+    "die Landschaft genießen",
+    "欣赏风景"
+   ]
+  ],
+  "tip": "Landschaft 自然风光；Aussicht 眺望的景观"
+ },
+ "w1422": {
+  "en": "land",
+  "col": [
+   [
+    "Das Flugzeug landet.",
+    "飞机降落"
+   ],
+   [
+    "in Frankfurt landen",
+    "降落在法兰克福"
+   ]
+  ],
+  "tip": "完成时 ist gelandet；反义 starten"
+ },
+ "w1423": {},
+ "w1424": {
+  "en": "landing",
+  "col": [
+   [
+    "die Landung des Flugzeugs",
+    "飞机降落"
+   ],
+   [
+    "eine sichere Landung",
+    "安全着陆"
+   ]
+  ],
+  "tip": "反义 Start（起飞）"
+ },
+ "w1425": {
+  "en": "long",
+  "col": [
+   [
+    "einen Tag lang",
+    "整整一天"
+   ],
+   [
+    "ein langer Weg",
+    "漫长的路"
+   ],
+   [
+    "ein langes Kleid",
+    "长裙"
+   ]
+  ],
+  "tip": "时间词后接 lang 表持续；比较级 länger"
+ },
+ "w1426": {
+  "en": "length",
+  "col": [
+   [
+    "die Länge messen",
+    "测量长度"
+   ],
+   [
+    "zwei Meter Länge",
+    "两米长"
+   ]
+  ],
+  "tip": "lang → Länge（带变音）"
+ },
+ "w1427": {
+  "en": "for a long time",
+  "col": [
+   [
+    "Wie lange dauert das?",
+    "这要多久？"
+   ],
+   [
+    "schon lange",
+    "早就"
+   ],
+   [
+    "nicht mehr lange",
+    "不久了"
+   ]
+  ],
+  "tip": "lange 副词（很久）；lang 形容词（长的）"
+ },
+ "w1428": {
+  "en": "slow",
+  "col": [
+   [
+    "langsam fahren",
+    "慢慢开车"
+   ],
+   [
+    "Bitte sprechen Sie langsamer.",
+    "请说慢一点"
+   ],
+   [
+    "Es wird langsam Zeit.",
+    "差不多是时候了"
+   ]
+  ],
+  "tip": "langsam 也表“渐渐地”"
+ },
+ "w1429": {
+  "en": "long since",
+  "col": [
+   [
+    "längst vergessen",
+    "早就忘了"
+   ],
+   [
+    "Das weiß ich längst.",
+    "这个我早就知道了"
+   ]
+  ],
+  "tip": "= schon lange；也是 lang 的最高级"
+ },
+ "w1430": {
+  "en": "boring",
+  "col": [
+   [
+    "ein langweiliger Film",
+    "无聊的电影"
+   ],
+   [
+    "Das ist mir zu langweilig.",
+    "我觉得太无聊了"
+   ]
+  ],
+  "tip": "langweilig 令人无聊；gelangweilt 感到无聊"
+ },
+ "w1431": {
+  "en": "be bored",
+  "col": [
+   [
+    "Ich langweile mich.",
+    "我很无聊"
+   ],
+   [
+    "sich zu Tode langweilen",
+    "无聊至极"
+   ]
+  ],
+  "tip": "反身动词"
+ },
+ "w1432": {
+  "en": "boredom",
+  "col": [
+   [
+    "aus Langeweile",
+    "出于无聊"
+   ],
+   [
+    "Langeweile haben",
+    "感到无聊"
+   ]
+  ]
+ },
+ "w1433": {
+  "en": "noise",
+  "col": [
+   [
+    "Lärm machen",
+    "吵闹"
+   ],
+   [
+    "der Lärm von der Straße",
+    "街上的噪音"
+   ]
+  ],
+  "tip": "Lärm 噪音；Geräusch 是中性的声响"
+ },
+ "w1434": {
+  "en": "truck (colloq.)",
+  "senses": [
+   "卡车",
+   "恶习"
+  ],
+  "col": [
+   [
+    "mit dem Laster fahren",
+    "开卡车"
+   ],
+   [
+    "der Lkw-Fahrer",
+    "卡车司机"
+   ]
+  ],
+  "tip": "口语，正式说 Lkw；另有“恶习”义"
+ },
+ "w1435": {
+  "en": "run; walk; work",
+  "senses": [
+   "跑；走",
+   "（机器）运转",
+   "（影片）上映"
+  ],
+  "col": [
+   [
+    "Ski laufen",
+    "滑雪"
+   ],
+   [
+    "Der Film läuft im Kino.",
+    "电影正在上映"
+   ],
+   [
+    "Wie läuft's?",
+    "最近怎么样？"
+   ],
+   [
+    "Der Motor läuft.",
+    "发动机在运转"
+   ]
+  ],
+  "tip": "强变化：du läufst, lief, ist gelaufen"
+ },
+ "w1436": {
+  "en": "drive (computer)",
+  "col": [
+   [
+    "das CD-Laufwerk",
+    "光驱"
+   ],
+   [
+    "ein externes Laufwerk",
+    "外接驱动器"
+   ]
+  ]
+ },
+ "w1437": {
+  "en": "mood",
+  "col": [
+   [
+    "gute Laune haben",
+    "心情好"
+   ],
+   [
+    "schlechte Laune",
+    "心情不好"
+   ],
+   [
+    "gut gelaunt sein",
+    "心情愉快"
+   ]
+  ]
+ },
+ "w1438": {
+  "en": "loud; according to",
+  "senses": [
+   "大声的；吵的",
+   "（介词）根据"
+  ],
+  "col": [
+   [
+    "laut sprechen",
+    "大声说"
+   ],
+   [
+    "laut Plan",
+    "按计划"
+   ],
+   [
+    "die Musik lauter machen",
+    "把音乐调大"
+   ]
+  ],
+  "tip": "作介词表“根据”；反义 leise"
+ },
+ "w1439": {
+  "en": "loudspeaker",
+  "col": [
+   [
+    "Die Durchsage kommt aus dem Lautsprecher.",
+    "广播从扩音器传出"
+   ],
+   [
+    "das Telefon auf Lautsprecher stellen",
+    "把电话调成免提"
+   ]
+  ]
+ },
+ "w1440": {
+  "en": "delicious",
+  "col": [
+   [
+    "Das schmeckt lecker.",
+    "味道很好"
+   ],
+   [
+    "ein leckeres Essen",
+    "美味的饭菜"
+   ]
+  ],
+  "tip": "口语常用"
+ },
+ "w1441": {
+  "en": "live",
+  "senses": [
+   "生活；活着",
+   "居住"
+  ],
+  "col": [
+   [
+    "in Deutschland leben",
+    "生活在德国"
+   ],
+   [
+    "allein leben",
+    "独自生活"
+   ],
+   [
+    "gesund leben",
+    "健康地生活"
+   ]
+  ],
+  "tip": "leben 生活/活着；wohnen 居住"
+ },
+ "w1442": {},
+ "w1443": {
+  "en": "CV; resume",
+  "col": [
+   [
+    "den Lebenslauf schreiben",
+    "写简历"
+   ],
+   [
+    "ein tabellarischer Lebenslauf",
+    "表格式简历"
+   ]
+  ],
+  "tip": "德国求职用 tabellarischer Lebenslauf"
+ },
+ "w1444": {
+  "en": "groceries; food",
+  "col": [
+   [
+    "Lebensmittel einkaufen",
+    "买食品"
+   ],
+   [
+    "frische Lebensmittel",
+    "新鲜食品"
+   ],
+   [
+    "das Lebensmittelgeschäft",
+    "食品店"
+   ]
+  ],
+  "tip": "常用复数；同义 Nahrungsmittel"
+ },
+ "w1445": {
+  "en": "leather",
+  "col": [
+   [
+    "aus Leder",
+    "皮制的"
+   ],
+   [
+    "die Lederjacke",
+    "皮夹克"
+   ]
+  ]
+ },
+ "w1446": {
+  "en": "single (unmarried)",
+  "col": [
+   [
+    "ledig sein",
+    "未婚"
+   ],
+   [
+    "Familienstand: ledig",
+    "婚姻状况：未婚"
+   ]
+  ],
+  "tip": "表格中的婚姻状况；日常说 Single"
+ },
+ "w1447": {
+  "en": "empty",
+  "col": [
+   [
+    "ein leeres Glas",
+    "空杯子"
+   ],
+   [
+    "Der Akku ist leer.",
+    "电池没电了"
+   ],
+   [
+    "leer stehen",
+    "空置"
+   ]
+  ],
+  "tip": "反义 voll；也指“没电”"
+ },
+ "w1448": {
+  "en": "lay; put (flat)",
+  "col": [
+   [
+    "etwas auf den Tisch legen",
+    "把东西放到桌上"
+   ],
+   [
+    "sich ins Bett legen",
+    "躺到床上"
+   ],
+   [
+    "Wert auf etwas legen",
+    "重视某事"
+   ]
+  ],
+  "tip": "legen（放，+4格）≠ liegen（躺着）"
+ },
+ "w1449": {},
+ "w1450": {
+  "en": "apprenticeship; teaching",
+  "senses": [
+   "学徒期；职业培训",
+   "学说；教学；教训"
+  ],
+  "col": [
+   [
+    "eine Lehre machen",
+    "做学徒"
+   ],
+   [
+    "in der Lehre sein",
+    "在学徒期"
+   ],
+   [
+    "Lehre und Forschung",
+    "教学与研究"
+   ]
+  ],
+  "tip": "与 Ausbildung 同义，指双元制职业培训"
+ },
+ "w1451": {
+  "en": "apprenticeship place",
+  "col": [
+   [
+    "eine Lehrstelle suchen",
+    "找学徒岗位"
+   ],
+   [
+    "eine Lehrstelle bekommen",
+    "得到学徒岗位"
+   ]
+  ],
+  "tip": "德国更常用 Ausbildungsplatz"
+ },
+ "w1452": {
+  "en": "teacher",
+  "col": [
+   [
+    "Lehrer werden",
+    "当老师"
+   ],
+   [
+    "ein strenger Lehrer",
+    "严格的老师"
+   ]
+  ],
+  "tip": "阴性 Lehrerin；大学老师是 Dozent / Professor"
+ },
+ "w1453": {
+  "en": "apprentice",
+  "col": [
+   [
+    "als Lehrling arbeiten",
+    "当学徒"
+   ],
+   [
+    "ein Lehrling im ersten Jahr",
+    "一年级学徒"
+   ]
+  ],
+  "tip": "现多说 Auszubildende(r)，缩写 Azubi"
+ },
+ "w1454": {
+  "en": "easy; light",
+  "senses": [
+   "容易的",
+   "轻的",
+   "轻微的"
+  ],
+  "col": [
+   [
+    "leicht zu verstehen",
+    "容易理解"
+   ],
+   [
+    "ein leichter Koffer",
+    "轻的箱子"
+   ],
+   [
+    "leichter Regen",
+    "小雨"
+   ]
+  ],
+  "tip": "反义 schwer（重 / 难）"
+ },
+ "w1455": {
+  "en": "be sorry",
+  "col": [
+   [
+    "Es tut mir leid.",
+    "对不起"
+   ],
+   [
+    "Er tut mir leid.",
+    "我同情他"
+   ],
+   [
+    "Das tut mir wirklich leid.",
+    "我真的很抱歉"
+   ]
+  ],
+  "tip": "tut mir leid：人用3格；也可连写 leidtun"
+ },
+ "w1456": {
+  "en": "suffer",
+  "col": [
+   [
+    "unter etwas leiden",
+    "为某事所苦"
+   ],
+   [
+    "an einer Krankheit leiden",
+    "患病"
+   ],
+   [
+    "jemanden nicht leiden können",
+    "不喜欢某人"
+   ]
+  ],
+  "tip": "leiden an + 病；强变化 litt, gelitten"
+ },
+ "w1457": {
+  "en": "unfortunately",
+  "col": [
+   [
+    "leider nicht",
+    "可惜不行"
+   ],
+   [
+    "Leider habe ich keine Zeit.",
+    "很遗憾我没时间"
+   ],
+   [
+    "leider ja",
+    "遗憾的是，对"
+   ]
+  ],
+  "tip": "表遗憾，婉拒时很有用"
+ },
+ "w1458": {
+  "en": "lend; borrow",
+  "senses": [
+   "借出",
+   "借入（sich leihen）"
+  ],
+  "col": [
+   [
+    "jemandem Geld leihen",
+    "借钱给某人"
+   ],
+   [
+    "sich etwas leihen",
+    "向人借东西"
+   ],
+   [
+    "ein Buch leihen",
+    "借书"
+   ]
+  ],
+  "tip": "leihen 借出；sich leihen / ausleihen 借入"
+ },
+ "w1459": {
+  "en": "quiet; soft",
+  "col": [
+   [
+    "leise sprechen",
+    "小声说话"
+   ],
+   [
+    "die Musik leiser machen",
+    "把音乐调小"
+   ]
+  ],
+  "tip": "反义 laut"
+ },
+ "w1460": {
+  "en": "achieve; afford",
+  "col": [
+   [
+    "Arbeit leisten",
+    "完成工作"
+   ],
+   [
+    "Hilfe leisten",
+    "提供帮助"
+   ],
+   [
+    "sich etwas leisten können",
+    "买得起某物"
+   ]
+  ],
+  "tip": "sich (3) etwas leisten：买得起/犒劳自己"
+ },
+ "w1461": {
+  "en": "performance; achievement",
+  "col": [
+   [
+    "eine gute Leistung",
+    "出色的成绩"
+   ],
+   [
+    "die Leistung steigern",
+    "提高成绩 / 表现"
+   ],
+   [
+    "die Leistungen der Krankenkasse",
+    "医保的给付项目"
+   ]
+  ],
+  "tip": "含“成绩、功率、服务项目”等义"
+ },
+ "w1462": {
+  "en": "lead; manage",
+  "col": [
+   [
+    "eine Firma leiten",
+    "管理公司"
+   ],
+   [
+    "eine Besprechung leiten",
+    "主持会议"
+   ],
+   [
+    "eine Gruppe leiten",
+    "带领小组"
+   ]
+  ],
+  "tip": "Leiter 负责人；Leitung 领导 / 线路"
+ },
+ "w1463": {
+  "en": "head; ladder",
+  "senses": [
+   "（der）负责人",
+   "（die）梯子"
+  ],
+  "col": [
+   [
+    "der Abteilungsleiter",
+    "部门主管"
+   ],
+   [
+    "der Projektleiter",
+    "项目负责人"
+   ],
+   [
+    "auf die Leiter steigen",
+    "爬上梯子"
+   ]
+  ],
+  "tip": "der Leiter 负责人；die Leiter 梯子（同形异义）"
+ },
+ "w1464": {
+  "en": "management; line; pipe",
+  "senses": [
+   "领导；管理",
+   "（电话）线路",
+   "管道"
+  ],
+  "col": [
+   [
+    "die Leitung übernehmen",
+    "接手领导工作"
+   ],
+   [
+    "Die Leitung ist besetzt.",
+    "电话占线"
+   ],
+   [
+    "die Wasserleitung",
+    "水管"
+   ]
+  ]
+ },
+ "w1465": {
+  "en": "learn",
+  "col": [
+   [
+    "Deutsch lernen",
+    "学德语"
+   ],
+   [
+    "für die Prüfung lernen",
+    "为考试复习"
+   ],
+   [
+    "jemanden kennenlernen",
+    "认识某人"
+   ]
+  ],
+  "tip": "lernen 学习；lehren / unterrichten 教"
+ },
+ "w1466": {},
+ "w1467": {
+  "en": "learner",
+  "col": [
+   [
+    "die Deutschlerner",
+    "德语学习者"
+   ],
+   [
+    "ein fortgeschrittener Lerner",
+    "进阶学习者"
+   ]
+  ],
+  "tip": "阴性 Lernerin；多用于语言学习"
+ },
+ "w1468": {
+  "en": "read",
+  "col": [
+   [
+    "ein Buch lesen",
+    "读书"
+   ],
+   [
+    "die Zeitung lesen",
+    "读报"
+   ],
+   [
+    "laut lesen",
+    "朗读"
+   ]
+  ],
+  "tip": "强变化：du liest, las, gelesen"
+ },
+ "w1469": {
+  "en": "reader",
+  "col": [
+   [
+    "ein aufmerksamer Leser",
+    "细心的读者"
+   ],
+   [
+    "die Leser der Zeitung",
+    "报纸的读者"
+   ]
+  ],
+  "tip": "阴性 Leserin；Leserbrief 读者来信"
+ },
+ "w1470": {
+  "en": "last",
+  "col": [
+   [
+    "letzte Woche",
+    "上周"
+   ],
+   [
+    "das letzte Mal",
+    "上一次"
+   ],
+   [
+    "zum letzten Mal",
+    "最后一次"
+   ]
+  ],
+  "tip": "词干形，实际用 letzte/letzter 等"
+ },
+ "w1471": {
+  "en": "people",
+  "col": [
+   [
+    "junge Leute",
+    "年轻人"
+   ],
+   [
+    "viele Leute",
+    "很多人"
+   ],
+   [
+    "die Leute von nebenan",
+    "隔壁的人们"
+   ]
+  ],
+  "tip": "只用复数；Menschen 较正式、泛指"
+ },
+ "w1472": {
+  "en": "encyclopedia",
+  "col": [
+   [
+    "im Lexikon nachschlagen",
+    "查百科全书"
+   ],
+   [
+    "ein Lexikon kaufen",
+    "买一本百科全书"
+   ]
+  ],
+  "tip": "Lexikon 是百科；词典叫 Wörterbuch"
+ },
+ "w1473": {
+  "en": "light",
+  "col": [
+   [
+    "das Licht anmachen",
+    "开灯"
+   ],
+   [
+    "das Licht ausmachen",
+    "关灯"
+   ],
+   [
+    "bei Licht",
+    "在灯光下"
+   ]
+  ],
+  "tip": "复数 Lichter"
+ },
+ "w1474": {
+  "en": "love",
+  "col": [
+   [
+    "jemanden lieben",
+    "爱某人"
+   ],
+   [
+    "sich lieben",
+    "相爱"
+   ],
+   [
+    "Ich liebe dich.",
+    "我爱你"
+   ]
+  ],
+  "tip": "比 mögen 强烈，多用于恋人、家人"
+ },
+ "w1475": {
+  "en": "dear; kind",
+  "senses": [
+   "亲爱的",
+   "乖的；友善的"
+  ],
+  "col": [
+   [
+    "Liebe Frau Müller,",
+    "亲爱的穆勒女士（信件开头）"
+   ],
+   [
+    "lieb sein",
+    "乖；友善"
+   ],
+   [
+    "Das ist lieb von dir.",
+    "你真好心"
+   ]
+  ],
+  "tip": "lieber 也是 gern 的比较级：更愿意"
+ },
+ "w1476": {
+  "en": "love",
+  "col": [
+   [
+    "die Liebe auf den ersten Blick",
+    "一见钟情"
+   ],
+   [
+    "aus Liebe",
+    "出于爱"
+   ],
+   [
+    "Liebe zu jemandem",
+    "对某人的爱"
+   ]
+  ],
+  "tip": "Liebe zu + 3格"
+ },
+ "w1477": {
+  "en": "favourite",
+  "col": [
+   [
+    "das Lieblingsessen",
+    "最爱的食物"
+   ],
+   [
+    "die Lieblingsfarbe",
+    "最喜欢的颜色"
+   ],
+   [
+    "der Lieblingssänger",
+    "最喜欢的歌手"
+   ]
+  ],
+  "tip": "构词前缀，直接加在名词前"
+ },
+ "w1478": {
+  "en": "song",
+  "col": [
+   [
+    "ein Lied singen",
+    "唱歌"
+   ],
+   [
+    "ein Lied hören",
+    "听歌"
+   ],
+   [
+    "das Volkslied",
+    "民歌"
+   ]
+  ],
+  "tip": "复数 Lieder；流行歌常说 Song"
+ },
+ "w1479": {
+  "en": "deliver; supply",
+  "col": [
+   [
+    "Waren liefern",
+    "送货"
+   ],
+   [
+    "Die Pizza wird geliefert.",
+    "披萨被送来"
+   ],
+   [
+    "frei Haus liefern",
+    "送货上门"
+   ]
+  ],
+  "tip": "liefern 供货/送货；bringen 带来"
+ },
+ "w1480": {},
+ "w1481": {
+  "en": "delivery",
+  "col": [
+   [
+    "die Lieferung bestellen",
+    "订货"
+   ],
+   [
+    "die Lieferung verzögert sich",
+    "送货延迟"
+   ],
+   [
+    "kostenlose Lieferung",
+    "免费配送"
+   ]
+  ]
+ },
+ "w1482": {
+  "en": "lie; be located",
+  "senses": [
+   "躺着；平放",
+   "位于",
+   "（liegt an）原因在于"
+  ],
+  "col": [
+   [
+    "im Bett liegen",
+    "躺在床上"
+   ],
+   [
+    "Die Stadt liegt am Rhein.",
+    "这座城市在莱茵河畔"
+   ],
+   [
+    "Das liegt an dir.",
+    "这是你的原因"
+   ]
+  ],
+  "tip": "liegen（3格）vs. legen（4格）；南德 ist gelegen"
+ },
+ "w1483": {
+  "en": "lift; elevator",
+  "col": [
+   [
+    "den Lift nehmen",
+    "乘电梯"
+   ],
+   [
+    "der Skilift",
+    "滑雪缆车"
+   ]
+  ],
+  "tip": "瑞士常用；德/奥多说 Aufzug"
+ },
+ "w1484": {
+  "en": "lemonade; soft drink",
+  "col": [
+   [
+    "eine Limonade trinken",
+    "喝汽水"
+   ],
+   [
+    "die Zitronenlimonade",
+    "柠檬汽水"
+   ]
+  ],
+  "tip": "德国泛指各种汽水软饮，不一定是柠檬味"
+ },
+ "w1485": {
+  "en": "line; route",
+  "col": [
+   [
+    "die Linie 5",
+    "5号线"
+   ],
+   [
+    "in erster Linie",
+    "首先；主要"
+   ],
+   [
+    "eine gerade Linie",
+    "一条直线"
+   ]
+  ],
+  "tip": "公交、地铁线路也叫 Linie"
+ },
+ "w1486": {
+  "en": "left",
+  "col": [
+   [
+    "links abbiegen",
+    "左转"
+   ],
+   [
+    "links von mir",
+    "在我左边"
+   ],
+   [
+    "nach links",
+    "向左"
+   ]
+  ],
+  "tip": "反义 rechts；也指政治左派"
+ },
+ "w1487": {
+  "en": "left (adj. stem)",
+  "col": [
+   [
+    "die linke Hand",
+    "左手"
+   ],
+   [
+    "auf der linken Seite",
+    "在左边"
+   ]
+  ],
+  "tip": "词干形，用作 linke/linker；反义 recht-"
+ },
+ "w1488": {
+  "en": "lip",
+  "col": [
+   [
+    "sich auf die Lippe beißen",
+    "咬嘴唇"
+   ],
+   [
+    "der Lippenstift",
+    "口红"
+   ]
+  ],
+  "tip": "常用复数 Lippen"
+ },
+ "w1489": {
+  "en": "list",
+  "col": [
+   [
+    "eine Liste machen",
+    "列清单"
+   ],
+   [
+    "auf der Liste stehen",
+    "在名单上"
+   ],
+   [
+    "die Einkaufsliste",
+    "购物清单"
+   ]
+  ]
+ },
+ "w1490": {
+  "en": "literature",
+  "col": [
+   [
+    "deutsche Literatur",
+    "德国文学"
+   ],
+   [
+    "die Fachliteratur",
+    "专业文献"
+   ]
+  ]
+ },
+ "w1491": {
+  "en": "praise",
+  "col": [
+   [
+    "jemanden loben",
+    "夸奖某人"
+   ],
+   [
+    "jemanden für etwas loben",
+    "因某事表扬某人"
+   ]
+  ],
+  "tip": "反义 tadeln / kritisieren"
+ },
+ "w1492": {
+  "en": "hole",
+  "col": [
+   [
+    "ein Loch im Strumpf",
+    "袜子上的洞"
+   ],
+   [
+    "ein Loch graben",
+    "挖洞"
+   ]
+  ],
+  "tip": "复数 Löcher"
+ },
+ "w1493": {
+  "en": "loose; relaxed",
+  "senses": [
+   "松的",
+   "放松的；随意的"
+  ],
+  "col": [
+   [
+    "Die Schraube ist locker.",
+    "螺丝松了"
+   ],
+   [
+    "Bleib locker!",
+    "放松点！"
+   ]
+  ],
+  "tip": "口语常用：放松、随意"
+ },
+ "w1494": {
+  "en": "spoon",
+  "col": [
+   [
+    "mit dem Löffel essen",
+    "用勺子吃"
+   ],
+   [
+    "ein Löffel Zucker",
+    "一勺糖"
+   ]
+  ],
+  "tip": "餐具：Messer, Gabel, Löffel"
+ },
+ "w1495": {
+  "en": "wage",
+  "col": [
+   [
+    "der Mindestlohn",
+    "最低工资"
+   ],
+   [
+    "den Lohn auszahlen",
+    "发工资"
+   ],
+   [
+    "ein guter Lohn",
+    "不错的工资"
+   ]
+  ],
+  "tip": "Lohn 按时薪/周薪，Gehalt 是月薪"
+ },
+ "w1496": {
+  "en": "be worth it",
+  "col": [
+   [
+    "Das lohnt sich.",
+    "这值得"
+   ],
+   [
+    "Es lohnt sich nicht.",
+    "不值得"
+   ],
+   [
+    "Die Mühe lohnt sich.",
+    "这番努力值得"
+   ]
+  ],
+  "tip": "主语常是 es/das"
+ },
+ "w1497": {
+  "en": "restaurant; pub",
+  "col": [
+   [
+    "ein gemütliches Lokal",
+    "舒适的小馆子"
+   ],
+   [
+    "ein Lokal besuchen",
+    "去饭馆"
+   ]
+  ],
+  "tip": "饭馆/酒馆泛称；形容词 lokal 是“本地的”"
+ },
+ "w1498": {
+  "en": "off; loose; going",
+  "senses": [
+   "（前缀）开始；出发",
+   "（Was ist los?）发生了什么",
+   "松开的；摆脱的"
+  ],
+  "col": [
+   [
+    "Was ist los?",
+    "怎么了？"
+   ],
+   [
+    "Es geht los.",
+    "开始了"
+   ],
+   [
+    "Los geht's!",
+    "开始吧！"
+   ]
+  ],
+  "tip": "los- 是可分前缀：losfahren 出发"
+ },
+ "w1499": {
+  "en": "set off",
+  "col": [
+   [
+    "früh losfahren",
+    "早点出发"
+   ],
+   [
+    "Wir fahren gleich los.",
+    "我们马上出发"
+   ]
+  ],
+  "tip": "可分：fährt los；完成时 ist losgefahren"
+ },
+ "w1500": {
+  "en": "delete; extinguish",
+  "senses": [
+   "删除",
+   "扑灭；熄灭"
+  ],
+  "col": [
+   [
+    "eine Datei löschen",
+    "删除文件"
+   ],
+   [
+    "das Feuer löschen",
+    "灭火"
+   ],
+   [
+    "den Durst löschen",
+    "解渴"
+   ]
+  ],
+  "tip": "“删除”和“灭火”都用 löschen"
+ },
+ "w1501": {
+  "en": "solve",
+  "col": [
+   [
+    "ein Problem lösen",
+    "解决问题"
+   ],
+   [
+    "eine Fahrkarte lösen",
+    "买车票"
+   ],
+   [
+    "ein Rätsel lösen",
+    "解谜"
+   ]
+  ],
+  "tip": "Lösung 是名词；lösen 也有“松开、溶解”义"
+ },
+ "w1502": {
+  "en": "solution",
+  "col": [
+   [
+    "eine Lösung finden",
+    "找到解决办法"
+   ],
+   [
+    "die richtige Lösung",
+    "正确答案"
+   ],
+   [
+    "eine Lösung für das Problem",
+    "问题的解决方案"
+   ]
+  ],
+  "tip": "Lösung für + 4格"
+ },
+ "w1503": {
+  "en": "air",
+  "col": [
+   [
+    "frische Luft",
+    "新鲜空气"
+   ],
+   [
+    "an die frische Luft gehen",
+    "去户外透气"
+   ],
+   [
+    "Luft holen",
+    "喘口气"
+   ]
+  ],
+  "tip": "不可数名词"
+ },
+ "w1504": {
+  "en": "lie; tell a lie",
+  "col": [
+   [
+    "jemanden anlügen",
+    "对某人撒谎"
+   ],
+   [
+    "Du lügst!",
+    "你撒谎！"
+   ]
+  ],
+  "tip": "强变化 log, gelogen；别和 liegen 混淆"
+ },
+ "w1505": {
+  "en": "lie",
+  "col": [
+   [
+    "eine Lüge erzählen",
+    "说谎"
+   ],
+   [
+    "eine weiße Lüge",
+    "善意的谎言"
+   ]
+  ],
+  "tip": "反义 Wahrheit（真相）"
+ },
+ "w1506": {
+  "en": "desire; fancy",
+  "col": [
+   [
+    "Lust auf etwas haben",
+    "想要某物"
+   ],
+   [
+    "Ich habe keine Lust.",
+    "我不想"
+   ],
+   [
+    "Lust haben, zu ...",
+    "有兴致做…"
+   ]
+  ],
+  "tip": "Lust haben auf + 4格 / zu + 不定式"
+ },
+ "w1507": {
+  "en": "funny; cheerful",
+  "col": [
+   [
+    "ein lustiger Film",
+    "有趣的电影"
+   ],
+   [
+    "lustig sein",
+    "幽默；开心"
+   ],
+   [
+    "sich über jemanden lustig machen",
+    "取笑某人"
+   ]
+  ],
+  "tip": "lustig 逗乐；komisch 多指奇怪"
+ },
+ "w1508": {
+  "en": "make; do",
+  "senses": [
+   "做；制作",
+   "使得",
+   "（价格）共计",
+   "没关系（macht nichts）"
+  ],
+  "col": [
+   [
+    "Hausaufgaben machen",
+    "做作业"
+   ],
+   [
+    "Spaß machen",
+    "有趣"
+   ],
+   [
+    "Das macht 5 Euro.",
+    "这个共5欧元"
+   ],
+   [
+    "Das macht nichts.",
+    "没关系"
+   ]
+  ],
+  "tip": "万能动词，口语使用频率极高"
+ },
+ "w1509": {
+  "en": "girl",
+  "col": [
+   [
+    "ein kleines Mädchen",
+    "小女孩"
+   ],
+   [
+    "Jungen und Mädchen",
+    "男孩和女孩"
+   ]
+  ],
+  "tip": "语法性为中性 das Mädchen（-chen 结尾）"
+ },
+ "w1510": {
+  "en": "magazine",
+  "col": [
+   [
+    "ein Magazin abonnieren",
+    "订阅杂志"
+   ],
+   [
+    "das Nachrichtenmagazin",
+    "新闻周刊"
+   ]
+  ],
+  "tip": "同义 Zeitschrift，更偏新闻/画报"
+ },
+ "w1511": {
+  "en": "stomach",
+  "col": [
+   [
+    "Magenschmerzen haben",
+    "胃疼"
+   ],
+   [
+    "auf nüchternen Magen",
+    "空腹"
+   ],
+   [
+    "Mein Magen knurrt.",
+    "我肚子咕咕叫"
+   ]
+  ],
+  "tip": "Magen 是胃；Bauch 是肚子"
+ },
+ "w1512": {
+  "en": "lean; thin",
+  "col": [
+   [
+    "mageres Fleisch",
+    "瘦肉"
+   ],
+   [
+    "magere Milch",
+    "低脂奶"
+   ]
+  ],
+  "tip": "说人时偏贬义：干瘦；食品：低脂"
+ },
+ "w1513": {
+  "en": "meal",
+  "col": [
+   [
+    "eine warme Mahlzeit",
+    "一顿热餐"
+   ],
+   [
+    "Mahlzeit!",
+    "（午餐时的招呼）用餐愉快"
+   ],
+   [
+    "drei Mahlzeiten am Tag",
+    "每天三餐"
+   ]
+  ],
+  "tip": "德国同事午休时互道 Mahlzeit!"
+ },
+ "w1514": {
+  "en": "reminder (for payment)",
+  "col": [
+   [
+    "eine Mahnung bekommen",
+    "收到催款单"
+   ],
+   [
+    "die zweite Mahnung",
+    "第二次催款通知"
+   ]
+  ],
+  "tip": "催缴账单；动词 mahnen"
+ },
+ "w1515": {
+  "en": "once; times; (particle)",
+  "senses": [
+   "（口语）一下；曾经",
+   "乘（×）",
+   "（语气词）缓和语气"
+  ],
+  "col": [
+   [
+    "Komm mal her!",
+    "过来一下！"
+   ],
+   [
+    "zwei mal drei",
+    "二乘三"
+   ],
+   [
+    "Hör mal!",
+    "听着！"
+   ]
+  ],
+  "tip": "= einmal 的口语缩写；名词 Mal 大写，意为“次”"
+ },
+ "w1516": {
+  "en": "paint; draw",
+  "col": [
+   [
+    "ein Bild malen",
+    "画一幅画"
+   ],
+   [
+    "mit Wasserfarben malen",
+    "用水彩画画"
+   ],
+   [
+    "ein Porträt malen",
+    "画肖像"
+   ]
+  ],
+  "tip": "malen 用颜料画；zeichnen 素描 / 画线"
+ },
+ "w1517": {
+  "en": "painter",
+  "senses": [
+   "画家",
+   "油漆工"
+  ],
+  "col": [
+   [
+    "ein bekannter Maler",
+    "著名画家"
+   ],
+   [
+    "den Maler bestellen",
+    "请油漆工"
+   ]
+  ],
+  "tip": "阴性 Malerin；也指粉刷工"
+ },
+ "w1518": {
+  "en": "one; you; they",
+  "col": [
+   [
+    "Man kann ...",
+    "可以…"
+   ],
+   [
+    "Man darf hier nicht rauchen.",
+    "这里不许吸烟"
+   ],
+   [
+    "Wie sagt man ... auf Deutsch?",
+    "…用德语怎么说？"
+   ]
+  ],
+  "tip": "泛指“人们”，动词用第三人称单数；勿与 Mann 混"
+ },
+ "w1519": {
+  "en": "some; many a",
+  "col": [
+   [
+    "manche Leute",
+    "有些人"
+   ],
+   [
+    "so manches",
+    "不少事情"
+   ],
+   [
+    "manches Mal",
+    "有时"
+   ]
+  ],
+  "tip": "复数 manche 意为“有些”"
+ },
+ "w1520": {
+  "en": "sometimes",
+  "col": [
+   [
+    "manchmal ja, manchmal nein",
+    "有时是，有时不是"
+   ],
+   [
+    "Manchmal habe ich Kopfschmerzen.",
+    "有时我头疼"
+   ]
+  ],
+  "tip": "频度：immer > oft > manchmal > selten > nie"
+ },
+ "w1521": {
+  "en": "lack; defect",
+  "senses": [
+   "缺乏",
+   "缺陷"
+  ],
+  "col": [
+   [
+    "Mangel an Zeit",
+    "时间不足"
+   ],
+   [
+    "einen Mangel melden",
+    "报告缺陷（如租房）"
+   ],
+   [
+    "aus Mangel an Beweisen",
+    "因证据不足"
+   ]
+  ],
+  "tip": "Mangel an + 3格；复数 Mängel 指缺陷"
+ },
+ "w1522": {
+  "en": "man; husband",
+  "senses": [
+   "男人",
+   "丈夫"
+  ],
+  "col": [
+   [
+    "mein Mann",
+    "我丈夫"
+   ],
+   [
+    "ein alter Mann",
+    "老人"
+   ],
+   [
+    "Mann und Frau",
+    "夫妻 / 男女"
+   ]
+  ],
+  "tip": "复数 Männer；mein Mann = 我丈夫"
+ },
+ "w1523": {
+  "en": "male",
+  "col": [
+   [
+    "männlich oder weiblich",
+    "男或女"
+   ],
+   [
+    "die männliche Form",
+    "阳性形式"
+   ]
+  ],
+  "tip": "反义 weiblich；表格中的性别选项"
+ },
+ "w1524": {
+  "en": "team",
+  "col": [
+   [
+    "die Fußballmannschaft",
+    "足球队"
+   ],
+   [
+    "in der Mannschaft spielen",
+    "在队里踢球"
+   ],
+   [
+    "Die Mannschaft gewinnt.",
+    "球队获胜"
+   ]
+  ],
+  "tip": "体育队；公司团队常说 Team"
+ },
+ "w1525": {
+  "en": "coat",
+  "col": [
+   [
+    "einen Mantel anziehen",
+    "穿大衣"
+   ],
+   [
+    "den Mantel ausziehen",
+    "脱大衣"
+   ]
+  ],
+  "tip": "复数 Mäntel；Jacke 是短外套"
+ },
+ "w1526": {
+  "en": "folder; portfolio",
+  "col": [
+   [
+    "die Bewerbungsmappe",
+    "求职材料夹"
+   ],
+   [
+    "eine Mappe mit Unterlagen",
+    "装文件的文件夹"
+   ]
+  ],
+  "tip": "德国求职纸质材料常装在 Bewerbungsmappe"
+ },
+ "w1527": {
+  "en": "fairy tale",
+  "col": [
+   [
+    "ein Märchen erzählen",
+    "讲童话"
+   ],
+   [
+    "die Märchen der Brüder Grimm",
+    "格林童话"
+   ]
+  ],
+  "tip": "也可比喻“瞎编的故事”"
+ },
+ "w1528": {
+  "en": "margarine",
+  "col": [
+   [
+    "Brot mit Margarine",
+    "涂人造黄油的面包"
+   ],
+   [
+    "mit Margarine backen",
+    "用人造黄油烘焙"
+   ]
+  ],
+  "tip": "Butter 是黄油，Margarine 是人造黄油"
+ },
+ "w1529": {
+  "en": "apricot (Austria)",
+  "col": [
+   [
+    "die Marillenmarmelade",
+    "杏子酱"
+   ],
+   [
+    "der Marillenknödel",
+    "杏子团子"
+   ]
+  ],
+  "tip": "奥地利用语；德国/瑞士叫 Aprikose"
+ },
+ "w1530": {
+  "en": "brand; stamp",
+  "senses": [
+   "品牌",
+   "邮票（Briefmarke）",
+   "标记；牌"
+  ],
+  "col": [
+   [
+    "eine bekannte Marke",
+    "知名品牌"
+   ],
+   [
+    "die Briefmarke",
+    "邮票"
+   ],
+   [
+    "die Marke wechseln",
+    "换品牌"
+   ]
+  ],
+  "tip": "Briefmarke 常简称 Marke"
+ },
+ "w1531": {
+  "en": "mark; highlight",
+  "col": [
+   [
+    "einen Text markieren",
+    "标出 / 选中文本"
+   ],
+   [
+    "Wichtiges markieren",
+    "标出重点"
+   ]
+  ],
+  "tip": "电脑里“选中”也用 markieren"
+ },
+ "w1532": {
+  "en": "market",
+  "col": [
+   [
+    "auf den Markt gehen",
+    "去集市"
+   ],
+   [
+    "der Wochenmarkt",
+    "每周集市"
+   ],
+   [
+    "der Arbeitsmarkt",
+    "劳动力市场"
+   ]
+  ],
+  "tip": "复数 Märkte；auf dem Markt 在集市上"
+ },
+ "w1533": {
+  "en": "jam",
+  "col": [
+   [
+    "Brot mit Marmelade",
+    "涂果酱的面包"
+   ],
+   [
+    "Erdbeermarmelade",
+    "草莓酱"
+   ],
+   [
+    "Marmelade kochen",
+    "熬果酱"
+   ]
+  ],
+  "tip": "德国日常指各种果酱；瑞士用 Konfitüre"
+ },
+ "w1534": {
+  "en": "machine",
+  "col": [
+   [
+    "die Waschmaschine",
+    "洗衣机"
+   ],
+   [
+    "die Maschine bedienen",
+    "操作机器"
+   ],
+   [
+    "mit der Maschine schreiben",
+    "用打字机打字"
+   ]
+  ],
+  "tip": "Waschmaschine 常省称 Maschine"
+ },
+ "w1535": {
+  "en": "material",
+  "col": [
+   [
+    "Materialien sammeln",
+    "收集材料"
+   ],
+   [
+    "das Lehrmaterial",
+    "教材"
+   ],
+   [
+    "das Material prüfen",
+    "检查材料"
+   ]
+  ],
+  "tip": "复数 Materialien"
+ },
+ "w1536": {
+  "en": "school-leaving exam (A/CH)",
+  "col": [
+   [
+    "die Matura machen",
+    "参加高中毕业会考"
+   ],
+   [
+    "nach der Matura",
+    "会考之后"
+   ]
+  ],
+  "tip": "奥/瑞用语；德国对应 Abitur"
+ },
+ "w1537": {
+  "en": "wall",
+  "col": [
+   [
+    "die Berliner Mauer",
+    "柏林墙"
+   ],
+   [
+    "eine hohe Mauer",
+    "高墙"
+   ],
+   [
+    "die Mauer um den Garten",
+    "花园围墙"
+   ]
+  ],
+  "tip": "Mauer 室外砖石墙；Wand 室内墙壁"
+ },
+ "w1538": {
+  "en": "maximum; at most",
+  "col": [
+   [
+    "maximal zwei Stunden",
+    "最多两小时"
+   ],
+   [
+    "die maximale Geschwindigkeit",
+    "最高速度"
+   ]
+  ],
+  "tip": "反义 minimal；名词 Maximum"
+ },
+ "w1539": {
+  "en": "mechanic",
+  "col": [
+   [
+    "als Mechaniker arbeiten",
+    "当技工"
+   ],
+   [
+    "zum Mechaniker gehen",
+    "去找修理工"
+   ]
+  ],
+  "tip": "阴性 Mechanikerin；汽车技工 Kfz-Mechaniker"
+ },
+ "w1540": {
+  "en": "media",
+  "col": [
+   [
+    "die sozialen Medien",
+    "社交媒体"
+   ],
+   [
+    "neue Medien",
+    "新媒体"
+   ],
+   [
+    "in den Medien",
+    "在媒体上"
+   ]
+  ],
+  "tip": "复数；单数 Medium"
+ },
+ "w1541": {
+  "en": "medicine; drug",
+  "col": [
+   [
+    "ein Medikament einnehmen",
+    "服药"
+   ],
+   [
+    "ein Medikament verschreiben",
+    "开药"
+   ],
+   [
+    "Medikamente gegen Kopfschmerzen",
+    "止头痛药"
+   ]
+  ],
+  "tip": "Medikament 药品；Medizin 医学 / 药"
+ },
+ "w1542": {
+  "en": "medicine",
+  "senses": [
+   "医学",
+   "药（口语）"
+  ],
+  "col": [
+   [
+    "Medizin studieren",
+    "学医"
+   ],
+   [
+    "Medizin einnehmen",
+    "服药"
+   ]
+  ],
+  "tip": "学科或药；药更常用 Medikament"
+ },
+ "w1543": {
+  "en": "sea",
+  "col": [
+   [
+    "ans Meer fahren",
+    "去海边"
+   ],
+   [
+    "am Meer",
+    "在海边"
+   ],
+   [
+    "das Mittelmeer",
+    "地中海"
+   ]
+  ],
+  "tip": "das Meer 海；复数 Meere"
+ },
+ "w1544": {
+  "en": "flour",
+  "col": [
+   [
+    "Mehl und Zucker",
+    "面粉和糖"
+   ],
+   [
+    "ein Pfund Mehl",
+    "一磅面粉"
+   ],
+   [
+    "das Weizenmehl",
+    "小麦粉"
+   ]
+  ]
+ },
+ "w1545": {
+  "en": "more",
+  "col": [
+   [
+    "mehr oder weniger",
+    "或多或少"
+   ],
+   [
+    "nicht mehr",
+    "不再"
+   ],
+   [
+    "noch mehr",
+    "更多"
+   ]
+  ],
+  "tip": "viel 的比较级；nicht mehr = 不再"
+ },
+ "w1546": {
+  "en": "several",
+  "col": [
+   [
+    "mehrere Tage",
+    "好几天"
+   ],
+   [
+    "mehrere Male",
+    "好几次"
+   ]
+  ],
+  "tip": "只用复数，词尾变化同形容词"
+ },
+ "w1547": {
+  "en": "majority",
+  "col": [
+   [
+    "die Mehrheit der Leute",
+    "大多数人"
+   ],
+   [
+    "die Mehrheit gewinnen",
+    "获得多数"
+   ],
+   [
+    "mit Mehrheit",
+    "以多数票"
+   ]
+  ],
+  "tip": "反义 Minderheit"
+ },
+ "w1548": {
+  "en": "VAT",
+  "col": [
+   [
+    "19 Prozent Mehrwertsteuer",
+    "19%增值税"
+   ],
+   [
+    "inklusive Mehrwertsteuer",
+    "含增值税"
+   ]
+  ],
+  "tip": "缩写 MwSt.；德国标准税率 19%"
+ },
+ "w1549": {
+  "en": "mean; think",
+  "senses": [
+   "认为",
+   "意指"
+  ],
+  "col": [
+   [
+    "Was meinen Sie dazu?",
+    "您对此怎么看？"
+   ],
+   [
+    "Wie meinst du das?",
+    "你这话什么意思？"
+   ],
+   [
+    "Ich meine, ...",
+    "我认为…"
+   ]
+  ],
+  "tip": "meinen 表“认为”，语气比 denken 弱"
+ },
+ "w1550": {
+  "en": "I don't mind; for my sake",
+  "senses": [
+   "我无所谓；随你便",
+   "因为我；为了我"
+  ],
+  "col": [
+   [
+    "Meinetwegen!",
+    "随便！"
+   ],
+   [
+    "Meinetwegen kannst du gehen.",
+    "你想走就走吧，我没意见"
+   ]
+  ],
+  "tip": "口语，带“无所谓”的语气"
+ },
+ "w1551": {
+  "en": "opinion",
+  "col": [
+   [
+    "meiner Meinung nach",
+    "依我看"
+   ],
+   [
+    "seine Meinung sagen",
+    "说出观点"
+   ],
+   [
+    "der gleichen Meinung sein",
+    "意见一致"
+   ]
+  ],
+  "tip": "meiner Meinung nach 后直接接主句"
+ },
+ "w1552": {
+  "en": "most",
+  "col": [
+   [
+    "die meisten Leute",
+    "大多数人"
+   ],
+   [
+    "am meisten",
+    "最多"
+   ]
+  ],
+  "tip": "die meisten + 复数 = 大多数"
+ },
+ "w1553": {
+  "en": "mostly",
+  "col": [
+   [
+    "meistens zu Hause",
+    "通常在家"
+   ],
+   [
+    "meist am Wochenende",
+    "多半在周末"
+   ]
+  ],
+  "tip": "频率高于 oft，低于 immer"
+ },
+ "w1554": {
+  "en": "master",
+  "senses": [
+   "（手工业）师傅",
+   "冠军"
+  ],
+  "col": [
+   [
+    "Meister werden",
+    "成为师傅"
+   ],
+   [
+    "der Fußballmeister",
+    "足球冠军"
+   ],
+   [
+    "der Meisterbrief",
+    "师傅资格证书"
+   ]
+  ],
+  "tip": "手工业师傅或冠军；阴性 Meisterin"
+ },
+ "w1555": {
+  "en": "report; register",
+  "senses": [
+   "报告；通报",
+   "（sich melden）联系；接电话；发言",
+   "报名；登记"
+  ],
+  "col": [
+   [
+    "sich krank melden",
+    "请病假"
+   ],
+   [
+    "Ich melde mich bei Ihnen.",
+    "我会联系您"
+   ],
+   [
+    "sich zu Wort melden",
+    "要求发言"
+   ]
+  ],
+  "tip": "sich melden 联系/发言；anmelden 注册"
+ },
+ "w1556": {
+  "en": "report; message",
+  "col": [
+   [
+    "eine Meldung im Radio",
+    "电台消息"
+   ],
+   [
+    "die Fehlermeldung",
+    "错误提示"
+   ],
+   [
+    "eine Meldung machen",
+    "报告 / 申报"
+   ]
+  ],
+  "tip": "新闻短讯、系统提示、登记申报都可用"
+ },
+ "w1557": {
+  "en": "quantity; crowd",
+  "col": [
+   [
+    "eine Menge Geld",
+    "很多钱"
+   ],
+   [
+    "in großen Mengen",
+    "大量地"
+   ],
+   [
+    "eine Menge Leute",
+    "很多人"
+   ]
+  ],
+  "tip": "eine Menge 口语里表“很多”"
+ },
+ "w1558": {
+  "en": "university canteen",
+  "col": [
+   [
+    "in der Mensa essen",
+    "在食堂吃饭"
+   ],
+   [
+    "die Mensakarte",
+    "食堂卡"
+   ]
+  ],
+  "tip": "大学食堂；公司食堂叫 Kantine"
+ },
+ "w1559": {
+  "en": "human; person",
+  "col": [
+   [
+    "ein netter Mensch",
+    "友善的人"
+   ],
+   [
+    "alle Menschen",
+    "所有人"
+   ],
+   [
+    "Mensch!",
+    "哎呀！（口语感叹）"
+   ]
+  ],
+  "tip": "n-变化：den Menschen"
+ },
+ "w1560": {
+  "en": "human; humane",
+  "col": [
+   [
+    "menschliche Fehler",
+    "人为错误"
+   ],
+   [
+    "jemanden menschlich behandeln",
+    "人道地对待某人"
+   ]
+  ],
+  "tip": "指“人的”或“有人情味的”"
+ },
+ "w1561": {
+  "en": "menu; set meal",
+  "senses": [
+   "套餐",
+   "（电脑）菜单"
+  ],
+  "col": [
+   [
+    "ein Menü bestellen",
+    "点套餐"
+   ],
+   [
+    "das Tagesmenü",
+    "今日套餐"
+   ],
+   [
+    "das Menü öffnen",
+    "打开菜单（电脑）"
+   ]
+  ],
+  "tip": "餐厅点菜用的菜单叫 Speisekarte"
+ },
+ "w1562": {
+  "en": "notice; remember",
+  "senses": [
+   "察觉",
+   "记住（sich merken）"
+  ],
+  "col": [
+   [
+    "Ich habe nichts gemerkt.",
+    "我什么都没察觉"
+   ],
+   [
+    "sich etwas merken",
+    "记住某事"
+   ],
+   [
+    "Merk dir das!",
+    "记住这个！"
+   ]
+  ],
+  "tip": "merken 察觉；sich (3) merken 记住"
+ },
+ "w1563": {
+  "en": "strange; odd",
+  "col": [
+   [
+    "merkwürdig aussehen",
+    "看起来奇怪"
+   ],
+   [
+    "eine merkwürdige Geschichte",
+    "奇怪的故事"
+   ]
+  ],
+  "tip": "同 seltsam / komisch，较书面"
+ },
+ "w1564": {
+  "en": "fair; mass",
+  "senses": [
+   "展览会；博览会",
+   "（天主教）弥撒"
+  ],
+  "col": [
+   [
+    "auf die Messe gehen",
+    "去展会"
+   ],
+   [
+    "die Buchmesse",
+    "图书博览会"
+   ]
+  ],
+  "tip": "Messe 展会；Ausstellung 展览"
+ },
+ "w1565": {
+  "en": "measure",
+  "col": [
+   [
+    "Fieber messen",
+    "量体温"
+   ],
+   [
+    "Blutdruck messen",
+    "量血压"
+   ],
+   [
+    "die Länge messen",
+    "测量长度"
+   ]
+  ],
+  "tip": "强变化：du/er misst, maß, gemessen"
+ },
+ "w1566": {
+  "en": "knife",
+  "col": [
+   [
+    "mit Messer und Gabel essen",
+    "用刀叉吃饭"
+   ],
+   [
+    "ein scharfes Messer",
+    "锋利的刀"
+   ]
+  ],
+  "tip": "中性 das Messer；复数同形"
+ },
+ "w1567": {
+  "en": "metal",
+  "col": [
+   [
+    "aus Metall",
+    "金属制的"
+   ],
+   [
+    "Metall verarbeiten",
+    "加工金属"
+   ]
+  ]
+ },
+ "w1568": {
+  "en": "method",
+  "col": [
+   [
+    "eine neue Methode",
+    "新方法"
+   ],
+   [
+    "eine Methode anwenden",
+    "采用某方法"
+   ]
+  ],
+  "tip": "重音 Methóde；复数 Methoden"
+ },
+ "w1569": {
+  "en": "metropolis",
+  "col": [
+   [
+    "die Metropole Berlin",
+    "大都会柏林"
+   ],
+   [
+    "Metropolen wie London",
+    "像伦敦这样的大都市"
+   ]
+  ]
+ },
+ "w1570": {
+  "en": "butcher",
+  "col": [
+   [
+    "beim Metzger einkaufen",
+    "在肉店买肉"
+   ],
+   [
+    "zum Metzger gehen",
+    "去肉铺"
+   ]
+  ],
+  "tip": "北德多说 Fleischer；奥地利 Fleischhauer"
+ },
+ "w1571": {
+  "en": "rent (as tenant)",
+  "col": [
+   [
+    "eine Wohnung mieten",
+    "租房"
+   ],
+   [
+    "ein Auto mieten",
+    "租车"
+   ]
+  ],
+  "tip": "mieten 租入；vermieten 租出"
+ },
+ "w1572": {
+  "en": "rent",
+  "col": [
+   [
+    "die Miete zahlen",
+    "付房租"
+   ],
+   [
+    "Miete pro Monat",
+    "月租"
+   ],
+   [
+    "die Warmmiete",
+    "含杂费租金"
+   ]
+  ],
+  "tip": "Kaltmiete 不含杂费；Warmmiete 含杂费"
+ },
+ "w1573": {
+  "en": "tenant",
+  "col": [
+   [
+    "die Mieter im Haus",
+    "楼里的租户"
+   ],
+   [
+    "Mieter und Vermieter",
+    "房客和房东"
+   ]
+  ],
+  "tip": "阴性 Mieterin；对立 Vermieter"
+ },
+ "w1574": {
+  "en": "migrant",
+  "col": [
+   [
+    "ein Migrant aus Syrien",
+    "来自叙利亚的移民"
+   ],
+   [
+    "Migranten helfen",
+    "帮助移民"
+   ]
+  ],
+  "tip": "n-变化：den Migranten"
+ },
+ "w1575": {
+  "en": "migrant (f.)",
+  "col": [
+   [
+    "eine Migrantin aus Afrika",
+    "来自非洲的女移民"
+   ],
+   [
+    "Migrantinnen unterstützen",
+    "支持女性移民"
+   ]
+  ]
+ },
+ "w1576": {
+  "en": "migration",
+  "col": [
+   [
+    "die Migration nach Europa",
+    "向欧洲的移民"
+   ],
+   [
+    "der Migrationshintergrund",
+    "移民背景"
+   ]
+  ],
+  "tip": "Migration 常指人口迁移现象"
+ },
+ "w1577": {
+  "en": "milk",
+  "col": [
+   [
+    "ein Glas Milch",
+    "一杯牛奶"
+   ],
+   [
+    "Kaffee mit Milch",
+    "加奶咖啡"
+   ],
+   [
+    "Die Milch ist sauer.",
+    "牛奶酸了"
+   ]
+  ],
+  "tip": "不可数名词"
+ },
+ "w1578": {
+  "en": "mild",
+  "col": [
+   [
+    "ein milder Winter",
+    "暖冬"
+   ],
+   [
+    "ein mildes Klima",
+    "温和的气候"
+   ],
+   [
+    "mild im Geschmack",
+    "味道温和"
+   ]
+  ]
+ },
+ "w1579": {
+  "en": "minority",
+  "col": [
+   [
+    "eine Minderheit bilden",
+    "构成少数"
+   ],
+   [
+    "die ethnische Minderheit",
+    "少数民族"
+   ],
+   [
+    "in der Minderheit sein",
+    "占少数"
+   ]
+  ],
+  "tip": "反义 Mehrheit"
+ },
+ "w1580": {
+  "en": "at least",
+  "col": [
+   [
+    "mindestens zwei Stunden",
+    "至少两小时"
+   ],
+   [
+    "mindestens 18 Jahre alt",
+    "至少18岁"
+   ]
+  ],
+  "tip": "反义 höchstens（至多）"
+ },
+ "w1581": {
+  "en": "mineral water",
+  "col": [
+   [
+    "Mineralwasser mit Kohlensäure",
+    "带气矿泉水"
+   ],
+   [
+    "Mineralwasser ohne Kohlensäure",
+    "无气矿泉水"
+   ]
+  ],
+  "tip": "点水要说清 mit/ohne Kohlensäure（有/无气）"
+ },
+ "w1582": {
+  "en": "minimal",
+  "col": [
+   [
+    "minimale Unterschiede",
+    "极小的差别"
+   ],
+   [
+    "ein minimaler Aufwand",
+    "最少的投入"
+   ]
+  ],
+  "tip": "反义 maximal"
+ },
+ "w1583": {
+  "en": "mix",
+  "col": [
+   [
+    "Farben mischen",
+    "混合颜色"
+   ],
+   [
+    "Karten mischen",
+    "洗牌"
+   ],
+   [
+    "sich unter die Leute mischen",
+    "混入人群"
+   ]
+  ],
+  "tip": "名词 Mischung"
+ },
+ "w1584": {
+  "en": "mis-",
+  "col": [
+   [
+    "das Missverständnis",
+    "误会"
+   ],
+   [
+    "missverstehen",
+    "误解"
+   ],
+   [
+    "der Misserfolg",
+    "失败"
+   ]
+  ],
+  "tip": "表“错误、不成功”的前缀"
+ },
+ "w1585": {
+  "en": "with",
+  "senses": [
+   "和…一起",
+   "用（工具）",
+   "乘（交通工具）",
+   "带有"
+  ],
+  "col": [
+   [
+    "mit dem Bus fahren",
+    "坐公交车"
+   ],
+   [
+    "mit Freunden",
+    "和朋友们"
+   ],
+   [
+    "mit Messer und Gabel",
+    "用刀叉"
+   ]
+  ],
+  "tip": "介词，永远接3格：mit dem Bus, mit mir"
+ },
+ "w1586": {
+  "en": "employee; colleague",
+  "col": [
+   [
+    "neue Mitarbeiter einstellen",
+    "招聘新员工"
+   ],
+   [
+    "ein freundlicher Mitarbeiter",
+    "友好的员工"
+   ],
+   [
+    "der Mitarbeiter des Monats",
+    "月度员工"
+   ]
+  ],
+  "tip": "阴性 Mitarbeiterin；Kollege 强调平级同事"
+ },
+ "w1587": {
+  "en": "with each other",
+  "col": [
+   [
+    "miteinander sprechen",
+    "彼此交谈"
+   ],
+   [
+    "gut miteinander auskommen",
+    "彼此相处融洽"
+   ]
+  ],
+  "tip": "= mit + einander（互相）"
+ }
+}

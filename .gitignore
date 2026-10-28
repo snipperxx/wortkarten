@@ -1,0 +1,7 @@
+# Goethe 原始 PDF 不公开分发
+src/
+# 重复的音频原件、旧的 claude.ai 版本、本地环境
+audio_small/
+site/
+__pycache__/
+*.pyc

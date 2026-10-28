@@ -1,0 +1,6244 @@
+{
+ "w0000": {
+  "en": "from; starting at",
+  "senses": [
+   "从…起（时间）",
+   "从…出发（地点）",
+   "（价格）起"
+  ],
+  "col": [
+   [
+    "ab nächster Woche",
+    "从下周起"
+   ],
+   [
+    "ab Hamburg",
+    "从汉堡出发"
+   ],
+   [
+    "ab und zu",
+    "偶尔"
+   ]
+  ],
+  "tip": "介词，后接第三格；ab 18 Jahren 即「18岁起」"
+ },
+ "w0001": {
+  "en": "turn off; turn (a corner)",
+  "col": [
+   [
+    "nach links abbiegen",
+    "向左转"
+   ],
+   [
+    "an der Kreuzung rechts abbiegen",
+    "在十字路口右转"
+   ]
+  ],
+  "tip": "助动词用 sein；ab 可分：biegt … ab"
+ },
+ "w0002": {
+  "en": "illustration; figure",
+  "col": [
+   [
+    "siehe Abbildung 1",
+    "见图1"
+   ],
+   [
+    "eine Abbildung im Buch",
+    "书里的插图"
+   ]
+  ],
+  "tip": "书中缩写 Abb."
+ },
+ "w0003": {
+  "en": "adventure",
+  "col": [
+   [
+    "ein Abenteuer erleben",
+    "经历一次冒险"
+   ],
+   [
+    "auf Abenteuer ausgehen",
+    "去探险"
+   ]
+  ],
+  "tip": "形容词 abenteuerlich，冒险的"
+ },
+ "w0004": {
+  "en": "but; however",
+  "senses": [
+   "但是",
+   "（语气词）可真…"
+  ],
+  "col": [
+   [
+    "aber trotzdem",
+    "但还是"
+   ],
+   [
+    "Das ist aber schön!",
+    "这可真漂亮！"
+   ],
+   [
+    "Aber ja!",
+    "当然！"
+   ]
+  ],
+  "tip": "连词，后面语序不变；语气词 aber 表示惊讶"
+ },
+ "w0005": {
+  "en": "depart; leave",
+  "col": [
+   [
+    "Der Zug fährt um 8 Uhr ab.",
+    "火车8点出发。"
+   ],
+   [
+    "Wann fährt der Bus ab?",
+    "公共汽车几点开？"
+   ]
+  ],
+  "tip": "fährt ab 有变音；名词 Abfahrt，反义 ankommen"
+ },
+ "w0006": {
+  "en": "departure",
+  "col": [
+   [
+    "die Abfahrt des Zuges",
+    "火车的发车"
+   ],
+   [
+    "Abfahrt und Ankunft",
+    "出发与到达"
+   ]
+  ],
+  "tip": "反义 die Ankunft；高速路出口叫 Ausfahrt"
+ },
+ "w0007": {
+  "en": "waste; rubbish",
+  "col": [
+   [
+    "den Abfall trennen",
+    "垃圾分类"
+   ],
+   [
+    "Abfall entsorgen",
+    "处理垃圾"
+   ]
+  ],
+  "tip": "近义 der Müll（更口语）"
+ },
+ "w0008": {
+  "en": "rubbish bin; waste bin",
+  "col": [
+   [
+    "etwas in den Abfalleimer werfen",
+    "扔进垃圾桶"
+   ]
+  ],
+  "tip": "Abfall 垃圾 + Eimer 桶"
+ },
+ "w0009": {
+  "en": "exhaust fumes",
+  "col": [
+   [
+    "die Abgase von Autos",
+    "汽车尾气"
+   ],
+   [
+    "die Abgase reduzieren",
+    "减少废气排放"
+   ]
+  ],
+  "tip": "只用复数"
+ },
+ "w0010": {
+  "en": "hand in; submit; give",
+  "senses": [
+   "交；交上去",
+   "投（票）；发表（意见）",
+   "转让；让出"
+  ],
+  "col": [
+   [
+    "die Hausaufgaben abgeben",
+    "交作业"
+   ],
+   [
+    "eine Stimme abgeben",
+    "投票"
+   ],
+   [
+    "ein Paket abgeben",
+    "寄存/交付包裹"
+   ]
+  ],
+  "tip": "gibt ab；与 abholen（取走）相对"
+ },
+ "w0011": {
+  "en": "depend on",
+  "col": [
+   [
+    "Das hängt vom Wetter ab.",
+    "这取决于天气。"
+   ],
+   [
+    "Es hängt davon ab, ob …",
+    "这取决于是否…"
+   ]
+  ],
+  "tip": "固定搭配 abhängen von + 第三格；口语也说 Kommt drauf an"
+ },
+ "w0012": {
+  "en": "dependent",
+  "col": [
+   [
+    "von den Eltern abhängig sein",
+    "依赖父母"
+   ],
+   [
+    "vom Wetter abhängig",
+    "取决于天气"
+   ]
+  ],
+  "tip": "反义 unabhängig"
+ },
+ "w0013": {
+  "en": "withdraw (money); lift off",
+  "senses": [
+   "取（钱）",
+   "拿起（听筒）",
+   "（飞机）起飞"
+  ],
+  "col": [
+   [
+    "Geld abheben",
+    "取钱"
+   ],
+   [
+    "den Hörer abheben",
+    "拿起听筒"
+   ],
+   [
+    "Das Flugzeug hebt ab.",
+    "飞机起飞。"
+   ]
+  ],
+  "tip": "取钱 abheben，存钱 einzahlen"
+ },
+ "w0014": {
+  "en": "pick up; collect",
+  "col": [
+   [
+    "jemanden vom Bahnhof abholen",
+    "去火车站接人"
+   ],
+   [
+    "ein Paket abholen",
+    "取包裹"
+   ]
+  ],
+  "tip": "abholen 强调到某处去接/取；holen 只是去拿来"
+ },
+ "w0015": {
+  "en": "copy (from)",
+  "col": [
+   [
+    "von jemandem abschreiben",
+    "抄某人的"
+   ],
+   [
+    "den Text abschreiben",
+    "抄课文"
+   ]
+  ],
+  "tip": "beim Test abschreiben 即考试作弊"
+ },
+ "w0016": {
+  "en": "reject; decline",
+  "col": [
+   [
+    "ein Angebot ablehnen",
+    "拒绝一个报价"
+   ],
+   [
+    "einen Antrag ablehnen",
+    "驳回申请"
+   ]
+  ],
+  "tip": "比 nein sagen 正式；名词 die Ablehnung"
+ },
+ "w0017": {
+  "en": "arrange; agree; take off",
+  "senses": [
+   "约定；商定",
+   "取下；拆掉"
+  ],
+  "col": [
+   [
+    "einen Termin abmachen",
+    "约定时间"
+   ],
+   [
+    "Abgemacht!",
+    "说定了！"
+   ]
+  ],
+  "tip": "口语；名词 die Abmachung 约定"
+ },
+ "w0018": {
+  "en": "lose weight; take off; decrease",
+  "senses": [
+   "减肥；变瘦",
+   "取下；接（电话）",
+   "减少"
+  ],
+  "col": [
+   [
+    "zehn Kilo abnehmen",
+    "减掉十公斤"
+   ],
+   [
+    "den Hörer abnehmen",
+    "接起电话"
+   ],
+   [
+    "Die Zahl nimmt ab.",
+    "数量在减少。"
+   ]
+  ],
+  "tip": "nimmt ab；反义 zunehmen（增加；变胖）"
+ },
+ "w0019": {
+  "en": "subscribe to",
+  "col": [
+   [
+    "eine Zeitung abonnieren",
+    "订报纸"
+   ],
+   [
+    "einen Newsletter abonnieren",
+    "订阅电子通讯"
+   ]
+  ],
+  "tip": "-ieren 动词，分词无 ge-：abonniert"
+ },
+ "w0020": {
+  "en": "subscription",
+  "col": [
+   [
+    "ein Abonnement abschließen",
+    "订阅"
+   ],
+   [
+    "ein Abonnement kündigen",
+    "取消订阅"
+   ]
+  ],
+  "tip": "口语缩写 das Abo"
+ },
+ "w0021": {
+  "en": "cancel; decline",
+  "col": [
+   [
+    "einen Termin absagen",
+    "取消约定"
+   ],
+   [
+    "jemandem absagen",
+    "回绝某人"
+   ]
+  ],
+  "tip": "反义 zusagen（答应）；die Absage 也指拒信"
+ },
+ "w0022": {
+  "en": "degree; completion; conclusion",
+  "senses": [
+   "毕业；学历",
+   "结束",
+   "（合同）签订"
+  ],
+  "col": [
+   [
+    "einen Abschluss machen",
+    "取得毕业证/学历"
+   ],
+   [
+    "zum Abschluss",
+    "最后；作为结束"
+   ],
+   [
+    "der Abschluss eines Vertrags",
+    "合同的签订"
+   ]
+  ],
+  "tip": "Schulabschluss 中学毕业；Abschlussprüfung 结业考试"
+ },
+ "w0023": {
+  "en": "section; paragraph",
+  "col": [
+   [
+    "der erste Abschnitt des Textes",
+    "文章第一段"
+   ],
+   [
+    "ein Abschnitt der Strecke",
+    "路段的一段"
+   ]
+  ],
+  "tip": "文章的段/节，也指路段"
+ },
+ "w0024": {
+  "en": "sender",
+  "col": [
+   [
+    "der Absender des Briefes",
+    "寄件人"
+   ],
+   [
+    "den Absender angeben",
+    "写明寄件人"
+   ]
+  ],
+  "tip": "反义 der Empfänger（收件人）"
+ },
+ "w0025": {
+  "en": "intention",
+  "col": [
+   [
+    "mit Absicht",
+    "故意地"
+   ],
+   [
+    "die Absicht haben, … zu + Inf.",
+    "打算做…"
+   ],
+   [
+    "keine böse Absicht",
+    "没有恶意"
+   ]
+  ],
+  "tip": "mit Absicht 故意；ohne Absicht 无意"
+ },
+ "w0026": {
+  "en": "absolute; absolutely",
+  "col": [
+   [
+    "absolut richtig",
+    "完全正确"
+   ],
+   [
+    "absolut nicht",
+    "绝对不"
+   ]
+  ],
+  "tip": "程度副词，强调语气"
+ },
+ "w0027": {
+  "en": "vote; coordinate",
+  "senses": [
+   "投票表决",
+   "协调；商定"
+  ],
+  "col": [
+   [
+    "über einen Vorschlag abstimmen",
+    "就提议表决"
+   ],
+   [
+    "einen Termin abstimmen",
+    "协调时间"
+   ]
+  ],
+  "tip": "etwas mit jemandem abstimmen：与某人协调一致"
+ },
+ "w0028": {
+  "en": "department",
+  "col": [
+   [
+    "in der Abteilung Verkauf arbeiten",
+    "在销售部工作"
+   ],
+   [
+    "der Abteilungsleiter",
+    "部门主管"
+   ]
+  ],
+  "tip": "百货商店的柜台区也叫 Abteilung"
+ },
+ "w0029": {
+  "en": "caretaker (CH)"
+ },
+ "w0030": {},
+ "w0031": {
+  "en": "downward(s)",
+  "col": [
+   [
+    "abwärts gehen",
+    "往下走"
+   ],
+   [
+    "Es geht abwärts.",
+    "走下坡路了。"
+   ]
+  ],
+  "tip": "反义 aufwärts"
+ },
+ "w0032": {
+  "en": "wash up",
+  "col": [
+   [
+    "das Geschirr abwaschen",
+    "洗碗"
+   ],
+   [
+    "Wer wäscht heute ab?",
+    "今天谁洗碗？"
+   ]
+  ],
+  "tip": "wäscht ab（a→ä）；也可说 spülen"
+ },
+ "w0033": {
+  "en": "absent",
+  "col": [
+   [
+    "abwesend sein",
+    "缺席；不在"
+   ],
+   [
+    "geistig abwesend",
+    "心不在焉"
+   ]
+  ],
+  "tip": "反义 anwesend"
+ },
+ "w0034": {
+  "en": "pay attention (to)",
+  "col": [
+   [
+    "auf die Kinder achten",
+    "留意孩子"
+   ],
+   [
+    "darauf achten, dass …",
+    "注意要…"
+   ],
+   [
+    "auf die Gesundheit achten",
+    "注意健康"
+   ]
+  ],
+  "tip": "achten auf + 第四格"
+ },
+ "w0035": {
+  "en": "attention; watch out",
+  "col": [
+   [
+    "Achtung, Stufe!",
+    "小心台阶！"
+   ],
+   [
+    "Achtung, Lebensgefahr!",
+    "注意，有生命危险！"
+   ]
+  ],
+  "tip": "警示用语；口语也喊 Vorsicht!"
+ },
+ "w0036": {
+  "en": "address",
+  "col": [
+   [
+    "die E-Mail-Adresse",
+    "电子邮件地址"
+   ],
+   [
+    "Wie ist Ihre Adresse?",
+    "您的地址是什么？"
+   ]
+  ],
+  "tip": "die Adresse, -n"
+ },
+ "w0037": {
+  "en": "similar",
+  "col": [
+   [
+    "ähnlich aussehen",
+    "长得相似"
+   ],
+   [
+    "jemandem ähnlich sein",
+    "与某人相似"
+   ]
+  ],
+  "tip": "ähnlich + 第三格"
+ },
+ "w0038": {
+  "en": "idea; clue",
+  "col": [
+   [
+    "Keine Ahnung!",
+    "不知道！"
+   ],
+   [
+    "keine Ahnung von etwas haben",
+    "对…一窍不通"
+   ]
+  ],
+  "tip": "Keine Ahnung 是口语高频答语"
+ },
+ "w0039": {
+  "en": "action; campaign",
+  "senses": [
+   "行动；活动",
+   "促销"
+  ],
+  "col": [
+   [
+    "eine Aktion starten",
+    "发起一次活动"
+   ],
+   [
+    "in Aktion treten",
+    "行动起来"
+   ],
+   [
+    "der Aktionspreis",
+    "促销价"
+   ]
+  ],
+  "tip": "die Aktion, -en"
+ },
+ "w0040": {
+  "en": "active",
+  "col": [
+   [
+    "sich aktiv beteiligen",
+    "积极参与"
+   ],
+   [
+    "aktiv Sport treiben",
+    "积极运动"
+   ]
+  ],
+  "tip": "反义 passiv；语法里 das Aktiv 主动语态"
+ },
+ "w0041": {
+  "en": "activity",
+  "col": [
+   [
+    "sportliche Aktivitäten",
+    "体育活动"
+   ],
+   [
+    "Freizeitaktivitäten",
+    "业余活动"
+   ]
+  ],
+  "tip": "常用复数 Aktivitäten"
+ },
+ "w0042": {
+  "en": "current; up to date",
+  "col": [
+   [
+    "aktuelle Nachrichten",
+    "最新消息"
+   ],
+   [
+    "der aktuelle Stand",
+    "当前状态"
+   ],
+   [
+    "Das ist nicht mehr aktuell.",
+    "这已经过时了。"
+   ]
+  ],
+  "tip": "别和英语 actually 混：「实际上」是 eigentlich / tatsächlich"
+ },
+ "w0043": {
+  "en": "accept",
+  "col": [
+   [
+    "einen Vorschlag akzeptieren",
+    "接受建议"
+   ],
+   [
+    "eine Entscheidung akzeptieren",
+    "接受决定"
+   ]
+  ],
+  "tip": "-ieren 动词，分词 akzeptiert"
+ },
+ "w0044": {
+  "en": "alarm",
+  "col": [
+   [
+    "Alarm schlagen",
+    "拉响警报"
+   ],
+   [
+    "der Feueralarm",
+    "火警"
+   ]
+  ],
+  "tip": "der Alarm, -e"
+ },
+ "w0045": {
+  "en": "alcohol",
+  "col": [
+   [
+    "Alkohol trinken",
+    "喝酒"
+   ],
+   [
+    "alkoholfrei",
+    "无酒精的"
+   ],
+   [
+    "kein Alkohol am Steuer",
+    "酒后不开车"
+   ]
+  ],
+  "tip": "der Alkohol，阳性"
+ },
+ "w0046": {
+  "en": "all; every",
+  "col": [
+   [
+    "alle Kinder",
+    "所有孩子"
+   ],
+   [
+    "alles Gute",
+    "一切顺利；祝一切好"
+   ],
+   [
+    "vor allem",
+    "尤其是"
+   ]
+  ],
+  "tip": "all- 的词尾变化像 dieser"
+ },
+ "w0047": {
+  "en": "alone",
+  "col": [
+   [
+    "allein wohnen",
+    "一个人住"
+   ],
+   [
+    "von allein",
+    "自己（自动）地"
+   ]
+  ],
+  "tip": "allein 只是「单独」，孤独感用 einsam"
+ },
+ "w0048": {
+  "en": "the very …",
+  "col": [
+   [
+    "die allerbeste Idee",
+    "最最好的主意"
+   ],
+   [
+    "zuallererst",
+    "首先"
+   ]
+  ],
+  "tip": "加在最高级前加强语气：allerbest-"
+ },
+ "w0049": {
+  "en": "however; admittedly",
+  "col": [
+   [
+    "Das stimmt, allerdings …",
+    "没错，不过…"
+   ],
+   [
+    "Allerdings!",
+    "当然！（强烈肯定）"
+   ]
+  ],
+  "tip": "弱转折，近 aber / jedoch"
+ },
+ "w0050": {
+  "en": "general",
+  "col": [
+   [
+    "im Allgemeinen",
+    "一般来说"
+   ],
+   [
+    "allgemein bekannt",
+    "众所周知"
+   ],
+   [
+    "allgemeine Informationen",
+    "一般信息"
+   ]
+  ],
+  "tip": "im Allgemeinen = 通常"
+ },
+ "w0051": {
+  "en": "everyday life",
+  "col": [
+   [
+    "im Alltag",
+    "在日常生活中"
+   ],
+   [
+    "den Alltag bewältigen",
+    "应付日常生活"
+   ]
+  ],
+  "tip": "复合词：Alltagssprache 日常用语"
+ },
+ "w0052": {
+  "en": "everyday; ordinary",
+  "col": [
+   [
+    "eine alltägliche Situation",
+    "日常情形"
+   ],
+   [
+    "nichts Alltägliches",
+    "不寻常的事"
+   ]
+  ],
+  "tip": "别与 täglich（每天的）混淆"
+ },
+ "w0053": {
+  "en": "alphabet",
+  "col": [
+   [
+    "das deutsche Alphabet",
+    "德语字母表"
+   ],
+   [
+    "nach dem Alphabet ordnen",
+    "按字母顺序排"
+   ]
+  ],
+  "tip": "德语 26 个字母 + ä ö ü ß"
+ },
+ "w0054": {
+  "en": "when; than; as",
+  "senses": [
+   "当…的时候（过去）",
+   "比（比较级）",
+   "作为"
+  ],
+  "col": [
+   [
+    "Als ich klein war, …",
+    "我小的时候…"
+   ],
+   [
+    "größer als ich",
+    "比我高"
+   ],
+   [
+    "als Lehrer arbeiten",
+    "当老师"
+   ]
+  ],
+  "tip": "als 过去一次；wenn 现在/重复；比较不等用 als，相等用 wie"
+ },
+ "w0055": {
+  "en": "as if",
+  "col": [
+   [
+    "Er tut so, als ob er schlafen würde.",
+    "他装作在睡觉的样子。"
+   ],
+   [
+    "Es sieht aus, als ob es regnet.",
+    "看起来像要下雨。"
+   ]
+  ],
+  "tip": "动词放句末；常接第二虚拟式，口语也可用直陈式"
+ },
+ "w0056": {
+  "en": "so; therefore; well",
+  "col": [
+   [
+    "Also gut!",
+    "好吧！"
+   ],
+   [
+    "Also dann bis morgen.",
+    "那就明天见。"
+   ]
+  ],
+  "tip": "口语开头的 also 相当于「那么／嗯」"
+ },
+ "w0057": {
+  "en": "old",
+  "col": [
+   [
+    "Wie alt bist du?",
+    "你多大了？"
+   ],
+   [
+    "alt werden",
+    "变老"
+   ],
+   [
+    "ein altes Haus",
+    "一座旧房子"
+   ]
+  ],
+  "tip": "比较级 älter、最高级 am ältesten"
+ },
+ "w0058": {
+  "en": "age; old age",
+  "col": [
+   [
+    "im Alter von 20 Jahren",
+    "在20岁时"
+   ],
+   [
+    "im Alter",
+    "年老时"
+   ]
+  ],
+  "tip": "das Alter，中性"
+ },
+ "w0059": {
+  "en": "old people's home",
+  "col": [
+   [
+    "im Altenheim wohnen",
+    "住在养老院"
+   ],
+   [
+    "ins Altenheim ziehen",
+    "搬进养老院"
+   ]
+  ],
+  "tip": "同 Altersheim；护理院 Pflegeheim"
+ },
+ "w0060": {
+  "en": "old people's home",
+  "col": [
+   [
+    "ins Altersheim kommen",
+    "进养老院"
+   ],
+   [
+    "ein Altersheim besuchen",
+    "探望养老院"
+   ]
+  ],
+  "tip": "同 Altenheim"
+ },
+ "w0061": {
+  "en": "alternative",
+  "col": [
+   [
+    "alternative Energien",
+    "替代能源"
+   ],
+   [
+    "ein alternativer Vorschlag",
+    "另一个方案"
+   ]
+  ],
+  "tip": "名词 die Alternative"
+ },
+ "w0062": {
+  "en": "alternative",
+  "col": [
+   [
+    "keine Alternative haben",
+    "别无选择"
+   ],
+   [
+    "eine Alternative zu + Dat.",
+    "…的替代方案"
+   ]
+  ],
+  "tip": "die Alternative, -n"
+ },
+ "w0063": {
+  "en": "traffic light",
+  "col": [
+   [
+    "an der Ampel warten",
+    "在红绿灯处等"
+   ],
+   [
+    "Die Ampel ist rot.",
+    "红灯。"
+   ]
+  ],
+  "tip": "die Ampel, -n；颜色：Rot / Gelb / Grün"
+ },
+ "w0064": {
+  "en": "office; authority",
+  "col": [
+   [
+    "das Finanzamt",
+    "税务局"
+   ],
+   [
+    "das Standesamt",
+    "户籍登记处"
+   ]
+  ],
+  "tip": "…amt 复合词表示某类机构"
+ },
+ "w0065": {
+  "en": "enjoy oneself",
+  "col": [
+   [
+    "Amüsier dich gut!",
+    "玩得开心！"
+   ],
+   [
+    "sich über jemanden amüsieren",
+    "觉得某人好笑"
+   ]
+  ],
+  "tip": "反身动词，口语 viel Spaß haben 更常用"
+ },
+ "w0066": {
+  "en": "at; on; to",
+  "senses": [
+   "在…旁／边（贴着）",
+   "向…去",
+   "在（某日）"
+  ],
+  "col": [
+   [
+    "an der Wand hängen",
+    "挂在墙上"
+   ],
+   [
+    "am Montag",
+    "在周一"
+   ],
+   [
+    "an die Wand hängen",
+    "挂到墙上"
+   ]
+  ],
+  "tip": "二格介词：问 wo 用第三格，问 wohin 用第四格；am = an dem"
+ },
+ "w0067": {
+  "en": "analyze",
+  "col": [
+   [
+    "Daten analysieren",
+    "分析数据"
+   ],
+   [
+    "einen Text analysieren",
+    "分析文本"
+   ]
+  ],
+  "tip": "-ieren 动词，分词 analysiert"
+ },
+ "w0068": {
+  "en": "offer",
+  "col": [
+   [
+    "jemandem Hilfe anbieten",
+    "向某人提供帮助"
+   ],
+   [
+    "einen Kaffee anbieten",
+    "请喝咖啡"
+   ]
+  ],
+  "tip": "bietet an, bot an, hat angeboten；名词 das Angebot"
+ },
+ "w0069": {
+  "en": "provider; supplier",
+  "col": [
+   [
+    "der Mobilfunkanbieter",
+    "手机运营商"
+   ],
+   [
+    "den Anbieter wechseln",
+    "换服务商"
+   ]
+  ],
+  "tip": "女性 die Anbieterin"
+ },
+ "w0070": {
+  "en": "offer; range; special offer",
+  "senses": [
+   "提议；报价",
+   "供应；商品范围",
+   "特价"
+  ],
+  "col": [
+   [
+    "ein Angebot machen",
+    "提出报价"
+   ],
+   [
+    "im Angebot sein",
+    "在促销中"
+   ],
+   [
+    "Angebot und Nachfrage",
+    "供求"
+   ]
+  ],
+  "tip": "das Sonderangebot 特价商品"
+ },
+ "w0071": {
+  "en": "other; different",
+  "col": [
+   [
+    "ein anderer Mann",
+    "另一个男人"
+   ],
+   [
+    "unter anderem",
+    "除其他外（u. a.）"
+   ],
+   [
+    "alles andere",
+    "其他一切"
+   ]
+  ],
+  "tip": "ander- 像形容词一样变尾"
+ },
+ "w0072": {
+  "en": "on the other hand",
+  "col": [
+   [
+    "einerseits …, andererseits …",
+    "一方面…另一方面…"
+   ]
+  ],
+  "tip": "常与 einerseits 成对使用"
+ },
+ "w0073": {
+  "en": "change; alter",
+  "col": [
+   [
+    "seine Meinung ändern",
+    "改变主意"
+   ],
+   [
+    "den Plan ändern",
+    "改计划"
+   ],
+   [
+    "Das Wetter ändert sich.",
+    "天气在变。"
+   ]
+  ],
+  "tip": "ändern 是改动；wechseln 是换成另一个"
+ },
+ "w0074": {
+  "en": "change; amendment",
+  "col": [
+   [
+    "eine Änderung vornehmen",
+    "做出修改"
+   ],
+   [
+    "Änderungen vorbehalten",
+    "保留更改权"
+   ]
+  ],
+  "tip": "die Änderung, -en"
+ },
+ "w0075": {
+  "en": "differently; otherwise",
+  "col": [
+   [
+    "anders als",
+    "与…不同"
+   ],
+   [
+    "ganz anders",
+    "完全不同"
+   ],
+   [
+    "jemand anders",
+    "别的人"
+   ]
+  ],
+  "tip": "「与…不同」用 anders als，不用 wie"
+ },
+ "w0076": {
+  "en": "recognize; acknowledge",
+  "col": [
+   [
+    "einen Abschluss anerkennen",
+    "认可学历"
+   ],
+   [
+    "seine Fehler anerkennen",
+    "承认错误"
+   ]
+  ],
+  "tip": "名词 die Anerkennung，认可；赞赏"
+ },
+ "w0077": {
+  "en": "begin; start",
+  "col": [
+   [
+    "mit der Arbeit anfangen",
+    "开始工作"
+   ],
+   [
+    "Es fängt an zu regnen.",
+    "开始下雨了。"
+   ],
+   [
+    "Fang an!",
+    "开始吧！"
+   ]
+  ],
+  "tip": "fängt an, fing an, hat angefangen；比 beginnen 口语"
+ },
+ "w0078": {
+  "en": "beginning",
+  "col": [
+   [
+    "am Anfang",
+    "一开始"
+   ],
+   [
+    "Anfang Mai",
+    "五月初"
+   ],
+   [
+    "von Anfang an",
+    "从一开始"
+   ]
+  ],
+  "tip": "反义 das Ende"
+ },
+ "w0079": {
+  "en": "at first",
+  "col": [
+   [
+    "Anfangs war es schwer.",
+    "起初很难。"
+   ]
+  ],
+  "tip": "= zuerst / am Anfang"
+ },
+ "w0080": {
+  "en": "state; give; show off",
+  "senses": [
+   "填写；说明",
+   "吹牛；炫耀"
+  ],
+  "col": [
+   [
+    "den Namen angeben",
+    "写明姓名"
+   ],
+   [
+    "die Quelle angeben",
+    "注明出处"
+   ],
+   [
+    "mit etwas angeben",
+    "炫耀某事"
+   ]
+  ],
+  "tip": "gibt an；名词 die Angabe；爱吹牛的人 der Angeber"
+ },
+ "w0081": {
+  "en": "information; statement",
+  "col": [
+   [
+    "Angaben zur Person",
+    "个人信息"
+   ],
+   [
+    "Angaben machen",
+    "提供信息"
+   ],
+   [
+    "ohne Angabe von Gründen",
+    "不说明理由"
+   ]
+  ],
+  "tip": "常用复数 Angaben"
+ },
+ "w0082": {
+  "en": "relative; family member",
+  "col": [
+   [
+    "die nächsten Angehörigen",
+    "近亲"
+   ],
+   [
+    "Angehörige benachrichtigen",
+    "通知家属"
+   ]
+  ],
+  "tip": "形容词变化名词：ein Angehöriger / eine Angehörige"
+ },
+ "w0083": {
+  "en": "pleasant",
+  "col": [
+   [
+    "Angenehm!",
+    "幸会！（初次见面）"
+   ],
+   [
+    "ein angenehmes Klima",
+    "宜人的气候"
+   ],
+   [
+    "angenehm warm",
+    "暖暖的"
+   ]
+  ],
+  "tip": "初次见面客套话 Angenehm!"
+ },
+ "w0084": {
+  "en": "fear",
+  "col": [
+   [
+    "Angst haben vor + Dat.",
+    "害怕…"
+   ],
+   [
+    "Keine Angst!",
+    "别怕！"
+   ],
+   [
+    "jemandem Angst machen",
+    "吓唬某人"
+   ]
+  ],
+  "tip": "Angst 是害怕，Sorge 是担心"
+ },
+ "w0085": {
+  "en": "fearful; timid",
+  "col": [
+   [
+    "ein ängstliches Kind",
+    "胆小的孩子"
+   ],
+   [
+    "sich ängstlich umsehen",
+    "担心地四下张望"
+   ]
+  ],
+  "tip": "多指性格胆小"
+ },
+ "w0086": {
+  "en": "wear; have on",
+  "col": [
+   [
+    "eine Jacke anhaben",
+    "穿着一件夹克"
+   ],
+   [
+    "Was hast du an?",
+    "你穿的什么？"
+   ]
+  ],
+  "tip": "anhaben 表示穿着的状态；穿上这个动作是 anziehen"
+ },
+ "w0087": {
+  "en": "click on",
+  "col": [
+   [
+    "einen Link anklicken",
+    "点击链接"
+   ],
+   [
+    "das Feld anklicken",
+    "点选这个栏位"
+   ]
+  ],
+  "tip": "= auf … klicken"
+ },
+ "w0088": {
+  "en": "arrive; depend; be popular",
+  "senses": [
+   "到达",
+   "取决于（auf）",
+   "受欢迎"
+  ],
+  "col": [
+   [
+    "in Berlin ankommen",
+    "到达柏林"
+   ],
+   [
+    "Es kommt darauf an.",
+    "看情况。"
+   ],
+   [
+    "gut ankommen",
+    "受欢迎"
+   ]
+  ],
+  "tip": "助动词 sein；Es kommt darauf an 口语极常用"
+ },
+ "w0089": {
+  "en": "arrival",
+  "col": [
+   [
+    "bei der Ankunft",
+    "到达时"
+   ],
+   [
+    "die Ankunft in Berlin",
+    "抵达柏林"
+   ]
+  ],
+  "tip": "反义 die Abfahrt"
+ },
+ "w0090": {
+  "en": "announce",
+  "col": [
+   [
+    "eine Veranstaltung ankündigen",
+    "预告活动"
+   ],
+   [
+    "seinen Besuch ankündigen",
+    "通知来访"
+   ]
+  ],
+  "tip": "kündigen 是辞职/解约，别混；名词 die Ankündigung"
+ },
+ "w0091": {
+  "en": "facility; enclosure; investment",
+  "senses": [
+   "设施；装置",
+   "附件",
+   "投资"
+  ],
+  "col": [
+   [
+    "als Anlage",
+    "作为附件"
+   ],
+   [
+    "die Sportanlage",
+    "运动场"
+   ],
+   [
+    "eine Anlage installieren",
+    "安装设备"
+   ]
+  ],
+  "tip": "邮件附件多说 Anhang，信件附件说 Anlage"
+ },
+ "w0092": {
+  "en": "instructions; guide",
+  "col": [
+   [
+    "eine Anleitung lesen",
+    "读说明"
+   ],
+   [
+    "nach Anleitung",
+    "按说明"
+   ],
+   [
+    "unter Anleitung von …",
+    "在…指导下"
+   ]
+  ],
+  "tip": "Bedienungsanleitung 使用说明"
+ },
+ "w0093": {
+  "en": "register; sign up",
+  "col": [
+   [
+    "sich anmelden",
+    "登记；注册"
+   ],
+   [
+    "sich zum Kurs anmelden",
+    "报名参加课程"
+   ],
+   [
+    "den Wohnsitz anmelden",
+    "登记住址"
+   ]
+  ],
+  "tip": "反义 abmelden；在德国搬家后要 den Wohnsitz anmelden"
+ },
+ "w0094": {
+  "en": "registration; reception desk",
+  "col": [
+   [
+    "die Anmeldung zum Kurs",
+    "课程报名"
+   ],
+   [
+    "Anmeldung",
+    "（指示牌）登记处／前台"
+   ]
+  ],
+  "tip": "也指医院/公司的前台"
+ },
+ "w0095": {
+  "en": "accept; assume",
+  "senses": [
+   "接受",
+   "假设；以为",
+   "接（电话）"
+  ],
+  "col": [
+   [
+    "ein Angebot annehmen",
+    "接受报价"
+   ],
+   [
+    "Ich nehme an, dass …",
+    "我猜…"
+   ],
+   [
+    "einen Anruf annehmen",
+    "接电话"
+   ]
+  ],
+  "tip": "nimmt an, nahm an, hat angenommen；反义 ablehnen"
+ },
+ "w0096": {
+  "en": "advertisement",
+  "col": [
+   [
+    "eine Annonce aufgeben",
+    "登广告"
+   ],
+   [
+    "auf eine Annonce antworten",
+    "回复广告"
+   ]
+  ],
+  "tip": "同 die Anzeige；来自法语"
+ },
+ "w0097": {
+  "en": "form of address; salutation",
+  "col": [
+   [
+    "die Anrede im Brief",
+    "信中的称呼"
+   ],
+   [
+    "Sehr geehrte Frau Müller",
+    "尊敬的穆勒女士"
+   ]
+  ],
+  "tip": "书信开头的称呼"
+ },
+ "w0098": {
+  "en": "call; phone",
+  "col": [
+   [
+    "jemanden anrufen",
+    "给某人打电话"
+   ],
+   [
+    "Ruf mich an!",
+    "给我打电话！"
+   ]
+  ],
+  "tip": "后接第四格；= telefonieren mit"
+ },
+ "w0099": {
+  "en": "call",
+  "col": [
+   [
+    "einen Anruf bekommen",
+    "接到电话"
+   ],
+   [
+    "ein Anruf von …",
+    "…打来的电话"
+   ]
+  ],
+  "tip": "der Anruf, -e；Anrufbeantworter 答录机"
+ },
+ "w0100": {
+  "en": "answering machine",
+  "col": [
+   [
+    "eine Nachricht auf dem Anrufbeantworter hinterlassen",
+    "在答录机上留言"
+   ],
+   [
+    "den Anrufbeantworter abhören",
+    "听留言"
+   ]
+  ],
+  "tip": "口语缩写 AB"
+ },
+ "w0101": {
+  "en": "announcement; instruction",
+  "col": [
+   [
+    "die Ansage am Bahnhof",
+    "车站广播"
+   ],
+   [
+    "die Ansage des Anrufbeantworters",
+    "答录机的语音"
+   ]
+  ],
+  "tip": "车站广播常说 die Durchsage"
+ },
+ "w0102": {
+  "en": "buy; acquire",
+  "col": [
+   [
+    "sich ein Auto anschaffen",
+    "买辆车"
+   ],
+   [
+    "neue Möbel anschaffen",
+    "添置新家具"
+   ]
+  ],
+  "tip": "sich (3格) etwas anschaffen；多指较大件的购置"
+ },
+ "w0103": {
+  "en": "connect; join",
+  "col": [
+   [
+    "den Fernseher anschließen",
+    "接上电视"
+   ],
+   [
+    "sich einer Gruppe anschließen",
+    "加入一个团体"
+   ],
+   [
+    "sich jemandem anschließen",
+    "与某人同行／赞同某人"
+   ]
+  ],
+  "tip": "schließt an, schloss an, hat angeschlossen；sich anschließen + 第三格"
+ },
+ "w0104": {
+  "en": "connection; link",
+  "col": [
+   [
+    "Anschluss an den Zug",
+    "转乘衔接"
+   ],
+   [
+    "der Internetanschluss",
+    "网络接入"
+   ],
+   [
+    "Kein Anschluss unter dieser Nummer.",
+    "此号码无法接通。"
+   ]
+  ],
+  "tip": "den Anschluss verpassen 错过转乘"
+ },
+ "w0105": {
+  "en": "fasten seat belt",
+  "col": [
+   [
+    "sich anschnallen",
+    "系上安全带"
+   ],
+   [
+    "Bitte anschnallen!",
+    "请系好安全带！"
+   ]
+  ],
+  "tip": "多用反身：sich anschnallen；反义 abschnallen"
+ },
+ "w0106": {
+  "en": "look at; watch",
+  "col": [
+   [
+    "sich einen Film ansehen",
+    "看一部电影"
+   ],
+   [
+    "sich die Stadt ansehen",
+    "参观城市"
+   ],
+   [
+    "Das sieht man ihm an.",
+    "从他脸上看得出来。"
+   ]
+  ],
+  "tip": "sieht an（e→ie）；常与 sich (3格) 连用；别与 aussehen 混"
+ },
+ "w0107": {
+  "en": "speak to; address",
+  "col": [
+   [
+    "jemanden ansprechen",
+    "向某人搭话"
+   ],
+   [
+    "ein Thema ansprechen",
+    "谈及一个话题"
+   ],
+   [
+    "Das spricht mich an.",
+    "这对我有吸引力。"
+   ]
+  ],
+  "tip": "spricht an, sprach an, hat angesprochen"
+ },
+ "w0108": {
+  "en": "claim; entitlement",
+  "col": [
+   [
+    "Anspruch auf Urlaub haben",
+    "有权休假"
+   ],
+   [
+    "Ansprüche stellen",
+    "提出要求"
+   ],
+   [
+    "in Anspruch nehmen",
+    "使用；利用"
+   ]
+  ],
+  "tip": "Anspruch auf + 第四格"
+ },
+ "w0109": {
+  "en": "employ; turn on; do",
+  "senses": [
+   "雇用",
+   "打开（机器）",
+   "做（蠢事）"
+  ],
+  "col": [
+   [
+    "jemanden anstellen",
+    "聘用某人"
+   ],
+   [
+    "den Fernseher anstellen",
+    "打开电视"
+   ],
+   [
+    "sich hinten anstellen",
+    "排到队尾"
+   ]
+  ],
+  "tip": "sich anstellen 排队；angestellt 被聘用的"
+ },
+ "w0110": {
+  "en": "employee",
+  "col": [
+   [
+    "als Angestellter arbeiten",
+    "当职员"
+   ],
+   [
+    "die Angestellten der Firma",
+    "公司的职员"
+   ]
+  ],
+  "tip": "区别：Arbeiter 工人、Beamte 公务员；形容词变化名词"
+ },
+ "w0111": {
+  "en": "make an effort",
+  "col": [
+   [
+    "Streng dich an!",
+    "加油努力！"
+   ],
+   [
+    "sich beim Lernen anstrengen",
+    "学习时努力"
+   ]
+  ],
+  "tip": "反身动词；近 sich Mühe geben"
+ },
+ "w0112": {
+  "en": "strenuous; tiring",
+  "col": [
+   [
+    "ein anstrengender Tag",
+    "累人的一天"
+   ],
+   [
+    "Das ist sehr anstrengend.",
+    "这很累人。"
+   ]
+  ],
+  "tip": "anstrengend 指事情累人；人累用 müde"
+ },
+ "w0113": {
+  "en": "application; request",
+  "col": [
+   [
+    "einen Antrag stellen",
+    "提出申请"
+   ],
+   [
+    "einen Antrag ausfüllen",
+    "填写申请表"
+   ],
+   [
+    "ein Antrag auf Aufenthaltserlaubnis",
+    "居留许可申请"
+   ]
+  ],
+  "tip": "Antrag auf + 第四格；动词 beantragen"
+ },
+ "w0114": {
+  "en": "apply; use",
+  "col": [
+   [
+    "eine Methode anwenden",
+    "运用一种方法"
+   ],
+   [
+    "Regeln anwenden",
+    "运用规则"
+   ]
+  ],
+  "tip": "过去式 wandte an / wendete an；名词 die Anwendung"
+ },
+ "w0115": {
+  "en": "present",
+  "col": [
+   [
+    "anwesend sein",
+    "在场"
+   ],
+   [
+    "alle Anwesenden",
+    "在场所有人"
+   ]
+  ],
+  "tip": "反义 abwesend"
+ },
+ "w0116": {
+  "en": "answer; reply",
+  "col": [
+   [
+    "auf eine Frage antworten",
+    "回答问题"
+   ],
+   [
+    "jemandem antworten",
+    "回答某人"
+   ],
+   [
+    "auf eine E-Mail antworten",
+    "回邮件"
+   ]
+  ],
+  "tip": "antworten + 第三格 + auf + 第四格；及物的是 beantworten"
+ },
+ "w0117": {
+  "en": "answer",
+  "col": [
+   [
+    "eine Antwort geben",
+    "给出答复"
+   ],
+   [
+    "keine Antwort bekommen",
+    "没有收到回复"
+   ],
+   [
+    "die richtige Antwort",
+    "正确答案"
+   ]
+  ],
+  "tip": "Antwort auf + 第四格；反义 die Frage"
+ },
+ "w0118": {
+  "en": "lawyer",
+  "col": [
+   [
+    "einen Anwalt nehmen",
+    "请律师"
+   ],
+   [
+    "zum Anwalt gehen",
+    "去找律师"
+   ]
+  ],
+  "tip": "阴性 die Anwältin，注意变音"
+ },
+ "w0119": {
+  "en": "female lawyer",
+  "col": [
+   [
+    "eine Anwältin beauftragen",
+    "委托一位律师"
+   ],
+   [
+    "als Anwältin arbeiten",
+    "做律师"
+   ]
+  ],
+  "tip": "der Anwalt 的阴性"
+ },
+ "w0120": {
+  "en": "report to police; display",
+  "senses": [
+   "举报；报案",
+   "显示"
+  ],
+  "col": [
+   [
+    "jemanden anzeigen",
+    "举报某人"
+   ],
+   [
+    "Die Uhr zeigt die Zeit an.",
+    "钟显示时间。"
+   ]
+  ],
+  "tip": "名词 die Anzeige"
+ },
+ "w0121": {
+  "en": "advertisement; report; display",
+  "senses": [
+   "（报纸）广告",
+   "报案",
+   "显示屏"
+  ],
+  "col": [
+   [
+    "eine Anzeige aufgeben",
+    "登广告"
+   ],
+   [
+    "Anzeige erstatten",
+    "报案"
+   ],
+   [
+    "die Anzeige auf dem Display",
+    "屏幕上的显示"
+   ]
+  ],
+  "tip": "Anzeige erstatten 为固定搭配"
+ },
+ "w0122": {
+  "en": "suit",
+  "col": [
+   [
+    "einen Anzug tragen",
+    "穿西装"
+   ],
+   [
+    "im Anzug",
+    "穿着西装"
+   ]
+  ],
+  "tip": "男式套装；女式套装 das Kostüm"
+ },
+ "w0123": {
+  "en": "apartment",
+  "col": [
+   [
+    "ein kleines Apartment mieten",
+    "租一间小公寓"
+   ],
+   [
+    "das Einzimmerapartment",
+    "单间公寓"
+   ]
+  ],
+  "tip": "通常指小户型，普通住房用 die Wohnung"
+ },
+ "w0124": {
+  "en": "apple",
+  "col": [
+   [
+    "der Apfelsaft",
+    "苹果汁"
+   ],
+   [
+    "der Apfelkuchen",
+    "苹果蛋糕"
+   ]
+  ],
+  "tip": "复数 Äpfel，变音"
+ },
+ "w0125": {
+  "en": "pharmacy",
+  "col": [
+   [
+    "in der Apotheke Medikamente holen",
+    "去药房买药"
+   ],
+   [
+    "rezeptpflichtig",
+    "需处方的"
+   ],
+   [
+    "der Notdienst der Apotheke",
+    "药房夜间值班"
+   ]
+  ],
+  "tip": "Apotheke 药房，Drogerie 是日用品／药妆店"
+ },
+ "w0126": {
+  "en": "device; telephone",
+  "col": [
+   [
+    "Wer ist am Apparat?",
+    "哪位？（电话中）"
+   ],
+   [
+    "Bleiben Sie am Apparat!",
+    "请别挂电话！"
+   ],
+   [
+    "der Fotoapparat",
+    "照相机"
+   ]
+  ],
+  "tip": "电话用语 am Apparat"
+ },
+ "w0127": {
+  "en": "appetite",
+  "col": [
+   [
+    "Guten Appetit!",
+    "祝用餐愉快！"
+   ],
+   [
+    "keinen Appetit haben",
+    "没胃口"
+   ],
+   [
+    "Appetit auf etwas haben",
+    "想吃…"
+   ]
+  ],
+  "tip": "Guten Appetit! 是饭前祝语"
+ },
+ "w0128": {
+  "en": "apricot",
+  "col": [
+   [
+    "die Aprikosenmarmelade",
+    "杏子酱"
+   ],
+   [
+    "getrocknete Aprikosen",
+    "杏干"
+   ]
+  ],
+  "tip": "奥地利说 die Marille"
+ },
+ "w0129": {
+  "en": "work",
+  "col": [
+   [
+    "bei einer Firma arbeiten",
+    "在公司工作"
+   ],
+   [
+    "als Lehrer arbeiten",
+    "当老师"
+   ],
+   [
+    "viel arbeiten",
+    "工作很多"
+   ]
+  ],
+  "tip": "arbeiten als / bei / für；名词 die Arbeit"
+ },
+ "w0130": {
+  "en": "work; job; test",
+  "senses": [
+   "工作",
+   "作业；考试",
+   "作品"
+  ],
+  "col": [
+   [
+    "zur Arbeit gehen",
+    "去上班"
+   ],
+   [
+    "eine Arbeit schreiben",
+    "写一次测验"
+   ],
+   [
+    "Arbeit suchen",
+    "找工作"
+   ]
+  ],
+  "tip": "Klassenarbeit 课堂测验；Hausarbeit 家务／作业"
+ },
+ "w0131": {
+  "en": "worker",
+  "col": [
+   [
+    "ein Arbeiter in der Fabrik",
+    "工厂工人"
+   ],
+   [
+    "der Bauarbeiter",
+    "建筑工人"
+   ]
+  ],
+  "tip": "区别 der Angestellte（职员）；阴性 die Arbeiterin"
+ },
+ "w0132": {
+  "en": "work permit",
+  "col": [
+   [
+    "eine Arbeitserlaubnis beantragen",
+    "申请工作许可"
+   ],
+   [
+    "keine Arbeitserlaubnis haben",
+    "没有工作许可"
+   ]
+  ],
+  "tip": "外国人在德国就业常涉及"
+ },
+ "w0133": {
+  "en": "unemployed",
+  "col": [
+   [
+    "arbeitslos sein",
+    "失业"
+   ],
+   [
+    "sich arbeitslos melden",
+    "登记失业"
+   ]
+  ],
+  "tip": "名词 der / die Arbeitslose"
+ },
+ "w0134": {
+  "en": "unemployment",
+  "col": [
+   [
+    "die hohe Arbeitslosigkeit",
+    "高失业率"
+   ],
+   [
+    "gegen die Arbeitslosigkeit kämpfen",
+    "对抗失业"
+   ]
+  ],
+  "tip": "das Arbeitslosengeld 失业金"
+ },
+ "w0135": {
+  "en": "workplace; job",
+  "col": [
+   [
+    "einen neuen Arbeitsplatz suchen",
+    "找新的工作岗位"
+   ],
+   [
+    "am Arbeitsplatz",
+    "在工作岗位上"
+   ]
+  ],
+  "tip": "既指岗位，也指工位"
+ },
+ "w0136": {
+  "en": "job; position",
+  "col": [
+   [
+    "eine Arbeitsstelle suchen",
+    "找工作"
+   ],
+   [
+    "die Arbeitsstelle wechseln",
+    "换工作"
+   ]
+  ],
+  "tip": "= die Stelle"
+ },
+ "w0137": {
+  "en": "architect",
+  "col": [
+   [
+    "ein bekannter Architekt",
+    "一位知名建筑师"
+   ],
+   [
+    "als Architekt arbeiten",
+    "当建筑师"
+   ]
+  ],
+  "tip": "弱变化：den Architekten"
+ },
+ "w0138": {
+  "en": "female architect",
+  "col": [
+   [
+    "Architektin werden",
+    "成为建筑师"
+   ],
+   [
+    "die Architektin des Hauses",
+    "房子的设计师"
+   ]
+  ],
+  "tip": "der Architekt 的阴性"
+ },
+ "w0139": {
+  "en": "annoyance; trouble",
+  "col": [
+   [
+    "Ärger haben",
+    "有麻烦"
+   ],
+   [
+    "Ärger mit dem Chef haben",
+    "和老板闹矛盾"
+   ],
+   [
+    "Mach keinen Ärger!",
+    "别惹事！"
+   ]
+  ],
+  "tip": "Ärger 不可数；动词 sich ärgern 生气"
+ },
+ "w0140": {
+  "en": "annoying; angry",
+  "col": [
+   [
+    "ein ärgerlicher Fehler",
+    "一个恼人的错误"
+   ],
+   [
+    "ärgerlich sein über + Akk.",
+    "对…恼火"
+   ]
+  ],
+  "tip": "指事情让人恼火；人生气用 wütend"
+ },
+ "w0141": {
+  "en": "poor",
+  "col": [
+   [
+    "arm sein",
+    "贫穷"
+   ],
+   [
+    "ein armes Kind",
+    "可怜的孩子"
+   ],
+   [
+    "Arm und Reich",
+    "穷人和富人"
+   ]
+  ],
+  "tip": "比较级 ärmer 有变音；别与 der Arm（手臂）混"
+ },
+ "w0142": {
+  "en": "kind; way",
+  "col": [
+   [
+    "auf diese Art und Weise",
+    "以这种方式"
+   ],
+   [
+    "eine Art Kuchen",
+    "一种蛋糕"
+   ]
+  ],
+  "tip": "die Art，阴性；别和 der Arzt 混"
+ },
+ "w0143": {
+  "en": "article",
+  "col": [
+   [
+    "einen Artikel schreiben",
+    "写文章"
+   ],
+   [
+    "der bestimmte Artikel",
+    "定冠词"
+   ],
+   [
+    "ein Artikel in der Zeitung",
+    "报纸上的一篇文章"
+   ]
+  ],
+  "tip": "语法=冠词；报刊=文章；商店=商品"
+ },
+ "w0144": {
+  "en": "doctor",
+  "col": [
+   [
+    "zum Arzt gehen",
+    "去看医生"
+   ],
+   [
+    "einen Arzt rufen",
+    "叫医生"
+   ],
+   [
+    "der Facharzt",
+    "专科医生"
+   ]
+  ],
+  "tip": "阴性 die Ärztin；复数 Ärzte"
+ },
+ "w0145": {
+  "en": "female doctor",
+  "col": [
+   [
+    "Ärztin sein",
+    "是医生"
+   ],
+   [
+    "zur Ärztin gehen",
+    "去看女医生"
+   ]
+  ],
+  "tip": "der Arzt 的阴性"
+ },
+ "w0146": {
+  "en": "asylum",
+  "col": [
+   [
+    "Asyl beantragen",
+    "申请庇护"
+   ],
+   [
+    "politisches Asyl",
+    "政治庇护"
+   ]
+  ],
+  "tip": "der Asylbewerber 寻求庇护者"
+ },
+ "w0147": {
+  "en": "breathe",
+  "col": [
+   [
+    "tief atmen",
+    "深呼吸"
+   ],
+   [
+    "durch die Nase atmen",
+    "用鼻子呼吸"
+   ]
+  ],
+  "tip": "名词 der Atem"
+ },
+ "w0148": {
+  "en": "breath",
+  "col": [
+   [
+    "Atem holen",
+    "吸气"
+   ],
+   [
+    "außer Atem sein",
+    "上气不接下气"
+   ],
+   [
+    "den Atem anhalten",
+    "屏住呼吸"
+   ]
+  ],
+  "tip": "der Atem，不可数"
+ },
+ "w0149": {
+  "en": "also; too; even",
+  "col": [
+   [
+    "Ich auch.",
+    "我也是。"
+   ],
+   [
+    "auch nicht",
+    "也不"
+   ],
+   [
+    "nicht nur …, sondern auch …",
+    "不仅…而且…"
+   ]
+  ],
+  "tip": "auch 放在被强调的成分前；wenn auch = 即使"
+ },
+ "w0150": {
+  "en": "on; onto; open",
+  "senses": [
+   "在…上",
+   "到…上（去）",
+   "（开着）"
+  ],
+  "col": [
+   [
+    "auf dem Tisch",
+    "在桌子上"
+   ],
+   [
+    "auf Deutsch",
+    "用德语"
+   ],
+   [
+    "auf einmal",
+    "突然"
+   ],
+   [
+    "Das Fenster ist auf.",
+    "窗户开着。"
+   ]
+  ],
+  "tip": "auf 多指水平面上；wo 用第三格，wohin 用第四格"
+ },
+ "w0151": {
+  "en": "stay; stop",
+  "col": [
+   [
+    "der Aufenthalt in Berlin",
+    "在柏林的逗留"
+   ],
+   [
+    "die Aufenthaltserlaubnis",
+    "居留许可"
+   ],
+   [
+    "fünf Minuten Aufenthalt",
+    "停靠五分钟"
+   ]
+  ],
+  "tip": "Aufenthaltserlaubnis 居留许可在德国很常用"
+ },
+ "w0152": {
+  "en": "stand out; be noticed",
+  "col": [
+   [
+    "Mir ist aufgefallen, dass …",
+    "我注意到…"
+   ],
+   [
+    "Das fällt nicht auf.",
+    "这不显眼。"
+   ]
+  ],
+  "tip": "助动词 sein；fällt auf（jemandem）"
+ },
+ "w0153": {
+  "en": "ask; request",
+  "col": [
+   [
+    "jemanden auffordern, etwas zu tun",
+    "要求某人做某事"
+   ],
+   [
+    "zum Tanz auffordern",
+    "邀请跳舞"
+   ]
+  ],
+  "tip": "正式；语气比 bitten 强"
+ },
+ "w0154": {
+  "en": "request; demand",
+  "col": [
+   [
+    "auf Aufforderung",
+    "应要求"
+   ],
+   [
+    "eine Aufforderung zur Zahlung",
+    "付款通知"
+   ]
+  ],
+  "tip": "常见于官方文书"
+ },
+ "w0155": {
+  "en": "perform; list",
+  "col": [
+   [
+    "ein Theaterstück aufführen",
+    "上演话剧"
+   ],
+   [
+    "Beispiele aufführen",
+    "列举例子"
+   ]
+  ],
+  "tip": "名词 die Aufführung 演出"
+ },
+ "w0156": {
+  "en": "task; exercise",
+  "col": [
+   [
+    "eine Aufgabe lösen",
+    "解一道题"
+   ],
+   [
+    "die Hausaufgaben",
+    "家庭作业"
+   ],
+   [
+    "eine Aufgabe übernehmen",
+    "承担一项任务"
+   ]
+  ],
+  "tip": "Hausaufgaben 多用复数"
+ },
+ "w0157": {
+  "en": "give up; post; check in",
+  "senses": [
+   "放弃",
+   "寄出；登（广告）",
+   "托运"
+  ],
+  "col": [
+   [
+    "Gib nicht auf!",
+    "别放弃！"
+   ],
+   [
+    "ein Paket aufgeben",
+    "寄包裹"
+   ],
+   [
+    "Gepäck aufgeben",
+    "托运行李"
+   ]
+  ],
+  "tip": "gibt auf, gab auf, hat aufgegeben"
+ },
+ "w0158": {
+  "en": "hold up; stay",
+  "col": [
+   [
+    "jemanden aufhalten",
+    "拖住某人"
+   ],
+   [
+    "sich irgendwo aufhalten",
+    "逗留在某处"
+   ],
+   [
+    "die Tür aufhalten",
+    "扶着门"
+   ]
+  ],
+  "tip": "sich aufhalten 逗留；der Aufenthalt"
+ },
+ "w0159": {
+  "en": "pick up; keep; cancel",
+  "senses": [
+   "捡起",
+   "保存",
+   "废除"
+  ],
+  "col": [
+   [
+    "etwas vom Boden aufheben",
+    "从地上捡起"
+   ],
+   [
+    "etwas gut aufheben",
+    "好好保存"
+   ],
+   [
+    "ein Gesetz aufheben",
+    "废除法律"
+   ]
+  ],
+  "tip": "hob auf, hat aufgehoben"
+ },
+ "w0160": {
+  "en": "stop; cease",
+  "col": [
+   [
+    "mit der Arbeit aufhören",
+    "停止工作"
+   ],
+   [
+    "Hör auf!",
+    "住手！"
+   ],
+   [
+    "aufhören zu rauchen",
+    "戒烟"
+   ]
+  ],
+  "tip": "aufhören mit + 第三格 / aufhören zu + Inf."
+ },
+ "w0161": {
+  "en": "charge; load",
+  "col": [
+   [
+    "das Handy aufladen",
+    "给手机充电"
+   ],
+   [
+    "eine Karte aufladen",
+    "给卡充值"
+   ]
+  ],
+  "tip": "lädt auf, lud auf, hat aufgeladen"
+ },
+ "w0162": {
+  "en": "dissolve; resolve",
+  "col": [
+   [
+    "Tabletten in Wasser auflösen",
+    "把药片溶解在水里"
+   ],
+   [
+    "ein Rätsel auflösen",
+    "解开谜题"
+   ],
+   [
+    "ein Konto auflösen",
+    "注销账户"
+   ]
+  ],
+  "tip": "sich auflösen 溶解；解散"
+ },
+ "w0163": {
+  "en": "attentive",
+  "col": [
+   [
+    "aufmerksam zuhören",
+    "认真听"
+   ],
+   [
+    "jemanden auf etwas aufmerksam machen",
+    "提醒某人注意某事"
+   ]
+  ],
+  "tip": "aufmerksam machen auf + 第四格"
+ },
+ "w0164": {
+  "en": "record; take in; start",
+  "senses": [
+   "录（音／像）",
+   "接纳；收留",
+   "开始（联系）"
+  ],
+  "col": [
+   [
+    "ein Lied aufnehmen",
+    "录一首歌"
+   ],
+   [
+    "Gäste aufnehmen",
+    "接待客人"
+   ],
+   [
+    "Kontakt aufnehmen",
+    "取得联系"
+   ]
+  ],
+  "tip": "nimmt auf, nahm auf, hat aufgenommen；Kontakt aufnehmen 常考"
+ },
+ "w0165": {
+  "en": "recording; admission; photo",
+  "senses": [
+   "录音／录像；拍摄",
+   "接纳；入学"
+  ],
+  "col": [
+   [
+    "eine Aufnahme machen",
+    "拍照；录音"
+   ],
+   [
+    "die Aufnahme in die Schule",
+    "入学"
+   ],
+   [
+    "die Aufnahmeprüfung",
+    "入学考试"
+   ]
+  ],
+  "tip": "die Aufnahme, -n"
+ },
+ "w0166": {
+  "en": "pay attention; look after",
+  "col": [
+   [
+    "auf die Kinder aufpassen",
+    "看孩子"
+   ],
+   [
+    "Pass auf!",
+    "当心！／注意听！"
+   ],
+   [
+    "aufpassen auf + Akk.",
+    "留意…"
+   ]
+  ],
+  "tip": "口语 Pass auf! = 小心／注意"
+ },
+ "w0167": {
+  "en": "tidy up",
+  "col": [
+   [
+    "das Zimmer aufräumen",
+    "收拾房间"
+   ],
+   [
+    "Räum auf!",
+    "收拾一下！"
+   ]
+  ],
+  "tip": "wegräumen 是把东西收起来"
+ },
+ "w0168": {
+  "en": "upset; excite",
+  "col": [
+   [
+    "sich aufregen über + Akk.",
+    "为…激动／生气"
+   ],
+   [
+    "Reg dich nicht auf!",
+    "别激动！"
+   ]
+  ],
+  "tip": "sich aufregen 反身；aufgeregt 紧张的"
+ },
+ "w0169": {
+  "en": "get up; stand up",
+  "col": [
+   [
+    "früh aufstehen",
+    "早起"
+   ],
+   [
+    "Steh auf!",
+    "起床！"
+   ]
+  ],
+  "tip": "助动词 sein；起床 aufstehen，醒来 aufwachen"
+ },
+ "w0170": {
+  "en": "order; commission",
+  "col": [
+   [
+    "im Auftrag von …",
+    "受…委托"
+   ],
+   [
+    "einen Auftrag erhalten",
+    "接到订单"
+   ],
+   [
+    "einen Auftrag erteilen",
+    "下达任务"
+   ]
+  ],
+  "tip": "信末署名缩写 i. A.（im Auftrag）"
+ },
+ "w0171": {
+  "en": "appear; perform; occur",
+  "senses": [
+   "登台；出现",
+   "（问题）出现"
+  ],
+  "col": [
+   [
+    "auf der Bühne auftreten",
+    "登台表演"
+   ],
+   [
+    "Probleme treten auf.",
+    "出现问题。"
+   ],
+   [
+    "selbstbewusst auftreten",
+    "举止自信"
+   ]
+  ],
+  "tip": "tritt auf, trat auf, ist aufgetreten"
+ },
+ "w0172": {
+  "en": "appearance; performance",
+  "col": [
+   [
+    "ein Auftritt auf der Bühne",
+    "舞台演出"
+   ],
+   [
+    "sein erster Auftritt",
+    "他的首次登台"
+   ]
+  ],
+  "tip": "指一次出场／亮相"
+ },
+ "w0173": {
+  "en": "wake up",
+  "col": [
+   [
+    "früh aufwachen",
+    "很早醒来"
+   ],
+   [
+    "aus dem Schlaf aufwachen",
+    "从睡眠中醒来"
+   ]
+  ],
+  "tip": "sein；叫醒别人是 wecken"
+ },
+ "w0174": {
+  "en": "upward(s)",
+  "col": [
+   [
+    "aufwärts gehen",
+    "往上走"
+   ],
+   [
+    "Es geht aufwärts.",
+    "情况在好转。"
+   ]
+  ],
+  "tip": "反义 abwärts"
+ },
+ "w0175": {
+  "en": "lift; elevator",
+  "col": [
+   [
+    "mit dem Aufzug fahren",
+    "乘电梯"
+   ],
+   [
+    "Der Aufzug ist defekt.",
+    "电梯坏了。"
+   ]
+  ],
+  "tip": "= der Fahrstuhl；瑞士多说 der Lift"
+ },
+ "w0176": {
+  "en": "eye",
+  "col": [
+   [
+    "die Augen schließen",
+    "闭眼"
+   ],
+   [
+    "blaue Augen",
+    "蓝眼睛"
+   ],
+   [
+    "im Auge behalten",
+    "留意"
+   ]
+  ],
+  "tip": "das Auge, -n；Augen auf! 当心！"
+ },
+ "w0177": {
+  "en": "moment",
+  "col": [
+   [
+    "Einen Augenblick, bitte!",
+    "请稍等！"
+   ],
+   [
+    "im Augenblick",
+    "此刻"
+   ],
+   [
+    "jeden Augenblick",
+    "随时"
+   ]
+  ],
+  "tip": "= der Moment"
+ },
+ "w0178": {
+  "en": "out of; from",
+  "senses": [
+   "从…里出来",
+   "来自（产地）",
+   "由…制成"
+  ],
+  "col": [
+   [
+    "aus Berlin kommen",
+    "来自柏林"
+   ],
+   [
+    "aus Holz",
+    "木制的"
+   ],
+   [
+    "aus dem Haus gehen",
+    "从家里出去"
+   ]
+  ],
+  "tip": "aus + 第三格；Woher kommst du? → Aus …"
+ },
+ "w0179": {
+  "en": "training; vocational education",
+  "col": [
+   [
+    "eine Ausbildung machen",
+    "接受职业培训"
+   ],
+   [
+    "eine Ausbildung zum Koch",
+    "厨师培训"
+   ],
+   [
+    "eine Lehrstelle finden",
+    "找到学徒位置"
+   ]
+  ],
+  "tip": "德国 Ausbildung 是职业教育，大学学习说 Studium"
+ },
+ "w0180": {
+  "en": "trained; qualified",
+  "col": [
+   [
+    "ein ausgebildeter Lehrer",
+    "受过培训的教师"
+   ],
+   [
+    "gut ausgebildet",
+    "训练有素"
+   ]
+  ],
+  "tip": "ausbilden 的分词作形容词"
+ },
+ "w0181": {
+  "en": "print out",
+  "col": [
+   [
+    "ein Dokument ausdrucken",
+    "打印文件"
+   ],
+   [
+    "die E-Mail ausdrucken",
+    "打印邮件"
+   ]
+  ],
+  "tip": "druckt aus；名词 der Ausdruck 打印件"
+ },
+ "w0182": {
+  "en": "expression; printout",
+  "senses": [
+   "表达；用语",
+   "打印件"
+  ],
+  "col": [
+   [
+    "ein höflicher Ausdruck",
+    "礼貌的用语"
+   ],
+   [
+    "zum Ausdruck bringen",
+    "表达出来"
+   ],
+   [
+    "einen Ausdruck machen",
+    "打印一份"
+   ]
+  ],
+  "tip": "der Ausdruck, ¨-e"
+ },
+ "w0183": {
+  "en": "apart; from each other",
+  "col": [
+   [
+    "auseinander gehen",
+    "分开；散开"
+   ],
+   [
+    "weit auseinander",
+    "相距很远"
+   ]
+  ],
+  "tip": "与动词连用：auseinandernehmen 拆开"
+ },
+ "w0184": {
+  "en": "exit (road)",
+  "col": [
+   [
+    "die Ausfahrt der Autobahn",
+    "高速公路出口"
+   ],
+   [
+    "Ausfahrt freihalten!",
+    "出口勿占！"
+   ]
+  ],
+  "tip": "反义 die Einfahrt"
+ },
+ "w0185": {
+  "en": "be cancelled; fall out",
+  "senses": [
+   "（课、活动）取消",
+   "掉落",
+   "结果是…"
+  ],
+  "col": [
+   [
+    "Der Unterricht fällt aus.",
+    "课取消了。"
+   ],
+   [
+    "Haare fallen aus.",
+    "头发脱落。"
+   ],
+   [
+    "gut ausfallen",
+    "结果不错"
+   ]
+  ],
+  "tip": "助动词 sein；fällt aus, fiel aus"
+ },
+ "w0186": {
+  "en": "excursion; day trip",
+  "col": [
+   [
+    "einen Ausflug machen",
+    "去郊游"
+   ],
+   [
+    "ein Ausflug ans Meer",
+    "去海边一日游"
+   ]
+  ],
+  "tip": "der Ausflug, ¨-e，当天往返"
+ },
+ "w0187": {
+  "en": "fill in",
+  "col": [
+   [
+    "ein Formular ausfüllen",
+    "填表"
+   ],
+   [
+    "einen Antrag ausfüllen",
+    "填写申请"
+   ]
+  ],
+  "tip": "füllt aus；填表用 ausfüllen"
+ },
+ "w0188": {
+  "en": "expense; edition",
+  "senses": [
+   "开支",
+   "（报刊）一期；版本"
+  ],
+  "col": [
+   [
+    "die Ausgaben und Einnahmen",
+    "支出与收入"
+   ],
+   [
+    "die neueste Ausgabe",
+    "最新一期"
+   ]
+  ],
+  "tip": "复数 Ausgaben = 开支，反义 Einnahmen"
+ },
+ "w0189": {
+  "en": "exit",
+  "col": [
+   [
+    "der Ausgang des Gebäudes",
+    "建筑物的出口"
+   ],
+   [
+    "Eingang und Ausgang",
+    "入口与出口"
+   ]
+  ],
+  "tip": "反义 der Eingang"
+ },
+ "w0190": {
+  "en": "spend; hand out",
+  "col": [
+   [
+    "Geld ausgeben",
+    "花钱"
+   ],
+   [
+    "viel für Essen ausgeben",
+    "在吃上花很多"
+   ],
+   [
+    "eine Runde ausgeben",
+    "请大家喝一轮"
+   ]
+  ],
+  "tip": "ausgeben für + 第四格"
+ },
+ "w0191": {
+  "en": "go out; run out",
+  "senses": [
+   "出去玩",
+   "（东西）用完",
+   "（灯、火）熄灭"
+  ],
+  "col": [
+   [
+    "am Abend ausgehen",
+    "晚上出去玩"
+   ],
+   [
+    "Das Geld geht aus.",
+    "钱用完了。"
+   ],
+   [
+    "Das Licht geht aus.",
+    "灯灭了。"
+   ]
+  ],
+  "tip": "助动词 sein；名词 der Ausgang"
+ },
+ "w0192": {
+  "en": "excellent",
+  "col": [
+   [
+    "ausgezeichnet schmecken",
+    "味道极好"
+   ],
+   [
+    "ein ausgezeichneter Plan",
+    "极好的计划"
+   ]
+  ],
+  "tip": "= sehr gut；也可指获奖"
+ },
+ "w0193": {
+  "en": "temporary help",
+  "col": [
+   [
+    "als Aushilfe arbeiten",
+    "做临时工"
+   ],
+   [
+    "eine Aushilfe suchen",
+    "找临时工"
+   ]
+  ],
+  "tip": "常见于兼职招聘"
+ },
+ "w0194": {
+  "en": "information; enquiry",
+  "col": [
+   [
+    "Auskunft geben",
+    "提供信息"
+   ],
+   [
+    "bei der Auskunft fragen",
+    "向问询处询问"
+   ]
+  ],
+  "tip": "die Auskunft 不用复数；也指问询处"
+ },
+ "w0195": {
+  "en": "abroad",
+  "col": [
+   [
+    "im Ausland leben",
+    "住在国外"
+   ],
+   [
+    "ins Ausland fahren",
+    "出国"
+   ]
+  ],
+  "tip": "im Ausland（在国外）/ ins Ausland（去国外）"
+ },
+ "w0196": {
+  "en": "foreigner",
+  "col": [
+   [
+    "ein Ausländer in Deutschland",
+    "在德国的外国人"
+   ],
+   [
+    "die Ausländerbehörde",
+    "外管局"
+   ]
+  ],
+  "tip": "阴性 die Ausländerin"
+ },
+ "w0197": {
+  "en": "foreign",
+  "col": [
+   [
+    "ausländische Studenten",
+    "外国学生"
+   ],
+   [
+    "ausländische Produkte",
+    "外国产品"
+   ]
+  ],
+  "tip": "反义 inländisch"
+ },
+ "w0198": {
+  "en": "turn off; agree; matter",
+  "senses": [
+   "关（灯、机器）",
+   "约定",
+   "有关系"
+  ],
+  "col": [
+   [
+    "das Licht ausmachen",
+    "关灯"
+   ],
+   [
+    "einen Termin ausmachen",
+    "约定时间"
+   ],
+   [
+    "Macht es Ihnen etwas aus, wenn …?",
+    "您介意…吗？"
+   ]
+  ],
+  "tip": "口语；Das macht nichts aus 没关系"
+ },
+ "w0199": {
+  "en": "exception",
+  "col": [
+   [
+    "eine Ausnahme machen",
+    "破例"
+   ],
+   [
+    "mit Ausnahme von + Dat.",
+    "除…之外"
+   ],
+   [
+    "Ausnahmen bestätigen die Regel.",
+    "例外证明规则。"
+   ]
+  ],
+  "tip": "die Ausnahme, -n"
+ },
+ "w0200": {
+  "en": "be sufficient",
+  "col": [
+   [
+    "Das reicht aus.",
+    "这就够了。"
+   ],
+   [
+    "Das Geld reicht nicht aus.",
+    "钱不够。"
+   ]
+  ],
+  "tip": "= genügen；口语多说 reichen"
+ },
+ "w0201": {
+  "en": "sufficient",
+  "col": [
+   [
+    "ausreichend Zeit",
+    "足够的时间"
+   ],
+   [
+    "ausreichende Kenntnisse",
+    "足够的知识"
+   ]
+  ],
+  "tip": "德国成绩 ausreichend = 4 分（及格）"
+ },
+ "w0202": {
+  "en": "pass on (a message)",
+  "col": [
+   [
+    "Bitte richten Sie ihm schöne Grüße aus.",
+    "请代我向他问好。"
+   ],
+   [
+    "Kann ich etwas ausrichten?",
+    "要我转告什么吗？"
+   ]
+  ],
+  "tip": "richtet aus；电话里转达口信的常用动词"
+ },
+ "w0203": {
+  "en": "exclude; rule out",
+  "col": [
+   [
+    "einen Fehler ausschließen",
+    "排除出错的可能"
+   ],
+   [
+    "jemanden aus der Gruppe ausschließen",
+    "把某人排除出团体"
+   ]
+  ],
+  "tip": "schließt aus, schloss aus, hat ausgeschlossen；反义 einschließen"
+ },
+ "w0204": {
+  "en": "exclusively",
+  "col": [
+   [
+    "ausschließlich für Mitglieder",
+    "仅限会员"
+   ],
+   [
+    "ausschließlich Bioprodukte",
+    "只有有机产品"
+   ]
+  ],
+  "tip": "近义 nur，更正式"
+ },
+ "w0205": {
+  "en": "look; appear",
+  "col": [
+   [
+    "gut aussehen",
+    "看起来不错"
+   ],
+   [
+    "Wie sieht er aus?",
+    "他长什么样？"
+   ],
+   [
+    "Es sieht nach Regen aus.",
+    "看样子要下雨。"
+   ]
+  ],
+  "tip": "sieht aus；aussehen wie … 看起来像…"
+ },
+ "w0206": {
+  "en": "outside",
+  "col": [
+   [
+    "von außen",
+    "从外面"
+   ],
+   [
+    "nach außen",
+    "向外"
+   ]
+  ],
+  "tip": "反义 innen；静态用 außen，方向用 nach außen"
+ },
+ "w0207": {
+  "en": "outside of",
+  "col": [
+   [
+    "außerhalb der Stadt",
+    "在城外"
+   ],
+   [
+    "außerhalb der Öffnungszeiten",
+    "营业时间之外"
+   ]
+  ],
+  "tip": "介词 + 第二格；反义 innerhalb"
+ },
+ "w0208": {
+  "en": "external; outwardly",
+  "col": [
+   [
+    "äußerlich ruhig",
+    "表面平静"
+   ],
+   [
+    "nur zur äußerlichen Anwendung",
+    "仅供外用"
+   ]
+  ],
+  "tip": "药品说明里 äußerlich 指外用"
+ },
+ "w0209": {
+  "en": "except; besides",
+  "col": [
+   [
+    "alle außer mir",
+    "除我以外的所有人"
+   ],
+   [
+    "außer Betrieb",
+    "停止使用（设备）"
+   ]
+  ],
+  "tip": "außer + 第三格；außer Betrieb 即设备故障"
+ },
+ "w0210": {
+  "en": "besides; in addition",
+  "col": [
+   [
+    "außerdem noch",
+    "此外还有"
+   ],
+   [
+    "Außerdem habe ich keine Zeit.",
+    "再说，我也没时间。"
+   ]
+  ],
+  "tip": "副词，后接动词（倒装）"
+ },
+ "w0211": {
+  "en": "view; prospect",
+  "senses": [
+   "风景",
+   "前景"
+  ],
+  "col": [
+   [
+    "eine schöne Aussicht",
+    "美丽的风景"
+   ],
+   [
+    "gute Aussichten haben",
+    "前景好"
+   ],
+   [
+    "in Aussicht stellen",
+    "许诺；预示"
+   ]
+  ],
+  "tip": "Aussicht auf + 第四格 = …的前景"
+ },
+ "w0212": {
+  "en": "pronounce",
+  "col": [
+   [
+    "ein Wort richtig aussprechen",
+    "把一个词读准"
+   ],
+   [
+    "sich mit jemandem aussprechen",
+    "与某人把话说开"
+   ]
+  ],
+  "tip": "spricht aus, sprach aus；名词 die Aussprache"
+ },
+ "w0213": {
+  "en": "pronunciation",
+  "col": [
+   [
+    "eine gute Aussprache",
+    "好的发音"
+   ],
+   [
+    "die deutsche Aussprache",
+    "德语发音"
+   ]
+  ],
+  "tip": "也指「把话说开」"
+ },
+ "w0214": {
+  "en": "exhibit; issue",
+  "senses": [
+   "展出",
+   "签发（证件、发票）"
+  ],
+  "col": [
+   [
+    "Bilder ausstellen",
+    "展出画作"
+   ],
+   [
+    "einen Ausweis ausstellen",
+    "签发证件"
+   ],
+   [
+    "eine Rechnung ausstellen",
+    "开发票"
+   ]
+  ],
+  "tip": "stellt aus, hat ausgestellt"
+ },
+ "w0215": {
+  "en": "exhibition",
+  "col": [
+   [
+    "eine Ausstellung besuchen",
+    "参观展览"
+   ],
+   [
+    "eine Ausstellung eröffnen",
+    "开幕展览"
+   ]
+  ],
+  "tip": "Ausstellung 是展览；Messe 是展销会"
+ },
+ "w0216": {
+  "en": "select; choose",
+  "col": [
+   [
+    "ein Produkt auswählen",
+    "选择一件产品"
+   ],
+   [
+    "aus der Liste auswählen",
+    "从清单中选"
+   ]
+  ],
+  "tip": "= aussuchen；名词 die Auswahl"
+ },
+ "w0217": {
+  "en": "selection; choice",
+  "col": [
+   [
+    "eine große Auswahl",
+    "丰富的选择"
+   ],
+   [
+    "zur Auswahl stehen",
+    "可供选择"
+   ],
+   [
+    "die Auswahl treffen",
+    "作出选择"
+   ]
+  ],
+  "tip": "die Auswahl, -en；动词 auswählen"
+ },
+ "w0218": {
+  "en": "ID; identity card",
+  "col": [
+   [
+    "den Ausweis zeigen",
+    "出示证件"
+   ],
+   [
+    "der Personalausweis",
+    "身份证"
+   ],
+   [
+    "der Studentenausweis",
+    "学生证"
+   ]
+  ],
+  "tip": "Ausweis 泛指各类证件"
+ },
+ "w0219": {
+  "en": "take off; move out",
+  "senses": [
+   "脱（衣服）",
+   "搬出"
+  ],
+  "col": [
+   [
+    "die Schuhe ausziehen",
+    "脱鞋"
+   ],
+   [
+    "aus der Wohnung ausziehen",
+    "搬出住所"
+   ],
+   [
+    "sich ausziehen",
+    "脱衣服"
+   ]
+  ],
+  "tip": "脱衣用 hat ausgezogen，搬出用 ist ausgezogen"
+ },
+ "w0220": {
+  "en": "car",
+  "col": [
+   [
+    "mit dem Auto fahren",
+    "开车去"
+   ],
+   [
+    "Auto fahren",
+    "开车"
+   ],
+   [
+    "ein Auto kaufen",
+    "买车"
+   ]
+  ],
+  "tip": "das Auto, -s"
+ },
+ "w0221": {
+  "en": "motorway",
+  "col": [
+   [
+    "auf der Autobahn fahren",
+    "在高速上开"
+   ],
+   [
+    "die Autobahnausfahrt",
+    "高速出口"
+   ]
+  ],
+  "tip": "德国部分高速路段不限速"
+ },
+ "w0222": {
+  "en": "machine; vending machine",
+  "col": [
+   [
+    "am Automaten ein Ticket kaufen",
+    "在自动售票机买票"
+   ],
+   [
+    "der Getränkeautomat",
+    "饮料机"
+   ]
+  ],
+  "tip": "弱变化：der Automat, -en"
+ },
+ "w0223": {
+  "en": "automatic",
+  "col": [
+   [
+    "automatisch öffnen",
+    "自动打开"
+   ],
+   [
+    "sich automatisch verlängern",
+    "自动续期"
+   ]
+  ],
+  "tip": "形容词与副词同形"
+ },
+ "w0224": {
+  "en": "author",
+  "col": [
+   [
+    "ein bekannter Autor",
+    "一位知名作家"
+   ],
+   [
+    "der Autor des Buches",
+    "书的作者"
+   ]
+  ],
+  "tip": "阴性 die Autorin；弱变化 -en"
+ },
+ "w0225": {
+  "en": "female author",
+  "col": [
+   [
+    "eine junge Autorin",
+    "一位年轻的女作家"
+   ],
+   [
+    "die Autorin des Artikels",
+    "文章的作者"
+   ]
+  ],
+  "tip": "der Autor 的阴性"
+ },
+ "w0226": {
+  "en": "bake",
+  "col": [
+   [
+    "einen Kuchen backen",
+    "烤蛋糕"
+   ],
+   [
+    "Brot backen",
+    "烤面包"
+   ]
+  ],
+  "tip": "du bäckst / backst；过去式 backte；分词 gebacken"
+ },
+ "w0227": {
+  "en": "bakery",
+  "col": [
+   [
+    "in der Bäckerei Brötchen kaufen",
+    "在面包店买小面包"
+   ],
+   [
+    "zur Bäckerei gehen",
+    "去面包店"
+   ]
+  ],
+  "tip": "面包师 der Bäcker"
+ },
+ "w0228": {
+  "en": "bathe; swim",
+  "col": [
+   [
+    "im See baden",
+    "在湖里游泳"
+   ],
+   [
+    "baden gehen",
+    "去游泳／洗澡"
+   ]
+  ],
+  "tip": "在浴缸里洗澡也说 ein Bad nehmen"
+ },
+ "w0229": {},
+ "w0230": {
+  "en": "bath; bathroom",
+  "senses": [
+   "洗澡",
+   "浴室；卫生间"
+  ],
+  "col": [
+   [
+    "ein Bad nehmen",
+    "洗个澡"
+   ],
+   [
+    "Zimmer mit Bad",
+    "带卫生间的房间"
+   ],
+   [
+    "Bad und WC",
+    "浴室与厕所"
+   ]
+  ],
+  "tip": "das Bad, ¨-er；也指温泉疗养地"
+ },
+ "w0231": {
+  "en": "bathtub",
+  "col": [
+   [
+    "in der Badewanne liegen",
+    "泡在浴缸里"
+   ],
+   [
+    "die Badewanne füllen",
+    "给浴缸放水"
+   ]
+  ],
+  "tip": "die Wanne 是盆；Dusche 是淋浴"
+ },
+ "w0232": {
+  "en": "train; railway",
+  "col": [
+   [
+    "mit der Bahn fahren",
+    "乘火车去"
+   ],
+   [
+    "die Deutsche Bahn",
+    "德国铁路公司"
+   ],
+   [
+    "die Bahn verpassen",
+    "错过火车"
+   ]
+  ],
+  "tip": "die Bahn 指铁路／轨道，口语泛指火车、电车"
+ },
+ "w0233": {
+  "en": "suburban train",
+  "col": [
+   [
+    "mit der S-Bahn fahren",
+    "乘城铁"
+   ],
+   [
+    "die S-Bahn-Station",
+    "城铁站"
+   ]
+  ],
+  "tip": "S-Bahn 是市郊快线，U-Bahn 是地铁"
+ },
+ "w0234": {
+  "en": "tram",
+  "col": [
+   [
+    "mit der Straßenbahn fahren",
+    "乘有轨电车"
+   ],
+   [
+    "die Straßenbahnhaltestelle",
+    "电车站"
+   ]
+  ],
+  "tip": "口语也说 die Tram"
+ },
+ "w0235": {
+  "en": "underground; subway",
+  "col": [
+   [
+    "mit der U-Bahn fahren",
+    "乘地铁"
+   ],
+   [
+    "die U-Bahn-Station",
+    "地铁站"
+   ]
+  ],
+  "tip": "U = Untergrund"
+ },
+ "w0236": {
+  "en": "station",
+  "col": [
+   [
+    "am Bahnhof",
+    "在火车站"
+   ],
+   [
+    "zum Bahnhof gehen",
+    "去火车站"
+   ],
+   [
+    "der Hauptbahnhof",
+    "火车总站"
+   ]
+  ],
+  "tip": "缩写 Hbf = Hauptbahnhof"
+ },
+ "w0237": {
+  "en": "platform",
+  "col": [
+   [
+    "auf dem Bahnsteig warten",
+    "在站台上等"
+   ],
+   [
+    "Der Zug fährt von Bahnsteig 3 ab.",
+    "火车从3号站台发车。"
+   ]
+  ],
+  "tip": "也常说 das Gleis（轨道／站台号）；瑞士说 Perron"
+ },
+ "w0238": {
+  "en": "soon",
+  "col": [
+   [
+    "Bis bald!",
+    "回头见！"
+   ],
+   [
+    "so bald wie möglich",
+    "尽快"
+   ],
+   [
+    "bald darauf",
+    "不久之后"
+   ]
+  ],
+  "tip": "Bis bald! 是常用道别语"
+ },
+ "w0239": {
+  "en": "balcony",
+  "col": [
+   [
+    "auf dem Balkon sitzen",
+    "坐在阳台上"
+   ],
+   [
+    "eine Wohnung mit Balkon",
+    "带阳台的住房"
+   ]
+  ],
+  "tip": "der Balkon, -e 或 -s"
+ },
+ "w0240": {
+  "en": "ball; dance",
+  "senses": [
+   "球",
+   "舞会"
+  ],
+  "col": [
+   [
+    "Ball spielen",
+    "玩球"
+   ],
+   [
+    "einen Ball werfen",
+    "扔球"
+   ],
+   [
+    "auf einen Ball gehen",
+    "去参加舞会"
+   ]
+  ],
+  "tip": "复数 Bälle，变音"
+ },
+ "w0241": {
+  "en": "ballet",
+  "col": [
+   [
+    "Ballett tanzen",
+    "跳芭蕾"
+   ],
+   [
+    "ins Ballett gehen",
+    "去看芭蕾"
+   ]
+  ],
+  "tip": "das Ballett, -e"
+ },
+ "w0242": {
+  "en": "banana",
+  "col": [
+   [
+    "eine Banane schälen",
+    "剥香蕉"
+   ],
+   [
+    "eine Banane essen",
+    "吃香蕉"
+   ]
+  ],
+  "tip": "die Banane, -n"
+ },
+ "w0243": {
+  "en": "bank; bench",
+  "senses": [
+   "银行",
+   "长椅"
+  ],
+  "col": [
+   [
+    "Geld auf der Bank einzahlen",
+    "在银行存钱"
+   ],
+   [
+    "auf der Bank sitzen",
+    "坐在长椅上"
+   ],
+   [
+    "ein Konto bei der Bank",
+    "在银行开户"
+   ]
+  ],
+  "tip": "复数不同：Banken（银行）/ Bänke（长椅）"
+ },
+ "w0244": {
+  "en": "cash machine (A, CH)",
+  "tip": "德国说 der Geldautomat；奥地利/瑞士说 Bankomat / Bancomat"
+ },
+ "w0245": {
+  "en": "bank code",
+  "col": [
+   [
+    "die Bankleitzahl angeben",
+    "填写银行代码"
+   ],
+   [
+    "IBAN statt Bankleitzahl",
+    "用 IBAN 代替银行代码"
+   ]
+  ],
+  "tip": "缩写 BLZ；现在多用 IBAN"
+ },
+ "w0246": {
+  "en": "debit card (A)",
+  "tip": "奥地利说法；德国说 die EC-Karte"
+ },
+ "w0247": {
+  "en": "bar; pub",
+  "col": [
+   [
+    "in einer Bar etwas trinken",
+    "在酒吧喝一杯"
+   ],
+   [
+    "an der Bar sitzen",
+    "坐在吧台边"
+   ]
+  ],
+  "tip": "别和形容词 bar（现金的）混：bar zahlen 付现金"
+ },
+ "w0248": {
+  "en": "cash",
+  "col": [
+   [
+    "Bargeld abheben",
+    "取现金"
+   ],
+   [
+    "Ich habe kein Bargeld dabei.",
+    "我没带现金。"
+   ]
+  ],
+  "tip": "bar bezahlen 现金支付；反义 Kartenzahlung"
+ },
+ "w0249": {
+  "en": "beard",
+  "col": [
+   [
+    "einen Bart haben",
+    "留着胡子"
+   ],
+   [
+    "sich den Bart rasieren",
+    "刮胡子"
+   ]
+  ],
+  "tip": "复数 Bärte，变音"
+ },
+ "w0250": {
+  "en": "basketball",
+  "col": [
+   [
+    "Basketball spielen",
+    "打篮球"
+   ],
+   [
+    "ein Basketballspiel",
+    "一场篮球赛"
+   ]
+  ],
+  "tip": "既指篮球运动，也指篮球本身"
+ },
+ "w0251": {
+  "en": "make by hand; tinker",
+  "col": [
+   [
+    "mit Kindern basteln",
+    "和孩子做手工"
+   ],
+   [
+    "ein Geschenk basteln",
+    "手工做礼物"
+   ]
+  ],
+  "tip": "多指做手工、纸工"
+ },
+ "w0252": {
+  "en": "battery",
+  "col": [
+   [
+    "die Batterie wechseln",
+    "换电池"
+   ],
+   [
+    "Die Batterie ist leer.",
+    "电池没电了。"
+   ]
+  ],
+  "tip": "可充电电池叫 der Akku"
+ },
+ "w0253": {
+  "en": "belly; stomach",
+  "col": [
+   [
+    "Bauchschmerzen haben",
+    "肚子痛"
+   ],
+   [
+    "Mein Bauch tut weh.",
+    "我肚子疼。"
+   ],
+   [
+    "auf dem Bauch liegen",
+    "趴着"
+   ]
+  ],
+  "tip": "Bauchschmerzen 用复数"
+ },
+ "w0254": {
+  "en": "build",
+  "col": [
+   [
+    "ein Haus bauen",
+    "盖房子"
+   ],
+   [
+    "eine Brücke bauen",
+    "修桥"
+   ]
+  ],
+  "tip": "baute, hat gebaut；名词 der Bau"
+ },
+ "w0255": {
+  "en": "construction; building",
+  "col": [
+   [
+    "im Bau sein",
+    "在建设中"
+   ],
+   [
+    "auf dem Bau arbeiten",
+    "在工地干活"
+   ],
+   [
+    "der Bau einer Brücke",
+    "桥的建造"
+   ]
+  ],
+  "tip": "复数 die Bauten（建筑物）"
+ },
+ "w0256": {
+  "en": "construction site",
+  "col": [
+   [
+    "Achtung, Baustelle!",
+    "注意，施工！"
+   ],
+   [
+    "wegen Baustelle gesperrt",
+    "因施工封路"
+   ]
+  ],
+  "tip": "路上常见的标志"
+ },
+ "w0257": {
+  "en": "farmer",
+  "col": [
+   [
+    "ein Bauer auf dem Land",
+    "乡下的农民"
+   ],
+   [
+    "der Bauernhof",
+    "农场"
+   ]
+  ],
+  "tip": "弱变化 den Bauern；阴性 die Bäuerin"
+ },
+ "w0258": {
+  "en": "tree",
+  "col": [
+   [
+    "einen Baum pflanzen",
+    "种树"
+   ],
+   [
+    "auf einen Baum klettern",
+    "爬树"
+   ],
+   [
+    "der Obstbaum",
+    "果树"
+   ]
+  ],
+  "tip": "复数 Bäume，变音"
+ },
+ "w0259": {
+  "en": "pay attention to; observe",
+  "col": [
+   [
+    "die Verkehrsregeln beachten",
+    "遵守交通规则"
+   ],
+   [
+    "Bitte beachten Sie …",
+    "请注意…"
+   ],
+   [
+    "nicht beachten",
+    "忽视"
+   ]
+  ],
+  "tip": "及物动词，接第四格；比 achten auf 正式"
+ },
+ "w0260": {
+  "en": "civil servant",
+  "col": [
+   [
+    "ein Beamter im Rathaus",
+    "市政厅的公务员"
+   ],
+   [
+    "Beamter werden",
+    "成为公务员"
+   ]
+  ],
+  "tip": "形容词变化：der Beamte / ein Beamter"
+ },
+ "w0261": {
+  "en": "female civil servant",
+  "col": [
+   [
+    "eine Beamtin bei der Stadt",
+    "市政府的女公务员"
+   ],
+   [
+    "Beamtin werden",
+    "当上公务员"
+   ]
+  ],
+  "tip": "der Beamte 的阴性"
+ },
+ "w0262": {
+  "en": "apply for",
+  "col": [
+   [
+    "ein Visum beantragen",
+    "申请签证"
+   ],
+   [
+    "einen Pass beantragen",
+    "申请护照"
+   ],
+   [
+    "Wohngeld beantragen",
+    "申请住房补贴"
+   ]
+  ],
+  "tip": "= einen Antrag stellen"
+ },
+ "w0263": {
+  "en": "answer",
+  "col": [
+   [
+    "eine Frage beantworten",
+    "回答问题"
+   ],
+   [
+    "einen Brief beantworten",
+    "回信"
+   ]
+  ],
+  "tip": "beantworten + 第四格；antworten auf + 第四格"
+ },
+ "w0264": {
+  "en": "thank",
+  "col": [
+   [
+    "sich bei jemandem für etwas bedanken",
+    "为某事向某人道谢"
+   ],
+   [
+    "Ich möchte mich herzlich bedanken.",
+    "我想衷心感谢。"
+   ]
+  ],
+  "tip": "bedanken bei + 第三格 für + 第四格"
+ },
+ "w0265": {
+  "en": "need; demand",
+  "col": [
+   [
+    "bei Bedarf",
+    "如有需要"
+   ],
+   [
+    "der Bedarf an + Dat.",
+    "对…的需求"
+   ],
+   [
+    "den Bedarf decken",
+    "满足需求"
+   ]
+  ],
+  "tip": "bei Bedarf 常见于说明书"
+ },
+ "w0266": {
+  "en": "mean",
+  "col": [
+   [
+    "Was bedeutet das?",
+    "这是什么意思？"
+   ],
+   [
+    "Das hat nichts zu bedeuten.",
+    "这没什么。"
+   ],
+   [
+    "Das bedeutet mir viel.",
+    "这对我很重要。"
+   ]
+  ],
+  "tip": "bedeuten 指词义、含义；人「想说」用 meinen"
+ },
+ "w0267": {
+  "en": "meaning; importance",
+  "senses": [
+   "意义；词义",
+   "重要性"
+  ],
+  "col": [
+   [
+    "die Bedeutung eines Wortes",
+    "一个词的意思"
+   ],
+   [
+    "von großer Bedeutung",
+    "意义重大"
+   ]
+  ],
+  "tip": "die Bedeutung, -en"
+ },
+ "w0268": {
+  "en": "serve; operate",
+  "senses": [
+   "接待；服务",
+   "操作（设备）"
+  ],
+  "col": [
+   [
+    "Kunden bedienen",
+    "接待顾客"
+   ],
+   [
+    "ein Gerät bedienen",
+    "操作设备"
+   ],
+   [
+    "Bitte bedienen Sie sich!",
+    "请自便！"
+   ]
+  ],
+  "tip": "sich bedienen 自取"
+ },
+ "w0269": {
+  "en": "user manual",
+  "col": [
+   [
+    "die Bedienungsanleitung lesen",
+    "阅读使用说明"
+   ],
+   [
+    "eine Bedienungsanleitung auf Deutsch",
+    "德语使用说明"
+   ]
+  ],
+  "tip": "= die Gebrauchsanweisung"
+ },
+ "w0270": {
+  "en": "condition",
+  "col": [
+   [
+    "unter der Bedingung, dass …",
+    "条件是…"
+   ],
+   [
+    "die Bedingungen erfüllen",
+    "满足条件"
+   ],
+   [
+    "die Arbeitsbedingungen",
+    "工作条件"
+   ]
+  ],
+  "tip": "unter keiner Bedingung 绝不"
+ },
+ "w0271": {
+  "en": "hurry",
+  "col": [
+   [
+    "Beeil dich!",
+    "快点！"
+   ],
+   [
+    "Wir müssen uns beeilen.",
+    "我们得赶快了。"
+   ]
+  ],
+  "tip": "反身动词；名词 die Eile 匆忙"
+ },
+ "w0272": {
+  "en": "finish; end",
+  "col": [
+   [
+    "das Studium beenden",
+    "完成学业"
+   ],
+   [
+    "ein Gespräch beenden",
+    "结束谈话"
+   ]
+  ],
+  "tip": "beenden 及物；enden 不及物"
+ },
+ "w0273": {
+  "en": "be located; be",
+  "col": [
+   [
+    "Das Hotel befindet sich in der Stadtmitte.",
+    "酒店位于市中心。"
+   ],
+   [
+    "sich in einer schwierigen Lage befinden",
+    "处于困境"
+   ]
+  ],
+  "tip": "正式，近 sein；befindet sich"
+ },
+ "w0274": {
+  "en": "exempt; freed",
+  "col": [
+   [
+    "von der Steuer befreit",
+    "免税"
+   ],
+   [
+    "vom Unterricht befreit sein",
+    "免上课"
+   ]
+  ],
+  "tip": "befreit von + 第三格"
+ },
+ "w0275": {
+  "en": "satisfactory",
+  "col": [
+   [
+    "ein befriedigendes Ergebnis",
+    "令人满意的结果"
+   ],
+   [
+    "die Note „befriedigend“",
+    "成绩「befriedigend」（3分）"
+   ]
+  ],
+  "tip": "德国成绩：befriedigend = 3"
+ },
+ "w0276": {
+  "en": "meet; encounter",
+  "col": [
+   [
+    "jemandem begegnen",
+    "遇见某人"
+   ],
+   [
+    "Wir sind uns zufällig begegnet.",
+    "我们偶然碰到了。"
+   ]
+  ],
+  "tip": "助动词 sein；+ 第三格；别与 treffen（约见）混"
+ },
+ "w0277": {
+  "en": "enthusiastic",
+  "col": [
+   [
+    "begeistert sein von + Dat.",
+    "对…着迷"
+   ],
+   [
+    "begeistert applaudieren",
+    "热烈鼓掌"
+   ]
+  ],
+  "tip": "von etwas begeistert sein"
+ },
+ "w0278": {
+  "en": "begin",
+  "col": [
+   [
+    "Der Kurs beginnt um 9 Uhr.",
+    "课程9点开始。"
+   ],
+   [
+    "mit der Arbeit beginnen",
+    "开始工作"
+   ],
+   [
+    "zu regnen beginnen",
+    "开始下雨"
+   ]
+  ],
+  "tip": "beginnt, begann, hat begonnen；比 anfangen 正式"
+ },
+ "w0279": {
+  "en": "beginning; start",
+  "col": [
+   [
+    "zu Beginn",
+    "开始时"
+   ],
+   [
+    "Beginn: 20 Uhr",
+    "开始时间：20点"
+   ]
+  ],
+  "tip": "= der Anfang，更书面"
+ },
+ "w0280": {
+  "en": "accompany",
+  "col": [
+   [
+    "jemanden nach Hause begleiten",
+    "送某人回家"
+   ],
+   [
+    "jemanden zum Bahnhof begleiten",
+    "陪某人去车站"
+   ]
+  ],
+  "tip": "名词 die Begleitung 陪伴；伴奏"
+ },
+ "w0281": {
+  "en": "limited",
+  "col": [
+   [
+    "begrenzte Zeit",
+    "有限的时间"
+   ],
+   [
+    "Die Plätze sind begrenzt.",
+    "名额有限。"
+   ]
+  ],
+  "tip": "近义 beschränkt"
+ },
+ "w0282": {
+  "en": "justify; give reasons for",
+  "col": [
+   [
+    "eine Entscheidung begründen",
+    "说明决定的理由"
+   ],
+   [
+    "Begründen Sie Ihre Meinung!",
+    "请说明您的理由！"
+   ]
+  ],
+  "tip": "来自 der Grund（理由）"
+ },
+ "w0283": {
+  "en": "reason; justification",
+  "col": [
+   [
+    "eine Begründung geben",
+    "给出理由"
+   ],
+   [
+    "mit der Begründung, dass …",
+    "理由是…"
+   ]
+  ],
+  "tip": "die Begründung, -en"
+ },
+ "w0284": {
+  "en": "greet; welcome",
+  "col": [
+   [
+    "Gäste begrüßen",
+    "迎接客人"
+   ],
+   [
+    "Ich begrüße Sie herzlich.",
+    "热烈欢迎您。"
+   ]
+  ],
+  "tip": "名词 die Begrüßung"
+ },
+ "w0285": {
+  "en": "keep; remember",
+  "col": [
+   [
+    "Behalten Sie den Rest.",
+    "剩下的不用找了。"
+   ],
+   [
+    "etwas im Gedächtnis behalten",
+    "记住某事"
+   ]
+  ],
+  "tip": "behält 有变音；behalten = 留着；付小费时说"
+ },
+ "w0286": {
+  "en": "treat; deal with",
+  "senses": [
+   "治疗",
+   "处理；论述",
+   "对待"
+  ],
+  "col": [
+   [
+    "einen Patienten behandeln",
+    "治疗病人"
+   ],
+   [
+    "ein Thema behandeln",
+    "论述一个话题"
+   ],
+   [
+    "jemanden gut behandeln",
+    "善待某人"
+   ]
+  ],
+  "tip": "名词 die Behandlung"
+ },
+ "w0287": {
+  "en": "claim; assert",
+  "col": [
+   [
+    "behaupten, dass …",
+    "声称…"
+   ],
+   [
+    "Er behauptet, krank zu sein.",
+    "他声称自己病了。"
+   ]
+  ],
+  "tip": "die Behauptung 说法，未必是真的"
+ },
+ "w0288": {
+  "en": "hinder; obstruct",
+  "col": [
+   [
+    "den Verkehr behindern",
+    "妨碍交通"
+   ],
+   [
+    "jemanden bei der Arbeit behindern",
+    "妨碍某人工作"
+   ]
+  ],
+  "tip": "名词 die Behinderung 妨碍；残障"
+ },
+ "w0289": {
+  "en": "disabled",
+  "col": [
+   [
+    "behindertengerecht",
+    "无障碍的"
+   ],
+   [
+    "Menschen mit Behinderung",
+    "残障人士"
+   ]
+  ],
+  "tip": "礼貌说法用 Menschen mit Behinderung"
+ },
+ "w0290": {
+  "en": "authority; government office",
+  "col": [
+   [
+    "eine Behörde besuchen",
+    "去政府机关"
+   ],
+   [
+    "die Ausländerbehörde",
+    "外管局"
+   ]
+  ],
+  "tip": "Amt 指具体机构，Behörde 是官方部门的总称"
+ },
+ "w0291": {
+  "en": "at; with; near",
+  "senses": [
+   "在…那里／家",
+   "在…时",
+   "靠近"
+  ],
+  "col": [
+   [
+    "bei meinen Eltern wohnen",
+    "住在父母家"
+   ],
+   [
+    "beim Arzt",
+    "在医生那里"
+   ],
+   [
+    "bei Regen",
+    "下雨时"
+   ]
+  ],
+  "tip": "bei + 第三格；beim = bei dem"
+ },
+ "w0292": {
+  "en": "both",
+  "col": [
+   [
+    "beide Kinder",
+    "两个孩子"
+   ],
+   [
+    "alle beide",
+    "两个都"
+   ],
+   [
+    "die beiden",
+    "他们俩"
+   ]
+  ],
+  "tip": "beide 是复数"
+ },
+ "w0293": {
+  "en": "leg",
+  "col": [
+   [
+    "sich das Bein brechen",
+    "摔断腿"
+   ],
+   [
+    "auf den Beinen sein",
+    "在忙碌；起来走动"
+   ]
+  ],
+  "tip": "Bein 腿，Fuß 脚"
+ },
+ "w0294": {
+  "en": "almost",
+  "col": [
+   [
+    "beinahe vergessen",
+    "差点忘了"
+   ],
+   [
+    "beinahe fertig",
+    "差不多完成了"
+   ],
+   [
+    "Ich wäre beinahe gestürzt.",
+    "我差点摔倒。"
+   ]
+  ],
+  "tip": "= fast；常配第二虚拟式"
+ },
+ "w0295": {
+  "en": "example",
+  "col": [
+   [
+    "zum Beispiel",
+    "例如"
+   ],
+   [
+    "ein Beispiel geben",
+    "举例"
+   ],
+   [
+    "ein gutes Beispiel",
+    "好例子"
+   ]
+  ],
+  "tip": "缩写 z. B."
+ },
+ "w0296": {
+  "en": "bite",
+  "col": [
+   [
+    "in den Apfel beißen",
+    "咬苹果"
+   ],
+   [
+    "Der Hund beißt.",
+    "狗咬人。"
+   ]
+  ],
+  "tip": "beißt, biss, hat gebissen；注意 ß"
+ },
+ "w0297": {
+  "en": "contribution; article; fee",
+  "senses": [
+   "贡献",
+   "文章；帖子",
+   "会费"
+  ],
+  "col": [
+   [
+    "einen Beitrag leisten",
+    "做出贡献"
+   ],
+   [
+    "der Mitgliedsbeitrag",
+    "会费"
+   ],
+   [
+    "ein Beitrag im Forum",
+    "论坛帖子"
+   ]
+  ],
+  "tip": "einen Beitrag leisten 常考"
+ },
+ "w0298": {
+  "en": "known; well-known",
+  "col": [
+   [
+    "bekannt sein für …",
+    "以…闻名"
+   ],
+   [
+    "Das ist mir bekannt.",
+    "我知道这件事。"
+   ],
+   [
+    "ein bekannter Schauspieler",
+    "一位知名演员"
+   ]
+  ],
+  "tip": "bekannt 知名；berühmt 更有名"
+ },
+ "w0299": {
+  "en": "acquaintance",
+  "col": [
+   [
+    "ein Bekannter von mir",
+    "我的一位熟人"
+   ],
+   [
+    "gemeinsame Bekannte",
+    "共同的熟人"
+   ]
+  ],
+  "tip": "形容词变化名词；关系浅于 Freund"
+ },
+ "w0300": {
+  "en": "announce",
+  "col": [
+   [
+    "das Ergebnis bekannt geben",
+    "公布结果"
+   ],
+   [
+    "eine Entscheidung bekannt geben",
+    "宣布一项决定"
+   ]
+  ],
+  "tip": "名词 die Bekanntgabe；常写成 bekanntgeben"
+ },
+ "w0301": {},
+ "w0302": {
+  "en": "get; receive",
+  "col": [
+   [
+    "einen Brief bekommen",
+    "收到一封信"
+   ],
+   [
+    "Hunger bekommen",
+    "饿了"
+   ],
+   [
+    "Ich bekomme einen Kaffee.",
+    "我要一杯咖啡。"
+   ]
+  ],
+  "tip": "bekommen 是「得到」，不是英语 become（= werden）"
+ },
+ "w0303": {
+  "en": "receipt; proof",
+  "col": [
+   [
+    "einen Beleg aufbewahren",
+    "保留凭证"
+   ],
+   [
+    "Belege einreichen",
+    "提交凭证"
+   ]
+  ],
+  "tip": "der Kassenbeleg 收银小票；近义 die Quittung"
+ },
+ "w0304": {
+  "en": "insult",
+  "col": [
+   [
+    "jemanden beleidigen",
+    "侮辱某人"
+   ],
+   [
+    "sich beleidigt fühlen",
+    "觉得被冒犯"
+   ]
+  ],
+  "tip": "beleidigt sein 指生气、闹别扭"
+ },
+ "w0305": {
+  "en": "popular",
+  "col": [
+   [
+    "ein beliebter Lehrer",
+    "受欢迎的老师"
+   ],
+   [
+    "bei jungen Leuten beliebt sein",
+    "受年轻人欢迎"
+   ]
+  ],
+  "tip": "beliebt bei + 第三格"
+ },
+ "w0306": {
+  "en": "notice",
+  "col": [
+   [
+    "einen Fehler bemerken",
+    "发现一个错误"
+   ],
+   [
+    "Hast du das bemerkt?",
+    "你注意到了吗？"
+   ],
+   [
+    "nebenbei bemerkt",
+    "顺便说一句"
+   ]
+  ],
+  "tip": "bemerken 偏正式；merken 是察觉、记住"
+ },
+ "w0307": {
+  "en": "make an effort",
+  "col": [
+   [
+    "sich um eine Stelle bemühen",
+    "努力争取一个职位"
+   ],
+   [
+    "sich bemühen, pünktlich zu sein",
+    "尽力准时"
+   ]
+  ],
+  "tip": "sich bemühen um + 第四格"
+ },
+ "w0308": {
+  "en": "need",
+  "col": [
+   [
+    "Unterlagen benötigen",
+    "需要材料"
+   ],
+   [
+    "die benötigten Dokumente",
+    "所需文件"
+   ]
+  ],
+  "tip": "= brauchen，更正式"
+ },
+ "w0309": {
+  "en": "use",
+  "col": [
+   [
+    "ein Wörterbuch benutzen",
+    "使用词典"
+   ],
+   [
+    "öffentliche Verkehrsmittel benutzen",
+    "乘坐公共交通"
+   ],
+   [
+    "den Aufzug benutzen",
+    "乘电梯"
+   ]
+  ],
+  "tip": "benutzen / nutzen / verwenden 近义"
+ },
+ "w0310": {
+  "en": "petrol; gasoline",
+  "col": [
+   [
+    "Benzin tanken",
+    "加油"
+   ],
+   [
+    "Das Benzin ist teuer.",
+    "汽油很贵。"
+   ]
+  ],
+  "tip": "柴油 der Diesel"
+ },
+ "w0311": {
+  "en": "observe; watch",
+  "col": [
+   [
+    "das Wetter beobachten",
+    "观察天气"
+   ],
+   [
+    "jemanden beobachten",
+    "观察某人"
+   ]
+  ],
+  "tip": "名词 die Beobachtung"
+ },
+ "w0312": {
+  "en": "comfortable",
+  "col": [
+   [
+    "ein bequemer Sessel",
+    "舒适的扶手椅"
+   ],
+   [
+    "Machen Sie es sich bequem!",
+    "请随意坐！"
+   ],
+   [
+    "bequeme Schuhe",
+    "舒服的鞋"
+   ]
+  ],
+  "tip": "Mach es dir bequem! 招待客人用语"
+ },
+ "w0313": {
+  "en": "advise",
+  "col": [
+   [
+    "jemanden beraten",
+    "给某人提建议"
+   ],
+   [
+    "sich beraten lassen",
+    "请求咨询"
+   ]
+  ],
+  "tip": "berät 有变音，beriet, hat beraten；名词 die Beratung"
+ },
+ "w0314": {
+  "en": "advice; consultation",
+  "col": [
+   [
+    "eine Beratung in Anspruch nehmen",
+    "寻求咨询"
+   ],
+   [
+    "die Beratungsstelle",
+    "咨询中心"
+   ]
+  ],
+  "tip": "die Beratung 无复数"
+ },
+ "w0315": {
+  "en": "calculate; charge",
+  "col": [
+   [
+    "die Kosten berechnen",
+    "计算费用"
+   ],
+   [
+    "jemandem etwas berechnen",
+    "向某人收取…费用"
+   ]
+  ],
+  "tip": "berechnen 偏精确计算；rechnen 是算"
+ },
+ "w0316": {
+  "en": "area; field",
+  "col": [
+   [
+    "im Bereich Technik",
+    "在技术领域"
+   ],
+   [
+    "in diesem Bereich",
+    "在这个方面"
+   ]
+  ],
+  "tip": "= das Gebiet"
+ },
+ "w0317": {
+  "en": "ready; willing",
+  "col": [
+   [
+    "bereit sein zu + Dat.",
+    "愿意做…"
+   ],
+   [
+    "sich bereit erklären",
+    "表示愿意"
+   ]
+  ],
+  "tip": "bereit 是准备好；fertig 是做完"
+ },
+ "w0318": {
+  "en": "already",
+  "col": [
+   [
+    "bereits fertig",
+    "已经完成"
+   ],
+   [
+    "bereits im Mai",
+    "早在五月"
+   ]
+  ],
+  "tip": "= schon，更书面"
+ },
+ "w0319": {
+  "en": "mountain",
+  "col": [
+   [
+    "in die Berge fahren",
+    "去山里"
+   ],
+   [
+    "auf einen Berg steigen",
+    "爬山"
+   ]
+  ],
+  "tip": "die Berge 复数指山区"
+ },
+ "w0320": {
+  "en": "report",
+  "col": [
+   [
+    "über etwas berichten",
+    "报道某事"
+   ],
+   [
+    "von seiner Reise berichten",
+    "讲述旅行"
+   ]
+  ],
+  "tip": "berichten über + 第四格；berichten von + 第三格"
+ },
+ "w0321": {
+  "en": "report",
+  "col": [
+   [
+    "einen Bericht schreiben",
+    "写报告"
+   ],
+   [
+    "ein Bericht über + Akk.",
+    "关于…的报道"
+   ],
+   [
+    "der Wetterbericht",
+    "天气预报"
+   ]
+  ],
+  "tip": "der Bericht, -e"
+ },
+ "w0322": {
+  "en": "profession",
+  "col": [
+   [
+    "Was sind Sie von Beruf?",
+    "您的职业是什么？"
+   ],
+   [
+    "einen Beruf ausüben",
+    "从事一项职业"
+   ]
+  ],
+  "tip": "Beruf 是职业，Job 是工作"
+ },
+ "w0323": {
+  "en": "professional; job-related",
+  "col": [
+   [
+    "beruflich unterwegs sein",
+    "因公在外"
+   ],
+   [
+    "berufliche Erfahrung",
+    "职业经验"
+   ]
+  ],
+  "tip": "反义 privat"
+ },
+ "w0324": {
+  "en": "employed",
+  "col": [
+   [
+    "berufstätig sein",
+    "有工作"
+   ],
+   [
+    "berufstätige Eltern",
+    "在职的父母"
+   ]
+  ],
+  "tip": "= erwerbstätig"
+ },
+ "w0325": {
+  "en": "calm down",
+  "col": [
+   [
+    "sich beruhigen",
+    "平静下来"
+   ],
+   [
+    "Beruhigen Sie sich!",
+    "请冷静！"
+   ],
+   [
+    "ein Kind beruhigen",
+    "安抚孩子"
+   ]
+  ],
+  "tip": "词根 die Ruhe 安静"
+ },
+ "w0326": {
+  "en": "famous",
+  "col": [
+   [
+    "ein berühmter Sänger",
+    "一位著名歌手"
+   ],
+   [
+    "berühmt für + Akk.",
+    "以…闻名"
+   ],
+   [
+    "berühmt werden",
+    "变得有名"
+   ]
+  ],
+  "tip": "berühmt für + 第四格"
+ },
+ "w0327": {
+  "en": "damage",
+  "col": [
+   [
+    "ein Auto beschädigen",
+    "损坏汽车"
+   ],
+   [
+    "beschädigte Ware",
+    "受损商品"
+   ]
+  ],
+  "tip": "名词 der Schaden 损坏"
+ },
+ "w0328": {
+  "en": "employ; occupy",
+  "senses": [
+   "雇用",
+   "使忙碌",
+   "sich beschäftigen mit：从事；研究"
+  ],
+  "col": [
+   [
+    "sich mit etwas beschäftigen",
+    "忙于／研究某事"
+   ],
+   [
+    "Kinder beschäftigen",
+    "让孩子有事做"
+   ],
+   [
+    "50 Mitarbeiter beschäftigen",
+    "雇用50名员工"
+   ]
+  ],
+  "tip": "beschäftigt 可指「忙」或「被雇用」"
+ },
+ "w0329": {
+  "en": "occupation; employment",
+  "col": [
+   [
+    "eine Beschäftigung finden",
+    "找到工作"
+   ],
+   [
+    "die Freizeitbeschäftigung",
+    "业余消遣"
+   ]
+  ],
+  "tip": "die Beschäftigung，无复数时指就业"
+ },
+ "w0330": {
+  "en": "notice; information",
+  "col": [
+   [
+    "Bescheid wissen",
+    "知情；了解情况"
+   ],
+   [
+    "jemandem Bescheid sagen",
+    "通知某人"
+   ],
+   [
+    "ein Bescheid vom Amt",
+    "机关的书面通知"
+   ]
+  ],
+  "tip": "Bescheid wissen / sagen / geben"
+ },
+ "w0331": {
+  "en": "let know",
+  "col": [
+   [
+    "Sag mir Bescheid!",
+    "告诉我一声！"
+   ],
+   [
+    "Ich sage dir Bescheid.",
+    "我会通知你。"
+   ]
+  ],
+  "tip": "口语极常用"
+ },
+ "w0332": {
+  "en": "notify",
+  "col": [
+   [
+    "Geben Sie mir bitte Bescheid.",
+    "请通知我。"
+   ],
+   [
+    "ihm Bescheid geben",
+    "通知他"
+   ]
+  ],
+  "tip": "= Bescheid sagen"
+ },
+ "w0333": {
+  "en": "decide; resolve",
+  "col": [
+   [
+    "beschließen, zu + Inf.",
+    "决定做…"
+   ],
+   [
+    "ein Gesetz beschließen",
+    "通过一项法律"
+   ]
+  ],
+  "tip": "beschloss, hat beschlossen；偏集体决议，个人决定常用 sich entscheiden"
+ },
+ "w0334": {
+  "en": "limit; restrict",
+  "col": [
+   [
+    "auf etwas beschränken",
+    "限制在…上"
+   ],
+   [
+    "sich auf das Wichtigste beschränken",
+    "只限于最重要的"
+   ]
+  ],
+  "tip": "beschränkt 指有限的；口语也可贬义「头脑简单」"
+ },
+ "w0335": {
+  "en": "describe",
+  "col": [
+   [
+    "den Weg beschreiben",
+    "描述路线"
+   ],
+   [
+    "eine Person beschreiben",
+    "描述一个人"
+   ]
+  ],
+  "tip": "beschreibt, beschrieb, hat beschrieben"
+ },
+ "w0336": {
+  "en": "description",
+  "col": [
+   [
+    "eine genaue Beschreibung",
+    "精确的描述"
+   ],
+   [
+    "die Bildbeschreibung",
+    "图片描述"
+   ]
+  ],
+  "tip": "die Beschreibung, -en"
+ },
+ "w0337": {
+  "en": "complain",
+  "col": [
+   [
+    "sich über etwas beschweren",
+    "抱怨某事"
+   ],
+   [
+    "sich bei jemandem beschweren",
+    "向某人投诉"
+   ]
+  ],
+  "tip": "beschweren über + 第四格 bei + 第三格；名词 die Beschwerde"
+ },
+ "w0338": {
+  "en": "occupy; fill",
+  "col": [
+   [
+    "Der Platz ist besetzt.",
+    "座位有人。"
+   ],
+   [
+    "eine Stelle besetzen",
+    "填补一个职位"
+   ],
+   [
+    "Die Leitung ist besetzt.",
+    "占线。"
+   ]
+  ],
+  "tip": "besetzt 指有人占用／占线"
+ },
+ "w0339": {
+  "en": "view; tour",
+  "col": [
+   [
+    "eine Wohnung besichtigen",
+    "看房"
+   ],
+   [
+    "eine Burg besichtigen",
+    "参观城堡"
+   ]
+  ],
+  "tip": "名词 die Besichtigung"
+ },
+ "w0340": {
+  "en": "own; possess",
+  "col": [
+   [
+    "ein Haus besitzen",
+    "拥有一幢房子"
+   ],
+   [
+    "viel Geld besitzen",
+    "有很多钱"
+   ]
+  ],
+  "tip": "besaß, hat besessen；比 haben 正式；der Besitzer 所有人"
+ },
+ "w0341": {
+  "en": "special",
+  "col": [
+   [
+    "nichts Besonderes",
+    "没什么特别的"
+   ],
+   [
+    "im Besonderen",
+    "尤其"
+   ]
+  ],
+  "tip": "besondere/r/s 像形容词变尾"
+ },
+ "w0342": {
+  "en": "especially",
+  "col": [
+   [
+    "besonders gut",
+    "特别好"
+   ],
+   [
+    "nicht besonders",
+    "不怎么样"
+   ],
+   [
+    "ganz besonders",
+    "尤其"
+   ]
+  ],
+  "tip": "nicht besonders = 一般般"
+ },
+ "w0343": {
+  "en": "get; obtain",
+  "col": [
+   [
+    "Brot besorgen",
+    "去买面包"
+   ],
+   [
+    "Tickets besorgen",
+    "搞到票"
+   ],
+   [
+    "Besorgungen machen",
+    "办事采购"
+   ]
+  ],
+  "tip": "口语常用；besorgt 是担心的"
+ },
+ "w0344": {
+  "en": "discuss",
+  "col": [
+   [
+    "ein Problem besprechen",
+    "讨论一个问题"
+   ],
+   [
+    "etwas mit jemandem besprechen",
+    "与某人商量"
+   ]
+  ],
+  "tip": "bespricht, besprach, hat besprochen"
+ },
+ "w0345": {
+  "en": "meeting; discussion",
+  "col": [
+   [
+    "eine Besprechung haben",
+    "有个会议"
+   ],
+   [
+    "in einer Besprechung sein",
+    "正在开会"
+   ]
+  ],
+  "tip": "= das Meeting，较正式"
+ },
+ "w0346": {
+  "en": "improvement; recovery",
+  "col": [
+   [
+    "Gute Besserung!",
+    "早日康复！"
+   ],
+   [
+    "Besserung zeigen",
+    "有好转"
+   ]
+  ],
+  "tip": "Gute Besserung! 是对病人的祝语"
+ },
+ "w0347": {
+  "en": "confirm",
+  "col": [
+   [
+    "einen Termin bestätigen",
+    "确认约定"
+   ],
+   [
+    "den Empfang bestätigen",
+    "确认收到"
+   ]
+  ],
+  "tip": "名词 die Bestätigung"
+ },
+ "w0348": {
+  "en": "confirmation",
+  "col": [
+   [
+    "eine Bestätigung erhalten",
+    "收到确认"
+   ],
+   [
+    "die Bestätigungsmail",
+    "确认邮件"
+   ]
+  ],
+  "tip": "die Bestätigung, -en"
+ },
+ "w0349": {
+  "en": "pass; exist; consist of",
+  "senses": [
+   "通过（考试）",
+   "存在",
+   "由…组成（aus）",
+   "坚持（auf）"
+  ],
+  "col": [
+   [
+    "eine Prüfung bestehen",
+    "通过考试"
+   ],
+   [
+    "aus drei Teilen bestehen",
+    "由三部分组成"
+   ],
+   [
+    "auf etwas bestehen",
+    "坚持要…"
+   ]
+  ],
+  "tip": "bestand, hat bestanden；bestehen aus / auf"
+ },
+ "w0350": {
+  "en": "order",
+  "col": [
+   [
+    "Essen bestellen",
+    "点餐"
+   ],
+   [
+    "ein Taxi bestellen",
+    "叫出租车"
+   ],
+   [
+    "Grüße bestellen",
+    "代为问候"
+   ]
+  ],
+  "tip": "名词 die Bestellung 订单"
+ },
+ "w0351": {
+  "en": "certain; specific",
+  "senses": [
+   "肯定；一定",
+   "特定的"
+  ],
+  "col": [
+   [
+    "Er kommt bestimmt.",
+    "他肯定会来。"
+   ],
+   [
+    "ein bestimmter Tag",
+    "某一天"
+   ],
+   [
+    "der bestimmte Artikel",
+    "定冠词"
+   ]
+  ],
+  "tip": "口语 bestimmt = 肯定，近 sicher"
+ },
+ "w0352": {
+  "en": "punish",
+  "col": [
+   [
+    "jemanden bestrafen",
+    "惩罚某人"
+   ],
+   [
+    "mit einer Geldstrafe bestraft werden",
+    "被罚款"
+   ]
+  ],
+  "tip": "名词 die Strafe"
+ },
+ "w0353": {
+  "en": "visit; attend",
+  "senses": [
+   "拜访；参观",
+   "上（课）；就读"
+  ],
+  "col": [
+   [
+    "einen Freund besuchen",
+    "拜访朋友"
+   ],
+   [
+    "einen Kurs besuchen",
+    "上一门课"
+   ],
+   [
+    "eine Schule besuchen",
+    "上学"
+   ]
+  ],
+  "tip": "besuchen 后接第四格"
+ },
+ "w0354": {
+  "en": "visit; guest",
+  "col": [
+   [
+    "zu Besuch kommen",
+    "来访"
+   ],
+   [
+    "Besuch haben",
+    "家里有客人"
+   ],
+   [
+    "ein Besuch beim Arzt",
+    "去看医生"
+   ]
+  ],
+  "tip": "Besuch 也指「来访的客人」，不加复数"
+ },
+ "w0355": {
+  "en": "take part",
+  "col": [
+   [
+    "sich an einer Diskussion beteiligen",
+    "参与讨论"
+   ],
+   [
+    "sich an den Kosten beteiligen",
+    "分担费用"
+   ]
+  ],
+  "tip": "sich beteiligen an + 第三格"
+ },
+ "w0356": {
+  "en": "amount; sum",
+  "col": [
+   [
+    "der Betrag von 50 Euro",
+    "50欧元的金额"
+   ],
+   [
+    "einen Betrag überweisen",
+    "汇一笔款"
+   ],
+   [
+    "der Gesamtbetrag",
+    "总额"
+   ]
+  ],
+  "tip": "der Betrag, ¨-e；账单、转账里常见"
+ },
+ "w0357": {
+  "en": "look after; supervise",
+  "col": [
+   [
+    "Kinder betreuen",
+    "照看孩子"
+   ],
+   [
+    "eine Abschlussarbeit betreuen",
+    "指导毕业论文"
+   ],
+   [
+    "Kunden betreuen",
+    "服务客户"
+   ]
+  ],
+  "tip": "名词 die Betreuung；论文导师 der Betreuer"
+ },
+ "w0358": {
+  "en": "carer; supervisor",
+  "col": [
+   [
+    "der Betreuer der Abschlussarbeit",
+    "论文指导老师"
+   ],
+   [
+    "ein Betreuer im Kindergarten",
+    "幼儿园的保育员"
+   ]
+  ],
+  "tip": "阴性 die Betreuerin"
+ },
+ "w0359": {
+  "en": "care; supervision",
+  "col": [
+   [
+    "die Kinderbetreuung",
+    "儿童看护"
+   ],
+   [
+    "die Betreuung der Studenten",
+    "对学生的辅导"
+   ]
+  ],
+  "tip": "die Betreuung，无复数"
+ },
+ "w0360": {
+  "en": "company; operation",
+  "senses": [
+   "企业；工厂",
+   "运转；营业"
+  ],
+  "col": [
+   [
+    "in einem Betrieb arbeiten",
+    "在企业工作"
+   ],
+   [
+    "in Betrieb nehmen",
+    "投入使用"
+   ],
+   [
+    "außer Betrieb",
+    "停止使用"
+   ]
+  ],
+  "tip": "der Betrieb, -e"
+ },
+ "w0361": {
+  "en": "works council",
+  "col": [
+   [
+    "im Betriebsrat sein",
+    "是职工委员会成员"
+   ],
+   [
+    "Der Betriebsrat vertritt die Mitarbeiter.",
+    "职工委员会代表员工。"
+   ]
+  ],
+  "tip": "德国企业内的员工代表机构"
+ },
+ "w0362": {
+  "en": "female works council member",
+  "col": [
+   [
+    "Betriebsrätin sein",
+    "是职工委员会成员"
+   ],
+   [
+    "die Betriebsrätin der Firma",
+    "公司的职工代表"
+   ]
+  ],
+  "tip": "der Betriebsrat 的阴性"
+ },
+ "w0363": {
+  "en": "cheat; deceive",
+  "col": [
+   [
+    "jemanden betrügen",
+    "欺骗某人"
+   ],
+   [
+    "seinen Partner betrügen",
+    "对伴侣不忠"
+   ]
+  ],
+  "tip": "betrog, hat betrogen；名词 der Betrug 诈骗"
+ },
+ "w0364": {
+  "en": "drunk",
+  "col": [
+   [
+    "betrunken Auto fahren",
+    "酒后驾车"
+   ],
+   [
+    "stark betrunken",
+    "烂醉"
+   ]
+  ],
+  "tip": "口语粗俗说法 besoffen；微醺 angetrunken"
+ },
+ "w0365": {
+  "en": "bed",
+  "col": [
+   [
+    "ins Bett gehen",
+    "去睡觉"
+   ],
+   [
+    "im Bett liegen",
+    "躺在床上"
+   ],
+   [
+    "das Bett machen",
+    "整理床铺"
+   ]
+  ],
+  "tip": "das Bett, -en"
+ },
+ "w0366": {
+  "en": "population",
+  "col": [
+   [
+    "die Bevölkerung wächst",
+    "人口在增长"
+   ],
+   [
+    "die Bevölkerung Deutschlands",
+    "德国人口"
+   ]
+  ],
+  "tip": "集体名词；个人是 der Einwohner"
+ },
+ "w0367": {
+  "en": "before",
+  "col": [
+   [
+    "bevor ich gehe",
+    "在我走之前"
+   ],
+   [
+    "Bevor du gehst, …",
+    "你走之前…"
+   ]
+  ],
+  "tip": "连词，动词放句末；副词「在此之前」是 vorher"
+ },
+ "w0368": {
+  "en": "move",
+  "col": [
+   [
+    "sich bewegen",
+    "活动；动一动"
+   ],
+   [
+    "sich viel bewegen",
+    "多运动"
+   ]
+  ],
+  "tip": "名词 die Bewegung；bewegt, hat bewegt"
+ },
+ "w0369": {
+  "en": "movement; exercise",
+  "senses": [
+   "运动；活动身体",
+   "动作"
+  ],
+  "col": [
+   [
+    "zu wenig Bewegung",
+    "缺乏运动"
+   ],
+   [
+    "in Bewegung sein",
+    "在运动中"
+   ],
+   [
+    "sich Bewegung verschaffen",
+    "活动活动身体"
+   ]
+  ],
+  "tip": "die Bewegung, -en"
+ },
+ "w0370": {
+  "en": "prove",
+  "col": [
+   [
+    "seine Unschuld beweisen",
+    "证明自己无辜"
+   ],
+   [
+    "etwas beweisen",
+    "证明某事"
+   ]
+  ],
+  "tip": "beweist, bewies, hat bewiesen"
+ },
+ "w0371": {
+  "en": "proof; evidence",
+  "col": [
+   [
+    "ein Beweis für + Akk.",
+    "…的证据"
+   ],
+   [
+    "Beweise haben",
+    "有证据"
+   ]
+  ],
+  "tip": "der Beweis, -e"
+ },
+ "w0372": {
+  "en": "apply (for a job)",
+  "col": [
+   [
+    "sich um eine Stelle bewerben",
+    "申请一个职位"
+   ],
+   [
+    "sich bei einer Firma bewerben",
+    "向公司求职"
+   ]
+  ],
+  "tip": "bewirbt（e→i），bewarb sich，hat sich beworben"
+ },
+ "w0373": {
+  "en": "application",
+  "col": [
+   [
+    "eine Bewerbung schreiben",
+    "写求职信"
+   ],
+   [
+    "die Bewerbungsunterlagen",
+    "求职材料"
+   ]
+  ],
+  "tip": "Bewerbung 含简历和求职信"
+ },
+ "w0374": {
+  "en": "resident",
+  "col": [
+   [
+    "die Bewohner des Hauses",
+    "楼里的住户"
+   ],
+   [
+    "die Bewohner eines Altenheims",
+    "养老院的住户"
+   ]
+  ],
+  "tip": "阴性 die Bewohnerin"
+ },
+ "w0375": {
+  "en": "pay",
+  "col": [
+   [
+    "die Rechnung bezahlen",
+    "付账"
+   ],
+   [
+    "mit Karte bezahlen",
+    "刷卡付款"
+   ],
+   [
+    "bar bezahlen",
+    "现金支付"
+   ]
+  ],
+  "tip": "买单时说 Zahlen, bitte!"
+ },
+ "w0376": {
+  "en": "relationship",
+  "col": [
+   [
+    "eine Beziehung haben",
+    "有恋爱关系"
+   ],
+   [
+    "gute Beziehungen pflegen",
+    "维持良好关系"
+   ]
+  ],
+  "tip": "复数 Beziehungen 也指人脉"
+ },
+ "w0377": {
+  "en": "library",
+  "col": [
+   [
+    "ein Buch aus der Bibliothek ausleihen",
+    "从图书馆借书"
+   ],
+   [
+    "in der Bibliothek lernen",
+    "在图书馆学习"
+   ]
+  ],
+  "tip": "别与 die Buchhandlung（书店）混"
+ },
+ "w0378": {
+  "en": "beer",
+  "col": [
+   [
+    "ein Bier trinken",
+    "喝一杯啤酒"
+   ],
+   [
+    "ein Bier vom Fass",
+    "一杯生啤"
+   ]
+  ],
+  "tip": "das Bier"
+ },
+ "w0379": {
+  "en": "offer; provide",
+  "col": [
+   [
+    "eine Chance bieten",
+    "提供机会"
+   ],
+   [
+    "Hilfe bieten",
+    "提供帮助"
+   ]
+  ],
+  "tip": "bietet, bot, hat geboten；anbieten 更常用"
+ },
+ "w0380": {
+  "en": "picture",
+  "col": [
+   [
+    "ein Bild malen",
+    "画一幅画"
+   ],
+   [
+    "ein Bild aufhängen",
+    "挂一幅画"
+   ],
+   [
+    "auf dem Bild",
+    "在图中"
+   ]
+  ],
+  "tip": "复数 Bilder"
+ },
+ "w0381": {
+  "en": "screen",
+  "col": [
+   [
+    "auf den Bildschirm schauen",
+    "看屏幕"
+   ],
+   [
+    "ein großer Bildschirm",
+    "大屏幕"
+   ]
+  ],
+  "tip": "= der Monitor"
+ },
+ "w0382": {
+  "en": "ticket (CH)",
+  "tip": "德国、奥地利说 die Fahrkarte"
+ },
+ "w0383": {
+  "en": "cheap",
+  "col": [
+   [
+    "billig einkaufen",
+    "便宜地买"
+   ],
+   [
+    "ein billiges Hotel",
+    "廉价酒店"
+   ]
+  ],
+  "tip": "billig 也有「劣质」意味；günstig 是「实惠」"
+ },
+ "w0384": {
+  "en": "biology",
+  "col": [
+   [
+    "Biologie studieren",
+    "学生物学"
+   ],
+   [
+    "der Biologieunterricht",
+    "生物课"
+   ]
+  ],
+  "tip": "die Biologie；形容词 biologisch"
+ },
+ "w0385": {
+  "en": "organic",
+  "col": [
+   [
+    "das Bio-Gemüse",
+    "有机蔬菜"
+   ],
+   [
+    "im Bioladen einkaufen",
+    "在有机商店购物"
+   ],
+   [
+    "der Biomüll",
+    "厨余垃圾"
+   ]
+  ],
+  "tip": "Bio- 作前缀；Biomüll 是垃圾分类的一类"
+ },
+ "w0386": {
+  "en": "organic; biological",
+  "col": [
+   [
+    "biologisch angebaut",
+    "有机种植的"
+   ],
+   [
+    "biologisch abbaubar",
+    "可生物降解的"
+   ]
+  ],
+  "tip": "口语缩写 bio"
+ },
+ "w0387": {
+  "en": "pear; light bulb",
+  "senses": [
+   "梨",
+   "灯泡"
+  ],
+  "col": [
+   [
+    "eine Birne schälen",
+    "削梨"
+   ],
+   [
+    "Die Birne ist kaputt.",
+    "灯泡坏了。"
+   ],
+   [
+    "die Glühbirne",
+    "白炽灯泡"
+   ]
+  ],
+  "tip": "die Birne, -n"
+ },
+ "w0388": {
+  "en": "until; to",
+  "col": [
+   [
+    "bis morgen",
+    "到明天"
+   ],
+   [
+    "von … bis …",
+    "从…到…"
+   ],
+   [
+    "bis zum Bahnhof",
+    "到火车站"
+   ]
+  ],
+  "tip": "bis 后常接 zu + 第三格；Bis bald! 回头见"
+ },
+ "w0389": {
+  "en": "so far",
+  "col": [
+   [
+    "bisher nicht",
+    "至今没有"
+   ],
+   [
+    "wie bisher",
+    "照旧"
+   ]
+  ],
+  "tip": "= bis jetzt"
+ },
+ "w0390": {
+  "en": "a little; a bit",
+  "col": [
+   [
+    "ein bisschen Zeit",
+    "一点时间"
+   ],
+   [
+    "ein bisschen müde",
+    "有点累"
+   ],
+   [
+    "Ein bisschen mehr?",
+    "再多一点？"
+   ]
+  ],
+  "tip": "= ein wenig；bisschen 写作小写"
+ },
+ "w0391": {
+  "en": "ask; request",
+  "col": [
+   [
+    "jemanden um etwas bitten",
+    "请求某人做某事"
+   ],
+   [
+    "Darf ich bitten?",
+    "可以请您…吗？（邀舞等）"
+   ]
+  ],
+  "tip": "bitten um + 第四格；bat, hat gebeten"
+ },
+ "w0392": {
+  "en": "request",
+  "col": [
+   [
+    "eine Bitte haben",
+    "有个请求"
+   ],
+   [
+    "Ich habe eine Bitte an Sie.",
+    "我有事相求。"
+   ]
+  ],
+  "tip": "名词 die Bitte 与副词 bitte 同形"
+ },
+ "w0393": {
+  "en": "bitter",
+  "col": [
+   [
+    "bitterer Kaffee",
+    "苦咖啡"
+   ],
+   [
+    "bitter schmecken",
+    "味道苦"
+   ],
+   [
+    "bitter kalt",
+    "严寒"
+   ]
+  ],
+  "tip": "形容词"
+ },
+ "w0394": {
+  "en": "pale",
+  "col": [
+   [
+    "blass im Gesicht",
+    "脸色苍白"
+   ],
+   [
+    "blass vor Schreck",
+    "吓得脸色发白"
+   ]
+  ],
+  "tip": "比较级 blasser / blässer"
+ },
+ "w0395": {
+  "en": "leaf; sheet",
+  "senses": [
+   "叶子",
+   "（一张）纸"
+  ],
+  "col": [
+   [
+    "ein Blatt Papier",
+    "一张纸"
+   ],
+   [
+    "Die Blätter fallen.",
+    "叶子落了。"
+   ]
+  ],
+  "tip": "复数 Blätter，变音"
+ },
+ "w0396": {
+  "en": "stay; remain",
+  "col": [
+   [
+    "zu Hause bleiben",
+    "待在家里"
+   ],
+   [
+    "Bleiben Sie am Apparat!",
+    "请别挂电话！"
+   ],
+   [
+    "Das bleibt unter uns.",
+    "这件事我们之间保密。"
+   ]
+  ],
+  "tip": "助动词 sein；blieb, ist geblieben"
+ }
+}

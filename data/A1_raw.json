@@ -1,0 +1,8123 @@
+[
+ {
+  "level": "A1",
+  "page": 9,
+  "hw": "ab",
+  "sub": true,
+  "lemma": "ab",
+  "kind": "other",
+  "ex": [
+   "Ab morgen muss ich arbeiten."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 9,
+  "hw": "aber",
+  "sub": true,
+  "lemma": "aber",
+  "kind": "other",
+  "ex": [
+   "Ich bin oft im Büro, aber nur für wenige Stunden."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 9,
+  "hw": "abfahren",
+  "sub": true,
+  "lemma": "abfahren",
+  "kind": "other",
+  "ex": [
+   "Wir fahren um zwölf Uhr ab."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 9,
+  "hw": "die Abfahrt",
+  "sub": true,
+  "art": "die",
+  "lemma": "Abfahrt",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Vor der Abfahrt rufe ich an."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 9,
+  "hw": "abgeben",
+  "sub": true,
+  "lemma": "abgeben",
+  "kind": "other",
+  "ex": [
+   "Ich muss meine Schlüssel abgeben."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 9,
+  "hw": "abholen",
+  "sub": true,
+  "lemma": "abholen",
+  "kind": "other",
+  "ex": [
+   "Wann kann ich den Schrank bei dir abholen? Wir müssen noch meinen Bruder abholen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 9,
+  "hw": "der Absender",
+  "sub": true,
+  "art": "der",
+  "lemma": "Absender",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Da ist ein Brief für dich ohne Absender."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 9,
+  "hw": "Achtung",
+  "sub": true,
+  "lemma": "Achtung",
+  "kind": "other",
+  "ex": [
+   "Achtung! Das dürfen Sie nicht tun."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 9,
+  "hw": "die Adresse,-en",
+  "sub": true,
+  "art": "die",
+  "lemma": "Adresse",
+  "pl": "-en",
+  "kind": "noun",
+  "ex": [
+   "Können Sie mir seine Adresse sagen?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 9,
+  "hw": "all-",
+  "sub": true,
+  "lemma": "all-",
+  "kind": "other",
+  "ex": [
+   "Alles Gute! Das ist alles. Sind alle da? Alle Freunde kommen. Hast du alles?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 9,
+  "hw": "allein",
+  "sub": true,
+  "lemma": "allein",
+  "kind": "other",
+  "ex": [
+   "Er kommt allein."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 9,
+  "hw": "also",
+  "sub": true,
+  "lemma": "also",
+  "kind": "other",
+  "ex": [
+   "Also, es ist so: ... Er hat Zeit, also muss er uns helfen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 9,
+  "hw": "alt",
+  "sub": true,
+  "lemma": "alt",
+  "kind": "other",
+  "ex": [
+   "Wie alt sind Sie? Sie sehen aber nicht so alt aus. Mein Auto ist schon sehr alt. Wir wohnen in einem sehr alten Haus. Köln ist eine alte Stadt."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 9,
+  "hw": "das Alter",
+  "sub": true,
+  "art": "das",
+  "lemma": "Alter",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Alter: 26 Jahre."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 9,
+  "hw": "an",
+  "sub": true,
+  "lemma": "an",
+  "kind": "other",
+  "ex": [
+   "Fahren Sie an der nächsten Straße nach rechts. Wir treffen uns am Bahnhof. Am nächsten Montag geht es leider nicht."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 9,
+  "hw": "anbieten",
+  "sub": true,
+  "lemma": "anbieten",
+  "kind": "other",
+  "ex": [
+   "Was darf ich dir anbieten?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 9,
+  "hw": "das Angebot, -e",
+  "sub": true,
+  "art": "das",
+  "lemma": "Angebot",
+  "pl": "-e",
+  "kind": "noun",
+  "ex": [
+   "Heute sind Sportschuhe im Angebot."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 9,
+  "hw": "ander-",
+  "sub": true,
+  "lemma": "ander-",
+  "kind": "other",
+  "ex": [
+   "WiIlst du diese Jacke? – Nein, ich möchte die andere."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 9,
+  "hw": "anfangen",
+  "sub": true,
+  "lemma": "anfangen",
+  "kind": "other",
+  "ex": [
+   "Hier fängt die Bahnhofstraße an. Der Unterricht fängt gleich an."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 9,
+  "hw": "der Anfang",
+  "sub": true,
+  "art": "der",
+  "lemma": "Anfang",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Sie wohnt am Anfang der Straße. Wir machen Anfang Juli Urlaub."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 9,
+  "hw": "anklicken",
+  "sub": true,
+  "lemma": "anklicken",
+  "kind": "other",
+  "ex": [
+   "Da musst du dieses Wort anklicken."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 9,
+  "hw": "ankommen",
+  "sub": true,
+  "lemma": "ankommen",
+  "kind": "other",
+  "ex": [
+   "Wann kommt dieser Zug in Hamburg an?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 9,
+  "hw": "die Ankunft",
+  "sub": true,
+  "art": "die",
+  "lemma": "Ankunft",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Auf diesem Plan steht nur die Ankunft(-szeit) der Züge."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 9,
+  "hw": "ankreuzen",
+  "sub": true,
+  "lemma": "ankreuzen",
+  "kind": "other",
+  "ex": [
+   "Auf dem Formular müssen Sie an mehreren Stellen etwas ankreuzen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 9,
+  "hw": "anmachen (sich) anmelden",
+  "sub": true,
+  "lemma": "anmachen (sich) anmelden",
+  "kind": "other",
+  "ex": [
+   "Mach bitte das Licht an! Wo kann ich mich anmelden?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 9,
+  "hw": "die Anmeldung",
+  "sub": true,
+  "art": "die",
+  "lemma": "Anmeldung",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Eine Anmeldung für diesen Kurs ist nicht mehr möglich."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 9,
+  "hw": "die Anrede",
+  "sub": true,
+  "art": "die",
+  "lemma": "Anrede",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Schreiben Sie auch eine Anrede und einen Gruß."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 9,
+  "hw": "anrufen",
+  "sub": true,
+  "lemma": "anrufen",
+  "kind": "other",
+  "ex": [
+   "Kann man Sie anrufen? Peter ruft kurz seine Freundin an."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 9,
+  "hw": "der Anruf, -e",
+  "sub": true,
+  "art": "der",
+  "lemma": "Anruf",
+  "pl": "-e",
+  "kind": "noun",
+  "ex": [
+   "Sie bekommt viele Anrufe auf ihrem Handy."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 9,
+  "hw": "der Anruf- beantworter",
+  "sub": true,
+  "art": "der",
+  "lemma": "Anruf- beantworter",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Wir sind im Moment nicht da. Sprechen Sie bitte auf den Anrufbeantworter."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "die Ansage, -n",
+  "sub": true,
+  "art": "die",
+  "lemma": "Ansage",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Hören Sie die Ansagen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "der Anschluss",
+  "sub": true,
+  "art": "der",
+  "lemma": "Anschluss",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "In Mannheim haben Sie Anschluss nach Saarbrücken. Ist das die Anmeldung für einen Telefonanschluss?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "an sein",
+  "sub": true,
+  "lemma": "an sein",
+  "kind": "other",
+  "ex": [
+   "Heute Nacht war das Licht an."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "antworten",
+  "sub": true,
+  "lemma": "antworten",
+  "kind": "other",
+  "ex": [
+   "Er antwortet nicht."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "die Antwort, -en",
+  "sub": true,
+  "art": "die",
+  "lemma": "Antwort",
+  "pl": "-en",
+  "kind": "noun",
+  "ex": [
+   "Er gibt leider keine Antwort."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "die Anzeige, -n (sich) anziehen",
+  "sub": true,
+  "art": "die",
+  "lemma": "Anzeige",
+  "pl": "-n (sich) anziehen",
+  "kind": "noun",
+  "ex": [
+   "Ich habe Ihre Anzeige in der Zeitung gelesen. Ich muss mich noch anziehen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "das Apartment, -s",
+  "sub": true,
+  "art": "das",
+  "lemma": "Apartment",
+  "pl": "-s",
+  "kind": "noun",
+  "ex": [
+   "Wir haben ein Apartment gemietet."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "der Apfel, -Ä",
+  "sub": true,
+  "art": "der",
+  "lemma": "Apfel",
+  "pl": "-Ä",
+  "kind": "noun",
+  "ex": [
+   "Ein Pfund Äpfel bitte."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "der Appetit",
+  "sub": true,
+  "art": "der",
+  "lemma": "Appetit",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Guten Appetit!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "arbeiten",
+  "sub": true,
+  "lemma": "arbeiten",
+  "kind": "other",
+  "ex": [
+   "Wo arbeiten Sie?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "die Arbeit, -en",
+  "sub": true,
+  "art": "die",
+  "lemma": "Arbeit",
+  "pl": "-en",
+  "kind": "noun",
+  "ex": [
+   "Mein Bruder sucht Arbeit."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "arbeitslos",
+  "sub": true,
+  "lemma": "arbeitslos",
+  "kind": "other",
+  "ex": [
+   "Es gibt bei uns viele Leute, die schon lange arbeitslos sind."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "der Arbeitsplatz, -ä, e",
+  "sub": true,
+  "art": "der",
+  "lemma": "Arbeitsplatz",
+  "pl": "-ä, e",
+  "kind": "noun",
+  "ex": [
+   "An meinem Arbeitsplatz fehlt ein Drucker."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "der Arm, -e",
+  "sub": true,
+  "art": "der",
+  "lemma": "Arm",
+  "pl": "-e",
+  "kind": "noun",
+  "ex": [
+   "Mein Arm tut weh."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "der Arzt, -Ä, e",
+  "sub": true,
+  "art": "der",
+  "lemma": "Arzt",
+  "pl": "-Ä, e",
+  "kind": "noun",
+  "ex": [
+   "Morgen habe ich einen Termin bei meiner Ärztin."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "auch",
+  "sub": true,
+  "lemma": "auch",
+  "kind": "other",
+  "ex": [
+   "Ich bin auch Spanier."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "auf",
+  "sub": true,
+  "lemma": "auf",
+  "kind": "other",
+  "ex": [
+   "Die Kinder spielen auf der Straße. Auf Wiedersehen. Wie heißt das auf Deutsch?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "die Aufgabe, -n",
+  "sub": true,
+  "art": "die",
+  "lemma": "Aufgabe",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Das ist eine schwere Aufgabe."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "aufhören",
+  "sub": true,
+  "lemma": "aufhören",
+  "kind": "other",
+  "ex": [
+   "Der Kurs hört in einer Woche auf. Hier hört die Bahnhofstraße auf."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "auf sein",
+  "sub": true,
+  "lemma": "auf sein",
+  "kind": "other",
+  "ex": [
+   "Du brauchst den Schlüssel nicht. Die Wohnung ist auf."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "aufstehen",
+  "sub": true,
+  "lemma": "aufstehen",
+  "kind": "other",
+  "ex": [
+   "Ich muss immer um vier Uhr aufstehen. Soll ich aufstehen?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "der Aufzug, -ü, e",
+  "sub": true,
+  "art": "der",
+  "lemma": "Aufzug",
+  "pl": "-ü, e",
+  "kind": "noun",
+  "ex": [
+   "In diesem Haus gibt es keinen Aufzug."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "das Auge, -n",
+  "sub": true,
+  "art": "das",
+  "lemma": "Auge",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Er hat blaue Augen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "aus",
+  "sub": true,
+  "lemma": "aus",
+  "kind": "other",
+  "ex": [
+   "Er kommt aus Brasilien."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "der Ausflug",
+  "sub": true,
+  "art": "der",
+  "lemma": "Ausflug",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Morgen machen wir einen Ausflug nach Heidelberg."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "ausfüllen",
+  "sub": true,
+  "lemma": "ausfüllen",
+  "kind": "other",
+  "ex": [
+   "Füllen Sie bitte dieses Formular aus."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "der Ausgang",
+  "sub": true,
+  "art": "der",
+  "lemma": "Ausgang",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Wo ist der Ausgang?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "die Auskunft, -ü, e",
+  "sub": true,
+  "art": "die",
+  "lemma": "Auskunft",
+  "pl": "-ü, e",
+  "kind": "noun",
+  "ex": [
+   "Können Sie mir eine Auskunft geben?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "das Ausland",
+  "sub": true,
+  "art": "das",
+  "lemma": "Ausland",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Fahren Sie ins Ausland?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "der Ausländer, - ausländisch",
+  "sub": true,
+  "art": "der",
+  "lemma": "Ausländer",
+  "pl": "- ausländisch",
+  "kind": "noun",
+  "ex": [
+   "SInd Sie Ausländerin? Leider habe ich nur ausländisches Geld."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "ausmachen",
+  "sub": true,
+  "lemma": "ausmachen",
+  "kind": "other",
+  "ex": [
+   "Mach bitte das Licht aus!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "die Aussage, -n",
+  "sub": true,
+  "art": "die",
+  "lemma": "Aussage",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Ist die Aussage richtig oder falsch?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "aussehen",
+  "sub": true,
+  "lemma": "aussehen",
+  "kind": "other",
+  "ex": [
+   "Das sieht schön aus."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "aus sein",
+  "sub": true,
+  "lemma": "aus sein",
+  "kind": "other",
+  "ex": [
+   "Das Licht ist aus. Die Schule ist aus."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "aussteigen",
+  "sub": true,
+  "lemma": "aussteigen",
+  "kind": "other",
+  "ex": [
+   "Wo muss ich aussteigen?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "der Ausweis (sich) ausziehen",
+  "sub": true,
+  "art": "der",
+  "lemma": "Ausweis (sich) ausziehen",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Hier ist mein Ausweis. Zieh die Schuhe aus, bitte!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "das Auto, -s",
+  "sub": true,
+  "art": "das",
+  "lemma": "Auto",
+  "pl": "-s",
+  "kind": "noun",
+  "ex": [
+   "Er kommt mit dem Auto."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "die Autobahn, -en",
+  "sub": true,
+  "art": "die",
+  "lemma": "Autobahn",
+  "pl": "-en",
+  "kind": "noun",
+  "ex": [
+   "Wo geht‘s hier bitte zur Autobahn?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "der Automat",
+  "sub": true,
+  "art": "der",
+  "lemma": "Automat",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Die Fahrkarten gibt es nur am Automaten."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 10,
+  "hw": "automatisch",
+  "sub": true,
+  "lemma": "automatisch",
+  "kind": "other",
+  "ex": [
+   "Du musst nichts machen. Das geht automatisch."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "das Baby, -s",
+  "sub": true,
+  "art": "das",
+  "lemma": "Baby",
+  "pl": "-s",
+  "kind": "noun",
+  "ex": [
+   "Mein Kind ist noch ein Baby."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "die Bäckerei",
+  "sub": true,
+  "art": "die",
+  "lemma": "Bäckerei",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Ich geh mal schnell zur Bäckerei."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "das Bad",
+  "sub": true,
+  "art": "das",
+  "lemma": "Bad",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Wir haben kein großes Bad."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "baden",
+  "sub": true,
+  "lemma": "baden",
+  "kind": "other",
+  "ex": [
+   "Ich bade nicht so gern, ich dusche lieber."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "die Bahn",
+  "sub": true,
+  "art": "die",
+  "lemma": "Bahn",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Wir fahren lieber mit der Bahn. Ich nehme die nächste Bahn."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "der Bahnhof",
+  "sub": true,
+  "art": "der",
+  "lemma": "Bahnhof",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Komme ich hier zum Bahnhof?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "der Bahnsteig",
+  "sub": true,
+  "art": "der",
+  "lemma": "Bahnsteig",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Auf welchem Bahnsteig fährt der Zug?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "bald",
+  "sub": true,
+  "lemma": "bald",
+  "kind": "other",
+  "ex": [
+   "Ich komme bald."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "der Balkon",
+  "sub": true,
+  "art": "der",
+  "lemma": "Balkon",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Die Wohnung hat auch einen kleinen Balkon."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "die Banane, -n",
+  "sub": true,
+  "art": "die",
+  "lemma": "Banane",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Drei Bananen, bitte!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "die Bank",
+  "sub": true,
+  "art": "die",
+  "lemma": "Bank",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Die Bank schließt schon um vier Uhr. Er sitzt im Park auf einer Bank und liest."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "bar",
+  "sub": true,
+  "lemma": "bar",
+  "kind": "other",
+  "ex": [
+   "Muss ich bar zahlen oder geht‘s auch mit Karte?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "der Bauch",
+  "sub": true,
+  "art": "der",
+  "lemma": "Bauch",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Seit gestern tut mir der Bauch weh."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "der Baum, -ä, e",
+  "sub": true,
+  "art": "der",
+  "lemma": "Baum",
+  "pl": "-ä, e",
+  "kind": "noun",
+  "ex": [
+   "Vorsicht, fahr nicht an den Baum!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "der Beamte, -n",
+  "sub": true,
+  "art": "der",
+  "lemma": "Beamte",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Fragen Sie die Beamtin an Schalter acht!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "bedeuten",
+  "sub": true,
+  "lemma": "bedeuten",
+  "kind": "other",
+  "ex": [
+   "Was bedeutet das Wort?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "beginnen",
+  "sub": true,
+  "lemma": "beginnen",
+  "kind": "other",
+  "ex": [
+   "Das Spiel beginnt um 15.30 Uhr."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "bei",
+  "sub": true,
+  "lemma": "bei",
+  "kind": "other",
+  "ex": [
+   "Offenbach liegt bei Frankfurt. Ich wohne bei meinen Eltern. Bei uns regnet es heute. Er arbeitet bei der Polizei."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "beide",
+  "sub": true,
+  "lemma": "beide",
+  "kind": "other",
+  "ex": [
+   "Beide Eltern arbeiten. Wir kommen beide."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "das Bein, -e",
+  "sub": true,
+  "art": "das",
+  "lemma": "Bein",
+  "pl": "-e",
+  "kind": "noun",
+  "ex": [
+   "Mein rechtes Bein tut weh."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "das Beispiel, -e",
+  "sub": true,
+  "art": "das",
+  "lemma": "Beispiel",
+  "pl": "-e",
+  "kind": "noun",
+  "ex": [
+   "Kannst du mir ein Beispiel sagen?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "zum Beispiel/z. B.",
+  "sub": true,
+  "lemma": "zum Beispiel/z. B.",
+  "kind": "other",
+  "ex": [
+   "Viele meiner Verwandten, z. B. meine beiden Brüder, arbeiten auch hier."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "bekannt",
+  "sub": true,
+  "lemma": "bekannt",
+  "kind": "other",
+  "ex": [
+   "Picasso ist sehr bekannt."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "der/die Bekannte, -n",
+  "sub": true,
+  "lemma": "der/die Bekannte",
+  "kind": "other",
+  "ex": [
+   "Ein Bekannter von mir heißt Klaus."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "bekommen",
+  "sub": true,
+  "lemma": "bekommen",
+  "kind": "other",
+  "ex": [
+   "Haben Sie meinen Brief bekommen? Was bekommen Sie? Dieses Medikament bekommen Sie in der Apotheke."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "benutzen",
+  "sub": true,
+  "lemma": "benutzen",
+  "kind": "other",
+  "ex": [
+   "Die Aufzüge bitte nicht benutzen!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "der Beruf, -e",
+  "sub": true,
+  "art": "der",
+  "lemma": "Beruf",
+  "pl": "-e",
+  "kind": "noun",
+  "ex": [
+   "Was sind Sie von Beruf? Was ist Ihr Beruf?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "besetzt",
+  "sub": true,
+  "lemma": "besetzt",
+  "kind": "other",
+  "ex": [
+   "Die Nummer ist immer besetzt. Der Platz ist besetzt."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "besichtigen",
+  "sub": true,
+  "lemma": "besichtigen",
+  "kind": "other",
+  "ex": [
+   "Ich möchte gern den Dom besichtigen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "besser",
+  "sub": true,
+  "lemma": "besser",
+  "kind": "other",
+  "ex": [
+   "Es geht mir schon besser."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "best- bestellen",
+  "sub": true,
+  "lemma": "best- bestellen",
+  "kind": "other",
+  "ex": [
+   "Am besten treffen wir uns morgen. Wir möchten bestellen, bitte. Dieses Buch haben wir nicht – sollen wir es für Sie bestellen?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "besuchen",
+  "sub": true,
+  "lemma": "besuchen",
+  "kind": "other",
+  "ex": [
+   "Darf ich dich besuchen?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "das Bett, -en",
+  "sub": true,
+  "art": "das",
+  "lemma": "Bett",
+  "pl": "-en",
+  "kind": "noun",
+  "ex": [
+   "Wir brauchen noch ein Kinderbett."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "bezahlen",
+  "sub": true,
+  "lemma": "bezahlen",
+  "kind": "other",
+  "ex": [
+   "Wo muss ich bezahlen?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "das Bier",
+  "sub": true,
+  "art": "das",
+  "lemma": "Bier",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Noch ein Bier bitte."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "das Bild, -er",
+  "sub": true,
+  "art": "das",
+  "lemma": "Bild",
+  "pl": "-er",
+  "kind": "noun",
+  "ex": [
+   "Hast du ein Bild von deinem Sohn?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 11,
+  "hw": "billig",
+  "sub": true,
+  "lemma": "billig",
+  "kind": "other",
+  "ex": [
+   "Die Jacke kostet nur 10 Euro! Die ist aber billig!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 12,
+  "hw": "die Birne, -n",
+  "sub": true,
+  "art": "die",
+  "lemma": "Birne",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Ein Kilo Birnen, bitte!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 12,
+  "hw": "bis",
+  "sub": true,
+  "lemma": "bis",
+  "kind": "other",
+  "ex": [
+   "Ich fahre nur bis Stuttgart. Ich warte bis morgen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 12,
+  "hw": "bisschen",
+  "sub": true,
+  "lemma": "bisschen",
+  "kind": "other",
+  "ex": [
+   "Ich spreche Englisch, Französisch und ein bisschen Deutsch."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 12,
+  "hw": "bitte",
+  "sub": true,
+  "lemma": "bitte",
+  "kind": "other",
+  "ex": [
+   "Eine Tasse Kaffee, bitte! Sprechen Sie bitte leise!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 12,
+  "hw": "die Bitte, -n",
+  "sub": true,
+  "art": "die",
+  "lemma": "Bitte",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Ich habe noch eine Bitte."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 12,
+  "hw": "bitten",
+  "sub": true,
+  "lemma": "bitten",
+  "kind": "other",
+  "ex": [
+   "Darf ich Sie um etwas bitten?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 12,
+  "hw": "bitter",
+  "sub": true,
+  "lemma": "bitter",
+  "kind": "other",
+  "ex": [
+   "Der Kaffee schmeckt bitter."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 12,
+  "hw": "bleiben",
+  "sub": true,
+  "lemma": "bleiben",
+  "kind": "other",
+  "ex": [
+   "Ich bleibe heute zu Hause. Wir bleiben nur bis morgen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 12,
+  "hw": "der Bleistift, -e",
+  "sub": true,
+  "art": "der",
+  "lemma": "Bleistift",
+  "pl": "-e",
+  "kind": "noun",
+  "ex": [
+   "Hast du einen Bleistift?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 12,
+  "hw": "der Blick",
+  "sub": true,
+  "art": "der",
+  "lemma": "Blick",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Von diesem Hotel hat man einen guten Blick auf den Rhein."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 12,
+  "hw": "die Blume, -n",
+  "sub": true,
+  "art": "die",
+  "lemma": "Blume",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Gefallen dir die Blumen?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 12,
+  "hw": "der Bogen",
+  "sub": true,
+  "art": "der",
+  "lemma": "Bogen",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Schreiben Sie Ihre Lösungen bitte auf den Antwortbogen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 12,
+  "hw": "böse",
+  "sub": true,
+  "lemma": "böse",
+  "kind": "other",
+  "ex": [
+   "Sie ist böse auf mich."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 12,
+  "hw": "brauchen",
+  "sub": true,
+  "lemma": "brauchen",
+  "kind": "other",
+  "ex": [
+   "Brauchst du die Zeitung noch?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 12,
+  "hw": "breit",
+  "sub": true,
+  "lemma": "breit",
+  "kind": "other",
+  "ex": [
+   "Wie breit ist der Schrank?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 12,
+  "hw": "der Brief, -e",
+  "sub": true,
+  "art": "der",
+  "lemma": "Brief",
+  "pl": "-e",
+  "kind": "noun",
+  "ex": [
+   "Haben Sie einen Brief für mich?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 12,
+  "hw": "die Briefmarke, -n",
+  "sub": true,
+  "art": "die",
+  "lemma": "Briefmarke",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Kaufst du bitte Briefmarken bei der Post."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 12,
+  "hw": "bringen",
+  "sub": true,
+  "lemma": "bringen",
+  "kind": "other",
+  "ex": [
+   "Bringen Sie mir bitte noch einen Kaffee! Wir müssen ihn zum Arzt bringen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 12,
+  "hw": "das Brot, -e",
+  "sub": true,
+  "art": "das",
+  "lemma": "Brot",
+  "pl": "-e",
+  "kind": "noun",
+  "ex": [
+   "Haben Sie auch Weißbrot? Nimm noch ein paar Brote für die Fahrt mit."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 12,
+  "hw": "das Brötchen, –",
+  "sub": true,
+  "art": "das",
+  "lemma": "Brötchen",
+  "pl": "–",
+  "kind": "noun",
+  "ex": [
+   "Möchtest du Brötchen zum Frühstück?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 12,
+  "hw": "der Bruder, -ü",
+  "sub": true,
+  "art": "der",
+  "lemma": "Bruder",
+  "pl": "-ü",
+  "kind": "noun",
+  "ex": [
+   "Sein Bruder arbeitet auch hier."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 12,
+  "hw": "das Buch, -ü, er",
+  "sub": true,
+  "art": "das",
+  "lemma": "Buch",
+  "pl": "-ü, er",
+  "kind": "noun",
+  "ex": [
+   "Gute Bücher sind oft sehr teuer. In diesem Wörterbuch finden Sie mehr als 20.000 Wörter."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 12,
+  "hw": "der Buchstabe, -n",
+  "sub": true,
+  "art": "der",
+  "lemma": "Buchstabe",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Diesen Buchstaben gibt es in meiner Sprache nicht."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 12,
+  "hw": "buchstabieren",
+  "sub": true,
+  "lemma": "buchstabieren",
+  "kind": "other",
+  "ex": [
+   "Bitte buchstabieren Sie Ihren Namen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 12,
+  "hw": "der Bus, -se",
+  "sub": true,
+  "art": "der",
+  "lemma": "Bus",
+  "pl": "-se",
+  "kind": "noun",
+  "ex": [
+   "Wann kommt der nächste Bus?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 12,
+  "hw": "die Butter",
+  "sub": true,
+  "art": "die",
+  "lemma": "Butter",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Für mich bitte ein Brötchen mit Butter und Käse."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 12,
+  "hw": "das Café, -s",
+  "sub": true,
+  "art": "das",
+  "lemma": "Café",
+  "pl": "-s",
+  "kind": "noun",
+  "ex": [
+   "Sollen wir uns im Café treffen?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 12,
+  "hw": "die CD, -s",
+  "sub": true,
+  "art": "die",
+  "lemma": "CD",
+  "pl": "-s",
+  "kind": "noun",
+  "ex": [
+   "Bring bitte deine Lieblings-CD mit."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 12,
+  "hw": "der Chef",
+  "sub": true,
+  "art": "der",
+  "lemma": "Chef",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Wir haben eine neue Chefin."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 12,
+  "hw": "circa/ca.",
+  "sub": true,
+  "lemma": "circa/ca.",
+  "kind": "other",
+  "ex": [
+   "Von Mainz nach Frankfurt sind es circa fünfzig Kilometer."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 12,
+  "hw": "der Computer, –",
+  "sub": true,
+  "art": "der",
+  "lemma": "Computer",
+  "pl": "–",
+  "kind": "noun",
+  "ex": [
+   "Wann bekommst du deinen neuen Computer?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 12,
+  "hw": "da",
+  "sub": true,
+  "lemma": "da",
+  "kind": "other",
+  "ex": [
+   "Da hinten ist er ja. Wir sprechen gerade über Paul. Da kommt er ja gerade. Ich nehme das da. Ist Herr Klein schon da?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 12,
+  "hw": "die Dame, -n",
+  "sub": true,
+  "art": "die",
+  "lemma": "Dame",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Damen (an der Toilette) Sehr geehrte Damen und Herren!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 13,
+  "hw": "daneben",
+  "sub": true,
+  "lemma": "daneben",
+  "kind": "other",
+  "ex": [
+   "Du kennst doch die Post. Daneben ist die Bank."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 13,
+  "hw": "danken",
+  "sub": true,
+  "lemma": "danken",
+  "kind": "other",
+  "ex": [
+   "Ich danke Ihnen für die Einladung."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 13,
+  "hw": "der Dank",
+  "sub": true,
+  "art": "der",
+  "lemma": "Dank",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Vielen Dank! Herzlichen Dank!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 13,
+  "hw": "danke",
+  "sub": true,
+  "lemma": "danke",
+  "kind": "other",
+  "ex": [
+   "Soll ich Ihnen helfen? - Nein, danke!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 13,
+  "hw": "dann",
+  "sub": true,
+  "lemma": "dann",
+  "kind": "other",
+  "ex": [
+   "Ich muss noch schnell zur Post, dann komme ich."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 13,
+  "hw": "das Datum",
+  "sub": true,
+  "art": "das",
+  "lemma": "Datum",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Bitte schreiben Sie noch das Datum auf das Formular."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 13,
+  "hw": "dauern",
+  "sub": true,
+  "lemma": "dauern",
+  "kind": "other",
+  "ex": [
+   "Wie lange dauert der Film?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 13,
+  "hw": "dein-",
+  "sub": true,
+  "lemma": "dein-",
+  "kind": "other",
+  "ex": [
+   "Ist das dein Auto? Ist das deins?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 13,
+  "hw": "denn",
+  "sub": true,
+  "lemma": "denn",
+  "kind": "other",
+  "ex": [
+   "Ich kann nicht kommen, denn ich bin krank."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 13,
+  "hw": "der, die, das",
+  "sub": true,
+  "lemma": "der",
+  "kind": "other",
+  "ex": [
+   "Ich nehme das da. Hier ist der Brief, den du suchst. Die Fahrkarte bekommst du am Bahnhof."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 13,
+  "hw": "dich",
+  "sub": true,
+  "lemma": "dich",
+  "kind": "other",
+  "ex": [
+   "Die Blumen sind für dich."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 13,
+  "hw": "dies- dir",
+  "sub": true,
+  "lemma": "dies- dir",
+  "kind": "other",
+  "ex": [
+   "Ich nehme lieber diesen Kuchen. Gefallen dir die Blumen?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 13,
+  "hw": "die Disco",
+  "sub": true,
+  "art": "die",
+  "lemma": "Disco",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Heute abend gehen wir in die Disco tanzen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 13,
+  "hw": "der Doktor",
+  "sub": true,
+  "art": "der",
+  "lemma": "Doktor",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Meine Tochter ist krank. Wir gehen zum Doktor."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 13,
+  "hw": "das Doppelzimmer",
+  "sub": true,
+  "art": "das",
+  "lemma": "Doppelzimmer",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Wollen Sie ein Doppelzimmer oder ein Einzelzimmer?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 13,
+  "hw": "das Dorf, -ö, er",
+  "sub": true,
+  "art": "das",
+  "lemma": "Dorf",
+  "pl": "-ö, er",
+  "kind": "noun",
+  "ex": [
+   "Meine Familie lebt in einem Dorf."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 13,
+  "hw": "dort, -her, -hin",
+  "sub": true,
+  "lemma": "dort",
+  "kind": "other",
+  "ex": [
+   "Deine Tasche kannst du dorthin stellen. Dort ist unser Haus."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 13,
+  "hw": "draußen",
+  "sub": true,
+  "lemma": "draußen",
+  "kind": "other",
+  "ex": [
+   "Wollen wir draußen sitzen?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 13,
+  "hw": "drucken",
+  "sub": true,
+  "lemma": "drucken",
+  "kind": "other",
+  "ex": [
+   "Bitte drucke das Formular für mich."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 13,
+  "hw": "der Drucker, –",
+  "sub": true,
+  "art": "der",
+  "lemma": "Drucker",
+  "pl": "–",
+  "kind": "noun",
+  "ex": [
+   "Mein Drucker ist kaputt."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 13,
+  "hw": "drücken",
+  "sub": true,
+  "lemma": "drücken",
+  "kind": "other",
+  "ex": [
+   "Drück hier, dann geht der Computer an."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 13,
+  "hw": "durch",
+  "sub": true,
+  "lemma": "durch",
+  "kind": "other",
+  "ex": [
+   "Am besten gehen Sie durch die Breite Straße."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 13,
+  "hw": "die Durchsage, -n",
+  "sub": true,
+  "art": "die",
+  "lemma": "Durchsage",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Ich habe die Durchsage nicht verstanden."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 13,
+  "hw": "dürfen",
+  "sub": true,
+  "lemma": "dürfen",
+  "kind": "other",
+  "ex": [
+   "Sie dürfen hier nicht rauchen. Darf ich Sie zu einem Kaffee einladen? Es darf nicht mehr als 15 Euro kosten."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 13,
+  "hw": "der Durst (sich) duschen",
+  "sub": true,
+  "art": "der",
+  "lemma": "Durst (sich) duschen",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Hast du etwas zu trinken? Ich habe großen Durst. Ich bade nicht so gern, ich dusche lieber."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 13,
+  "hw": "die Dusche",
+  "sub": true,
+  "art": "die",
+  "lemma": "Dusche",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Unsere Wohnung hat nur eine Dusche."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 13,
+  "hw": "die Ecke, -n",
+  "sub": true,
+  "art": "die",
+  "lemma": "Ecke",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "An der nächsten Ecke links."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 13,
+  "hw": "die Ehefrau, -en/ der Ehemann, ä, er",
+  "sub": true,
+  "art": "die",
+  "lemma": "Ehefrau",
+  "pl": "-en/ der Ehemann, ä, er",
+  "kind": "noun",
+  "ex": [
+   "Das ist mein (Ehe-) Mann/meine (Ehe-) Frau."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 13,
+  "hw": "das Ei, -er",
+  "sub": true,
+  "art": "das",
+  "lemma": "Ei",
+  "pl": "-er",
+  "kind": "noun",
+  "ex": [
+   "Möchtest du ein Ei zum Frühstück?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 13,
+  "hw": "eilig",
+  "sub": true,
+  "lemma": "eilig",
+  "kind": "other",
+  "ex": [
+   "Hast du es eilig?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 13,
+  "hw": "ein-",
+  "sub": true,
+  "lemma": "ein-",
+  "kind": "other",
+  "ex": [
+   "Ich nehme ein Bier. Willst du auch eins? Ist hier einer, der das kann?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 13,
+  "hw": "einfach",
+  "sub": true,
+  "lemma": "einfach",
+  "kind": "other",
+  "ex": [
+   "Die Prüfung ist ganz einfach. Hin und zurück? – Nein, bitte nur einfach. Ich brauche nur ein einfaches Zimmer."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 13,
+  "hw": "der Eingang",
+  "sub": true,
+  "art": "der",
+  "lemma": "Eingang",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Der Eingang ist um die Ecke."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 13,
+  "hw": "einkaufen",
+  "sub": true,
+  "lemma": "einkaufen",
+  "kind": "other",
+  "ex": [
+   "Ich muss noch für morgen einkaufen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 13,
+  "hw": "einladen",
+  "sub": true,
+  "lemma": "einladen",
+  "kind": "other",
+  "ex": [
+   "Darf ich Sie zu einem Kaffee einladen?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 13,
+  "hw": "die Einladung",
+  "sub": true,
+  "art": "die",
+  "lemma": "Einladung",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Danke für die Einladung!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "einmal",
+  "sub": true,
+  "lemma": "einmal",
+  "kind": "other",
+  "ex": [
+   "Diese Prüfung mache ich nicht noch einmal."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "einsteigen",
+  "sub": true,
+  "lemma": "einsteigen",
+  "kind": "other",
+  "ex": [
+   "Schnell, steig ein, der Zug fährt gleich."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "der Eintritt",
+  "sub": true,
+  "art": "der",
+  "lemma": "Eintritt",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Der Preis für den Eintritt ist 5 Euro."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "das Einzelzimmer",
+  "sub": true,
+  "art": "das",
+  "lemma": "Einzelzimmer",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Haben Sie noch ein Einzelzimmer?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "die Eltern (pl.)",
+  "sub": true,
+  "art": "die",
+  "lemma": "Eltern (pl.)",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Meine Eltern leben in Spanien."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "die E-Mail, -s",
+  "sub": true,
+  "art": "die",
+  "lemma": "E-Mail",
+  "pl": "-s",
+  "kind": "noun",
+  "ex": [
+   "Ich habe Ihre E-Mail nicht bekommen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "der Empfänger, –",
+  "sub": true,
+  "art": "der",
+  "lemma": "Empfänger",
+  "pl": "–",
+  "kind": "noun",
+  "ex": [
+   "Auf dem Brief steht dein Name, also bist du der Empfänger."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "empfehlen",
+  "sub": true,
+  "lemma": "empfehlen",
+  "kind": "other",
+  "ex": [
+   "Welchen Wein können Sie mir empfehlen?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "enden",
+  "sub": true,
+  "lemma": "enden",
+  "kind": "other",
+  "ex": [
+   "Die Straße endet hier."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "das Ende",
+  "sub": true,
+  "art": "das",
+  "lemma": "Ende",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Sie wohnt am Ende der Straße. Er bekommt sein Geld am Ende des Monats."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "entschuldigen",
+  "sub": true,
+  "lemma": "entschuldigen",
+  "kind": "other",
+  "ex": [
+   "Entschuldigen Sie bitte!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "die Entschuldigung",
+  "sub": true,
+  "art": "die",
+  "lemma": "Entschuldigung",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Entschuldigung! – Bitte."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "er",
+  "sub": true,
+  "lemma": "er",
+  "kind": "other",
+  "ex": [
+   "Er heißt Ali."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "das Ergebnis, -se",
+  "sub": true,
+  "art": "das",
+  "lemma": "Ergebnis",
+  "pl": "-se",
+  "kind": "noun",
+  "ex": [
+   "Das Ergebnis des Tests bekommen Sie in zwei Wochen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "erklären",
+  "sub": true,
+  "lemma": "erklären",
+  "kind": "other",
+  "ex": [
+   "Kannst du mir das erklären?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "erlauben",
+  "sub": true,
+  "lemma": "erlauben",
+  "kind": "other",
+  "ex": [
+   "Rauchen ist hier nicht erlaubt."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "der Erwachsene, -n",
+  "sub": true,
+  "art": "der",
+  "lemma": "Erwachsene",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Dieser Film ist nur für Erwachsene."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "erzählen",
+  "sub": true,
+  "lemma": "erzählen",
+  "kind": "other",
+  "ex": [
+   "Wir müssen euch etwas erzählen!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "es",
+  "sub": true,
+  "lemma": "es",
+  "kind": "other",
+  "ex": [
+   "Es regnet."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "essen",
+  "sub": true,
+  "lemma": "essen",
+  "kind": "other",
+  "ex": [
+   "Was gibt es zu essen?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "das Essen",
+  "sub": true,
+  "art": "das",
+  "lemma": "Essen",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Das Essen ist heute sehr gut."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "euer",
+  "sub": true,
+  "lemma": "euer",
+  "kind": "other",
+  "ex": [
+   "Euer Kurs beginnt heute."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "fahren",
+  "sub": true,
+  "lemma": "fahren",
+  "kind": "other",
+  "ex": [
+   "Ich fahre mit dem Auto zur Arbeit."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "der Fahrer",
+  "sub": true,
+  "art": "der",
+  "lemma": "Fahrer",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Bitte nicht mit dem Fahrer sprechen!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "die Fahrkarte, -n",
+  "sub": true,
+  "art": "die",
+  "lemma": "Fahrkarte",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Hast du schon eine Fahrkarte?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "das Fahrrad, -ä, er",
+  "sub": true,
+  "art": "das",
+  "lemma": "Fahrrad",
+  "pl": "-ä, er",
+  "kind": "noun",
+  "ex": [
+   "Fährst du mit dem Fahrrad oder mit dem Auto?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "falsch",
+  "sub": true,
+  "lemma": "falsch",
+  "kind": "other",
+  "ex": [
+   "Das ist falsch."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "die Familie, -n",
+  "sub": true,
+  "art": "die",
+  "lemma": "Familie",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Meine Familie lebt in Spanien."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "der Familienname",
+  "sub": true,
+  "art": "der",
+  "lemma": "Familienname",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Meine Familiennamen sind García González."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "der Familienstand",
+  "sub": true,
+  "art": "der",
+  "lemma": "Familienstand",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Bei „Familienstand“ musst du „ledig“ ankreuzen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "die Farbe, -n",
+  "sub": true,
+  "art": "die",
+  "lemma": "Farbe",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Die Farbe gefällt mir gut."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "das Fax, -e",
+  "sub": true,
+  "art": "das",
+  "lemma": "Fax",
+  "pl": "-e",
+  "kind": "noun",
+  "ex": [
+   "Schicken Sie uns einfach ein Fax!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "Feier-",
+  "sub": true,
+  "lemma": "Feier-",
+  "kind": "other",
+  "ex": [
+   "z. B. Feierabend, Feiertag Am Montag ist Feiertag."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "feiern",
+  "sub": true,
+  "lemma": "feiern",
+  "kind": "other",
+  "ex": [
+   "Wir feiern heute meinen Geburtstag."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "fehlen",
+  "sub": true,
+  "lemma": "fehlen",
+  "kind": "other",
+  "ex": [
+   "Herr Müller ist nicht da, er fehlt schon seit drei Tagen. Was fehlt Ihnen?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "der Fehler, –",
+  "sub": true,
+  "art": "der",
+  "lemma": "Fehler",
+  "pl": "–",
+  "kind": "noun",
+  "ex": [
+   "Diesen Fehler mache ich immer."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "fernsehen",
+  "sub": true,
+  "lemma": "fernsehen",
+  "kind": "other",
+  "ex": [
+   "Wollen wir heute Abend mal fernsehen?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "fertig",
+  "sub": true,
+  "lemma": "fertig",
+  "kind": "other",
+  "ex": [
+   "Bist du fertig? Ist mein Auto schon fertig?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "das Feuer",
+  "sub": true,
+  "art": "das",
+  "lemma": "Feuer",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Haben Sie Feuer?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "das Fieber",
+  "sub": true,
+  "art": "das",
+  "lemma": "Fieber",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Mein Mann hat noch immer Fieber."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "der Film, -e",
+  "sub": true,
+  "art": "der",
+  "lemma": "Film",
+  "pl": "-e",
+  "kind": "noun",
+  "ex": [
+   "Ich möchte gern diesen Film sehen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "finden",
+  "sub": true,
+  "lemma": "finden",
+  "kind": "other",
+  "ex": [
+   "Wir müssen den Schlüssel finden."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "die Firma",
+  "sub": true,
+  "art": "die",
+  "lemma": "Firma",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Er arbeitet jetzt bei einer anderen Firma."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 14,
+  "hw": "der Fisch, -e",
+  "sub": true,
+  "art": "der",
+  "lemma": "Fisch",
+  "pl": "-e",
+  "kind": "noun",
+  "ex": [
+   "Ich esse gern Fisch. Fleisch mag ich nicht."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 15,
+  "hw": "die Flasche, -n",
+  "sub": true,
+  "art": "die",
+  "lemma": "Flasche",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Eine Flasche Bier, bitte."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 15,
+  "hw": "das Fleisch",
+  "sub": true,
+  "art": "das",
+  "lemma": "Fleisch",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Fleisch mag ich nicht."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 15,
+  "hw": "fliegen",
+  "sub": true,
+  "lemma": "fliegen",
+  "kind": "other",
+  "ex": [
+   "Ich fliege nicht gern. Deshalb fahre ich mit dem Zug."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 15,
+  "hw": "abfliegen",
+  "sub": true,
+  "lemma": "abfliegen",
+  "kind": "other",
+  "ex": [
+   "Wann fliegst du ab?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 15,
+  "hw": "der Abflug",
+  "sub": true,
+  "art": "der",
+  "lemma": "Abflug",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Der Abflug ist um 11.20 Uhr."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 15,
+  "hw": "der Flughafen",
+  "sub": true,
+  "art": "der",
+  "lemma": "Flughafen",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Kannst du mich zum Flughafen bringen?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 15,
+  "hw": "das Flugzeug",
+  "sub": true,
+  "art": "das",
+  "lemma": "Flugzeug",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Das Flugzeug aus Berlin kommt heute später an."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 15,
+  "hw": "das Formular, -e",
+  "sub": true,
+  "art": "das",
+  "lemma": "Formular",
+  "pl": "-e",
+  "kind": "noun",
+  "ex": [
+   "Sie müssen dieses Formular ausfüllen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 15,
+  "hw": "das Foto, -s",
+  "sub": true,
+  "art": "das",
+  "lemma": "Foto",
+  "pl": "-s",
+  "kind": "noun",
+  "ex": [
+   "Darf ich ein Foto machen?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 15,
+  "hw": "fragen",
+  "sub": true,
+  "lemma": "fragen",
+  "kind": "other",
+  "ex": [
+   "Er möchte Sie etwas fragen. Wann kommen Sie?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 15,
+  "hw": "die Frage, -n",
+  "sub": true,
+  "art": "die",
+  "lemma": "Frage",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Ich habe eine Frage."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 15,
+  "hw": "die Frau, -en",
+  "sub": true,
+  "art": "die",
+  "lemma": "Frau",
+  "pl": "-en",
+  "kind": "noun",
+  "ex": [
+   "Das ist Frau Becker. Guten Tag, Frau Schmitt! Hier arbeiten mehr Frauen als Männer."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 15,
+  "hw": "frei",
+  "sub": true,
+  "lemma": "frei",
+  "kind": "other",
+  "ex": [
+   "Ist der Platz noch frei?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 15,
+  "hw": "die Freizeit",
+  "sub": true,
+  "art": "die",
+  "lemma": "Freizeit",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "In meiner Freizeit spiele ich oft Fußball."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 15,
+  "hw": "fremd (sich) freuen",
+  "sub": true,
+  "lemma": "fremd (sich) freuen",
+  "kind": "other",
+  "ex": [
+   "Das weiß ich nicht; ich bin fremd hier. Ich freue mich auf den Urlaub."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 15,
+  "hw": "der Freund, -e",
+  "sub": true,
+  "art": "der",
+  "lemma": "Freund",
+  "pl": "-e",
+  "kind": "noun",
+  "ex": [
+   "Das ist ein Freund von mir. Das ist meine Freundin."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 15,
+  "hw": "früher",
+  "sub": true,
+  "lemma": "früher",
+  "kind": "other",
+  "ex": [
+   "Früher waren wir oft zusammen im Kino."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 15,
+  "hw": "frühstücken",
+  "sub": true,
+  "lemma": "frühstücken",
+  "kind": "other",
+  "ex": [
+   "Am Sonntag frühstücke ich gern im Bett."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 15,
+  "hw": "das Frühstück",
+  "sub": true,
+  "art": "das",
+  "lemma": "Frühstück",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Möchtest du ein Ei zum Frühstück?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 15,
+  "hw": "die Führung",
+  "sub": true,
+  "art": "die",
+  "lemma": "Führung",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Die Führung durch das Haus beginnt in 3 Minuten."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 15,
+  "hw": "für",
+  "sub": true,
+  "lemma": "für",
+  "kind": "other",
+  "ex": [
+   "Das ist für Sie. Das ist der Schlüssel für die Haustür. Das ist das Brot für morgen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 15,
+  "hw": "der Fuß, -ü, e",
+  "sub": true,
+  "art": "der",
+  "lemma": "Fuß",
+  "pl": "-ü, e",
+  "kind": "noun",
+  "ex": [
+   "Der linke Fuß tut mir weh."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 15,
+  "hw": "der Fußball",
+  "sub": true,
+  "art": "der",
+  "lemma": "Fußball",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Spielt ihr gerne Fußball?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 15,
+  "hw": "der Garten",
+  "sub": true,
+  "art": "der",
+  "lemma": "Garten",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Wir haben leider keinen Garten."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 15,
+  "hw": "der Gast, -ä, e",
+  "sub": true,
+  "art": "der",
+  "lemma": "Gast",
+  "pl": "-ä, e",
+  "kind": "noun",
+  "ex": [
+   "Am Wochenende haben wir mehrere Gäste."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 15,
+  "hw": "geben",
+  "sub": true,
+  "lemma": "geben",
+  "kind": "other",
+  "ex": [
+   "Kannst du mir bitte deinen Kugelschreiber geben? Es gibt keine Karten mehr."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 15,
+  "hw": "geboren",
+  "sub": true,
+  "lemma": "geboren",
+  "kind": "other",
+  "ex": [
+   "Ich bin in Zagreb geboren."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 15,
+  "hw": "das Geburtsjahr",
+  "sub": true,
+  "art": "das",
+  "lemma": "Geburtsjahr",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Das Geburtsjahr Ihres Sohnes, bitte?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 15,
+  "hw": "der Geburtsort",
+  "sub": true,
+  "art": "der",
+  "lemma": "Geburtsort",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Bitte schreiben Sie Ihren Geburtsort auf das Formular."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 15,
+  "hw": "der Geburtstag",
+  "sub": true,
+  "art": "der",
+  "lemma": "Geburtstag",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Herzlichen Glückwunsch zum Geburtstag!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 15,
+  "hw": "gefallen",
+  "sub": true,
+  "lemma": "gefallen",
+  "kind": "other",
+  "ex": [
+   "Das gefällt mir."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 15,
+  "hw": "gegen",
+  "sub": true,
+  "lemma": "gegen",
+  "kind": "other",
+  "ex": [
+   "Fahr nicht gegen den Baum! Ich bin gegen diese Lösung. Wer spielt gegen wen?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 15,
+  "hw": "gehen",
+  "sub": true,
+  "lemma": "gehen",
+  "kind": "other",
+  "ex": [
+   "Ich weiß nicht, wie das geht. Wie geht‘s? Jetzt muss ich (aber) leider gehen. Ich muss zum Arzt gehen. Das geht nicht!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 15,
+  "hw": "gehören",
+  "sub": true,
+  "lemma": "gehören",
+  "kind": "other",
+  "ex": [
+   "Wem gehört das?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 15,
+  "hw": "das Geld",
+  "sub": true,
+  "art": "das",
+  "lemma": "Geld",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Hast du noch Geld?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 15,
+  "hw": "das Gemüse",
+  "sub": true,
+  "art": "das",
+  "lemma": "Gemüse",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Gemüse brauchen wir auch noch."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "das Gepäck",
+  "sub": true,
+  "art": "das",
+  "lemma": "Gepäck",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Wollen Sie Ihr Gepäck mitnehmen?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "gerade",
+  "sub": true,
+  "lemma": "gerade",
+  "kind": "other",
+  "ex": [
+   "Da kommt er ja gerade."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "geradeaus",
+  "sub": true,
+  "lemma": "geradeaus",
+  "kind": "other",
+  "ex": [
+   "Gehen Sie immer geradeaus!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "gern(e)",
+  "sub": true,
+  "lemma": "gern(e)",
+  "kind": "other",
+  "ex": [
+   "Ich gehe gerne einkaufen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "das Geschäft, -e",
+  "sub": true,
+  "art": "das",
+  "lemma": "Geschäft",
+  "pl": "-e",
+  "kind": "noun",
+  "ex": [
+   "Die Geschäfte schließen um 18.30 Uhr."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "das Geschenk, -e",
+  "sub": true,
+  "art": "das",
+  "lemma": "Geschenk",
+  "pl": "-e",
+  "kind": "noun",
+  "ex": [
+   "Danke für das schöne Geschenk."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "die Geschwister (pl.)",
+  "sub": true,
+  "art": "die",
+  "lemma": "Geschwister (pl.)",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Ich habe leider keine Geschwister."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "das Gespräch, -e",
+  "sub": true,
+  "art": "das",
+  "lemma": "Gespräch",
+  "pl": "-e",
+  "kind": "noun",
+  "ex": [
+   "Das Gespräch mit Frau Kunz ist um 14 Uhr."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "gestern",
+  "sub": true,
+  "lemma": "gestern",
+  "kind": "other",
+  "ex": [
+   "Gestern war ich krank."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "gestorben",
+  "sub": true,
+  "lemma": "gestorben",
+  "kind": "other",
+  "ex": [
+   "Meine Frau ist gestern gestorben."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "das Getränk, -e",
+  "sub": true,
+  "art": "das",
+  "lemma": "Getränk",
+  "pl": "-e",
+  "kind": "noun",
+  "ex": [
+   "Mein Lieblingsgetränk ist Tomatensaft."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "das Gewicht",
+  "sub": true,
+  "art": "das",
+  "lemma": "Gewicht",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Bei „Gewicht“ schreibst du: 62 Kilo."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "gewinnen",
+  "sub": true,
+  "lemma": "gewinnen",
+  "kind": "other",
+  "ex": [
+   "Wer gewinnt das Spiel?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "das Glas, -ä, er",
+  "sub": true,
+  "art": "das",
+  "lemma": "Glas",
+  "pl": "-ä, er",
+  "kind": "noun",
+  "ex": [
+   "Bitte noch ein Glas Wein! Wir brauchen noch drei Gläser."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "glauben",
+  "sub": true,
+  "lemma": "glauben",
+  "kind": "other",
+  "ex": [
+   "Sie können mir glauben, es ist so. Ich glaube, er kommt gleich."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "gleich",
+  "sub": true,
+  "lemma": "gleich",
+  "kind": "other",
+  "ex": [
+   "Das ist mir gleich. Das ist der gleiche Preis. Ich komme gleich."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "das Gleis, -e",
+  "sub": true,
+  "art": "das",
+  "lemma": "Gleis",
+  "pl": "-e",
+  "kind": "noun",
+  "ex": [
+   "Der ICE nach Berlin hält heute an Gleis 12."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "das Glück",
+  "sub": true,
+  "art": "das",
+  "lemma": "Glück",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Viel Glück!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "glücklich",
+  "sub": true,
+  "lemma": "glücklich",
+  "kind": "other",
+  "ex": [
+   "Meine Kinder sind glücklich verheiratet."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "der Glückwunsch",
+  "sub": true,
+  "art": "der",
+  "lemma": "Glückwunsch",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Herzlichen Glückwunsch zum Geburtstag."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "Grad (Celsius)",
+  "sub": true,
+  "lemma": "Grad (Celsius)",
+  "kind": "other",
+  "ex": [
+   "Heute haben wir dreißig Grad."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "gratulieren",
+  "sub": true,
+  "lemma": "gratulieren",
+  "kind": "other",
+  "ex": [
+   "Ich gratuliere dir!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "grillen",
+  "sub": true,
+  "lemma": "grillen",
+  "kind": "other",
+  "ex": [
+   "Heute grillen wir im Garten."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "groß",
+  "sub": true,
+  "lemma": "groß",
+  "kind": "other",
+  "ex": [
+   "Mein Bruder und ich sind gleich groß. Frankfurt ist eine große Stadt."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "die Größe",
+  "sub": true,
+  "art": "die",
+  "lemma": "Größe",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Haben Sie das auch in Größe 40?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "die Großeltern (pl.)",
+  "sub": true,
+  "art": "die",
+  "lemma": "Großeltern (pl.)",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Meine Großeltern leben in Japan."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "die Großmutter",
+  "sub": true,
+  "art": "die",
+  "lemma": "Großmutter",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Meine Großmutter heißt Eva."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "der Großvater",
+  "sub": true,
+  "art": "der",
+  "lemma": "Großvater",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Mein Großvater ist schon 80."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "die Gruppe, -n",
+  "sub": true,
+  "art": "die",
+  "lemma": "Gruppe",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Die erste Gruppe beginnt um 16 Uhr."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "der Gruß, -ü, e",
+  "sub": true,
+  "art": "der",
+  "lemma": "Gruß",
+  "pl": "-ü, e",
+  "kind": "noun",
+  "ex": [
+   "Viele Grüße an Ihre Frau. Mit freundlichen Grüßen"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "gültig",
+  "sub": true,
+  "lemma": "gültig",
+  "kind": "other",
+  "ex": [
+   "Der Pass ist nicht mehr gültig."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "günstig",
+  "sub": true,
+  "lemma": "günstig",
+  "kind": "other",
+  "ex": [
+   "Dort gibt es günstige Angebote."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "gut",
+  "sub": true,
+  "lemma": "gut",
+  "kind": "other",
+  "ex": [
+   "Das finde ich gut. Ich komme um 13 Uhr. – Gut! Guten Morgen! Ein gutes neues Jahr! Guten Appetit!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "das Haar, -e",
+  "sub": true,
+  "art": "das",
+  "lemma": "Haar",
+  "pl": "-e",
+  "kind": "noun",
+  "ex": [
+   "Sie hat lange Haare."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "haben",
+  "sub": true,
+  "lemma": "haben",
+  "kind": "other",
+  "ex": [
+   "Ich habe ein neues Auto."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "das Hähnchen, - die Halbpension",
+  "sub": true,
+  "art": "das",
+  "lemma": "Hähnchen",
+  "pl": "- die Halbpension",
+  "kind": "noun",
+  "ex": [
+   "Ein Hähnchen mit Pommes bitte! Möchten Sie Vollpension oder Halbpension?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "die Halle",
+  "sub": true,
+  "art": "die",
+  "lemma": "Halle",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Wir treffen uns in Halle B"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 16,
+  "hw": "hallo",
+  "sub": true,
+  "lemma": "hallo",
+  "kind": "other",
+  "ex": [
+   "Hallo Inge! Wie geht’s?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 17,
+  "hw": "halten",
+  "sub": true,
+  "lemma": "halten",
+  "kind": "other",
+  "ex": [
+   "Dieser Zug hält nicht in Rüdesheim."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 17,
+  "hw": "die Haltestelle",
+  "sub": true,
+  "art": "die",
+  "lemma": "Haltestelle",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "An der nächsten Haltestelle müssen Sie aussteigen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 17,
+  "hw": "die Hand, -ä, e",
+  "sub": true,
+  "art": "die",
+  "lemma": "Hand",
+  "pl": "-ä, e",
+  "kind": "noun",
+  "ex": [
+   "Er gibt mir die Hand."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 17,
+  "hw": "das Handy, -s",
+  "sub": true,
+  "art": "das",
+  "lemma": "Handy",
+  "pl": "-s",
+  "kind": "noun",
+  "ex": [
+   "In der Schule bitte die Handys ausmachen!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 17,
+  "hw": "das Haus, -ä, er",
+  "sub": true,
+  "art": "das",
+  "lemma": "Haus",
+  "pl": "-ä, er",
+  "kind": "noun",
+  "ex": [
+   "In welchem Haus wohnst du? Ich gehe jetzt nach Hause. Paul ist nicht zu Hause."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 17,
+  "hw": "die Hausaufgabe,-n",
+  "sub": true,
+  "art": "die",
+  "lemma": "Hausaufgabe",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Kannst du mir bei den Hausaufgaben helfen?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 17,
+  "hw": "die Hausfrau, -en/ der Hausmann",
+  "sub": true,
+  "art": "die",
+  "lemma": "Hausfrau",
+  "pl": "-en/ der Hausmann",
+  "kind": "noun",
+  "ex": [
+   "Die Hausfrau/der Hausmann wäscht, kocht und kauft ein."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 17,
+  "hw": "die Heimat",
+  "sub": true,
+  "art": "die",
+  "lemma": "Heimat",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Ich komme aus der Schweiz. Das ist meine Heimat."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 17,
+  "hw": "heiraten",
+  "sub": true,
+  "lemma": "heiraten",
+  "kind": "other",
+  "ex": [
+   "Meine Schwester heiratet einen Japaner."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 17,
+  "hw": "heißen",
+  "sub": true,
+  "lemma": "heißen",
+  "kind": "other",
+  "ex": [
+   "Ich heiße Charlotte Meier. Wie heißt das auf Deutsch?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 17,
+  "hw": "helfen",
+  "sub": true,
+  "lemma": "helfen",
+  "kind": "other",
+  "ex": [
+   "Können Sie mir helfen, bitte?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 17,
+  "hw": "hell",
+  "sub": true,
+  "lemma": "hell",
+  "kind": "other",
+  "ex": [
+   "Im Sommer ist es bis 21 Uhr hell."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 17,
+  "hw": "der Herd",
+  "sub": true,
+  "art": "der",
+  "lemma": "Herd",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "In der neuen Küche fehlt noch der Herd."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 17,
+  "hw": "der Herr, -en",
+  "sub": true,
+  "art": "der",
+  "lemma": "Herr",
+  "pl": "-en",
+  "kind": "noun",
+  "ex": [
+   "Guten Tag, Herr Sommer!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 17,
+  "hw": "herzlich",
+  "sub": true,
+  "lemma": "herzlich",
+  "kind": "other",
+  "ex": [
+   "Herzlichen Glückwunsch!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 17,
+  "hw": "heute",
+  "sub": true,
+  "lemma": "heute",
+  "kind": "other",
+  "ex": [
+   "Heute ist ein schöner Tag."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 17,
+  "hw": "hier",
+  "sub": true,
+  "lemma": "hier",
+  "kind": "other",
+  "ex": [
+   "Hier ist 06131-553221, Pamela Linke. Hier wohne ich."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 17,
+  "hw": "die Hilfe",
+  "sub": true,
+  "art": "die",
+  "lemma": "Hilfe",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Hilfe! Bitte helfen Sie mir! Brauchen Sie meine Hilfe?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 17,
+  "hw": "hinten",
+  "sub": true,
+  "lemma": "hinten",
+  "kind": "other",
+  "ex": [
+   "Die Tür zum Aussteigen ist hinten."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 17,
+  "hw": "das Hobby, -s",
+  "sub": true,
+  "art": "das",
+  "lemma": "Hobby",
+  "pl": "-s",
+  "kind": "noun",
+  "ex": [
+   "Meine Hobbys sind Wandern und Schwimmen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 17,
+  "hw": "hoch",
+  "sub": true,
+  "lemma": "hoch",
+  "kind": "other",
+  "ex": [
+   "Der Mount Everest ist 8.880 Meter hoch."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 17,
+  "hw": "die Hochzeit",
+  "sub": true,
+  "art": "die",
+  "lemma": "Hochzeit",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Zur dieser Hochzeit kommen mehr als fünfzig Gäste."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 17,
+  "hw": "holen",
+  "sub": true,
+  "lemma": "holen",
+  "kind": "other",
+  "ex": [
+   "Ich hole zwei Flaschen Wasser aus der Küche."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 17,
+  "hw": "hören",
+  "sub": true,
+  "lemma": "hören",
+  "kind": "other",
+  "ex": [
+   "Hör mal! Was ist das? Ich habe das Lied schon mal gehört."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 17,
+  "hw": "das Hotel, -s",
+  "sub": true,
+  "art": "das",
+  "lemma": "Hotel",
+  "pl": "-s",
+  "kind": "noun",
+  "ex": [
+   "Im Urlaub sind wir in einem Hotel am Meer."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 17,
+  "hw": "der Hund, -e",
+  "sub": true,
+  "art": "der",
+  "lemma": "Hund",
+  "pl": "-e",
+  "kind": "noun",
+  "ex": [
+   "Der Hund ist noch jung."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 17,
+  "hw": "der Hunger",
+  "sub": true,
+  "art": "der",
+  "lemma": "Hunger",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Ich habe Hunger! Wann ist das Essen fertig?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 17,
+  "hw": "ich",
+  "sub": true,
+  "lemma": "ich",
+  "kind": "other",
+  "ex": [
+   "Ich heiße Veronika."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 17,
+  "hw": "ihr/ihm/ihn",
+  "sub": true,
+  "lemma": "ihr/ihm/ihn",
+  "kind": "other",
+  "ex": [
+   "Gib ihr/ihm bitte das Buch. Ruf ihn bitte an."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 17,
+  "hw": "immer",
+  "sub": true,
+  "lemma": "immer",
+  "kind": "other",
+  "ex": [
+   "Frau Bast kommt immer zu spät."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 17,
+  "hw": "in",
+  "sub": true,
+  "lemma": "in",
+  "kind": "other",
+  "ex": [
+   "Ich wohne in Wiesbaden. Der Zug kommt in fünf Minuten. Frau Rausch arbeitet in einem Geschäft. Komm, wir gehen ins Kino."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 17,
+  "hw": "die Information, -en",
+  "sub": true,
+  "art": "die",
+  "lemma": "Information",
+  "pl": "-en",
+  "kind": "noun",
+  "ex": [
+   "Wenn Sie Fragen haben, gehen Sie zur Information. Wir haben hier wichtige Informationen für Sie."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 17,
+  "hw": "international",
+  "sub": true,
+  "lemma": "international",
+  "kind": "other",
+  "ex": [
+   "Unser Deutschkurs ist international: Silvana kommt aus Italien, Conchi aus Spanien, Yin aus China ..."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 17,
+  "hw": "das Internet",
+  "sub": true,
+  "art": "das",
+  "lemma": "Internet",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Das findest du im Internet."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "ja",
+  "sub": true,
+  "lemma": "ja",
+  "kind": "other",
+  "ex": [
+   "Sind Sie Herr Watanabe? – Ja."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "die Jacke, -n",
+  "sub": true,
+  "art": "die",
+  "lemma": "Jacke",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Zieh dir eine Jacke an. Es ist kalt."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "jed- jetzt",
+  "sub": true,
+  "lemma": "jed- jetzt",
+  "kind": "other",
+  "ex": [
+   "Blumen kannst du in jedem Bahnhof kaufen. Jetzt machen wir eine Pause."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "der Job, -s",
+  "sub": true,
+  "art": "der",
+  "lemma": "Job",
+  "pl": "-s",
+  "kind": "noun",
+  "ex": [
+   "Jenny hat einen neuen Job bei der Post."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "der Jugendliche, -n",
+  "sub": true,
+  "art": "der",
+  "lemma": "Jugendliche",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Viele Jugendliche kaufen gern ein."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "jung",
+  "sub": true,
+  "lemma": "jung",
+  "kind": "other",
+  "ex": [
+   "Claudia ist 21. – Was? Noch so jung?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "der Junge, -n",
+  "sub": true,
+  "art": "der",
+  "lemma": "Junge",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Ich habe zwei Kinder. Einen Jungen und ein Mädchen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "der Kaffee",
+  "sub": true,
+  "art": "der",
+  "lemma": "Kaffee",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Zum Frühstück trinke ich immer Kaffee."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "kaputt",
+  "sub": true,
+  "lemma": "kaputt",
+  "kind": "other",
+  "ex": [
+   "Das Glas war teuer. Es geht sehr leicht kaputt."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "die Karte, -n",
+  "sub": true,
+  "art": "die",
+  "lemma": "Karte",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Ich schreibe meinen Bekannten eine Karte aus dem Urlaub. Wollen wir Karten spielen? Ich möchte auch etwas essen. Bringen Sie mir die Karte, bitte."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "(Kredit)-Karte, -n",
+  "sub": true,
+  "lemma": "(Kredit)-Karte",
+  "kind": "other",
+  "ex": [
+   "Kann ich auch mit Karte (be-) zahlen?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "die Kartoffel, -n",
+  "sub": true,
+  "art": "die",
+  "lemma": "Kartoffel",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Für Pommes frites braucht man Kartoffeln."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "die Kasse",
+  "sub": true,
+  "art": "die",
+  "lemma": "Kasse",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Zahlen Sie bitte an der Kasse."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "kaufen",
+  "sub": true,
+  "lemma": "kaufen",
+  "kind": "other",
+  "ex": [
+   "Tim kauft sich ein neues Auto."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "kein",
+  "sub": true,
+  "lemma": "kein",
+  "kind": "other",
+  "ex": [
+   "Es gibt keine Eintrittskarten mehr."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "kennen",
+  "sub": true,
+  "lemma": "kennen",
+  "kind": "other",
+  "ex": [
+   "Kennen Sie diese Frau? – Nein, leider nicht."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "kennenlernen",
+  "sub": true,
+  "lemma": "kennenlernen",
+  "kind": "other",
+  "ex": [
+   "Wir sind neu hier. Wir möchten Sie kennenlernen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "das Kind, -er",
+  "sub": true,
+  "art": "das",
+  "lemma": "Kind",
+  "pl": "-er",
+  "kind": "noun",
+  "ex": [
+   "Wie viele Kinder haben Sie?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "der Kindergarten",
+  "sub": true,
+  "art": "der",
+  "lemma": "Kindergarten",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Die kleine Laura geht schon in den Kindergarten."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "das Kino, -s",
+  "sub": true,
+  "art": "das",
+  "lemma": "Kino",
+  "pl": "-s",
+  "kind": "noun",
+  "ex": [
+   "Wir sehen heute Abend im Kino einen schönen Film."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "der Kiosk",
+  "sub": true,
+  "art": "der",
+  "lemma": "Kiosk",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Am Kiosk bekommen Sie Getränke, Zigaretten und Zeitungen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "klar",
+  "sub": true,
+  "lemma": "klar",
+  "kind": "other",
+  "ex": [
+   "Kommst du mit? – Klar!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "die Klasse",
+  "sub": true,
+  "art": "die",
+  "lemma": "Klasse",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "In unserer Klasse sind fünfundzwanzig Schüler. Im Zug fahre ich immer",
+   "Klasse."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "die Kleidung",
+  "sub": true,
+  "art": "die",
+  "lemma": "Kleidung",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Wo finde ich Kleidung? – Jacken im ersten, Jeans im zweiten Stock."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "klein",
+  "sub": true,
+  "lemma": "klein",
+  "kind": "other",
+  "ex": [
+   "Eltville ist eine kleine Stadt am Rhein."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "kochen",
+  "sub": true,
+  "lemma": "kochen",
+  "kind": "other",
+  "ex": [
+   "Herr Georgi kann gut kochen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "der Koffer, –",
+  "sub": true,
+  "art": "der",
+  "lemma": "Koffer",
+  "pl": "–",
+  "kind": "noun",
+  "ex": [
+   "Ist das Ihr Koffer?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "der Kollege, -n",
+  "sub": true,
+  "art": "der",
+  "lemma": "Kollege",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Wie heißt die neue Kollegin?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "kommen",
+  "sub": true,
+  "lemma": "kommen",
+  "kind": "other",
+  "ex": [
+   "Woher kommen Sie? – Aus Frankreich. Kommst du mit ins Schwimmbad?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "können",
+  "sub": true,
+  "lemma": "können",
+  "kind": "other",
+  "ex": [
+   "Ich kann Deutsch und Russisch. Können Sie mir helfen?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "das Konto",
+  "sub": true,
+  "art": "das",
+  "lemma": "Konto",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Das Geld überweisen wir am ersten März auf Ihr Konto."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "der Kopf",
+  "sub": true,
+  "art": "der",
+  "lemma": "Kopf",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Mein Kopf tut weh!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "kosten",
+  "sub": true,
+  "lemma": "kosten",
+  "kind": "other",
+  "ex": [
+   "Wie viel kostet das? – 10 Euro."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "krank",
+  "sub": true,
+  "lemma": "krank",
+  "kind": "other",
+  "ex": [
+   "Ich kann heute nicht zur Arbeit kommen, ich bin krank und liege im Bett."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "kriegen",
+  "sub": true,
+  "lemma": "kriegen",
+  "kind": "other",
+  "ex": [
+   "Ich kriege 15 Euro in der Stunde für meine Arbeit."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "die Küche",
+  "sub": true,
+  "art": "die",
+  "lemma": "Küche",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Der neue Herd kommt in die Küche."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 18,
+  "hw": "der Kuchen",
+  "sub": true,
+  "art": "der",
+  "lemma": "Kuchen",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Ich nehme ein Stück Kuchen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "der Kugelschreiber",
+  "sub": true,
+  "art": "der",
+  "lemma": "Kugelschreiber",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Hast du einen Kugelschreiber für mich?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "der Kühlschrank",
+  "sub": true,
+  "art": "der",
+  "lemma": "Kühlschrank",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Haben wir noch Milch? – Ja, im Kühlschrank."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "kulturell sich kümmern",
+  "sub": true,
+  "lemma": "kulturell sich kümmern",
+  "kind": "other",
+  "ex": [
+   "Ich bin kulturell interessiert. Ich gehe oft ins Museum. Jede Mutter kümmert sich um ihre kleinen Kinder."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "der Kunde, -n",
+  "sub": true,
+  "art": "der",
+  "lemma": "Kunde",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Einen Moment, bitte. Ich habe eine Kundin."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "der Kurs, -e",
+  "sub": true,
+  "art": "der",
+  "lemma": "Kurs",
+  "pl": "-e",
+  "kind": "noun",
+  "ex": [
+   "Der Deutschkurs geht bis zum Sommer."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "kurz",
+  "sub": true,
+  "lemma": "kurz",
+  "kind": "other",
+  "ex": [
+   "Ricardo hat kurzes Haar."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "lachen",
+  "sub": true,
+  "lemma": "lachen",
+  "kind": "other",
+  "ex": [
+   "Die Kinder lachen viel."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "der Laden, -ä",
+  "sub": true,
+  "art": "der",
+  "lemma": "Laden",
+  "pl": "-ä",
+  "kind": "noun",
+  "ex": [
+   "Im Buchladen können Sie Bücher kaufen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "das Land, -ä, er",
+  "sub": true,
+  "art": "das",
+  "lemma": "Land",
+  "pl": "-ä, er",
+  "kind": "noun",
+  "ex": [
+   "Italien ist ein schönes Land."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "lang",
+  "sub": true,
+  "lemma": "lang",
+  "kind": "other",
+  "ex": [
+   "Die Jeans ist zu lang."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "lange",
+  "sub": true,
+  "lemma": "lange",
+  "kind": "other",
+  "ex": [
+   "Wie lange fährt der Zug von Hamburg nach Berlin?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "langsam",
+  "sub": true,
+  "lemma": "langsam",
+  "kind": "other",
+  "ex": [
+   "Könnten Sie bitte etwas langsamer sprechen?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "laufen",
+  "sub": true,
+  "lemma": "laufen",
+  "kind": "other",
+  "ex": [
+   "Ich möchte nicht Auto fahren, ich möchte laufen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "laut",
+  "sub": true,
+  "lemma": "laut",
+  "kind": "other",
+  "ex": [
+   "Nicht so laut! Das Baby schläft."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "leben",
+  "sub": true,
+  "lemma": "leben",
+  "kind": "other",
+  "ex": [
+   "Sie lebt bei ihrer Schwester. Ihre Eltern leben nicht mehr."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "das Leben",
+  "sub": true,
+  "art": "das",
+  "lemma": "Leben",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Das Leben in diesem Land ist teuer."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "die Lebens- mittel (pl.)",
+  "sub": true,
+  "art": "die",
+  "lemma": "Lebens- mittel (pl.)",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Lebensmittel bekommen Sie im Supermarkt."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "ledig",
+  "sub": true,
+  "lemma": "ledig",
+  "kind": "other",
+  "ex": [
+   "Sind Sie verheiratet? – Nein. Ledig."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "legen",
+  "sub": true,
+  "lemma": "legen",
+  "kind": "other",
+  "ex": [
+   "Legen Sie das Buch auf den Tisch."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "der Lehrer, –",
+  "sub": true,
+  "art": "der",
+  "lemma": "Lehrer",
+  "pl": "–",
+  "kind": "noun",
+  "ex": [
+   "Unsere Deutschlehrerin heißt Frau Müller."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "leicht",
+  "sub": true,
+  "lemma": "leicht",
+  "kind": "other",
+  "ex": [
+   "Der Koffer ist leicht. Deutsch ist nicht leicht."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "leider",
+  "sub": true,
+  "lemma": "leider",
+  "kind": "other",
+  "ex": [
+   "Leider kann ich nicht kommen. Ich muss zum Arzt."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "leise",
+  "sub": true,
+  "lemma": "leise",
+  "kind": "other",
+  "ex": [
+   "Seid leise. Die anderen schlafen schon."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "lernen",
+  "sub": true,
+  "lemma": "lernen",
+  "kind": "other",
+  "ex": [
+   "Wie lange lernen Sie schon Deutsch?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "lesen",
+  "sub": true,
+  "lemma": "lesen",
+  "kind": "other",
+  "ex": [
+   "Ich lese ein Buch von García Márquez."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "letzt- die Leute (pl.)",
+  "sub": true,
+  "lemma": "letzt- die Leute (pl.)",
+  "kind": "other",
+  "ex": [
+   "Morgen ist der letzte Kurstag. In der Disko sind viele Leute."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "das Licht",
+  "sub": true,
+  "art": "das",
+  "lemma": "Licht",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Wo macht man hier das Licht an?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "lieb- lieben",
+  "sub": true,
+  "lemma": "lieb- lieben",
+  "kind": "other",
+  "ex": [
+   "Liebe Susanne, lieber Hans, Ich liebe dich!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "lieber",
+  "sub": true,
+  "lemma": "lieber",
+  "kind": "other",
+  "ex": [
+   "Sie fährt lieber mit der Bahn."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "Lieblings- das Lied, -er",
+  "sub": true,
+  "lemma": "Lieblings- das Lied",
+  "kind": "other",
+  "ex": [
+   "Mein Lieblingsfilm ist „Schwarze Augen“. Welches ist dein Lieblingslied?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "liegen",
+  "sub": true,
+  "lemma": "liegen",
+  "kind": "other",
+  "ex": [
+   "Um neun Uhr liegt Judith noch im Bett. Frankfurt liegt am Main."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "links",
+  "sub": true,
+  "lemma": "links",
+  "kind": "other",
+  "ex": [
+   "Gehen Sie die nächste Straße links."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "der Lkw, -s",
+  "sub": true,
+  "art": "der",
+  "lemma": "Lkw",
+  "pl": "-s",
+  "kind": "noun",
+  "ex": [
+   "Dieser Lastkraftwagen ist sehr groß."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "das Lokal",
+  "sub": true,
+  "art": "das",
+  "lemma": "Lokal",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "In unserer Straße gibt es ein neues Lokal."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "die Lösung, -en",
+  "sub": true,
+  "art": "die",
+  "lemma": "Lösung",
+  "pl": "-en",
+  "kind": "noun",
+  "ex": [
+   "Die Lösung ist ganz einfach."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "lustig",
+  "sub": true,
+  "lemma": "lustig",
+  "kind": "other",
+  "ex": [
+   "Frau Mertens ist lustig. Sie lacht immer."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 19,
+  "hw": "machen",
+  "sub": true,
+  "lemma": "machen",
+  "kind": "other",
+  "ex": [
+   "Was machst du heute Abend? Ich muss jetzt das Essen machen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 20,
+  "hw": "das Mädchen, –",
+  "sub": true,
+  "art": "das",
+  "lemma": "Mädchen",
+  "pl": "–",
+  "kind": "noun",
+  "ex": [
+   "Familie Kurz bekommt ein Baby. – Junge oder Mädchen?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 20,
+  "hw": "man",
+  "sub": true,
+  "lemma": "man",
+  "kind": "other",
+  "ex": [
+   "Hier darf man nicht rauchen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 20,
+  "hw": "der Mann, -ä, er",
+  "sub": true,
+  "art": "der",
+  "lemma": "Mann",
+  "pl": "-ä, er",
+  "kind": "noun",
+  "ex": [
+   "Mein Mann arbeitet bei der Polizei."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 20,
+  "hw": "männlich",
+  "sub": true,
+  "lemma": "männlich",
+  "kind": "other",
+  "ex": [
+   "Kreuzen Sie bitte an: „weiblich“ oder „männlich“."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 20,
+  "hw": "die Maschine, -n",
+  "sub": true,
+  "art": "die",
+  "lemma": "Maschine",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Die Waschmaschine ist günstig."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 20,
+  "hw": "das Meer",
+  "sub": true,
+  "art": "das",
+  "lemma": "Meer",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Wir machen Urlaub am Meer."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 20,
+  "hw": "mehr",
+  "sub": true,
+  "lemma": "mehr",
+  "kind": "other",
+  "ex": [
+   "Dieses Auto kostet 1.000 Euro mehr als das andere."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 20,
+  "hw": "mein",
+  "sub": true,
+  "lemma": "mein",
+  "kind": "other",
+  "ex": [
+   "Mein Vater ist Arzt."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 20,
+  "hw": "meist- der Mensch, -en",
+  "sub": true,
+  "lemma": "meist- der Mensch",
+  "kind": "other",
+  "ex": [
+   "Die meisten Norddeutschen sind sehr groß. Die Menschen sind hier anders als bei uns."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 20,
+  "hw": "mieten",
+  "sub": true,
+  "lemma": "mieten",
+  "kind": "other",
+  "ex": [
+   "Ich möchte ein Auto mieten."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 20,
+  "hw": "die Miete",
+  "sub": true,
+  "art": "die",
+  "lemma": "Miete",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Die Miete für diese Wohnung ist 600 Euro."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 20,
+  "hw": "die Milch",
+  "sub": true,
+  "art": "die",
+  "lemma": "Milch",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Die Milch steht im Kühlschrank."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 20,
+  "hw": "mit",
+  "sub": true,
+  "lemma": "mit",
+  "kind": "other",
+  "ex": [
+   "Trinken Sie den Kaffee mit Milch?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 20,
+  "hw": "mitbringen",
+  "sub": true,
+  "lemma": "mitbringen",
+  "kind": "other",
+  "ex": [
+   "Ich gehe einkaufen. Soll ich dir was mitbringen?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 20,
+  "hw": "mitkommen",
+  "sub": true,
+  "lemma": "mitkommen",
+  "kind": "other",
+  "ex": [
+   "Ich gehe ins Kino. Kommst du mit?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 20,
+  "hw": "mitmachen",
+  "sub": true,
+  "lemma": "mitmachen",
+  "kind": "other",
+  "ex": [
+   "Warum macht ihr nicht mit?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 20,
+  "hw": "mitnehmen",
+  "sub": true,
+  "lemma": "mitnehmen",
+  "kind": "other",
+  "ex": [
+   "Nehmen wir meine Schwester ins Kino mit?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 20,
+  "hw": "die Mitte",
+  "sub": true,
+  "art": "die",
+  "lemma": "Mitte",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Der Lehrer steht in der Mitte des Klassenzimmers."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 20,
+  "hw": "die Möbel (pl.)",
+  "sub": true,
+  "art": "die",
+  "lemma": "Möbel (pl.)",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Sind die Möbel neu?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 20,
+  "hw": "möchten",
+  "sub": true,
+  "lemma": "möchten",
+  "kind": "other",
+  "ex": [
+   "Was möchten Sie trinken?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 20,
+  "hw": "mögen",
+  "sub": true,
+  "lemma": "mögen",
+  "kind": "other",
+  "ex": [
+   "Magst du Kaffee oder Tee?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 20,
+  "hw": "möglich",
+  "sub": true,
+  "lemma": "möglich",
+  "kind": "other",
+  "ex": [
+   "Mit dieser Fahrkarte ist die Fahrt ab 9 Uhr möglich."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 20,
+  "hw": "der Moment",
+  "sub": true,
+  "art": "der",
+  "lemma": "Moment",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Moment mal bitte! Einen Moment bitte."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 20,
+  "hw": "morgen",
+  "sub": true,
+  "lemma": "morgen",
+  "kind": "other",
+  "ex": [
+   "Morgen beginnt die Schule um 10 Uhr."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 20,
+  "hw": "müde",
+  "sub": true,
+  "lemma": "müde",
+  "kind": "other",
+  "ex": [
+   "Ich bin müde. Ich gehe schlafen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 20,
+  "hw": "der Mund",
+  "sub": true,
+  "art": "der",
+  "lemma": "Mund",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Öffnen Sie den Mund."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 20,
+  "hw": "müssen",
+  "sub": true,
+  "lemma": "müssen",
+  "kind": "other",
+  "ex": [
+   "Ich muss jeden Tag von 8 Uhr bis 18 Uhr arbeiten."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 20,
+  "hw": "die Mutter, -ü",
+  "sub": true,
+  "art": "die",
+  "lemma": "Mutter",
+  "pl": "-ü",
+  "kind": "noun",
+  "ex": [
+   "Frau Berghäuser ist die Mutter von Michaela."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 20,
+  "hw": "nach",
+  "sub": true,
+  "lemma": "nach",
+  "kind": "other",
+  "ex": [
+   "Ich gehe jetzt nach Hause. Ich fliege nach München. Es ist schon 5 nach 12."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 20,
+  "hw": "nächst- der Name, -n",
+  "sub": true,
+  "lemma": "nächst- der Name",
+  "kind": "other",
+  "ex": [
+   "Sehen wir uns nächste Woche? Mein Name ist Thomas Schmidt. Mein Vorname ist Thomas; Schmidt ist der Familienname."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 20,
+  "hw": "nehmen",
+  "sub": true,
+  "lemma": "nehmen",
+  "kind": "other",
+  "ex": [
+   "Heute gibt es Hähnchen. Das nehme ich. Ich nehme den Bus."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 20,
+  "hw": "nein",
+  "sub": true,
+  "lemma": "nein",
+  "kind": "other",
+  "ex": [
+   "Fährst du auch nach München? – Nein, ich habe keine Zeit."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 20,
+  "hw": "neu",
+  "sub": true,
+  "lemma": "neu",
+  "kind": "other",
+  "ex": [
+   "Ich bin der neue Kollege. Wir haben eine neue Wohnung."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 20,
+  "hw": "nicht",
+  "sub": true,
+  "lemma": "nicht",
+  "kind": "other",
+  "ex": [
+   "Das stimmt nicht. Das ist doch schön, nicht?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 20,
+  "hw": "nichts",
+  "sub": true,
+  "lemma": "nichts",
+  "kind": "other",
+  "ex": [
+   "Das macht nichts. Hier kaufe ich nichts. Der Laden gefällt mir nicht."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 20,
+  "hw": "nie",
+  "sub": true,
+  "lemma": "nie",
+  "kind": "other",
+  "ex": [
+   "Er kommt nie pünktlich."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 21,
+  "hw": "noch",
+  "sub": true,
+  "lemma": "noch",
+  "kind": "other",
+  "ex": [
+   "Vielleicht kommt er noch. Wir warten noch fünf Minuten. Ich habe noch 20 Euro."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 21,
+  "hw": "normal",
+  "sub": true,
+  "lemma": "normal",
+  "kind": "other",
+  "ex": [
+   "75 kg. Sein Gewicht ist normal."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 21,
+  "hw": "die Nummer, -n",
+  "sub": true,
+  "art": "die",
+  "lemma": "Nummer",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Sie haben Zimmer Nummer zwölf. Welche Hausnummer haben Sie? Können Sie mir Ihre Nummer geben?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 21,
+  "hw": "nur",
+  "sub": true,
+  "lemma": "nur",
+  "kind": "other",
+  "ex": [
+   "Ich möchte nur ein Glas Wasser."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 21,
+  "hw": "oben",
+  "sub": true,
+  "lemma": "oben",
+  "kind": "other",
+  "ex": [
+   "Ich wohne oben."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 21,
+  "hw": "das Obst",
+  "sub": true,
+  "art": "das",
+  "lemma": "Obst",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Im Sommer ist das Obst billig."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 21,
+  "hw": "oder",
+  "sub": true,
+  "lemma": "oder",
+  "kind": "other",
+  "ex": [
+   "Wann können Sie kommen – heute oder morgen?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 21,
+  "hw": "öffnen",
+  "sub": true,
+  "lemma": "öffnen",
+  "kind": "other",
+  "ex": [
+   "Ich öffne die Tür."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 21,
+  "hw": "geöffnet",
+  "sub": true,
+  "lemma": "geöffnet",
+  "kind": "other",
+  "ex": [
+   "Der Laden ist samstags bis 16.00 Uhr geöffnet."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 21,
+  "hw": "oft",
+  "sub": true,
+  "lemma": "oft",
+  "kind": "other",
+  "ex": [
+   "Petra treffe ich oft."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 21,
+  "hw": "ohne",
+  "sub": true,
+  "lemma": "ohne",
+  "kind": "other",
+  "ex": [
+   "Ohne Geld kann er nichts kaufen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 21,
+  "hw": "das Öl",
+  "sub": true,
+  "art": "das",
+  "lemma": "Öl",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Den Salat machen wir ohne Öl."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 21,
+  "hw": "die Oma, -s",
+  "sub": true,
+  "art": "die",
+  "lemma": "Oma",
+  "pl": "-s",
+  "kind": "noun",
+  "ex": [
+   "Meine Oma ist schon tot."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 21,
+  "hw": "der Opa, -s",
+  "sub": true,
+  "art": "der",
+  "lemma": "Opa",
+  "pl": "-s",
+  "kind": "noun",
+  "ex": [
+   "Mein Opa heißt Hans."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 21,
+  "hw": "die Ordnung",
+  "sub": true,
+  "art": "die",
+  "lemma": "Ordnung",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Das ist in Ordnung."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 21,
+  "hw": "der Ort, -e",
+  "sub": true,
+  "art": "der",
+  "lemma": "Ort",
+  "pl": "-e",
+  "kind": "noun",
+  "ex": [
+   "Der Ort liegt am Meer."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 21,
+  "hw": "das Papier",
+  "sub": true,
+  "art": "das",
+  "lemma": "Papier",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Hier sind Papier und Bleistift."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 21,
+  "hw": "die Papiere (pl.)",
+  "sub": true,
+  "art": "die",
+  "lemma": "Papiere (pl.)",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Haben Sie Ihre Papiere dabei?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 21,
+  "hw": "der Partner, -/ die Partnerin, -nen",
+  "sub": true,
+  "art": "der",
+  "lemma": "Partner",
+  "pl": "-/ die Partnerin, -nen",
+  "kind": "noun",
+  "ex": [
+   "Sie ist meine Partnerin."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 21,
+  "hw": "die Party",
+  "sub": true,
+  "art": "die",
+  "lemma": "Party",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Heute Abend machen wir eine Party."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 21,
+  "hw": "der Pass, -ä, e",
+  "sub": true,
+  "art": "der",
+  "lemma": "Pass",
+  "pl": "-ä, e",
+  "kind": "noun",
+  "ex": [
+   "Im Hotel brauchst du deinen Pass."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 21,
+  "hw": "die Pause, -n",
+  "sub": true,
+  "art": "die",
+  "lemma": "Pause",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Von 12.00 bis 12.30 Uhr haben wir Mittagspause."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 21,
+  "hw": "der Plan, -ä, e",
+  "sub": true,
+  "art": "der",
+  "lemma": "Plan",
+  "pl": "-ä, e",
+  "kind": "noun",
+  "ex": [
+   "Ich kaufe mir einen Stadtplan."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 21,
+  "hw": "der Platz, -ä, e",
+  "sub": true,
+  "art": "der",
+  "lemma": "Platz",
+  "pl": "-ä, e",
+  "kind": "noun",
+  "ex": [
+   "Tut mir leid, der Platz ist besetzt. Bitte nehmen Sie Platz! Ich wohne Messeplatz 5."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 21,
+  "hw": "die Polizei",
+  "sub": true,
+  "art": "die",
+  "lemma": "Polizei",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Holen Sie die Polizei!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 21,
+  "hw": "die Pommes frites (pl.)",
+  "sub": true,
+  "art": "die",
+  "lemma": "Pommes frites (pl.)",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Die Kinder essen Hähnchen mit Pommes frites."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 21,
+  "hw": "die Post",
+  "sub": true,
+  "art": "die",
+  "lemma": "Post",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Wo ist die Post, bitte? Ist Post da?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 21,
+  "hw": "die Postleitzahl",
+  "sub": true,
+  "art": "die",
+  "lemma": "Postleitzahl",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Wie ist Ihre Postleitzahl?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 21,
+  "hw": "das Praktikum",
+  "sub": true,
+  "art": "das",
+  "lemma": "Praktikum",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Ich mache ein Praktikum bei Siemens."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 21,
+  "hw": "die Praxis",
+  "sub": true,
+  "art": "die",
+  "lemma": "Praxis",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Die Praxis ist ab acht Uhr geöffnet."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 21,
+  "hw": "der Preis, -e",
+  "sub": true,
+  "art": "der",
+  "lemma": "Preis",
+  "pl": "-e",
+  "kind": "noun",
+  "ex": [
+   "Die Preise sind hoch."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 21,
+  "hw": "das Problem, -e",
+  "sub": true,
+  "art": "das",
+  "lemma": "Problem",
+  "pl": "-e",
+  "kind": "noun",
+  "ex": [
+   "Mein Problem ist die Sprache."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 21,
+  "hw": "der Prospekt, -e",
+  "sub": true,
+  "art": "der",
+  "lemma": "Prospekt",
+  "pl": "-e",
+  "kind": "noun",
+  "ex": [
+   "Bitte schicken Sie mir einen Prospekt von Ihrem Hotel."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 21,
+  "hw": "die Prüfung",
+  "sub": true,
+  "art": "die",
+  "lemma": "Prüfung",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Die Prüfung ist am Montag um 8.00 Uhr."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 21,
+  "hw": "pünktlich",
+  "sub": true,
+  "lemma": "pünktlich",
+  "kind": "other",
+  "ex": [
+   "Der Bus fährt pünktlich um acht Uhr. Herr Müller ist immer pünktlich."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "Rad fahren",
+  "sub": true,
+  "lemma": "Rad fahren",
+  "kind": "other",
+  "ex": [
+   "Das Kind kann schon Rad fahren."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "rauchen",
+  "sub": true,
+  "lemma": "rauchen",
+  "kind": "other",
+  "ex": [
+   "Ich rauche nicht."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "der Raum, -ä, e",
+  "sub": true,
+  "art": "der",
+  "lemma": "Raum",
+  "pl": "-ä, e",
+  "kind": "noun",
+  "ex": [
+   "Der Unterricht ist in Raum 332."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "die Rechnung, -en",
+  "sub": true,
+  "art": "die",
+  "lemma": "Rechnung",
+  "pl": "-en",
+  "kind": "noun",
+  "ex": [
+   "Die Rechnung, bitte."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "rechts",
+  "sub": true,
+  "lemma": "rechts",
+  "kind": "other",
+  "ex": [
+   "Die Schillerstraße ist hier rechts."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "regnen",
+  "sub": true,
+  "lemma": "regnen",
+  "kind": "other",
+  "ex": [
+   "Heute regnet es."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "der Regen",
+  "sub": true,
+  "art": "der",
+  "lemma": "Regen",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Bei diesem Regen gehe ich nicht raus."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "der Reis",
+  "sub": true,
+  "art": "der",
+  "lemma": "Reis",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Ich esse gern Reis."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "reisen",
+  "sub": true,
+  "lemma": "reisen",
+  "kind": "other",
+  "ex": [
+   "Ich reise gern."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "die Reise",
+  "sub": true,
+  "art": "die",
+  "lemma": "Reise",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Wir machen eine Reise nach Österreich."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "das Reisebüro, -s",
+  "sub": true,
+  "art": "das",
+  "lemma": "Reisebüro",
+  "pl": "-s",
+  "kind": "noun",
+  "ex": [
+   "Mein Mann arbeitet im Reisebüro."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "der Reiseführer",
+  "sub": true,
+  "art": "der",
+  "lemma": "Reiseführer",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Ich kaufe mir einen Reiseführer von Berlin. Unser Reiseführer heißt Peter."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "reparieren",
+  "sub": true,
+  "lemma": "reparieren",
+  "kind": "other",
+  "ex": [
+   "Er hat das Fahrrad repariert."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "die Reparatur",
+  "sub": true,
+  "art": "die",
+  "lemma": "Reparatur",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Die Reparatur ist sehr teuer."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "das Restaurant, -s",
+  "sub": true,
+  "art": "das",
+  "lemma": "Restaurant",
+  "pl": "-s",
+  "kind": "noun",
+  "ex": [
+   "Wir essen heute in einem Restaurant."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "die Rezeption",
+  "sub": true,
+  "art": "die",
+  "lemma": "Rezeption",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Fragen Sie bitte im Hotel an der Rezeption."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "richtig",
+  "sub": true,
+  "lemma": "richtig",
+  "kind": "other",
+  "ex": [
+   "Habe ich das richtig verstanden? Das ist richtig."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "riechen",
+  "sub": true,
+  "lemma": "riechen",
+  "kind": "other",
+  "ex": [
+   "Dieser Wein riecht gut."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "ruhig",
+  "sub": true,
+  "lemma": "ruhig",
+  "kind": "other",
+  "ex": [
+   "Ich möchte ein ruhiges Zimmer."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "der Saft",
+  "sub": true,
+  "art": "der",
+  "lemma": "Saft",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Möchtest du einen Apfelsaft?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "sagen",
+  "sub": true,
+  "lemma": "sagen",
+  "kind": "other",
+  "ex": [
+   "Sag mal, wie geht es dir denn?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "der Salat",
+  "sub": true,
+  "art": "der",
+  "lemma": "Salat",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Wie schmeckt dir der Salat?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "das Salz",
+  "sub": true,
+  "art": "das",
+  "lemma": "Salz",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Herr Ober, kann ich bitte Salz haben?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "Satz, -ä, e",
+  "sub": true,
+  "lemma": "Satz",
+  "kind": "other",
+  "ex": [
+   "Dieser Satz ist sehr einfach."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "die S-Bahn",
+  "sub": true,
+  "art": "die",
+  "lemma": "S-Bahn",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Ich nehme lieber die S-Bahn."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "der Schalter",
+  "sub": true,
+  "art": "der",
+  "lemma": "Schalter",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Gehen Sie bitte zum Schalter drei!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "scheinen",
+  "sub": true,
+  "lemma": "scheinen",
+  "kind": "other",
+  "ex": [
+   "Die Sonne scheint."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "schicken",
+  "sub": true,
+  "lemma": "schicken",
+  "kind": "other",
+  "ex": [
+   "Bitte schicken Sie mir eine E-Mail."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "das Schild, -er",
+  "sub": true,
+  "art": "das",
+  "lemma": "Schild",
+  "pl": "-er",
+  "kind": "noun",
+  "ex": [
+   "Haben Sie nicht das Schild gesehen?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "der Schinken, –",
+  "sub": true,
+  "art": "der",
+  "lemma": "Schinken",
+  "pl": "–",
+  "kind": "noun",
+  "ex": [
+   "Ich möchte gern ein Schinkenbrot."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "schlafen",
+  "sub": true,
+  "lemma": "schlafen",
+  "kind": "other",
+  "ex": [
+   "Ich schlafe meistens acht Stunden."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "schlecht",
+  "sub": true,
+  "lemma": "schlecht",
+  "kind": "other",
+  "ex": [
+   "Mir ist schlecht! Sie sehen schlecht aus. Wir haben schlechtes Wetter."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "schließen",
+  "sub": true,
+  "lemma": "schließen",
+  "kind": "other",
+  "ex": [
+   "Bitte, schließen Sie die Tür."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "geschlossen",
+  "sub": true,
+  "lemma": "geschlossen",
+  "kind": "other",
+  "ex": [
+   "Die Bank hat am Samstag geschlossen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "der Schluss",
+  "sub": true,
+  "art": "der",
+  "lemma": "Schluss",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Ich muss jetzt Schluss machen. Zum Schluss gibt er uns allen die Hand."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "der Schlüssel, –",
+  "sub": true,
+  "art": "der",
+  "lemma": "Schlüssel",
+  "pl": "–",
+  "kind": "noun",
+  "ex": [
+   "Ich gebe Ihnen noch den Zimmerschlüssel."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "schmecken",
+  "sub": true,
+  "lemma": "schmecken",
+  "kind": "other",
+  "ex": [
+   "Schmeckt das gut?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "schnell",
+  "sub": true,
+  "lemma": "schnell",
+  "kind": "other",
+  "ex": [
+   "Er fährt schnell."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "schon",
+  "sub": true,
+  "lemma": "schon",
+  "kind": "other",
+  "ex": [
+   "Ist das Essen schon fertig?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "schön",
+  "sub": true,
+  "lemma": "schön",
+  "kind": "other",
+  "ex": [
+   "Schönen Urlaub! Das ist sehr schön."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "der Schrank, -ä, e",
+  "sub": true,
+  "art": "der",
+  "lemma": "Schrank",
+  "pl": "-ä, e",
+  "kind": "noun",
+  "ex": [
+   "Die Gläser stehen im Schrank."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 22,
+  "hw": "schreiben",
+  "sub": true,
+  "lemma": "schreiben",
+  "kind": "other",
+  "ex": [
+   "Er schreibt jeden Tag fünfzig E-Mails."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "der Schuh, -e",
+  "sub": true,
+  "art": "der",
+  "lemma": "Schuh",
+  "pl": "-e",
+  "kind": "noun",
+  "ex": [
+   "Zieh die Schuhe aus!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "die Schule",
+  "sub": true,
+  "art": "die",
+  "lemma": "Schule",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Meine Tochter geht schon in die Schule. Die Schule ist gleich hier um die Ecke."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "der Schüler, –",
+  "sub": true,
+  "art": "der",
+  "lemma": "Schüler",
+  "pl": "–",
+  "kind": "noun",
+  "ex": [
+   "In meinem Kurs sind acht Schülerinnen und fünf Schüler."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "schwer",
+  "sub": true,
+  "lemma": "schwer",
+  "kind": "other",
+  "ex": [
+   "Ist Ihr Gepäck sehr schwer? Das ist eine schwere Arbeit."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "die Schwester, -n",
+  "sub": true,
+  "art": "die",
+  "lemma": "Schwester",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Meine Schwester kommt am Dienstag."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "schwimmen",
+  "sub": true,
+  "lemma": "schwimmen",
+  "kind": "other",
+  "ex": [
+   "Ich schwimme jeden Tag einen Kilometer."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "das Schwimmbad",
+  "sub": true,
+  "art": "das",
+  "lemma": "Schwimmbad",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Kommst du mit ins Schwimmbad?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "der See",
+  "sub": true,
+  "art": "der",
+  "lemma": "See",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Komm, wir fahren zum Starnberger See."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "sehen",
+  "sub": true,
+  "lemma": "sehen",
+  "kind": "other",
+  "ex": [
+   "Ich kann dich nicht sehen. Ich habe diesen Jungen schon einmal gesehen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "die Sehenswürdigkeit,",
+  "sub": true,
+  "art": "die",
+  "lemma": "Sehenswürdigkeit",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "-en Welche Sehenswürdigkeiten gibt es in Frankfurt?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "sehr",
+  "sub": true,
+  "lemma": "sehr",
+  "kind": "other",
+  "ex": [
+   "Danke sehr! Das ist sehr schwer."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "sein",
+  "sub": true,
+  "lemma": "sein",
+  "kind": "other",
+  "ex": [
+   "Herr Müller ist in seinem Zimmer. Mir ist kalt. Ich bin dreiundzwanzig."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "an sein",
+  "sub": true,
+  "lemma": "an sein",
+  "kind": "other",
+  "ex": [
+   "Das Licht ist noch an."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "auf sein",
+  "sub": true,
+  "lemma": "auf sein",
+  "kind": "other",
+  "ex": [
+   "Das Fenster ist noch auf."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "weg sein",
+  "sub": true,
+  "lemma": "weg sein",
+  "kind": "other",
+  "ex": [
+   "Herr Meier ist schon weg."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "zu sein",
+  "sub": true,
+  "lemma": "zu sein",
+  "kind": "other",
+  "ex": [
+   "Die Tür ist zu."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "seit",
+  "sub": true,
+  "lemma": "seit",
+  "kind": "other",
+  "ex": [
+   "Ich wohne seit drei Jahren in Köln."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "selbstständig sich",
+  "sub": true,
+  "lemma": "selbstständig sich",
+  "kind": "other",
+  "ex": [
+   "Er ist selbstständig. Sie müssen sich erst anmelden."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "sie",
+  "sub": true,
+  "lemma": "sie",
+  "kind": "other",
+  "ex": [
+   "Wie heißt sie?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "Sie",
+  "sub": true,
+  "lemma": "Sie",
+  "kind": "other",
+  "ex": [
+   "Wie heißen Sie, bitte?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "sitzen",
+  "sub": true,
+  "lemma": "sitzen",
+  "kind": "other",
+  "ex": [
+   "Wo sitzen Sie?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "so",
+  "sub": true,
+  "lemma": "so",
+  "kind": "other",
+  "ex": [
+   "Sie müssen das so machen! Fahren Sie bitte nicht so schnell! Meine Frau ist so groß wie ich. So, das war‘s/wär‘s!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "das Sofa",
+  "sub": true,
+  "art": "das",
+  "lemma": "Sofa",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Das Sofa ist neu."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "sofort",
+  "sub": true,
+  "lemma": "sofort",
+  "kind": "other",
+  "ex": [
+   "Bitte antworten Sie sofort."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "der Sohn, -ö, e",
+  "sub": true,
+  "art": "der",
+  "lemma": "Sohn",
+  "pl": "-ö, e",
+  "kind": "noun",
+  "ex": [
+   "Das ist Hans, mein Sohn."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "sollen",
+  "sub": true,
+  "lemma": "sollen",
+  "kind": "other",
+  "ex": [
+   "Soll ich kommen? Was soll ich mitbringen?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "die Sonne",
+  "sub": true,
+  "art": "die",
+  "lemma": "Sonne",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Die Sonne scheint."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "spät",
+  "sub": true,
+  "lemma": "spät",
+  "kind": "other",
+  "ex": [
+   "Es ist schon spät, ich muss gehen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "später",
+  "sub": true,
+  "lemma": "später",
+  "kind": "other",
+  "ex": [
+   "Das können wir später machen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "die Speisekarte",
+  "sub": true,
+  "art": "die",
+  "lemma": "Speisekarte",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Bringen Sie mir die Speisekarte, bitte."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "spielen",
+  "sub": true,
+  "lemma": "spielen",
+  "kind": "other",
+  "ex": [
+   "Die Kinder spielen draußen. Spielen Sie Karten?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "der Sport",
+  "sub": true,
+  "art": "der",
+  "lemma": "Sport",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Ich mache viel Sport."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "die Sprache, -n",
+  "sub": true,
+  "art": "die",
+  "lemma": "Sprache",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Welche Sprachen sprichst du?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "sprechen",
+  "sub": true,
+  "lemma": "sprechen",
+  "kind": "other",
+  "ex": [
+   "Kann ich (mit) Herrn Klein sprechen?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "die Stadt, -ä, e",
+  "sub": true,
+  "art": "die",
+  "lemma": "Stadt",
+  "pl": "-ä, e",
+  "kind": "noun",
+  "ex": [
+   "Heidelberg ist eine alte Stadt."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "stehen",
+  "sub": true,
+  "lemma": "stehen",
+  "kind": "other",
+  "ex": [
+   "Ich glaube es nicht, aber es steht in der Zeitung. Der Bus steht schon an der Haltestelle."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 23,
+  "hw": "die Stelle, -n",
+  "sub": true,
+  "art": "die",
+  "lemma": "Stelle",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Ich habe eine neue Stelle."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "stellen",
+  "sub": true,
+  "lemma": "stellen",
+  "kind": "other",
+  "ex": [
+   "Stell die Tasche rechts in die Ecke!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "der Stock",
+  "sub": true,
+  "art": "der",
+  "lemma": "Stock",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Unsere Wohnung liegt im ersten Stock."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "die Straße, -n",
+  "sub": true,
+  "art": "die",
+  "lemma": "Straße",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "In welcher Straße wohnen Sie?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "die Straßenbahn",
+  "sub": true,
+  "art": "die",
+  "lemma": "Straßenbahn",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Wo fährt die Straßenbahn ab?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "studieren",
+  "sub": true,
+  "lemma": "studieren",
+  "kind": "other",
+  "ex": [
+   "Ich studiere in Mainz."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "das Studium",
+  "sub": true,
+  "art": "das",
+  "lemma": "Studium",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Das Studium beginnt im Oktober."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "der Student, -en",
+  "sub": true,
+  "art": "der",
+  "lemma": "Student",
+  "pl": "-en",
+  "kind": "noun",
+  "ex": [
+   "Ich bin Studentin."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "die Stunde, -n",
+  "sub": true,
+  "art": "die",
+  "lemma": "Stunde",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Ich bin in einer Stunde zurück."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "suchen",
+  "sub": true,
+  "lemma": "suchen",
+  "kind": "other",
+  "ex": [
+   "Suchst du etwas?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "tanzen",
+  "sub": true,
+  "lemma": "tanzen",
+  "kind": "other",
+  "ex": [
+   "Tanzen Sie gern?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "die Tasche, -n",
+  "sub": true,
+  "art": "die",
+  "lemma": "Tasche",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Ich habe die Schlüssel in der Tasche."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "das Taxi, -s",
+  "sub": true,
+  "art": "das",
+  "lemma": "Taxi",
+  "pl": "-s",
+  "kind": "noun",
+  "ex": [
+   "Es gibt heute keinen Bus mehr. Er fährt mit dem Taxi."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "der Tee",
+  "sub": true,
+  "art": "der",
+  "lemma": "Tee",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Ich trinke morgens immer Tee."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "der Teil, -e",
+  "sub": true,
+  "art": "der",
+  "lemma": "Teil",
+  "pl": "-e",
+  "kind": "noun",
+  "ex": [
+   "Lies bitte auch den zweiten Teil."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "telefonieren",
+  "sub": true,
+  "lemma": "telefonieren",
+  "kind": "other",
+  "ex": [
+   "Darf ich mal telefonieren?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "das Telefon",
+  "sub": true,
+  "art": "das",
+  "lemma": "Telefon",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Haben Sie Telefon?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "der Termin, -e",
+  "sub": true,
+  "art": "der",
+  "lemma": "Termin",
+  "pl": "-e",
+  "kind": "noun",
+  "ex": [
+   "Am besten machen wir sofort einen Termin."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "der Test",
+  "sub": true,
+  "art": "der",
+  "lemma": "Test",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Der Test war einfach."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "teuer",
+  "sub": true,
+  "lemma": "teuer",
+  "kind": "other",
+  "ex": [
+   "Das ist mir zu teuer."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "der Text, -e",
+  "sub": true,
+  "art": "der",
+  "lemma": "Text",
+  "pl": "-e",
+  "kind": "noun",
+  "ex": [
+   "Lesen Sie bitte diesen Text."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "das Thema",
+  "sub": true,
+  "art": "das",
+  "lemma": "Thema",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Wir sprechen heute über das Thema „Essen und Trinken“."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "das Ticket, -s",
+  "sub": true,
+  "art": "das",
+  "lemma": "Ticket",
+  "pl": "-s",
+  "kind": "noun",
+  "ex": [
+   "Wie viel kostet das Ticket?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "der Tisch, -e",
+  "sub": true,
+  "art": "der",
+  "lemma": "Tisch",
+  "pl": "-e",
+  "kind": "noun",
+  "ex": [
+   "Die Fotos liegen auf dem Tisch."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "die Tochter, -ö",
+  "sub": true,
+  "art": "die",
+  "lemma": "Tochter",
+  "pl": "-ö",
+  "kind": "noun",
+  "ex": [
+   "Das ist meine Tochter Katharina."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "die Toilette, -en",
+  "sub": true,
+  "art": "die",
+  "lemma": "Toilette",
+  "pl": "-en",
+  "kind": "noun",
+  "ex": [
+   "Wo ist die Toilette, bitte?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "die Tomate, -n",
+  "sub": true,
+  "art": "die",
+  "lemma": "Tomate",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Die Tomate ist noch grün."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "tot (sich) treffen",
+  "sub": true,
+  "lemma": "tot (sich) treffen",
+  "kind": "other",
+  "ex": [
+   "Sein Vater ist schon lange tot. Ich treffe in der Stadt einen Kollegen. Wir treffen uns immer freitags."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "die Treppe, -n",
+  "sub": true,
+  "art": "die",
+  "lemma": "Treppe",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Die Toilette? Die Treppe hoch und dann links."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "trinken",
+  "sub": true,
+  "lemma": "trinken",
+  "kind": "other",
+  "ex": [
+   "Möchtest du etwas trinken?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "tschüss",
+  "sub": true,
+  "lemma": "tschüss",
+  "kind": "other",
+  "ex": [
+   "Junge Leute sagen meistens „tschüss!“ und nicht „auf Wiedersehen“."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "tun",
+  "sub": true,
+  "lemma": "tun",
+  "kind": "other",
+  "ex": [
+   "Ich habe noch etwas zu tun. Was tut Ihr Mann?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "über",
+  "sub": true,
+  "lemma": "über",
+  "kind": "other",
+  "ex": [
+   "Gehen Sie hier über die Straße. Er wohnt im zweiten Stock über Familie Meier. Sind Sie über 18?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "übernachten",
+  "sub": true,
+  "lemma": "übernachten",
+  "kind": "other",
+  "ex": [
+   "Du kannst bei mir übernachten."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "überweisen",
+  "sub": true,
+  "lemma": "überweisen",
+  "kind": "other",
+  "ex": [
+   "Sie können das Geld auch überweisen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "die Uhr",
+  "sub": true,
+  "art": "die",
+  "lemma": "Uhr",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Es ist vier Uhr."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "um",
+  "sub": true,
+  "lemma": "um",
+  "kind": "other",
+  "ex": [
+   "Er kommt um sieben Uhr. Da kommt er gerade um die Ecke."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "umziehen",
+  "sub": true,
+  "lemma": "umziehen",
+  "kind": "other",
+  "ex": [
+   "Nächsten Monat ziehen wir um."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 24,
+  "hw": "und",
+  "sub": true,
+  "lemma": "und",
+  "kind": "other",
+  "ex": [
+   "Peter und Helmut sind meine Söhne."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 25,
+  "hw": "unser- unten",
+  "sub": true,
+  "lemma": "unser- unten",
+  "kind": "other",
+  "ex": [
+   "Das ist unsere Lehrerin. Er wohnt ganz unten im Haus."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 25,
+  "hw": "unter",
+  "sub": true,
+  "lemma": "unter",
+  "kind": "other",
+  "ex": [
+   "Unter uns wohnt eine Familie mit drei Kindern."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 25,
+  "hw": "der Unterricht",
+  "sub": true,
+  "art": "der",
+  "lemma": "Unterricht",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Wir haben Unterricht von 8.00 bis 12.00 Uhr."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 25,
+  "hw": "unterschreiben",
+  "sub": true,
+  "lemma": "unterschreiben",
+  "kind": "other",
+  "ex": [
+   "Wo muss ich unterschreiben?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 25,
+  "hw": "die Unterschrift",
+  "sub": true,
+  "art": "die",
+  "lemma": "Unterschrift",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Hier fehlt noch Ihre Unterschrift."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 25,
+  "hw": "der Urlaub",
+  "sub": true,
+  "art": "der",
+  "lemma": "Urlaub",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Ich nehme im September Urlaub."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 25,
+  "hw": "der Vater, -ä",
+  "sub": true,
+  "art": "der",
+  "lemma": "Vater",
+  "pl": "-ä",
+  "kind": "noun",
+  "ex": [
+   "Mein Vater ist Arbeiter."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 25,
+  "hw": "verboten",
+  "sub": true,
+  "lemma": "verboten",
+  "kind": "other",
+  "ex": [
+   "Hier ist Rauchen verboten."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 25,
+  "hw": "verdienen",
+  "sub": true,
+  "lemma": "verdienen",
+  "kind": "other",
+  "ex": [
+   "Ich verdiene 1.500 Euro im Monat."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 25,
+  "hw": "der Verein",
+  "sub": true,
+  "art": "der",
+  "lemma": "Verein",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Es gibt einen neuen Sportverein in der Stadt."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 25,
+  "hw": "verheiratet",
+  "sub": true,
+  "lemma": "verheiratet",
+  "kind": "other",
+  "ex": [
+   "Ich bin verheiratet und habe drei Kinder."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 25,
+  "hw": "verkaufen",
+  "sub": true,
+  "lemma": "verkaufen",
+  "kind": "other",
+  "ex": [
+   "Er verkauft sein altes Auto."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 25,
+  "hw": "der Verkäufer, –",
+  "sub": true,
+  "art": "der",
+  "lemma": "Verkäufer",
+  "pl": "–",
+  "kind": "noun",
+  "ex": [
+   "Meine Mutter ist Verkäuferin im Kaufhaus."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 25,
+  "hw": "vermieten",
+  "sub": true,
+  "lemma": "vermieten",
+  "kind": "other",
+  "ex": [
+   "Die Wohnung ist schon vermietet."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 25,
+  "hw": "der Vermieter",
+  "sub": true,
+  "art": "der",
+  "lemma": "Vermieter",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Unser Vermieter heißt Huber. Er wohnt auch hier."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 25,
+  "hw": "verstehen",
+  "sub": true,
+  "lemma": "verstehen",
+  "kind": "other",
+  "ex": [
+   "Können Sie mich verstehen?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 25,
+  "hw": "der Verwandte, -n",
+  "sub": true,
+  "art": "der",
+  "lemma": "Verwandte",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Peter besucht seine Verwandten in Polen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 25,
+  "hw": "viel",
+  "sub": true,
+  "lemma": "viel",
+  "kind": "other",
+  "ex": [
+   "Hier regnet es viel."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 25,
+  "hw": "vielleicht",
+  "sub": true,
+  "lemma": "vielleicht",
+  "kind": "other",
+  "ex": [
+   "Ich komme vielleicht mit dem Bus."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 25,
+  "hw": "von",
+  "sub": true,
+  "lemma": "von",
+  "kind": "other",
+  "ex": [
+   "Das Auto von Felix ist kaputt. Er kommt gerade von Köln/von zu Hause."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 25,
+  "hw": "vor",
+  "sub": true,
+  "lemma": "vor",
+  "kind": "other",
+  "ex": [
+   "Der Termin war vor einer Stunde. Das Auto steht vor der Tür."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 25,
+  "hw": "der Vorname, -n",
+  "sub": true,
+  "art": "der",
+  "lemma": "Vorname",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Ich heiße Müller, mein Vorname ist Eva."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 25,
+  "hw": "die Vorsicht (sich) vorstellen",
+  "sub": true,
+  "art": "die",
+  "lemma": "Vorsicht (sich) vorstellen",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Vorsicht! Da kommt ein Auto. Wir wollen uns kennenlernen. Können Sie sich bitte vorstellen?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 25,
+  "hw": "die Vorwahl",
+  "sub": true,
+  "art": "die",
+  "lemma": "Vorwahl",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Wie ist die Vorwahl von München?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 25,
+  "hw": "wandern",
+  "sub": true,
+  "lemma": "wandern",
+  "kind": "other",
+  "ex": [
+   "Wir wandern um den Chiemsee."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 25,
+  "hw": "wann",
+  "sub": true,
+  "lemma": "wann",
+  "kind": "other",
+  "ex": [
+   "Wann bist du fertig? Wann kann ich Sie anrufen? Wann sind Sie geboren?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 25,
+  "hw": "warten",
+  "sub": true,
+  "lemma": "warten",
+  "kind": "other",
+  "ex": [
+   "Können Sie ein paar Minuten warten? Auf wen warten Sie?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 25,
+  "hw": "warum",
+  "sub": true,
+  "lemma": "warum",
+  "kind": "other",
+  "ex": [
+   "Warum kommt er nicht?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 25,
+  "hw": "was",
+  "sub": true,
+  "lemma": "was",
+  "kind": "other",
+  "ex": [
+   "Was ist das? Was möchten Sie?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 25,
+  "hw": "was für ein (sich) waschen",
+  "sub": true,
+  "lemma": "was für ein (sich) waschen",
+  "kind": "other",
+  "ex": [
+   "Was für eine Farbe möchten Sie? Wo kann ich mir die Hände waschen? Ich muss morgen waschen."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 25,
+  "hw": "das Wasser",
+  "sub": true,
+  "art": "das",
+  "lemma": "Wasser",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Ein Glas Wasser, bitte."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 25,
+  "hw": "weh tun",
+  "sub": true,
+  "lemma": "weh tun",
+  "kind": "other",
+  "ex": [
+   "Ich muss zum Arzt. Mein Bein tut weh."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 25,
+  "hw": "weiblich",
+  "sub": true,
+  "lemma": "weiblich",
+  "kind": "other",
+  "ex": [
+   "Kreuzen Sie bitte an: „weiblich“ oder „männlich“."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 25,
+  "hw": "der Wein",
+  "sub": true,
+  "art": "der",
+  "lemma": "Wein",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Nein danke, ich möchte keinen Wein."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 25,
+  "hw": "weit",
+  "sub": true,
+  "lemma": "weit",
+  "kind": "other",
+  "ex": [
+   "Zum Bahnhof ist es nicht weit."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 26,
+  "hw": "weiter",
+  "sub": true,
+  "lemma": "weiter",
+  "kind": "other",
+  "ex": [
+   "Der Bus fährt nicht weiter."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 26,
+  "hw": "welch- die Welt",
+  "sub": true,
+  "lemma": "welch- die Welt",
+  "kind": "other",
+  "ex": [
+   "Welches Buch möchtest du? Es gibt viele Probleme auf der Welt."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 26,
+  "hw": "wenig",
+  "sub": true,
+  "lemma": "wenig",
+  "kind": "other",
+  "ex": [
+   "Ich habe leider nur wenig verstanden. Er verdient wenig."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 26,
+  "hw": "wer",
+  "sub": true,
+  "lemma": "wer",
+  "kind": "other",
+  "ex": [
+   "Wer ist das?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 26,
+  "hw": "werden",
+  "sub": true,
+  "lemma": "werden",
+  "kind": "other",
+  "ex": [
+   "Mein Sohn will Arzt werden."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 26,
+  "hw": "das Wetter",
+  "sub": true,
+  "art": "das",
+  "lemma": "Wetter",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Wir hatten schlechtes Wetter."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 26,
+  "hw": "wichtig",
+  "sub": true,
+  "lemma": "wichtig",
+  "kind": "other",
+  "ex": [
+   "Dieses Formular ist sehr wichtig."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 26,
+  "hw": "wie",
+  "sub": true,
+  "lemma": "wie",
+  "kind": "other",
+  "ex": [
+   "Wie heißt du? Er schreibt wie ein Kind. Meine Frau ist so groß wie ich. Wie soll ich das machen? Wie groß ist die Wohnung? Wie bitte? Wie lange bist du schon hier?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 26,
+  "hw": "wiederholen",
+  "sub": true,
+  "lemma": "wiederholen",
+  "kind": "other",
+  "ex": [
+   "Können Sie das bitte wiederholen?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 26,
+  "hw": "das Wiederhören",
+  "sub": true,
+  "art": "das",
+  "lemma": "Wiederhören",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Wir müssen jetzt Schluss machen. Also auf Wiederhören!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 26,
+  "hw": "das Wiedersehen",
+  "sub": true,
+  "art": "das",
+  "lemma": "Wiedersehen",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Auf Wiedersehen!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 26,
+  "hw": "wie viel",
+  "sub": true,
+  "lemma": "wie viel",
+  "kind": "other",
+  "ex": [
+   "Wie viel Milch nehmen Sie?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 26,
+  "hw": "willkommen",
+  "sub": true,
+  "lemma": "willkommen",
+  "kind": "other",
+  "ex": [
+   "Herzlich willkommen!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 26,
+  "hw": "der Wind",
+  "sub": true,
+  "art": "der",
+  "lemma": "Wind",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Der Wind kommt aus Osten."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 26,
+  "hw": "wir",
+  "sub": true,
+  "lemma": "wir",
+  "kind": "other",
+  "ex": [
+   "Wir lernen Deutsch."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 26,
+  "hw": "wissen",
+  "sub": true,
+  "lemma": "wissen",
+  "kind": "other",
+  "ex": [
+   "Weißt du, wie er heißt?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 26,
+  "hw": "wo",
+  "sub": true,
+  "lemma": "wo",
+  "kind": "other",
+  "ex": [
+   "Wo waren Sie im Urlaub? Wo ist die Post? Wo sind Sie geboren?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 26,
+  "hw": "woher",
+  "sub": true,
+  "lemma": "woher",
+  "kind": "other",
+  "ex": [
+   "Woher kommen Sie?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 26,
+  "hw": "wohin",
+  "sub": true,
+  "lemma": "wohin",
+  "kind": "other",
+  "ex": [
+   "Wohin fährt dieser Bus? Wohin wollen Sie am Wochenende?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 26,
+  "hw": "wohnen",
+  "sub": true,
+  "lemma": "wohnen",
+  "kind": "other",
+  "ex": [
+   "Ich wohne in München."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 26,
+  "hw": "die Wohnung, -en",
+  "sub": true,
+  "art": "die",
+  "lemma": "Wohnung",
+  "pl": "-en",
+  "kind": "noun",
+  "ex": [
+   "Seit wann haben Sie diese Wohnung?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 26,
+  "hw": "wollen",
+  "sub": true,
+  "lemma": "wollen",
+  "kind": "other",
+  "ex": [
+   "Wollen Sie einen Kaffee trinken?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 26,
+  "hw": "das Wort, -ö, er/-e",
+  "sub": true,
+  "art": "das",
+  "lemma": "Wort",
+  "pl": "-ö, er/-e",
+  "kind": "noun",
+  "ex": [
+   "Ich kenne das Wort nicht."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 26,
+  "hw": "wunderbar",
+  "sub": true,
+  "lemma": "wunderbar",
+  "kind": "other",
+  "ex": [
+   "Das Essen schmeckt wunderbar."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 26,
+  "hw": "zahlen",
+  "sub": true,
+  "lemma": "zahlen",
+  "kind": "other",
+  "ex": [
+   "Zahlen, bitte!"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 26,
+  "hw": "die Zeit",
+  "sub": true,
+  "art": "die",
+  "lemma": "Zeit",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Ich habe heute keine Zeit."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 26,
+  "hw": "zurzeit",
+  "sub": true,
+  "lemma": "zurzeit",
+  "kind": "other",
+  "ex": [
+   "Zurzeit habe ich sehr viel zu tun."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 26,
+  "hw": "die Zeitung, -en",
+  "sub": true,
+  "art": "die",
+  "lemma": "Zeitung",
+  "pl": "-en",
+  "kind": "noun",
+  "ex": [
+   "Ich lese gern Zeitung."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 26,
+  "hw": "die Zigarette, -n",
+  "sub": true,
+  "art": "die",
+  "lemma": "Zigarette",
+  "pl": "-n",
+  "kind": "noun",
+  "ex": [
+   "Wie teuer sind die Zigaretten?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 26,
+  "hw": "das Zimmer, –",
+  "sub": true,
+  "art": "das",
+  "lemma": "Zimmer",
+  "pl": "–",
+  "kind": "noun",
+  "ex": [
+   "Das Zimmer ist groß. Öffne im Schlafzimmer das Fenster, bitte! Die Wohnung hat drei Zimmer. Ich habe ein Zimmer bestellt."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 26,
+  "hw": "der Zoll",
+  "sub": true,
+  "art": "der",
+  "lemma": "Zoll",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Wir müssen noch durch den Zoll."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 26,
+  "hw": "zu",
+  "sub": true,
+  "lemma": "zu",
+  "kind": "other",
+  "ex": [
+   "Der Bus fährt zum Bahnhof. Ich gehe zu Fuß. Ich bin zu Hause."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 27,
+  "hw": "zufrieden",
+  "sub": true,
+  "lemma": "zufrieden",
+  "kind": "other",
+  "ex": [
+   "Ich bin mit der Wohnung zufrieden."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 27,
+  "hw": "der Zug, -ü, e",
+  "sub": true,
+  "art": "der",
+  "lemma": "Zug",
+  "pl": "-ü, e",
+  "kind": "noun",
+  "ex": [
+   "Ich fahre gern mit dem Zug."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 27,
+  "hw": "zurück",
+  "sub": true,
+  "lemma": "zurück",
+  "kind": "other",
+  "ex": [
+   "Einmal Frankfurt und zurück. Wann kommst du zurück?"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 27,
+  "hw": "zusammen",
+  "sub": true,
+  "lemma": "zusammen",
+  "kind": "other",
+  "ex": [
+   "Sollen wir zusammen essen gehen? Das macht zusammen 2 Euro 80."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 27,
+  "hw": "zwischen",
+  "sub": true,
+  "lemma": "zwischen",
+  "kind": "other",
+  "ex": [
+   "Heidelberg liegt zwischen Frankfurt und Stuttgart. Zwischen 8 und 10 Uhr bin ich zu Hause."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 28,
+  "hw": "Literatur",
+  "sub": true,
+  "lemma": "Literatur",
+  "kind": "other",
+  "ex": []
+ },
+ {
+  "level": "A1",
+  "page": 28,
+  "hw": "ALTE Handbuch. Europäische",
+  "sub": true,
+  "lemma": "ALTE Handbuch. Europäische",
+  "kind": "other",
+  "ex": [
+   "Sprachprüfungen und Prüfungsverfahren,"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 28,
+  "hw": "Hg. Association of Language",
+  "sub": true,
+  "lemma": "Hg. Association of Language",
+  "kind": "other",
+  "ex": [
+   "Testers in Europe. Cambridge, 1998."
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 28,
+  "hw": "Gemeinsamer europäischer",
+  "sub": true,
+  "lemma": "Gemeinsamer europäischer",
+  "kind": "other",
+  "ex": [
+   "Referenzrahmen für Sprachen: lernen, lehren, be-"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 28,
+  "hw": "urteilen, im Auftrag des",
+  "sub": true,
+  "lemma": "urteilen",
+  "kind": "other",
+  "ex": [
+   "Europarats, Rat für kulturelle Zusammenarbeit, deut-"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 28,
+  "hw": "sche Ausgabe Hg. Goethe-Institut",
+  "sub": true,
+  "lemma": "sche Ausgabe Hg. Goethe-Institut",
+  "kind": "other",
+  "ex": [
+   "Inter Nationes, der Ständigen Konferenz"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 28,
+  "hw": "der Kultusminister der",
+  "sub": true,
+  "art": "der",
+  "lemma": "Kultusminister der",
+  "pl": "",
+  "kind": "noun",
+  "ex": [
+   "Länder in der Bundesrepublik Deutschland (KMK), der"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 28,
+  "hw": "Schweizerischen Konferenz",
+  "sub": true,
+  "lemma": "Schweizerischen Konferenz",
+  "kind": "other",
+  "ex": [
+   "der Kantonalen Erziehungs­direktoren (EDK) und"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 28,
+  "hw": "dem österreichischen",
+  "sub": true,
+  "lemma": "dem österreichischen",
+  "kind": "other",
+  "ex": [
+   "Bundesministerium für Bildung, Wissenschaft und Kul-"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 28,
+  "hw": "tur (BMBWK), München, Langenscheidt 2001.",
+  "sub": true,
+  "lemma": "tur (BMBWK)",
+  "kind": "other",
+  "ex": []
+ },
+ {
+  "level": "A1",
+  "page": 28,
+  "hw": "Profile Deutsch. Lernzielbestimmungen, nikative Mittel für die",
+  "sub": true,
+  "lemma": "Profile Deutsch. Lernzielbestimmungen",
+  "kind": "other",
+  "ex": [
+   "Kannbeschreibungen und kommu- Niveaustufen A1, A2, B1 und B2 des „Gemeinsamen"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 28,
+  "hw": "europäischen Referenzrahmens",
+  "sub": true,
+  "lemma": "europäischen Referenzrahmens",
+  "kind": "other",
+  "ex": [
+   "für Sprachen“ von Manuela Glaboniat, Martin"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 28,
+  "hw": "Müller, Paul Rusch, Helen",
+  "sub": true,
+  "lemma": "Müller",
+  "kind": "other",
+  "ex": [
+   "Schmitz, Lukas Wertenschlag, München, Langen-"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 28,
+  "hw": "scheidt 2002.",
+  "sub": true,
+  "lemma": "scheidt 2002.",
+  "kind": "other",
+  "ex": []
+ },
+ {
+  "level": "A1",
+  "page": 28,
+  "hw": "Waystage. Systems development",
+  "sub": true,
+  "lemma": "Waystage. Systems development",
+  "kind": "other",
+  "ex": [
+   "in adult language learning. An intermediary"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 28,
+  "hw": "objective below Threshold-Level",
+  "sub": true,
+  "lemma": "objective below Threshold-Level",
+  "kind": "other",
+  "ex": [
+   "in a European unit/credit system for"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 28,
+  "hw": "modern language learning",
+  "sub": true,
+  "lemma": "modern language learning",
+  "kind": "other",
+  "ex": [
+   "by adults, Hg. J.A. van Ek, L.G. Alexander in associ-"
+  ]
+ },
+ {
+  "level": "A1",
+  "page": 28,
+  "hw": "ation with M.A. Fitzpatrick,",
+  "sub": true,
+  "lemma": "ation with M.A. Fitzpatrick",
+  "kind": "other",
+  "ex": [
+   "Strassburg, 1977."
+  ]
+ }
+]
