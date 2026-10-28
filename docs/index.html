@@ -693,7 +693,7 @@ function logHTML() {
 }
 
 /* ---------- 纠错 / 意见：发到反馈中转，转成 GitHub Issue；发不出去先存本机 ---------- */
-const FEEDBACK_URL = "";
+const FEEDBACK_URL = "https://wortkarten-feedback.snipperxx.workers.dev/feedback";
 const FB_TYPES = ["释义不对", "例句或翻译有问题", "冠词/复数/变位不对", "发音不对", "功能建议", "其他"];
 const LS_OUTBOX = "wortkarten-outbox";
 const outbox = () => lsGet(LS_OUTBOX, []);
@@ -846,7 +846,7 @@ document.addEventListener("keydown", e => {
 });
 
 /* ---------- 自动更新（和送报 App 一样：打开/切回前台时检查新版本） ---------- */
-const APP_VERSION = "2026-10-28.2";
+const APP_VERSION = "2026-10-28.3";
 if ("serviceWorker" in navigator && location.protocol === "https:") {
   navigator.serviceWorker.register("sw.js", { updateViaCache: "none" }).then(reg => {
     document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") reg.update().catch(() => {}); });
