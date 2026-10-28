@@ -9,3 +9,6 @@ __pycache__/
 # wrangler 本地文件
 worker/.wrangler/
 worker/node_modules/
+
+# 自动处理反馈时的临时文件
+.feedback/

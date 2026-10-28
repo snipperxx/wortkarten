@@ -1,0 +1,3 @@
+{
+ "_说明": "反馈 / 人工修正。键是单词 id；值里写要改的字段（null = 删掉该字段，use 按子字段合并，_drop: true = 删掉这个词，_note 写来源如 issue 编号）。改完运行 python -I scripts/merge.py . 和 python -I scripts/check.py"
+}

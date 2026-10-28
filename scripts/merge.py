@@ -1,4 +1,7 @@
-"""base.json + chunk*_zh.json + chunk*_use.json + extra.json -> site/words.json"""
+"""base.json + chunk*_zh.json + chunk*_use.json + extra.json + overrides.json -> docs/words.json
+
+用法：python -I scripts/merge.py .   （在仓库根目录）
+所有人工 / 反馈修正都写进 data/overrides.json，不直接改 docs/words.json（重新合并会被覆盖）。"""
 import json
 import re
 import sys
@@ -69,8 +72,41 @@ extra = json.loads((D / "extra.json").read_text(encoding="utf-8"))
 out += extra
 for w in out:
     w.pop("kind", None)
-(V / "site" / "words.json").write_text(json.dumps(out, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+
+# 修正：{"w0123": {"zh": "...", "use": {"tip": "..."}, "_note": "#5"}, "w0999": {"_drop": true}, "_new": [{...}]}
+# 字段值为 null = 删掉这个字段；use 按子字段合并；以 _ 开头的键是备注，不进词库
+ov_path = D / "overrides.json"
+overrides = json.loads(ov_path.read_text(encoding="utf-8")) if ov_path.exists() else {}
+by_id = {w["id"]: w for w in out}
+applied = 0
+for wid, patch in overrides.items():
+    if wid.startswith("_"):
+        continue
+    w = by_id.get(wid)
+    if w is None:
+        sys.exit(f"overrides.json: 找不到 {wid}")
+    if patch.get("_drop"):
+        out.remove(w)
+    for k, v in patch.items():
+        if k.startswith("_"):
+            continue
+        if k == "use" and isinstance(v, dict):
+            u = {**w.get("use", {}), **v}
+            w["use"] = {kk: vv for kk, vv in u.items() if vv is not None}
+        elif v is None:
+            w.pop(k, None)
+        else:
+            w[k] = v
+    applied += 1
+for w in overrides.get("_new", []):
+    if w["id"] in by_id:
+        sys.exit(f"overrides.json: _new 里的 {w['id']} 已存在")
+    out.append(w)
+
+dest = V / "docs" / "words.json"
+dest.write_text(json.dumps(out, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
 from collections import Counter
-print(len(out), "words; dropped", dropped, "; examples trimmed on", exfix, "; with usage", sum(1 for w in out if "use" in w))
+print(len(out), "words; dropped", dropped, "; examples trimmed on", exfix, "; with usage", sum(1 for w in out if "use" in w),
+      "; overrides", applied, "+ new", len(overrides.get("_new", [])))
 print(Counter(w["lv"] for w in out), Counter(w.get("pos") for w in out).most_common(8))
-print("size KB", (V / "site" / "words.json").stat().st_size // 1024)
+print("size KB", dest.stat().st_size // 1024)
