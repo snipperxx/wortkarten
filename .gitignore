@@ -5,3 +5,7 @@ audio_small/
 site/
 __pycache__/
 *.pyc
+
+# wrangler 本地文件
+worker/.wrangler/
+worker/node_modules/

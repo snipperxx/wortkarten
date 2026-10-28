@@ -1,0 +1,13 @@
+name = "wortkarten-feedback"
+main = "worker.js"
+compatibility_date = "2025-06-01"
+workers_dev = true
+
+# 每个 IP 每分钟最多 5 条
+[[ratelimits]]
+name = "RL"
+namespace_id = "1001"
+
+  [ratelimits.simple]
+  limit = 5
+  period = 60
