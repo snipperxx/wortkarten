@@ -1,7 +1,9 @@
 # Wortkarten（德语背单词网站）
 
-**主力版本（平板 / 手机 / 电脑）：https://snipperxx.github.io/newspaper-route/wortkarten/**
-- 源码在 `app/`（index.html + sw.js + manifest + words.json + audio/）。发布：`bash deploy.sh "说明"`，它会复制到送报 App 仓库的 `wortkarten/` 子目录，再推送 main 和 gh-pages，约 1 分钟后上线。设备上打开或切回前台时会自动换成新版。
+**主力版本（平板 / 手机 / 电脑）：https://snipperxx.github.io/wortkarten/**（仓库 github.com/snipperxx/wortkarten，公开）
+- 网页在 `docs/`（index.html + sw.js + manifest + words.json + audio/），GitHub Pages 从 main 分支的 docs/ 发布。发布：`bash deploy.sh "说明"`（提交并推送），约 1 分钟上线；设备上打开或切回前台时自动换成新版。
+- 和送报 App 同一个域名（snipperxx.github.io），共用浏览器缓存区：两边的 sw.js 都只清理自己前缀的缓存（wortkarten- / songbao），改 sw.js 时别改坏。
+- 不进仓库：src/（Goethe 原始 PDF）、audio_small/、site/（旧 claude.ai 版）。
 - 安装到桌面：在安卓 Chrome 里打开网址，菜单选“添加到主屏幕 / 安装应用”。
 - 多设备同步：设置 → 多设备同步，粘贴一个只有 gist 权限的 GitHub token（每台设备填一次，可以用同一个）。进度存在私密 Gist “wortkarten-progress.json” 里，每个词按最后修改时间合并。
 - 旧的 claude.ai 版：https://claude.ai/artifact/938zwT5CUcFdC6ABjBGCte ，进度和上面的不互通。
