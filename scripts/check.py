@@ -68,6 +68,24 @@ try:
 except Exception as e:
     errors.append(f"docs/changelog.json 不是合法 JSON：{e}")
 
+# 语法课、听力（由 scripts/build_content.py 生成）
+for name, key in (("grammar", "ex"), ("listening", "q")):
+    try:
+        items = json.loads((R / f"docs/{name}.json").read_text(encoding="utf-8"))
+    except Exception as e:
+        errors.append(f"docs/{name}.json 不是合法 JSON：{e}")
+        continue
+    ids_ = [t.get("id") for t in items]
+    if len(ids_) != len(set(ids_)):
+        errors.append(f"docs/{name}.json 有重复 id")
+    for t in items:
+        if not t.get(key) or t.get("lv") not in ("A1", "A2", "B1", "B2"):
+            errors.append(f"docs/{name}.json {t.get('id')}：缺少题目或级别不对")
+        if re.search(r"<\s*script|javascript:|<[^>]*\son\w+\s*=", json.dumps(t, ensure_ascii=False), re.I):
+            errors.append(f"docs/{name}.json {t.get('id')}：内容里有脚本")
+        if name == "listening" and not (R / "docs/listen" / t.get("f", "?")).exists():
+            errors.append(f"听力 {t.get('id')}：音频文件 {t.get('f')} 不存在")
+
 # 页面脚本能解析
 html = (R / "docs/index.html").read_text(encoding="utf-8")
 scripts = re.findall(r"<script>(.*?)</script>", html, re.S)

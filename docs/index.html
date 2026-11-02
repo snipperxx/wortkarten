@@ -246,6 +246,89 @@ h3 { font: 600 16px var(--f-word); margin: 18px 0 8px; }
 .toast .btn { padding: 6px 12px; }
 @media (max-width: 520px) { .sum .row { grid-template-columns: 1.6em 1fr auto; } .sum .row .st { grid-row: 1; grid-column: 3; } .sum .row .m { grid-column: 2 / -1; } }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+/* 语法课、听力 */
+.lvtabs { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 12px; align-items: center; }
+.lvtabs button { border: 1px solid var(--line); background: var(--card); border-radius: 999px; padding: 7px 14px; display: inline-flex; gap: 8px; align-items: baseline; }
+.lvtabs button[aria-pressed="true"] { background: var(--ink); color: var(--card); border-color: var(--ink); }
+.lvtabs small { font: 500 11px var(--f-mono); opacity: .75; }
+.trow { display: grid; grid-template-columns: 2.6em minmax(0, 1fr) auto; gap: 2px 12px; padding: 11px 14px; border-top: 1px solid var(--line); align-items: baseline; cursor: pointer; }
+.trow:first-child { border-top: 0; }
+.trow:hover { background: var(--soft); }
+.trow .no { font: 500 12px var(--f-mono); color: var(--muted); }
+.trow .tt { font-weight: 500; min-width: 0; overflow-wrap: anywhere; }
+.trow .td { grid-column: 2 / -1; font: 14px var(--f-word); color: var(--muted); min-width: 0; overflow-wrap: anywhere; }
+.trow .st.done { color: var(--das); } .trow .st.part { color: var(--der); }
+.gsec { font: 600 13px var(--f-ui); color: var(--muted); margin: 18px 0 8px; }
+.hero { display: grid; gap: 10px; margin-bottom: 14px; }
+.hero .card { padding: 16px 20px; display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; }
+.hero .card .grow { flex: 1 1 260px; min-width: 0; }
+.hero b.big { font: 600 18px var(--f-word); }
+.backline { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; margin-bottom: 10px; }
+.backline .note { margin-left: auto; }
+.lesson { display: grid; gap: 14px; }
+.lesson h2 { font: 600 26px/1.25 var(--f-word); margin: 6px 0 2px; }
+.lesson .deu { font: 16px var(--f-word); color: var(--muted); margin-bottom: 8px; }
+@media (min-width: 1100px) {
+  .lesson { grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr); align-items: start; gap: 18px; }
+  .lesson .stick { position: sticky; top: 12px; max-height: calc(100vh - 24px); overflow-y: auto; }
+}
+.expl { font-size: 15.5px; }
+.expl h4 { font: 600 17px var(--f-word); margin: 20px 0 6px; }
+.expl p { margin: 8px 0; }
+.expl ul { margin: 6px 0; padding-left: 1.3em; display: grid; gap: 3px; }
+.expl table { border-collapse: collapse; margin: 8px 0; font-size: 14.5px; background: var(--card); }
+.expl th, .expl td { border: 1px solid var(--line); padding: 5px 10px; text-align: left; vertical-align: top; }
+.expl th { background: var(--soft); font-weight: 500; }
+.expl td { font-family: var(--f-word); }
+.expl .gx { display: grid; gap: 1px; margin: 6px 0; padding: 2px 0 2px 12px; border-left: 2px solid var(--line); }
+.expl .gx .de { font: 16.5px/1.5 var(--f-word); }
+.expl .gx .zh { color: var(--muted); font-size: 14px; }
+.expl mark, .gq mark { background: linear-gradient(transparent 55%, var(--marker) 55%); color: inherit; padding: 0 1px; }
+.expl .tip { margin: 10px 0; }
+.gq { font: 400 21px/1.75 var(--f-word); margin: 14px 0 6px; overflow-wrap: anywhere; }
+.gq .blank { display: inline-block; min-width: 3.2em; border-bottom: 2px solid var(--muted); text-align: center; line-height: 1.2; }
+.gq input { font: 600 19px var(--f-word); padding: 1px 6px; border: 0; border-bottom: 2px solid var(--muted); background: var(--soft); color: var(--ink); border-radius: 4px 4px 0 0; text-align: center; max-width: 100%; }
+.gq input.ok { border-color: var(--ok); color: var(--ok); } .gq input.bad { border-color: var(--bad); color: var(--bad); }
+.gq input.long { display: block; width: 100%; text-align: left; margin-top: 6px; }
+.tokens { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; min-height: 50px; align-items: center; }
+.tokens.ans { border-bottom: 2px dashed var(--line); padding-bottom: 10px; }
+.tokens button { font: 18px var(--f-word); border: 1px solid var(--line); background: var(--soft); border-radius: 8px; padding: 8px 12px; }
+.tokens.ans button { background: var(--card); border-color: var(--muted); }
+.tokens .ph { color: var(--muted); font-size: 14px; }
+.fbk { margin-top: 14px; padding: 10px 14px; border-radius: 0 8px 8px 0; background: var(--soft); display: grid; gap: 4px; font-size: 14.5px; }
+.fbk.ok { border-left: 3px solid var(--ok); } .fbk.bad { border-left: 3px solid var(--bad); }
+.fbk .r { font: 600 17px var(--f-word); }
+.fbk .zh { color: var(--muted); }
+.score { font: 600 44px var(--f-word); font-variant-numeric: tabular-nums; }
+.player { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin: 14px 0 6px; }
+.player .pp { width: 58px; height: 58px; border-radius: 50%; background: var(--ink); color: var(--card); border: 0; font-size: 20px; display: grid; place-items: center; flex: none; }
+.player .sm { border: 1px solid var(--line); background: var(--soft); border-radius: 8px; padding: 8px 12px; }
+.player .tm { font: 500 13px var(--f-mono); color: var(--muted); min-width: 6.5em; }
+.player select { font: inherit; background: var(--card); color: var(--ink); border: 1px solid var(--line); border-radius: 8px; padding: 7px 8px; }
+.seek { height: 6px; background: var(--line); border-radius: 3px; overflow: hidden; cursor: pointer; margin: 4px 0 10px; }
+.seek i { display: block; height: 100%; width: 0; background: var(--der); }
+.tr { display: grid; gap: 2px; }
+.tr .s { display: grid; grid-template-columns: 6.5em minmax(0, 1fr); gap: 0 10px; padding: 6px 8px; border-radius: 8px; cursor: pointer; }
+.tr .s:hover { background: var(--soft); }
+.tr .s.cur { background: color-mix(in srgb, var(--marker) 28%, transparent); }
+.tr .sp { font: 500 12px/1.9 var(--f-ui); color: var(--muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.tr .de { font: 17px/1.55 var(--f-word); }
+.tr .zh { grid-column: 2; color: var(--muted); font-size: 14px; }
+.tr.nozh .zh { display: none; }
+@media (max-width: 520px) { .tr .s { grid-template-columns: 1fr; } .tr .zh { grid-column: 1; } .tr .sp { line-height: 1.4; } }
+.lq { display: grid; gap: 18px; margin-top: 8px; }
+.lq .item { display: grid; gap: 8px; }
+.lq .stem { font: 17px/1.5 var(--f-word); }
+.lq .stem .n { font: 500 12px var(--f-mono); color: var(--muted); margin-right: 6px; }
+.lq .opts { margin-top: 0; }
+.lq .why { font-size: 14px; color: var(--muted); }
+.dict input { font: 18px var(--f-word); width: 100%; padding: 10px 12px; border: 1px solid var(--line); border-radius: 10px; background: var(--soft); color: var(--ink); }
+.dict .diff { font: 18px/1.6 var(--f-word); letter-spacing: 0; }
+.dict .diff .x { color: var(--bad); text-decoration: underline; }
+.links { display: grid; gap: 10px; }
+.links a { color: var(--der); font-weight: 500; }
+.opt.sel { border-color: var(--ink); box-shadow: inset 0 0 0 1px var(--ink); }
+@media (min-width: 1100px) { .narrow { display: none; } }
 </style>
 </head>
 <body>
@@ -253,7 +336,9 @@ h3 { font: 600 16px var(--f-word); margin: 18px 0 8px; }
   <header>
     <div class="brand"><span>Wortkarten</span></div>
     <nav id="nav">
-      <button data-v="learn" aria-current="page">学习</button>
+      <button data-v="learn" aria-current="page">单词</button>
+      <button data-v="grammar">语法</button>
+      <button data-v="listen">听力</button>
       <button data-v="place">摸底</button>
       <button data-v="browse">词库</button>
       <button data-v="stats">统计</button>
@@ -272,6 +357,7 @@ const GROUP = 10;                                      // 每 10 个词一组，
 const COMBO_TIERS = [5, 10, 30, 50, 100];              // 连对到这些数时提示一下
 const DECKS = {
   B1: { name: "B1 主线", test: w => w.lv === "B1" },
+  B2: { name: "B2 进阶", test: w => w.lv === "B2" },
   A12: { name: "A1–A2 查漏", test: w => w.lv === "A1" || w.lv === "A2" },
   JOB: { name: "求职 · IT · 办事", test: w => ["求职", "IT", "办事"].includes(w.lv) },
   ALL: { name: "全部", test: () => true },
@@ -284,7 +370,10 @@ const S = {
   prog: {},            // id -> [box, dueDay, lapses, 修改时间ms]
   settings: { deck: "B1", newPerDay: 20, rate: 0.95, voice: "", autoplay: true, autoNext: true, sfx: true, spellNew: true, spellReview: true, similar: true },
   settingsAt: 0,
-  daily: {},           // day -> { 设备id: {n: 新学, r: 复习} }
+  daily: {},           // day -> { 设备id: {n: 新学, r: 复习, g: 语法题, l: 听力篇} }
+  gram: {},            // 语法课 id -> {s: 最好成绩%, last: 上次%, n: 做过几遍, t: 修改时间}
+  gx: {},              // 做错的语法题 "g012.3" -> [盒, 到期日, 修改时间]
+  lis: {},             // 听力 id -> {s: 最好成绩%, last, d: 听写正确率%, t}
   resetAt: 0,
   view: "learn", session: null, place: null, lastAnswered: null,
   browse: { q: "", deck: "ALL", st: "", shown: 60 },
@@ -342,7 +431,7 @@ async function sayWord(w) {
 const PLAY = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9v6h4l5 4V5L8 9H4zm12.5 3a4.5 4.5 0 0 0-2.5-4v8a4.5 4.5 0 0 0 2.5-4zM14 3.2v2.1a7 7 0 0 1 0 13.4v2.1a9 9 0 0 0 0-17.6z"/></svg>';
 
 /* ---------- 本地存储 + 合并 ---------- */
-const snapshot = () => ({ v: 2, prog: S.prog, settings: S.settings, settingsAt: S.settingsAt, daily: S.daily, resetAt: S.resetAt });
+const snapshot = () => ({ v: 3, prog: S.prog, gram: S.gram, gx: S.gx, lis: S.lis, settings: S.settings, settingsAt: S.settingsAt, daily: S.daily, resetAt: S.resetAt });
 function upgradeDaily(daily) {          // v1 的 {n, r} → {legacy: {n, r}}
   const out = {};
   for (const [d, v] of Object.entries(daily || {})) out[d] = typeof v?.n === "number" ? { legacy: v } : v;
@@ -362,21 +451,30 @@ function merge(a, b) {
     for (const [d, devs] of Object.entries(src))
       for (const [dev, c] of Object.entries(devs || {})) {
         const cur = ((daily[d] = daily[d] || {})[dev] = daily[d][dev] || { n: 0, r: 0 });
-        cur.n = Math.max(cur.n, c.n || 0); cur.r = Math.max(cur.r, c.r || 0);
+        for (const [k, n] of Object.entries(c || {})) cur[k] = Math.max(cur[k] || 0, n || 0);
       }
+  // 语法 / 听力进度：每一项取修改时间更新的那份（和单词一样）
+  const keyed = (x, y, ts) => {
+    const out = {};
+    for (const src of [x || {}, y || {}])
+      for (const [k, v] of Object.entries(src)) { const t = ts(v) || 0; if (t < resetAt) continue; if (!out[k] || t > (ts(out[k]) || 0)) out[k] = v; }
+    return out;
+  };
   const newer = (b.settingsAt || 0) > (a.settingsAt || 0) ? b : a;
-  return { v: 2, prog, daily, resetAt, settings: { ...a.settings, ...newer.settings }, settingsAt: Math.max(a.settingsAt || 0, b.settingsAt || 0) };
+  return { v: 3, prog, daily, resetAt, gram: keyed(a.gram, b.gram, v => v.t), gx: keyed(a.gx, b.gx, v => v[2]), lis: keyed(a.lis, b.lis, v => v.t),
+    settings: { ...a.settings, ...newer.settings }, settingsAt: Math.max(a.settingsAt || 0, b.settingsAt || 0) };
 }
 function adopt(d) {
   const m = merge(snapshot(), d || {});
   S.prog = m.prog; S.daily = m.daily; S.resetAt = m.resetAt; S.settings = { ...S.settings, ...m.settings }; S.settingsAt = m.settingsAt;
+  S.gram = m.gram; S.gx = m.gx; S.lis = m.lis;
 }
 function saveLocal() { lsSet(LS, snapshot()); }
 function setProg(id, p) { S.prog[id] = [p[0], p[1], p[2] || 0, Date.now()]; }
 function setSetting(k, v) { S.settings[k] = v; S.settingsAt = Date.now(); touch(); }
 function touch() { saveLocal(); scheduleSync(); }
-const dayTotal = d => Object.values(S.daily[d] || {}).reduce((t, c) => ({ n: t.n + (c.n || 0), r: t.r + (c.r || 0) }), { n: 0, r: 0 });
-function bumpDaily(k) { const d = today(); const dev = ((S.daily[d] = S.daily[d] || {})[DEV] = S.daily[d][DEV] || { n: 0, r: 0 }); dev[k]++; }
+const dayTotal = d => Object.values(S.daily[d] || {}).reduce((t, c) => ({ n: t.n + (c.n || 0), r: t.r + (c.r || 0), g: t.g + (c.g || 0), l: t.l + (c.l || 0) }), { n: 0, r: 0, g: 0, l: 0 });
+function bumpDaily(k) { const d = today(); const dev = ((S.daily[d] = S.daily[d] || {})[DEV] = S.daily[d][DEV] || { n: 0, r: 0 }); dev[k] = (dev[k] || 0) + 1; }
 
 /* ---------- 多设备同步：私密 GitHub Gist ---------- */
 const GIST_FILE = "wortkarten-progress.json", GIST_DESC = "Wortkarten 学习进度（自动同步，勿删）";
@@ -749,7 +847,7 @@ function diffHTML(typed, right) {          // 拼错时标出写错 / 漏掉的�
 function wordLine(w, withArt = true) {
   return `<div class="word">${withArt && w.art ? `<span class="art ${w.art}">${w.art}</span>` : ""}<span>${esc(w.lemma)}</span><button type="button" class="play" data-act="say" aria-label="朗读">${PLAY}</button></div>`;
 }
-function streakDays() { const d = today(); let n = 0; for (let k = d; dayTotal(k).n + dayTotal(k).r > 0; k--) n++; return n; }
+function streakDays() { const d = today(); let n = 0; for (let k = d; Object.values(dayTotal(k)).some(x => x > 0); k--) n++; return n; }
 function learnHTML() {
   const s = S.session;
   const d = today(), td = dayTotal(d);
@@ -902,7 +1000,9 @@ function statsHTML() {
   const streak = streakDays();
   const fc = [...Array(7)].map((_, i) => Object.values(S.prog).filter(p => p[0] >= 1 && p[0] < KILL && (i === 0 ? p[1] <= d : p[1] === d + i)).length);
   const mx = Math.max(1, ...fc);
-  const order = ["A1", "A2", "B1", "求职", "IT", "办事"];
+  const order = ["A1", "A2", "B1", "B2", "求职", "IT", "办事"];
+  const gl = Object.values(S.gram), gok = gl.filter(g => g.s >= 80).length, gbook = Object.values(S.gx).filter(gxLive).length;
+  const ll = Object.values(S.lis), wk = [...Array(7)].map((_, i) => dayTotal(d - i)), wg = wk.reduce((a, x) => a + x.g, 0), wl = wk.reduce((a, x) => a + x.l, 0);
   return `<div class="grid-stats">
       <div class="stat"><div class="n">${learned}</div><div class="l">在学 + 已掌握</div></div>
       <div class="stat"><div class="n">${due}</div><div class="l">今天到期</div></div>
@@ -912,6 +1012,13 @@ function statsHTML() {
     <div class="tablebox"><table class="lvl"><thead><tr><th>等级</th><th>总数</th><th>在学</th><th>已掌握</th><th>未学</th></tr></thead><tbody>
     ${order.filter(k => lv[k]).map(k => `<tr><td>${k}</td><td>${lv[k].all}</td><td>${lv[k].learn}</td><td>${lv[k].known}</td><td>${lv[k].all - lv[k].learn - lv[k].known}</td></tr>`).join("")}
     </tbody></table></div>
+    <h3>语法和听力</h3>
+    <div class="grid-stats">
+      <div class="stat"><div class="n">${gok}<span class="note" style="font-size:14px"> / ${gl.length}</span></div><div class="l">语法课 掌握 / 学过${GR.length ? `（共 ${GR.length} 课）` : ""}</div></div>
+      <div class="stat"><div class="n">${gbook}</div><div class="l">错题本里在复习的题</div></div>
+      <div class="stat"><div class="n">${ll.filter(x => x.s != null).length}</div><div class="l">听过并答题的听力${LI.length ? `（共 ${LI.length} 篇）` : ""}</div></div>
+      <div class="stat"><div class="n">${wg} · ${wl}</div><div class="l">最近 7 天：语法题 · 听力篇</div></div>
+    </div>
     <h3>未来 7 天要复习的词</h3>
     <div class="fc">${fc.map((n, i) => `<div><span>${n}</span><i style="height:${Math.round(60 * n / mx)}px"></i><span>${i === 0 ? "今天" : "+" + i}</span></div>`).join("")}</div>
     <p class="sync" id="sync" style="margin-top:14px">${esc(syncState.text)}</p>`;
@@ -966,6 +1073,379 @@ function settingsHTML() {
   </div>`;
 }
 
+/* ---------- 语法课和听力共用 ---------- */
+const LEVELS = ["A1", "A2", "B1", "B2"];
+const LS_TABS = "wortkarten-tabs";
+const TABS = lsGet(LS_TABS, {});            // 语法 / 听力目录上次选的级别（只存本机）
+const UMLAUTS = `<div class="umlauts" style="margin-top:10px">${["ä", "ö", "ü", "ß", "Ä", "Ö", "Ü"].map(c => `<button type="button" data-ch="${c}">${c}</button>`).join("")}</div>`;
+let lastInput = null;                       // 变音字母按钮插到最后聚焦的输入框
+const normA = s => String(s).normalize("NFC").replace(/[’‘]/g, "'").replace(/[„“”]/g, '"').replace(/\s+/g, " ").replace(/\s+([,.!?;:])/g, "$1").trim().replace(/[.!?]+$/, "");
+function lazyJSON(url, set) {
+  let p = null;
+  return () => p = p || fetch(url, { cache: "no-cache" }).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); }).then(d => { set(d); render(); })
+    .catch(() => { p = null; const v = $("#view"); if (v) v.innerHTML = `<div class="card"><p>没加载出来，联网后再点一次上面的标签。</p></div>`; });
+}
+function lvTabs(list, cur, attr, done) {
+  return LEVELS.map(l => { const ts = list.filter(t => t.lv === l); if (!ts.length) return "";
+    return `<button type="button" ${attr}="${l}" aria-pressed="${l === cur}">${l}<small>${ts.filter(done).length}/${ts.length}</small></button>`; }).join("");
+}
+// 进入一课 / 一篇时记一条浏览历史，平板的返回手势能回到目录；在课与课之间切换时替换，不堆历史
+function navPush(state) {
+  if (history.state && (history.state.tid || history.state.lid)) history.replaceState(state, "");
+  else history.pushState(state, "");
+}
+function navBack() {
+  if (history.state && (history.state.tid || history.state.lid)) history.back();
+  else { GV.tid = null; GV.run = null; LV.id = null; lStop(); render(); window.scrollTo(0, 0); }
+}
+
+/* ---------- 语法课：讲解 + 练习；做错的题进错题本，1/3/7/15/30/60 天后再出 ---------- */
+const GBOX = [0, 1, 3, 7, 15, 30, 60];
+let GR = [], GRid = new Map();
+const loadGrammar = lazyJSON("grammar.json", d => { GR = d; GRid = new Map(d.map(t => [t.id, t])); });
+const GV = { tid: null, run: null };
+const gxLive = p => p[0] >= 1 && p[0] < GBOX.length;
+const gEx = key => { const [tid, i] = key.split("."); return GRid.get(tid)?.ex[+i]; };
+const gxDue = () => { const d = today(); return Object.entries(S.gx).filter(([k, p]) => gxLive(p) && p[1] <= d && gEx(k)); };
+const gDone = t => (S.gram[t.id]?.s || 0) >= 80;
+function gStat(t) {
+  const g = S.gram[t.id];
+  if (!g) return ["", "未学"];
+  return g.s >= 80 ? ["done", `✓ ${g.s}%`] : ["part", `${g.last ?? g.s}%`];
+}
+const fillGap = ex => ex.q.map((s, j) => s + (j < ex.a.length ? ex.a[j][0] : "")).join("");
+// 完整的正确句子（去掉句末括号里的提示词，比如 “(ein)”）
+const exText = ex => (ex.t === "mc" ? ex.q.replace("___", ex.o[0]) : ex.t === "gap" ? fillGap(ex) : ex.a[0]).replace(/\s*\([^)]*\)\s*$/, "");
+const newRun = (items, review, partial) => ({ items, review, partial, k: 0, right: 0, results: [], cur: null });
+function openTopic(tid, push = true) {
+  const t = GRid.get(tid); if (!t) return;
+  GV.tid = tid; GV.run = newRun(t.ex.map((_, i) => ({ tid, i })), false, false);
+  if (push) navPush({ v: "grammar", tid });
+  S.view = "grammar"; render(); window.scrollTo(0, 0);
+}
+function startReview() {
+  const items = gxDue().sort((a, b) => a[1][0] - b[1][0] || hash(a[0]) - hash(b[0])).slice(0, 30).map(([k]) => { const [tid, i] = k.split("."); return { tid, i: +i }; });
+  if (!items.length) return;
+  GV.tid = null; GV.run = newRun(shuffle(items), true, true);
+  render(); window.scrollTo(0, 0);
+}
+function gramHTML() {
+  if (!GR.length) { loadGrammar(); return `<div class="card"><p class="note">正在加载语法课…</p></div>`; }
+  if (GV.tid && GRid.has(GV.tid)) return lessonHTML();
+  if (GV.run?.review) return `<div class="backline"><button class="btn ghost" data-act="gback">← 语法目录</button></div>
+    <section class="card" id="practice" style="max-width:820px">${practiceHTML(GV.run)}</section>`;
+  return gramListHTML();
+}
+function gramListHTML() {
+  const lv = TABS.g || "A1";
+  const due = gxDue().length, inBook = Object.values(S.gx).filter(gxLive).length, td = dayTotal(today());
+  const nextT = GR.find(t => t.lv === lv && !S.gram[t.id]) || GR.find(t => !S.gram[t.id]);
+  const rows = GR.filter(t => t.lv === lv).map(t => { const [c, s] = gStat(t);
+    return `<div class="trow" data-topic="${t.id}"><span class="no">${t.no}</span><span class="tt">${esc(t.zh)}</span><span class="st ${c}">${s}</span><span class="td">${esc(t.de)}</span></div>`; }).join("");
+  return `<div class="hero">
+    ${nextT ? `<div class="card"><div class="grow"><div class="note">下一课 · ${nextT.lv} · 第 ${nextT.no} 课</div><b class="big">${esc(nextT.zh)}</b> <span class="note">${esc(nextT.de)}</span></div><button class="btn primary" data-topic="${nextT.id}">开始</button></div>` : ""}
+    <div class="card"><div class="grow"><div class="note">错题本 · 今天做了 ${td.g} 题</div><b class="big">${due ? `${due} 题到期` : "今天没有到期的错题"}</b> <span class="note">共 ${inBook} 题在复习</span></div>${due ? `<button class="btn primary" data-act="greview">复习错题</button>` : ""}</div>
+  </div>
+  <div class="lvtabs">${lvTabs(GR, lv, "data-glv", gDone)}</div>
+  <div class="list">${rows}</div>
+  <p class="note" style="margin-top:12px">${GR.length} 课，覆盖 A1–B2 考试要求的语法点。每课先读讲解再做练习，正确率 80% 以上算掌握；做错的题进错题本，1、3、7、15、30、60 天后再出。</p>`;
+}
+function lessonHTML() {
+  const t = GRid.get(GV.tid), i = GR.indexOf(t), prev = GR[i - 1], next = GR[i + 1];
+  return `<div class="backline"><button class="btn ghost" data-act="gback">← 语法目录</button>${prev ? `<button class="btn ghost" data-topic="${prev.id}">‹ 上一课</button>` : ""}${next ? `<button class="btn ghost" data-topic="${next.id}">下一课 ›</button>` : ""}<button class="btn ghost narrow" data-act="gtopractice">去做练习 ↓</button><span class="note">${t.lv} · 第 ${t.no} 课</span></div>
+  <div class="lesson"><article class="card expl"><h2>${esc(t.zh)}</h2><div class="deu">${esc(t.de)}</div>${t.html}</article>
+  <section class="card stick" id="practice">${practiceHTML(GV.run)}</section></div>`;
+}
+function curEx(r) {
+  if (r.cur && r.cur.k === r.k) return r.cur;
+  const it = r.items[r.k]; if (!it) return null;
+  const ex = GRid.get(it.tid).ex[it.i], c = { k: r.k, tid: it.tid, i: it.i, ex, done: false };
+  if (ex.t === "mc") c.opts = shuffle(ex.o.map((o, j) => ({ o, right: j === 0 })));
+  if (ex.t === "gap") c.vals = ex.a.map(() => "");
+  if (ex.t === "ord") { let p, n = 0; do p = shuffle(ex.w.map((w, j) => ({ w, j }))); while (n++ < 8 && ex.a.includes(p.map(x => x.w).join(" "))); c.pool = p; c.placed = []; }
+  return (r.cur = c);
+}
+const blankHTML = (q, fill) => esc(q).replace("___", fill ? `<mark>${esc(fill)}</mark>` : `<span class="blank">&nbsp;</span>`);
+function gapInput(c, j) {
+  const n = Math.max(...c.ex.a[j].map(x => x.length)), long = n > 16;
+  const st = c.done ? (c.ok?.[j] ? " ok" : " bad") : "";
+  return `<input data-gap="${j}" class="${long ? "long" : ""}${st}" size="${Math.max(3, n + 1)}" value="${esc(c.vals[j])}" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" enterkeyhint="done"${c.done ? " readonly" : ""} aria-label="第 ${j + 1} 个空">`;
+}
+function practiceHTML(r) {
+  if (!r || !r.items.length) return `<p class="note">这一课没有练习。</p>`;
+  if (r.k >= r.items.length) return gDoneHTML(r);
+  const c = curEx(r), ex = c.ex, a = c.done, t = GRid.get(c.tid);
+  let body = "";
+  if (ex.t === "mc") {
+    body = `<div class="gq">${blankHTML(ex.q, a ? ex.o[0] : "")}</div><div class="opts">${c.opts.map((o, j) => {
+      const st = a && o.right ? " ok" : a && c.pick === j ? " bad" : "";
+      return `<button type="button" class="opt de${st}" data-gopt="${j}"${a ? " disabled" : ""}><kbd>${j + 1}</kbd><span class="t">${esc(o.o)}</span><span class="mark">${a && o.right ? "✓" : a && c.pick === j ? "✗" : ""}</span></button>`; }).join("")}</div>`;
+  } else if (ex.t === "gap") {
+    body = `<div class="gq">${ex.q.map((s, j) => esc(s) + (j < ex.a.length ? gapInput(c, j) : "")).join("")}</div>${a ? "" : UMLAUTS}`;
+  } else {
+    body = `<div class="tokens ans">${c.placed.length ? c.placed.map((pj, j) => `<button type="button" data-unplace="${j}"${a ? " disabled" : ""}>${esc(c.pool[pj].w)}</button>`).join("") : `<span class="ph">按顺序点下面的词块</span>`}</div>
+      <div class="tokens">${c.pool.map((x, j) => c.placed.includes(j) ? "" : `<button type="button" data-place="${j}"${a ? " disabled" : ""}>${esc(x.w)}</button>`).join("")}</div>`;
+  }
+  let fbk = "";
+  if (a) {
+    const also = ex.t === "ord" && ex.a.length > 1 ? `<div class="zh">也可以：${ex.a.filter(x => x !== ex.a[0]).map(esc).join("；")}</div>` : "";
+    fbk = `<div class="fbk ${c.right ? "ok" : "bad"}"><div>${c.right ? `✓ 正确${c.caseNote ? "（注意大小写）" : ""}` : "✗ 正确答案："}</div>${!c.right || ex.t !== "mc" ? `<div class="r">${esc(exText(ex))}</div>` : ""}${also}${ex.z ? `<div class="zh">${esc(ex.z)}</div>` : ""}${ex.e ? `<div>${esc(ex.e)}</div>` : ""}</div>`;
+  }
+  const kind = ex.t === "mc" ? "选出正确的一项" : ex.t === "ord" ? "排出正确语序" : ex.a.length > 1 ? "填空（每个空都要填）" : "填空";
+  const foot = a ? `<div class="actions"><button type="button" class="btn primary" data-act="gnext">${r.k + 1 < r.items.length ? "下一题" : "看结果"}<kbd>Enter</kbd></button>${r.review ? `<button type="button" class="btn ghost" data-topic="${c.tid}">看这课讲解</button>` : ""}</div>`
+    : `<div class="actions">${ex.t !== "mc" ? `<button type="button" class="btn primary" data-act="gcheck">检查<kbd>Enter</kbd></button>` : `<span class="note kbhint">数字键 1–${c.opts.length} 作答</span>`}${ex.t === "ord" && c.placed.length ? `<button type="button" class="btn ghost" data-act="gclear">重排</button>` : ""}<span class="spacer"></span><button type="button" class="btn ghost" data-act="gskip">不会，看答案</button></div>`;
+  return `<div class="qtype">${r.review ? "错题复习" : "练习"} · ${r.k + 1}/${r.items.length}${r.review ? ` · <span class="lv">${t.lv}</span> ${esc(t.zh)}` : ""}<button type="button" class="fbbtn" data-act="gfb">纠错</button></div>
+    <div class="progress" style="margin:10px 0 0"><i style="width:${Math.round(100 * r.k / r.items.length)}%"></i></div>
+    <div class="note" style="margin-top:12px">${kind}</div>${body}${fbk}${foot}`;
+}
+function gDoneHTML(r) {
+  const n = r.items.length, pct = Math.round(100 * r.right / n), wrong = r.results.filter(x => !x.right);
+  const t = !r.review && GRid.get(r.items[0].tid), next = t && GR[GR.indexOf(t) + 1];
+  const list = wrong.map(x => { const ex = GRid.get(x.tid).ex[x.i];
+    return `<div class="trow" style="cursor:default"><span class="no" style="color:var(--bad)">✗</span><span class="tt" style="font:400 16px var(--f-word)">${esc(exText(ex))}</span><span></span>${ex.z ? `<span class="td" style="font-family:var(--f-ui)">${esc(ex.z)}</span>` : ""}</div>`; }).join("");
+  return `<div class="qtype">${r.review ? "错题复习完成" : r.partial ? "错题重做完成" : "练习完成"}</div>
+    <div class="score">${pct}%</div>
+    <p class="note">答对 ${r.right} / ${n} 题。${r.review || r.partial ? "" : pct >= 80 ? "这一课算掌握了。" : "80% 以上算掌握，可以再读一遍讲解后重做。"}${wrong.length ? "做错的题已放进错题本，明天开始复习。" : ""}</p>
+    ${list ? `<div class="list" style="margin-bottom:6px">${list}</div>` : ""}
+    <div class="actions">${wrong.length ? `<button class="btn primary" data-act="gredo">重做错题</button>` : ""}${!r.review ? `<button class="btn${wrong.length ? "" : " primary"}" data-act="gagain">整课再做一遍</button>` : ""}${next ? `<button class="btn" data-topic="${next.id}">下一课：${esc(next.zh)}</button>` : ""}${r.review && gxDue().length ? `<button class="btn primary" data-act="greview">继续复习</button>` : ""}<button class="btn ghost" data-act="gback">语法目录</button></div>`;
+}
+function rePractice(scroll) {
+  const el = $("#practice");
+  if (!el) return render();
+  el.innerHTML = practiceHTML(GV.run);
+  const inp = el.querySelector("[data-gap]:not([readonly])");
+  if (inp && !matchMedia("(pointer: coarse)").matches) inp.focus({ preventScroll: true });
+  if (scroll && el.getBoundingClientRect().top < 0) el.scrollIntoView({ block: "start" });
+}
+function gRecord(right, pick) {
+  const r = GV.run, c = curEx(r);
+  c.done = true; c.right = right; c.pick = pick;
+  if (right) r.right++;
+  r.results.push({ tid: c.tid, i: c.i, right });
+  const key = c.tid + "." + c.i, p = S.gx[key], d = today();
+  if (!right) S.gx[key] = [1, d + 1, Date.now()];
+  else if (p && gxLive(p) && p[1] <= d) { const b = p[0] + 1; S.gx[key] = [b, d + (GBOX[b] || 0), Date.now()]; }
+  bumpDaily("g"); sfx(right ? "ok" : "bad"); touch();
+  rePractice();
+}
+function gPick(j) { const r = GV.run, c = r && curEx(r); if (!c || c.done || c.ex.t !== "mc" || !c.opts[j]) return; gRecord(c.opts[j].right, j); }
+function gCheck() {
+  const r = GV.run, c = r && r.k < r.items.length && curEx(r); if (!c || c.done) return;
+  const ex = c.ex;
+  if (ex.t === "gap") {
+    document.querySelectorAll("#practice [data-gap]").forEach(el => { c.vals[+el.dataset.gap] = el.value; });
+    if (c.vals.every(v => !v.trim())) return;
+    c.ok = ex.a.map((alts, j) => {
+      const v = normA(c.vals[j]);
+      if (alts.some(x => normA(x) === v)) return true;
+      if (alts.some(x => normA(x).toLowerCase() === v.toLowerCase())) { c.caseNote = true; return true; }
+      return false;
+    });
+    return gRecord(c.ok.every(Boolean));
+  }
+  if (ex.t === "ord") {
+    if (c.placed.length < c.pool.length) return toast("还有词块没放进去");
+    const s = normA(c.placed.map(j => c.pool[j].w).join(" ")).toLowerCase();   // 句首大小写不算错
+    return gRecord(ex.a.some(x => normA(x).toLowerCase() === s));
+  }
+}
+function gSkip() { const r = GV.run, c = r && curEx(r); if (!c || c.done) return; if (c.ex.t === "gap") c.ok = c.ex.a.map(() => false); gRecord(false, -1); }
+function gNext() {
+  const r = GV.run; if (!r) return;
+  r.k++;
+  if (r.k >= r.items.length && !r.review && !r.partial) {
+    const tid = r.items[0].tid, g = S.gram[tid] || {}, pct = Math.round(100 * r.right / r.items.length);
+    S.gram[tid] = { s: Math.max(g.s || 0, pct), last: pct, n: (g.n || 0) + 1, t: Date.now() };
+    touch();
+    if (pct >= 80) setTimeout(() => sfx("combo"), 150);
+  }
+  rePractice(true);
+}
+function gFeedback() {
+  const r = GV.run, c = r && r.k < r.items.length ? curEx(r) : null;
+  const t = GRid.get(c ? c.tid : GV.tid); if (!t) return openFb();
+  openFb({ id: c ? `${t.id}e${c.i}` : t.id, lemma: `语法 ${t.no}「${t.zh}」${c ? `第 ${c.i + 1} 题` : "讲解"}`, zh: c ? exText(c.ex) : t.de, lv: t.lv });
+}
+
+/* ---------- 听力：整篇一个音频 + 每句的时间点；答题、原文（点句子跳播）、逐句听写 ---------- */
+let LI = [], LIid = new Map();
+const loadListen = lazyJSON("listening.json", d => { LI = d; LIid = new Map(d.map(t => [t.id, t])); });
+const LV = { id: null, mode: "q", ans: {}, qo: {}, checked: false, show: false, zh: true, di: 0, dv: "", dres: null, dsum: [], cur: -1 };
+let la = null, laStop = null, laRaf = 0;
+const fmtT = s => `${Math.floor(s / 60)}:${String(Math.floor(s % 60)).padStart(2, "0")}`;
+const lDone = t => S.lis[t.id]?.s != null;
+const rightK = q => q.t === "rf" ? (q.a ? 0 : 1) : 0;
+// 公开的免费听力资源（只放链接，不转存音频）
+const LINKS = [
+  ["DW Nicos Weg", "A1–B1", "德国之声的视频课，每集有练习和字幕", "https://learngerman.dw.com/de/nicos-weg/c-36519687"],
+  ["DW Top-Thema", "B1", "每周一篇慢速新闻稿 + 音频 + 生词 + 练习", "https://learngerman.dw.com/de/top-thema/s-55860767"],
+  ["DW Langsam gesprochene Nachrichten", "B2", "每天的慢速新闻（有原文）", "https://learngerman.dw.com/de/langsam-gesprochene-nachrichten/s-60040332"],
+  ["Goethe 考试模拟题", "A1–B2", "官方 Modellsätze，含听力音频和答案", "https://www.goethe.de/de/spr/kup/prf.html"],
+  ["tagesschau in 100 Sekunden", "B2+", "100 秒新闻，正常语速", "https://www.tagesschau.de/multimedia/sendung/tagesschau_in_100_sekunden"],
+  ["ZDF logo!", "B1–B2", "儿童新闻，用词简单、讲得清楚", "https://www.zdf.de/kinder/logo"],
+  ["Easy German（YouTube）", "A2–C1", "街头采访，德英双字幕", "https://www.youtube.com/@EasyGerman"],
+];
+function openLis(id, push = true) {
+  const t = LIid.get(id); if (!t) return;
+  lStop();
+  Object.assign(LV, { id, mode: "q", ans: {}, qo: {}, checked: false, show: false, di: 0, dv: "", dres: null, dsum: [], cur: -1 });
+  if (push) navPush({ v: "listen", lid: id });
+  S.view = "listen"; render(); window.scrollTo(0, 0);
+}
+function lAudio() {
+  const t = LIid.get(LV.id);
+  if (!la || la._id !== t.id) {
+    if (la) la.pause();
+    la = new Audio("listen/" + t.f); la._id = t.id; la.preload = "auto";
+    la.addEventListener("play", lTick); la.addEventListener("pause", lUpd); la.addEventListener("ended", lUpd); la.addEventListener("loadedmetadata", lUpd);
+  }
+  la.playbackRate = S.settings.lrate || 1;
+  return la;
+}
+function lTick() {
+  cancelAnimationFrame(laRaf);
+  if (!la || la.paused) return lUpd();
+  if (laStop != null && la.currentTime >= laStop) { la.pause(); laStop = null; return; }
+  lUpd();
+  laRaf = requestAnimationFrame(lTick);
+}
+function lUpd() {   // 只改播放器和高亮，不整页重绘
+  const t = LIid.get(LV.id);
+  if (!t || !la || la._id !== t.id || S.view !== "listen") return;
+  const x = la.currentTime;
+  let i = -1;
+  for (let j = 0; j < t.s.length; j++) if (t.s[j].a <= x + 0.05) i = j;
+  if (i !== LV.cur) { LV.cur = i; document.querySelectorAll("#ltr .s").forEach(el => el.classList.toggle("cur", +el.dataset.s === i)); }
+  const pp = $("#lpp"); if (pp) pp.textContent = la.paused ? "▶" : "❚❚";
+  const tm = $("#ltm"); if (tm) tm.textContent = `${fmtT(x)} / ${fmtT(t.dur)}`;
+  const sk = $("#lseek i"); if (sk) sk.style.width = Math.min(100, 100 * x / t.dur) + "%";
+}
+function lPlay(i, only, rate) {
+  const t = LIid.get(LV.id), a = lAudio();
+  if (i != null) { a.currentTime = Math.max(0, t.s[i].a - 0.05); laStop = only ? t.s[i].b + 0.12 : null; }
+  else laStop = null;
+  if (rate) a.playbackRate = rate;
+  a.play().catch(() => {});
+}
+function lToggle() {
+  const a = lAudio();
+  if (!a.paused) return a.pause();
+  if (a.ended || a.currentTime >= LIid.get(LV.id).dur - 0.3) a.currentTime = 0;
+  lPlay();
+}
+function lStep(d) { const t = LIid.get(LV.id); lPlay(Math.max(0, Math.min(t.s.length - 1, Math.max(0, LV.cur) + d)), false); }
+function lStop() { if (la) la.pause(); laStop = null; cancelAnimationFrame(laRaf); }
+function lisHTML() {
+  if (!LI.length) { loadListen(); return `<div class="card"><p class="note">正在加载听力材料…</p></div>`; }
+  if (LV.id && LIid.has(LV.id)) return lisTextHTML();
+  const lv = TABS.l || "A1";
+  const rows = LI.filter(t => t.lv === lv).map(t => { const p = S.lis[t.id];
+    const [c, s] = p?.s == null ? ["", p?.d != null ? `听写 ${p.d}%` : "未听"] : p.s >= 80 ? ["done", `✓ ${p.s}%`] : ["part", `${p.s}%`];
+    return `<div class="trow" data-lis="${t.id}"><span class="no">${t.kind}</span><span class="tt" style="font-family:var(--f-word)">${esc(t.de)}</span><span class="st ${c}">${s}</span><span class="td" style="font-family:var(--f-ui)">${esc(t.zh)} · ${fmtT(t.dur)}</span></div>`; }).join("");
+  const td = dayTotal(today()), mins = Math.round(LI.reduce((a, t) => a + t.dur, 0) / 60);
+  const nextT = LI.find(t => t.lv === lv && !S.lis[t.id]);
+  return `<div class="hero">${nextT ? `<div class="card"><div class="grow"><div class="note">下一篇 · ${nextT.lv} · ${nextT.kind} · 今天听了 ${td.l} 篇</div><b class="big">${esc(nextT.de)}</b> <span class="note">${esc(nextT.zh)}</span></div><button class="btn primary" data-lis="${nextT.id}">开始</button></div>` : ""}</div>
+    <div class="lvtabs">${lvTabs(LI, lv, "data-llv", lDone)}</div>
+    <div class="list">${rows || `<div class="trow"><span></span><span class="note">这个级别还没有材料</span></div>`}</div>
+    <p class="note" style="margin-top:12px">${LI.length} 篇，共约 ${mins} 分钟，题型参照 Goethe / telc 考试（判断正误、选择）。音频是微软神经网络语音合成的，每篇可以逐句重听、调语速、对照原文和中文、逐句听写。</p>
+    <h3>外面的免费听力（链接）</h3>
+    <div class="card links">${LINKS.map(([n, l, d, u]) => `<div><a href="${u}" target="_blank" rel="noopener">${esc(n)}</a> <span class="lv">${l}</span><div class="note">${esc(d)}</div></div>`).join("")}</div>`;
+}
+function lisTextHTML() {
+  const t = LIid.get(LV.id), p = S.lis[t.id], i = LI.indexOf(t), next = LI[i + 1];
+  const tabs = [["q", `答题 ${t.q.length}`], ["d", `逐句听写 ${t.s.length}`]].map(([k, v]) => `<button type="button" data-lmode="${k}" aria-pressed="${LV.mode === k}">${v}</button>`).join("");
+  const showTr = LV.show || LV.checked;
+  const tr = `<div class="tr${LV.zh ? "" : " nozh"}">${t.s.map((s, j) => `<div class="s${j === LV.cur ? " cur" : ""}" data-s="${j}"><span class="sp">${esc(t.sp[s.p] || s.p)}</span><span class="de">${esc(s.de)}</span>${s.zh ? `<span class="zh">${esc(s.zh)}</span>` : ""}</div>`).join("")}</div>`;
+  const vocab = t.v.length ? `<div class="sect" style="margin-top:18px">生词</div><div class="col">${t.v.map(([d, z]) => `<span class="g">${esc(d)}</span><span class="c">${esc(z)}</span>`).join("")}</div>` : "";
+  const side = showTr ? `<div class="qtype">原文 · 点一句从那里播放<button type="button" class="fbbtn" data-act="lzh">${LV.zh ? "隐藏中文" : "显示中文"}</button></div>${tr}${vocab}`
+    : `<div class="qtype">原文</div><p class="note">建议先只听、不看原文，把题答完再看（考试时只能听一到两遍）。听写模式每句检查后也会显示原文。</p><button type="button" class="btn" data-act="lshow">直接看原文</button>`;
+  return `<div class="backline"><button class="btn ghost" data-act="lback">← 听力目录</button>${next ? `<button class="btn ghost" data-lis="${next.id}">下一篇 ›</button>` : ""}<span class="note">${t.lv} · ${t.kind} · ${fmtT(t.dur)}${p?.s != null ? ` · 最好 ${p.s}%` : ""}</span></div>
+   <div class="lesson"><section class="card"><div class="qtype">${t.kind} <span class="lv">${t.lv}</span><button type="button" class="fbbtn" data-act="lfb">纠错</button></div>
+     <h2>${esc(t.de)}</h2><div class="deu" style="font-family:var(--f-ui)">${esc(t.zh)}</div>${t.intro ? `<p class="note" style="margin:4px 0 0">${esc(t.intro)}</p>` : ""}
+     <div class="player"><button type="button" class="pp" id="lpp" data-act="ltoggle" aria-label="播放或暂停">▶</button>
+       <button type="button" class="sm" data-act="lprev">‹ 上一句</button><button type="button" class="sm" data-act="lrep">↻ 这句</button><button type="button" class="sm" data-act="lnext">下一句 ›</button>
+       <select id="lrate" aria-label="语速">${[0.7, 0.8, 0.9, 1, 1.1, 1.2].map(v => `<option value="${v}"${v === (S.settings.lrate || 1) ? " selected" : ""}>${v}×</option>`).join("")}</select>
+       <span class="tm" id="ltm">0:00 / ${fmtT(t.dur)}</span><span class="note kbhint">空格 播放 / 暂停</span></div>
+     <div class="seek" id="lseek" title="点这里跳到对应位置"><i></i></div>
+     <div class="lvtabs" style="margin-top:8px">${tabs}</div>
+     <div id="lbody">${LV.mode === "q" ? lQuizHTML(t) : lDictHTML(t)}</div></section>
+   <aside class="card stick" id="ltr">${side}</aside></div>`;
+}
+function lQuizHTML(t) {
+  const ch = LV.checked;
+  const items = t.q.map((q, j) => {
+    const pick = LV.ans[j], rk = rightK(q);
+    const order = q.t === "rf" ? [0, 1] : (LV.qo[j] = LV.qo[j] || shuffle(q.o.map((_, k) => k)));
+    const label = k => q.t === "rf" ? ["richtig 正确", "falsch 错误"][k] : q.o[k];
+    const opts = order.map(k => { const st = ch ? (k === rk ? " ok" : pick === k ? " bad" : "") : pick === k ? " sel" : "";
+      return `<button type="button" class="opt${q.t === "mc" ? " de" : ""}${st}" data-lq="${j}" data-k="${k}"${ch ? " disabled" : ""}><span class="t">${esc(label(k))}</span><span class="mark">${ch && k === rk ? "✓" : ch && pick === k ? "✗" : ""}</span></button>`; }).join("");
+    return `<div class="item"><div class="stem"><span class="n">${j + 1}</span><span class="de">${esc(q.q)}</span></div><div class="opts${q.t === "rf" ? " two" : ""}">${opts}</div>${ch && q.e ? `<div class="why">${esc(q.e)}</div>` : ""}</div>`;
+  }).join("");
+  const n = Object.keys(LV.ans).length, next = LI[LI.indexOf(t) + 1];
+  let res = "";
+  if (ch) { const ok = t.q.filter((q, j) => LV.ans[j] === rightK(q)).length;
+    res = `<div class="fbk ${ok === t.q.length ? "ok" : "bad"}"><div class="r">${ok} / ${t.q.length} 题答对</div><div>原文已经显示出来了：点句子只听那一句，看看哪里没听出来。也可以接着做逐句听写。</div></div>`; }
+  return `<p class="note" style="margin:6px 0 0">${t.q.some(q => q.t === "rf") ? "判断正误（richtig / falsch）" : ""}${t.q.some(q => q.t === "rf") && t.q.some(q => q.t === "mc") ? "，" : ""}${t.q.some(q => q.t === "mc") ? "选出正确答案" : ""}。可以先看题再听。</p>
+    <div class="lq">${items}</div>${res}
+    <div class="actions">${ch ? `<button type="button" class="btn" data-act="lretry">重新答题</button><button type="button" class="btn" data-lmode="d">逐句听写</button>${next ? `<button type="button" class="btn primary" data-lis="${next.id}">下一篇</button>` : ""}`
+      : `<button type="button" class="btn primary" data-act="lcheck"${n < t.q.length ? " disabled" : ""}>检查答案（${n}/${t.q.length}）</button>`}</div>`;
+}
+function lCheck() {
+  const t = LIid.get(LV.id); if (!t || Object.keys(LV.ans).length < t.q.length) return;
+  LV.checked = true;
+  const ok = t.q.filter((q, j) => LV.ans[j] === rightK(q)).length, pct = Math.round(100 * ok / t.q.length), p = S.lis[t.id] || {};
+  S.lis[t.id] = { ...p, s: Math.max(p.s ?? 0, pct), last: pct, t: Date.now() };
+  bumpDaily("l"); sfx(pct >= 80 ? "combo" : "bad"); touch(); render();
+}
+// 听写：按词比较（不管大小写和标点），标出写错 / 漏掉的词
+function wordDiff(typed, right) {
+  const re = /[0-9A-Za-zÄÖÜäöüßÀ-ÿ]+(?:['-][0-9A-Za-zÄÖÜäöüßÀ-ÿ]+)*/g;
+  const A = (typed.match(re) || []).map(x => x.toLowerCase()), Bm = [...right.matchAll(re)], B = Bm.map(m => m[0].toLowerCase());
+  const n = A.length, m = B.length, L = Array.from({ length: n + 1 }, () => new Array(m + 1).fill(0));
+  for (let i = n - 1; i >= 0; i--) for (let j = m - 1; j >= 0; j--) L[i][j] = A[i] === B[j] ? L[i + 1][j + 1] + 1 : Math.max(L[i + 1][j], L[i][j + 1]);
+  const keep = new Set(); let i = 0, j = 0;
+  while (i < n && j < m) { if (A[i] === B[j]) { keep.add(j); i++; j++; } else if (L[i + 1][j] >= L[i][j + 1]) i++; else j++; }
+  let html = "", last = 0;
+  Bm.forEach((mm, k) => { html += esc(right.slice(last, mm.index)) + (keep.has(k) ? esc(mm[0]) : `<span class="x">${esc(mm[0])}</span>`); last = mm.index + mm[0].length; });
+  return { ok: keep.size, n: m, html: html + esc(right.slice(last)) };
+}
+function lDictHTML(t) {
+  const i = LV.di;
+  if (i >= t.s.length) {
+    const tot = LV.dsum.reduce((a, x) => a + (x?.[1] || 0), 0), ok = LV.dsum.reduce((a, x) => a + (x?.[0] || 0), 0), pct = tot ? Math.round(100 * ok / tot) : 0;
+    return `<div class="score">${pct}%</div><p class="note">听写完成：${t.s.length} 句，词的正确率 ${pct}%。</p><div class="actions"><button class="btn primary" data-act="ldrestart">从头再听写一遍</button></div>`;
+  }
+  const s = t.s[i], r = LV.dres;
+  return `<div class="dict"><div class="note" style="margin:10px 0">第 ${i + 1} / ${t.s.length} 句 · ${esc(t.sp[s.p] || "")} · 把听到的写下来（大小写和标点不算错）</div>
+    <div class="actions" style="margin:0 0 10px"><button type="button" class="btn" data-act="ldplay">▶ 播放这句</button><button type="button" class="btn ghost" data-act="ldslow">慢速 0.7×</button></div>
+    <input id="dict" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" enterkeyhint="done" value="${esc(LV.dv)}"${r ? " readonly" : ""} aria-label="听写这一句">
+    ${r ? `<div class="fbk ${r.ok === r.n ? "ok" : "bad"}"><div>${r.ok} / ${r.n} 个词对${r.ok < r.n ? "，标红的是写错或漏掉的词" : ""}</div><div class="diff">${r.html}</div>${s.zh ? `<div class="zh">${esc(s.zh)}</div>` : ""}</div>` : UMLAUTS}
+    <div class="actions">${r ? `<button type="button" class="btn primary" data-act="ldnext">下一句<kbd>Enter</kbd></button>` : `<button type="button" class="btn primary" data-act="ldcheck">检查<kbd>Enter</kbd></button><span class="spacer"></span><button type="button" class="btn ghost" data-act="ldskip">听不出来，看答案</button>`}</div></div>`;
+}
+function reL() { const el = $("#lbody"), t = LIid.get(LV.id); if (!el || !t) return render(); el.innerHTML = LV.mode === "q" ? lQuizHTML(t) : lDictHTML(t); }
+function ldCheck(skip) {
+  const t = LIid.get(LV.id), s = t?.s[LV.di]; if (!s || LV.dres) return;
+  LV.dv = skip ? "" : ($("#dict")?.value || "");
+  if (!skip && !LV.dv.trim()) return;
+  LV.dres = wordDiff(LV.dv, s.de); LV.dsum[LV.di] = [LV.dres.ok, LV.dres.n];
+  sfx(LV.dres.ok === LV.dres.n ? "ok" : "bad"); reL();
+}
+function ldNext() {
+  const t = LIid.get(LV.id); if (!t) return;
+  LV.di++; LV.dv = ""; LV.dres = null;
+  if (LV.di >= t.s.length) {
+    const tot = LV.dsum.reduce((a, x) => a + (x?.[1] || 0), 0), ok = LV.dsum.reduce((a, x) => a + (x?.[0] || 0), 0), p = S.lis[t.id] || {};
+    S.lis[t.id] = { ...p, d: tot ? Math.round(100 * ok / tot) : 0, t: Date.now() }; touch();
+  }
+  reL();
+  if (LV.di < t.s.length) { lPlay(LV.di, true); const inp = $("#dict"); if (inp && !matchMedia("(pointer: coarse)").matches) inp.focus({ preventScroll: true }); }
+}
+function lFeedback() {
+  const t = LIid.get(LV.id); if (!t) return openFb();
+  const s = LV.cur >= 0 ? t.s[LV.cur] : null;
+  openFb({ id: t.id, lemma: `听力「${t.de}」${s ? `第 ${LV.cur + 1} 句` : ""}`, zh: s ? s.de : t.zh, lv: t.lv });
+}
+
 /* ---------- 更新日志 ---------- */
 let changelog = [];
 const LS_LOGSEEN = "wortkarten-logseen";
@@ -983,9 +1463,11 @@ const FEEDBACK_URL = "https://wortkarten-feedback.snipperxx.workers.dev/feedback
 const FB_TYPES = ["释义不对", "例句或翻译有问题", "冠词/复数/变位不对", "发音不对", "功能建议", "其他"];
 const LS_OUTBOX = "wortkarten-outbox";
 const outbox = () => lsGet(LS_OUTBOX, []);
-let fb = null;   // {wordId, type, text, contact, sending, msg}
-function openFb(wordId) {
-  fb = { wordId: wordId || "", type: wordId ? FB_TYPES[0] : FB_TYPES[4], text: "", msg: "" };
+const CTX_TYPES = ["答案或题目不对", "讲解有误", "翻译有问题", "原文或发音有问题", "其他"];   // 语法题 / 听力的纠错
+let fb = null;   // {wordId, ctx, type, text, sending, msg}；ctx = 语法题或听力 {id, lemma, zh, lv}
+function openFb(arg) {
+  const ctx = arg && typeof arg === "object" ? arg : null, wordId = ctx ? "" : arg || "";
+  fb = { wordId, ctx, type: ctx ? CTX_TYPES[0] : wordId ? FB_TYPES[0] : FB_TYPES[4], text: "", msg: "" };
   renderFb();
 }
 function renderFb() {
@@ -993,10 +1475,10 @@ function renderFb() {
   if (!fb) { if (el) el.remove(); return; }
   if (!el) { el = document.createElement("div"); el.id = "fbsheet"; el.className = "overlay"; document.body.appendChild(el); }
   const w = fb.wordId && S.byId.get(fb.wordId);
-  const types = w ? FB_TYPES : FB_TYPES.slice(4);
+  const types = fb.ctx ? CTX_TYPES : w ? FB_TYPES : FB_TYPES.slice(4);
   el.innerHTML = `<div class="sheet" role="dialog" aria-modal="true" aria-labelledby="fbt">
-    <h3 id="fbt">${w ? `纠错：${w.art ? w.art + " " : ""}${esc(w.lemma)}` : "意见和建议"}</h3>
-    ${w ? `<p class="note" style="margin:0">现在显示的释义：${esc(w.zh)}</p>` : ""}
+    <h3 id="fbt">${fb.ctx ? `纠错：${esc(fb.ctx.lemma)}` : w ? `纠错：${w.art ? w.art + " " : ""}${esc(w.lemma)}` : "意见和建议"}</h3>
+    ${fb.ctx ? `<p class="note" style="margin:0">现在的内容：${esc(fb.ctx.zh)}</p>` : w ? `<p class="note" style="margin:0">现在显示的释义：${esc(w.zh)}</p>` : ""}
     <div class="chips">${types.map(t => `<button type="button" data-act="fbtype" data-t="${esc(t)}" aria-pressed="${t === fb.type}">${esc(t)}</button>`).join("")}</div>
     <label class="note" for="fbtext">具体哪里不对，或者你希望怎样（必填）</label>
     <textarea id="fbtext" maxlength="1000" placeholder="${w ? "例如：这里应该是 die，不是 der；或者：常用意思是……" : "例如：希望能按单元复习；平板横屏时按钮太小……"}">${esc(fb.text)}</textarea>
@@ -1020,9 +1502,11 @@ async function flushOutbox() {
 async function submitFb() {
   fb.text = ($("#fbtext")?.value || "").trim();
   if (fb.text.length < 2) { fb.msg = "写一两句具体哪里不对，我才好改。"; return renderFb(); }
-  const w = fb.wordId && S.byId.get(fb.wordId);
-  const item = { type: fb.type, text: fb.text, hp: $("#fbweb")?.value || "",
-    word: w ? { id: w.id, lemma: w.lemma, art: w.art || "", zh: w.zh, lv: w.lv } : null,
+  const w = fb.wordId && S.byId.get(fb.wordId), cx = fb.ctx;
+  // 反馈中转只认单词的几种类型：语法 / 听力的类型写进正文开头
+  const item = { type: cx ? (fb.type === "翻译有问题" ? "例句或翻译有问题" : fb.type === "原文或发音有问题" ? "发音不对" : "其他") : fb.type,
+    text: cx ? `[${fb.type}] ${fb.text}` : fb.text, hp: $("#fbweb")?.value || "",
+    word: w ? { id: w.id, lemma: w.lemma, art: w.art || "", zh: w.zh, lv: w.lv } : cx ? { id: cx.id, lemma: cx.lemma, art: "", zh: cx.zh, lv: cx.lv } : null,
     app: APP_VERSION, device: matchMedia("(pointer: coarse)").matches ? (Math.min(screen.width, screen.height) >= 700 ? "平板" : "手机") : "电脑", at: new Date().toISOString() };
   fb.sending = true; renderFb();
   try { await postFeedback(item); fb = null; renderFb(); toast("已发送，谢谢！改好后会写在“更新”页。"); }
@@ -1061,6 +1545,11 @@ function render() {
     v.innerHTML = learnHTML();
     const sp = $("#spell"); if (sp && !sp.readOnly) sp.focus({ preventScroll: true });
   }
+  else if (S.view === "grammar") {
+    v.innerHTML = gramHTML();
+    const inp = $("#practice [data-gap]:not([readonly])"); if (inp && !matchMedia("(pointer: coarse)").matches) inp.focus({ preventScroll: true });
+  }
+  else if (S.view === "listen") { v.innerHTML = lisHTML(); lUpd(); }
   else if (S.view === "place") v.innerHTML = placeHTML();
   else if (S.view === "browse") v.innerHTML = browseHTML();
   else if (S.view === "stats") v.innerHTML = statsHTML();
@@ -1069,6 +1558,9 @@ function render() {
 }
 function go(view) {
   clearTimeout(advTimer);
+  if (view !== "listen") lStop();
+  if (view === S.view && view === "grammar") { GV.tid = null; GV.run = null; }      // 再点一次标签回到目录
+  if (view === S.view && view === "listen") { LV.id = null; lStop(); }
   S.view = view;
   if (view === "learn") S.session = null;
   if (view === "place") S.place = null;
@@ -1076,13 +1568,65 @@ function go(view) {
   if (view === "learn") autoSay();
 }
 function next() { nextQ(); render(); window.scrollTo({ top: 0 }); autoSay(); }
+// 返回手势 / 浏览器后退：课文、听力页 → 目录
+window.addEventListener("popstate", e => {
+  const st = e.state || {};
+  lStop();
+  if (st.tid && GRid.has(st.tid)) return openTopic(st.tid, false);
+  if (st.lid && LIid.has(st.lid)) return openLis(st.lid, false);
+  GV.tid = null; if (!GV.run?.review) GV.run = null; LV.id = null;
+  if (S.view === "grammar" || S.view === "listen") { render(); window.scrollTo(0, 0); }
+});
 
 /* ---------- 事件 ---------- */
 document.addEventListener("click", e => {
   if (e.target.id === "fbsheet") { fb = null; return renderFb(); }          // 点弹窗外面关闭
   const row = e.target.closest(".row[data-word]");
   if (row && !e.target.closest("button")) return openWord(row.dataset.word);
+  // 语法 / 听力
+  const tp = e.target.closest("[data-topic]"); if (tp) return openTopic(tp.dataset.topic);
+  const lt = e.target.closest("[data-lis]"); if (lt) return openLis(lt.dataset.lis);
+  const sl = e.target.closest("#ltr .s[data-s]"); if (sl) return lPlay(+sl.dataset.s, false);
+  const sk = e.target.closest("#lseek");
+  if (sk) { const t = LIid.get(LV.id), a = lAudio(), b = sk.getBoundingClientRect(); a.currentTime = Math.max(0, Math.min(1, (e.clientX - b.left) / b.width)) * t.dur; lUpd(); return; }
   const t = e.target.closest("button"); if (!t) return;
+  const d = t.dataset;
+  if (d.glv) { TABS.g = d.glv; lsSet(LS_TABS, TABS); return render(); }
+  if (d.llv) { TABS.l = d.llv; lsSet(LS_TABS, TABS); return render(); }
+  if (d.gopt) return gPick(+d.gopt);
+  if (d.place || d.unplace) {
+    const c = GV.run && curEx(GV.run); if (!c || c.done) return;
+    if (d.place) c.placed.push(+d.place); else c.placed.splice(+d.unplace, 1);
+    return rePractice();
+  }
+  if (d.lq) { if (LV.checked) return; LV.ans[+d.lq] = +d.k; return reL(); }
+  if (d.lmode) { LV.mode = d.lmode; if (LV.mode === "d" && LV.dres == null && LV.di === 0) lStop(); return render(); }
+  const ga = d.act;
+  if (ga === "gback" || ga === "lback") return navBack();
+  if (ga === "greview") return startReview();
+  if (ga === "gtopractice") return $("#practice")?.scrollIntoView({ behavior: "smooth", block: "start" });
+  if (ga === "gcheck") return gCheck();
+  if (ga === "gnext") return gNext();
+  if (ga === "gskip") return gSkip();
+  if (ga === "gclear") { const c = curEx(GV.run); c.placed = []; return rePractice(); }
+  if (ga === "gredo") { const r = GV.run; GV.run = newRun(r.results.filter(x => !x.right).map(({ tid, i }) => ({ tid, i })), r.review, true); return rePractice(true); }
+  if (ga === "gagain") { const tid = GV.run.items[0].tid; GV.run = newRun(GRid.get(tid).ex.map((_, i) => ({ tid, i })), false, false); return rePractice(true); }
+  if (ga === "gfb") return gFeedback();
+  if (ga === "ltoggle") return lToggle();
+  if (ga === "lprev") return lStep(-1);
+  if (ga === "lnext") return lStep(1);
+  if (ga === "lrep") return lPlay(Math.max(0, LV.cur), true);
+  if (ga === "lshow") { LV.show = true; return render(); }
+  if (ga === "lzh") { LV.zh = !LV.zh; $("#ltr .tr")?.classList.toggle("nozh", !LV.zh); t.textContent = LV.zh ? "隐藏中文" : "显示中文"; return; }
+  if (ga === "lcheck") return lCheck();
+  if (ga === "lretry") { LV.ans = {}; LV.qo = {}; LV.checked = false; return render(); }
+  if (ga === "ldplay") return lPlay(LV.di, true);
+  if (ga === "ldslow") return lPlay(LV.di, true, 0.7);
+  if (ga === "ldcheck") return ldCheck(false);
+  if (ga === "ldskip") return ldCheck(true);
+  if (ga === "ldnext") return ldNext();
+  if (ga === "ldrestart") { LV.di = 0; LV.dv = ""; LV.dres = null; LV.dsum = []; reL(); return lPlay(0, true); }
+  if (ga === "lfb") return lFeedback();
   const fa = t.dataset.act;
   if (fa === "fb") return openFb(t.dataset.id);
   if (fa === "fbtype") { fb.text = $("#fbtext")?.value || ""; fb.type = t.dataset.t; return renderFb(); }
@@ -1097,11 +1641,14 @@ document.addEventListener("click", e => {
     if (S.view !== "learn") render();
     return;
   }
-  if (t.dataset.ch) {                 // 拼写：插入变音字母
-    const inp = $("#spell"); if (!inp || inp.readOnly) return;
+  if (t.dataset.ch) {                 // 拼写 / 填空 / 听写：插入变音字母
+    const inp = lastInput && document.contains(lastInput) && !lastInput.readOnly ? lastInput
+      : $("#spell:not([readonly])") || $("[data-gap]:not([readonly])") || $("#dict:not([readonly])");
+    if (!inp) return;
     const a0 = inp.selectionStart ?? inp.value.length, a1 = inp.selectionEnd ?? a0;
     inp.value = inp.value.slice(0, a0) + t.dataset.ch + inp.value.slice(a1);
     inp.focus(); inp.setSelectionRange(a0 + 1, a0 + 1);
+    inp.dispatchEvent(new Event("input", { bubbles: true }));
     return;
   }
   if (t.dataset.v) return go(t.dataset.v);
@@ -1134,7 +1681,7 @@ document.addEventListener("click", e => {
   else if (act === "syncnow") syncNow();
   else if (act === "syncoff") { syncCfg = {}; lsSet(LS_SYNC, syncCfg); setSyncState("", "已关闭同步：进度只存在这台设备上"); render(); }
   else if (act === "reset") { $("#resetbox").innerHTML = `<span class="note">确定清空？所有设备上的进度都会清空，无法撤销。</span><button class="btn" data-act="reset2" style="border-color:var(--bad);color:var(--bad)">确定清空</button><button class="btn ghost" data-act="cancel">取消</button>`; }
-  else if (act === "reset2") { S.prog = {}; S.daily = {}; S.resetAt = Date.now(); S.session = null; touch(); syncNow(); render(); }
+  else if (act === "reset2") { S.prog = {}; S.daily = {}; S.gram = {}; S.gx = {}; S.lis = {}; S.resetAt = Date.now(); S.session = null; touch(); syncNow(); render(); }
   else if (act === "cancel") render();
 });
 document.addEventListener("change", e => {
@@ -1147,15 +1694,32 @@ document.addEventListener("change", e => {
   else if (t.id === "svoice") setSetting("voice", t.value);
   else if (t.id === "sauto") setSetting("autoplay", t.checked);
   else if (t.id === "srate") setSetting("rate", +t.value);
+  else if (t.id === "lrate") { setSetting("lrate", +t.value); if (la) la.playbackRate = +t.value; }
 });
+document.addEventListener("focusin", e => { if (e.target.matches?.("#spell, [data-gap], #dict")) lastInput = e.target; });
 document.addEventListener("input", e => {
+  if (e.target.dataset?.gap != null) { const c = GV.run && GV.run.k < GV.run.items.length && curEx(GV.run); if (c && !c.done) c.vals[+e.target.dataset.gap] = e.target.value; }
+  if (e.target.id === "dict" && !LV.dres) LV.dv = e.target.value;
   if (e.target.id === "bq") { S.browse.q = e.target.value; S.browse.shown = 60; const pos = e.target.selectionStart; render(); const i = $("#bq"); i.focus(); i.setSelectionRange(pos, pos); }
   if (e.target.id === "srate") { const r = $("#ratev"); if (r) r.textContent = (+e.target.value).toFixed(2); }
 });
 document.addEventListener("keydown", e => {
   if ($("#fbsheet")) { if (e.key === "Escape") { fb = null; renderFb(); } return; }
   if (e.target.id === "spell" && e.key === "Enter") { e.preventDefault(); return checkSpell(); }
+  if (e.key === "Enter" && e.target.matches("[data-gap]")) { e.preventDefault(); const c = GV.run && curEx(GV.run); return c?.done ? gNext() : gCheck(); }
+  if (e.key === "Enter" && e.target.id === "dict") { e.preventDefault(); return LV.dres ? ldNext() : ldCheck(false); }
   if (e.target.matches("input, select, textarea") || e.ctrlKey || e.metaKey || e.altKey) return;
+  if (S.view === "grammar" && GV.run && GV.run.k < GV.run.items.length && (GV.tid || GV.run.review)) {
+    const c = curEx(GV.run);
+    if (!c.done && c.ex.t === "mc" && /^[1-4]$/.test(e.key) && +e.key <= c.opts.length) { e.preventDefault(); return gPick(+e.key - 1); }
+    if (e.key === "Enter") { e.preventDefault(); return c.done ? gNext() : gCheck(); }
+    return;
+  }
+  if (S.view === "listen" && LV.id) {
+    if (e.key === " ") { e.preventDefault(); return lToggle(); }
+    if (e.key === "Enter" && LV.mode === "d" && LV.dres) { e.preventDefault(); return ldNext(); }
+    return;
+  }
   if (S.view === "learn" && S.session?.summary) { if (e.key === "Enter") { e.preventDefault(); sumNext(); } return; }
   if (S.view === "learn" && S.session?.current) {
     const q = S.session.current;
@@ -1171,7 +1735,7 @@ document.addEventListener("keydown", e => {
 });
 
 /* ---------- 自动更新（和送报 App 一样：打开/切回前台时检查新版本） ---------- */
-const APP_VERSION = "2026-10-28.4";
+const APP_VERSION = "2026-11-02.1";
 if ("serviceWorker" in navigator && location.protocol === "https:") {
   navigator.serviceWorker.register("sw.js", { updateViaCache: "none" }).then(reg => {
     document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") reg.update().catch(() => {}); });

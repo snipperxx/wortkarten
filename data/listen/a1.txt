@@ -1,0 +1,198 @@
+=== l001 | A1 | 对话 | Im Café | 在咖啡馆点单
+intro: 一位顾客在咖啡馆点饮料和蛋糕。
+voices: K=Katja:Kellnerin, M=Conrad:Gast
+K: Guten Tag! Was darf es sein? // 您好！您要点什么？
+M: Guten Tag. Einen Kaffee, bitte. // 您好，请来一杯咖啡。
+K: Mit Milch und Zucker? // 加牛奶和糖吗？
+M: Nur mit Milch, bitte. Keinen Zucker. // 只加牛奶，不要糖。
+K: Gern. Möchten Sie auch etwas essen? Wir haben heute Apfelkuchen. // 好的。您还想吃点什么吗？我们今天有苹果蛋糕。
+M: Ja, ein Stück Apfelkuchen, bitte. Was kostet das zusammen? // 好，请来一块苹果蛋糕。一共多少钱？
+K: Der Kaffee kostet zwei Euro achtzig und der Kuchen drei Euro fünfzig. Das macht sechs Euro dreißig. // 咖啡两欧八十，蛋糕三欧五十，一共六欧三十。
+M: Kann ich mit Karte bezahlen? // 我可以刷卡吗？
+K: Ja, natürlich. // 当然可以。
+M: Hier, bitte. Und stimmt so. // 给您。不用找了。
+K: Vielen Dank! Ich bringe Ihnen alles sofort. // 非常感谢！我马上给您端过来。
+---
+! Der Gast möchte Tee. => falsch // 他点的是咖啡（Einen Kaffee, bitte）。
+! Der Gast nimmt Milch, aber keinen Zucker. => richtig // Nur mit Milch, bitte. Keinen Zucker.
+? Was isst der Gast? => Apfelkuchen | Käsekuchen | ein Brötchen // ein Stück Apfelkuchen
+? Wie viel kostet alles zusammen? => 6,30 € | 2,80 € | 3,50 € // Das macht sechs Euro dreißig.
+? Wie bezahlt der Gast? => mit Karte | bar | gar nicht // Kann ich mit Karte bezahlen? – Ja, natürlich.
++ Was darf es sein? // 您要点什么？（店员常用）
++ das Stück, -e // 块、份
++ Das macht … // 一共……（钱）
++ Stimmt so. // 不用找了。
+
+=== l002 | A1 | 广播 | Durchsage am Bahnhof | 火车站广播
+intro: 你在火车站，听到一条广播。
+voices: A=Amala:Durchsage
+A: Achtung an Gleis drei. // 三号站台请注意。
+A: Der Regionalexpress nach Stuttgart, planmäßige Abfahrt zehn Uhr fünfzehn, hat heute circa zwanzig Minuten Verspätung. // 开往斯图加特的区域快车，原定 10:15 发车，今天晚点约 20 分钟。
+A: Neue Abfahrtszeit: zehn Uhr fünfunddreißig. // 新的发车时间：10:35。
+A: Der Zug fährt heute ausnahmsweise von Gleis fünf ab. // 该列车今天临时改从五号站台发车。
+A: Ich wiederhole: Der Regionalexpress nach Stuttgart fährt heute von Gleis fünf. // 重复一遍：开往斯图加特的区域快车今天从五号站台发车。
+A: Wir bitten um Entschuldigung. // 给您带来不便，敬请原谅。
+---
+? Wohin fährt der Zug? => nach Stuttgart | nach Konstanz | nach Zürich // Der Regionalexpress nach Stuttgart
+? Wie viel Verspätung hat der Zug? => circa 20 Minuten | 15 Minuten | 35 Minuten // circa zwanzig Minuten Verspätung
+? Wann fährt der Zug jetzt ab? => um 10:35 Uhr | um 10:15 Uhr | um 10:20 Uhr // Neue Abfahrtszeit: zehn Uhr fünfunddreißig.
+! Der Zug fährt wie immer von Gleis drei. => falsch // 今天改从五号站台（Gleis fünf）发车。
++ das Gleis, -e // 站台、轨道
++ die Verspätung // 晚点
++ die Abfahrt // 出发、发车
++ ausnahmsweise // 例外地、临时
+
+=== l003 | A1 | 独白 | Ich stelle mich vor | 自我介绍
+intro: 一位新学员在德语课上做自我介绍。
+voices: L=Killian:Ahmed
+L: Hallo, ich heiße Ahmed. // 大家好，我叫艾哈迈德。
+L: Ich komme aus Ägypten, aus Kairo. // 我来自埃及开罗。
+L: Ich bin dreißig Jahre alt und wohne jetzt in Freiburg. // 我三十岁，现在住在弗莱堡。
+L: Ich bin verheiratet und habe eine Tochter. Sie ist vier Jahre alt. // 我结婚了，有一个女儿，她四岁。
+L: Von Beruf bin ich Ingenieur. // 我的职业是工程师。
+L: Zurzeit suche ich eine Stelle hier in Deutschland. // 我现在在德国这边找工作。
+L: Ich spreche Arabisch, Englisch und ein bisschen Deutsch. // 我会说阿拉伯语、英语和一点德语。
+L: In meiner Freizeit spiele ich gern Fußball und koche. // 业余时间我喜欢踢足球和做饭。
+L: Ich lerne Deutsch, denn ich möchte hier arbeiten. // 我学德语，因为我想在这里工作。
+---
+? Woher kommt Ahmed? => aus Ägypten | aus Freiburg | aus Marokko // Ich komme aus Ägypten, aus Kairo.
+? Wie alt ist er? => 30 | 13 | 40 // dreißig Jahre alt
+! Ahmed hat zwei Kinder. => falsch // Er hat eine Tochter.
+! Er arbeitet zurzeit als Ingenieur in Deutschland. => falsch // 他是工程师，但现在还在找工作（Zurzeit suche ich eine Stelle）。
+? Warum lernt Ahmed Deutsch? => Er möchte in Deutschland arbeiten. | Er hat eine deutsche Frau. | Er studiert in Freiburg. // denn ich möchte hier arbeiten
++ verheiratet // 已婚
++ von Beruf // 职业是
++ zurzeit // 目前
++ die Freizeit // 业余时间
+
+=== l004 | A1 | 电话 | Einen Termin beim Arzt machen | 打电话约医生
+intro: 一位病人打电话到诊所预约。
+voices: K=Katja:Praxis, M=Conrad:Herr Lin
+K: Praxis Doktor Becker, guten Morgen. // 贝克医生诊所，早上好。
+M: Guten Morgen, mein Name ist Lin. Ich möchte gern einen Termin machen. // 早上好，我姓林，我想预约。
+K: Was haben Sie denn? // 您哪里不舒服？
+M: Ich habe seit drei Tagen Halsschmerzen und Fieber. // 我嗓子疼、发烧三天了。
+K: Oh, das tut mir leid. Können Sie heute um elf Uhr kommen? // 哦，真遗憾。您今天 11 点能来吗？
+M: Um elf muss ich leider arbeiten. Geht es auch am Nachmittag? // 11 点我得上班。下午可以吗？
+K: Ja, um halb vier ist noch ein Termin frei. // 可以，三点半还有一个空位。
+M: Halb vier ist gut. // 三点半可以。
+K: Waren Sie schon einmal bei uns? // 您以前来过我们这儿吗？
+M: Nein, das ist das erste Mal. // 没有，这是第一次。
+K: Dann bringen Sie bitte Ihre Versichertenkarte mit. // 那请带上您的医保卡。
+M: Mache ich. Vielen Dank, auf Wiederhören! // 好的。非常感谢，再见！
+---
+? Was hat Herr Lin? => Halsschmerzen und Fieber | Kopfschmerzen | Bauchschmerzen // Ich habe seit drei Tagen Halsschmerzen und Fieber.
+? Wann kommt Herr Lin zum Arzt? => um 15:30 Uhr | um 11 Uhr | um 13:30 Uhr // halb vier = 15:30
+! Herr Lin war schon oft in der Praxis. => falsch // Das ist das erste Mal.
+? Was soll er mitbringen? => seine Versichertenkarte | seinen Pass | ein Foto // Bringen Sie bitte Ihre Versichertenkarte mit.
++ die Praxis // 诊所
++ der Termin, -e // 预约
++ die Versichertenkarte // 医保卡
++ auf Wiederhören // 再见（电话里用）
+
+=== l005 | A1 | 对话 | Auf dem Wochenmarkt | 在集市买菜
+intro: 一位女士在集市的蔬果摊买东西。
+voices: L=Killian:Verkäufer, S=Seraphina:Kundin
+L: Guten Morgen! Was bekommen Sie? // 早上好！您要点什么？
+S: Ich hätte gern ein Kilo Tomaten. // 我想要一公斤番茄。
+L: Gern. Sonst noch etwas? // 好的。还要别的吗？
+S: Was kosten die Äpfel? // 苹果多少钱？
+L: Ein Kilo kostet zwei Euro zwanzig. Die sind ganz frisch, aus der Region. // 一公斤两欧二十，非常新鲜，本地产的。
+S: Dann nehme ich zwei Kilo Äpfel. Haben Sie auch Erdbeeren? // 那我要两公斤苹果。你们也有草莓吗？
+L: Nein, leider nicht. Erdbeeren gibt es erst wieder im Mai. // 很遗憾没有，草莓要到五月才有。
+S: Schade. Dann noch eine Gurke, bitte. // 可惜。那再来一根黄瓜。
+L: Ein Kilo Tomaten, zwei Kilo Äpfel und eine Gurke. Das macht neun Euro zehn. // 一公斤番茄、两公斤苹果和一根黄瓜，一共九欧十分。
+S: Hier sind zehn Euro. // 给您十欧。
+L: Und neunzig Cent zurück. Schönes Wochenende! // 找您九十分。周末愉快！
+---
+? Wie viele Tomaten kauft die Frau? => ein Kilo | zwei Kilo | ein Pfund // ein Kilo Tomaten
+? Was kostet ein Kilo Äpfel? => 2,20 € | 2,00 € | 1,20 € // zwei Euro zwanzig
+! Es gibt heute Erdbeeren. => falsch // Erdbeeren gibt es erst wieder im Mai.
+? Wie viel Geld bekommt die Frau zurück? => 90 Cent | 1,90 € | 10 Cent // Und neunzig Cent zurück.
++ Ich hätte gern … // 我想要……（礼貌）
++ Sonst noch etwas? // 还要别的吗？
++ die Gurke, -n // 黄瓜
++ zurück // 找回（零钱）
+
+=== l006 | A1 | 留言 | Nachricht auf der Mailbox | 语音信箱留言
+intro: 你回家后听到朋友在你手机上的语音留言。
+voices: A=Amala:Julia
+A: Hallo Tim, hier ist Julia. // 嗨蒂姆，我是尤利娅。
+A: Du, am Samstag habe ich Geburtstag und ich mache eine kleine Party. // 跟你说，周六我过生日，我要办个小派对。
+A: Die Party beginnt um acht Uhr abends, bei mir zu Hause. // 派对晚上八点开始，在我家。
+A: Meine Adresse ist Bergstraße zwölf. // 我的地址是贝格街 12 号。
+A: Kannst du vielleicht einen Salat mitbringen? Getränke habe ich genug. // 你能带一份沙拉来吗？饮料我准备得够多了。
+A: Ruf mich bitte bis Donnerstag zurück. Meine Nummer ist null eins sieben drei, vier fünf sechs, sieben acht neun. // 请在周四之前给我回电话。我的号码是 0173 456 789。
+A: Bis dann, tschüss! // 回头见，拜拜！
+---
+? Warum ruft Julia an? => Sie lädt Tim zu ihrer Party ein. | Sie hat eine neue Adresse. | Sie ist krank. // am Samstag habe ich Geburtstag und ich mache eine kleine Party
+? Wann beginnt die Party? => Samstag um 20 Uhr | Samstag um 18 Uhr | Donnerstag um 20 Uhr // um acht Uhr abends（周六）
+? Was soll Tim mitbringen? => einen Salat | Getränke | einen Kuchen // Kannst du vielleicht einen Salat mitbringen?
+! Tim soll bis Donnerstag zurückrufen. => richtig // Ruf mich bitte bis Donnerstag zurück.
+? Wie ist Julias Adresse? => Bergstraße 12 | Bergstraße 20 | Burgstraße 12 // Bergstraße zwölf
++ der Geburtstag, -e // 生日
++ mitbringen // 带来
++ zurückrufen // 回电话
++ genug // 足够
+
+=== l007 | A1 | 对话 | Wo ist die Post? | 问路
+intro: 一位游客在街上问路。
+voices: S=Seraphina:Touristin, C=Conrad:Passant
+S: Entschuldigung, wo ist hier die Post? // 打扰一下，这附近的邮局在哪？
+C: Die Post? Gehen Sie hier geradeaus bis zur Ampel. // 邮局？您从这儿一直往前走到红绿灯。
+C: Dann gehen Sie nach links in die Bahnhofstraße. // 然后左转进入火车站街。
+S: Nach links, okay. // 左转，好的。
+C: Nach etwa hundert Metern ist die Post auf der rechten Seite, neben der Bank. // 大约一百米后，邮局在右手边，银行旁边。
+S: Ist das weit? Kann ich zu Fuß gehen? // 远吗？我可以走着去吗？
+C: Nein, nicht weit. Zu Fuß sind das ungefähr fünf Minuten. // 不远，走路大概五分钟。
+S: Super, vielen Dank! // 太好了，非常感谢！
+C: Gern geschehen. // 不客气。
+---
+? Wo muss die Frau zuerst hingehen? => geradeaus bis zur Ampel | nach rechts | zum Bahnhof // Gehen Sie hier geradeaus bis zur Ampel.
+? Wo ist die Post? => in der Bahnhofstraße, rechts | in der Bahnhofstraße, links | neben dem Bahnhof // auf der rechten Seite, neben der Bank
+! Die Post ist neben einer Bank. => richtig // neben der Bank
+? Wie lange geht man zu Fuß? => ungefähr 5 Minuten | 15 Minuten | eine halbe Stunde // ungefähr fünf Minuten
++ geradeaus // 直走
++ die Ampel, -n // 红绿灯
++ zu Fuß // 步行
++ Gern geschehen. // 不客气。
+
+=== l008 | A1 | 广播 | Durchsage im Kaufhaus | 商场广播
+intro: 你在一家商场购物，听到广播。
+voices: C=Conrad:Durchsage
+C: Liebe Kundinnen und Kunden, herzlich willkommen im Kaufhaus Sommer. // 亲爱的顾客们，欢迎光临索默百货。
+C: Heute haben wir ein besonderes Angebot: Alle Jacken und Mäntel sind zwanzig Prozent billiger. // 今天我们有特别优惠：所有夹克和大衣打八折。
+C: Sie finden die Jacken im zweiten Stock. // 夹克在三楼（德国的二层）。
+C: Im Erdgeschoss gibt es frisches Obst und Gemüse. // 底层有新鲜的水果和蔬菜。
+C: Unser Café im dritten Stock ist heute bis neunzehn Uhr geöffnet. // 我们四楼（德国的三层）的咖啡馆今天营业到 19 点。
+C: Wir wünschen Ihnen einen schönen Einkauf! // 祝您购物愉快！
+---
+? Was ist heute billiger? => Jacken und Mäntel | Schuhe | Obst und Gemüse // Alle Jacken und Mäntel sind zwanzig Prozent billiger.
+? Wo findet man die Jacken? => im zweiten Stock | im Erdgeschoss | im dritten Stock // im zweiten Stock
+! Im Erdgeschoss gibt es ein Café. => falsch // 底层是水果和蔬菜，咖啡馆在 dritter Stock。
+? Bis wann ist das Café geöffnet? => bis 19 Uhr | bis 18 Uhr | bis 20 Uhr // bis neunzehn Uhr
++ das Angebot, -e // 优惠、特价
++ der Stock // 楼层（德国的 1. Stock = 中国的二楼）
++ das Erdgeschoss // 底层、一楼
++ geöffnet // 开着、营业
+
+=== l009 | A1 | 对话 | Die neue Kollegin | 新同事
+intro: 公司里两位同事在茶水间第一次见面。
+voices: C=Conrad:Markus, A=Amala:Sara
+C: Hallo, bist du neu hier? // 你好，你是新来的吗？
+A: Ja, ich bin Sara. Ich arbeite seit Montag in der IT-Abteilung. // 是的，我叫萨拉，我从周一开始在 IT 部门工作。
+C: Willkommen! Ich bin Markus, ich bin im Marketing. // 欢迎！我是马库斯，在市场部。
+A: Freut mich. Wie lange arbeitest du schon hier? // 很高兴认识你。你在这里工作多久了？
+C: Schon fünf Jahre. Und woher kommst du? // 已经五年了。你是哪里人？
+A: Ich komme aus Köln, aber ich habe in München studiert. // 我是科隆人，不过在慕尼黑读的大学。
+C: Und wie gefällt dir die Firma? // 你觉得公司怎么样？
+A: Sehr gut! Die Kollegen sind nett, nur der Kaffee ist nicht so gut. // 很好！同事们都很好，就是咖啡不太好喝。
+C: Ha, das sagen alle! Komm, wir gehen zusammen in die Kantine. // 哈，大家都这么说！走，我们一起去食堂。
+---
+? Seit wann arbeitet Sara in der Firma? => seit Montag | seit fünf Jahren | seit einem Monat // seit Montag
+? In welcher Abteilung arbeitet Markus? => im Marketing | in der IT | im Einkauf // ich bin im Marketing
+! Sara hat in Köln studiert. => falsch // Sie kommt aus Köln, hat aber in München studiert.
+? Was findet Sara nicht so gut? => den Kaffee | die Kollegen | die Kantine // nur der Kaffee ist nicht so gut
++ die Abteilung, -en // 部门
++ Freut mich. // 很高兴认识你。
++ die Kantine, -n // 员工食堂

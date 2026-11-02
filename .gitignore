@@ -13,3 +13,6 @@ worker/node_modules/
 # 自动处理反馈时的临时文件
 .feedback/
 re/
+
+# 听力每句的原始音频（build_content.py 生成，拼好的在 docs/listen/）
+audio_listen/

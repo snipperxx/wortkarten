@@ -1,0 +1,698 @@
+=== g030 | A2 | 现在完成时：用 sein 还是 haben | Perfekt mit sein oder haben
+完成时 = **haben / sein（第二位） + 过去分词（句尾）**。大多数动词用 haben，下面这些用 **sein**：
+
+## 用 sein 的动词
+- **位置移动**（不带第四格宾语）：gehen, kommen, fahren, fliegen, laufen, reisen, steigen, umziehen, wandern, schwimmen*
+- **状态变化**：aufstehen, einschlafen, aufwachen, werden, wachsen, sterben, passieren, geschehen, gelingen
+- 特殊：**sein, bleiben**（Ich bin zu Hause geblieben.）
+» Ich **bin** um 7 Uhr aufgestanden. — 我 7 点起的床。
+» Was **ist** passiert? — 发生了什么事？
+» Er **ist** Vater geworden. — 他当爸爸了。
+
+## 用 haben 的动词
+- 带第四格宾语的（及物动词）：Ich **habe** einen Brief geschrieben.
+- 反身动词：Ich **habe** mich beeilt.
+- 情态动词、大多数“静止”动词：arbeiten, schlafen, sitzen*, stehen*, liegen*, wohnen
+» Ich **habe** acht Stunden geschlafen. — 我睡了八个小时。
+
+## 同一个动词，两种助动词
+fahren 表示“去 / 开往”用 sein，表示“驾驶某物”（带宾语）用 haben：
+» Wir **sind** nach Hamburg gefahren. — 我们去了汉堡。
+» Ich **habe** das Auto in die Garage gefahren. — 我把车开进了车库。
+> \* 南德、奥地利、瑞士口语里 sitzen, stehen, liegen 也用 sein（ich bin gesessen），标准德语和考试里用 haben。
+---
+? Wir ___ am Wochenende nach Köln gefahren. => sind | haben | hat // 我们周末去了科隆。 // 移动 → sein
+? Ich ___ heute sehr früh aufgestanden. => bin | habe | hat // 我今天起得很早。 // 状态变化（起床）→ sein
+? Er ___ den ganzen Tag gearbeitet. => hat | ist | haben // 他工作了一整天。 // arbeiten → haben
+? Was ___ denn passiert? => ist | hat | sind // 发生什么事了？ // passieren → sein
+? Wie lange ___ du in Berlin geblieben? => bist | hast | ist // 你在柏林待了多久？ // bleiben → sein
+? Gestern ___ ich lange geschlafen. => habe | bin | hat // 我昨天睡了很久。 // schlafen 是静止 → haben
+? Sie ___ letztes Jahr nach Hamburg umgezogen. => ist | hat | haben // 她去年搬到了汉堡。 // umziehen（搬家）→ sein
+? Ich ___ meinen Freund zum Flughafen gefahren. => habe | bin | hat // 我开车送朋友去了机场。 // 带第四格宾语（meinen Freund）→ haben
+? Mein Opa ___ letztes Jahr gestorben. => ist | hat | war // 我爷爷去年去世了。 // sterben → sein
+= Ich [bin] spät [eingeschlafen]. (einschlafen) // 我睡得很晚。 // einschlafen → ist eingeschlafen
+= Wir [sind] zwei Stunden [gewandert]. (wandern) // 我们徒步了两个小时。 // wandern → ist gewandert
+= Sie [ist] Ärztin [geworden]. (werden) // 她成了医生。 // werden → ist geworden
+= Ich [habe] mich [beeilt]. (sich beeilen) // 我赶紧了。 // 反身动词 → haben
+
+=== g031 | A2 | 过去分词的构成 | Partizip II: trennbar, untrennbar, -ieren
+## 规则动词：ge- + 词干 + -(e)t
+machen → **ge**mach**t**，arbeiten → **ge**arbeit**et**，öffnen → **ge**öffn**et**
+
+## 不规则动词：ge- + （常变元音的）词干 + -en
+schreiben → geschrieben，finden → gefunden，trinken → getrunken，helfen → geholfen，nehmen → genommen，sprechen → gesprochen，gehen → gegangen，stehen → gestanden，sitzen → gesessen，liegen → gelegen，bringen → **gebracht**，denken → **gedacht**，wissen → **gewusst**，kennen → **gekannt**（混合变化：变元音但词尾 -t）
+
+## 可分动词：前缀 + ge + 分词
+| 不定式 | 过去分词 |
+|---|---|
+| einkaufen | ein==ge==kauft |
+| aufstehen | auf==ge==standen |
+| anrufen | an==ge==rufen |
+| mitbringen | mit==ge==bracht |
+| fernsehen | fern==ge==sehen |
+
+## 不可分动词：没有 ge-
+前缀 be-, ge-, er-, ver-, zer-, ent-, emp-, miss-：
+besuchen → **besucht**，verstehen → **verstanden**，erklären → **erklärt**，bekommen → **bekommen**，vergessen → **vergessen**，gefallen → **gefallen**
+
+## -ieren 结尾的动词：没有 ge-
+studieren → **studiert**，telefonieren → **telefoniert**，reparieren → **repariert**，passieren → **passiert**
+> 重音规律：分词要加 ge- 的动词，重音都在**第一个音节或可分前缀上**；不在第一音节的（be**such**en, stu**dier**en）就不加 ge-。
+---
+= Ich habe gestern [eingekauft]. (einkaufen) // 我昨天买了东西。 // 可分：ein + ge + kauft
+= Hast du deine Mutter [angerufen]? (anrufen) // 你给你妈妈打电话了吗？ // an + ge + rufen
+= Wir haben unsere Großeltern [besucht]. (besuchen) // 我们去看了祖父母。 // be- 不可分，没有 ge-
+= Er hat in Heidelberg Informatik [studiert]. (studieren) // 他在海德堡读了计算机。 // -ieren 动词没有 ge-
+= Ich habe das nicht [verstanden]. (verstehen) // 我没听懂。 // ver- 不可分：verstanden
+= Sie hat mir eine E-Mail [geschrieben]. (schreiben) // 她给我写了封邮件。 // 不规则：geschrieben
+= Was hast du zur Party [mitgebracht]? (mitbringen) // 你带了什么去派对？ // bringen → gebracht
+= Der Mechaniker hat das Auto [repariert]. (reparieren) // 修车工把车修好了。 // -ieren：repariert
+= Ich habe meinen Schlüssel [vergessen]. (vergessen) // 我忘带钥匙了。 // ver- + 不规则：vergessen
+= Das habe ich nicht [gewusst]. (wissen) // 这个我不知道。 // wissen → gewusst（混合变化）
+= Ich habe den ganzen Abend [ferngesehen]. (fernsehen) // 我看了一晚上电视。 // fern + ge + sehen
+? Hast du die Tür ___? (öffnen) => geöffnet | geöffnen | öffnet // 你开门了吗？ // 词干以 -n 结尾（öffn-）加 -et
+? Ich habe an dich ___. (denken) => gedacht | gedenkt | gedenken // 我想你了。 // denken → gedacht
+
+=== g032 | A2 | 情态动词的过去式 | Präteritum der Modalverben
+讲过去时，情态动词通常**不用完成时，而用过去式**：去掉变音，加 **-te**。
+
+| | können | müssen | wollen | dürfen | sollen | mögen |
+|---|---|---|---|---|---|---|
+| ich | konn==te== | muss==te== | woll==te== | durf==te== | soll==te== | moch==te== |
+| du | konntest | musstest | wolltest | durftest | solltest | mochtest |
+| er/sie/es | konnte | musste | wollte | durfte | sollte | mochte |
+| wir | konnten | mussten | wollten | durften | sollten | mochten |
+| ihr | konntet | musstet | wolltet | durftet | solltet | mochtet |
+| sie/Sie | konnten | mussten | wollten | durften | sollten | mochten |
+
+**möchten 没有过去式**，过去的愿望用 **wollte**：Ich möchte … → Ich **wollte** …
+
+» Gestern **musste** ich lange arbeiten. — 我昨天得工作很久。
+» Als Kind **durfte** ich nicht allein Bus fahren. — 小时候我不许一个人坐公交。
+» Ich **wollte** dich anrufen, aber ich **konnte** nicht. — 我本想给你打电话，可是没办法。
+> ich 和 er 形式一样，都没有词尾：ich konnte / er konnte。句框不变：情态动词第二位，不定式句尾。
+---
+= Gestern [musste] ich zum Zahnarzt gehen. (müssen) // 我昨天得去看牙医。 // ich musste
+= Als Kind [konnte] ich nicht schwimmen. (können) // 小时候我不会游泳。 // ich konnte
+= Wir [wollten] ins Kino gehen, aber es war zu spät. (wollen) // 我们想去看电影，但太晚了。 // wir wollten
+= [Durftest] du als Kind lange fernsehen? (dürfen) // 你小时候可以看很久电视吗？ // du durftest
+= Der Arzt sagte, ich [sollte] mehr schlafen. (sollen) // 医生说我应该多睡觉。 // ich sollte
+= Früher [mochte] ich keinen Fisch. (mögen) // 我以前不喜欢吃鱼。 // mögen → mochte
+= Ihr [konntet] die Aufgabe gut lösen. (können) // 你们把题解得很好。 // ihr konntet
+? Letzte Woche ___ er nicht arbeiten, er war krank. => konnte | könnte | kann // 上周他不能上班，他病了。 // 过去：konnte（könnte 是虚拟式）
+? Ich ___ eigentlich einen Kaffee, aber die Maschine war kaputt. => wollte | möchtete | möchte // 我本来想喝咖啡，可是机器坏了。 // möchten 没有过去式 → wollte
+? Warum ___ du so früh gehen? => musstest | müsstest | musst // 你为什么那么早就得走？ // 过去：du musstest
+~ Ich / konnte / gestern / leider / nicht / kommen. // 我昨天很遗憾没能来。 // konnte 第二位，kommen 句尾。
+
+=== g033 | A2 | 双向介词 | Wechselpräpositionen
+这 9 个介词有时接第三格，有时接第四格：
+**an, auf, hinter, in, neben, über, unter, vor, zwischen**
+
+| 问题 | 意思 | 格 | 例句 |
+|---|---|---|---|
+| **Wo?** | 在哪里（静止、位置） | **第三格** | Das Buch liegt auf ==dem== Tisch. |
+| **Wohin?** | 往哪里（方向、移动到） | **第四格** | Ich lege das Buch auf ==den== Tisch. |
+
+## 各个介词的意思
+| 介词 | 意思 | Wo? | Wohin? |
+|---|---|---|---|
+| in | 在……里 | im Büro | ins Büro |
+| an | 在……边上 / 贴着（竖直面、水边） | an der Wand, am Fenster | an die Wand |
+| auf | 在……上面（贴着平面） | auf dem Tisch | auf den Tisch |
+| über | 在……上方（不接触） | über dem Sofa | über das Sofa |
+| unter | 在……下面 | unter dem Bett | unter das Bett |
+| vor | 在……前面 | vor dem Haus | vor das Haus |
+| hinter | 在……后面 | hinter der Tür | hinter die Tür |
+| neben | 在……旁边 | neben dem Bahnhof | neben den Bahnhof |
+| zwischen | 在……之间 | zwischen den Häusern | zwischen die Häuser |
+
+## 缩合
+in + dem = im，in + das = ins，an + dem = am，an + das = ans
+» Ich gehe **ins** Kino. Ich bin **im** Kino. — 我去电影院 / 我在电影院。
+» Wir fahren **ans** Meer. Wir sind **am** Meer. — 我们去海边 / 我们在海边。
+> 判断方法：动作有没有“移到某处”的方向？有 → 第四格；只描述位置或在某处做事 → 第三格。Ich arbeite **im** Garten（在花园里干活，没有移入）。
+---
+? Die Katze schläft unter ___ Bett. => dem | das | den // 猫在床底下睡觉。 // Wo? → 第三格：das Bett → dem
+? Ich lege das Handy auf ___ Tisch. => den | dem | der // 我把手机放到桌上。 // Wohin? → 第四格：der Tisch → den
+? Wir gehen heute Abend ___ Theater. => ins | im | in dem // 我们今晚去剧院。 // Wohin? in + das = ins
+? Das Bild hängt an ___ Wand. => der | die | den // 画挂在墙上。 // Wo? 第三格：die Wand → der
+? Er hängt das Bild an ___ Wand. => die | der | dem // 他把画挂到墙上。 // Wohin? 第四格：die Wand → die
+? Ich warte vor ___ Kino auf dich. => dem | das | den // 我在电影院门口等你。 // Wo? 第三格
+? Das Auto steht zwischen ___ Bäumen. => den | die | der // 车停在两棵树之间。 // Wo? 复数第三格 den Bäumen
+? Im Sommer fahren wir ___ Meer. => ans | am | an dem // 夏天我们去海边。 // Wohin? an + das = ans
+? Die Lampe hängt über ___ Esstisch. => dem | den | der // 灯挂在餐桌上方。 // Wo? 第三格
+? Stell die Flaschen bitte in ___ Kühlschrank. => den | dem | der // 请把瓶子放进冰箱。 // Wohin? der Kühlschrank → den
+= Ich sitze gern [am] Fenster. (an + dem) // 我喜欢坐在窗边。 // Wo? an + dem = am
+= Die Kinder spielen [im] Garten. (in + dem) // 孩子们在花园里玩。 // 在某处做事 → Wo? → im
+
+=== g034 | A2 | 放置动词：stellen / stehen, legen / liegen … | Positionsverben
+德语区分“**放**”（动作，带第四格宾语，问 wohin）和“**在**”（状态，问 wo）。
+
+| 动作：放（wohin? + 第四格） | 状态：在（wo? + 第三格） | 用于 |
+|---|---|---|
+| **stellen** – stellte – hat gestellt | **stehen** – stand – hat gestanden | 竖着放：瓶子、书架上的书、家具 |
+| **legen** – legte – hat gelegt | **liegen** – lag – hat gelegen | 平放：手机、钥匙、躺着的东西 |
+| **setzen** – setzte – hat gesetzt | **sitzen** – saß – hat gesessen | 坐 / 让人坐 |
+| **hängen** – hängte – hat gehängt | **hängen** – hing – hat gehangen | 挂 |
+| **(sich) setzen / legen** | sitzen / liegen | 人自己坐下 / 躺下 |
+
+» Ich **stelle** die Vase **auf den** Tisch. → Die Vase **steht auf dem** Tisch.
+» Ich **lege** das Handy **auf das** Sofa. → Das Handy **liegt auf dem** Sofa.
+» Er **setzt** sich **auf den** Stuhl. → Er **sitzt auf dem** Stuhl.
+» Sie **hängt** die Jacke **in den** Schrank. → Die Jacke **hängt im** Schrank.
+
+## 记忆
+- 动作动词是**规则变化**（stellte, gestellt），状态动词是**不规则变化**（stand, gestanden）。
+- 动作动词 + **第四格**，状态动词 + **第三格**（配合双向介词）。
+> stecken（插、塞）也一样：Ich stecke den Schlüssel ins Schloss. → Der Schlüssel steckt im Schloss.
+---
+? Wohin ___ du die Bücher? – Ins Regal. => stellst | stehst | liegst // 你把书放哪？——放书架上。 // 动作 + 竖放 → stellen
+? Die Bücher ___ im Regal. => stehen | stellen | legen // 书在书架上。 // 状态 → stehen
+? Ich ___ den Schlüssel auf den Tisch. => lege | liege | stelle // 我把钥匙放到桌上。 // 平放的动作 → legen
+? Wo ist mein Handy? – Es ___ auf dem Sofa. => liegt | legt | steht // 我的手机在哪？——在沙发上。 // 平放的状态 → liegen
+? Er ___ sich neben mich. => setzt | sitzt | sitzen // 他坐到我旁边。 // 坐下的动作 → sich setzen
+? Wir ___ schon seit einer Stunde im Wartezimmer. => sitzen | setzen | sitzt // 我们在候诊室已经坐了一个小时。 // 状态 → sitzen
+? Ich habe das Bild an die Wand ___. => gehängt | gehangen | hängt // 我把画挂到了墙上。 // 动作 hängen 是规则变化：gehängt
+? Das Bild hat lange an der Wand ___. => gehangen | gehängt | gehängen // 这幅画在墙上挂了很久。 // 状态 hängen 不规则：gehangen
+= Stell die Milch bitte in [den] Kühlschrank. // 请把牛奶放进冰箱。 // stellen → wohin? → 第四格 den
+= Die Milch steht [im] Kühlschrank. (in + dem) // 牛奶在冰箱里。 // stehen → wo? → 第三格：in + dem = im
+= Wo hast du das Auto [geparkt]? Es [steht] vor dem Haus. // 你车停哪了？——在房子前面。 // 车“停着”在德语里用 stehen
+
+=== g035 | A2 | 只接第三格 / 只接第四格的介词 | Präpositionen mit Dativ oder Akkusativ
+## 永远接第三格
+**aus, bei, mit, nach, seit, von, zu, gegenüber, ab**
+（口诀：aus-bei-mit-nach-seit-von-zu）
+» Ich fahre **mit dem** Bus. — 我坐公交车。
+» Nach **dem** Essen gehen wir spazieren. — 饭后我们去散步。
+» Das Geschenk ist **von meiner** Schwester. — 礼物是我姐姐送的。
+» Seit **einem** Jahr lerne ich Deutsch. — 我学德语一年了。
+» Die Apotheke ist **gegenüber dem** Bahnhof. — 药店在火车站对面。
+
+## 永远接第四格
+**durch, für, gegen, ohne, um, bis, entlang**（口诀：DOGFU：durch, ohne, gegen, für, um）
+» Wir gehen **durch den** Park. — 我们穿过公园。
+» Das ist ein Geschenk **für dich**. — 这是给你的礼物。
+» Ich trinke Kaffee **ohne** Zucker. — 我喝咖啡不加糖。
+» Wir sitzen **um den** Tisch. — 我们围着桌子坐。
+» Er ist **gegen den** Baum gefahren. — 他开车撞上了树。
+
+## 常见缩合
+zu + dem = zum，zu + der = zur，von + dem = vom，bei + dem = beim，durch + das = durchs，für + das = fürs，um + das = ums
+> mit 和 ohne 是一对反义词，却接不同的格：mit **dem** Auto / ohne **das** Auto。
+---
+? Ich fahre jeden Tag mit ___ Fahrrad zur Arbeit. => dem | das | den // 我每天骑自行车上班。 // mit + 第三格：das → dem
+? Das Paket ist für ___ Nachbarn. => den | dem | der // 包裹是给邻居的。 // für + 第四格：der → den
+? Wir laufen durch ___ Stadt. => die | der | den // 我们穿过城市走。 // durch + 第四格：die → die
+? Nach ___ Unterricht gehe ich in die Mensa. => dem | den | der // 下课后我去食堂。 // nach + 第三格：der Unterricht → dem
+? Ich gehe nie ohne ___ Handy aus dem Haus. => mein | meinem | meines // 我出门从来不会不带手机。 // ohne + 第四格：das Handy → mein
+? Er wohnt bei ___ Eltern. => seinen | seine | seiner // 他住在父母家。 // bei + 第三格复数 → seinen Eltern
+? Ich habe nichts gegen ___ Plan. => deinen | deinem | dein // 我不反对你的计划。 // gegen + 第四格：der Plan → deinen
+? Seit ___ Woche habe ich Husten. => einer | eine | einen // 我咳嗽一周了。 // seit + 第三格：die Woche → einer
+= Ich gehe [zur] Post. (zu + der) // 我去邮局。 // zu + der = zur
+= Wir fahren [zum] Flughafen. (zu + dem) // 我们去机场。 // zu + dem = zum
+= Kommst du [aus dem] Büro? (aus + das Büro) // 你从办公室来吗？ // aus + 第三格 → aus dem
+= Danke [für den] Tipp! (für + der Tipp) // 谢谢你的建议！ // für + 第四格 → für den
+
+=== g036 | A2 | 形容词词尾①：定冠词后 | Adjektivdeklination nach bestimmtem Artikel
+形容词放在名词**前面**做定语时要加词尾；放在 sein 后面做表语时**不加**：Der Tisch ist **neu**. / der **neue** Tisch。
+
+定冠词（der, die, das）和 dieser, jeder, welcher, alle 后面，形容词词尾只有 **-e 和 -en** 两种：
+
+| | 阳性 | 阴性 | 中性 | 复数 |
+|---|---|---|---|---|
+| 第一格 | der neu==e== Tisch | die neu==e== Lampe | das neu==e== Bett | die neu==en== Stühle |
+| 第四格 | den neu==en== Tisch | die neu==e== Lampe | das neu==e== Bett | die neu==en== Stühle |
+| 第三格 | dem neu==en== Tisch | der neu==en== Lampe | dem neu==en== Bett | den neu==en== Stühlen |
+| 第二格 | des neu==en== Tisches | der neu==en== Lampe | des neu==en== Bettes | der neu==en== Stühle |
+
+## 记法
+- 只有 5 个位置是 **-e**：三个第一格单数（der/die/das）+ 阴性和中性第四格（die/das）。
+- **其余全是 -en**（所有复数、所有第三格、第二格、阳性第四格）。
+
+» Der **rote** Pullover gefällt mir. — 我喜欢那件红毛衣。
+» Ich nehme den **roten** Pullover. — 我要那件红毛衣。
+» Mit dem **neuen** Handy bin ich zufrieden. — 我对新手机很满意。
+» Die **jungen** Leute tanzen. — 年轻人在跳舞。
+> 特殊形容词：teuer → die teu**r**e Wohnung，dunkel → das dunk**l**e Zimmer，hoch → der ho**h**e Turm；lila, rosa, prima, online 不变。
+---
+= Der [alte] Mann wohnt hier. (alt) // 那个老人住在这里。 // 阳性第一格 der → -e
+= Ich kaufe den [blauen] Rock. (blau) // 我买那条蓝裙子。 // 阳性第四格 den → -en
+= Die [neue] Kollegin ist sehr nett. (neu) // 新来的女同事人很好。 // 阴性第一格 → -e
+= Wir wohnen in dem [großen] Haus. (groß) // 我们住在那栋大房子里。 // 第三格 → -en
+= Das [kleine] Kind schläft. (klein) // 那个小孩在睡觉。 // 中性第一格 → -e
+= Die [deutschen] Studenten feiern. (deutsch) // 德国学生们在庆祝。 // 复数 → -en
+= Ich helfe der [alten] Frau. (alt) // 我帮那位老太太。 // 阴性第三格 → -en
+= Kennst du das [neue] Restaurant? (neu) // 你知道那家新餐馆吗？ // 中性第四格 → -e
+= Diese [teure] Wohnung ist zu klein. (teuer) // 这套贵的公寓太小了。 // teuer → teure（去掉 e）
+? Mit dem ___ Zug fahre ich nicht. => langsamen | langsame | langsamer // 那趟慢车我不坐。 // 第三格 → -en
+? Jeder ___ Tag ist anders. => neue | neuen | neuer // 每个新的一天都不一样。 // jeder 像 der：阳性第一格 → -e
+? Die Wohnung ist ___. => hell | helle | hellen // 这套公寓很亮。 // 在 sein 后面不加词尾。
+
+=== g037 | A2 | 形容词词尾②：不定冠词、物主冠词后 | Adjektivdeklination nach unbestimmtem Artikel
+ein, kein, mein, dein, sein, ihr, unser, euer, Ihr 后面的形容词：
+**哪里冠词没有“表示性别的词尾”，形容词就要自己带上**（-er 表阳性、-es 表中性）。
+
+| | 阳性 | 阴性 | 中性 | 复数（kein/mein） |
+|---|---|---|---|---|
+| 第一格 | ein neu==er== Tisch | eine neu==e== Lampe | ein neu==es== Bett | meine neu==en== Stühle |
+| 第四格 | einen neu==en== Tisch | eine neu==e== Lampe | ein neu==es== Bett | meine neu==en== Stühle |
+| 第三格 | einem neu==en== Tisch | einer neu==en== Lampe | einem neu==en== Bett | meinen neu==en== Stühlen |
+| 第二格 | eines neu==en== Tisches | einer neu==en== Lampe | eines neu==en== Bettes | meiner neu==en== Stühle |
+
+## 和定冠词后的区别只有 3 处
+- 阳性第一格：der neu**e** → ein neu**er**
+- 中性第一格、第四格：das neu**e** → ein neu**es**
+其余完全一样（-e 或 -en）。
+
+» Das ist ein **guter** Plan. — 这是个好计划。
+» Ich habe ein **neues** Handy. — 我有一部新手机。
+» Er wohnt in einer **kleinen** Wohnung. — 他住在一套小公寓里。
+» Ich suche einen **günstigen** Laptop. — 我在找一台便宜的笔记本电脑。
+» Wir haben keine **großen** Probleme. — 我们没有大问题。
+---
+= Das ist ein [schöner] Tag. (schön) // 今天天气真好。 // ein + 阳性第一格 → -er
+= Ich habe ein [neues] Fahrrad. (neu) // 我有一辆新自行车。 // ein + 中性第四格 → -es
+= Sie trägt eine [rote] Jacke. (rot) // 她穿着一件红夹克。 // 阴性第四格 → -e
+= Er hat einen [großen] Hund. (groß) // 他有一条大狗。 // 阳性第四格 → -en
+= Wir wohnen in einem [alten] Haus. (alt) // 我们住在一栋老房子里。 // 第三格 → -en
+= Mein [bester] Freund heißt Leon. (best-) // 我最好的朋友叫莱昂。 // mein + 阳性第一格 → -er
+= Das ist kein [gutes] Zeichen. (gut) // 这不是好兆头。 // kein + 中性第一格 → -es
+= Ich schreibe mit meinem [neuen] Kuli. (neu) // 我用我的新圆珠笔写字。 // 第三格 → -en
+= Wir haben keine [freien] Zimmer mehr. (frei) // 我们没有空房了。 // 复数 → -en
+? Ich suche eine ___ Wohnung in Konstanz. => günstige | günstigen | günstiger // 我在康斯坦茨找一套便宜的公寓。 // 阴性第四格 → -e
+? Das ist ein sehr ___ Buch. => interessantes | interessante | interessanten // 这是一本很有意思的书。 // ein + 中性第一格 → -es
+? Er arbeitet bei einer ___ Firma. => großen | große | großer // 他在一家大公司工作。 // 阴性第三格 → -en
+
+=== g038 | A2 | 形容词词尾③：零冠词 | Adjektivdeklination ohne Artikel
+名词前**没有冠词**时（不可数名词、复数、菜单、广告、招聘启事），形容词自己带上**定冠词的词尾**：
+
+| | 阳性 | 阴性 | 中性 | 复数 |
+|---|---|---|---|---|
+| 第一格 | heiß==er== Kaffee (der) | kalt==e== Milch (die) | frisch==es== Brot (das) | gut==e== Freunde (die) |
+| 第四格 | heiß==en== Kaffee (den) | kalt==e== Milch (die) | frisch==es== Brot (das) | gut==e== Freunde (die) |
+| 第三格 | mit heiß==em== Kaffee (dem) | mit kalt==er== Milch (der) | mit frisch==em== Brot (dem) | mit gut==en== Freunden (den) |
+| 第二格 | heiß==en== Kaffees（例外） | kalt==er== Milch (der) | frisch==en== Brotes（例外） | gut==er== Freunde (der) |
+
+» Ich trinke gern **schwarzen** Tee. — 我喜欢喝红茶。
+» **Frisches** Obst ist gesund. — 新鲜水果有益健康。
+» Wir suchen **erfahrene** Entwickler. — 我们招有经验的开发人员。（招聘广告）
+» Mit **freundlichen** Grüßen — 此致敬礼（信件结尾）
+» Ich wünsche dir **viel** Erfolg und **alles Gute**! — 祝你成功，一切顺利！
+
+## 数量词后面
+viele, einige, mehrere, wenige, zwei/drei… 后面的形容词按零冠词变：viele **neue** Kollegen，zwei **große** Zimmer。
+> 记法：形容词“替冠词干活”，看定冠词是 der → -er，das → -es，dem → -em。
+---
+= Ich trinke gern [kalten] Orangensaft. (kalt) // 我喜欢喝冰橙汁。 // der Saft，第四格 den → -en
+= [Frische] Milch ist hier sehr teuer. (frisch) // 这里新鲜牛奶很贵。 // die Milch 第一格 → -e
+= Wir suchen eine Wohnung mit [großem] Balkon. (groß) // 我们找一套有大阳台的公寓。 // mit + 第三格 dem → -em
+= [Gutes] Essen macht glücklich. (gut) // 好吃的东西让人开心。 // das Essen 第一格 → -es
+= Mit [freundlichen] Grüßen (freundlich) // 此致敬礼 // 复数第三格 den → -en
+= Ich habe [viele] [neue] Freunde gefunden. (viel, neu) // 我交了很多新朋友。 // 复数第四格，零冠词 → -e
+= Ich esse Brot mit [frischer] Butter. (frisch) // 我吃面包配新鲜黄油。 // die Butter，第三格 der → -er
+? Wir bieten ___ Arbeitszeiten. => flexible | flexiblen | flexibler // 我们提供弹性工作时间。 // 复数第四格 → -e（flexibel → flexible）
+? Bei ___ Wetter gehen wir spazieren. => schönem | schönen | schönes // 天气好的话我们去散步。 // das Wetter，第三格 dem → -em
+? ___ Wein schmeckt mir nicht. => Roter | Rote | Rotes // 我不喜欢红葡萄酒。 // der Wein 第一格 → -er
+? Ich wünsche dir ___ Glück! => viel | viele | vieles // 祝你好运！ // viel + 不可数名词（单数）不加词尾。
+
+=== g039 | A2 | 比较级和最高级 | Komparativ und Superlativ
+| 原级 | 比较级 (+ -er) | 最高级 (am … -sten) |
+|---|---|---|
+| schnell | schnell==er== | am schnell==sten== |
+| klein | kleiner | am kleinsten |
+| alt | ==ä==lter | am ==ä==ltesten |
+| jung | j==ü==nger | am j==ü==ngsten |
+| groß | gr==ö==ßer | am gr==ö==ßten |
+| teuer | teu==r==er | am teuersten |
+| gut | ==besser== | am ==besten== |
+| viel | ==mehr== | am ==meisten== |
+| gern | ==lieber== | am ==liebsten== |
+| hoch | ==höher== | am ==höchsten== |
+| nah | ==näher== | am ==nächsten== |
+
+## 规则
+- 单音节、元音 a / o / u 的形容词常加变音：alt → älter, warm → wärmer, kurz → kürzer, lang → länger, arm → ärmer, oft → öfter
+- 以 -d, -t, -s, -ß, -sch, -z 结尾：最高级加 **-esten**：am ältesten, am kürzesten, am heißesten
+- teuer, dunkel：比较级去 e：teurer, dunkler
+
+## 比较
+- 一样：**so** + 原级 + **wie**：Tim ist **so groß wie** Paul.
+- 不一样：比较级 + **als**：Tim ist **größer als** Paul.
+- 最高级做定语加词尾：der **schnellste** Zug，die **beste** Lösung
+» Ich trinke **lieber** Tee **als** Kaffee. — 比起咖啡我更喜欢喝茶。
+» Am **liebsten** esse ich Nudeln. — 我最喜欢吃面条。
+» Berlin ist **die größte** Stadt Deutschlands. — 柏林是德国最大的城市。
+> 比较级做定语也要加词尾：ein **größeres** Zimmer，die **bessere** Idee。
+---
+= Der ICE ist [schneller] als der Regionalzug. (schnell) // ICE 比区域火车快。 // 比较级 + als
+= Mein Bruder ist zwei Jahre [älter] als ich. (alt) // 我哥哥比我大两岁。 // alt → älter
+= Ich trinke [lieber] Tee als Kaffee. (gern) // 比起咖啡我更喜欢茶。 // gern → lieber
+= Im Winter sind die Tage [kürzer]. (kurz) // 冬天白天更短。 // kurz → kürzer
+= Diese Lösung ist [besser]. (gut) // 这个方案更好。 // gut → besser
+= Wer verdient am [meisten]? (viel) // 谁挣得最多？ // viel → am meisten
+= Die Zugspitze ist der [höchste] Berg Deutschlands. (hoch) // 楚格峰是德国最高的山。 // hoch → höchst-，阳性第一格 der → -e
+= Das ist die [teuerste] Wohnung in der Straße. (teuer) // 这是这条街上最贵的公寓。 // 最高级 + 阴性第一格 -e
+? Anna ist so alt ___ ich. => wie | als | wenn // 安娜和我一样大。 // so … wie = 一样
+? Heute ist es kälter ___ gestern. => als | wie | dann // 今天比昨天冷。 // 比较级 + als
+? Am ___ fahre ich mit dem Fahrrad. => liebsten | gernsten | lieber // 我最喜欢骑自行车。 // gern → am liebsten
+? Wir suchen eine ___ Wohnung. => größere | größer | größeren // 我们在找一套更大的公寓。 // 比较级做定语加词尾：eine größere
+
+=== g040 | A2 | 从句：weil, dass, wenn, ob | Nebensätze
+从句由连词引导，**变位动词放在从句最后**。主句和从句之间**一定有逗号**。
+
+| 连词 | 意思 | 例句 |
+|---|---|---|
+| weil | 因为 | Ich bleibe zu Hause, weil ich krank ==bin==. |
+| dass | （说 / 想 / 知道）…… | Ich glaube, dass er morgen ==kommt==. |
+| wenn | 如果；每当 | Wenn ich Zeit ==habe==, rufe ich dich an. |
+| ob | 是否 | Ich weiß nicht, ob sie ==kommt==. |
+
+## 从句里的特殊情况
+- 可分动词在从句里**合在一起**：…, weil ich früh **aufstehe**.
+- 有情态动词：情态动词在最后：…, weil ich arbeiten **muss**.
+- 完成时：助动词在最后：…, weil ich den Bus verpasst **habe**.
+
+## 从句在前：主句动词紧跟逗号
+从句整体占第一位，所以主句的**动词马上跟在逗号后面**（“动词-逗号-动词”）：
+» **Wenn** es regnet, **bleiben** wir zu Hause. — 如果下雨，我们就待在家。
+» **Weil** ich krank war, **konnte** ich nicht kommen. — 因为我病了，所以没能来。
+
+## weil 和 denn
+意思一样，语序不同：…, **denn** ich **bin** krank（正常语序）/ …, **weil** ich krank **bin**（动词在后）。
+> ob 用于把“是非问句”变成从句：Kommt er? → Ich weiß nicht, **ob** er kommt。
+---
+~ Ich lerne Deutsch, / weil / ich / in Deutschland / arbeiten / möchte. // 我学德语，因为我想在德国工作。 // 从句里情态动词 möchte 在最后。
+~ Ich glaube, / dass / der Kurs / um 9 Uhr / anfängt. // 我觉得课程 9 点开始。 // 从句里可分动词合起来，放最后。
+~ Wenn / ich / Zeit / habe, / komme / ich / mit. // 如果我有时间，我就一起来。 // 从句在前，主句动词 komme 紧跟逗号。
+~ Weißt du, / ob / der Supermarkt / heute / geöffnet / hat? // 你知道超市今天开门吗？ // ob 从句，动词在最后。
+? Ich komme heute nicht, ___ ich krank bin. => weil | denn | dass // 我今天不来，因为我病了。 // 动词 bin 在最后 → weil
+? Ich komme heute nicht, ___ ich bin krank. => denn | weil | ob // 我今天不来，因为我病了。 // 正常语序 → denn
+? Er sagt, ___ er keine Zeit hat. => dass | ob | wenn // 他说他没时间。 // sagen, dass …
+? Ich weiß nicht, ___ ich das schaffe. => ob | dass | wenn // 我不知道我能不能做到。 // “是否”→ ob
+? ___ du Hilfe brauchst, ruf mich an. => Wenn | Ob | Dass // 如果你需要帮助，就给我打电话。 // 条件 → wenn
+? Weil der Bus Verspätung hatte, ___. => bin ich zu spät gekommen | ich bin zu spät gekommen | ich zu spät gekommen bin // 因为公交晚点，我迟到了。 // 从句在前，主句动词紧跟逗号。
+= Ich bin müde, weil ich so früh [aufgestanden] [bin]. (aufstehen, Perfekt) // 我很累，因为我起得太早了。 // 从句里完成时：分词 + 助动词在最后
+
+=== g041 | A2 | 反身动词 | Reflexive Verben
+反身代词表示动作回到主语自己身上。
+
+| | 第四格 | 第三格 |
+|---|---|---|
+| ich | mich | mir |
+| du | dich | dir |
+| er / sie / es / man | ==sich== | ==sich== |
+| wir | uns | uns |
+| ihr | euch | euch |
+| sie / Sie | ==sich== | ==sich== |
+
+## 常见反身动词（第四格）
+sich freuen, sich ärgern, sich beeilen, sich setzen, sich treffen, sich interessieren für, sich bewerben um, sich erholen, sich anmelden, sich entschuldigen, sich vorstellen, sich wohlfühlen, sich verabreden, sich erinnern an, sich kümmern um, sich gewöhnen an
+» Ich **freue mich** auf das Wochenende. — 我期待周末。
+» **Beeil dich**! — 快点！
+» Wir **treffen uns** um acht. — 我们八点见。
+
+## 有另一个第四格宾语时，反身代词用第三格
+» Ich wasche **mich**. — 我洗澡。
+» Ich wasche **mir** die Hände. — 我洗手。（die Hände 是第四格宾语）
+» Ich putze **mir** die Zähne. Ich kaufe **mir** ein Handy. Kannst du **dir** das vorstellen?
+
+## 位置
+反身代词尽量靠前，紧跟变位动词；倒装时如果主语是名词，可放主语前：Morgen treffen **sich** die Kollegen.
+> 反身代词改变意思：vorstellen（介绍）→ sich etwas vorstellen（想象），sich vorstellen（自我介绍）。
+---
+= Ich freue [mich] auf den Urlaub. // 我期待假期。 // ich → mich
+= Wir treffen [uns] vor dem Kino. // 我们在电影院门口见。 // wir → uns
+= Er interessiert [sich] für Politik. // 他对政治感兴趣。 // er → sich
+= [Beeil] [dich], der Zug fährt gleich! (sich beeilen) // 快点，火车马上要开了！ // 命令式 du：Beeil dich!
+= Habt ihr [euch] schon angemeldet? // 你们已经报名了吗？ // ihr → euch
+= Ich putze [mir] die Zähne. // 我刷牙。 // 有第四格宾语 die Zähne → 反身代词第三格 mir
+= Kannst du [dir] das vorstellen? // 你能想象吗？ // sich etwas vorstellen：第三格
+? Ich wasche ___ die Haare. => mir | mich | mein // 我洗头。 // 有第四格宾语 die Haare → mir
+? Sie hat ___ um die Stelle beworben. => sich | ihr | sie // 她申请了那个职位。 // sich bewerben um
+? Du musst ___ entschuldigen. => dich | dir | sich // 你得道歉。 // du → dich
+? Ich kaufe ___ morgen einen neuen Laptop. => mir | mich | ich // 我明天给自己买台新电脑。 // 有第四格宾语 → mir
+~ Morgen / stelle / ich / mich / bei der Firma / vor. // 明天我去那家公司面试（自我介绍）。 // sich vorstellen，前缀 vor 在句尾。
+
+=== g042 | A2 | 疑问词 welch- 和 was für ein | welcher? was für ein?
+## welch-：在已知的几个里“哪一个”
+词尾像定冠词：welch**er** (der), welch**e** (die), welch**es** (das), welch**e** (复数)。
+» **Welcher** Bus fährt zum Bahnhof? – Die Linie 5. — 哪路公交去火车站？——5 路。
+» **Welche** Farbe gefällt dir? — 你喜欢哪个颜色？
+» In **welchem** Stock wohnst du? — 你住几楼？（第三格）
+回答常用定冠词 / 指示代词：Welches Kleid nimmst du? – **Das** rote. / **Dieses** hier.
+
+## was für ein：问“什么样的”（种类、特点）
+ein 按后面的名词和格变化；复数和不可数名词用 **was für**（不加 ein）。
+» **Was für ein** Auto hast du? – Einen Kombi. — 你有什么样的车？——一辆旅行车。
+» **Was für eine** Wohnung suchst du? — 你找什么样的公寓？
+» **Was für** Musik hörst du gern? — 你喜欢听什么样的音乐？
+» In **was für einer** Firma arbeitest du? — 你在什么样的公司工作？
+回答常用不定冠词：Was für ein Handy hast du? – **Ein** Android-Handy.
+> 口语里 Was für ein … ! 还表示感叹：Was für ein schöner Tag! 多好的天啊！
+---
+? ___ Zug fährt nach Zürich? => Welcher | Welche | Welches // 哪趟火车去苏黎世？ // der Zug → welcher
+? ___ Sprachen sprichst du? => Welche | Welcher | Welches // 你会说哪些语言？ // 复数 → welche
+? Mit ___ Bus fährst du? => welchem | welchen | welcher // 你坐哪路公交？ // mit + 第三格：der Bus → welchem
+? ___ Wohnung möchtest du? – Eine helle mit Balkon. => Was für eine | Welche | Was für ein // 你想要什么样的公寓？——一套有阳台的亮堂的。 // 回答是“种类”且用 eine → was für eine
+? ___ Musik hörst du gern? – Jazz und Pop. => Was für | Was für eine | Was für ein // 你喜欢听什么样的音乐？——爵士和流行。 // 不可数名词：was für（不加 ein）
+= [Welches] Kleid nimmst du? – Das blaue. // 你要哪条裙子？——蓝色那条。 // das Kleid → welches
+= In [welcher] Stadt wohnst du? // 你住在哪个城市？ // in + 第三格：die Stadt → welcher
+= Was für [einen] Laptop suchst du? // 你在找什么样的笔记本？ // 第四格阳性 → einen
+= Was für [ein] schönes Wetter! // 天气真好！ // 感叹句：was für ein …
+
+=== g043 | A2 | 指示冠词 dieser, jeder, alle | Demonstrativartikel
+**dieser**（这个）、**jeder**（每个）、**welcher**（哪个）、**mancher**（有些）的词尾和**定冠词完全一样**：
+
+| | 阳性 | 阴性 | 中性 | 复数 |
+|---|---|---|---|---|
+| 第一格 | dies==er== | dies==e== | dies==es== | dies==e== |
+| 第四格 | dies==en== | dies==e== | dies==es== | dies==e== |
+| 第三格 | dies==em== | dies==er== | dies==em== | dies==en== |
+
+» **Dieser** Laptop ist zu teuer. — 这台笔记本太贵了。
+» Ich nehme **diese** Schuhe. — 我要这双鞋。
+» **Jeden** Tag gehe ich joggen. — 我每天去跑步。
+» **Jedes** Kind bekommt ein Geschenk. — 每个孩子都得到一份礼物。
+» Ich gebe **allen** Kollegen Bescheid. — 我通知所有同事。
+
+## jeder 只有单数，复数用 alle
+jeder Mitarbeiter（每个员工）→ **alle** Mitarbeiter（所有员工）
+
+## 口语
+口语里常用重读的定冠词代替 dieser：**Der** Film war super! / Den nehme ich.
+> 形容词跟在 dieser, jeder, alle 后面，按“定冠词后”变：dieser **neue** Kollege, alle **neuen** Kollegen。
+---
+= [Dieser] Film ist sehr spannend. (dies-) // 这部电影非常精彩。 // der Film 第一格 → dieser
+= Ich kaufe [diese] Jacke. (dies-) // 我买这件夹克。 // die Jacke 第四格 → diese
+= Wir fahren [jedes] Jahr nach Italien. (jed-) // 我们每年都去意大利。 // das Jahr 第四格 → jedes
+= Kennst du [diesen] Mann? (dies-) // 你认识这个男人吗？ // der Mann 第四格 → diesen
+= In [diesem] Haus wohnt mein Chef. (dies-) // 我老板住在这栋房子里。 // in + 第三格 → diesem
+= [Jeden] Morgen trinke ich einen Kaffee. (jed-) // 我每天早上喝一杯咖啡。 // der Morgen 第四格（时间状语）→ jeden
+? ___ Mitarbeiter müssen den Kurs machen. => Alle | Jeder | Jede // 所有员工都必须上这门课。 // 复数 → alle
+? ___ Mitarbeiter muss den Kurs machen. => Jeder | Alle | Jeden // 每个员工都必须上这门课。 // 单数 → jeder（动词 muss 单数）
+? Ich habe mit ___ Kollegin gesprochen. => dieser | diese | diesem // 我和这位女同事谈过了。 // mit + 第三格：die → dieser
+? Ich danke ___ Teilnehmern. => allen | alle | aller // 我感谢所有参与者。 // danken + 第三格复数 → allen
+
+=== g044 | A2 | 第二虚拟式：礼貌、愿望、建议 | Konjunktiv II: würde, hätte, wäre, könnte, sollte
+Konjunktiv II 让说话**更礼貌**，也用来表达**愿望**和**建议**。A2 阶段先掌握这几个最常用的形式：
+
+| | haben | sein | können | sollen | werden（+ 不定式） |
+|---|---|---|---|---|---|
+| ich | hätte | wäre | könnte | sollte | würde |
+| du | hättest | wär(e)st | könntest | solltest | würdest |
+| er/sie/es | hätte | wäre | könnte | sollte | würde |
+| wir | hätten | wären | könnten | sollten | würden |
+| ihr | hättet | wär(e)t | könntet | solltet | würdet |
+| sie/Sie | hätten | wären | könnten | sollten | würden |
+
+## 礼貌请求
+» **Könnten** Sie mir bitte helfen? — 您能帮我一下吗？
+» **Würden** Sie bitte das Fenster schließen? — 您可以关一下窗吗？
+» Ich **hätte** gern ein Glas Wasser. — 我想要一杯水。
+» **Wäre** es möglich, den Termin zu verschieben? — 能否把预约改期？
+
+## 愿望
+» Ich **hätte** gern mehr Zeit. — 我真希望有更多时间。
+» Ich **wäre** jetzt gern am Strand. — 我真想现在就在海滩上。
+» Ich **würde** gern in Hamburg arbeiten. — 我很想在汉堡工作。
+
+## 建议
+» Du **solltest** mehr schlafen. — 你应该多睡点。
+» An deiner Stelle **würde** ich das Angebot annehmen. — 我要是你，就接受这个工作邀约。
+> 其他动词一般用 **würde + 不定式**：Ich würde gern reisen.（不说 ich reiste gern）。B1 会讲“如果……就……”的非真实条件句。
+---
+? ___ Sie mir bitte das Salz geben? => Könnten | Konnten | Können // 您能把盐递给我吗？ // 礼貌请求 → Könnten
+? Ich ___ gern einen Termin für nächste Woche. => hätte | hatte | habe // 我想约下周的时间。 // 礼貌的愿望：ich hätte gern …
+? Du ___ zum Arzt gehen. => solltest | sollst | solltet // 你应该去看医生。 // 建议 → du solltest
+? An deiner Stelle ___ ich mehr Deutsch sprechen. => würde | werde | wurde // 我要是你，就多说德语。 // 建议：würde + 不定式
+? Es ___ schön, wenn du kommst. => wäre | war | ist // 你要是来就太好了。 // sein → wäre
+= [Würden] Sie bitte langsamer sprechen? (werden) // 您能说慢一点吗？ // 礼貌请求：Würden Sie …?
+= Ich [wäre] jetzt gern zu Hause. (sein) // 我真想现在在家。 // ich wäre
+= Wir [hätten] gern zwei Kaffee. (haben) // 我们想要两杯咖啡。 // wir hätten
+= [Könntest] du mich morgen abholen? (können) // 你明天能来接我吗？ // du könntest
+= Ihr [solltet] früher losfahren. (sollen) // 你们应该早点出发。 // ihr solltet
+~ Ich / würde / gern / in Berlin / wohnen. // 我很想住在柏林。 // würde 第二位，不定式 wohnen 句尾。
+
+=== g045 | A2 | 中场的语序：时间、原因、方式、地点 | Satzstellung im Mittelfeld
+动词第二位和句尾之间的“中场”有大致顺序。
+
+## 状语：Te – Ka – Mo – Lo
+**时间（temporal）→ 原因（kausal）→ 方式（modal）→ 地点（lokal）**
+» Ich fahre **morgen** **wegen der Konferenz** **mit dem Zug** **nach Berlin**.
+— 我明天因为开会坐火车去柏林。
+» Wir sind **gestern** **schnell** **nach Hause** gegangen.
+
+## 宾语
+- 第三格（人）在第四格（物）**前**：Ich schenke **meiner Mutter** **Blumen**.
+- 但第四格是代词时，代词在前：Ich schenke **sie** meiner Mutter.
+- 代词总是尽量靠前，紧跟动词（或主语）：Gestern hat **ihn** der Chef angerufen.
+
+## nicht 的位置
+否定全句时，nicht 一般在宾语和大多数状语**后面**，但在方式、地点、方向状语和第二个动词**前面**：
+» Ich kenne den Mann **nicht**. — 我不认识这个人。
+» Er kommt heute **nicht** mit dem Auto. — 他今天不开车来。
+> 中场顺序只是“通常”，为了强调可以调整；但 TeKaMoLo 是最不会错的选择。
+---
+~ Ich / fahre / morgen / mit dem Bus / zur Arbeit. // 我明天坐公交上班。 // 时间 → 方式 → 地点
+~ Wir / sind / gestern / wegen des Regens / zu Hause / geblieben. // 我们昨天因为下雨待在家。 // 时间 → 原因 → 地点
+~ Er / geht / jeden Tag / zu Fuß / in die Uni. // 他每天走路去大学。 // 时间 → 方式 → 地点
+~ Ich / schenke / meiner Schwester / ein Buch. // 我送我妹妹一本书。 // 第三格（人）在第四格（物）前
+~ Ich / schenke / es / meiner Schwester. // 我把它送给我妹妹。 // 第四格代词 es 在前
+~ Sie / ist / letzte Woche / mit Freunden / nach Prag / gefahren. // 她上周和朋友去了布拉格。 // 时间 → 方式 → 地点
+? 哪句最自然？ => Ich gehe heute Abend mit Lisa ins Kino. | Ich gehe ins Kino mit Lisa heute Abend. | Ich gehe mit Lisa ins Kino heute Abend. // 我今晚和丽莎去看电影。 // 时间 → 方式 → 地点
+? 哪句是对的？ => Ich gebe es dir morgen. | Ich gebe dir es morgen. | Ich gebe morgen dir es. // 我明天把它给你。 // 两个人称代词：第四格 es 在第三格 dir 前，并且都紧跟动词。
+= Ich gebe [ihm] den Schlüssel. (er) // 我把钥匙给他。 // 代词靠前
+
+=== g046 | A2 | 连接副词：deshalb, trotzdem, dann … | Konjunktionaladverbien
+这些词也连接两个句子，但它们**占第一位**，后面紧跟**动词**，然后才是主语（倒装）。
+
+| 词 | 意思 | 例句 |
+|---|---|---|
+| deshalb / deswegen / darum | 所以 | Ich bin krank, **deshalb bleibe ich** zu Hause. |
+| trotzdem | 尽管如此、还是 | Es regnet, **trotzdem gehen wir** spazieren. |
+| dann / danach | 然后 / 之后 | Ich frühstücke, **dann fahre ich** ins Büro. |
+| sonst | 否则 | Beeil dich, **sonst verpasst du** den Zug. |
+| außerdem | 此外 | Die Wohnung ist hell, **außerdem hat sie** einen Balkon. |
+| also | 所以、那么 | Es ist schon spät, **also gehen wir**. |
+
+## 对比三类连接词
+» Ich bin müde, **denn** ich **habe** schlecht geschlafen.（denn：第 0 位，正常语序）
+» Ich bin müde, **weil** ich schlecht geschlafen **habe**.（weil：从句，动词最后）
+» Ich habe schlecht geschlafen, **deshalb bin** ich müde.（deshalb：第 1 位，倒装）
+> 注意因果方向：weil / denn 后面是**原因**，deshalb 后面是**结果**。
+---
+~ Ich habe Hunger, / deshalb / mache / ich / mir / ein Brot. // 我饿了，所以给自己做个面包。 // deshalb 第一位，动词 mache 紧跟。
+~ Das Wetter ist schlecht, / trotzdem / fahren / wir / ans Meer. // 天气不好，我们还是去海边。 // trotzdem + 动词 + 主语
+~ Zuerst / koche / ich, / dann / essen / wir. // 我先做饭，然后我们吃饭。 // zuerst / dann 都占第一位。
+? Der Zug hatte Verspätung, ___ bin ich zu spät gekommen. => deshalb | weil | denn // 火车晚点了，所以我迟到了。 // 后面是倒装语序 + 结果 → deshalb
+? Ich bin krank, ___ gehe ich zur Arbeit. => trotzdem | deshalb | sonst // 我病了，但还是去上班。 // 让步 → trotzdem
+? Nimm einen Schirm mit, ___ wirst du nass. => sonst | dann | deshalb // 带把伞，否则会淋湿。 // 否则 → sonst
+? Die Wohnung ist günstig, ___ liegt sie zentral. => außerdem | trotzdem | sonst // 这套公寓便宜，而且位置在市中心。 // 补充 → außerdem
+? 哪句是对的？ => Ich habe viel gelernt, deshalb habe ich die Prüfung bestanden. | Ich habe viel gelernt, deshalb ich habe die Prüfung bestanden. | Ich habe viel gelernt, deshalb ich die Prüfung bestanden habe. // 我学了很多，所以考试通过了。 // deshalb 后面倒装：动词 + 主语
+= Es ist spät, [deshalb|deswegen|darum] nehme ich ein Taxi. // 很晚了，所以我打车。 // 结果 + 倒装 → deshalb / deswegen / darum
+
+=== g047 | A2 | 动词 werden | werden: Veränderung, Zukunft, Passiv
+werden 是德语里最多用途的动词之一。
+
+| | 现在时 | 过去式 | 完成时 |
+|---|---|---|---|
+| ich | werde | wurde | bin geworden |
+| du | ==wirst== | wurdest | bist geworden |
+| er/sie/es | ==wird== | wurde | ist geworden |
+| wir | werden | wurden | sind geworden |
+| ihr | werdet | wurdet | seid geworden |
+| sie/Sie | werden | wurden | sind geworden |
+
+## 1. 变成、成为（实义动词）
+» Es **wird** kalt. — 天变冷了。
+» Ich möchte Ingenieur **werden**. — 我想当工程师。
+» Sie **ist** 30 **geworden**. — 她满 30 岁了。
+» Mir **wird** schlecht. — 我觉得恶心。
+
+## 2. 将来时：werden + 不定式（句尾）
+表示计划、承诺、推测（德语日常更常用现在时 + 时间词）：
+» Ich **werde** dich morgen **anrufen**. — 我明天会给你打电话。（承诺）
+» Es **wird** morgen **regnen**. — 明天会下雨。（预测）
+
+## 3. 被动态：werden + 过去分词（B1 详细讲）
+» Das Haus **wird** renoviert. — 房子正在被翻修。
+> 完成时“变成”用 geworden；被动态的完成时用 worden（B1）。
+---
+= Im Herbst [wird] es früh dunkel. (werden) // 秋天天黑得早。 // es wird
+= Was [willst] du später [werden]? (wollen, werden) // 你以后想做什么？ // werden 做实义动词，在句尾
+= Du [wirst] immer besser! (werden) // 你越来越好了！ // du wirst
+= Mein Sohn [ist] gestern fünf [geworden]. (werden) // 我儿子昨天满五岁了。 // 完成时：ist geworden
+= Ich [werde] dir morgen [helfen]. (werden, helfen) // 我明天会帮你。 // 将来时：werde + 不定式
+= Als Kind [wurde] ich oft krank. (werden) // 小时候我经常生病。 // 过去式 wurde
+? Morgen ___ es sonnig. => wird | werdet | wirst // 明天会是晴天。 // es wird
+? Ich glaube, er ___ den Job bekommen. => wird | werdet | würde // 我觉得他会得到这份工作。 // 推测：wird + 不定式
+? Sie ist Ärztin ___. => geworden | worden | gewerdet // 她成了医生。 // 实义动词 werden 的分词：geworden
+~ Ich / werde / nächstes Jahr / in München / studieren. // 我明年会在慕尼黑上大学。 // werde 第二位，不定式在句尾。
+
+=== g048 | A2 | 不定代词 einer, keiner, welche | Indefinitpronomen
+名词前的 ein / kein / mein 单独使用（代替名词）时，要带上**表示性别的词尾**：
+
+| | 阳性 | 阴性 | 中性 | 复数 |
+|---|---|---|---|---|
+| 第一格 | ein==er== / kein==er== | ein==e== / kein==e== | ein==s== / kein==s== | welche / keine |
+| 第四格 | ein==en== / kein==en== | ein==e== / kein==e== | ein==s== / kein==s== | welche / keine |
+| 第三格 | einem / keinem | einer / keiner | einem / keinem | welchen / keinen |
+
+» Hast du einen Kuli? – Ja, ich habe **einen**. / Nein, ich habe **keinen**.
+» Brauchst du ein Handtuch? – Danke, ich habe **eins**.
+» Gibt es hier eine Bank? – Ja, da vorne ist **eine**.
+» Hast du Äpfel? – Ja, ich habe noch **welche**. / Nein, ich habe **keine**.（复数用 welche）
+» Das ist nicht mein Schirm. **Meiner** ist schwarz. — 这不是我的伞，我的是黑色的。
+
+## 指人的不定代词
+- **jemand / niemand**：Hat **jemand** angerufen? – Nein, **niemand**.
+- **man**：泛指的人（第四格 einen，第三格 einem）：Das macht **einem** Spaß.
+- **einer / keiner** 也可指人：**Keiner** hat das verstanden. 没人听懂。
+> 复数的“一些”用 welche：Möchtest du Kekse? – Ja, gern, ich nehme **welche**.
+---
+? Hast du ein Fahrrad? – Ja, ich habe ___. => eins | ein | einen // 你有自行车吗？——有。 // 中性单独使用 → eins
+? Ich brauche einen Stift. Hast du ___? => einen | ein | eins // 我需要一支笔，你有吗？ // 阳性第四格 → einen
+? Gibt es hier eine Apotheke? – Nein, hier gibt es ___. => keine | kein | keinen // 这里有药店吗？——没有。 // 阴性 → keine
+? Möchtest du Erdbeeren? Ich habe noch ___. => welche | eine | einen // 你要草莓吗？我还有一些。 // 复数 → welche
+? Ist das dein Laptop? – Nein, ___ ist im Büro. => meiner | mein | meinen // 这是你的电脑吗？——不是，我的在办公室。 // 阳性第一格单独用 → meiner
+? Hat ___ meinen Schlüssel gesehen? => jemand | etwas | man // 有人看见我的钥匙了吗？ // 指人：jemand
+= Ich habe kein Auto, aber mein Bruder hat [eins]. // 我没有车，但我哥哥有一辆。 // das Auto → eins
+= Das ist ein guter Film. Ich habe [keinen] besseren gesehen. // 这是部好电影，我没看过更好的。 // der Film → keinen
+= Wo ist ein Supermarkt? – Da drüben ist [einer]. // 哪里有超市？——那边有一家。 // der Supermarkt 第一格 → einer
+
+=== g049 | A2 | 构词：复合名词和动词变名词 | Wortbildung: Komposita, Nomen aus Verben
+## 复合名词（Komposita）
+德语可以把几个词连成一个长名词。**最后一个词决定性别和意思**，前面的词说明它。
+| 组成 | 复合词 |
+|---|---|
+| die Kinder + der Garten | ==der== Kindergarten |
+| das Haus + die Tür + der Schlüssel | ==der== Haustürschlüssel |
+| arbeiten + der Platz | ==der== Arbeitsplatz |
+| groß + die Stadt | ==die== Großstadt |
+| schreiben + der Tisch | ==der== Schreibtisch |
+中间常插 **-s-** 或 **-n-**（Fugenlaut）：Arbeit**s**vertrag, Geburt**s**tag, Straße**n**bahn, Universität**s**bibliothek。
+
+## 动词变名词
+| 构成 | 性别 | 例子 |
+|---|---|---|
+| 动词词干 + **-ung** | die | wohnen → die Wohnung，bestellen → die Bestellung，erfahren → die Erfahrung |
+| 不定式直接大写 | das | essen → das Essen，lernen → das Lernen，Rauchen verboten |
+| 动词词干 + **-er**（做事的人） | der | lehren → der Lehrer，fahren → der Fahrer，entwickeln → der Entwickler |
+| + **-erin**（女性） | die | die Lehrerin, die Entwicklerin |
+| 词干（常变元音） | der | anfangen → der Anfang，besuchen → der Besuch，fliegen → der Flug |
+
+## 形容词变名词
+-heit / -keit → die：frei → die Freiheit，möglich → die Möglichkeit，pünktlich → die Pünktlichkeit
+> 看长词时从**后往前**拆：Kranken·versicherungs·karte = 医疗保险的卡 → 医保卡。
+---
+? ___ Arbeitsplatz ist neu. (die Arbeit + der Platz) => Der | Die | Das // 这个工位是新的。 // 跟最后一个词：der Platz
+? ___ Haustür ist offen. (das Haus + die Tür) => Die | Das | Der // 大门开着。 // 跟 die Tür
+? wohnen → ___ Wohnung => die | der | das // // -ung 都是阴性
+? Wie heißt der Mensch, der Software entwickelt? => der Entwickler | die Entwicklung | das Entwickeln // 开发软件的人 // 动词词干 + -er = 做事的人
+? möglich → ___ => die Möglichkeit | die Möglichheit | das Möglichung // 可能性 // -lich 形容词常加 -keit
+? 哪个复合词写对了？ => der Geburtstag | der Geburttag | der Geburtentag // 生日 // Geburt + s + Tag（中间加 -s-）
+= anfangen → der [Anfang] // 开始 // 动词词干变名词，阳性
+= bestellen → die [Bestellung] // 订单 // 词干 + -ung
+= fliegen → der [Flug] // 航班 // 词干变元音
+= frei → die [Freiheit] // 自由 // 形容词 + -heit
+= lernen → das [Lernen] // 学习（这件事） // 不定式直接大写 → das

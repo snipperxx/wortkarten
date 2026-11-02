@@ -1,0 +1,811 @@
+=== g001 | A1 | 发音和拼写规则 | Aussprache und Rechtschreibung
+德语基本上“怎么写就怎么读”，记住下面这些字母组合，几乎所有词都能读出来。
+
+## 元音长短
+- 元音后面只有**一个辅音**，通常读长音：Tag, gut, Name。
+- 元音后面有**两个或更多辅音**，通常读短音：Mann, Bett, kommen。
+- **元音 + h** 是长音标记，h 本身不发音：Bahn, fahren, Uhr。
+- **双写元音**也是长音：Tee, Boot, Haar。
+
+## 变元音和 ß
+| 字母 | 读法 | 例词 |
+|---|---|---|
+| ä | 近似“诶” [ɛ] | Käse, Männer |
+| ö | 嘴型发 o，舌头发 e | schön, hören |
+| ü | 嘴型发 u，舌头发 i | müde, Tür |
+| ß | 清辅音 [s]，只跟在长元音或复元音后 | Straße, heißen |
+
+## 常见字母组合
+| 写法 | 读音 | 例词 |
+|---|---|---|
+| ei / ai | [ai]（像“爱”） | mein, Mai |
+| ie | 长 [iː] | Liebe, sie |
+| eu / äu | [ɔy]（像“奥伊”） | heute, Häuser |
+| au | [au] | Haus, kaufen |
+| sch | [ʃ] | Schule, schön |
+| sp- / st-（词首） | [ʃp] / [ʃt] | Sport, Straße |
+| ch（a, o, u, au 后） | 喉音 [x] | Buch, auch |
+| ch（其他位置） | 软 [ç] | ich, Milch |
+| -ig（词尾） | [ɪç] | billig, zwanzig |
+| z / tz | [ts] | Zeit, Katze |
+| v | 多数读 [f] | Vater, viel |
+| w | [v] | Wasser, wohnen |
+| j | [j]（像“耶”） | ja, Jahr |
+| qu | [kv] | Quittung |
+
+## 词尾清化
+b, d, g 在词尾或音节末读成 p, t, k：**Tag** [taːk]、**Kind** [kɪnt]、**gelb** [gɛlp]。
+-er 在词尾读得很轻，接近 [ɐ]：Vater, Lehrer。
+
+## 重音和大小写
+- 德语本族词重音一般在**第一个音节**：**ar**beiten, **Fen**ster。
+- 带 be-, ge-, er-, ver-, zer-, ent- 这些前缀的词，重音在前缀后面：be**kom**men, ver**ste**hen。
+- **所有名词首字母大写**：der Tisch, die Freundschaft。句首也大写。
+> 正式的“您” Sie / Ihr / Ihnen 永远大写，小写的 sie 是“她 / 他们”。
+---
+? „ei“ 怎么读？例如 mein, Bein => [ai]，像“爱” | [iː]，像“一” | [eː]，像“诶” // // ei 读 [ai]；倒过来写的 ie 才读长 [iː]，比如 mein ↔ mies。
+? „ie“ 怎么读？例如 Liebe, viel => 长 [iː] | [ai] | [i] + [e] 两个音 // // ie 是长 i：Liebe, Brief, sie。
+? „eu“ 在 heute 里怎么读？ => [ɔy]，像“奥伊” | [eu]，像“诶乌” | [ø] // // eu 和 äu 都读 [ɔy]：heute, Leute, Häuser。
+? Straße 开头的 St- 怎么读？ => [ʃt] | [st] | [ts] // // 词首的 st- / sp- 读 [ʃt] / [ʃp]：Stadt, Sport, sprechen。
+? 下面哪个词的 ch 读喉音 [x]？ => Buch | ich | Milch // // a, o, u, au 后面的 ch 读 [x]：Buch, Nacht, auch；其余读软 [ç]：ich, Milch。
+? Tag 词尾的 g 读什么音？ => [k] | [g] | 不发音 // // 词尾清化：b → p，d → t，g → k。
+? 下面哪个词的元音读长音？ => Bahn | Bann | Bank // // 元音后有 h 是长音标记；Bann、Bank 元音后有两个辅音，读短音。
+? Vater 的 V 怎么读？ => [f] | [v] | [w] // // 德语的 v 多数读 [f]（Vater, viel, vier）；w 才读 [v]（Wasser）。
+? 哪个写法是对的？ => Ich wohne in Berlin. | ich Wohne in berlin. | Ich wohne in berlin. // 我住在柏林。 // 句首大写，地名、名词大写，动词小写。
+? 哪个写法是对的？ => Der Tisch ist neu. | Der tisch ist neu. | der Tisch Ist neu. // 这张桌子是新的。 // 名词 Tisch 首字母大写。
+? 正式地问“您叫什么名字？”，哪个写法对？ => Wie heißen Sie? | Wie heißen sie? | Wie heisst Sie? // // 表示“您”的 Sie 永远大写，动词用复数形式 heißen。
+? zwanzig 的词尾 -ig 怎么读？ => [ɪç] | [ɪg] | [ɪk] // // 标准德语里词尾 -ig 读 [ɪç]：billig, ruhig（德国南部也有人读 [ɪk]）。
+
+=== g002 | A1 | 人称代词和 sein / haben | Personalpronomen, sein und haben
+人称代词相当于“我、你、他……”。德语区分**熟人之间的 du / ihr** 和**正式的 Sie**。
+
+| 人称 | 代词 | sein（是） | haben（有） |
+|---|---|---|---|
+| 我 | ich | bin | habe |
+| 你 | du | bist | hast |
+| 他 / 她 / 它 | er / sie / es | ist | hat |
+| 我们 | wir | sind | haben |
+| 你们 | ihr | seid | habt |
+| 他们 / 您 | sie / Sie | sind | haben |
+
+## 用法
+- **du**：家人、朋友、同学、小孩，网上和很多 IT 公司内部也用。
+- **Sie**：陌生人、店员、办事人员、面试官。一个人和多个人都用 Sie，动词和“他们”一样。
+- **er / sie / es** 不只指人，也指东西，跟名词的性走：der Tisch → **er**，die Lampe → **sie**，das Buch → **es**。
+
+» Ich bin Student. — 我是学生。
+» Bist du müde? — 你累了吗？
+» Wir haben heute Zeit. — 我们今天有空。
+» Haben Sie einen Termin? — 您有预约吗？
+» Der Computer ist alt. **Er** ist langsam. — 这台电脑旧了，它很慢。
+> 说职业、国籍时不加冠词：Ich bin Informatiker. Sie ist Chinesin.
+---
+= Ich [bin] Zilong. // 我是子龙。 // ich → bin
+= Du [bist] sehr nett. // 你人真好。 // du → bist
+= Er [ist] Lehrer. // 他是老师。 // er → ist
+= Wir [sind] aus China. // 我们来自中国。 // wir → sind
+= Ihr [seid] zu spät. // 你们迟到了。 // ihr → seid
+= Ich [habe] eine Frage. // 我有一个问题。 // ich → habe
+= [Hast] du einen Bruder? // 你有兄弟吗？ // du → hast
+= Sie [hat] zwei Kinder. // 她有两个孩子。 // sie（她）→ hat
+= [Habt] ihr Hunger? // 你们饿吗？ // ihr → habt
+? Herr Müller, ___ Sie heute im Büro? => sind | ist | seid // 米勒先生，您今天在办公室吗？ // 正式的 Sie 和复数一样用 sind。
+? Die Lampe ist neu. ___ ist sehr hell. => Sie | Er | Es // 这盏灯是新的，它很亮。 // die Lampe 是阴性 → sie。
+? Das Handy ist kaputt. ___ funktioniert nicht. => Es | Er | Sie // 手机坏了，用不了。 // das Handy 是中性 → es。
+? 你和面试官说话，应该用哪个？ => Sie | du | ihr // // 正式场合用 Sie，除非对方主动说“wir können uns duzen”。
+
+=== g003 | A1 | 动词现在时：规则变位 | Präsens: regelmäßige Verben
+德语动词要跟主语变位。去掉不定式词尾 **-en**（或 -n）得到**词干**，再加人称词尾。
+
+| | wohnen（住） | arbeiten（工作） | heißen（叫） |
+|---|---|---|---|
+| ich | wohn==e== | arbeit==e== | heiß==e== |
+| du | wohn==st== | arbeit==est== | heiß==t== |
+| er / sie / es | wohn==t== | arbeit==et== | heiß==t== |
+| wir | wohn==en== | arbeit==en== | heiß==en== |
+| ihr | wohn==t== | arbeit==et== | heiß==t== |
+| sie / Sie | wohn==en== | arbeit==en== | heiß==en== |
+
+## 两个发音规则
+- 词干以 **-t / -d**（以及 -chn, -ffn 等）结尾：du, er, ihr 前面加 **e** 方便发音：du arbeit**est**, er find**et**, es regn**et**。
+- 词干以 **-s / -ß / -z / -x** 结尾：du 只加 **-t**：du heißt, du tanzt, du reist。
+
+## 现在时的意思
+德语现在时既表示“现在”，也常表示**将来**（配合时间词）：
+» Ich lerne jetzt Deutsch. — 我现在在学德语。
+» Morgen arbeite ich nicht. — 明天我不上班。
+» Ich wohne seit zwei Jahren in Konstanz. — 我在康斯坦茨住了两年了（到现在还住）。
+> 德语没有“be + -ing”进行时，lernen 就是“在学 / 学”。
+---
+= Ich [lerne] Deutsch. (lernen) // 我学德语。 // ich → -e
+= Du [wohnst] in Konstanz. (wohnen) // 你住在康斯坦茨。 // du → -st
+= Er [kommt] aus Indien. (kommen) // 他来自印度。 // er → -t
+= Wir [spielen] Fußball. (spielen) // 我们踢足球。 // wir → -en
+= Ihr [macht] das sehr gut. (machen) // 你们做得很好。 // ihr → -t
+= Sie [arbeitet] bei Siemens. (arbeiten) // 她在西门子工作。 // 词干以 -t 结尾 → arbeit-e-t
+= Du [findest] das Buch gut? (finden) // 你觉得这本书好？ // 词干以 -d 结尾 → find-e-st
+= Wie [heißt] du? (heißen) // 你叫什么名字？ // 词干以 -ß 结尾，du 只加 -t
+= Es [regnet] heute. (regnen) // 今天下雨。 // regn- 后加 e：regnet
+? Was ___ Sie beruflich? => machen | macht | machst // 您是做什么工作的？ // Sie → -en
+? ___ du heute Abend? => Arbeitest | Arbeitst | Arbeiten // 你今晚上班吗？ // arbeit- 以 -t 结尾 → du arbeitest
+? Ihr ___ sehr schnell. => sprecht | sprechen | sprichst // 你们说得很快。 // ihr → -t（sprechen 的换音只在 du / er）
+~ Ich / wohne / seit 2024 / in Deutschland. // 我从 2024 年起住在德国。 // 陈述句动词在第二位。
+
+=== g004 | A1 | 现在时：换音动词和不规则动词 | Präsens: Verben mit Vokalwechsel
+很多常用的强变化动词，在 **du 和 er/sie/es** 两个人称里元音会变，其他人称正常。
+
+| 变化 | 不定式 | ich | du | er/sie/es |
+|---|---|---|---|---|
+| e → i | sprechen | spreche | spr==i==chst | spr==i==cht |
+| e → i | essen | esse | ==i==sst | ==i==sst |
+| e → i | geben | gebe | g==i==bst | g==i==bt |
+| e → i | helfen | helfe | h==i==lfst | h==i==lft |
+| e → ie | lesen | lese | l==ie==st | l==ie==st |
+| e → ie | sehen | sehe | s==ie==hst | s==ie==ht |
+| a → ä | fahren | fahre | f==ä==hrst | f==ä==hrt |
+| a → ä | schlafen | schlafe | schl==ä==fst | schl==ä==ft |
+| a → ä | tragen | trage | tr==ä==gst | tr==ä==gt |
+| au → äu | laufen | laufe | l==äu==fst | l==äu==ft |
+
+## 完全不规则
+| | nehmen | werden | wissen |
+|---|---|---|---|
+| ich | nehme | werde | weiß |
+| du | nimmst | wirst | weißt |
+| er/sie/es | nimmt | wird | weiß |
+| wir | nehmen | werden | wissen |
+| ihr | nehmt | werdet | wisst |
+| sie/Sie | nehmen | werden | wissen |
+
+> 还有 treffen → triffst / trifft，vergessen → vergisst，empfehlen → empfiehlt，gefallen → gefällt，waschen → wäscht，fallen → fällt。词典里动词后面写的 „spricht“ 这类形式就是提醒你它换音。
+---
+= Er [spricht] gut Deutsch. (sprechen) // 他德语说得好。 // e → i
+= Du [isst] kein Fleisch? (essen) // 你不吃肉？ // essen → du isst
+= Sie [liest] gern Krimis. (lesen) // 她喜欢读侦探小说。 // e → ie
+= [Siehst] du das Schild? (sehen) // 你看到那块牌子了吗？ // e → ie
+= Der Zug [fährt] um 8 Uhr ab. (fahren) // 火车 8 点开。 // a → ä
+= Das Baby [schläft] noch. (schlafen) // 宝宝还在睡。 // a → ä
+= Er [nimmt] den Bus. (nehmen) // 他坐公交车。 // nehmen → nimmt（不规则）
+= Ich [weiß] es nicht. (wissen) // 我不知道。 // wissen → ich weiß（没有词尾）
+= Es [wird] kalt. (werden) // 天变冷了。 // werden → es wird
+= Du [hilfst] mir immer. (helfen) // 你总是帮我。 // e → i
+? Wir ___ morgen nach München. => fahren | fähren | fahrt // 我们明天去慕尼黑。 // 换音只发生在 du 和 er/sie/es，wir 不变。
+? ___ du, wo der Bahnhof ist? => Weißt | Wisst | Weiß // 你知道火车站在哪吗？ // du weißt
+? Das Kleid ___ mir gut. => gefällt | gefallt | gefällst // 这条裙子我很喜欢。 // gefallen → es gefällt
+? Er ___ seine Freunde am Wochenende. => trifft | treffet | treft // 他周末见朋友。 // treffen → er trifft
+
+=== g005 | A1 | 语序：动词在第二位 | Satzbau: Verb auf Position 2
+德语陈述句最重要的规则：**变位动词放在第二个位置**。“位置”按**成分**算，不是按单词算。
+
+| 位置 1 | 位置 2（动词） | 其余部分 |
+|---|---|---|
+| Ich | ==fahre== | morgen nach Berlin. |
+| Morgen | ==fahre== | ich nach Berlin. |
+| Nach Berlin | ==fahre== | ich morgen. |
+
+- 第一位可以放主语、时间、地点、宾语……任何一个成分，但**只能放一个**。
+- 主语不在第一位时，就放在动词**后面**（这叫倒装 Inversion）。
+- 第一位的成分可以很长：**Am nächsten Montag um 9 Uhr** habe ich einen Termin.
+
+## 常见错误
+» ✗ Morgen ich fahre nach Berlin. — （英语习惯，德语错）
+» ✓ Morgen fahre ich nach Berlin. — 明天我去柏林。
+» ✓ Heute Abend gehen wir ins Kino. — 今晚我们去看电影。
+» ✓ Deutsch lerne ich seit einem Jahr. — 德语我学了一年了。
+> 连词 und, aber, oder, denn, sondern 不占位置（叫“第 0 位”），后面照常：Ich bin müde, aber ich arbeite noch.
+---
+~ Morgen / habe / ich / einen Termin. // 明天我有个预约。 // 时间放第一位，动词第二，主语在动词后。
+~ Ich / habe / morgen / einen Termin. || Morgen / habe / ich / einen Termin. // 我明天有个预约。 // 两种语序都对，动词都在第二位。
+~ Heute / arbeite / ich / im Homeoffice. // 今天我在家办公。 // 动词 arbeite 在第二位。
+~ Am Wochenende / besuchen / wir / unsere Eltern. // 周末我们去看父母。 // Am Wochenende 是一个成分。
+~ In Konstanz / gibt / es / viele Studenten. // 康斯坦茨有很多学生。 // es gibt：地点在前，gibt 第二，es 跟在后面。
+? Jetzt ___ ich keine Zeit. => habe | ich habe | hat // 我现在没时间。 // Jetzt 占第一位，动词 habe 第二，主语 ich 第三。
+? 哪句是对的？ => Am Montag beginnt der Kurs. | Am Montag der Kurs beginnt. | Am Montag der Kurs beginnen. // 课程周一开始。 // 动词在第二位，主语放后面。
+? 哪句是对的？ => Leider kann ich nicht kommen. | Leider ich kann nicht kommen. | Leider ich nicht kann kommen. // 很遗憾我不能来。 // Leider 占第一位。
+? 哪句是对的？ => Ich bin müde, aber ich lerne noch. | Ich bin müde, aber lerne ich noch. | Ich bin müde, aber ich noch lerne. // 我累了，但还在学。 // aber 不占位置，后面是“主语 + 动词”。
+= Um 7 Uhr [stehe] ich auf. (aufstehen) // 我 7 点起床。 // 动词变位部分在第二位，前缀 auf 放句尾。
+
+=== g006 | A1 | 疑问句：W-问句和是非问句 | W-Fragen und Ja/Nein-Fragen
+## W-问句：疑问词 + 动词 + 主语
+疑问词在第一位，动词仍然第二位。
+
+| 疑问词 | 意思 | 例句 |
+|---|---|---|
+| wer | 谁 | Wer ist das? |
+| was | 什么 | Was machst du? |
+| wo | 在哪里 | Wo wohnen Sie? |
+| woher | 从哪里 | Woher kommst du? |
+| wohin | 去哪里 | Wohin fährt der Bus? |
+| wann | 什么时候 | Wann beginnt der Kurs? |
+| wie | 怎样 | Wie heißt du? |
+| wie viel / wie viele | 多少 | Wie viel kostet das? Wie viele Kinder hast du? |
+| wie lange | 多久 | Wie lange dauert das? |
+| warum | 为什么 | Warum lernst du Deutsch? |
+| welcher / welche / welches | 哪个 | Welcher Bus fährt zum Bahnhof? |
+
+## 是非问句：动词在第一位
+» Kommst du mit? — 你一起来吗？
+» Haben Sie Zeit? — 您有时间吗？
+回答用 **ja / nein**；对**否定问句**作肯定回答用 **doch**：
+» Kommst du nicht? – **Doch**, ich komme! — 你不来吗？——不，我来！
+> wie viel 接不可数名词（Wie viel Geld?），wie viele 接复数（Wie viele Leute?）。
+---
+? ___ wohnst du? – In Konstanz. => Wo | Woher | Wohin // 你住在哪里？——康斯坦茨。 // 问所在地用 wo。
+? ___ kommen Sie? – Aus China. => Woher | Wo | Wohin // 您从哪里来？——中国。 // aus … 对应 woher。
+? ___ fährst du im Sommer? – Nach Italien. => Wohin | Wo | Woher // 你夏天去哪？——意大利。 // nach … 对应 wohin。
+? ___ kostet der Kaffee? => Wie viel | Wie viele | Was viel // 咖啡多少钱？ // 价格用 wie viel。
+? ___ beginnt der Deutschkurs? – Um 9 Uhr. => Wann | Wie lange | Wo // 德语课什么时候开始？——9 点。 // 时间点用 wann。
+? Hast du kein Auto? – ___, ich habe ein Auto. => Doch | Ja | Nein // 你没有车吗？——有，我有车。 // 对否定问句作肯定回答用 doch。
+? ___ Geschwister hast du? => Wie viele | Wie viel | Welche viel // 你有几个兄弟姐妹？ // 复数可数名词用 wie viele。
+~ Wann / kommt / der Zug / an? // 火车什么时候到？ // 疑问词第一，动词第二，可分前缀 an 在句尾。
+~ Sprechen / Sie / Englisch? // 您会说英语吗？ // 是非问句动词在第一位。
+~ Warum / lernst / du / Deutsch? // 你为什么学德语？ // W-问句：疑问词 + 动词 + 主语。
+= [Wie] lange dauert der Kurs? – Drei Monate. // 课程持续多久？——三个月。 // 问时长：wie lange
+
+=== g007 | A1 | 名词的性和冠词 | Genus und Artikel
+每个德语名词都有一个**语法性别**：阳性 der、阴性 die、中性 das。性别和意思关系不大（das Mädchen 女孩是中性），**要和名词一起记**。
+
+| | 阳性 m | 阴性 f | 中性 n | 复数 |
+|---|---|---|---|---|
+| 定冠词（这个） | der Tisch | die Lampe | das Buch | die Bücher |
+| 不定冠词（一个） | ein Tisch | eine Lampe | ein Buch | – Bücher |
+| 否定冠词 | kein Tisch | keine Lampe | kein Buch | keine Bücher |
+
+## 帮助记忆的词尾规律（有例外）
+- 阴性 **die**：-ung, -heit, -keit, -schaft, -ion, -tät, -ik, -ei, -ie, -enz：die Zeitung, die Freiheit, die Information, die Universität
+- 中性 **das**：-chen, -lein（小称）, -ment, -um, 动词名词化：das Mädchen, das Dokument, das Zentrum, das Essen
+- 阳性 **der**：-er（做事的人）, -ling, -ismus, -or, 星期、月份、季节、方位：der Lehrer, der Montag, der Juli, der Winter
+
+## 复合名词跟最后一个词
+die Tür + der Schlüssel = **der** Türschlüssel；das Haus + die Tür = **die** Haustür。
+
+## 什么时候用哪种冠词
+- 第一次提到、不确定的：**ein**：Da ist ein Café.
+- 已知的、特定的：**der/die/das**：Das Café ist sehr gut.
+> 在 App 的“单词”里，冠词用颜色标出：der 蓝、die 红、das 绿。
+---
+? ___ Zeitung liegt auf dem Tisch. => Die | Der | Das // 报纸在桌上。 // -ung 结尾都是阴性。
+? ___ Mädchen spielt im Garten. => Das | Die | Der // 女孩在花园里玩。 // -chen 结尾都是中性。
+? ___ Lehrer ist sehr nett. => Der | Die | Das // 这位老师很好。 // 表示人的 -er 一般是阳性。
+? ___ Universität ist alt. => Die | Der | Das // 这所大学很古老。 // -tät 结尾是阴性。
+? ___ Montag ist mein Lieblingstag. => Der | Die | Das // 星期一是我最喜欢的一天。 // 星期都是阳性。
+? Das ist ___ Handy. Es ist neu. => ein | eine | einen // 这是一部手机，它是新的。 // das Handy → ein Handy
+? Hier ist ___ Apotheke. => eine | ein | einer // 这里有一家药店。 // die Apotheke → eine
+? ___ Bahnhofstür ist offen. (der Bahnhof + die Tür) => Die | Der | Das // 火车站的门开着。 // 复合词跟最后一个词：die Tür。
+? ___ Information ist wichtig. => Die | Das | Der // 这个信息很重要。 // -ion 结尾是阴性。
+? ___ Dokument fehlt noch. => Das | Der | Die // 还缺一份文件。 // -ment 结尾通常是中性。
+= Da ist ein Restaurant. [Das] Restaurant ist teuer. // 那有家餐馆，那家餐馆很贵。 // 第一次提用 ein，再提用定冠词；das Restaurant。
+
+=== g008 | A1 | 名词复数 | Pluralformen
+德语复数有好几种形式，最好**连同复数一起记单词**（词典写作 der Tisch, -e）。复数的定冠词一律是 **die**。
+
+| 类型 | 规律 | 例子 |
+|---|---|---|
+| -e | 很多阳性单音节词，常带变音 | der Tisch → die Tisch==e==，der Stuhl → die St==ü==hl==e== |
+| -er | 很多中性单音节词，能变音就变 | das Kind → die Kind==er==，das Buch → die B==ü==ch==er== |
+| -(e)n | 绝大多数阴性词 | die Frau → die Frau==en==，die Lampe → die Lampe==n== |
+| 不变 / 只变音 | 以 -er, -el, -en, -chen, -lein 结尾的阳性、中性词 | der Lehrer → die Lehrer，der Vater → die V==ä==ter，das Mädchen → die Mädchen |
+| -s | 外来词、缩写、以元音结尾的词 | das Auto → die Auto==s==，das Handy → die Handy==s==，der Chef → die Chef==s== |
+
+## 阴性的特别规则
+- -in 结尾的女性名词：复数 **-innen**：die Lehrerin → die Lehrer**innen**
+- -ung, -heit, -keit, -ion 一律 **-en**：die Wohnung → die Wohnung**en**
+
+## 不定冠词没有复数
+» Ich habe einen Bruder. → Ich habe zwei Brüder. — 我有一个兄弟 → 两个兄弟
+» Ich habe keine Geschwister. — 我没有兄弟姐妹。
+> Leute（人们）只有复数；die Eltern（父母）也只用复数。
+---
+= ein Kind – zwei [Kinder] // 一个孩子——两个孩子 // das Kind → -er
+= eine Frau – drei [Frauen] // 一个女人——三个女人 // 阴性 → -en
+= ein Auto – zwei [Autos] // 一辆车——两辆车 // 以元音结尾的外来词 → -s
+= ein Buch – viele [Bücher] // 一本书——很多书 // -er + 变音
+= ein Lehrer – zwei [Lehrer] // 一位老师——两位老师 // -er 结尾的阳性词复数不变
+= eine Wohnung – zwei [Wohnungen] // 一套公寓——两套公寓 // -ung → -en
+= eine Kollegin – zwei [Kolleginnen] // 一位女同事——两位女同事 // -in → -innen
+= ein Stuhl – vier [Stühle] // 一把椅子——四把椅子 // -e + 变音
+= ein Mädchen – zwei [Mädchen] // 一个女孩——两个女孩 // -chen 结尾复数不变
+? 复数的定冠词是什么？ ___ Kinder spielen. => Die | Der | Das // 孩子们在玩。 // 所有复数的定冠词都是 die。
+? Ich habe zwei ___. => Brüder | Bruder | Brudern // 我有两个兄弟。 // der Bruder → die Brüder（只变音）
+? Wir brauchen drei ___. => Zimmer | Zimmern | Zimmers // 我们需要三个房间。 // das Zimmer：-er 结尾的中性词复数不变。
+
+=== g009 | A1 | 第四格（宾格） | Akkusativ
+德语用“格”表示名词在句子里的作用。主语用**第一格**（Nominativ），**直接宾语**用**第四格**（Akkusativ）。
+
+## 只有阳性变化！
+| | 阳性 | 阴性 | 中性 | 复数 |
+|---|---|---|---|---|
+| 第一格 | der / ein / kein | die / eine | das / ein | die / – |
+| 第四格 | ==den== / ==einen== / ==keinen== | die / eine | das / ein | die / – |
+
+» **Der** Kaffee ist heiß. — 咖啡很烫。（第一格，主语）
+» Ich trinke **den** Kaffee. — 我喝咖啡。（第四格，宾语）
+» Ich habe **einen** Bruder und **eine** Schwester. — 我有一个哥哥和一个姐姐。
+
+## 常带第四格宾语的动词
+haben, brauchen, kaufen, suchen, finden, sehen, besuchen, essen, trinken, nehmen, möchten, bestellen, lesen, schreiben, kennen, verstehen
+
+## es gibt + 第四格
+» Es gibt **einen** Supermarkt in der Nähe. — 附近有一家超市。
+> 怎么判断是不是第四格：问“wen? / was?”（谁？什么？）能回答的那个名词。
+---
+= Ich suche [einen] Job. (ein) // 我在找工作。 // der Job → 第四格 einen
+= Wir brauchen [eine] Wohnung. (eine) // 我们需要一套公寓。 // 阴性第四格不变
+= Er kauft [den] Computer. (der) // 他买这台电脑。 // 阳性第四格 der → den
+= Hast du [einen] Kuli? (ein) // 你有圆珠笔吗？ // der Kuli → einen
+= Ich nehme [das] Fahrrad. (das) // 我骑自行车。 // 中性第四格不变
+= Es gibt [einen] Park hier. (ein) // 这里有个公园。 // es gibt 后面接第四格
+= Ich habe [keinen] Hunger. (kein) // 我不饿。 // der Hunger → keinen
+= Sie besucht [den] Kurs. (der) // 她上这门课。 // der Kurs → den
+? ___ Mann trinkt einen Tee. => Der | Den | Dem // 那个男人喝茶。 // 主语用第一格 der。
+? Ich sehe ___ Mann. => den | der | dem // 我看见那个男人。 // 宾语，阳性第四格 den。
+? Möchten Sie ___ Kaffee? => einen | ein | eine // 您想要杯咖啡吗？ // der Kaffee → einen
+? Ich kenne ___ Frau nicht. => die | den | der // 我不认识那位女士。 // 阴性第四格仍是 die。
+
+=== g010 | A1 | 否定：nicht 和 kein | Negation mit nicht und kein
+## kein：否定名词
+否定**不定冠词名词**或**零冠词名词**时用 **kein**，词尾和 ein 一样（复数 keine）。
+» Ich habe **ein** Auto. → Ich habe **kein** Auto. — 我没有车。
+» Ich trinke Kaffee. → Ich trinke **keinen** Kaffee. — 我不喝咖啡。
+» Wir haben Kinder. → Wir haben **keine** Kinder. — 我们没有孩子。
+
+| | 阳性 | 阴性 | 中性 | 复数 |
+|---|---|---|---|---|
+| 第一格 | kein | keine | kein | keine |
+| 第四格 | keinen | keine | kein | keine |
+
+## nicht：其他所有情况
+- 否定动词 / 整句：Ich arbeite heute **nicht**.
+- 否定带定冠词或物主冠词的名词：Das ist **nicht** mein Handy.
+- 否定形容词、副词：Das ist **nicht** teuer.
+- 否定名字：Ich bin **nicht** Herr Meier.
+
+## nicht 放哪
+- 否定整句：放在句尾附近，但在**可分前缀、第二个动词、方向 / 地点补足语前**：Ich rufe dich **nicht** an. Ich kann heute **nicht** kommen. Ich fahre **nicht** nach Berlin.
+- 否定某个成分：放在它前面：**Nicht** ich, sondern mein Bruder.
+> 记法：名词前有 ein 或什么都没有 → kein；其余 → nicht。
+---
+? Ich habe ___ Zeit. => keine | nicht | kein // 我没时间。 // 零冠词名词 Zeit（阴性）→ keine
+? Das ist ___ mein Laptop. => nicht | kein | keinen // 那不是我的笔记本电脑。 // 有物主冠词 mein → nicht
+? Er raucht ___. => nicht | kein | keinen // 他不抽烟。 // 否定动词 → nicht
+? Wir haben ___ Auto. => kein | keinen | nicht // 我们没有车。 // das Auto → kein
+? Das Essen ist ___ gut. => nicht | kein | keine // 饭不好吃。 // 否定形容词 → nicht
+? Ich brauche ___ Hilfe, danke. => keine | kein | nicht // 我不需要帮助，谢谢。 // die Hilfe → keine
+? Sie hat ___ Bruder. => keinen | kein | keine // 她没有兄弟。 // der Bruder 第四格 → keinen
+? Ich verstehe das ___. => nicht | kein | keine // 我不明白。 // 否定动词 → nicht
+~ Ich / kann / heute / nicht / kommen. // 我今天来不了。 // nicht 在第二个动词（不定式）前。
+~ Ich / rufe / dich / morgen / nicht / an. // 我明天不给你打电话。 // nicht 在可分前缀 an 前。
+= Hast du Geschwister? – Nein, ich habe [keine] Geschwister. // 你有兄弟姐妹吗？——没有。 // 复数 → keine
+
+=== g011 | A1 | 物主冠词 | Possessivartikel
+物主冠词表示“我的、你的……”，**词尾和 ein / kein 完全一样**，跟着后面的名词变。
+
+| 人称 | 物主冠词 | 阳/中性（第一格） | 阴性 / 复数 |
+|---|---|---|---|
+| ich | mein | mein Vater | mein==e== Mutter |
+| du | dein | dein Bruder | dein==e== Schwester |
+| er / es | sein | sein Sohn | sein==e== Tochter |
+| sie（她） | ihr | ihr Mann | ihr==e== Familie |
+| wir | unser | unser Kind | unser==e== Eltern |
+| ihr | euer | euer Haus | eu==re== Wohnung |
+| sie（他们） | ihr | ihr Auto | ihr==e== Kinder |
+| Sie（您） | Ihr | Ihr Pass | Ihr==e== Adresse |
+
+## 第四格：阳性加 -en
+» Ich suche mein**en** Schlüssel. — 我在找我的钥匙。
+» Kennst du unser**en** Lehrer? — 你认识我们的老师吗？
+> euer 加词尾时去掉 e：eure Eltern, euren Hund。sein 用于 er / es，ihr 用于 sie：Peter und **seine** Frau；Anna und **ihr** Mann。
+---
+? Das ist ___ Mutter. (ich) => meine | mein | meinen // 这是我妈妈。 // die Mutter → meine
+? Wie ist ___ Name? (Sie) => Ihr | ihr | Ihre // 您叫什么名字？ // der Name，正式“您” → Ihr（大写）
+? Anna sucht ___ Handy. => ihr | sein | ihre // 安娜在找她的手机。 // 她的 → ihr；das Handy 第四格不变
+? Peter besucht ___ Eltern. => seine | ihre | sein // 彼得去看他的父母。 // 他的 → sein，复数 → seine
+? Wo ist ___ Wohnung? (ihr = 你们) => eure | euere | euer // 你们的公寓在哪？ // euer + e → eure
+= Ich suche [meinen] Schlüssel. (mein) // 我在找我的钥匙。 // der Schlüssel 第四格 → meinen
+= Wir lieben [unsere] Stadt. (unser) // 我们爱我们的城市。 // die Stadt → unsere
+= Hast du [deinen] Pass dabei? (dein) // 你带护照了吗？ // der Pass 第四格 → deinen
+= Das ist [unser] Lehrer. (unser) // 这是我们的老师。 // 第一格阳性没有词尾
+= Frau Schmidt, ist das [Ihr] Koffer? (Ihr) // 施密特女士，这是您的箱子吗？ // der Koffer 第一格 → Ihr
+
+=== g012 | A1 | 情态动词 | Modalverben
+情态动词表示“能、必须、想、可以”等，和另一个动词的**不定式**连用，形成**句框**：情态动词在第二位，不定式在**句尾**。
+
+» Ich ==kann== gut Deutsch ==sprechen==. — 我德语说得好。
+» ==Musst== du heute ==arbeiten==? — 你今天要上班吗？
+
+| | können 能 | müssen 必须 | wollen 想要 | möchten 想 | dürfen 允许 | sollen 应该 |
+|---|---|---|---|---|---|---|
+| ich | kann | muss | will | möchte | darf | soll |
+| du | kannst | musst | willst | möchtest | darfst | sollst |
+| er/sie/es | kann | muss | will | möchte | darf | soll |
+| wir | können | müssen | wollen | möchten | dürfen | sollen |
+| ihr | könnt | müsst | wollt | möchtet | dürft | sollt |
+| sie/Sie | können | müssen | wollen | möchten | dürfen | sollen |
+
+**ich 和 er 形式一样**，而且没有 -t 词尾。
+
+## 意思
+- **können**：能力、可能：Ich kann schwimmen.
+- **müssen**：必须；**nicht müssen** = 不必：Du musst nicht kommen.（不是“不许”！）
+- **dürfen**：允许；**nicht dürfen** = 禁止：Hier darf man nicht rauchen.
+- **wollen**：坚决的意愿、计划；**möchten**：礼貌的愿望（点餐、请求）。
+- **sollen**：别人要求 / 建议：Der Arzt sagt, ich soll mehr schlafen.
+> möchten 单独用也可以：Ich möchte einen Kaffee.
+---
+= Ich [kann] heute nicht kommen. (können) // 我今天来不了。 // ich kann
+= [Kannst] du mir helfen? (können) // 你能帮我吗？ // du kannst
+= Er [muss] morgen früh aufstehen. (müssen) // 他明天得早起。 // er muss
+= Hier [darf] man nicht parken. (dürfen) // 这里禁止停车。 // man darf
+= Wir [möchten] bitte zahlen. (möchten) // 我们想结账。 // wir möchten
+= Was [willst] du später werden? (wollen) // 你以后想做什么？ // du willst
+= Ihr [sollt] die Hausaufgaben machen. (sollen) // 你们应该做作业。 // ihr sollt
+~ Ich / muss / heute / lange / arbeiten. // 我今天得工作很久。 // 情态动词第二位，不定式句尾。
+~ Kannst / du / bitte / langsamer / sprechen? // 你能说慢一点吗？ // 是非问句：情态动词第一位，不定式句尾。
+? Du ___ nicht kommen, wenn du keine Zeit hast. => musst | darfst | kannst // 你没时间的话不用来。 // nicht müssen = 不必。
+? Im Krankenhaus ___ man nicht laut sein. => darf | muss | möchte // 医院里不许大声。 // nicht dürfen = 禁止。
+? Mein Arzt sagt, ich ___ weniger Kaffee trinken. => soll | will | darf // 医生说我应该少喝咖啡。 // 别人的建议 / 要求 → sollen
+
+=== g013 | A1 | 可分动词 | Trennbare Verben
+很多动词由**前缀 + 动词**组成。在现在时陈述句和问句里，**前缀跑到句尾**，和变位动词形成句框。
+
+» ==an==rufen：Ich ==rufe== dich morgen ==an==. — 我明天给你打电话。
+» ==auf==stehen：Wann ==stehst== du ==auf==? — 你几点起床？
+» ==ein==kaufen：Wir ==kaufen== am Samstag ==ein==. — 我们周六去买东西。
+
+## 常见可分前缀（重读）
+ab-, an-, auf-, aus-, ein-, mit-, nach-, vor-, weg-, zu-, zurück-, fern-, los-
+例：abfahren, anfangen, aufräumen, ausgehen, einladen, mitkommen, vorstellen, zumachen, zurückkommen, fernsehen
+
+## 不可分前缀（不重读，永远不分开）
+be-, ge-, er-, ver-, zer-, ent-, emp-, miss-
+例：bekommen, gefallen, erklären, verstehen, entscheiden, empfehlen
+
+## 不分开的情况
+- 和情态动词连用时，不定式放句尾**不分开**：Ich muss morgen früh **aufstehen**.
+- 在从句里（以后学）：…, weil ich früh **aufstehe**.
+> 前缀改变意思：kommen 来 → ankommen 到达，mitkommen 一起来，bekommen 得到（不是“变成”！）。
+---
+= Der Zug [kommt] um 10 Uhr [an]. (ankommen) // 火车 10 点到。 // 前缀 an 放句尾
+= Ich [stehe] jeden Tag um 6 Uhr [auf]. (aufstehen) // 我每天 6 点起床。 // auf 放句尾
+= [Kommst] du heute Abend [mit]? (mitkommen) // 你今晚一起来吗？ // 问句里前缀也在句尾
+= Wir [laden] unsere Freunde [ein]. (einladen) // 我们邀请朋友。 // laden … ein
+= Der Film [fängt] um 20 Uhr [an]. (anfangen) // 电影 20 点开始。 // anfangen：a → ä
+= Ich [verstehe] das nicht. (verstehen) // 我不明白。 // ver- 不可分
+~ Ich / muss / morgen / früh / aufstehen. // 我明天得早起。 // 情态动词 + 不定式：aufstehen 不分开。
+~ Wann / fährt / der Bus / ab? // 公交车什么时候开？ // ab 在句尾。
+= Wann [rufst] du mich [an]? (anrufen) // 你什么时候给我打电话？ // 可分：rufst … an
+= Ich [sehe] heute Abend [fern]. (fernsehen) // 我今晚看电视。 // fernsehen 可分：ich sehe … fern
+? Ich ___ eine E-Mail. (bekommen) => bekomme | komme … be | bekommt // 我收到一封邮件。 // be- 不可分。
+= Er [räumt] seine Wohnung [auf]. (aufräumen) // 他整理房间。 // räumt … auf
+
+=== g014 | A1 | 命令式 | Imperativ
+命令式用来请求、建议、指示。动词放**第一位**。
+
+| 对象 | 构成 | kommen | warten | fahren | sein |
+|---|---|---|---|---|---|
+| du | du 形式去掉 -st（去掉 du） | Komm! | Warte! | Fahr! | Sei! |
+| ihr | ihr 形式（去掉 ihr） | Kommt! | Wartet! | Fahrt! | Seid! |
+| Sie | Sie 形式，Sie 放动词后 | Kommen Sie! | Warten Sie! | Fahren Sie! | Seien Sie! |
+
+## 注意
+- e → i / ie 的换音在 du 命令式里**保留**：sprechen → **Sprich!** lesen → **Lies!** nehmen → **Nimm!** geben → **Gib!**
+- a → ä 的换音**不保留**：fahren → **Fahr!**（不是 Fähr!），schlafen → **Schlaf!**
+- 词干以 -t, -d 结尾加 -e：Warte! Antworte! Finde!
+- 可分动词前缀在句尾：**Ruf** mich bitte **an**!
+- 加 **bitte, mal, doch** 显得礼貌：Komm doch mal vorbei!
+> sein 的命令式不规则：Sei ruhig! Seid pünktlich! Seien Sie bitte geduldig!
+---
+= [Komm] bitte her! (du, kommen) // 请过来！ // du kommst → Komm!
+= [Sprich] bitte langsamer! (du, sprechen) // 请说慢一点！ // e → i 保留：Sprich!
+= [Lies] den Text! (du, lesen) // 读这篇课文！ // e → ie 保留：Lies!
+= [Fahr] vorsichtig! (du, fahren) // 开车小心！ // a → ä 不保留：Fahr!
+= [Nehmen] Sie Platz, bitte. (Sie, nehmen) // 请坐。 // Sie 的命令式：动词 + Sie
+= [Wartet] hier! (ihr, warten) // 你们在这等着！ // ihr wartet → Wartet!
+= [Sei] nicht so laut! (du, sein) // 别那么吵！ // sein → Sei!
+~ Ruf / mich / bitte / morgen / an! // 明天请给我打电话！ // 可分前缀 an 在句尾。
+~ Füllen / Sie / bitte / das Formular / aus! // 请您填一下这张表！ // Sie 的命令式，aus 在句尾。
+? ___ mir bitte das Salz! (du, geben) => Gib | Gebe | Gibst // 请把盐递给我！ // geben → Gib!
+? ___ Sie bitte Ihren Namen! (buchstabieren) => Buchstabieren | Buchstabiert | Buchstabier // 请拼一下您的名字！ // Sie → Buchstabieren Sie!
+
+=== g015 | A1 | 第三格（与格） | Dativ
+第三格常表示“给谁、对谁”（间接宾语），也跟在某些动词和介词后面。
+
+| | 阳性 | 阴性 | 中性 | 复数 |
+|---|---|---|---|---|
+| 第一格 | der / ein | die / eine | das / ein | die / – |
+| 第三格 | ==dem== / ==einem== | ==der== / ==einer== | ==dem== / ==einem== | ==den== + 名词 ==-n== |
+
+» Ich gebe **dem** Kind ein Buch. — 我给孩子一本书。
+» Ich schreibe **meiner** Mutter eine E-Mail. — 我给我妈妈写封邮件。
+» Das gehört **den** Kinder**n**. — 这是孩子们的。（复数第三格名词加 -n）
+
+## 常用的第三格动词（只带第三格宾语）
+helfen, danken, gefallen, gehören, antworten, gratulieren, schmecken, passen, stehen（衣服适合）, fehlen, zuhören
+» Kannst du **mir** helfen? — 你能帮我吗？
+» Die Jacke gefällt **meiner** Freundin. — 我女朋友喜欢这件外套。
+» Das Essen schmeckt **dem** Gast. — 客人觉得饭菜好吃。
+
+## 给某人某物：第三格（人）+ 第四格（物）
+geben, schenken, schicken, zeigen, erklären, bringen, empfehlen
+> 问“wem?”（给谁 / 对谁）能回答的就是第三格。
+---
+= Ich helfe [dem] Mann. (der) // 我帮这个男人。 // helfen + 第三格：der → dem
+= Wir danken [der] Lehrerin. (die) // 我们感谢老师。 // danken + 第三格：die → der
+= Das Buch gehört [dem] Kind. (das) // 这本书是孩子的。 // gehören + 第三格：das → dem
+= Ich schenke [meinem] Vater eine Uhr. (mein) // 我送我爸爸一块表。 // 阳性第三格 → meinem
+= Er antwortet [seiner] Chefin. (seine) // 他回复他的女上司。 // 阴性第三格 → seiner
+= Gibst du [den] Kindern Schokolade? (die Kinder) // 你给孩子们巧克力吗？ // 复数第三格 den + -n
+? Der Pullover gefällt ___ Frau. => der | die | den // 这位女士喜欢这件毛衣。 // gefallen + 第三格：die → der
+? Ich zeige ___ Kollegen das Büro. (ein) => einem | einen | ein // 我给一位同事看办公室。 // 阳性第三格 → einem
+? Kannst du ___ Oma helfen? (unsere) => unserer | unsere | unseren // 你能帮帮我们的奶奶吗？ // 阴性第三格 → unserer
+? Das Essen schmeckt ___ Gästen. => den | die | dem // 客人们觉得饭菜好吃。 // 复数第三格 den Gästen
+
+=== g016 | A1 | 人称代词的第四格和第三格 | Personalpronomen im Akkusativ und Dativ
+| 第一格 | 第四格 | 第三格 |
+|---|---|---|
+| ich | mich | mir |
+| du | dich | dir |
+| er | ihn | ihm |
+| sie | sie | ihr |
+| es | es | ihm |
+| wir | uns | uns |
+| ihr | euch | euch |
+| sie | sie | ihnen |
+| Sie | Sie | Ihnen |
+
+» Ich liebe **dich**. — 我爱你。（lieben + 第四格）
+» Ich helfe **dir**. — 我帮你。（helfen + 第三格）
+» Wie geht es **Ihnen**? — 您好吗？
+» Der Film gefällt **mir**. — 我喜欢这部电影。
+
+## 两个宾语的顺序
+- 两个都是名词：第三格在前：Ich gebe **dem Kind** **den Ball**.
+- 有一个是代词：代词在前：Ich gebe **ihn** dem Kind. / Ich gebe **ihm** den Ball.
+- 两个都是代词：**第四格在前**：Ich gebe **ihn ihm**.
+> 代词跟着名词的性：der Computer → ihn，die Tasche → sie，das Handy → es。
+---
+= Ich sehe [dich] morgen. (du) // 我明天见你。 // sehen + 第四格：dich
+= Kannst du [mir] helfen? (ich) // 你能帮我吗？ // helfen + 第三格：mir
+= Ich rufe [Sie] morgen an. (Sie) // 我明天给您打电话。 // anrufen + 第四格：Sie
+= Wie geht es [dir]? (du) // 你好吗？ // es geht + 第三格
+= Wir besuchen [euch] am Sonntag. (ihr) // 我们周日去看你们。 // 第四格 euch
+= Gefällt [Ihnen] die Wohnung? (Sie) // 您喜欢这套公寓吗？ // gefallen + 第三格 Ihnen
+= Ich kenne Herrn Weber. Ich kenne [ihn] gut. // 我认识韦伯先生，跟他很熟。 // 阳性第四格 ihn
+= Das ist Lisa. Ich schreibe [ihr] eine Nachricht. // 这是丽莎，我给她发条消息。 // 阴性第三格 ihr
+? Wo ist mein Schlüssel? Ich finde ___ nicht. => ihn | ihm | er // 我的钥匙在哪？我找不到它。 // der Schlüssel → 第四格 ihn
+? Die Kinder sind laut. Ich sage ___, sie sollen ruhig sein. => ihnen | sie | ihr // 孩子们很吵，我跟他们说要安静。 // sagen + 第三格（对谁说）→ ihnen
+? Das Buch? Ich gebe ___ morgen. => es dir | dir es | dich es // 那本书？我明天给你。 // 两个代词：第四格在前：es dir。
+
+=== g017 | A1 | 时间介词 | Temporale Präpositionen
+| 介词 | 用于 | 例子 |
+|---|---|---|
+| um | 钟点 | um 8 Uhr, um halb zehn |
+| am | 天、日期、一天中的时段 | am Montag, am 3. Mai, am Abend, am Wochenende |
+| im | 月份、季节、年份段 | im Juli, im Winter, im Jahr 2026 |
+| in der Nacht | 夜里（例外） | in der Nacht |
+| von … bis | 从……到…… | von 9 bis 17 Uhr |
+| ab | 从……起 | ab Montag, ab 18 Uhr |
+| vor | ……之前；……前（时长） | vor dem Essen, vor zwei Jahren |
+| nach | ……之后 | nach der Arbeit |
+| seit | 从过去某时一直到现在 | seit 2023, seit drei Monaten |
+| in | 从现在起……之后 | in zwei Wochen |
+| für | 计划持续多久 | für eine Woche |
+| gegen | 大约（钟点） | gegen 7 Uhr |
+
+## 年份不加介词
+» Ich bin 1998 geboren. — 我 1998 年出生。（或 im Jahr 1998）
+
+## 钟点
+- 正式：Es ist 14:30 → vierzehn Uhr dreißig
+- 口语：halb drei（2:30，“三点的一半”），Viertel nach zwei（2:15），Viertel vor drei（2:45），fünf nach halb drei（2:35）
+> seit 表示到现在还在持续，动词用**现在时**：Ich wohne seit 2024 hier.（不是 habe gewohnt）
+---
+? Der Kurs beginnt ___ 9 Uhr. => um | am | im // 课程 9 点开始。 // 钟点用 um。
+? Wir treffen uns ___ Freitag. => am | um | im // 我们周五见。 // 星期用 am。
+? ___ Sommer fahren wir ans Meer. => Im | Am | Um // 夏天我们去海边。 // 季节用 im。
+? Ich lerne ___ einem Jahr Deutsch. => seit | vor | für // 我学德语一年了。 // 持续到现在用 seit。
+? Ich habe ___ zwei Jahren in Peking gewohnt. => vor | seit | in // 我两年前住在北京。 // “……之前”用 vor。
+? Der Arzt hat ___ 8 ___ 12 Uhr Sprechstunde. => von … bis | ab … bis | um … bis // 医生 8 点到 12 点门诊。 // 从……到……：von … bis
+? Mein Geburtstag ist ___ 15. März. => am | im | um // 我的生日是 3 月 15 日。 // 日期用 am。
+? ___ zwei Wochen habe ich Urlaub. => In | Vor | Seit // 两周后我休假。 // 从现在起……后：in
+? Wir kommen ___ der Arbeit vorbei. => nach | vor | seit // 我们下班后过来。 // nach + 第三格：之后
+? Es ist 14:30. Es ist ___ drei. => halb | Viertel nach | Viertel vor // 现在两点半。 // 2:30 口语说 halb drei。
+? ___ der Nacht schlafe ich schlecht. => In | Am | Um // 夜里我睡得不好。 // 例外：in der Nacht（但 am Abend）。
+
+=== g018 | A1 | 地点介词：去哪、在哪、从哪来 | wohin, wo, woher
+| | 去哪 wohin? | 在哪 wo? | 从哪来 woher? |
+|---|---|---|---|
+| 城市、国家（无冠词） | ==nach== Berlin, nach China | ==in== Berlin, in China | ==aus== Berlin, aus China |
+| 带冠词的国家 | in die Schweiz, in die USA | in der Schweiz | aus der Schweiz |
+| 人、医生、公司 | ==zu== meinem Freund, zum Arzt | ==bei== meinem Freund, beim Arzt, bei Bosch | ==von== meinem Freund, vom Arzt |
+| 建筑、场所 | in die Schule, ins Kino, zur Post | in der Schule, im Kino, auf der Post | aus der Schule, aus dem Kino |
+| 回家 / 在家 | ==nach Hause== | ==zu Hause== | von zu Hause |
+
+## 缩合形式
+zu + dem = **zum**，zu + der = **zur**，in + das = **ins**，in + dem = **im**，bei + dem = **beim**，von + dem = **vom**
+
+» Ich gehe **zum** Arzt. — 我去看医生。
+» Ich bin **beim** Arzt. — 我在医生那儿。
+» Ich komme **vom** Arzt. — 我从医生那儿回来。
+» Er arbeitet **bei** Siemens. — 他在西门子工作。（公司用 bei）
+> aus, bei, mit, nach, seit, von, zu 后面永远接第三格。
+---
+? Ich fahre morgen ___ München. => nach | zu | in // 我明天去慕尼黑。 // 去城市用 nach。
+? Er wohnt ___ Hamburg. => in | nach | zu // 他住在汉堡。 // 在城市用 in。
+? Woher kommst du? – Ich komme ___ Japan. => aus | von | nach // 你从哪里来？——日本。 // 来自国家用 aus。
+? Ich gehe heute ___ Arzt. => zum | beim | nach // 我今天去看医生。 // 去某人那里：zu + dem = zum
+? Sie ist gerade ___ Friseur. => beim | zum | im // 她正在理发店。 // 在某人那里：bei + dem = beim
+? Wir gehen ___ Kino. => ins | im | zum // 我们去看电影。 // in + das = ins（去哪）
+? Nach der Arbeit gehe ich ___. => nach Hause | zu Hause | ins Hause // 下班后我回家。 // 回家 nach Hause；在家 zu Hause。
+? Ich arbeite ___ einer IT-Firma. => bei | zu | nach // 我在一家 IT 公司工作。 // 在公司工作用 bei（说 in einer Firma 也对）。
+? Am Wochenende bin ich ___. => zu Hause | nach Hause | im Hause // 周末我在家。 // 在家：zu Hause
+? Wir fahren im Urlaub ___ Schweiz. => in die | nach | in der // 我们假期去瑞士。 // 带冠词的国家：in die Schweiz。
+= Ich komme gerade [vom] Supermarkt. (von + dem) // 我刚从超市回来。 // von + dem = vom
+
+=== g019 | A1 | 现在完成时（入门） | Perfekt: Einführung
+口语里讲过去的事，德语主要用**现在完成时**：**haben / sein（变位，第二位）+ 过去分词（句尾）**。
+
+» Ich ==habe== gestern Pizza ==gegessen==. — 我昨天吃了披萨。
+» Wir ==sind== nach Berlin ==gefahren==. — 我们去了柏林。
+
+## 规则动词的过去分词：ge- + 词干 + -t
+| 不定式 | 过去分词 |
+|---|---|
+| machen | ==ge==mach==t== |
+| kaufen | ==ge==kauf==t== |
+| lernen | ==ge==lern==t== |
+| arbeiten | ==ge==arbeit==et== |
+| spielen | ==ge==spiel==t== |
+
+## 常见不规则动词（-en 结尾，常变元音）
+gehen → gegangen，kommen → gekommen，fahren → gefahren，essen → gegessen，trinken → getrunken，sehen → gesehen，schreiben → geschrieben，lesen → gelesen，sprechen → gesprochen，schlafen → geschlafen
+
+## haben 还是 sein？
+- 大多数动词用 **haben**。
+- **位置移动**（gehen, kommen, fahren, fliegen, laufen）和**状态变化**（aufstehen, einschlafen, werden, sterben）用 **sein**；还有 sein、bleiben、passieren 本身也用 sein。
+> 下一级（A2）会系统讲可分动词、-ieren 动词的分词和更多 sein 动词。
+---
+= Ich [habe] gestern Fußball [gespielt]. (spielen) // 我昨天踢了足球。 // haben + gespielt
+= Wir [haben] eine Wohnung [gesucht]. (suchen) // 我们找过一套公寓。 // 规则动词：ge-…-t
+= Er [hat] lange [gearbeitet]. (arbeiten) // 他工作了很久。 // 词干以 -t 结尾：gearbeitet
+= Sie [ist] nach Hause [gegangen]. (gehen) // 她回家了。 // 位置移动 → sein；gehen → gegangen
+= [Hast] du schon [gegessen]? (essen) // 你吃过了吗？ // essen → gegessen
+= Ich [bin] mit dem Zug [gefahren]. (fahren) // 我坐火车去的。 // 移动 → sein
+= Was [hast] du am Wochenende [gemacht]? (machen) // 你周末做了什么？ // machen → gemacht
+? Gestern ___ ich einen Film gesehen. => habe | bin | hat // 我昨天看了部电影。 // sehen 用 haben。
+? Wann ___ du nach Deutschland gekommen? => bist | hast | ist // 你什么时候来的德国？ // kommen 是移动 → sein
+? Ich habe ein Buch ___. (lesen) => gelesen | gelest | geliest // 我读了一本书。 // lesen → gelesen（不规则）
+~ Ich / habe / gestern / viel / gelernt. // 我昨天学了很多。 // haben 在第二位，过去分词在句尾。
+
+=== g020 | A1 | 并列连词 und, oder, aber, denn, sondern | Konjunktionen auf Position 0
+这几个连词连接两个**主句**，本身**不占位置**（第 0 位），后面的句子语序不变（主语 + 动词，或别的成分 + 动词 + 主语）。
+
+| 连词 | 意思 | 例子 |
+|---|---|---|
+| und | 和、而且 | Ich koche **und** du räumst auf. |
+| oder | 或者 | Trinkst du Tee **oder** möchtest du Kaffee? |
+| aber | 但是 | Die Wohnung ist schön, **aber** sie ist teuer. |
+| denn | 因为（说明理由） | Ich bleibe zu Hause, **denn** ich bin krank. |
+| sondern | 而是（前面是否定） | Ich komme **nicht** aus Japan, **sondern** aus China. |
+
+» Ich lerne Deutsch, **denn** ich will in Deutschland arbeiten. — 我学德语，因为我想在德国工作。
+» Heute regnet es, **aber** morgen scheint die Sonne. — 今天下雨，但明天出太阳。
+
+## 逗号
+- aber, denn, sondern 前面**要加逗号**。
+- und, oder 连接两个完整句子时一般不加逗号。
+> denn 和 weil 都是“因为”，但 weil 后面动词放句尾（A2 讲）：…, weil ich krank **bin**。
+---
+? Ich habe Hunger, ___ ich habe nichts gegessen. => denn | aber | oder // 我饿了，因为我什么都没吃。 // 说明原因用 denn。
+? Das Auto ist alt, ___ es fährt noch gut. => aber | denn | sondern // 车很旧，但还挺好开。 // 转折用 aber。
+? Das ist nicht mein Handy, ___ das von Lisa. => sondern | aber | oder // 这不是我的手机，而是丽莎的。 // nicht …, sondern …
+? Möchtest du Wasser ___ Saft? => oder | und | aber // 你想喝水还是果汁？ // 二选一用 oder。
+~ Ich bleibe zu Hause, / denn / ich / bin / krank. // 我待在家，因为我病了。 // denn 不占位置，后面主语 + 动词。
+~ Er spricht Englisch, / aber / er / versteht / kein Deutsch. // 他会说英语，但听不懂德语。 // aber 后面正常语序。
+~ Heute regnet es, / aber / morgen / scheint / die Sonne. // 今天下雨，但明天出太阳。 // aber 后 morgen 占第一位，动词第二，主语第三。
+? 哪句是对的？ => Ich lerne viel, denn ich habe bald eine Prüfung. | Ich lerne viel, denn habe ich bald eine Prüfung. | Ich lerne viel, denn ich bald eine Prüfung habe. // 我学得很多，因为快考试了。 // denn 后面：主语 + 动词。
+= Wir gehen nicht ins Kino, [sondern] ins Theater. // 我们不去电影院，而是去剧院。 // 前面否定，“而是”用 sondern。
+
+=== g021 | A1 | 数字、钟点和日期 | Zahlen, Uhrzeit, Datum
+## 数字
+- 0–12：null, eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn, elf, zwölf
+- 13–19：drei**zehn**, vier**zehn**, fünfzehn, **sech**zehn, **sieb**zehn, achtzehn, neunzehn
+- 整十：zwanzig, dreißig（注意 ß）, vierzig, fünfzig, **sech**zig, **sieb**zig, achtzig, neunzig, hundert
+- **21–99 个位在前**：21 = **ein**und**zwanzig**（一和二十），35 = fünfunddreißig，98 = achtundneunzig
+- 大数：hundert, (ein)tausend, eine Million；2026 = zweitausendsechsundzwanzig；1998 = neunzehnhundertachtundneunzig
+- 小数用逗号：2,50 € = zwei Euro fünfzig
+
+## 序数词（第几）
+1.–19.：数字 + **-te**（erste, zweite, **dritte**, vierte, **siebte**, **achte**）；20. 起：+ **-ste**（zwanzigste, einunddreißigste）。
+» Heute ist der **dritte** Mai. — 今天是 5 月 3 日。
+» Ich habe **am** dritt**en** Mai Geburtstag. — 我 5 月 3 日过生日。（am 后加 -en）
+
+## 钟点
+| 时间 | 正式（广播、车站） | 口语 |
+|---|---|---|
+| 8:00 | acht Uhr | acht |
+| 8:15 | acht Uhr fünfzehn | Viertel nach acht |
+| 8:30 | acht Uhr dreißig | halb neun |
+| 8:45 | acht Uhr fünfundvierzig | Viertel vor neun |
+| 8:20 | acht Uhr zwanzig | zwanzig nach acht / zehn vor halb neun |
+| 20:10 | zwanzig Uhr zehn | zehn nach acht |
+
+» Wie spät ist es? / Wie viel Uhr ist es? — 几点了？
+> halb 是“到下一个钟点的一半”：halb neun = 8:30，不是 9:30！
+---
+? 25 怎么说？ => fünfundzwanzig | zwanzigfünf | fünfzwanzig // // 个位在前：fünf + und + zwanzig。
+? 30 怎么写？ => dreißig | dreizig | dreissig // // 30 = dreißig（唯一一个用 ß 的整十）。
+? 17 怎么写？ => siebzehn | siebenzehn | siebzig // // 17 = siebzehn（去掉 -en）；siebzig 是 70。
+? 8:30 口语怎么说？ => halb neun | halb acht | acht halb // // halb neun = 离九点还差半小时。
+? 9:45 口语怎么说？ => Viertel vor zehn | Viertel nach neun | drei Viertel neun // // Viertel vor zehn = 差一刻十点。
+? 3.（第三）怎么说？ => dritte | dreite | dreiste // // 不规则：erste, dritte, siebte, achte。
+? Ich habe am ___ Juni Geburtstag. (1.) => ersten | erste | einsten // 我 6 月 1 日过生日。 // am + 序数词 + -en。
+? 2,99 € 怎么说？ => zwei Euro neunundneunzig | zwei Komma Euro neunzig | zweihundertneunundneunzig Euro // // 价格：几欧元 + 几分。
+= 64 = vier[und]sechzig // // 个位 + und + 整十；sechzig 去掉 s。
+= 1999 = neunzehnhundert[neunundneunzig] // // 年份 1100–1999 按“十九百 + 九十九”读。
+
+=== g022 | A1 | es gibt、man 和不定代词 | es gibt, man, jemand, etwas
+## es gibt + 第四格：有、存在
+» In Konstanz **gibt es** einen See. — 康斯坦茨有个湖。
+» Hier gibt es **keinen** Supermarkt. — 这儿没有超市。
+» Was gibt es heute zum Essen? — 今天吃什么？
+es gibt 永远单数（gibt），后面的名词用**第四格**。
+
+## man：人们、大家（泛指）
+动词用 **er / sie / es 形式**；man 只用于主语。
+» In Deutschland **trinkt man** viel Bier. — 在德国人们喝很多啤酒。
+» Wie **schreibt man** das? — 这个怎么写？
+» Hier **darf man** nicht rauchen. — 这儿不许抽烟。
+
+## 不定代词
+| 肯定 | 否定 | 意思 |
+|---|---|---|
+| jemand | niemand | 某人 / 没有人 |
+| etwas | nichts | 某事 / 什么都没有 |
+| alles | nichts | 一切 / 什么都没有 |
+| einer / eine / eins | keiner / keine / keins | 一个 / 一个也没有 |
+| irgendwo | nirgendwo | 某处 / 无处 |
+
+» Ist **jemand** da? – Nein, **niemand**. — 有人在吗？——没有。
+» Ich habe **nichts** gegessen. — 我什么都没吃。
+» Brauchst du einen Stift? – Ja, ich brauche **einen**. — 你需要笔吗？——要，我需要一支。
+> etwas / nichts + 形容词名词化：etwas **Neues**（新东西），nichts **Besonderes**（没什么特别的）——B1 讲。
+---
+? In meiner Straße ___ eine Bäckerei. => gibt es | es gibt | ist es // 我那条街上有家面包店。 // 地点在第一位 → gibt es（倒装）。
+? Hier gibt es ___ Parkplatz. => keinen | kein | nicht // 这里没有停车位。 // es gibt + 第四格：der Parkplatz → keinen
+? Wie ___ man das auf Deutsch? => sagt | sagen | sagst // 这个用德语怎么说？ // man + er 形式。
+? Ist ___ zu Hause? – Nein, niemand. => jemand | etwas | man // 有人在家吗？——没人。 // 人用 jemand。
+? Ich habe heute ___ gekauft. => nichts | niemand | kein // 我今天什么都没买。 // 东西 → nichts
+? Hast du ein Fahrrad? – Nein, ich habe ___. => keins | kein | nicht // 你有自行车吗？——没有。 // 独立使用的 kein → keins（中性）。
+= In Deutschland [isst] man oft Brot zum Abendessen. (essen) // 在德国人们晚饭常吃面包。 // man isst
+= Es [gibt] heute keine Milch mehr. (geben) // 今天没牛奶了。 // es gibt
+~ In der Mensa / gibt / es / heute / Pizza. // 今天食堂有披萨。 // 地点在前，gibt 第二，es 第三。
+
+=== g023 | A1 | sein 和 haben 的过去式 | Präteritum von sein und haben
+讲过去的事，**sein 和 haben 常用过去式（Präteritum）**，比完成时更简短自然（ich war 比 ich bin gewesen 常用得多）。
+
+| | sein | haben |
+|---|---|---|
+| ich | ==war== | ==hatte== |
+| du | warst | hattest |
+| er/sie/es | war | hatte |
+| wir | waren | hatten |
+| ihr | wart | hattet |
+| sie/Sie | waren | hatten |
+
+» Gestern **war** ich krank. — 我昨天病了。
+» Wir **hatten** keine Zeit. — 我们（当时）没时间。
+» Wo **warst** du? — 你（刚才）去哪了？
+» Wie **war** der Urlaub? – Er **war** super! — 假期怎么样？——棒极了！
+> 和 sein / haben 一样，情态动词也常用过去式（ich konnte, ich musste），A2 讲。
+---
+= Gestern [war] ich beim Arzt. (sein) // 我昨天去看医生了。 // ich war
+= [Warst] du schon mal in Wien? (sein) // 你去过维也纳吗？ // du warst
+= Wir [hatten] viel Spaß. (haben) // 我们玩得很开心。 // wir hatten
+= Er [hatte] keine Zeit. (haben) // 他没时间。 // er hatte
+= Wie [war] die Prüfung? (sein) // 考试怎么样？ // die Prüfung → war
+= Ihr [wart] gestern nicht da. (sein) // 你们昨天不在。 // ihr wart
+= [Hattest] du gestern Unterricht? (haben) // 你昨天有课吗？ // du hattest
+? Letztes Jahr ___ wir in Spanien. => waren | sind | hatten // 去年我们在西班牙。 // 过去 + wir → waren
+? Früher ___ ich ein Fahrrad. => hatte | hat | war // 我以前有辆自行车。 // haben 过去式 ich hatte
+? Wo ___ Sie letzte Woche? => waren | wart | war // 您上周在哪？ // Sie → waren
