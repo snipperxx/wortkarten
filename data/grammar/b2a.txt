@@ -1,0 +1,370 @@
+=== g080 | B2 | 被动的替代形式 | Passiversatzformen
+书面语和正式说明里，除了 werden 被动，还经常用下面几种结构表达被动意思（常带“可以 / 必须”的情态意义）。
+
+| 形式 | 意思 | 例句 | 相当于 |
+|---|---|---|---|
+| **man** + 主动 | 一般主语 | **Man** repariert das Auto. | Das Auto wird repariert. |
+| **sein + zu + 不定式** | 能 / 必须被…… | Das Problem **ist** leicht **zu lösen**. | … kann leicht gelöst werden. |
+| | | Der Antrag **ist** bis Freitag **abzugeben**. | … muss bis Freitag abgegeben werden. |
+| **sich lassen + 不定式** | 可以被…… | Das **lässt sich** leicht **erklären**. | … kann leicht erklärt werden. |
+| 形容词 **-bar / -lich** | 可……的 | Das Problem ist **lösbar**. Die Schrift ist kaum **lesbar**. | … kann gelöst / gelesen werden. |
+| **haben + zu** | 主动意义的“必须” | Sie **haben** das Formular **auszufüllen**. | Sie müssen … ausfüllen. |
+| **bekommen / erhalten** + 分词 | 得到（第三格变主语） | Er **bekommt** das Paket **geschickt**. | Ihm wird das Paket geschickt. |
+
+## sein + zu 的两种意思要靠上下文
+- 可能：Die Aufgabe ist in einer Stunde **zu schaffen**.（能完成）
+- 必须：Die Miete ist am Monatsanfang **zu zahlen**.（必须付）
+- 否定：Das ist nicht **zu ändern**. 改变不了。
+
+## 名词化形式
+» Die Software ist **nicht verwendbar**. / Die Aufgabe ist **unlösbar**.
+> 公文常见：Die Gebühr ist bar **zu entrichten**.（费用须现金支付）Rückfragen sind an … **zu richten**.（问询请致……）
+---
+= Das Problem kann leicht gelöst werden. → Das Problem ist leicht [zu lösen]. // 这个问题很容易解决。 // kann … werden → sein + zu
+= Die Rechnung muss sofort bezahlt werden. → Die Rechnung ist sofort [zu bezahlen]. // 账单必须立即支付。 // muss … werden → sein + zu
+= Das kann man nicht erklären. → Das lässt sich nicht [erklären]. // 这无法解释。 // sich lassen + 不定式
+= Der Fehler kann behoben werden. → Der Fehler ist [behebbar]. // 这个错误可以修复。 // -bar 形容词
+= Die Tür kann man nicht öffnen. → Die Tür [lässt] sich nicht öffnen. // 门打不开。 // sich lassen
+= Sie müssen das Formular unterschreiben. → Sie [haben] das Formular zu unterschreiben. // 您必须签署表格。 // haben + zu = müssen（主动）
+= Der Text kann kaum gelesen werden. → Der Text ist kaum [lesbar]. // 这段文字几乎无法阅读。 // -bar
+? Die Unterlagen sind bis zum 15. März ___. => einzureichen | einreichen | eingereicht zu // 材料须在 3 月 15 日前提交。 // sein + zu，可分动词 zu 夹中间
+? Diese Frage ___ sich nicht so einfach beantworten. => lässt | ist | wird // 这个问题没那么容易回答。 // sich lassen + 不定式
+? „Das Gerät ist nicht zu reparieren.“ 意思是： => Man kann das Gerät nicht reparieren. | Man darf das Gerät nicht reparieren. | Das Gerät muss nicht repariert werden. // 这台设备修不好了。 // 否定的 sein + zu 多表示“不能”
+? Die Medikamente sind für Kinder unerreichbar ___. => aufzubewahren | aufbewahren | aufbewahrt // 药品须存放在儿童接触不到的地方。 // 说明书里的 sein + zu = 必须
+? Ich ___ die Möbel geliefert. => bekomme | werde | lasse // 我的家具会被送货上门。 // bekommen + 分词：第三格变主语
+
+=== g081 | B2 | 状态被动 | Zustandspassiv
+| | 过程被动（Vorgangspassiv） | 状态被动（Zustandspassiv） |
+|---|---|---|
+| 构成 | **werden** + 分词 | **sein** + 分词 |
+| 关注 | 动作正在发生 | 动作完成后的**结果状态** |
+| 例子 | Die Tür **wird geöffnet**. 门正被打开。 | Die Tür **ist geöffnet**. 门开着。 |
+
+» Das Geschäft **wird** um 9 Uhr **geöffnet**. — 商店 9 点开门。（动作）
+» Das Geschäft **ist** von 9 bis 18 Uhr **geöffnet**. — 商店 9 点到 18 点营业。（状态）
+» Der Tisch **wird** gedeckt. → Der Tisch **ist** gedeckt. — 正在摆桌 → 桌子摆好了。
+» Die Stelle **ist** bereits **besetzt**. — 这个职位已经有人了。
+» Ihr Antrag **ist genehmigt**. — 您的申请已获批准。
+
+## 时态
+- 现在时：Das Fenster **ist** geschlossen.
+- 过去式：Das Fenster **war** geschlossen.
+- 完成时很少用（ist geschlossen gewesen）。
+
+## 和完成时区分
+Er **ist** gekommen.（完成时：kommen 本身用 sein）vs. Die Tür **ist** geschlossen.（状态被动：schließen 是及物动词，完成时用 haben）。看动词是不是**及物**：及物动词 + sein + 分词 = 状态被动。
+> 很多状态被动的分词已经像形容词：verheiratet（已婚）, geöffnet（营业）, ausverkauft（售罄）, verletzt（受伤）, angemeldet（已登记）。
+---
+? Keine Sorge, die Tür ___ abgeschlossen. Ich habe sie gerade zugemacht. => ist | wird | wurde // 别担心，门锁着呢。我刚关上。 // 结果状态 → sein
+? Das Restaurant ___ gerade renoviert. Es dauert noch zwei Wochen. => wird | ist | hat // 餐馆正在翻修，还要两周。 // 正在进行 → werden
+? Die Tickets für das Konzert sind leider schon ___. => ausverkauft | ausverkaufen | ausverkaufend // 音乐会的票已经卖完了。 // 状态被动：sind ausverkauft
+? Der Supermarkt ___ sonntags geschlossen. => ist | wird | hat // 超市周日不开门。 // 状态 → ist geschlossen
+? Als wir ankamen, ___ der Tisch schon gedeckt. => war | wurde | hatte // 我们到的时候桌子已经摆好了。 // 过去的状态 → war
+= Das Formular wird jetzt ausgefüllt. → Das Formular [ist] [ausgefüllt]. // 表格填好了。 // 过程 → 状态：ist + 分词
+= Man hat das Problem gelöst. → Das Problem [ist] [gelöst]. // 问题解决了。 // 结果状态
+= Die Stelle [ist] leider schon [besetzt]. (besetzen) // 很遗憾这个职位已经有人了。 // 求职常见句
+= Zustandspassiv: Man hat die Straße gesperrt. → Die Straße [ist gesperrt]. // 道路封闭了。 // ist + 分词
+? 哪句是状态被动？ => Das Auto ist repariert. | Das Auto wird repariert. | Er ist nach Hause gefahren. // // 及物动词 reparieren + sein → 状态被动
+
+=== g082 | B2 | 分词作定语：Partizip I 和 II | Partizipien als Adjektive
+分词可以像形容词一样放在名词前，**加形容词词尾**。
+
+| | Partizip I | Partizip II |
+|---|---|---|
+| 构成 | 不定式 + **d**：spielen**d**, schlafen**d** | 过去分词：gespielt, geschlossen |
+| 意思 | **主动、同时进行**（“正在……的”） | **被动 / 已完成**（“被……的”、“已……的”） |
+| 例子 | das schlafend**e** Kind（正在睡觉的孩子） | das gekocht**e** Ei（煮好的蛋） |
+
+» die **steigenden** Preise — 不断上涨的价格
+» ein **gut bezahlter** Job — 一份报酬很好的工作
+» die **kommende** Woche — 下周
+» der **gestohlene** Wagen — 被偷的车
+» die **angekommenen** Gäste — 已到的客人（不及物 + sein 动词的 Partizip II 表示“已完成”，主动）
+» **Lachend** kam sie herein. — 她笑着走了进来。（分词作状语，不加词尾）
+
+## 怎么选
+把短语还原成关系从句：
+- das Kind, **das schläft** → das **schlafende** Kind（主动 → Partizip I）
+- das Ei, **das gekocht wurde** → das **gekochte** Ei（被动 → Partizip II）
+- der Zug, **der angekommen ist** → der **angekommene** Zug（sein 类动词完成 → Partizip II）
+> Partizip I + zu 表示“必须 / 可以被……的”（gerundivum，B2/C1）：die **zu lösenden** Aufgaben（要解决的任务）= die Aufgaben, die gelöst werden müssen。
+---
+= das Kind, das weint → das [weinende] Kind // 正在哭的孩子 // 主动、同时 → Partizip I + 词尾
+= der Brief, der geschrieben wurde → der [geschriebene] Brief // 写好的信 // 被动 → Partizip II
+= die Preise, die steigen → die [steigenden] Preise // 不断上涨的价格 // Partizip I，复数 → -en
+= ein Job, der gut bezahlt wird → ein gut [bezahlter] Job // 一份报酬很好的工作 // Partizip II，ein + 阳性 → -er
+= die Woche, die kommt → die [kommende] Woche // 下周 // Partizip I
+= die Gäste, die angekommen sind → die [angekommenen] Gäste // 已经到达的客人 // sein 类动词 → Partizip II
+? Wir suchen eine ___ Mitarbeiterin. (die Englisch spricht) => Englisch sprechende | Englisch gesprochene | Englisch sprechend // 我们招一名会说英语的女员工。 // 主动 → Partizip I + 词尾
+? Das ___ Auto steht in der Garage. (das repariert wurde) => reparierte | reparierende | reparierten // 修好的车停在车库。 // 被动 → Partizip II，das + -e
+? Die ___ Kinder spielen im Hof. (die lachen) => lachenden | gelachten | lachende // 笑着的孩子们在院子里玩。 // Partizip I，die + 复数 → -en
+? ___ ging er nach Hause. (Er pfiff dabei.) => Pfeifend | Gepfiffen | Pfeifende // 他吹着口哨回家了。 // 分词作状语不加词尾
+? Die noch ___ Aufgaben besprechen wir morgen. (die noch gelöst werden müssen) => zu lösenden | lösenden | gelösten // 还要解决的问题我们明天讨论。 // zu + Partizip I = 必须被……的
+
+=== g083 | B2 | 扩展分词定语 | Erweiterte Partizipialattribute
+书面语（新闻、学术、官方文件）喜欢把整个关系从句压缩到名词**前面**：
+**冠词 + （补充成分） + 分词 + 词尾 + 名词**
+
+| 关系从句 | 扩展定语 |
+|---|---|
+| der Autor, **der seit Jahren in Berlin lebt** | der **seit Jahren in Berlin lebende** Autor |
+| die Häuser, **die im letzten Jahr gebaut wurden** | die **im letzten Jahr gebauten** Häuser |
+| ein Problem, **das schnell gelöst werden muss** | ein **schnell zu lösendes** Problem |
+| die Studenten, **die an der Prüfung teilgenommen haben** | die **an der Prüfung teilgenommenen** … ✗ → teilnehmen 用 haben，不能这样转 |
+
+## 怎么读（从外往里）
+1. 找到冠词（der/die/ein …）和**它对应的名词**——中间可能隔很远。
+2. 名词前一个词是分词（带词尾）。
+3. 中间的部分是分词的补充成分，按“关系从句”理解。
+» **Die von der Regierung geplante Reform** wird kritisiert. — 政府计划的改革受到批评。
+» **Der am Montag beginnende Kurs** ist schon voll. — 周一开始的课已经满了。
+» **Das in Konstanz entwickelte Programm** wird weltweit genutzt. — 在康斯坦茨开发的这个程序全世界都在用。
+
+## 能转的条件
+- Partizip I：任何主动、同时进行的动作。
+- Partizip II：**被动**（及物动词）或**用 sein 的不及物动词**（der angekommene Zug）。用 haben 的不及物动词不能转（✗ der gearbeitete Mann）。
+> B2 阅读里遇到很长的名词短语，先跳过中间，找冠词和名词，句子立刻变简单。
+---
+= das Kind, das im Garten spielt → das im Garten [spielende] Kind // 在花园里玩的孩子 // Partizip I + -e
+= der Vertrag, der gestern unterschrieben wurde → der gestern [unterschriebene] Vertrag // 昨天签的合同 // Partizip II + -e
+= die Kosten, die ständig steigen → die ständig [steigenden] Kosten // 不断上涨的费用 // Partizip I + 复数 -en
+= ein Projekt, das von der EU gefördert wird → ein von der EU [gefördertes] Projekt // 一个欧盟资助的项目 // ein + 中性 → -es
+= die Gäste, die aus Japan angereist sind → die aus Japan [angereisten] Gäste // 从日本来的客人 // sein 类动词 → Partizip II
+? „die von vielen Experten kritisierte Studie“ 的意思是： => 受到很多专家批评的研究 | 批评了很多专家的研究 | 很多专家在做的研究 // // Partizip II = 被动
+? „der seit 2020 in München arbeitende Ingenieur“ 的意思是： => 从 2020 年起在慕尼黑工作的工程师 | 2020 年在慕尼黑工作过的工程师 | 2020 年被派到慕尼黑的工程师 // // Partizip I = 主动、持续
+? Die Bewerber, die eingeladen wurden → die ___ Bewerber => eingeladenen | einladenden | eingeladene // 被邀请的申请人 // 被动 → Partizip II，die + 复数 → -en
+? 哪个关系从句不能改成扩展定语？ => der Mann, der lange gearbeitet hat | der Zug, der gerade angekommen ist | das Buch, das oft gelesen wird // // arbeiten 用 haben 的不及物动词，不能做 Partizip II 定语
+= eine Entscheidung, die schnell getroffen werden muss → eine schnell zu [treffende] Entscheidung // 必须迅速作出的决定 // zu + Partizip I
+
+=== g084 | B2 | 情态动词的主观用法 | Subjektive Bedeutung der Modalverben
+情态动词除了“能、必须、想”（客观用法），还能表达**说话人对事实的推测或转述**（主观用法）。
+
+| 形式 | 意思 | 把握程度 | 例句 |
+|---|---|---|---|
+| **muss** | 一定是 | 约 90% | Er **muss** krank sein, er ist nie so spät. |
+| **dürfte** | 应该是、大概 | 约 75% | Das **dürfte** kein Problem sein. |
+| **kann** | 可能是 | 约 50% | Das **kann** stimmen. |
+| **könnte** | 有可能（更不确定） | 约 30–50% | Es **könnte** heute regnen. |
+| **kann nicht** | 不可能 | — | Das **kann nicht** wahr sein! |
+| **soll** | 据说（转述别人的话） | — | Der Film **soll** sehr gut sein. |
+| **will** | 声称（主语自称，说话人怀疑） | — | Er **will** das nicht gewusst haben. |
+| **mag** | 也许（书面，常和 aber 连用） | — | Das **mag** sein, aber … |
+
+## 推测过去：情态动词 + 完成时不定式（分词 + haben / sein）
+» Er **muss** den Bus **verpasst haben**. — 他一定是错过公交了。
+» Sie **soll** schon dreimal **umgezogen sein**. — 据说她已经搬了三次家。
+» Er **will** den Unfall nicht **gesehen haben**. — 他声称没看见事故。
+» Das **dürfte** schwierig **gewesen sein**. — 那应该挺难的。
+
+## 和客观用法区分
+- Er **muss** arbeiten.（他必须工作——客观）
+- Er **muss** arbeiten, er geht nicht ans Telefon.（他一定在工作——推测）
+> 新闻常用 soll 表“据报道”：Der Täter **soll** aus dem Ausland stammen.（嫌犯据称来自国外）
+---
+? Das Licht ist an. Er ___ zu Hause sein. => muss | soll | will // 灯亮着，他一定在家。 // 很有把握的推测 → muss
+? Laut Zeitung ___ der Minister zurücktreten. => soll | will | muss // 据报纸说，部长要辞职。 // 转述 → soll
+? Er ___ den Brief nie bekommen haben, aber ich glaube ihm nicht. => will | soll | muss // 他声称从没收到信，但我不信。 // 主语自称 → will
+? Das ___ kein großes Problem sein. Wir finden eine Lösung. => dürfte | will | soll // 这应该不是大问题，我们会找到办法的。 // 较有把握 → dürfte
+? Das ___ nicht wahr sein! Ich glaube es nicht. => kann | muss | soll // 这不可能是真的！ // 不可能 → kann nicht
+? Sie hat nicht geantwortet. Sie ___ die E-Mail übersehen haben. => könnte | wollte | sollte // 她没回复，可能是漏看了邮件。 // 不太确定 → könnte
+= Er ist sehr braun. Er [muss] im Urlaub [gewesen] sein. // 他晒得很黑，一定是去度假了。 // 推测过去：muss + 分词 + sein
+= Man sagt, das Restaurant ist sehr gut. → Das Restaurant [soll] sehr gut sein. // 据说这家餐馆很好。 // 转述 → soll
+= Sie behauptet, sie hat das allein geschafft. → Sie [will] das allein geschafft haben. // 她声称是独自完成的。 // 自称 → will + 完成时不定式
+= Wahrscheinlich hat er den Termin vergessen. → Er [dürfte] den Termin vergessen haben. // 他应该是忘了预约。 // 较大可能 → dürfte
+
+=== g085 | B2 | 推测的表达：将来完成时和推测词 | Vermutungen: Futur I/II, Adverbien
+## werden + 不定式：推测现在
+» Er **wird** (wohl) im Büro **sein**. — 他（大概）在办公室。
+
+## Futur II：werden + 分词 + haben / sein
+1. 推测**过去**：Er **wird** den Zug **verpasst haben**. — 他大概是错过了火车。
+2. 将来某时**已经完成**：Bis Freitag **werde** ich das Projekt **abgeschlossen haben**. — 到周五我会已经完成项目。
+
+## 推测副词（按把握程度）
+| 把握 | 副词 / 表达 |
+|---|---|
+| 几乎确定 | sicher, bestimmt, garantiert, zweifellos, ohne Zweifel |
+| 很可能 | wahrscheinlich, vermutlich, wohl, höchstwahrscheinlich |
+| 可能 | vielleicht, möglicherweise, eventuell, unter Umständen |
+| 不太可能 | kaum, wohl kaum, unwahrscheinlich |
+
+## 推测句型
+- Ich nehme an / vermute / gehe davon aus, dass … — 我推测 / 我认为……
+- Es ist anzunehmen / zu vermuten, dass … — 可以推测……
+- Es sieht so aus, als ob … — 看起来好像……
+- Es ist (sehr) wahrscheinlich, dass … / Es besteht die Möglichkeit, dass …
+
+## 同一推测的不同说法
+Er ist vermutlich krank. = Er **wird** wohl krank **sein**. = Er **dürfte** krank **sein**. = Ich **vermute**, dass er krank ist.
+> 考试写作和口语里，变换推测表达能直接加分。
+---
+= Wahrscheinlich ist er schon gegangen. → Er [wird] wohl schon gegangen [sein]. // 他大概已经走了。 // Futur II：wird … gegangen sein
+= Bis Montag [werde] ich den Bericht [geschrieben] haben. // 到周一我会写完报告。 // Futur II：将来完成
+= Vermutlich hat sie das Paket schon abgeholt. → Sie [wird] das Paket schon [abgeholt] haben. // 她大概已经取了包裹。 // 推测过去
+= Ich [nehme] an, dass der Zug Verspätung hat. // 我估计火车晚点了。 // annehmen：推测
+? 哪个表示“几乎确定”？ => zweifellos | vielleicht | möglicherweise // // zweifellos = 毫无疑问
+? 哪个表示“不太可能”？ => kaum | wahrscheinlich | vermutlich // // kaum = 几乎不
+? Er geht nicht ans Telefon. Er ___ wohl schon schlafen. => wird | würde | wurde // 他不接电话，大概已经睡了。 // 推测现在：wird + 不定式
+? „Bis 2030 werden wir unsere Ziele erreicht haben.“ 表示： => 到 2030 年会已经达成目标 | 2030 年大概达成过目标 | 2030 年开始实现目标 // // Futur II：将来某时已完成
+~ Er / wird / den Termin / wohl / vergessen / haben. // 他大概是忘了这个预约。 // Futur II：wird … vergessen haben
+? Es ist ___, dass die Preise weiter steigen. => anzunehmen | angenommen | annehmen // 可以推测价格会继续上涨。 // es ist + zu 不定式
+
+=== g086 | B2 | 第一虚拟式和间接引语 | Konjunktiv I und indirekte Rede
+新闻、报告、正式文本里**转述别人的话**用第一虚拟式，表示“这是他说的，不是我说的”。
+
+## 构成：词干 + 词尾（-e, -est, -e, -en, -et, -en）
+| | sein | haben | werden | können | kommen |
+|---|---|---|---|---|---|
+| ich | sei | (habe) | (werde) | könne | (komme) |
+| du | sei(e)st | habest | werdest | könnest | kommest |
+| er/sie/es | ==sei== | ==habe== | ==werde== | ==könne== | ==komme== |
+| wir | seien | (haben) | (werden) | (können) | (kommen) |
+| ihr | seiet | habet | werdet | könnet | kommet |
+| sie/Sie | seien | (haben) | (werden) | (können) | (kommen) |
+实际上最常用的是 **er/sie/es 形式**（新闻里转述第三人称），以及 **sei** 的所有形式。
+
+## 和直陈式一样时，改用第二虚拟式
+括号里的形式和普通现在时相同，读者分不出来 → 改用 Konjunktiv II：
+» Die Experten sagen, die Preise **würden** steigen.（不说 steigen）
+» Sie sagen, sie **hätten** keine Zeit.（不说 haben）
+
+## 时态
+| 原话 | 间接引语 |
+|---|---|
+| 现在：„Ich bin krank.“ | Er sagt, er **sei** krank. |
+| 过去：„Ich war / bin krank gewesen.“ | Er sagt, er **sei** krank **gewesen**. |
+| 过去：„Ich habe es gemacht.“ | Er sagt, er **habe** es **gemacht**. |
+| 将来：„Ich werde kommen.“ | Er sagt, er **werde** kommen. |
+
+## 其他变化
+- 人称要换：„**Ich** komme.“ → Sie sagt, **sie** komme.
+- 时间、地点词要换：heute → an diesem Tag，hier → dort（视情况）
+- 问句：Er fragt, **ob** / **wann** … ；命令：Er sagt, ich **solle** / **möge** warten.
+- dass 可加可不加：Er sagt, **dass** er krank **sei**. / Er sagt, er **sei** krank.
+> 口语里转述大多直接用直陈式或第二虚拟式（Er hat gesagt, dass er krank ist）；B2 听力新闻和阅读里一定会遇到 sei / habe。
+---
+= „Ich bin müde.“ → Sie sagt, sie [sei] müde. // 她说她累了。 // sein → sei
+= „Ich habe keine Zeit.“ → Er sagt, er [habe] keine Zeit. // 他说他没时间。 // haben → habe
+= „Die Firma kann die Kosten nicht tragen.“ → Der Sprecher sagt, die Firma [könne] die Kosten nicht tragen. // 发言人说公司无法承担费用。 // können → könne
+= „Wir haben keine Informationen.“ → Die Polizei sagt, sie [hätten] keine Informationen. // 警方说他们没有消息。 // habe → haben 和直陈式相同 → 用 hätten
+= „Ich bin gestern in Berlin gewesen.“ → Er sagt, er [sei] gestern in Berlin gewesen. // 他说他昨天在柏林。 // 过去 → sei + 分词
+= „Wir werden das Problem lösen.“ → Der Minister sagt, man [werde] das Problem lösen. // 部长说会解决这个问题。 // werden → werde
+= „Kommst du morgen?“ → Sie fragt, [ob] ich morgen komme. // 她问我明天来不来。 // 是非问句 → ob
+? Der Politiker erklärte, er ___ nichts davon gewusst. => habe | hat | hätte gehabt // 那位政客声明他对此一无所知。 // 过去 → habe + 分词
+? Laut Bericht ___ die Arbeitslosigkeit gestiegen. => sei | ist gewesen | wäre gewesen // 据报道失业率上升了。 // 转述 → sei gestiegen
+? Er sagte, ich ___ ihn morgen anrufen. („Rufen Sie mich morgen an!“) => solle | soll | sollte haben // 他说让我明天给他打电话。 // 命令 → solle
+? Die Mitarbeiter sagen, sie ___ zu viel Arbeit. => hätten | haben | habe // 员工们说他们工作太多。 // 复数 haben 和直陈式一样 → hätten
+
+=== g087 | B2 | 名词化：动词风格和名词风格 | Nominalisierung: Verbalstil und Nominalstil
+书面语、学术、公文喜欢**名词风格**（Nominalstil）：把动词、形容词变成名词，句子更短、更正式；口语更喜欢**动词风格**。B2 考试的阅读和写作都要求能互相转换。
+
+## 名词化的方法
+| 动词 / 形容词 | 名词 | 例子 |
+|---|---|---|
+| 词干 + -ung | die … | entwickeln → die Entwicklung，lösen → die Lösung |
+| 不定式 | das … | essen → das Essen，reisen → das Reisen |
+| 词干（常变音） | der … | anfangen → der Anfang，steigen → der Anstieg，fallen → der Fall |
+| -e | die … | suchen → die Suche，helfen → die Hilfe，sprechen → die Sprache |
+| -heit / -keit | die … | frei → die Freiheit，möglich → die Möglichkeit |
+| -tion | die … | informieren → die Information，produzieren → die Produktion |
+
+## 句子成分的变化
+| 动词风格 | 名词风格 |
+|---|---|
+| 主语 | 第二格 / von + 第三格：**der Preise** |
+| 第四格宾语 | 第二格：die Lösung **des Problems** |
+| 副词 | 形容词（加词尾）：schnell → die **schnelle** Lösung |
+| 介词宾语 | 介词保留：sich bewerben um → die Bewerbung **um** |
+
+» Die Preise **steigen** stark. → der **starke Anstieg der Preise** — 价格大幅上涨
+» Man **entwickelt** neue Medikamente. → die **Entwicklung neuer Medikamente** — 新药的研发
+» Er **bewirbt sich um** die Stelle. → seine **Bewerbung um** die Stelle — 他对职位的申请
+» Die Kunden sind **zufrieden**. → die **Zufriedenheit der Kunden** — 客户满意度
+> 别过度名词化：口语和普通邮件里，动词风格更自然。
+---
+= Die Preise steigen. → der [Anstieg] der Preise // 价格上涨 // steigen → der Anstieg
+= Man löst das Problem. → die [Lösung] des Problems // 问题的解决 // lösen → die Lösung
+= Die Firma entwickelt eine App. → die [Entwicklung] einer App // 开发一个应用 // entwickeln → die Entwicklung
+= Er ist pünktlich. → seine [Pünktlichkeit] // 他的守时 // pünktlich → die Pünktlichkeit
+= Die Zahl der Arbeitslosen sinkt deutlich. → der deutliche [Rückgang] der Arbeitslosenzahl // 失业人数明显下降 // sinken → der Rückgang（也可 das Sinken）
+= Man repariert die Brücke. → die Reparatur [der] Brücke // 桥梁维修 // 第四格宾语 → 第二格
+= Sie hat sich um ein Stipendium beworben. → ihre Bewerbung [um] ein Stipendium // 她申请奖学金 // 介词保留
+? Die Regierung reformiert das Steuersystem. → die ___ des Steuersystems => Reform | Reformierung des | Reformen // 政府改革税制 // reformieren → die Reform
+? Die Kosten werden schnell gesenkt. → die ___ Senkung der Kosten => schnelle | schnell | schnellen // 迅速降低成本 // 副词 → 形容词，die + -e
+? Man verkauft das Haus. → der ___ des Hauses => Verkauf | Verkaufung | Verkaufen // 出售房子 // verkaufen → der Verkauf
+? „Nach der Unterzeichnung des Vertrags …“ 用动词风格是： => Nachdem der Vertrag unterzeichnet worden war, … | Nachdem der Vertrag unterzeichnete, … | Nach dem Vertrag unterzeichnen … // // 名词 + 第二格 → 被动从句
+
+=== g088 | B2 | 介词短语代替从句 | Nominale Präpositionalgruppen statt Nebensätze
+B2 要求能在**从句**和**介词 + 名词**之间转换（考试改写题常考）。
+
+| 关系 | 从句（动词风格） | 介词短语（名词风格） |
+|---|---|---|
+| 时间：当……时 | **Als / Wenn** er ankam, … | **Bei** seiner Ankunft … |
+| 时间：在……之前 | **Bevor** er abreiste, … | **Vor** seiner Abreise … |
+| 时间：在……之后 | **Nachdem** sie das Studium beendet hatte, … | **Nach** (der Beendigung) ihrem Studium … |
+| 时间：在……期间 | **Während** er studierte, … | **Während** seines Studiums … |
+| 时间：自从 | **Seit** er umgezogen ist, … | **Seit** seinem Umzug … |
+| 时间：直到 | **Bis** das Projekt beendet ist, … | **Bis zum** Ende des Projekts … |
+| 原因 | **Weil** es regnete, … | **Wegen** des Regens / **Aufgrund** des Regens … |
+| 让步 | **Obwohl** er krank war, … | **Trotz** seiner Krankheit … |
+| 条件 | **Wenn** es regnet, … / **Falls** … | **Bei** Regen … / **Im Falle** eines … |
+| 否定条件 | **Wenn** du mir nicht hilfst, … | **Ohne** deine Hilfe … |
+| 目的 | **Um** die Umwelt **zu** schützen / **Damit** … | **Zum** Schutz der Umwelt / **Für** den Umweltschutz |
+| 方式 | **Indem** man Sport treibt, … | **Durch** Sport … |
+| 结果 | …, **sodass** … | … **infolge** … |
+
+» **Bei schlechtem Wetter** fällt das Konzert aus. = **Wenn** das Wetter schlecht ist, fällt das Konzert aus.
+» **Trotz intensiver Suche** fand er keine Wohnung. = **Obwohl** er intensiv suchte, fand er keine Wohnung.
+» **Zur Verbesserung** der Sprachkenntnisse besucht sie einen Kurs. = Sie besucht einen Kurs, **um** ihre Sprachkenntnisse **zu** verbessern.
+> 改写时注意：从句里的副词变成形容词（intensiv suchen → intensive Suche），主语变成物主冠词或第二格（er reist ab → seine Abreise）。
+---
+? ___ seiner Ankunft rief er seine Mutter an. (Als er ankam, …) => Bei | Nach | Während // 他一到就给他妈妈打了电话。 // als … → bei + 名词
+? ___ des Studiums hat sie in einem Café gejobbt. (Während sie studierte, …) => Während | Bei | Seit // 她读书期间在咖啡馆打工。 // während + 第二格
+? ___ der hohen Kosten wurde das Projekt gestoppt. (Weil die Kosten hoch waren, …) => Aufgrund | Trotz | Bei // 由于费用太高，项目被叫停。 // 原因 → aufgrund / wegen
+? ___ seiner guten Noten bekam er keinen Studienplatz. (Obwohl er gute Noten hatte, …) => Trotz | Wegen | Ohne // 尽管成绩好，他还是没拿到学位。 // 让步 → trotz
+? ___ Regen findet das Fest in der Halle statt. (Wenn es regnet, …) => Bei | Wegen | Mit // 如果下雨，节日活动在大厅举行。 // 条件 → bei
+? ___ regelmäßiges Training kann man fit bleiben. (Indem man regelmäßig trainiert, …) => Durch | Mit dem | Zum // 通过规律训练能保持健康。 // 方式 → durch
+? ___ deine Hilfe hätte ich es nicht geschafft. (Wenn du mir nicht geholfen hättest, …) => Ohne | Trotz | Statt // 没有你的帮助我做不到。 // 否定条件 → ohne
+= Bevor er abreiste, hat er alles erledigt. → [Vor] seiner Abreise hat er alles erledigt. // 他出发前把一切办妥了。 // bevor → vor
+= Seit er umgezogen ist, fährt er mit dem Rad. → Seit seinem [Umzug] fährt er mit dem Rad. // 搬家以后他骑车出行。 // umziehen → der Umzug
+= Um die Umwelt zu schützen, … → [Zum] Schutz der Umwelt … // 为了保护环境…… // 目的 → zum + 名词
+= Nachdem sie das Studium abgeschlossen hatte, … → Nach dem [Abschluss] ihres Studiums … // 她毕业后…… // abschließen → der Abschluss
+
+=== g089 | B2 | 带第二格的介词（书面语） | Präpositionen mit Genitiv
+B2 阅读、新闻、公文里常见。大部分可以替换成更口语的说法。
+
+| 介词 | 意思 | 例子 |
+|---|---|---|
+| angesichts | 鉴于、面对 | **angesichts** der hohen Inflation |
+| anlässlich | 值……之际 | **anlässlich** seines 60. Geburtstags |
+| aufgrund / auf Grund | 由于 | **aufgrund** der Verspätung |
+| außerhalb / innerhalb | 在……之外 / 之内 | **innerhalb** einer Woche, **außerhalb** der Öffnungszeiten |
+| bezüglich / hinsichtlich | 关于 | **bezüglich** Ihrer Anfrage |
+| infolge | 由于（……的后果） | **infolge** des Unfalls |
+| mithilfe / mit Hilfe | 借助 | **mithilfe** einer App |
+| statt / anstatt | 代替 | **statt** eines Briefes |
+| trotz | 尽管 | **trotz** des Regens |
+| ungeachtet | 不顾 | **ungeachtet** der Kritik |
+| während | 在……期间 | **während** der Sitzung |
+| wegen | 因为 | **wegen** des Streiks |
+| zugunsten / zuungunsten | 有利于 / 不利于 | **zugunsten** der Umwelt |
+| oberhalb / unterhalb | 在……上方 / 下方 | **oberhalb** des Sees |
+| entlang | 沿着 | die Straße **entlang**（后置，第四格）/ **entlang** des Flusses（前置，第二格） |
+| laut | 根据（常接第三格） | **laut** Gesetz, **laut** dem Bericht |
+
+## 带第三格的书面介词
+**gemäß**（按照）、**entsprechend**（相应地）、**zufolge**（据……，后置）、**gegenüber**（对于、对面）
+» **Gemäß** § 5 des Vertrags … / Dem Bericht **zufolge** … / **Gegenüber** der Presse sagte er …
+> 写正式邮件常用：**Bezüglich** Ihrer E-Mail vom 3. Mai … / **Aufgrund** einer Erkrankung kann ich leider nicht …
+---
+? ___ der hohen Nachfrage sind die Tickets ausverkauft. => Aufgrund | Trotz | Ungeachtet // 由于需求很大，票已售罄。 // 原因 → aufgrund
+? Bitte antworten Sie ___ einer Woche. => innerhalb | während | bezüglich // 请在一周内答复。 // 期限内 → innerhalb
+? ___ Ihrer Anfrage vom 5. Mai teilen wir Ihnen mit, … => Bezüglich | Angesichts | Infolge // 关于您 5 月 5 日的询问，我们通知您…… // 关于 → bezüglich
+? ___ des Unfalls war die Autobahn gesperrt. => Infolge | Zugunsten | Anlässlich // 由于事故，高速公路封闭了。 // 后果 → infolge
+? ___ seines Jubiläums gab es eine Feier. => Anlässlich | Angesichts | Aufgrund // 值他周年之际举行了庆祝。 // 值……之际 → anlässlich
+? ___ einer Übersetzungs-App konnte er sich verständigen. => Mithilfe | Ungeachtet | Statt // 借助翻译软件他能和人沟通。 // 借助 → mithilfe
+? Der Bericht ___ ist die Zahl gestiegen. => zufolge | laut | gemäß // 据报告，数字上升了。 // 后置：dem Bericht zufolge
+= [Angesichts] der Lage müssen wir schnell handeln. // 鉴于形势，我们必须迅速行动。 // 鉴于 → angesichts
+= Das Café hat auch [außerhalb] der Saison geöffnet. // 这家咖啡馆淡季也营业。 // 在……之外 → außerhalb
+= Die Spenden gehen [zugunsten] krebskranker Kinder. // 捐款将用于帮助患癌儿童。 // 有利于 → zugunsten
+= Wir fuhren den Fluss [entlang]. // 我们沿着河开。 // 后置 entlang + 第四格

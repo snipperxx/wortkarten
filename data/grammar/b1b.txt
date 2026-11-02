@@ -1,0 +1,556 @@
+=== g062 | B1 | 双连词 | Zweiteilige Konnektoren
+| 连词 | 意思 | 例句 |
+|---|---|---|
+| sowohl … als auch | 既……又…… | Ich spreche **sowohl** Englisch **als auch** Deutsch. |
+| nicht nur …, sondern auch | 不仅……而且…… | Er ist **nicht nur** klug, **sondern auch** fleißig. |
+| weder … noch | 既不……也不…… | Ich trinke **weder** Kaffee **noch** Tee. |
+| entweder … oder | 要么……要么…… | **Entweder** wir fahren heute **oder** morgen. |
+| zwar …, aber | 虽然……但是…… | Die Wohnung ist **zwar** klein, **aber** gemütlich. |
+| je …, desto / umso | 越……越…… | **Je** mehr ich übe, **desto** besser spreche ich. |
+
+## 语序要点
+- **je … desto**：je 部分是**从句**（动词在最后），desto 部分**倒装**（desto + 比较级 + 动词 + 主语）：
+» **Je** länger ich in Deutschland **lebe**, **desto** besser **verstehe** ich die Kultur. — 我在德国住得越久，越懂这里的文化。
+- **zwar** 在第一个句子里像普通副词：Ich habe **zwar** wenig Zeit, aber ich komme. / **Zwar** habe ich wenig Zeit, aber …
+- **entweder** 在句首时可以占第一位（倒装）也可以不占：Entweder **kommst du** mit oder du bleibst hier.
+- **weder … noch** 本身已是否定，不再加 nicht / kein。
+> 连接两个主语时动词用复数：Sowohl mein Bruder als auch meine Schwester **wohnen** in Berlin.
+---
+? Ich spreche ___ Spanisch ___ Französisch – nur Englisch. => weder … noch | sowohl … als auch | entweder … oder // 我既不会西班牙语也不会法语，只会英语。 // 两个都否定 → weder … noch
+? Das Hotel ist ___ günstig, ___ auch sehr zentral. => nicht nur … sondern | zwar … aber | weder … noch // 这家酒店不仅便宜，而且很居中。 // 递进 → nicht nur …, sondern auch
+? Die Wohnung ist ___ teuer, ___ sie hat einen tollen Blick. => zwar … aber | weder … noch | je … desto // 公寓虽然贵，但景色很棒。 // 让步 → zwar … aber
+? Wir können ___ ins Kino ___ ins Theater gehen. Du entscheidest. => entweder … oder | sowohl … als auch | weder … noch // 我们可以去电影院或者剧院，你定。 // 二选一 → entweder … oder
+? ___ früher du anfängst, ___ schneller bist du fertig. => Je … desto | Zwar … aber | Sowohl … als // 你越早开始，就越快完成。 // 越……越…… → je … desto
+? Ich mag ___ Hunde ___ Katzen. Ich habe beide. => sowohl … als auch | weder … noch | entweder … oder // 狗和猫我都喜欢，两种都有。 // 两者都 → sowohl … als auch
+~ Je / mehr / ich / lese, / desto / größer / wird / mein Wortschatz. // 我读得越多，词汇量就越大。 // je 从句动词在最后；desto + 比较级 + 动词 + 主语。
+~ Je / älter / man / wird, / desto / weniger / schläft / man. // 人越老睡得越少。 // desto 后倒装
+= Sowohl der Chef als auch die Kollegen [waren] zufrieden. (sein, Präteritum) // 老板和同事们都很满意。 // 两个主语 → 复数 waren
+= Er hat weder angerufen [noch] eine E-Mail geschrieben. // 他既没打电话也没写邮件。 // weder … noch
+= Ich habe [zwar] keine Erfahrung, aber ich lerne schnell. // 我虽然没经验，但学得快。 // zwar … aber
+
+=== g063 | B1 | 动词 + 固定介词 | Verben mit Präpositionen
+很多动词和**固定的介词**搭配，介词决定后面的格。这些搭配**必须连同介词和格一起背**（App 单词卡里 gov 一栏就是这个）。
+
+## 最常用的搭配
+| 动词 | 介词 + 格 | 例句 |
+|---|---|---|
+| warten | auf + Akk. | Ich warte **auf den** Bus. |
+| sich freuen | auf + Akk.（将来） / über + Akk.（已发生） | Ich freue mich **auf** den Urlaub / **über** das Geschenk. |
+| sich interessieren | für + Akk. | Sie interessiert sich **für** Kunst. |
+| sich bewerben | um + Akk.（职位）/ bei + Dat.（公司） | Ich bewerbe mich **um** die Stelle **bei** SAP. |
+| denken | an + Akk. | Ich denke oft **an** dich. |
+| sich erinnern | an + Akk. | Erinnerst du dich **an** ihn? |
+| sich gewöhnen | an + Akk. | Ich habe mich **an** das Wetter gewöhnt. |
+| teilnehmen | an + Dat. | Ich nehme **an dem** Kurs teil. |
+| sprechen / reden | über + Akk.（关于） / mit + Dat.（和谁） | Wir sprechen **mit** dem Chef **über** das Projekt. |
+| sich kümmern | um + Akk. | Wer kümmert sich **um** die Kinder? |
+| sich beschweren | über + Akk. / bei + Dat. | Er beschwert sich **beim** Vermieter **über** den Lärm. |
+| fragen | nach + Dat. | Sie fragt **nach dem** Weg. |
+| sich entschuldigen | für + Akk. / bei + Dat. | Ich entschuldige mich **bei** dir **für** die Verspätung. |
+| sich verlassen | auf + Akk. | Du kannst dich **auf** mich verlassen. |
+| abhängen | von + Dat. | Das hängt **vom** Wetter ab. |
+| sich beschäftigen | mit + Dat. | Ich beschäftige mich **mit** KI. |
+| gehören | zu + Dat. | Das gehört **zu** meinen Aufgaben. |
+| sich vorbereiten | auf + Akk. | Ich bereite mich **auf** die Prüfung vor. |
+| Angst haben | vor + Dat. | Sie hat Angst **vor** Hunden. |
+| sich treffen | mit + Dat. | Ich treffe mich **mit** Freunden. |
+| bitten | um + Akk. | Darf ich Sie **um** Hilfe bitten? |
+| sich ärgern | über + Akk. | Ich ärgere mich **über** den Fehler. |
+| sich bedanken | bei + Dat. / für + Akk. | Ich bedanke mich **bei** Ihnen **für** die Einladung. |
+| träumen | von + Dat. | Er träumt **von** einem eigenen Haus. |
+
+> 规律只能帮一点：**an, auf, über** 在固定搭配里大多接**第四格**（例外：teilnehmen an, arbeiten an, leiden an + Dat.；Angst vor, schützen vor + Dat.）。
+---
+? Ich warte schon seit einer Stunde ___ dich. => auf | für | an // 我已经等你一个小时了。 // warten auf + Akk.
+? Er interessiert sich sehr ___ Fußball. => für | an | über // 他对足球很感兴趣。 // sich interessieren für
+? Ich freue mich schon ___ die Ferien. => auf | über | an // 我已经在期待假期了。 // 期待将来的事 → sich freuen auf
+? Danke! Ich freue mich sehr ___ die Blumen. => über | auf | für // 谢谢！收到花我很高兴。 // 对已有的事高兴 → sich freuen über
+? Ich habe mich ___ die Stelle als Entwickler beworben. => um | für | auf // 我申请了开发岗位。 // sich bewerben um + 职位
+? Nimmst du auch ___ dem Workshop teil? => an | bei | in // 你也参加研讨会吗？ // teilnehmen an + Dat.
+? Das hängt ___ deiner Entscheidung ab. => von | an | auf // 这取决于你的决定。 // abhängen von
+? Kannst du dich ___ den Hund kümmern? => um | für | an // 你能照看一下狗吗？ // sich kümmern um
+? Viele Kinder haben Angst ___ der Dunkelheit. => vor | von | über // 很多孩子怕黑。 // Angst haben vor + Dat.
+= Ich denke oft [an] meine Familie in China. // 我常想念我在中国的家人。 // denken an + Akk.
+= Er hat sich [bei] dem Vermieter [über] den Lärm beschwert. // 他向房东投诉了噪音。 // sich beschweren bei + Dat. über + Akk.
+= Ich habe mich noch nicht [an] das Essen gewöhnt. // 我还没习惯这里的饮食。 // sich gewöhnen an + Akk.
+= Ich beschäftige mich gerade [mit] Machine Learning. // 我最近在研究机器学习。 // sich beschäftigen mit + Dat.
+= Ein Tourist hat mich [nach] dem Weg gefragt. // 一个游客向我问路。 // fragen nach + Dat.
+
+=== g064 | B1 | 代副词 da(r)- 和 wo(r)- | Präpositionaladverbien
+动词带固定介词时，如果介词后面是**东西 / 事情**（不是人），用 **da + 介词**代替“介词 + 代词”，用 **wo + 介词**提问。介词以元音开头时加 **r**：dar-auf, wor-über。
+
+| 介词 | 指代 | 提问 |
+|---|---|---|
+| auf | darauf | worauf |
+| über | darüber | worüber |
+| an | daran | woran |
+| für | dafür | wofür |
+| mit | damit | womit |
+| von | davon | wovon |
+| um | darum | worum |
+| nach | danach | wonach |
+| zu | dazu | wozu |
+| vor | davor | wovor |
+
+» **Worauf** wartest du? – Auf den Bus. – Ich warte auch **darauf**. — 你在等什么？——等公交。——我也在等。
+» **Worüber** habt ihr gesprochen? – **Über** das Projekt. — 你们聊了什么？——项目。
+» Ich freue mich **darauf**. — 我很期待（这件事）。
+
+## 指人：介词 + 代词 / 介词 + wen/wem
+» **Auf wen** wartest du? – Auf meine Freundin. – Ich warte auch **auf sie**.
+» **Mit wem** hast du gesprochen? – **Mit** dem Chef.
+
+## da- 词引出从句或 zu 不定式
+» Ich freue mich **darauf**, **dass** du kommst. — 我很期待你来。
+» Ich denke **daran**, morgen früher **aufzustehen**. — 我记着明天要早起。
+» Es hängt **davon** ab, **ob** ich Zeit habe. — 这取决于我有没有时间。
+> 口语里会听到 „Auf was wartest du?“，书面语和考试用 worauf。
+---
+? ___ interessierst du dich? – Für Fotografie. => Wofür | Für was | Wovon // 你对什么感兴趣？——摄影。 // 问事物 → wofür
+? Wartest du auf den Brief? – Ja, ich warte schon lange ___. => darauf | auf ihn | dafür // 你在等那封信吗？——是的，我等了很久了。 // 事物 → darauf
+? Wartest du auf Lisa? – Ja, ich warte ___. => auf sie | darauf | worauf // 你在等丽莎吗？——是的。 // 人 → auf sie
+? ___ hast du gesprochen? – Mit meinem Professor. => Mit wem | Womit | Worüber // 你和谁谈的？——我的教授。 // 人 → mit wem
+? ___ habt ihr diskutiert? – Über die neue Software. => Worüber | Über wen | Wofür // 你们讨论了什么？——新软件。 // 事物 → worüber
+? Ich erinnere mich gut ___, wie wir uns kennengelernt haben. => daran | darauf | dafür // 我清楚记得我们是怎么认识的。 // sich erinnern an → daran + 从句
+= Hast du Angst vor der Prüfung? – Nein, ich habe keine Angst [davor]. // 你怕考试吗？——不怕。 // Angst vor → davor
+= [Worum] geht es in dem Film? – Um eine Familie. // 这部电影讲什么？——一个家庭。 // es geht um → worum
+= Ich freue mich [darauf], dich bald wiederzusehen. // 我期待很快再见到你。 // da- 词 + zu 不定式
+= Es hängt [davon] ab, ob das Wetter gut ist. // 这取决于天气好不好。 // abhängen von → davon + ob 从句
+= [Womit] fährst du zur Arbeit? – Mit dem Fahrrad. // 你怎么去上班？——骑车。 // mit → womit
+
+=== g065 | B1 | 形容词 + 固定介词 | Adjektive mit Präpositionen
+和动词一样，很多形容词也带固定介词（常和 sein / werden 连用）。
+
+| 形容词 | 介词 + 格 | 例句 |
+|---|---|---|
+| stolz | auf + Akk. | Ich bin stolz **auf** dich. |
+| zufrieden | mit + Dat. | Bist du **mit** dem Ergebnis zufrieden? |
+| interessiert | an + Dat. | Ich bin **an** der Stelle sehr interessiert. |
+| verantwortlich | für + Akk. | Sie ist **für** das Marketing verantwortlich. |
+| bekannt | für + Akk. | Heidelberg ist **für** seine Uni bekannt. |
+| abhängig | von + Dat. | Das ist **von** der Situation abhängig. |
+| überzeugt | von + Dat. | Ich bin **von** der Idee überzeugt. |
+| begeistert | von + Dat. | Alle waren **von** dem Konzert begeistert. |
+| neugierig | auf + Akk. | Ich bin neugierig **auf** das Ergebnis. |
+| gespannt | auf + Akk. | Wir sind gespannt **auf** den Film. |
+| böse / sauer | auf + Akk. | Bist du sauer **auf** mich? |
+| verheiratet | mit + Dat. | Er ist **mit** einer Ärztin verheiratet. |
+| fertig | mit + Dat. | Bist du **mit** der Arbeit fertig? |
+| zuständig | für + Akk. | Wer ist **für** Visa zuständig? |
+| froh | über + Akk. | Ich bin froh **über** die Nachricht. |
+| traurig | über + Akk. | Sie ist traurig **über** den Abschied. |
+| typisch | für + Akk. | Das ist typisch **für** ihn! |
+| gut / schlecht | in + Dat. | Ich bin gut **in** Mathe. |
+| freundlich / nett | zu + Dat. | Sie ist immer nett **zu** mir. |
+| bereit | zu + Dat. | Ich bin **zu** einem Umzug bereit. |
+> 求职信常用：Ich bin **an** der Stelle sehr **interessiert**. / Ich war **für** die Entwicklung … **verantwortlich**. / Ich bin **von** Ihrem Produkt **überzeugt**.
+---
+? Ich bin sehr stolz ___ meine Tochter. => auf | über | für // 我为女儿感到骄傲。 // stolz auf + Akk.
+? Sind Sie ___ dem Service zufrieden? => mit | über | von // 您对服务满意吗？ // zufrieden mit + Dat.
+? Ich bin ___ der Position sehr interessiert. => an | für | auf // 我对这个职位很感兴趣。 // interessiert an + Dat.
+? Im letzten Job war ich ___ das Backend verantwortlich. => für | über | von // 上一份工作我负责后端。 // verantwortlich für + Akk.
+? Konstanz ist ___ den Bodensee bekannt. => für | durch | wegen // 康斯坦茨以博登湖闻名。 // bekannt für + Akk.
+? Wir sind gespannt ___ die Ergebnisse. => auf | über | für // 我们很期待结果。 // gespannt auf + Akk.
+? Bist du schon ___ dem Bericht fertig? => mit | von | an // 你报告写完了吗？ // fertig mit + Dat.
+? Wer ist hier ___ die Aufenthaltstitel zuständig? => für | über | an // 这里谁负责居留许可？ // zuständig für + Akk.
+= Alle waren [von] dem Vortrag begeistert. // 大家都对报告很着迷。 // begeistert von + Dat.
+= Er ist sauer [auf] seinen Chef. // 他在生老板的气。 // sauer auf + Akk.
+= Ich bin [von] deiner Idee überzeugt. // 你的想法说服了我。 // überzeugt von + Dat.
+= Sie ist immer sehr freundlich [zu] den Kunden. // 她对顾客总是很友好。 // freundlich zu + Dat.
+
+=== g066 | B1 | 将来时和推测 | Futur I und Vermutung
+**werden（变位，第二位）+ 不定式（句尾）**
+
+## 什么时候用将来时
+德语说将来的事**大多用现在时 + 时间词**：Morgen **fahre** ich nach Berlin. 将来时主要用于：
+- **推测**（现在或将来）：Er **wird** wohl krank **sein**. — 他大概是病了。
+- **承诺、决心**：Ich **werde** dich nie **vergessen**. — 我永远不会忘了你。
+- **预测**：Die Preise **werden** weiter **steigen**. — 价格还会继续涨。
+- **强烈要求**：Du **wirst** jetzt deine Hausaufgaben **machen**! — 你现在就去写作业！
+
+## 推测常配 wohl, wahrscheinlich, vielleicht, sicher
+» Wo ist Max? – Er **wird wohl** noch im Büro **sein**. — 马克斯在哪？——大概还在办公室。
+» Das **wird** schon **klappen**. — 会成的。
+
+## 从句里：werden 在最后
+» Ich glaube, dass es morgen regnen **wird**.
+> 将来完成时（Futur II）：werden + 过去分词 + haben/sein，表示“到某时会已经……”或推测过去：Er **wird** den Zug **verpasst haben**.（他大概错过火车了）——B2 再讲。
+---
+= Ich [werde] dir morgen [helfen]. (helfen) // 我明天会帮你。 // werde … helfen
+= Es [wird] morgen [schneien]. (schneien) // 明天会下雪。 // 预测：wird … schneien
+= Er [wird] wohl im Stau [stehen]. (stehen) // 他大概堵在路上了。 // 推测：wird wohl … stehen
+= Wir [werden] uns bald [wiedersehen]. (wiedersehen) // 我们很快会再见的。 // 可分动词在句尾不分开
+= Ich glaube, dass sie die Prüfung bestehen [wird]. // 我相信她会通过考试。 // 从句里 wird 在最后
+? Wo ist Anna? – Sie ___ wohl noch schlafen. => wird | würde | wurde // 安娜在哪？——她大概还在睡。 // 推测 → wird + 不定式
+? Ich verspreche dir, ich ___ pünktlich sein. => werde | würde | wurde // 我保证我会准时。 // 承诺 → werde
+? 下面哪句是推测？ => Er wird jetzt zu Hause sein. | Er ist gestern zu Hause gewesen. | Er wurde zu Hause abgeholt. // // werden + 不定式 + 现在时间 = 推测
+~ Die Mieten / werden / in den nächsten Jahren / weiter / steigen. // 未来几年房租还会继续涨。 // werden 第二位，不定式句尾。
+~ Ich / werde / nächstes Jahr / eine Stelle / in München / suchen. // 我明年会在慕尼黑找工作。 // werde + 不定式
+
+=== g067 | B1 | lassen 和不带 zu 的不定式 | lassen, Infinitiv ohne zu
+## lassen 的三种意思
+| 意思 | 例句 |
+|---|---|
+| 让别人做（自己不做） | Ich **lasse** mein Auto **reparieren**. — 我把车拿去修。 |
+| 允许 / 让 | Meine Eltern **lassen** mich allein **reisen**. — 父母让我一个人旅行。 |
+| 留下、放着、不做 | **Lass** das! — 别弄了！Ich **lasse** den Schirm zu Hause. — 我把伞留在家。 |
+
+» Ich **lasse** mir die Haare **schneiden**. — 我去剪头发。（让别人给我剪）
+» **Lass** mich bitte **ausreden**! — 让我说完！
+» **Lass uns** gehen! — 我们走吧！（lass uns = 咱们……吧）
+
+## 完成时：hat + 不定式 + lassen（双不定式）
+» Ich **habe** mein Auto **reparieren lassen**. — 我把车拿去修了。（不是 gelassen）
+但单独用（没有另一个动词）时分词是 **gelassen**：Ich habe den Schirm zu Hause **gelassen**.
+
+## 其他不加 zu 的动词
+情态动词、werden、以及：
+- **sehen, hören, fühlen** + 不定式：Ich **sehe** ihn **kommen**. Ich **höre** sie **singen**.
+- **gehen, fahren, kommen** + 不定式（表示目的）：Wir **gehen** **einkaufen**. Er **kommt** mich **besuchen**.
+- **bleiben** + 不定式：Bleib bitte **sitzen**!
+- **lernen, helfen** 短句时：Ich **lerne** schwimmen. Sie **hilft** mir aufräumen.
+> lassen 现在时换音：du lässt, er lässt；过去式 ließ；分词 gelassen。
+---
+= Ich [lasse] meinen Laptop [reparieren]. (lassen, reparieren) // 我把笔记本拿去修。 // lassen + 不定式（句尾）
+= Wo [lässt] du dir die Haare schneiden? (lassen) // 你在哪剪头发？ // du lässt
+= [Lass] uns heute Abend Pizza bestellen! (lassen) // 我们今晚点披萨吧！ // Lass uns … = ……吧
+= Ich habe das Fahrrad [reparieren] [lassen]. (reparieren, lassen) // 我把自行车拿去修了。 // 双不定式：reparieren lassen
+= Ich habe meine Jacke im Restaurant [gelassen]. (lassen) // 我把外套落在餐馆了。 // 单独使用 → gelassen
+= Wir gehen am Samstag [schwimmen]. (schwimmen) // 我们周六去游泳。 // gehen + 不定式，不加 zu
+? Ich höre die Kinder im Garten ___. => spielen | zu spielen | gespielt // 我听见孩子们在花园里玩。 // hören + 不定式，不加 zu
+? Meine Eltern ___ mich nicht allein ausgehen. => ließen | lassten | lasen // 我父母（以前）不让我一个人出去。 // lassen 过去式：ließ → ließen
+? Er hat sich einen Anzug machen ___. => lassen | gelassen | zu lassen // 他找人做了一套西装。 // 双不定式 → lassen
+~ Ich / lasse / mir / morgen / die Haare / schneiden. // 我明天去剪头发。 // lassen 第二位，schneiden 句尾。
+
+=== g068 | B1 | n-变格名词 | n-Deklination
+一组**阳性名词**，除了单数第一格，**所有格都加 -(e)n**。
+
+| | 单数 | 复数 |
+|---|---|---|
+| 第一格 | der Kunde | die Kunde==n== |
+| 第四格 | den Kunde==n== | die Kunde==n== |
+| 第三格 | dem Kunde==n== | den Kunde==n== |
+| 第二格 | des Kunde==n== | der Kunde==n== |
+
+## 哪些名词？
+- 以 **-e** 结尾、指人或动物的阳性名词：der Kollege, der Junge, der Kunde, der Neffe, der Experte, der Löwe, der Affe, der Russe, der Franzose, der Deutsche（形容词名词化除外）
+- 外来词结尾 **-ent, -ant, -ist, -at, -oge, -graf, -nom**：der Student, der Präsident, der Praktikant, der Polizist, der Journalist, der Kandidat, der Soldat, der Biologe, der Fotograf, der Astronom
+- 一些单音节阳性词：der Mensch, der Herr（单数 Herrn，复数 Herren）, der Nachbar, der Bauer, der Held, der Bär, der Prinz
+
+## 特殊
+- der Name, der Gedanke, der Buchstabe, der Glaube：第二格 **-ns**（des Namens），其余 -n
+- das Herz：des Herzens, dem Herzen
+> 信件称呼和地址：Sehr geehrter **Herr** Müller（第一格）/ an **Herrn** Müller（第四格）。
+---
+= Ich habe gestern mit einem [Kunden] telefoniert. (der Kunde) // 我昨天和一位客户通了电话。 // n-变格：第三格 Kunden
+= Kennst du den neuen [Kollegen]? (der Kollege) // 你认识新同事吗？ // 第四格 Kollegen
+= Der Professor hilft dem [Studenten]. (der Student) // 教授帮助那个学生。 // 第三格 Studenten
+= Wir haben einen [Praktikanten] eingestellt. (der Praktikant) // 我们招了一个实习生。 // 第四格 Praktikanten
+= Ich schreibe [Herrn] Weber eine E-Mail. (der Herr) // 我给韦伯先生写封邮件。 // Herr → Herrn
+= Das ist das Auto unseres [Nachbarn]. (der Nachbar) // 这是我们邻居的车。 // 第二格 Nachbarn
+= Wie ist Ihr [Name]? (der Name) // 您叫什么名字？ // 第一格不变
+= Ich kann mich nicht an den [Namen] erinnern. (der Name) // 我想不起这个名字。 // 第四格 Namen
+? Der Polizist fragt den ___ nach dem Weg. => Jungen | Junge | Junges // 警察向那个男孩问路。 // der Junge → 第四格 den Jungen
+? Ich habe einen Termin bei einem ___. => Experten | Experte | Expertes // 我和一位专家有约。 // bei + 第三格 → Experten
+? Der Hund hat den ___ gebissen. => Briefträger | Briefträgern | Briefträgers // 狗咬了邮递员。 // Briefträger 不是 n-变格名词，第四格不变。
+
+=== g069 | B1 | 形容词和分词名词化 | Nominalisierte Adjektive und Partizipien
+形容词和分词可以**大写当名词用**，指“……的人”或“……的东西”。它们**保留形容词词尾**，按前面的冠词变化。
+
+| | 定冠词 | 不定冠词 / 零冠词 |
+|---|---|---|
+| 男性 | der Deutsch==e==, den Deutsch==en== | ein Deutsch==er==, einen Deutsch==en== |
+| 女性 | die Deutsch==e== | eine Deutsch==e== |
+| 复数 | die Deutsch==en== | Deutsch==e== |
+
+## 指人的常用词
+der / die Bekannte（熟人），der / die Verwandte（亲戚），der / die Erwachsene（成年人），der / die Jugendliche（青少年），der / die Kranke（病人），der / die Arbeitslose（失业者），der / die Angestellte（职员），der / die Vorgesetzte（上司），der / die Reisende（旅客），der / die Studierende（学生），der / die Deutsche（德国人）
+» Ein **Bekannter** von mir arbeitet bei Google. — 我的一个熟人在谷歌工作。
+» Die **Angestellten** bekommen mehr Urlaub. — 职员们有更多假期。
+» Er hilft einer **Kranken**. — 他帮一位女病人。
+
+## 指事物（中性）：etwas / nichts / viel / wenig / alles + 形容词
+- etwas, nichts, viel, wenig 后：**-es**（零冠词）：etwas **Neues**, nichts **Besonderes**, viel **Gutes**
+- alles 后：**-e**：alles **Gute**, alles **Neue**
+- das + 形容词：das **Beste**, das **Wichtigste**, das **Schöne** an …
+» Ich wünsche dir **alles Gute**! — 祝你一切顺利！
+» Gibt es **etwas Neues**? — 有什么新消息吗？
+» **Das Wichtigste** ist die Gesundheit. — 最重要的是健康。
+---
+= Ein [Bekannter] von mir sucht eine Wohnung. (bekannt, 男性) // 我的一个熟人在找公寓。 // ein + 男性第一格 → -er
+= Die [Jugendlichen] treffen sich im Park. (jugendlich, 复数) // 青少年们在公园聚会。 // die + 复数 → -en
+= Ich habe heute nichts [Besonderes] gemacht. (besonders) // 我今天没做什么特别的事。 // nichts + -es
+= Ich wünsche dir alles [Gute] zum Geburtstag! (gut) // 祝你生日快乐！ // alles + -e
+= Das [Wichtigste] ist, dass du gesund bist. (wichtig, 最高级) // 最重要的是你健康。 // das + 最高级名词化
+= Gibt es etwas [Neues]? (neu) // 有什么新消息吗？ // etwas + -es
+= Der Arzt untersucht den [Kranken]. (krank, 男性) // 医生检查那位男病人。 // den + -en
+? Mein Mann ist ___. => Deutscher | Deutsche | Deutschen // 我丈夫是德国人。 // 零冠词 + 男性 → Deutscher
+? Ich habe mit einer ___ gesprochen. (angestellt) => Angestellten | Angestellte | Angestellter // 我和一位女职员谈过。 // einer（第三格）→ -en
+? Die ___ müssen mehr Steuern zahlen. (reich) => Reichen | Reiche | Reicher // 富人必须交更多的税。 // die + 复数 → -en
+
+=== g070 | B1 | 间接疑问句 | Indirekte Fragen
+把问题放进另一个句子里，变成从句，**动词放最后**。听起来更礼貌，打电话、办事、写邮件很常用。
+
+## W-问句 → 用原来的疑问词引导
+» Wo ist der Bahnhof? → Können Sie mir sagen, **wo** der Bahnhof **ist**?
+» Wann beginnt der Kurs? → Ich möchte wissen, **wann** der Kurs **beginnt**.
+» Wie viel kostet das? → Wissen Sie, **wie viel** das **kostet**?
+
+## 是非问句 → 用 ob（是否）
+» Ist die Stelle noch frei? → Ich wollte fragen, **ob** die Stelle noch frei **ist**.
+» Kommt er morgen? → Weißt du, **ob** er morgen **kommt**?
+
+## 常用引导句
+Können / Könnten Sie mir sagen, … · Wissen Sie, … · Ich möchte gern wissen, … · Ich wollte fragen, … · Ich weiß nicht, … · Haben Sie eine Ahnung, … · Es ist unklar, …
+
+## 标点
+引导句是问句 → 句末问号；引导句是陈述句 → 句末句号：Ich weiß nicht, wo er wohnt**.**
+> 别把 ob 和 wenn 弄混：ob = 是否（间接问句），wenn = 如果 / 当……时。
+---
+~ Können Sie mir sagen, / wo / die nächste Apotheke / ist? // 您能告诉我最近的药店在哪吗？ // 疑问词引导，动词在最后。
+~ Ich möchte wissen, / wann / der nächste Zug / nach Zürich / fährt. // 我想知道下一班去苏黎世的火车几点开。 // 动词 fährt 在最后。
+~ Ich wollte fragen, / ob / Sie / noch / Termine / frei / haben. // 我想问一下您还有没有空的时间。 // 是非问句 → ob
+? Weißt du, ___ das Konzert anfängt? => wann | ob | wenn // 你知道音乐会几点开始吗？ // 问时间 → wann
+? Ich weiß nicht, ___ ich morgen Zeit habe. => ob | wenn | dass // 我不知道明天有没有空。 // 是非 → ob
+? Können Sie mir sagen, wie viel ___? => das kostet | kostet das | das kosten // 您能告诉我这个多少钱吗？ // 间接问句动词在最后。
+? Haben Sie eine Ahnung, warum der Zug ___? => Verspätung hat | hat Verspätung | Verspätung haben // 您知道火车为什么晚点吗？ // 动词在最后。
+= Ist die Wohnung noch frei? → Ich möchte fragen, [ob] die Wohnung noch frei ist. // 我想问一下公寓还空着吗。 // 是非问句 → ob
+= Wo wohnt er? → Ich weiß nicht, wo er [wohnt]. // 我不知道他住哪。 // 动词在最后
+= Wann kommt das Paket? → Wissen Sie, wann das Paket [kommt]? // 您知道包裹什么时候到吗？ // 动词在最后
+
+=== g071 | B1 | 让步：obwohl, trotzdem, trotz | Konzessive Angaben
+“虽然……但是……”有三种说法，语序各不相同：
+
+| 形式 | 词类 | 例句 |
+|---|---|---|
+| **obwohl** | 从句连词（动词在最后） | **Obwohl** ich müde **bin**, arbeite ich weiter. |
+| **trotzdem** | 连接副词（第一位，倒装） | Ich bin müde. **Trotzdem arbeite** ich weiter. |
+| **trotz** | 介词 + 第二格 | **Trotz der** Müdigkeit arbeite ich weiter. |
+| zwar … aber | 双连词 | Ich bin **zwar** müde, **aber** ich arbeite weiter. |
+
+» **Obwohl** es regnet, gehen wir joggen. — 虽然下雨，我们还是去跑步。
+» Es regnet. **Trotzdem** gehen wir joggen.
+» **Trotz des** Regens gehen wir joggen.
+
+## 注意方向
+obwohl 后面是“**意料之外的条件**”，主句是“**照样发生的事**”。
+✗ Obwohl ich weiterarbeite, bin ich müde.（意思反了）
+> 书面语还有 obgleich, obschon（= obwohl），dennoch（= trotzdem）。B2 会讲 auch wenn, selbst wenn, wenn auch。
+---
+? ___ er krank ist, geht er zur Arbeit. => Obwohl | Trotzdem | Trotz // 他虽然病了，还是去上班。 // 动词 ist 在最后 → obwohl
+? Er ist krank. ___ geht er zur Arbeit. => Trotzdem | Obwohl | Trotz // 他病了，但还是去上班。 // 后面倒装 → trotzdem
+? ___ der Krankheit geht er zur Arbeit. => Trotz | Obwohl | Trotzdem // 尽管生病他还是去上班。 // 介词 + 第二格 → trotz
+? Obwohl der Film lang war, ___. => war er nicht langweilig | er war nicht langweilig | er nicht langweilig war // 电影虽然长，但不无聊。 // 从句在前，主句动词紧跟逗号。
+? Trotz ___ guten Gehalts hat er gekündigt. => des | dem | den // 尽管工资高，他还是辞职了。 // trotz + 第二格：des Gehalts
+~ Obwohl / ich / wenig / Zeit / hatte, / habe / ich / dir / geholfen. // 虽然我时间不多，还是帮了你。 // 从句在前，主句动词 habe 紧跟逗号。
+~ Die Miete ist hoch. / Trotzdem / wohnen / wir / gern / hier. // 房租很高，但我们还是喜欢住这里。 // trotzdem + 动词 + 主语
+= Ich gehe spazieren, [obwohl] es kalt ist. // 虽然冷我还是去散步。 // 从句 → obwohl
+= Es ist kalt, [trotzdem] gehe ich spazieren. // 天冷，但我还是去散步。 // 倒装 → trotzdem
+= [Trotz] des schlechten Wetters fand das Fest statt. // 尽管天气不好，节日活动还是举行了。 // 介词 → trotz
+
+=== g072 | B1 | 原因和结果 | Kausal- und Konsekutivsätze
+## 原因
+| 形式 | 词类 | 例句 |
+|---|---|---|
+| weil / da | 从句（动词最后） | Ich bleibe zu Hause, **weil** ich krank **bin**. |
+| denn | 第 0 位（正常语序） | Ich bleibe zu Hause, **denn** ich **bin** krank. |
+| nämlich | 副词（放在动词后，不能在句首） | Ich bleibe zu Hause. Ich **bin nämlich** krank. |
+| wegen + 第二格 | 介词 | **Wegen meiner** Krankheit bleibe ich zu Hause. |
+| aus + 第三格 | 介词（情感、动机） | Er hat es **aus** Liebe getan. |
+
+**da** 常放句首，表示对方已知的原因：**Da** Sie die Frist versäumt haben, … — 由于您错过了期限……
+
+## 结果
+| 形式 | 词类 | 例句 |
+|---|---|---|
+| deshalb / deswegen / daher / darum | 第一位，倒装 | Ich bin krank, **deshalb bleibe** ich zu Hause. |
+| sodass / so dass | 从句 | Es regnete stark, **sodass** das Spiel ausfiel. |
+| so + 形容词 …, dass | 从句（程度） | Er war **so** müde, **dass** er sofort einschlief. |
+| also | 第一位，倒装 | Es ist spät, **also gehen** wir. |
+| folglich / infolgedessen | 书面语，倒装 | Die Kosten stiegen, **folglich** stiegen die Preise. |
+
+» Der Zug hatte Verspätung, **sodass** ich den Anschluss verpasste. — 火车晚点，结果我错过了换乘。
+» Das Essen war **so** scharf, **dass** ich es nicht essen konnte. — 饭辣得我吃不了。
+> 问原因：Warum? Weshalb? Wieso? 回答 weil …；“为什么不”的 doch 回答：Warum kommst du nicht? – Ich komme doch!
+---
+? Ich lerne heute nicht. Ich habe ___ Kopfschmerzen. => nämlich | denn | weil // 我今天不学了，因为我头疼。 // 动词后面的“因为” → nämlich
+? ___ Sie die Rechnung nicht bezahlt haben, schicken wir eine Mahnung. => Da | Denn | Deshalb // 由于您没有付账单，我们寄送催款单。 // 句首原因从句 → da
+? Es hat stark geschneit, ___ die Straßen gesperrt wurden. => sodass | deshalb | denn // 雪下得很大，以至于道路封闭了。 // 结果从句（动词在最后）→ sodass
+? Er hat ___ schnell gesprochen, dass ich nichts verstanden habe. => so | sodass | zu // 他说得太快，我什么都没听懂。 // so + 形容词 …, dass
+? ___ des Streiks fallen viele Züge aus. => Wegen | Weil | Denn // 因为罢工，很多火车停运。 // 介词 + 第二格 → wegen
+? Es war schon spät, ___ nahmen wir ein Taxi. => deshalb | weil | sodass // 已经很晚了，所以我们打了车。 // 倒装 → deshalb
+~ Ich / habe / den Bus / verpasst, / sodass / ich / zu spät / kam. // 我错过了公交，结果迟到了。 // sodass 从句动词在最后。
+~ Der Kaffee / war / so / heiß, / dass / ich / ihn / nicht / trinken / konnte. // 咖啡烫得我没法喝。 // so … dass
+= Ich kann nicht kommen. Ich muss [nämlich] arbeiten. // 我来不了，因为我得工作。 // nämlich 放在动词后
+
+=== g073 | B1 | 代替和缺失：statt … zu, ohne … zu | (an)statt / ohne + zu / dass
+| 形式 | 意思 | 例句 |
+|---|---|---|
+| **ohne … zu** + 不定式 | 没有做……（主语相同） | Er ging, **ohne** sich **zu verabschieden**. |
+| **ohne dass** + 从句 | 没有……（主语不同） | Er ging, **ohne dass** ich es **merkte**. |
+| **(an)statt … zu** + 不定式 | 不做……而（主语相同） | **Statt** zu lernen, spielt er Computer. |
+| **(an)statt dass** + 从句 | 不……而（主语不同） | **Statt dass** er hilft, schaut er nur zu. |
+| ohne + 第四格 / statt + 第二格 | 介词 | **ohne** Frühstück, **statt** einer Antwort |
+
+» Sie hat die Stelle angenommen, **ohne** lange **nachzudenken**. — 她没多想就接受了这个职位。
+» **Anstatt** den Bus **zu nehmen**, ist er zu Fuß gegangen. — 他没坐公交，而是走路去的。
+» Er hat das Auto genommen, **ohne dass** sein Vater es **wusste**. — 他在他父亲不知情的情况下把车开走了。
+
+## 和 um … zu 对比
+um … zu（为了），ohne … zu（没有），statt … zu（而不是）——三个都是“介词 + zu 不定式”，zu 不定式在最后，可分动词 zu 夹中间。
+> ohne … zu 句子本身就含否定，不再加 nicht：✗ ohne nicht zu fragen。
+---
+? Er ist gegangen, ___ sich zu verabschieden. => ohne | statt | um // 他没告别就走了。 // 没有做 → ohne … zu
+? ___ zu kochen, haben wir Pizza bestellt. => Statt | Ohne | Um // 我们没做饭，而是点了披萨。 // 代替 → statt … zu
+? Sie hat das Büro verlassen, ___ jemand es gemerkt hat. => ohne dass | ohne | statt // 她离开了办公室，没人注意到。 // 主语不同 → ohne dass
+? Ich lerne Deutsch, ___ in Deutschland zu arbeiten. => um | ohne | statt // 我学德语是为了在德国工作。 // 目的 → um … zu
+= Er hat den Vertrag unterschrieben, ohne ihn [zu lesen]. (lesen) // 他没读合同就签了。 // ohne … zu lesen
+= Anstatt früh [aufzustehen], hat er bis zehn geschlafen. (aufstehen) // 他没早起，而是睡到了十点。 // 可分动词 auf-zu-stehen
+= Statt dass er mir [hilft], schaut er nur zu. (helfen) // 他不帮我，只在一旁看。 // statt dass 从句，动词最后
+= Du kannst nicht einfach gehen, ohne [Bescheid zu sagen]. (Bescheid sagen) // 你不能不打招呼就走。 // ohne … zu + 不定式
+~ Sie / hat / gekündigt, / ohne / eine neue Stelle / zu haben. // 她在没有新工作的情况下辞职了。 // zu haben 在最后。
+
+=== g074 | B1 | 语气小品词 | Modalpartikeln
+小品词本身没有具体意思，但能改变语气，口语里非常常见，听力考试也会考对语气的理解。
+
+| 词 | 语气 | 例句 |
+|---|---|---|
+| **doch** | 提醒对方已知的事；催促；反驳 | Das weißt du **doch**! / Komm **doch** mit! |
+| **mal** | 让请求更随意、更客气 | Kannst du **mal** kommen? / Schau **mal**! |
+| **ja** | 惊讶；双方都知道的事 | Das ist **ja** toll! / Du weißt **ja**, ich bin Student. |
+| **denn** | 问句里，显得更自然、关心 | Was ist **denn** los? / Wo warst du **denn**? |
+| **eigentlich** | 顺便问；“其实” | Wie alt bist du **eigentlich**? |
+| **eben / halt** | 无奈接受（halt 多在南部） | Das ist **eben** so. / Dann warten wir **halt**. |
+| **schon** | 安慰；有所保留 | Das klappt **schon**! / Das ist **schon** schön, aber teuer. |
+| **wohl** | 推测 | Er ist **wohl** krank. |
+| **bloß / nur** | 加强警告、愿望 | Mach das **bloß** nicht! / Wenn ich **nur** mehr Zeit hätte! |
+| **ruhig** | 鼓励（不用顾虑） | Frag **ruhig**! / Du kannst **ruhig** später kommen. |
+
+» Setz dich **doch**! — 坐吧！（友好地邀请）
+» Mach **mal** das Fenster auf. — 把窗户打开一下。
+» Das ist **ja** interessant! — 这可真有意思！
+» Wie spät ist es **denn**? — 现在几点了？
+
+## 位置
+小品词放在中场，通常紧跟代词之后、在重要信息之前：Kannst du **mir mal** das Salz geben? 小品词**不重读**（重读的 doch 是“确实、就是”）。
+---
+? Was ist ___ los? Du siehst traurig aus. => denn | doch | mal // 怎么了？你看起来很难过。 // 关心的问句 → denn
+? Komm ___ mit! Es wird bestimmt lustig. => doch | denn | eben // 一起来嘛！肯定很好玩。 // 劝说 → doch
+? Kannst du mir ___ helfen? => mal | denn | ja // 你能帮我一下吗？ // 随意的请求 → mal
+? Das ist ___ eine tolle Überraschung! => ja | denn | mal // 这真是个大惊喜！ // 惊讶 → ja
+? Der Bus ist weg. Dann gehen wir ___ zu Fuß. => halt | denn | ja // 公交走了，那我们就走路吧。 // 无奈接受 → halt / eben
+? Keine Sorge, du schaffst das ___! => schon | denn | mal // 别担心，你肯定能行！ // 安慰 → schon
+? Wie heißt du ___? Ich habe deinen Namen vergessen. => eigentlich | doch | halt // 你到底叫什么来着？我忘了你的名字。 // 顺便问 → eigentlich
+? Du kannst mich ___ anrufen, wenn du Fragen hast. => ruhig | bloß | denn // 有问题尽管给我打电话。 // 鼓励 → ruhig
+? Vergiss ___ nicht den Termin! => bloß | mal | denn // 千万别忘了预约！ // 加强警告 → bloß
+? Wo ist Tim? – Er ist ___ noch im Büro. => wohl | denn | mal // 蒂姆在哪？——他大概还在办公室。 // 推测 → wohl
+
+=== g075 | B1 | 形容词的构词 | Wortbildung: Adjektive
+认识前后缀能帮你猜出很多没见过的词的意思。
+
+## 前缀
+| 前缀 | 意思 | 例子 |
+|---|---|---|
+| un- | 不、非 | unklar, unmöglich, unfreundlich, unabhängig |
+| miss- | 错、不好 | missverständlich, misstrauisch |
+| ur- | 原始、非常 | uralt, urgemütlich |
+
+## 后缀
+| 后缀 | 意思 | 例子 |
+|---|---|---|
+| -bar | 可以被……的 | machbar（可行的）, lesbar, essbar, erreichbar, zahlbar |
+| -los | 没有……的 | arbeitslos, kostenlos, hilflos, sinnlos |
+| -frei | 免……的、无…… | alkoholfrei, barrierefrei, steuerfrei |
+| -voll | 充满……的 | sinnvoll, wertvoll, liebevoll, humorvoll |
+| -reich | 富有……的 | erfolgreich, abwechslungsreich, lehrreich |
+| -lich | ……的（性质、频率） | freundlich, täglich, beruflich, ärztlich |
+| -ig | 具有……的 | lustig, sonnig, wichtig, eilig, ruhig |
+| -isch | ……的（来源、国家、学科） | chinesisch, technisch, typisch, praktisch |
+| -sam | 倾向于…… | sparsam, langsam, einsam, aufmerksam |
+| -haft | 像……一样 | fehlerhaft, ernsthaft, vorteilhaft |
+| -mäßig | 按照……的 | regelmäßig, planmäßig |
+
+» Die Website ist auch mobil **erreichbar**. — 网站在手机上也能访问。
+» Der Eintritt ist **kostenlos**. — 免费入场。
+» Die Arbeit ist sehr **abwechslungsreich**. — 工作内容很丰富。
+» Wir suchen **teamfähige** und **zuverlässige** Mitarbeiter. — 我们招有团队精神、可靠的员工。（招聘常见：-fähig 有……能力的）
+> -los 和 -frei 都是“没有”：-los 多是缺少好东西（arbeitslos 失业的），-frei 多是没有坏东西（fehlerfrei 无错误的）。
+---
+? Das Problem ist leicht zu lösen. Es ist ___. => lösbar | lösig | löslos // 这个问题很容易解决。 // 能被……的 → -bar
+? Der Eintritt kostet nichts, er ist ___. => kostenlos | kostbar | kostig // 入场不要钱，是免费的。 // 没有……的 → -los
+? Er hat keine Arbeit. Er ist ___. => arbeitslos | arbeitsfrei | unarbeit // 他没有工作，是失业的。 // arbeitslos = 失业
+? Die Antwort war nicht klar. Sie war ___. => unklar | missklar | klarlos // 回答不清楚。 // 否定前缀 un-
+? Ich gehe jede Woche zum Sport, also ___. => regelmäßig | regellos | regelbar // 我每周去运动，也就是定期地。 // -mäßig：按照规律
+? Das Bier enthält keinen Alkohol. Es ist ___. => alkoholfrei | alkohollos | unalkoholisch // 这啤酒不含酒精。 // 不含某种成分 → -frei
+? Die Firma hat viel Erfolg. Sie ist sehr ___. => erfolgreich | erfolgsvoll | erfolgbar // 这家公司非常成功。 // erfolgreich
+= Die Arbeit hat einen Sinn. Sie ist [sinnvoll]. // 这份工作有意义。 // -voll：充满……的
+= Er spart viel Geld. Er ist [sparsam]. // 他很节省。 // -sam
+= Das kann man essen. Es ist [essbar]. // 这能吃。 // -bar
+
+=== g076 | B1 | 代词 es 的用法 | Das Pronomen es
+es 除了指中性名词（das Buch → es），还有很多“没有实际意思”的用法。
+
+## 1. 天气、时间、自然现象
+Es regnet. Es schneit. Es ist kalt. Es ist 8 Uhr. Es wird dunkel.
+
+## 2. 固定表达
+- **es gibt** + 第四格：有
+- **es geht** + 第三格：Wie geht **es** Ihnen? / **Es geht** um … （涉及、关于）
+- **es tut mir leid**（抱歉），**es kommt darauf an**（看情况），**es eilt**（急），**es klappt**（成了），**es lohnt sich**（值得），**es handelt sich um**（涉及）
+» Worum **geht es**? – **Es geht um** die neue Stelle. — 是关于什么事？——关于新职位。
+» Lohnt **es** sich, das Deutschlandticket zu kaufen? — 买德国票值得吗？
+
+## 3. 预备主语 / 宾语（引出后面的从句或 zu 不定式）
+» **Es** ist wichtig, **dass** du pünktlich bist. — 你准时很重要。
+» **Es** freut mich, **dass** du da bist. — 很高兴你来了。
+» Ich finde **es** gut, **dass** … / Ich finde **es** schwer, Deutsch **zu** sprechen.
+从句放到前面时，es **消失**：Dass du pünktlich bist, ist wichtig.
+
+## 4. 占位 es（句首占位，书面 / 文学）
+**Es** kamen viele Gäste. = Viele Gäste kamen. 主语移到前面时 es 消失，动词跟真正的主语（复数）。
+> Ich habe **es** eilig.（我赶时间）Er hat **es** geschafft.（他做到了）这里的 es 指“事情”，不能省。
+---
+? Wie geht ___ dir? => es | das | er // 你好吗？ // 固定表达：Wie geht es dir?
+? In diesem Text ___ um Umweltschutz. => geht es | gibt es | ist es // 这篇文章讲的是环境保护。 // es geht um … = 关于
+? ___ ist wichtig, regelmäßig Pausen zu machen. => Es | Das | Er // 定时休息很重要。 // 预备主语 es 引出 zu 不定式
+? Ich finde ___ toll, dass du Deutsch lernst. => es | ihn | sie // 我觉得你学德语很棒。 // finden + es + 形容词 + dass
+? Dass er kommt, ___ mich. => freut | freut es | es freut // 他要来，这让我很高兴。 // 从句在前时 es 消失
+? Kaufst du das Ticket? – ___ kommt darauf an, wie teuer es ist. => Es | Das | Er // 你买票吗？——看多少钱。 // es kommt darauf an
+= Hier [gibt] es keinen Supermarkt. // 这里没有超市。 // es gibt
+= Es [lohnt] sich, früh zu buchen. // 早订是值得的。 // es lohnt sich
+= Es tut mir [leid], dass ich zu spät bin. // 抱歉我迟到了。 // es tut mir leid
+= Wir haben [es] geschafft! // 我们做到了！ // es schaffen
+~ Es / ist / schwer, / eine Wohnung / in München / zu finden. // 在慕尼黑找房子很难。 // es 预备主语，zu 不定式在最后。
+
+=== g077 | B1 | 情态动词的完成时和从句里的多个动词 | Modalverben im Perfekt
+## 情态动词完成时：hat + 不定式 + 情态动词不定式（双不定式）
+» Ich **habe** gestern lange **arbeiten müssen**. — 我昨天得工作很久。
+» Er **hat** nicht **kommen können**. — 他没能来。
+口语里更常用过去式：Ich **musste** gestern lange arbeiten. 两种都要认得。
+情态动词单独用（没有另一个动词）时分词是 ge-…-t：Das **habe** ich nicht **gewollt**. Ich **habe** das nicht **gekonnt**.
+
+## 从句里的动词顺序
+| 情况 | 从句结尾 |
+|---|---|
+| 一个动词 | …, weil ich arbeite. |
+| 情态动词 | …, weil ich arbeiten **muss**. |
+| 完成时 | …, weil ich gearbeitet **habe**. |
+| 被动 | …, weil das Haus renoviert **wird**. |
+| 情态动词 + 被动 | …, weil das Haus renoviert werden **muss**. |
+| **完成时 + 情态动词（双不定式）** | …, weil ich ==habe== arbeiten müssen. |
+
+最后一种是例外：有双不定式时，**助动词 haben 放在两个不定式前面**：
+» Er sagt, dass er gestern **hat** arbeiten **müssen**. — 他说他昨天得上班。
+» Ich weiß nicht, ob ich das **hätte** machen **sollen**. — 我不知道我当时该不该那样做。
+> 这条规则在口语里常被回避（改用过去式：…, dass er gestern arbeiten musste），但阅读和 B2 考试会遇到。
+---
+= Ich habe gestern zum Arzt [gehen] [müssen]. (gehen, müssen) // 我昨天得去看医生。 // 双不定式：gehen müssen
+= Wir haben den Zug nicht [erreichen] [können]. (erreichen, können) // 我们没能赶上火车。 // erreichen können
+= Das habe ich nicht [gewollt]. (wollen) // 我不是故意的。 // 单独使用 → gewollt
+= Er sagt, dass er lange [warten] [musste]. (warten, müssen, Präteritum) // 他说他等了很久。 // 从句里用过去式更自然
+? Ich konnte nicht schlafen, weil ich so viel arbeiten ___. => musste | müssen | gemusst // 我睡不着，因为我得做太多工作。 // 从句：arbeiten musste
+? Sie hat die Prüfung nicht machen ___. => dürfen | gedurft | darf // 她不被允许参加考试。 // 双不定式：machen dürfen
+? Er hat nicht kommen ___. => können | gekonnt | konnte // 他没能来。 // 双不定式 → können
+? 从句里哪个顺序是对的？ => …, weil ich gestern habe arbeiten müssen. | …, weil ich gestern arbeiten müssen habe. | …, weil ich gestern arbeiten habe müssen. // // 双不定式时助动词 habe 放在两个不定式前。
+~ Ich weiß, / dass / das Problem / gelöst / werden / muss. // 我知道这个问题必须解决。 // 从句：分词 + werden + 情态动词
+~ Gestern / habe / ich / nicht / einschlafen / können. // 我昨天睡不着。 // 主句：habe 第二位，双不定式在最后。

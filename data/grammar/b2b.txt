@@ -1,0 +1,602 @@
+=== g090 | B2 | 名词—动词搭配 | Nomen-Verb-Verbindungen
+很多意思在正式德语里用“**名词 + 功能动词**”表达，动词本身意思很弱，意思主要在名词上。B2 阅读、写作、职场邮件里非常常见。
+
+| 搭配 | 意思 | 相当于 |
+|---|---|---|
+| eine Entscheidung treffen | 作出决定 | entscheiden |
+| eine Frage stellen | 提问 | fragen |
+| einen Antrag stellen | 提交申请 | beantragen |
+| zur Verfügung stellen | 提供 | bereitstellen |
+| zur Verfügung stehen | 可供使用 | verfügbar sein |
+| in Frage kommen | 有可能、可以考虑 | möglich sein |
+| in Frage stellen | 质疑 | bezweifeln |
+| Kritik üben (an + Dat.) | 批评 | kritisieren |
+| Einfluss nehmen (auf + Akk.) | 施加影响 | beeinflussen |
+| Rücksicht nehmen (auf + Akk.) | 照顾、体谅 | berücksichtigen |
+| in Anspruch nehmen | 占用、利用（服务） | nutzen |
+| Abschied nehmen (von + Dat.) | 告别 | sich verabschieden |
+| zur Kenntnis nehmen | 知悉 | wahrnehmen |
+| Bescheid sagen / geben | 通知 | informieren |
+| Bescheid wissen | 知情 | wissen |
+| eine Rolle spielen | 起作用 | wichtig sein |
+| in Kraft treten | 生效 | gültig werden |
+| zum Ausdruck bringen | 表达 | ausdrücken |
+| zu Ende bringen | 完成 | beenden |
+| in Gang bringen / kommen | 启动 | starten |
+| ums Leben kommen | 丧生 | sterben |
+| zur Sprache kommen | 被提及 | besprochen werden |
+| Verantwortung tragen / übernehmen | 承担责任 | verantwortlich sein |
+| Maßnahmen ergreifen | 采取措施 | handeln |
+| einen Vorschlag machen | 提建议 | vorschlagen |
+| Fortschritte machen | 取得进步 | sich verbessern |
+| sich Mühe geben | 努力 | sich bemühen |
+| Wert legen auf + Akk. | 重视 | wichtig finden |
+| einen Beitrag leisten | 作出贡献 | beitragen |
+| Unterstützung leisten | 提供支持 | unterstützen |
+| eine Rolle spielen | 起作用 | — |
+| unter Druck stehen | 承受压力 | gestresst sein |
+| in Verbindung stehen / setzen | 有联系 / 联系 | kontaktieren |
+
+» Ich habe noch keine **Entscheidung getroffen**. — 我还没作决定。
+» Wir **stellen** Ihnen einen Laptop **zur Verfügung**. — 我们给您配一台笔记本电脑。
+» Das neue Gesetz **tritt** im Januar **in Kraft**. — 新法律一月份生效。
+» Wir **legen** großen **Wert auf** Teamarbeit. — 我们很重视团队合作。（招聘广告常见）
+> 记名词时把动词一起记：Entscheidung → **treffen**；Frage → **stellen**；Wert → **legen auf**。
+---
+? Wir müssen bis Freitag eine Entscheidung ___. => treffen | machen | stellen // 我们必须在周五前作出决定。 // Entscheidung treffen
+? Darf ich Ihnen eine Frage ___? => stellen | machen | geben // 我可以问您一个问题吗？ // Frage stellen
+? Die Firma stellt den Mitarbeitern ein Jobticket zur ___. => Verfügung | Nutzung | Hilfe // 公司给员工提供交通月票。 // zur Verfügung stellen
+? Das Gesetz tritt am 1. Januar in ___. => Kraft | Gang | Frage // 法律 1 月 1 日生效。 // in Kraft treten
+? Für die Stelle ___ nur Bewerber mit Erfahrung in Frage. => kommen | stehen | stellen // 这个职位只考虑有经验的申请人。 // in Frage kommen
+? Geld ___ für mich keine große Rolle. => spielt | macht | nimmt // 钱对我来说不是很重要。 // eine Rolle spielen
+? Bitte ___ Sie Rücksicht auf die Nachbarn. => nehmen | geben | machen // 请体谅邻居。 // Rücksicht nehmen auf
+? Unser Team legt großen ___ auf Qualität. => Wert | Sinn | Preis // 我们团队非常重视质量。 // Wert legen auf
+? Die Regierung muss endlich Maßnahmen ___. => ergreifen | nehmen | treffen // 政府终于该采取措施了。 // Maßnahmen ergreifen（treffen 也可，但 ergreifen 最常见）
+= Sag mir bitte [Bescheid], wenn du fertig bist. // 你弄完了告诉我一声。 // Bescheid sagen
+= Sie hat im Deutschkurs große [Fortschritte] gemacht. // 她在德语课上进步很大。 // Fortschritte machen
+= Er hat beim Projekt die [Verantwortung] übernommen. // 他承担了项目的责任。 // Verantwortung übernehmen
+= Bei dem Unfall sind zwei Menschen ums [Leben] gekommen. // 事故中两人丧生。 // ums Leben kommen
+
+=== g091 | B2 | 连接词进阶 | Konnektoren B2
+B2 写作和阅读要求认识更多表示逻辑关系的词。注意它们的**语序类型**：
+
+## 类型 A：第一位，后面倒装（像 deshalb）
+| 关系 | 词 |
+|---|---|
+| 结果 | folglich, infolgedessen, somit, daher, demnach |
+| 让步 | dennoch, trotzdem, nichtsdestotrotz |
+| 对比 | dagegen, hingegen, im Gegensatz dazu, demgegenüber |
+| 补充 | außerdem, zudem, darüber hinaus, ferner, des Weiteren |
+| 替代 | stattdessen |
+| 否则 | sonst, andernfalls, ansonsten |
+| 限制 | allerdings, jedoch（也可第 0 位） |
+| 时间 | anschließend, daraufhin, inzwischen, zuvor |
+» Die Kosten sind gestiegen. **Folglich müssen** wir die Preise erhöhen.
+» Er hatte wenig Zeit. **Dennoch hat** er uns geholfen.
+» Der Kurs ist teuer. **Allerdings ist** er sehr gut.
+
+## 类型 B：从句连词（动词在最后）
+| 关系 | 词 |
+|---|---|
+| 对比 | während（而）、wohingegen |
+| 条件 | falls, sofern, soweit, es sei denn（除非，后接主句语序！） |
+| 方式 | indem, dadurch dass |
+| 限制 | soviel / soweit（就……而言） |
+| 时间 | sobald, solange, sooft, ehe |
+» Ich trinke Tee, **während** mein Mann Kaffee **trinkt**. — 我喝茶，而我丈夫喝咖啡。
+» **Sofern** Sie Fragen **haben**, rufen Sie mich an. — 如果您有问题，请给我打电话。
+» Wir fahren morgen, **es sei denn**, es **regnet**. — 我们明天出发，除非下雨。
+
+## 类型 C：第 0 位
+und, aber, oder, denn, sondern, doch（但是）, jedoch（也可）
+> 写作里每段至少用两三个不同的连接词，比一直用 und / aber 更像 B2。
+---
+? Die Nachfrage ist gestiegen. ___ haben wir mehr Personal eingestellt. => Folglich | Während | Sofern // 需求增加了，因此我们招了更多人。 // 结果 + 倒装 → folglich
+? Die Wohnung ist klein. ___ ist sie sehr günstig. => Dafür | Stattdessen | Andernfalls // 公寓很小，但很便宜（作为补偿）。 // dafür = 作为弥补
+? In Bayern ist das Wetter oft sonnig, ___ es im Norden häufig regnet. => während | dennoch | folglich // 巴伐利亚常常阳光明媚，而北部常下雨。 // 对比从句 → während（而）
+? Wir starten pünktlich, ___ der Zug hat Verspätung. => es sei denn | sofern | falls // 我们准时出发，除非火车晚点。 // 除非 → es sei denn（后面主句语序）
+? Der Bus kam nicht. ___ sind wir zu Fuß gegangen. => Stattdessen | Andernfalls | Hingegen // 公交没来，我们就走路去了。 // 代替 → stattdessen
+? Sie müssen den Antrag rechtzeitig stellen, ___ verlieren Sie den Anspruch. => andernfalls | stattdessen | dennoch // 您必须及时申请，否则会失去资格。 // 否则 → andernfalls
+? Das Angebot ist gut. ___ ist die Lieferzeit sehr lang. => Allerdings | Folglich | Außerdem // 报价很好，不过交货期很长。 // 限制 → allerdings
+? ___ Sie Interesse haben, schicken wir Ihnen weitere Informationen. => Sofern | Sodass | Indem // 如果您感兴趣，我们会给您寄更多资料。 // 条件 → sofern
+? Der Plan ist teuer. ___ dauert er zu lange. => Darüber hinaus | Dennoch | Stattdessen // 计划很贵，此外耗时太久。 // 补充 → darüber hinaus
+~ Er / war / krank. / Dennoch / ist / er / zur Arbeit / gegangen. // 他病了，但还是去上班了。 // dennoch + 动词 + 主语
+~ Ich / lerne / am Abend, / während / meine Mitbewohnerin / morgens / lernt. // 我晚上学，而我室友早上学。 // während 从句，动词最后
+
+=== g092 | B2 | 方式从句：indem, dadurch dass | Modalsätze
+回答“**怎么做到的？通过什么方式？**”（Wie? Wodurch?）
+
+| 形式 | 例句 |
+|---|---|
+| **indem** + 从句 | Man lernt eine Sprache, **indem** man viel **spricht**. |
+| **dadurch, dass** + 从句（dadurch 在主句里） | Man lernt eine Sprache **dadurch**, **dass** man viel spricht. |
+| **dadurch** 在主句前 | **Dadurch, dass** er viel trainiert hat, hat er gewonnen. |
+| **durch** + 名词（名词风格） | **Durch** viel Sprechen lernt man eine Sprache. |
+| **ohne dass / ohne … zu** | 没有……的方式：Er kam herein, **ohne** zu klopfen. |
+| **(an)statt dass / statt … zu** | 不用……的方式而：Statt zu fragen, hat er geraten. |
+| **wie** / **als** | 和……一样 / 比……：Es war schwieriger, **als** ich dachte. |
+
+» Sie hat Geld gespart, **indem** sie auf das Auto **verzichtet hat**. — 她通过不买车省下了钱。
+» **Dadurch, dass** wir früher losgefahren sind, haben wir den Stau vermieden. — 我们提前出发，因此避开了堵车。
+» **Durch** regelmäßiges Üben verbessert man seine Aussprache. — 通过规律练习可以改善发音。
+
+## indem 和 dadurch dass 的细微差别
+- indem 强调“方法、手段”（主语一般相同）。
+- dadurch dass 更强调“原因 + 方式”，主语可以不同。
+> 问句：**Wodurch** / **Wie** hast du das geschafft? – **Indem** ich jeden Tag geübt habe.
+---
+? Man kann Energie sparen, ___ man das Licht ausschaltet. => indem | damit | sodass // 关灯可以节约能源。 // 方式 → indem
+? Er hat die Prüfung bestanden, ___ er jeden Tag gelernt hat. => dadurch dass | ohne dass | statt dass // 他通过每天学习通过了考试。 // 方式（原因）→ dadurch, dass
+? ___ regelmäßige Bewegung bleibt man gesund. => Durch | Indem | Mit dem // 通过规律运动保持健康。 // 名词 → durch
+? Sie hat die Wohnung verlassen, ___ das Licht auszumachen. => ohne | indem | um // 她离开公寓时没关灯。 // 没有做 → ohne … zu
+? ___ hast du so schnell Deutsch gelernt? – Indem ich viel mit Deutschen gesprochen habe. => Wodurch | Wofür | Womit zu // 你是怎么这么快学会德语的？——多和德国人说话。 // 问方式 → wodurch / wie
+~ Ich / verbessere / mein Deutsch, / indem / ich / jeden Tag / Podcasts / höre. // 我通过每天听播客提高德语。 // indem 从句，动词在最后。
+~ Wir / haben / Zeit / gespart, / indem / wir / die Aufgaben / verteilt / haben. // 我们通过分配任务节省了时间。 // 完成时：分词 + 助动词在最后。
+= Durch das Lesen von Zeitungen lernt man viel. → Man lernt viel, [indem] man Zeitungen liest. // 读报能学到很多。 // durch → indem
+= Er hat das Problem gelöst, indem er den Computer [neu gestartet] hat. (neu starten) // 他重启电脑解决了问题。 // 从句里分词在助动词前
+
+=== g093 | B2 | 条件句进阶 | Konditionalsätze
+## 条件连词
+| 词 | 语气 | 例句 |
+|---|---|---|
+| wenn | 中性 | **Wenn** es regnet, bleiben wir zu Hause. |
+| falls | 万一（可能性较小） | **Falls** du Hilfe brauchst, ruf mich an. |
+| sofern / soweit | 只要、在……前提下（正式） | **Sofern** nichts dazwischenkommt, sind wir um 8 da. |
+| vorausgesetzt, (dass) | 前提是 | Wir kommen, **vorausgesetzt**, das Wetter ist gut. |
+| unter der Bedingung, dass | 条件是 | Ich helfe dir, **unter der Bedingung, dass** du pünktlich bist. |
+| es sei denn | 除非（后面主句语序） | Ich komme, **es sei denn**, ich muss arbeiten. |
+| angenommen, (dass) | 假设 | **Angenommen**, du gewinnst im Lotto – was machst du? |
+| im Fall(e), dass | 如果……的情况下 | **Im Falle, dass** Sie verhindert sind, … |
+
+## 省略 wenn：动词放第一位
+» **Hast** du Zeit, (dann / so) komm vorbei. = Wenn du Zeit hast, komm vorbei.
+» **Hätte** ich das gewusst, wäre ich gekommen. = Wenn ich das gewusst hätte, …
+» **Sollten** Sie Fragen haben, stehe ich Ihnen gern zur Verfügung. — 如有疑问，我随时乐意为您解答。（**正式邮件最常用的结尾句**）
+**sollte** 在条件句里表示“万一”，非常客气，是商务邮件标配。
+
+## 名词形式
+**bei** + 名词：bei Regen, bei Fragen, bei Interesse / **im Falle** + 第二格：im Falle eines Unfalls / **ohne** + 名词：ohne Termin
+> 求职信结尾：Über eine Einladung zu einem persönlichen Gespräch freue ich mich sehr. **Sollten** Sie weitere Unterlagen benötigen, …
+---
+? ___ Sie weitere Fragen haben, wenden Sie sich gern an mich. => Sollten | Würden | Wenn sollten // 如有其他问题，欢迎联系我。 // 省略 wenn 的条件句：Sollten Sie …
+? Ich komme morgen, ___ ich bin krank. => es sei denn | falls | sofern // 我明天来，除非我病了。 // 除非 → es sei denn + 主句语序
+? ___ du den Zug verpasst, nimm einfach den nächsten. => Falls | Es sei denn | Obwohl // 万一你错过火车，就坐下一班。 // 万一 → falls
+? ___ Interesse melden Sie sich bitte bis Freitag. => Bei | Mit | Für // 如有兴趣，请在周五前报名。 // 条件 → bei + 名词
+? ___ ich das früher gewusst, hätte ich anders entschieden. => Hätte | Wäre | Würde // 我要是早知道，就会作别的决定。 // 省略 wenn：Hätte ich …
+? Wir machen das Picknick, ___ es nicht regnet. => vorausgesetzt | es sei denn | trotzdem // 只要不下雨，我们就去野餐。 // 前提是 → vorausgesetzt
+? ___, du hättest eine Million Euro. Was würdest du tun? => Angenommen | Falls | Sofern // 假设你有一百万欧元，你会怎么做？ // 假设 → angenommen
+~ Sollten / Sie / Fragen / haben, / stehe / ich / Ihnen / gern / zur Verfügung. // 如有疑问，我随时乐意为您解答。 // Sollten 在第一位，主句动词 stehe 紧跟逗号。
+= Wenn Sie Fragen haben, … → [Bei] Fragen … // 如有问题…… // wenn → bei + 名词
+= Wenn ein Feuer ausbricht, … → Im [Falle] eines Feuers … // 发生火灾时…… // im Falle + 第二格
+
+=== g094 | B2 | 非真实比较：als ob, als wenn | Irreale Vergleichssätze
+表示“**好像……一样**”（其实不是），从句用**第二虚拟式**。
+
+| 形式 | 语序 | 例句 |
+|---|---|---|
+| **als ob** + 从句 | 动词在最后 | Er tut so, **als ob** er nichts **wüsste**. |
+| **als wenn** + 从句 | 动词在最后 | Sie sieht aus, **als wenn** sie krank **wäre**. |
+| **als** + 动词 + … | 动词紧跟 als | Er tut so, **als wüsste** er nichts. |
+
+## 时态
+- 同时：**wäre / hätte / würde + 不定式 / könnte …**：Er redet, **als ob** er der Chef **wäre**.
+- 之前：**wäre / hätte + 分词**：Sie sieht aus, **als hätte** sie nicht **geschlafen**.
+» Es sieht so aus, **als ob** es gleich **regnen würde**. — 看起来马上要下雨了。
+» Er tut so, **als hätte** er mich nicht **gesehen**. — 他装作没看见我。
+» Mir ist, **als ob** ich ihn schon einmal **getroffen hätte**. — 我觉得好像见过他。
+
+## 常见引导
+so tun, als ob（装作） · aussehen, als ob（看起来像） · es scheint, als ob（似乎） · sich fühlen, als ob（感觉好像） · klingen, als ob（听起来像）
+> 口语里 als ob 后也常用直陈式（Es sieht aus, als ob es regnet），但考试和书面语用 Konjunktiv II。
+---
+? Er tut so, als ob er krank ___. => wäre | ist | sei gewesen // 他装病。 // als ob + Konjunktiv II
+? Sie spricht Deutsch, als ___ sie Muttersprachlerin wäre. => ob | wenn ob | dass // 她说德语就像母语者一样。 // als ob
+? Er sieht aus, als ___ er die ganze Nacht nicht geschlafen. => hätte | wäre | würde // 他看起来好像一整夜没睡。 // 省略 ob：als + 动词；schlafen → hätte geschlafen
+? Du tust so, als ___ du mich nicht. => kenntest | kennst | kanntest // 你装作不认识我。 // als + 动词：kennen → kenntest（或 würdest kennen）
+= Es klingt, als ob er sehr enttäuscht [wäre]. (sein) // 听起来他好像很失望。 // als ob … wäre
+= Er tut so, als [hätte] er nichts gehört. (haben) // 他装作什么都没听见。 // als + hätte + 分词
+= Mir ist, als ob ich das schon einmal gesehen [hätte]. (haben) // 我感觉好像以前见过这个。 // 之前 → hätte gesehen
+~ Er / benimmt sich, / als / wäre / er / der Chef. // 他表现得好像他是老板。 // als + 动词 + 主语
+~ Es / sieht so aus, / als ob / es / gleich / schneien / würde. // 看起来马上要下雪了。 // als ob 从句，würde 在最后
+
+=== g095 | B2 | 让步从句进阶 | Konzessivsätze: auch wenn, selbst wenn, wenn auch
+除了 obwohl，B2 还有一些“即使、哪怕、不管”的表达：
+
+| 形式 | 意思 | 例句 |
+|---|---|---|
+| auch wenn / selbst wenn | 即使（假设或现实） | **Auch wenn** es regnet, gehen wir wandern. |
+| selbst wenn + Konj. II | 即使（不太可能的假设） | **Selbst wenn** ich Zeit **hätte**, würde ich nicht kommen. |
+| wenn … auch | 虽然……（承认） | **Wenn** die Wohnung **auch** klein ist, sie ist gemütlich. |
+| so + 形容词 + auch | 无论多么…… | **So** schwer die Prüfung **auch** ist, ich schaffe sie. |
+| wie … auch (immer) | 无论怎样 | **Wie** ich es **auch** mache, es ist falsch. |
+| was / wer / wo … auch (immer) | 无论什么 / 谁 / 哪里 | **Was** du **auch** sagst, ich glaube dir nicht. |
+| ungeachtet + Gen. / trotz + Gen. | 不顾 / 尽管 | **Ungeachtet** der Warnungen fuhr er los. |
+| zwar …, aber | 虽然……但是 | Er ist **zwar** jung, **aber** erfahren. |
+| dennoch / trotzdem | 尽管如此 | Es war spät, **dennoch** arbeitete sie weiter. |
+
+## “无论……”的主句语序
+so … auch / was … auch 这类让步从句放前面时，**主句常保持正常语序**（不倒装）：
+» **So** sehr ich mich **auch** bemühe, ich verstehe es nicht. — 无论我多努力，还是不懂。
+» **Was** auch **passiert**, ich bin für dich da. — 不管发生什么，我都在你身边。
+> obwohl 是“事实上的让步”，selbst wenn 多是“假设的让步”：Obwohl es regnet（正在下雨）/ Selbst wenn es regnet（就算下雨）。
+---
+? ___ es morgen regnet, findet das Konzert statt. => Auch wenn | Obwohl | Weil // 即使明天下雨，音乐会也照常举行。 // 假设的让步 → auch wenn
+? ___ ich Millionär wäre, würde ich weiterarbeiten. => Selbst wenn | Obwohl | Weil // 就算我是百万富翁，也会继续工作。 // 不现实的假设 → selbst wenn + Konj. II
+? ___ teuer die Wohnung auch ist, wir nehmen sie. => So | Wie | Was // 不管这套公寓多贵，我们都要了。 // so + 形容词 + auch
+? ___ du auch sagst, ich ändere meine Meinung nicht. => Was | Wer | Wie viel // 不管你说什么，我都不会改变主意。 // was … auch
+? ___ der Warnungen fuhr er bei Sturm los. => Ungeachtet | Aufgrund | Anlässlich // 他不顾警告在暴风中出发了。 // 不顾 → ungeachtet + 第二格
+? Wenn das Hotel ___ alt ist, es ist sehr sauber. => auch | doch | zwar // 这家酒店虽然旧，但很干净。 // wenn … auch
+= [Obwohl] er wenig verdient, ist er zufrieden. // 他虽然挣得少，但很满足。 // 事实让步 → obwohl
+= Wo er auch [hinkommt], er findet schnell Freunde. (hinkommen) // 不管他去哪，很快就能交到朋友。 // wo … auch，从句动词在最后
+~ So / sehr / ich / mich / auch / beeile, / ich / komme / immer / zu spät. // 无论我多赶，总是迟到。 // 让步从句在前，主句正常语序。
+
+=== g096 | B2 | 关系从句进阶 | Relativsätze B2
+## wo(r) + 介词 作关系词
+指**整句、不定代词（alles, nichts, etwas）或 das**，需要介词时用 wo(r)-：
+» Er hat die Prüfung bestanden, **worüber** sich alle freuen. — 他通过了考试，大家都为此高兴。
+» Das ist alles, **wofür** ich mich interessiere. — 这就是我感兴趣的一切。
+» Es gibt nichts, **worauf** ich mich mehr freue. — 没有什么比这更让我期待的了。
+
+## 介词 + dessen / deren（所属 + 介词）
+» Die Firma, **in deren** Büro ich arbeite, … — 我在其办公室工作的公司……
+» Der Kollege, **mit dessen** Hilfe ich das geschafft habe, … — 在他帮助下我完成了这件事的那位同事……
+
+## wer … , der / wen … , den（泛指人，前后格可不同）
+| 前 | 后 | 例句 |
+|---|---|---|
+| wer | (der) | **Wer** viel liest, (**der**) weiß viel. |
+| wer | dem | **Wer** Hilfe braucht, **dem** helfen wir. |
+| wem | der | **Wem** das nicht gefällt, **der** kann gehen. |
+| wen | der | **Wen** man einlädt, **der** sollte kommen. |
+两个格一样（wer … der）时，der 可以省略。
+
+## was 作关系词
+alles / nichts / etwas / vieles / manches / das Einzige / 最高级名词 **+ was**；以及指整句。
+» Das **Beste, was** du tun kannst, ist abzuwarten. — 你最好的做法是等待。
+» Er kam zu spät, **was** mich ärgerte. — 他迟到了，这让我很生气。
+> 别把 was 和 das 混：das Buch, **das** … / alles, **was** … / das Gute, **was** …
+---
+= Er hat mir geholfen, [wofür] ich ihm sehr dankbar bin. // 他帮了我，我为此非常感激他。 // dankbar für → wofür（指整句）
+= Das ist das Einzige, [was] ich weiß. // 这是我唯一知道的。 // das Einzige → was
+= [Wer] zu spät kommt, den bestraft das Leben. // 迟到的人会受到生活的惩罚。 // wer … den
+= Die Kollegin, mit [deren] Unterstützung ich das Projekt abgeschlossen habe, … // 在她支持下我完成了项目的那位女同事…… // 阴性所属 → deren
+= Es gibt vieles, [worüber] wir sprechen müssen. // 有很多事我们必须谈。 // sprechen über → worüber
+? Wer etwas nicht versteht, ___ soll fragen. => der | dem | den // 谁有不明白的就问。 // wer … der（前后都是第一格）
+? Wem das Essen nicht schmeckt, ___ kann etwas anderes bestellen. => der | dem | wer // 谁觉得饭不好吃，可以点别的。 // 后半句主语 → der
+? Sie hat den Job bekommen, ___ sie lange gehofft hatte. => worauf | auf das | was // 她得到了这份工作，这是她期盼已久的。 // hoffen auf，指整件事 → worauf
+? Das Unternehmen, in ___ Auftrag wir arbeiten, sitzt in München. => dessen | deren | dem // 我们为之工作的那家企业总部在慕尼黑。 // das Unternehmen（中性）→ dessen
+? Das ist das Schönste, ___ ich je gesehen habe. => was | das | wo // 这是我见过最美的东西。 // 最高级名词化 → was
+
+=== g097 | B2 | 相关词：darauf, dass … | Korrelate
+带介词的动词、形容词后面跟**从句**或 **zu 不定式**时，主句里要放一个 **da(r) + 介词**（相关词），指向后面的内容。
+
+| 动词 / 形容词 | 相关词 | 例句 |
+|---|---|---|
+| sich freuen auf | darauf | Ich freue mich **darauf**, **dass** du kommst. |
+| warten auf | darauf | Wir warten **darauf**, **dass** der Regen aufhört. |
+| sich erinnern an | daran | Ich erinnere mich **daran**, ihn getroffen **zu** haben. |
+| denken an | daran | Denk **daran**, die Tür ab**zu**schließen! |
+| abhängen von | davon | Es hängt **davon** ab, **ob** wir Zeit haben. |
+| überzeugt sein von | davon | Ich bin **davon** überzeugt, **dass** es klappt. |
+| sich kümmern um | darum | Kümmere dich **darum**, **dass** alles fertig ist. |
+| es geht um | darum | Es geht **darum**, eine Lösung **zu** finden. |
+| bitten um | darum | Ich bitte Sie **darum**, mir **zu** antworten. |
+| stolz sein auf | darauf | Er ist stolz **darauf**, **dass** er es allein geschafft hat. |
+| sich beschweren über | darüber | Sie beschwert sich **darüber**, **dass** es laut ist. |
+| Angst haben vor | davor | Ich habe Angst **davor**, Fehler **zu** machen. |
+| verantwortlich sein für | dafür | Sie ist **dafür** verantwortlich, **dass** … |
+| sich gewöhnen an | daran | Ich habe mich **daran** gewöhnt, früh auf**zu**stehen. |
+
+## 什么时候可以省略
+有些动词的相关词可省（sich freuen, sich erinnern, Angst haben）：Ich freue mich, dass du kommst. 但很多不能省（abhängen von, es geht um, bestehen auf）。**写作时加上最保险。**
+> 名词风格：Ich freue mich **auf deinen Besuch**. ↔ 从句：Ich freue mich **darauf**, **dass** du mich besuchst.
+---
+= Ich freue mich [darauf], dass wir uns bald sehen. // 我期待我们很快见面。 // sich freuen auf → darauf
+= Es hängt [davon] ab, wie viel es kostet. // 这取决于价格多少。 // abhängen von → davon
+= Denk bitte [daran], die Miete zu überweisen. // 请记得转账交房租。 // denken an → daran
+= In dem Gespräch geht es [darum], einen Kompromiss zu finden. // 这次谈话是为了找到折中方案。 // es geht um → darum
+= Ich habe Angst [davor], die Prüfung nicht zu bestehen. // 我怕考试不过。 // Angst vor → davor
+= Er ist stolz [darauf], dass er Deutsch gelernt hat. // 他为自己学会德语而自豪。 // stolz auf → darauf
+? Wir warten ___, dass die Behörde antwortet. => darauf | dafür | daran // 我们在等政府部门回复。 // warten auf → darauf
+? Sie beschwert sich ___, dass die Heizung nicht funktioniert. => darüber | darauf | davon // 她投诉暖气坏了。 // sich beschweren über → darüber
+? Ich bin ___ überzeugt, dass wir das schaffen. => davon | darauf | dafür // 我坚信我们能做到。 // überzeugt von → davon
+? Wer ist ___ zuständig, dass die Räume sauber sind? => dafür | darum | davon // 谁负责保持房间干净？ // zuständig für → dafür
+~ Ich / habe / mich / daran / gewöhnt, / jeden Tag / Deutsch / zu sprechen. // 我已经习惯每天说德语了。 // daran 指向后面的 zu 不定式。
+
+=== g098 | B2 | 动词前缀 | Verbpräfixe: trennbar, untrennbar, beides
+前缀改变动词意思，是扩大词汇量最快的办法之一。
+
+## 不可分前缀的常见意思
+| 前缀 | 常见含义 | 例子 |
+|---|---|---|
+| be- | 使及物、作用于某物 | antworten auf → **be**antworten（+ 第四格），wohnen in → **be**wohnen |
+| ver- | 错误；消耗、消失；变化 | **ver**schlafen（睡过头），**ver**brauchen（耗费），**ver**bessern（改善） |
+| er- | 达成结果；开始 | **er**reichen（达到），**er**finden（发明），**er**kranken（患病） |
+| ent- | 去除、离开；起源 | **ent**fernen（去除），**ent**kommen（逃脱），**ent**stehen（产生） |
+| zer- | 碎、毁 | **zer**brechen（打碎），**zer**stören（摧毁） |
+| miss- | 错误、不好 | **miss**verstehen（误解），**miss**lingen（失败） |
+| emp- | （少数几个词） | **emp**fehlen, **emp**fangen, **emp**finden |
+
+## 双重前缀：可分或不可分，意思不同
+durch-, über-, um-, unter-, wieder-, wider-, voll-, hinter-
+| 可分（重音在前缀，具体意义） | 不可分（重音在词干，引申意义） |
+|---|---|
+| **über**setzen：摆渡过河（Er setzt uns **über**.） | über**setz**en：翻译（Ich über**setze** den Text.） |
+| **um**fahren：撞倒（Er fährt das Schild **um**.） | um**fahr**en：绕行（Wir um**fahren** die Stadt.） |
+| **wieder**holen：取回 | wieder**hol**en：重复 |
+| **unter**gehen：沉没、（太阳）落下 | unter**richt**en：教课 |
+| **durch**lesen：从头读到尾 | durch**such**en：搜查 |
+不可分时**没有 ge-**：ich habe den Text über**setzt**；可分时有：Der Fährmann hat uns über**ge**setzt。
+
+## 可分前缀的常见意思
+ab-（离开、减少），an-（开始、靠近），auf-（向上、打开），aus-（向外、结束），ein-（向内），mit-（一起），nach-（跟随、事后），vor-（向前、事先），zu-（关闭、朝向），zurück-（返回），weg-（离开），los-（出发）
+> 一个动词配不同前缀：kommen → ankommen（到达），bekommen（得到），verkommen（堕落），entkommen（逃脱），mitkommen（一起来），vorkommen（发生、出现），auskommen（够用、相处）。
+---
+? Ich habe den Brief ins Englische ___. (übersetzen = 翻译) => übersetzt | übergesetzt | geübersetzt // 我把信翻译成了英文。 // 不可分 übersetzen → übersetzt
+? Kannst du das bitte ___? Ich habe es nicht verstanden. => wiederholen | holen wieder | wiederzuholen // 你能重复一下吗？我没听懂。 // 不可分 wiederholen
+? Heute Morgen habe ich ___ und kam zu spät. => verschlafen | geschlafen ver | ausgeschlafen // 今天早上我睡过头了，迟到了。 // ver- = 错误 → verschlafen
+? Bitte ___ Sie die Fragen im Formular. => beantworten | antworten | erantworten // 请回答表格里的问题。 // be- 使及物：beantworten + 第四格
+? Das Glas ist auf den Boden gefallen und ___. => zerbrochen | verbrochen | entbrochen // 杯子掉在地上摔碎了。 // zer- = 碎
+? Er hat mich falsch verstanden. Er hat mich ___. => missverstanden | verstanden miss | entstanden // 他误解我了。 // miss- = 错误
+? Wegen der Baustelle müssen wir die Innenstadt ___. => umfahren | fahren um | umzufahren // 因为施工我们必须绕过市中心。 // 不可分 umfahren = 绕行
+? Wie ist das Problem ___? => entstanden | erstanden | verstanden // 这个问题是怎么产生的？ // ent- = 起源 → entstehen
+= Die Sonne geht im Westen [unter]. (untergehen) // 太阳从西边落下。 // 可分 untergehen
+= Der Zoll hat das Gepäck [durchsucht]. (durchsuchen) // 海关搜查了行李。 // 不可分，没有 ge-
+= Ich bin mit meinem Gehalt gut [ausgekommen]. (auskommen) // 我的工资够用。 // auskommen = 够用
+
+=== g099 | B2 | 不定式的完成时和被动 | Infinitiv Perfekt und Passiv
+不定式也有时态和语态，常和 zu、情态动词（主观用法）、scheinen 等一起出现。
+
+| | 主动 | 被动 |
+|---|---|---|
+| 现在 | machen / zu machen | gemacht werden / gemacht zu werden |
+| 完成 | gemacht haben / gemacht zu haben | gemacht worden sein / gemacht worden zu sein |
+| sein 类动词 | gekommen sein / gekommen zu sein | — |
+
+## 用法
+- **zu + 完成时不定式**：表示先于主句发生：
+» Ich bin froh, die Prüfung **bestanden zu haben**. — 我很高兴通过了考试。
+» Er behauptet, nichts davon **gewusst zu haben**. — 他声称对此一无所知。
+» Sie bedauert, nicht früher **gekommen zu sein**. — 她遗憾没早点来。
+- **被动 zu 不定式**：
+» Ich hoffe, zum Vorstellungsgespräch **eingeladen zu werden**. — 我希望被邀请去面试。
+» Er hasst es, **unterbrochen zu werden**. — 他讨厌被打断。
+- **情态动词主观用法 / scheinen + 完成时不定式**（见第 84 课）：
+» Er **scheint** die E-Mail nicht **gelesen zu haben**. — 他似乎没读邮件。
+» Das Paket **muss** verloren **gegangen sein**. — 包裹一定是丢了。
+
+## scheinen + zu 不定式
+scheinen（似乎）相当于主观的 dürfte / wohl：Sie **scheint** krank **zu sein**. = Sie ist wohl krank.
+> 简历和求职信常用：Ich freue mich, **Ihr Interesse geweckt zu haben**. / Ich bin dankbar, **an diesem Projekt mitgearbeitet zu haben**.
+---
+= Ich bin froh, dich [kennengelernt] zu haben. (kennenlernen) // 我很高兴认识了你。 // 完成时不定式：kennengelernt zu haben
+= Er behauptet, das Geld nicht [genommen] zu haben. (nehmen) // 他声称没拿那笔钱。 // genommen zu haben
+= Sie freut sich, zum Gespräch [eingeladen] zu werden. (einladen) // 她很高兴被邀请去面谈。 // 被动不定式：eingeladen zu werden
+= Ich bedauere, nicht früher [gekommen] zu sein. (kommen) // 我很遗憾没早点来。 // sein 类：gekommen zu sein
+= Er scheint den Termin [vergessen] zu haben. (vergessen) // 他似乎忘了预约。 // scheinen + 完成时不定式
+? Niemand will gern kritisiert ___. => werden | zu werden | worden // 没有人愿意被批评。 // 情态动词 + 被动不定式（不加 zu）
+? Ich hoffe, bald eine Antwort ___. => zu bekommen | bekommen zu haben | zu bekommen haben // 我希望很快收到回复。 // 将来 / 同时 → 现在时不定式
+? Sie ist stolz, die Prüfung beim ersten Versuch ___. => bestanden zu haben | zu bestehen haben | bestanden worden zu sein // 她为第一次就考过而自豪。 // 先发生 → 完成时不定式
+? Der Brief scheint nie ___ zu sein. => angekommen | ankommen | angekommen worden // 这封信似乎从没寄到。 // ankommen 用 sein → angekommen zu sein
+~ Ich / freue mich, / Ihr Interesse / geweckt / zu haben. // 我很高兴引起了您的兴趣。 // 完成时不定式在最后。
+
+=== g100 | B2 | 情态意义的 haben / sein / brauchen + zu | haben zu, sein zu, brauchen zu, scheinen zu
+这些结构表达和情态动词相近的意思，正式文本里很常见。
+
+| 结构 | 相当于 | 例句 |
+|---|---|---|
+| **haben + zu** | müssen（主动） | Sie **haben** die Gebühr bis Montag **zu bezahlen**. |
+| **sein + zu** | müssen / können（被动） | Die Gebühr **ist** bis Montag **zu bezahlen**. |
+| **nicht / kein / nur brauchen + zu** | nicht müssen / nur müssen | Sie **brauchen** nicht **zu** kommen. Du **brauchst** nur an**zu**rufen. |
+| **scheinen + zu** | 似乎（主观推测） | Er **scheint** müde **zu sein**. |
+| **pflegen + zu** | 习惯于（书面） | Er **pflegt** morgens **zu** joggen. |
+| **vermögen + zu** | können（书面） | Niemand **vermag** das **zu** erklären. |
+| **wissen + zu** | 懂得、会 | Sie **weiß** sich **zu** helfen. |
+| **drohen + zu** | 有……的危险 | Das Haus **droht** ein**zu**stürzen. |
+| **versprechen + zu** | 有望 | Das Wetter **verspricht** schön **zu** werden. |
+
+## brauchen 只用于否定或限制
+✓ Du **brauchst nicht zu** warten. = Du musst nicht warten.
+✓ Du **brauchst nur zu** klingeln. = Du musst nur klingeln.
+✗ Du brauchst zu warten.（肯定要用 müssen）
+口语里 zu 常被省略（Du brauchst nicht kommen），考试里加上 zu。
+
+## haben zu vs. sein zu
+人做主语 → haben zu（主动）；事做主语 → sein zu（被动）：
+» **Wir haben** noch viel **zu tun**. — 我们还有很多事要做。
+» **Das ist** noch **zu tun**. — 这件事还得做。
+---
+? Sie ___ den Antrag bis Ende Mai zu stellen. => haben | sind | brauchen // 您必须在五月底前提交申请。 // 人做主语，必须 → haben zu
+? Der Antrag ___ bis Ende Mai zu stellen. => ist | hat | braucht // 申请须在五月底前提交。 // 事做主语 → sein zu
+? Du ___ nicht zu kommen, wenn du keine Zeit hast. => brauchst | hast | bist // 你没时间就不用来了。 // 不必 → nicht brauchen zu
+? Sie ___ zu schlafen. Wir sollten leise sein. => scheint | hat | braucht // 她似乎在睡觉，我们该小声点。 // 似乎 → scheinen zu
+? Die alte Brücke ___ einzustürzen. => droht | verspricht | pflegt // 那座旧桥有倒塌的危险。 // drohen zu
+= Wir haben heute noch viel [zu erledigen]. (erledigen) // 我们今天还有很多事要办。 // haben + zu
+= Sie müssen nur das Formular ausfüllen. → Sie brauchen nur das Formular [auszufüllen]. // 您只需要填表。 // nur brauchen + zu，可分动词 zu 夹中间
+= Er ist offenbar krank. → Er scheint krank [zu sein]. // 他似乎病了。 // scheinen + zu
+= Das Problem kann nicht gelöst werden. → Das Problem ist nicht [zu lösen]. // 这个问题无法解决。 // sein + zu
+? 哪句是错的？ => Du brauchst morgen zu arbeiten. | Du brauchst morgen nicht zu arbeiten. | Du brauchst nur kurz anzurufen. // // brauchen + zu 只能用于否定或 nur
+
+=== g101 | B2 | 名词的构词：抽象名词后缀 | Wortbildung: Nomen
+| 后缀 | 性 | 来源 | 例子 |
+|---|---|---|---|
+| -ung | die | 动词 | die Entwicklung, die Erfahrung, die Meinung |
+| -heit / -keit | die | 形容词 | die Gesundheit, die Gelegenheit, die Möglichkeit, die Sauberkeit |
+| -schaft | die | 名词 / 形容词（集体、关系） | die Mannschaft, die Freundschaft, die Wissenschaft, die Gesellschaft |
+| -tät / -ität | die | 外来形容词 | die Qualität, die Mobilität, die Kreativität |
+| -ion / -tion | die | 外来动词 -ieren | die Diskussion, die Organisation, die Kommunikation |
+| -ie / -ei | die | | die Strategie, die Bäckerei, die Partei |
+| -nis | die / das | 动词 / 形容词 | das Ergebnis, das Verständnis, die Erlaubnis, das Ereignis |
+| -tum | das（少数 der） | | das Wachstum, das Eigentum, der Irrtum, der Reichtum |
+| -ling | der | | der Lehrling, der Flüchtling, der Liebling |
+| -ismus | der | | der Tourismus, der Kapitalismus |
+| -er / -erin | der / die | 动词（人、工具） | der Entwickler, der Drucker, die Leiterin |
+| -ant / -ent / -ist | der | 人 | der Praktikant, der Student, der Spezialist |
+| -ment | das | | das Management, das Dokument, das Argument |
+| Ge-…-e | das | 动词（重复、集合） | das Gerede, das Gebirge, das Gespräch |
+
+## 否定 / 反义前缀
+**Un-**（die Unsicherheit, der Unfall），**Miss-**（das Missverständnis, der Misserfolg），**Nicht-**（der Nichtraucher）
+
+## 用后缀猜意思
+» Die **Erreichbarkeit** per E-Mail ist wichtig. — erreichbar（可联系到的）+ -keit → 可联系性
+» Die **Arbeitslosigkeit** ist gesunken. — arbeitslos + -igkeit → 失业率
+» Die **Nachhaltigkeit** spielt eine große Rolle. — nachhaltig + -keit → 可持续性
+> 形容词以 -bar, -ig, -lich, -sam 结尾的，名词常用 **-keit**：Dankbarkeit, Flüssigkeit, Freundlichkeit, Einsamkeit。
+---
+? ___ Ergebnis der Studie ist überraschend. => Das | Die | Der // 研究结果出人意料。 // -nis 多为中性：das Ergebnis
+? ___ Freundschaft ist mir sehr wichtig. => Die | Das | Der // 友谊对我很重要。 // -schaft → die
+? ___ Wachstum der Wirtschaft ist langsam. => Das | Die | Der // 经济增长缓慢。 // -tum → das
+? möglich → die ___ => Möglichkeit | Möglichheit | Möglichung // 可能性 // -lich → -keit
+? krank → die ___ => Krankheit | Krankkeit | Kranktum // 疾病 // krank → -heit
+? Wie heißt jemand, der ein Praktikum macht? => der Praktikant | der Praktiker | der Praktikist // 实习生 // -ant
+? kommunizieren → die ___ => Kommunikation | Kommunizierung | Kommunizität // 沟通 // -ieren → -ation
+? Wir haben uns falsch verstanden. Das war ein ___. => Missverständnis | Unverständnis | Verstehung // 我们互相误解了，那是个误会。 // Miss- + verständnis
+= nachhaltig → die [Nachhaltigkeit] // 可持续性 // -ig → -keit
+= qualitativ → die [Qualität] // 质量 // -tät
+= erfahren → die [Erfahrung] // 经验 // -ung
+= frei → die [Freiheit] // 自由 // -heit
+
+=== g102 | B2 | 带第二格的动词和形容词 | Verben und Adjektive mit Genitiv
+少数动词和形容词带**第二格宾语**，多用于书面语、法律和固定表达。
+
+## 动词
+| 动词 | 意思 | 例句 |
+|---|---|---|
+| bedürfen | 需要 | Das **bedarf** einer Erklärung. — 这需要解释。 |
+| sich bedienen | 使用 | Er **bediente sich** eines Tricks. |
+| gedenken | 纪念 | Wir **gedenken** der Opfer. |
+| sich erinnern（书面） | 记起 | Ich **erinnere mich** des Tages.（口语：an den Tag） |
+| sich schämen（书面） | 为……羞愧 | Er **schämt sich** seiner Tat. |
+| anklagen / beschuldigen | 控告（人 Akk. + 事 Gen.） | Man **beschuldigt** ihn **des Diebstahls**. |
+| verdächtigen | 怀疑 | Sie wird **des Betrugs** verdächtigt. |
+| sich vergewissern | 确认 | Ich **vergewissere mich** seiner Zustimmung. |
+
+## 形容词
+| 形容词 | 意思 | 例句 |
+|---|---|---|
+| sich bewusst sein | 意识到 | Ich **bin mir** des Risikos **bewusst**. |
+| sicher sein | 确信 | Sie **ist sich** ihres Erfolgs **sicher**. |
+| würdig | 值得 | Er ist des Preises **würdig**. |
+| schuldig | 有罪 | Er wurde **des Mordes schuldig** gesprochen. |
+| fähig | 有能力 | Er ist einer solchen Tat nicht **fähig**. |
+| müde / satt（固定表达） | 厌倦 | Ich bin es **leid** / **müde**, immer zu warten. |
+
+## 固定表达
+eines Tages（有一天）, meines Erachtens（依我看）, meines Wissens（据我所知）, letzten Endes（最终）, guter Laune sein（心情好）, der Meinung sein（认为）
+» **Meines Erachtens** ist das die beste Lösung. — 依我看这是最好的方案。
+» Ich bin **der Meinung**, dass … — 我认为……
+> 写作和讨论里的 Ich bin **der Meinung / der Ansicht / der Auffassung**, dass … 都是第二格的固定表达。
+---
+? Ich bin mir ___ Risikos bewusst. => des | dem | den // 我意识到了风险。 // sich bewusst sein + 第二格
+? Das bedarf ___ genauen Prüfung. => einer | eine | einem // 这需要仔细审查。 // bedürfen + 第二格
+? Er wurde ___ Diebstahls beschuldigt. => des | dem | den // 他被指控盗窃。 // beschuldigen + 第二格（事）
+? ___ ist das keine gute Idee. => Meines Erachtens | Mein Erachten | Meinem Erachten // 依我看这不是个好主意。 // 固定表达：meines Erachtens
+? Ich bin ___ Meinung, dass wir mehr investieren sollten. => der | die | dem // 我认为我们应该多投资。 // der Meinung sein（第二格）
+? ___ Tages wirst du das verstehen. => Eines | Einen | Ein // 总有一天你会明白的。 // eines Tages
+= Wir [gedenken] heute der Opfer des Krieges. (gedenken) // 今天我们纪念战争的遇难者。 // gedenken + 第二格
+= Sie ist sich ihrer Sache sehr [sicher]. // 她对自己的事很有把握。 // sicher sein + 第二格
+= [Meines] Wissens ist das Büro heute geschlossen. // 据我所知办公室今天关门。 // meines Wissens
+= Ich bin [der] Ansicht, dass die Idee gut ist. // 我认为这个想法很好。 // der Ansicht sein
+
+=== g103 | B2 | 分词短语 | Partizipialkonstruktionen
+书面语里，分词（加上补充成分）可以**单独构成一个短语**，代替状语从句。主语必须和主句相同。
+
+| 从句 | 分词短语 |
+|---|---|
+| **Als** er im Büro **angekommen war**, rief er den Kunden an. | **Im Büro angekommen**, rief er den Kunden an. |
+| **Weil** sie von der Reise **erschöpft war**, ging sie früh schlafen. | **Von der Reise erschöpft**, ging sie früh schlafen. |
+| **Während** er laut **sang**, fuhr er nach Hause. | **Laut singend** fuhr er nach Hause. |
+| **Wenn** man es genau **betrachtet**, … | **Genau betrachtet**, … |
+
+## Partizip I（同时、主动）/ Partizip II（之前完成或被动）
+» **Auf den Bus wartend**, las sie ein Buch. — 她一边等公交一边看书。
+» **In Deutschland angekommen**, suchte er zuerst eine Wohnung. — 到德国后，他先找了房子。
+» **Vom Erfolg überzeugt**, investierte sie ihr ganzes Geld. — 她坚信会成功，投入了全部的钱。
+
+## 常见固定分词短语
+genau genommen（严格说来），offen gesagt（坦白说），kurz gesagt（简而言之），abgesehen von（除了……之外），verglichen mit（和……相比），ausgehend von（从……出发），vorausgesetzt, dass（前提是），angenommen, dass（假设），zusammengefasst（总之）
+» **Offen gesagt** finde ich die Idee nicht gut. — 坦白说我觉得这个主意不好。
+» **Verglichen mit** letztem Jahr sind die Preise gestiegen. — 和去年比，价格上涨了。
+> 分词短语的逗号可加可不加；分词短语不加形容词词尾。
+---
+? ___, rief sie sofort ihre Eltern an. (Als sie zu Hause angekommen war) => Zu Hause angekommen | Zu Hause ankommend | Zu Hause angekommene // 一到家，她就给父母打了电话。 // 之前完成 → Partizip II，不加词尾
+? ___ ging er durch die Stadt. (Er pfiff ein Lied.) => Ein Lied pfeifend | Ein Lied gepfiffen | Ein Lied pfeifende // 他吹着歌走过城市。 // 同时进行 → Partizip I
+? ___ finde ich das Angebot zu teuer. => Offen gesagt | Offen sagend | Offen zu sagen // 坦白说，我觉得报价太贵。 // 固定表达
+? ___ mit dem Vorjahr ist der Umsatz gestiegen. => Verglichen | Vergleichend | Zu vergleichen // 和前一年相比，营业额上涨了。 // verglichen mit
+? ___ von den Kosten ist das Projekt eine gute Idee. => Abgesehen | Absehend | Abzusehen // 撇开费用不谈，这个项目是个好主意。 // abgesehen von
+= Weil er von der Arbeit müde war, schlief er sofort ein. → Von der Arbeit [müde], schlief er sofort ein. // 下班累了，他马上就睡着了。 // 形容词短语也可以
+= Als er in Berlin angekommen war, … → In Berlin [angekommen], … // 到了柏林后…… // Partizip II
+= [Kurz] gesagt: Wir brauchen mehr Zeit. // 简而言之：我们需要更多时间。 // kurz gesagt
+
+=== g104 | B2 | 文中的指代 | Textverweise: dies, derselbe, ersterer, solch-
+连贯的书面文本靠指代词把句子连起来。B2 阅读题经常问“dies 指的是什么”。
+
+| 词 | 用法 | 例句 |
+|---|---|---|
+| dies / das | 指前面整句或整件事 | Die Preise steigen. **Dies** führt zu Protesten. |
+| der / die / das（重读，指示代词） | 指前面刚提到的名词，比 er/sie 更强调 | Kennst du Herrn Lu? – Ja, **den** kenne ich gut. |
+| derselbe / dieselbe / dasselbe | 同一个 | Wir wohnen im **selben** Haus. Er trägt **dasselbe** Hemd wie gestern. |
+| der gleiche | 同样的（另一个一样的） | Ich habe **das gleiche** Handy wie du. |
+| ersterer / letzterer | 前者 / 后者 | Peter und Max waren da. **Ersterer** kam spät, **letzterer** ging früh. |
+| solch- / so ein | 这样的 | **Solche** Probleme kennen wir. / **So ein** Zufall! |
+| derjenige, der … | ……的那个人（强调后接关系从句） | **Diejenigen, die** zu spät kommen, … |
+| deren / dessen（指示所属） | 后者的、前者的（避免歧义） | Anna traf Lisa und **deren** Mann.（Lisa 的丈夫） |
+| hierbei / dabei / darin / hierzu | 在此、此时 | **Hierbei** handelt es sich um … |
+| ebenfalls / gleichfalls | 同样 | Danke, **gleichfalls**! |
+
+## deren 消除歧义
+» Anna traf Lisa und **ihren** Mann. — 不清楚是谁的丈夫。
+» Anna traf Lisa und **deren** Mann. — 明确是 Lisa（最后提到的人）的丈夫。
+
+## derselbe 的变化
+der- 按定冠词变，-selbe 按定冠词后的形容词变：**desselben**, **demselben**, **denselben**；介词缩合：im selben, zur selben Zeit。
+> 写作时用 dies / diese Entwicklung / dieser Trend 指前一句，比重复整句更像 B2。
+---
+? Die Mieten in München steigen stark. ___ ist für viele Familien ein Problem. => Dies | Dieser | Diese // 慕尼黑房租大涨，这对很多家庭是个问题。 // 指整件事 → dies
+? Wir arbeiten in ___ Abteilung. => derselben | dieselben | der selbe // 我们在同一个部门工作。 // in + 第三格阴性 → derselben
+? Herr Bauer und seine Frau sind Ärzte. ___ arbeitet im Krankenhaus, letztere in einer Praxis. => Ersterer | Erstere | Letzterer // 鲍尔先生和他太太都是医生，前者在医院，后者在诊所。 // 前者（阳性）→ ersterer
+? Ich habe ___ Probleme auch schon gehabt. => solche | solch | solchen // 这样的问题我也遇到过。 // 复数第四格 → solche
+? Tim traf seinen Bruder und ___ Freundin. (= die Freundin des Bruders) => dessen | seine | deren // 蒂姆遇到了他哥哥和哥哥的女朋友。 // 指最后提到的阳性名词 → dessen
+= Kennst du den neuen Kollegen? – Ja, [den] kenne ich schon. // 你认识新同事吗？——认识。 // 指示代词，第四格 den
+= Er trägt [dasselbe] T-Shirt wie gestern. // 他穿着和昨天同一件 T 恤。 // 同一个 → dasselbe
+= [Diejenigen], die Fragen haben, können bleiben. // 有问题的人可以留下。 // diejenigen, die …
+= Schöne Feiertage! – Danke, [gleichfalls]! // 节日快乐！——谢谢，你也是！ // gleichfalls
+
+=== g105 | B2 | 时态的选择与一致 | Tempusgebrauch
+## 口语 vs. 书面
+| 情境 | 讲过去用 |
+|---|---|
+| 日常对话、邮件、聊天 | **完成时**（sein, haben, 情态动词用过去式） |
+| 新闻、报告、故事、简历叙述、维基百科 | **过去式** |
+| 南德、奥地利、瑞士口语 | 几乎只用完成时（连 war 都说 ist gewesen） |
+
+## 时间顺序
+- 先发生的事：**过去完成时**（hatte gemacht）——和过去式搭配
+- nachdem 的时态规则：从句比主句“早一级”（第 51 课）
+- seit + **现在时**：Ich wohne seit drei Jahren hier.（还在住）
+- 将来：现在时 + 时间词，或 werden + 不定式（承诺、推测）
+
+## 现在时的特殊用法
+- 历史现在时（让叙述更生动）：1989 **fällt** die Mauer.
+- 一般真理：Wasser **kocht** bei 100 Grad.
+
+## 时态的一致（转述、从句）
+主句是过去时间时，从句一般**按事件实际时间**选时态：
+» Er sagte, dass er morgen **kommt / kommen wird**.（事件在将来）
+» Er sagte, dass er gestern krank **war / gewesen ist**.
+（正式转述用第一虚拟式：…, er **sei** krank **gewesen**，第 86 课）
+
+## 简历的时态
+- Lebenslauf 表格：名词风格，不用完整句：2023–2025: **Werkstudent** bei … – **Entwicklung** von …
+- Anschreiben：现在时（我的现状）+ 完成时（我做过的事）：Ich **habe** an der Universität Konstanz Informatik **studiert** und **bringe** Erfahrung in … **mit**.
+---
+? 新闻报道里通常怎么写过去的事？ => Präteritum | Perfekt | Plusquamperfekt // // 书面叙述 → 过去式
+? Ich wohne ___ in Deutschland. (还在住，已三年) => seit drei Jahren | vor drei Jahren | drei Jahre lang gewohnt // 我在德国住了三年了。 // seit + 现在时
+? Als ich ankam, ___ die anderen schon gegessen. => hatten | haben | hätten // 我到的时候其他人已经吃过了。 // 先于过去 → 过去完成时
+? 口语里朋友问你周末做了什么，你说： => Ich habe meine Eltern besucht. | Ich besuchte meine Eltern. | Ich hatte meine Eltern besucht. // // 口语讲过去 → 完成时
+? 哪句是一般真理（用现在时）？ => Die Erde dreht sich um die Sonne. | Die Erde drehte sich um die Sonne. | Die Erde hat sich um die Sonne gedreht. // // 一般真理 → 现在时
+= Im Jahr 1990 [wurde] Deutschland wiedervereinigt. (werden, 书面) // 1990 年德国重新统一。 // 书面叙述 → 过去式被动 wurde
+= Nachdem sie die Stelle angenommen [hatte], zog sie nach Hamburg. // 接受那份工作后，她搬到了汉堡。 // nachdem + 过去完成时
+= Er sagt, dass er nächste Woche [kommt]. (kommen) // 他说他下周来。 // 将来的事用现在时即可
+? 求职信里讲自己的学历，哪句最合适？ => Ich habe Informatik an der Universität Konstanz studiert. | Ich studierte Informatik an der Universität Konstanz gehabt. | Ich hatte Informatik an der Universität Konstanz studiert. // // 求职信：完成时讲经历

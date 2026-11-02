@@ -1,0 +1,430 @@
+=== g050 | B1 | 过去式（Präteritum） | Präteritum
+**口语**讲过去多用完成时；**书面语**（报道、故事、简历、新闻）多用**过去式**。sein, haben, 情态动词以及 es gab, ich wusste, ich fand … 在口语里也常用过去式。
+
+## 规则动词：词干 + -te
+| | machen | arbeiten |
+|---|---|---|
+| ich | mach==te== | arbeit==ete== |
+| du | mach==test== | arbeit==etest== |
+| er/sie/es | mach==te== | arbeit==ete== |
+| wir | mach==ten== | arbeit==eten== |
+| ihr | mach==tet== | arbeit==etet== |
+| sie/Sie | mach==ten== | arbeit==eten== |
+
+## 不规则动词：变元音，ich / er 没有词尾
+| 不定式 | 过去式（ich / er） | 不定式 | 过去式 |
+|---|---|---|---|
+| gehen | ging | kommen | kam |
+| sehen | sah | geben | gab |
+| fahren | fuhr | nehmen | nahm |
+| finden | fand | schreiben | schrieb |
+| sprechen | sprach | stehen | stand |
+| bleiben | blieb | treffen | traf |
+| lesen | las | sitzen | saß |
+| beginnen | begann | gewinnen | gewann |
+| fliegen | flog | ziehen | zog |
+| rufen | rief | laufen | lief |
+| essen | aß | trinken | trank |
+| werden | wurde | tun | tat |
+其他人称在这个形式上加 -st, -en, -t, -en：du ging**st**, wir ging**en**, ihr ging**t**。
+
+## 混合动词：变元音 + -te
+bringen → brach**te**，denken → dach**te**，kennen → kann**te**，nennen → nann**te**，rennen → rann**te**，wissen → wuss**te**
+
+## 可分动词
+前缀照样放句尾：Der Film **fing** um acht Uhr **an**. Sie **rief** mich gestern **an**.
+> 不规则动词三种形式要一起背：gehen – ging – gegangen。App 的单词卡里 forms 一栏就是这三种形式。
+---
+= Gestern [arbeitete] ich bis spät. (arbeiten) // 昨天我工作到很晚。 // 规则：arbeit-ete
+= Im Jahr 2020 [zog] sie nach Berlin. (ziehen) // 2020 年她搬到了柏林。 // ziehen → zog
+= Er [kam] zu spät zur Besprechung. (kommen) // 他开会迟到了。 // kommen → kam
+= Wir [fuhren] mit dem Zug nach Wien. (fahren) // 我们坐火车去了维也纳。 // fahren → fuhr → wir fuhren
+= Das [wusste] ich nicht. (wissen) // 这个我不知道。 // 混合变化：wusste
+= Sie [schrieb] ihm eine lange E-Mail. (schreiben) // 她给他写了封长邮件。 // schreiben → schrieb
+= Plötzlich [stand] er vor der Tür. (stehen) // 他突然站在门口。 // stehen → stand
+= Die Party [fing] um neun Uhr [an]. (anfangen) // 派对九点开始。 // fangen → fing；前缀 an 在句尾
+= Ich [dachte], du kommst nicht. (denken) // 我以为你不来了。 // denken → dachte
+= Nach dem Studium [fand] er schnell eine Stelle. (finden) // 毕业后他很快找到了工作。 // finden → fand
+? Als Kind ___ ich jeden Sommer bei meinen Großeltern. => war | bin | wäre // 小时候我每个夏天都在祖父母家。 // sein → war
+? Wir ___ uns im Café. (treffen) => trafen | treffen | trefften // 我们在咖啡馆见了面。 // treffen → traf → wir trafen
+? Wer ___ das Spiel? (gewinnen) => gewann | gewinnte | gewonn // 谁赢了比赛？ // gewinnen → gewann
+? Er ___ seine Freundin zum Bahnhof. (bringen) => brachte | bringte | brang // 他送女朋友去火车站。 // 混合：brachte
+
+=== g051 | B1 | 过去完成时和 nachdem | Plusquamperfekt
+过去完成时表示**在过去某件事之前**已经发生的事（“过去的过去”）。
+构成：**hatte / war + 过去分词**
+
+» Als ich am Bahnhof ankam, **war** der Zug schon **abgefahren**. — 我到火车站时，火车已经开走了。
+» Ich **hatte** die Prüfung **bestanden** und fuhr dann in Urlaub. — 我考完试通过了，然后去度假。
+
+| | 完成时 | 过去完成时 |
+|---|---|---|
+| haben 类 | ich habe gegessen | ich ==hatte== gegessen |
+| sein 类 | ich bin gegangen | ich ==war== gegangen |
+
+## nachdem（在……之后）
+nachdem 从句的事情先发生，所以**时态要比主句“早一级”**：
+| 主句 | nachdem 从句 |
+|---|---|
+| 现在时 / 将来 | 完成时：Nachdem ich gegessen **habe**, **gehe** ich spazieren. |
+| 过去式 / 完成时 | 过去完成时：Nachdem ich gegessen **hatte**, **ging** ich spazieren. |
+
+» Nachdem er das Studium **beendet hatte**, **zog** er nach München. — 他读完大学后搬到了慕尼黑。
+> nachdem 后面不能用同一时态！✗ Nachdem ich aß, ging ich. ✓ Nachdem ich gegessen hatte, ging ich. 口语里常改用 nach + 名词：Nach dem Essen ging ich spazieren。
+---
+= Als wir ankamen, [hatte] der Film schon [angefangen]. (anfangen) // 我们到的时候电影已经开始了。 // haben 类：hatte + angefangen
+= Nachdem sie die E-Mail geschrieben [hatte], ging sie nach Hause. // 她写完邮件后回家了。 // 主句过去式 → 从句过去完成时
+= Er war müde, weil er schlecht [geschlafen] [hatte]. (schlafen) // 他很累，因为前一晚没睡好。 // 先于“累”的事 → 过去完成时
+= Nachdem ich [angekommen] [war], rief ich meine Eltern an. (ankommen) // 我到了以后给父母打了电话。 // ankommen 用 sein → war angekommen
+= Ich hatte meinen Schlüssel [vergessen], deshalb musste ich warten. (vergessen) // 我忘带钥匙了，所以只好等着。 // hatte vergessen
+? Nachdem er gefrühstückt ___, fuhr er zur Arbeit. => hatte | hat | war // 他吃完早饭后去上班了。 // 主句过去式 → hatte gefrühstückt
+? Nachdem ich die Prüfung bestanden habe, ___ ich eine Party. => mache | machte | hatte gemacht // 考试通过后我要办个派对。 // 从句完成时 → 主句现在时
+? Als ich ihn anrief, ___ er schon gegangen. => war | hatte | ist // 我给他打电话时他已经走了。 // gehen 用 sein → war gegangen
+? 哪句是对的？ => Nachdem wir gegessen hatten, spielten wir Karten. | Nachdem wir aßen, spielten wir Karten. | Nachdem wir gegessen haben, spielten wir Karten. // 我们吃完饭后打了牌。 // 主句过去式，nachdem 从句要用过去完成时。
+~ Nachdem / sie / das Studium / beendet / hatte, / fand / sie / eine Stelle. // 她读完书后找到了工作。 // 从句动词在最后，主句动词紧跟逗号。
+
+=== g052 | B1 | 时间从句 | Temporale Nebensätze
+| 连词 | 意思 | 例句 |
+|---|---|---|
+| als | 当……时（过去**一次性**的事） | **Als** ich 18 war, zog ich aus. |
+| wenn | 当……时（现在 / 将来；过去**反复**发生） | **Wenn** ich Zeit habe, lese ich. / **Immer wenn** es regnete, blieben wir drinnen. |
+| während | 在……期间（同时） | **Während** ich koche, hört er Musik. |
+| bevor | 在……之前 | **Bevor** du gehst, mach das Licht aus. |
+| nachdem | 在……之后（时态见上一课） | **Nachdem** er gegessen hatte, schlief er. |
+| seit / seitdem | 自从……以来 | **Seit** ich in Deutschland wohne, spreche ich besser Deutsch. |
+| bis | 直到 | Warte, **bis** ich zurückkomme. |
+| sobald | 一……就 | **Sobald** ich etwas weiß, rufe ich an. |
+| solange | 只要、在……期间一直 | **Solange** du Fieber hast, bleibst du im Bett. |
+
+## als 还是 wenn？
+- 过去、只发生一次（或一段时期）→ **als**：Als ich ein Kind war…（小时候是一段时期，但只有一次）
+- 过去、多次 → **(immer) wenn**：Wenn ich krank war, kochte meine Mutter Suppe.
+- 现在、将来 → **wenn**：Wenn ich nach Hause komme, rufe ich dich an.
+> 别和问句 **wann** 混淆：wann 只用于提问（Wann kommst du? / Ich weiß nicht, wann er kommt）。
+---
+? ___ ich nach Deutschland kam, sprach ich kein Wort Deutsch. => Als | Wenn | Wann // 我来德国时一句德语都不会。 // 过去一次 → als
+? ___ ich morgens aufstehe, trinke ich zuerst Kaffee. => Wenn | Als | Wann // 我早上起床后先喝咖啡。 // 现在反复 → wenn
+? Immer ___ wir Oma besuchten, gab es Kuchen. => wenn | als | wann // 每次我们去看奶奶都有蛋糕吃。 // 过去多次 → wenn
+? ___ du telefonierst, kann ich nicht arbeiten. => Während | Bevor | Bis // 你打电话的时候我没法工作。 // 同时 → während
+? Putz dir die Zähne, ___ du ins Bett gehst. => bevor | nachdem | bis // 上床前刷牙。 // 之前 → bevor
+? Ich warte hier, ___ du fertig bist. => bis | seit | als // 我在这等，直到你弄完。 // 直到 → bis
+? ___ ich in Konstanz wohne, fahre ich viel Fahrrad. => Seit | Als | Bevor // 自从住在康斯坦茨，我常骑自行车。 // 持续到现在 → seit
+? Ich melde mich, ___ ich die Ergebnisse habe. => sobald | während | als // 我一拿到结果就联系你。 // 一……就 → sobald
+? Ich weiß nicht, ___ der Kurs beginnt. => wann | wenn | als // 我不知道课什么时候开始。 // 间接问句 → wann
+~ Als / ich / ein Kind / war, / wohnten / wir / in Shanghai. // 我小时候我们住在上海。 // 从句在前，主句动词紧跟逗号。
+~ Bevor / ich / einschlafe, / lese / ich / immer / ein bisschen. // 我睡前总要读一会儿书。 // 从句里可分动词 einschlafe 合在一起。
+
+=== g053 | B1 | 关系从句①：第一、四、三格 | Relativsätze I
+关系从句修饰前面的名词，相当于中文的“……的”。关系代词的**性和数**跟前面的名词，**格**看它在从句里的作用。**动词放从句最后。**
+
+| | 阳性 | 阴性 | 中性 | 复数 |
+|---|---|---|---|---|
+| 第一格 | der | die | das | die |
+| 第四格 | ==den== | die | das | die |
+| 第三格 | ==dem== | ==der== | ==dem== | ==denen== |
+| 第二格 | dessen | deren | dessen | deren |
+（和定冠词几乎一样，只有第三格复数 **denen** 和第二格不同）
+
+» Das ist der Mann, **der** neben mir wohnt. — 这就是住我隔壁的那个男人。（der 是从句主语 → 第一格）
+» Das ist der Mann, **den** ich gestern gesehen habe. — 这是我昨天见到的那个男人。（ich 看见他 → 第四格）
+» Das ist der Mann, **dem** ich geholfen habe. — 这是我帮过的那个男人。（helfen + 第三格）
+» Die Kollegen, **denen** ich vertraue, … — 我信任的那些同事……
+
+## 怎么判断格
+把关系从句还原成独立句子：der Mann … ich habe **ihn** gesehen → ihn 是第四格 → **den**。
+> 关系从句前后都要逗号；从句可以插在主句中间：Der Laptop, **den** ich gekauft habe, ist sehr schnell.
+---
+= Das ist die Frau, [die] im dritten Stock wohnt. // 这是住在四楼的那位女士。 // 从句主语 → 第一格 die
+= Der Film, [den] wir gestern gesehen haben, war toll. // 我们昨天看的那部电影很棒。 // 看电影（第四格）→ den
+= Das ist der Kollege, [dem] ich das Buch gegeben habe. // 这是我把书给了他的那位同事。 // 给某人 → 第三格 dem
+= Das Handy, [das] ich gekauft habe, ist kaputt. // 我买的手机坏了。 // das Handy，第四格 → das
+= Die Kinder, [denen] wir helfen, sind sehr nett. // 我们帮助的孩子们很可爱。 // helfen + 第三格复数 → denen
+= Ich suche eine Wohnung, [die] einen Balkon hat. // 我在找一套有阳台的公寓。 // 从句主语 → die
+= Kennst du den Mann, [der] dort steht? // 你认识站在那儿的那个男人吗？ // 从句主语 → der
+? Die Frau, ___ ich angerufen habe, ist meine Chefin. => die | der | den // 我打电话的那位女士是我的上司。 // anrufen + 第四格 → die
+? Der Freund, ___ ich vertraue, heißt Max. => dem | den | der // 我信任的那个朋友叫马克斯。 // vertrauen + 第三格 → dem
+? Das sind die Leute, ___ ich im Urlaub kennengelernt habe. => die | denen | der // 这些是我度假时认识的人。 // kennenlernen + 第四格复数 → die
+~ Der Laptop, / den / ich / gestern / gekauft / habe, / ist sehr schnell. // 我昨天买的笔记本电脑很快。 // 关系从句插在中间，动词在从句最后。
+~ Das ist / die Firma, / bei der / ich / arbeite. // 这是我工作的公司。 // 介词 + 关系代词（下一课）
+
+=== g054 | B1 | 关系从句②：介词、wo、was、wer、dessen | Relativsätze II
+## 介词 + 关系代词
+动词或位置需要介词时，**介词放在关系代词前面**，格由介词决定：
+» Das ist die Firma, **bei der** ich arbeite. — 这是我工作的公司。（bei + 第三格）
+» Der Kollege, **mit dem** ich das Projekt mache, … — 和我一起做项目的同事……
+» Das Thema, **für das** ich mich interessiere, … — 我感兴趣的话题……（sich interessieren für + 第四格）
+
+## wo：指地点（口语也指时间）
+» Die Stadt, **wo** ich studiert habe, ist schön. = …, **in der** ich studiert habe, …
+» Konstanz, **wo** ich wohne, … （城市名、国家名后常用 wo）
+
+## was：指“不具体的东西”
+在 **alles, nichts, etwas, vieles, das** 和**形容词最高级的名词化**后面，以及**整句**后面：
+» Das ist **alles, was** ich weiß. — 这就是我知道的全部。
+» Das ist **das Beste, was** mir passiert ist. — 这是我遇到过最好的事。
+» Er hat die Prüfung bestanden, **was** mich sehr freut. — 他通过了考试，这让我很高兴。（指前面整件事）
+
+## wer … (der)：凡是……的人
+» **Wer** zu spät kommt, (**der**) muss draußen warten. — 谁迟到谁就在外面等。
+
+## dessen / deren：所属（“他的 / 她的 / 它们的”）
+» Das ist der Mann, **dessen** Auto gestohlen wurde. — 这是车被偷的那个男人。
+» Die Studentin, **deren** Laptop kaputt ist, … — 笔记本坏了的那个女学生……
+> dessen / deren 后面的名词不加冠词，形容词按零冠词变：der Mann, dessen **neues** Auto …
+---
+= Das ist der Freund, [mit dem] ich nach Italien gefahren bin. // 这是和我一起去意大利的朋友。 // mit + 第三格 → mit dem
+= Die Firma, [bei der] ich mich beworben habe, hat geantwortet. // 我申请的那家公司回复了。 // sich bewerben bei + 第三格
+= Das ist alles, [was] ich habe. // 我有的就这些。 // alles → was
+= Das ist der Kollege, [dessen] Frau aus China kommt. // 这是妻子来自中国的那位同事。 // 所属，阳性 → dessen
+= Die Nachbarin, [deren] Hund immer bellt, ist sehr nett. // 狗总叫的那位女邻居人很好。 // 所属，阴性 → deren
+= [Wer] Hilfe braucht, kann mich anrufen. // 谁需要帮助就给我打电话。 // 泛指的人 → wer
+= Das Projekt, [an dem] ich gerade arbeite, ist spannend. // 我正在做的项目很有意思。 // arbeiten an + 第三格 → an dem
+? Das ist das Café, ___ wir uns kennengelernt haben. => wo | was | wer // 这就是我们认识的那家咖啡馆。 // 地点 → wo（= in dem）
+? Es gibt nichts, ___ ich lieber mache. => was | das | wo // 没有什么我更喜欢做的事了。 // nichts → was
+? Er hat mir geholfen, ___ sehr nett war. => was | das | der // 他帮了我，这很好心。 // 指前面整句 → was
+? Das ist ein Problem, über ___ wir reden müssen. => das | dem | was // 这是个我们必须谈的问题。 // reden über + 第四格，das Problem → das
+? Der Autor, ___ Buch ich lese, kommt aus Wien. => dessen | deren | dem // 我在读的那本书的作者来自维也纳。 // 阳性所属 → dessen
+
+=== g055 | B1 | zu + 不定式 | Infinitiv mit zu
+很多动词、名词、形容词后面接 **zu + 不定式**（放句尾），主语和主句相同时用它代替 dass 从句。
+
+» Ich habe vergessen, **dich anzurufen**. — 我忘了给你打电话。
+» Es ist wichtig, regelmäßig **zu üben**. — 经常练习很重要。
+» Hast du Lust, ins Kino **zu gehen**? — 你想去看电影吗？
+
+## 常见的引导词
+- 动词：anfangen, aufhören, beginnen, versuchen, vergessen, vorhaben, planen, sich entscheiden, sich freuen, hoffen, bitten, empfehlen, erlauben, verbieten, vorschlagen
+- 名词：Lust haben, Zeit haben, Angst haben, die Möglichkeit, die Absicht, das Ziel
+- 形容词：Es ist wichtig / schwer / leicht / schön / verboten / möglich …
+
+## zu 的位置
+- 一般动词：zu + 不定式：zu **lernen**
+- **可分动词：zu 夹在中间**：an**zu**rufen, auf**zu**stehen, ein**zu**kaufen
+- 情态动词 / 完成时：zu 在最后一个动词前：arbeiten **zu können**, gearbeitet **zu haben**
+
+## 不加 zu 的情况
+情态动词、werden、lassen 以及 sehen, hören, gehen, bleiben 后面**不加 zu**：Ich **kann** schwimmen. Ich **gehe** einkaufen.
+> brauchen 只在否定 / 限定时加 zu：Du **brauchst nicht** zu kommen = Du musst nicht kommen。
+---
+= Ich habe keine Zeit, heute [einzukaufen]. (einkaufen) // 我今天没时间买东西。 // 可分动词：ein-zu-kaufen
+= Vergiss nicht, die Tür [abzuschließen]. (abschließen) // 别忘了锁门。 // ab-zu-schließen
+= Es ist wichtig, genug Wasser [zu trinken]. (trinken) // 喝足够的水很重要。 // zu trinken
+= Ich versuche, jeden Tag Deutsch [zu sprechen]. (sprechen) // 我尽量每天说德语。 // zu sprechen
+= Hast du Lust, am Samstag [mitzukommen]? (mitkommen) // 你周六想一起来吗？ // mit-zu-kommen
+= Er hat aufgehört [zu rauchen]. (rauchen) // 他戒烟了。 // aufhören + zu
+= Ich freue mich, Sie [kennenzulernen]. (kennenlernen) // 很高兴认识您。 // kennen-zu-lernen
+= Du brauchst morgen nicht [zu kommen]. (kommen) // 你明天不用来。 // nicht brauchen + zu = 不必
+? Ich kann morgen ___. => kommen | zu kommen | kommen zu // 我明天能来。 // 情态动词后不加 zu
+? Ich habe vor, im Sommer nach Japan ___. => zu fliegen | fliegen | zufliegen // 我打算夏天飞日本。 // vorhaben + zu
+? Es ist verboten, hier ___. => zu parken | parken | parkenzu // 这里禁止停车。 // Es ist verboten + zu
+~ Ich / habe / vergessen, / dir / die Unterlagen / zu schicken. // 我忘了把材料发给你。 // zu + 不定式在句尾。
+
+=== g056 | B1 | 目的：um … zu 和 damit | Finalsätze
+表示“为了……”。
+
+| | 条件 | 例句 |
+|---|---|---|
+| **um … zu** + 不定式 | 主句和目的的**主语相同** | Ich lerne Deutsch, **um** in Deutschland **zu arbeiten**. |
+| **damit** + 从句 | 主语**不同**（相同时也可以） | Ich spreche langsam, **damit** du mich **verstehst**. |
+
+» Er spart Geld, **um** ein Auto **zu kaufen**. — 他攒钱为了买车。
+» Wir fahren früher los, **damit** wir den Zug nicht **verpassen**. — 我们早点出发，免得错过火车。
+» Ich schicke dir die Adresse, **damit** du uns **findest**. — 我把地址发给你，好让你找到我们。
+
+## 注意
+- um … zu 里**没有情态动词**：✗ um Deutsch lernen zu können（可以但啰嗦）→ um Deutsch zu lernen
+- damit 从句里一般**不用 wollen / sollen**。
+- 问目的：**Wozu?** / **Wofür?**：Wozu brauchst du das? – Um …
+- 名词形式：**zum** + 名词化不定式 / **für** + 名词：Ich brauche das Messer **zum Schneiden**. Ich spare **für ein Auto**.
+> 别和 statt … zu / ohne … zu 混淆（下面会讲）。
+---
+? Ich gehe in die Bibliothek, ___ zu lernen. => um | damit | für // 我去图书馆学习。 // 主语相同 → um … zu
+? Ich erkläre es dir noch einmal, ___ du es verstehst. => damit | um | dass // 我再给你解释一遍，好让你明白。 // 主语不同 → damit
+? Sie nimmt ein Taxi, ___ pünktlich zu sein. => um | damit | ohne // 她打车为了准时到。 // 主语相同 → um … zu
+? ___ brauchst du so viel Geld? – Für eine neue Wohnung. => Wozu | Warum zu | Womit // 你要那么多钱干什么？——买新房。 // 问目的：Wozu?
+~ Ich / mache / einen Deutschkurs, / um / meine Chancen / zu verbessern. // 我上德语课为了提高机会。 // um … zu，不定式在最后。
+~ Mach / das Fenster / zu, / damit / es / nicht / kalt / wird. // 把窗关上，免得变冷。 // damit 从句，动词 wird 在最后。
+= Wir stehen früh auf, um den Sonnenaufgang [zu sehen]. (sehen) // 我们早起去看日出。 // um … zu + 不定式
+= Er lernt jeden Abend, um die Prüfung [zu bestehen]. (bestehen) // 他每晚学习，为了考试过关。 // um … zu bestehen
+= Ich rufe an, damit du dir keine Sorgen [machst]. (machen) // 我打电话免得你担心。 // damit 从句，动词最后
+= Ich brauche eine Schere [zum] Schneiden. // 我需要一把剪刀来剪东西。 // zu + dem + 名词化不定式 = zum
+
+=== g057 | B1 | 被动态：现在时和过去式 | Passiv Präsens und Präteritum
+主动句关注“谁做”，被动句关注“发生了什么 / 什么被做了”。新闻、说明书、流程、办事说明里非常常见。
+
+**werden（变位） + 过去分词（句尾）**
+| 主动 | 被动 |
+|---|---|
+| Man **repariert** das Auto. | Das Auto **wird repariert**. |
+| Der Mechaniker reparierte das Auto. | Das Auto **wurde** (von dem Mechaniker) **repariert**. |
+
+主动句的**第四格宾语 → 被动句的主语（第一格）**；做事的人（如果要说）用 **von + 第三格**，原因 / 手段用 **durch + 第四格**。
+
+| | 现在时 | 过去式 |
+|---|---|---|
+| ich | werde gefragt | wurde gefragt |
+| du | wirst gefragt | wurdest gefragt |
+| er/sie/es | wird gefragt | wurde gefragt |
+| wir | werden gefragt | wurden gefragt |
+| sie/Sie | werden gefragt | wurden gefragt |
+
+» In Deutschland **wird** viel Bier **getrunken**. — 德国人喝很多啤酒。
+» Das Haus **wurde** 1900 **gebaut**. — 这栋房子建于 1900 年。
+» Die Bewerbungen **werden** bis Freitag **geprüft**. — 申请会在周五前审核。
+
+## 无主语被动（“非人称被动”）
+没有第四格宾语的动词也能变被动，常用于描述活动：
+» Hier **wird** nicht **geraucht**. — 这里不许抽烟。
+» Am Wochenende **wird** gefeiert. — 周末要庆祝。
+> 第三格宾语不变成主语：Man hilft **mir**. → **Mir** wird geholfen.（不是 Ich werde geholfen）
+---
+= Das Auto [wird] heute [repariert]. (reparieren) // 车今天修。 // wird + 过去分词
+= Die Briefe [werden] jeden Morgen [verteilt]. (verteilen) // 信件每天早上分发。 // 复数主语 → werden
+= Der Dieb [wurde] gestern [verhaftet]. (verhaften) // 小偷昨天被逮捕了。 // 过去式：wurde
+= Die Brücke [wurde] 1950 [gebaut]. (bauen) // 这座桥建于 1950 年。 // wurde gebaut
+= Hier [wird] Deutsch [gesprochen]. (sprechen) // 这里讲德语。 // sprechen → gesprochen
+= Die Kinder [wurden] von ihrer Oma [abgeholt]. (abholen) // 孩子们被奶奶接走了。 // von + 第三格：动作执行者
+? Das Essen ___ gerade gekocht. => wird | ist | hat // 饭正在做。 // 被动：wird + gekocht
+? Die Fenster ___ jeden Monat geputzt. => werden | wird | worden // 窗户每月擦一次。 // 复数 → werden
+? Das Formular muss ausgefüllt ___. => werden | worden | wird // 这张表必须填写。 // 情态动词 + 被动不定式：ausgefüllt werden（下一课）
+? Man öffnet die Tür um 8 Uhr. → Die Tür ___ um 8 Uhr geöffnet. => wird | werden | wurde // 门 8 点开。 // 主动现在时 → 被动现在时 wird
+= Man hilft dem Kunden. → Dem Kunden [wird] [geholfen]. // 顾客得到帮助。 // 第三格不变主语，wird geholfen
+= Aktiv → Passiv: Man schreibt die Rechnung. → [Die Rechnung wird geschrieben.] // 发票正在开。 // 第四格宾语变主语
+
+=== g058 | B1 | 被动态：完成时和情态动词 | Passiv Perfekt und mit Modalverben
+## 完成时被动：sein + 过去分词 + **worden**
+» Das Paket **ist** gestern **geliefert worden**. — 包裹昨天送到了。
+» Die Bewerbung **ist** noch nicht **bearbeitet worden**. — 申请还没处理。
+注意：被动里用 **worden**（不是 geworden）。过去完成时：war … worden。
+
+## 情态动词 + 被动：情态动词 + 过去分词 + **werden**（不定式）
+» Der Antrag **muss** bis Montag **abgegeben werden**. — 申请必须在周一前交。
+» Hier **darf** nicht **geparkt werden**. — 这里不许停车。
+» Das **kann** online **erledigt werden**. — 这可以在网上办。
+
+## 从句里
+» Ich weiß, dass das Problem schon **gelöst worden ist**.
+» Er sagt, dass der Vertrag **unterschrieben werden muss**.
+
+| 时态 | 被动形式 |
+|---|---|
+| 现在时 | Das Haus wird gebaut. |
+| 过去式 | Das Haus wurde gebaut. |
+| 完成时 | Das Haus ist gebaut worden. |
+| 过去完成时 | Das Haus war gebaut worden. |
+| 情态动词 | Das Haus muss gebaut werden. |
+| 情态动词过去式 | Das Haus musste gebaut werden. |
+> 办事信件常见句型：Ihr Antrag ist genehmigt worden.（您的申请已获批准）Die Unterlagen müssen nachgereicht werden.（材料必须补交）
+---
+= Das Problem [ist] schon [gelöst] [worden]. (lösen) // 问题已经解决了。 // 完成时被动：ist … worden
+= Der Brief muss heute noch [abgeschickt] [werden]. (abschicken) // 信今天必须寄出。 // 情态动词 + 分词 + werden
+= Mein Fahrrad [ist] gestern [gestohlen] [worden]. (stehlen) // 我的自行车昨天被偷了。 // gestohlen worden
+= Die Rechnung kann online [bezahlt] [werden]. (bezahlen) // 账单可以在网上付。 // kann … bezahlt werden
+= Die Formulare müssen [ausgefüllt] [werden]. (ausfüllen) // 表格必须填写。 // 可分动词分词：ausgefüllt
+? Das Haus ist 1980 gebaut ___. => worden | geworden | werden // 这栋房子建于 1980 年。 // 被动完成时用 worden
+? Die Wohnung muss noch renoviert ___. => werden | worden | wird // 公寓还必须翻修。 // 情态动词 + 被动不定式：renoviert werden
+? Die Prüfung ___ verschoben worden. => ist | hat | wird // 考试推迟了。 // 被动完成时助动词永远是 sein
+? Er ist Vater ___. => geworden | worden | werden // 他当爸爸了。 // 实义动词“变成” → geworden
+= Aktiv → Passiv (Perfekt): Man hat den Termin abgesagt. → [Der Termin ist abgesagt worden.] // 预约被取消了。 // hat abgesagt → ist abgesagt worden
+= Man muss die Miete pünktlich zahlen. → Die Miete muss pünktlich [gezahlt werden]. // 房租必须按时付。 // 情态动词 + 分词 + werden
+
+=== g059 | B1 | 第二格（属格） | Genitiv
+第二格表示**所属**（“……的”），也跟在某些介词后面。书面语常用，口语多用 von + 第三格。
+
+| | 阳性 | 阴性 | 中性 | 复数 |
+|---|---|---|---|---|
+| 定冠词 | ==des== Mann==es== | ==der== Frau | ==des== Kind==es== | ==der== Kinder |
+| 不定冠词 / 物主 | eines / meines Vaters | einer / meiner Mutter | eines Hauses | meiner Eltern |
+| 形容词 | des alt==en== Mannes | der jung==en== Frau | des klein==en== Kindes | der neu==en== Kollegen |
+
+## 名词词尾
+- 阳性、中性名词加 **-s**；单音节或以 -s, -ß, -x, -z, -sch 结尾的加 **-es**：des Vaters, des Autos, des Hauses, des Tisch(e)s
+- 阴性和复数名词不加词尾
+- 人名加 -s（不加撇号）：**Peters** Auto, **Annas** Wohnung
+- n-变格名词：des Kunden, des Studenten（下一课）
+
+## 第二格介词（常见）
+**wegen**（因为）、**trotz**（尽管）、**während**（在……期间）、**statt / anstatt**（代替）、**innerhalb**（在……之内）、**außerhalb**（在……之外）
+» **Wegen des** Regens bleiben wir zu Hause. — 因为下雨我们待在家。
+» **Trotz der** Kälte gehen wir spazieren. — 尽管很冷我们还是去散步。
+» **Während des** Studiums habe ich gejobbt. — 读书期间我打过工。
+> 口语里 wegen, trotz 常接第三格（wegen dem Regen），考试和书面语用第二格。
+---
+= Das ist das Auto [des] Chefs. (der Chef) // 这是老板的车。 // 阳性第二格：des + -s
+= Die Farbe [der] Wohnung gefällt mir. (die Wohnung) // 我喜欢这套公寓的颜色。 // 阴性第二格 → der
+= Das Ende [des] Films war traurig. (der Film) // 电影的结尾很伤感。 // des Films
+= Wegen [des] schlechten Wetters fällt das Spiel aus. // 因为天气不好，比赛取消。 // wegen + 第二格
+= Trotz [der] Probleme haben wir es geschafft. (die Probleme) // 尽管有问题，我们还是做成了。 // 复数第二格 → der
+= Während [des] Urlaubs habe ich viel gelesen. (der Urlaub) // 度假期间我读了很多书。 // während + 第二格
+= Das ist [Annas] Fahrrad. (Anna) // 这是安娜的自行车。 // 人名 + s，不加撇号
+= Die Adresse [meiner] Eltern ist neu. (meine Eltern) // 我父母的地址是新的。 // 复数第二格：meiner
+? Der Name ___ Kindes ist Lukas. => des | der | dem // 孩子的名字叫卢卡斯。 // 中性第二格 → des Kindes
+? ___ der Pause trinken wir Kaffee. => Während | Wegen | Statt // 课间休息时我们喝咖啡。 // 时间段 → während
+? Ich nehme den Bus ___ des Autos. => statt | trotz | wegen // 我坐公交代替开车。 // 代替 → statt
+? Innerhalb ___ Woche müssen Sie antworten. => einer | eine | einem // 您必须在一周内回复。 // innerhalb + 第二格：die Woche → einer
+
+=== g060 | B1 | 第二虚拟式：非真实条件和愿望 | Konjunktiv II: irreale Bedingungen und Wünsche
+Konjunktiv II 表示**不是事实、只是假设**的事（“要是……就……”）。
+
+## 形式
+- **würde + 不定式**：大多数动词
+- 直接的虚拟式（常用的几个）：wäre, hätte, könnte, müsste, dürfte, sollte, wollte, wüsste, käme, ginge, gäbe, bräuchte
+（构成：过去式 + 变音 + -e：war → wäre，hatte → hätte，konnte → könnte，kam → käme，gab → gäbe）
+
+## 非真实条件句
+» **Wenn** ich Zeit **hätte**, **würde** ich mehr Sport **machen**. — 要是我有时间，我就多运动。（事实：我没时间）
+» **Wenn** ich du **wäre**, **würde** ich das Angebot **annehmen**. — 我要是你，就接受这个邀约。
+» **Wenn** es nicht so teuer **wäre**, **könnten** wir öfter essen gehen. — 要不是那么贵，我们就能常出去吃了。
+省略 wenn 时动词放第一位：**Hätte** ich Zeit, würde ich kommen.
+
+## 愿望句
+» **Wenn** ich doch mehr Geld **hätte**! / **Hätte** ich doch mehr Geld! — 我要是有更多钱就好了！
+» Ich **wünschte**, ich **könnte** fliegen. — 我真希望我会飞。
+
+## 和事实对比
+| 事实 | 假设 |
+|---|---|
+| Ich habe kein Auto. | Wenn ich ein Auto hätte, … |
+| Ich bin müde. | Wenn ich nicht müde wäre, … |
+| Es regnet. | Wenn es nicht regnen würde, … |
+> 别和 A2 学的“礼貌用法”混淆：Könnten Sie …? 只是客气，不是假设。
+---
+= Wenn ich mehr Geld [hätte], würde ich eine Weltreise machen. (haben) // 要是我有更多钱，就去环游世界。 // haben → hätte
+= Wenn ich du [wäre], würde ich zum Arzt gehen. (sein) // 我要是你，就去看医生。 // sein → wäre
+= Wenn es nicht regnen [würde], könnten wir grillen. (werden) // 要是不下雨，我们就能烧烤了。 // würde + regnen
+= Ich [wüsste] gern, wie das funktioniert. (wissen) // 我很想知道这是怎么运作的。 // wissen → wüsste
+= [Hätte] ich doch nur mehr Zeit! (haben) // 我要是有更多时间就好了！ // 愿望句，动词在第一位
+= Wenn ich Deutsch besser sprechen [könnte], hätte ich mehr Chancen. (können) // 要是我德语说得更好，机会就更多。 // können → könnte
+? Wenn ich reich ___, würde ich nicht arbeiten. => wäre | war | bin // 要是我有钱，就不工作了。 // 非真实条件 → wäre
+? Wenn ich Zeit hätte, ___ ich dir helfen. => würde | werde | wurde // 要是我有时间，我就帮你。 // 主句：würde + 不定式
+? Ich wünschte, ich ___ fliegen. => könnte | kann | konnte // 我真希望我会飞。 // 愿望 → könnte
+? Wenn es mehr Wohnungen ___, wären die Mieten niedriger. => gäbe | gibt | gab // 要是有更多公寓，房租就会更低。 // es gibt → es gäbe
+~ Wenn / ich / ein Auto / hätte, / würde / ich / dich / abholen. // 要是我有车，我就去接你。 // 从句在前，主句 würde 紧跟逗号。
+
+=== g061 | B1 | 第二虚拟式过去时 | Konjunktiv II der Vergangenheit
+对**过去**的假设、后悔、遗憾：**hätte / wäre + 过去分词**。
+
+» Wenn ich früher aufgestanden **wäre**, **hätte** ich den Bus nicht **verpasst**. — 要是我早点起床，就不会错过公交了。（事实：我起晚了，错过了）
+» Wenn du mich gefragt **hättest**, **hätte** ich dir **geholfen**. — 要是你问了我，我就帮你了。
+» Ich **hätte** mehr **lernen sollen**. — 我当时应该多学点的。
+» Das **hätte** ich nicht **gedacht**! — 我真没想到！
+» Fast **wäre** ich **gefallen**. — 我差点摔倒。
+
+## haben 还是 sein？
+和完成时一样：gehen, kommen, fahren, aufstehen … 用 **wäre**；其余用 **hätte**。
+
+## 情态动词：hätte + 不定式 + 情态动词不定式（双不定式）
+» Du **hättest** mich **anrufen können**. — 你本可以给我打电话的。
+» Wir **hätten** früher **losfahren müssen**. — 我们本该早点出发的。
+> 现在 vs 过去：Wenn ich Zeit **hätte**, **würde** ich kommen.（现在没时间）/ Wenn ich Zeit **gehabt hätte**, **wäre** ich **gekommen**.（当时没时间）
+---
+= Wenn ich das gewusst [hätte], wäre ich nicht gekommen. (wissen) // 早知道这样，我就不来了。 // 过去假设：hätte gewusst
+= Wenn du pünktlich [gewesen] [wärst], hätten wir den Zug erreicht. (sein) // 要是你准时，我们就赶上火车了。 // sein → wärst gewesen
+= Ich [hätte] dir gern [geholfen]. (helfen) // 我本来很愿意帮你的。 // hätte geholfen
+= Fast [wäre] ich zu spät [gekommen]. (kommen) // 我差点迟到。 // kommen → wäre gekommen
+= Du hättest mich früher [informieren] [sollen]. (informieren, sollen) // 你应该早点通知我的。 // 双不定式：informieren sollen
+? Wenn ich mehr gelernt ___, hätte ich die Prüfung bestanden. => hätte | wäre | würde // 要是我多学点，就通过考试了。 // lernen → hätte gelernt
+? Wenn wir den Bus genommen hätten, ___ wir pünktlich gewesen. => wären | hätten | würden // 要是我们坐了公交，就准时了。 // sein → wären gewesen
+? Ohne deine Hilfe ___ ich das nie geschafft. => hätte | wäre | würde // 没有你的帮助我永远做不到。 // schaffen → hätte geschafft
+? 哪句表达“我当时应该早点出发”？ => Ich hätte früher losfahren sollen. | Ich sollte früher losgefahren. | Ich hätte früher losgefahren sollen. // // 双不定式：hätte … losfahren sollen
+~ Wenn / ich / das / gewusst / hätte, / hätte / ich / anders / reagiert. // 早知道的话，我会做出不同的反应。 // 主句 hätte 紧跟逗号，分词在最后。
