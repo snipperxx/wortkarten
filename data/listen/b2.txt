@@ -1,0 +1,228 @@
+=== l030 | B2 | 新闻 | Fachkräftemangel in der IT | IT 行业缺人
+intro: 一条关于德国 IT 人才短缺的广播新闻。
+voices: N=Florian:Nachrichtensprecher
+N: In Deutschland fehlen nach Angaben des Digitalverbands Bitkom derzeit mehr als einhunderttausend IT-Fachkräfte. // 据数字行业协会 Bitkom 称，德国目前缺少十万多名 IT 专业人才。
+N: Besonders gesucht sind Softwareentwickler, Spezialisten für IT-Sicherheit und Fachleute für Datenanalyse. // 最紧缺的是软件开发人员、IT 安全专家和数据分析人员。
+N: Gleichzeitig berichten viele Berufseinsteiger, dass sie trotz eines Hochschulabschlusses monatelang keine Stelle finden. // 与此同时，许多刚入行的人说，尽管有大学学历，他们几个月都找不到工作。
+N: Experten sehen darin keinen Widerspruch: Unternehmen suchten vor allem erfahrene Kräfte, während die Einarbeitung von Absolventen als zu aufwendig gelte. // 专家认为这并不矛盾：企业主要找有经验的人，而培训毕业生被认为成本太高。
+N: Hinzu komme, dass viele Firmen wegen der schwachen Konjunktur vorsichtiger einstellen. // 此外，由于经济疲软，许多公司招人更加谨慎。
+N: Der Verband fordert deshalb mehr Förderprogramme für Berufseinsteiger sowie schnellere Verfahren bei der Anerkennung ausländischer Abschlüsse. // 因此该协会呼吁为入行者提供更多资助项目，并加快外国学历认证流程。
+N: Auch Deutschkenntnisse spielen eine Rolle: Rund die Hälfte der befragten Unternehmen erwartet zumindest gute Grundkenntnisse, selbst wenn die Arbeitssprache Englisch ist. // 德语能力也有影响：约一半受访企业至少期望有良好的基础，即使工作语言是英语。
+---
+? Wie viele IT-Fachkräfte fehlen laut Bitkom? => mehr als 100.000 | etwa 10.000 | eine Million // mehr als einhunderttausend
+! Laut Experten widersprechen sich Fachkräftemangel und Probleme von Berufseinsteigern. => falsch // Experten sehen darin keinen Widerspruch
+? Warum stellen Firmen ungern Absolventen ein? => Die Einarbeitung gilt als zu aufwendig. | Absolventen sind zu teuer. | Absolventen wollen nicht ins Büro. // die Einarbeitung von Absolventen als zu aufwendig gelte
+? Was fordert der Verband? => Förderprogramme und schnellere Anerkennung von Abschlüssen | höhere Gehälter | weniger Zuwanderung // mehr Förderprogramme … sowie schnellere Verfahren bei der Anerkennung
+! Etwa die Hälfte der Firmen erwartet Deutschkenntnisse, auch bei Englisch als Arbeitssprache. => richtig // Rund die Hälfte … erwartet zumindest gute Grundkenntnisse
++ die Fachkraft, ¨-e // 专业人才
++ der Berufseinsteiger, - // 职场新人
++ aufwendig // 费时费力的
++ die Konjunktur // 经济形势
++ die Anerkennung // 认可、认证
+
+=== l031 | B2 | 采访 | Künstliche Intelligenz im Mittelstand | 中小企业里的人工智能
+intro: 一家经济电台采访一位中型企业的 IT 主管。
+voices: R=Seraphina:Reporterin, K=Conrad:Herr Kessler
+R: Herr Kessler, Ihr Unternehmen stellt Maschinenteile her. Wo setzen Sie künstliche Intelligenz ein? // 凯斯勒先生，贵公司生产机器零件。您在哪些地方使用人工智能？
+K: Zunächst ganz unspektakulär: Wir nutzen ein Sprachmodell, um Anfragen von Kunden vorzusortieren. Das spart unserem Vertrieb mehrere Stunden pro Woche. // 首先是很不起眼的地方：我们用一个语言模型对客户询问进行预分类，这为我们销售部门每周节省好几个小时。
+R: Und wo noch? // 还有哪里？
+K: In der Produktion werten wir Sensordaten aus, um zu erkennen, wann eine Maschine gewartet werden muss, bevor sie ausfällt. // 在生产中，我们分析传感器数据，以便在机器故障前识别何时需要维护。
+R: Viele Mittelständler zögern noch. Woran liegt das Ihrer Meinung nach? // 很多中型企业仍在犹豫。您认为原因是什么？
+K: Vor allem am Datenschutz. Wir dürfen Konstruktionsdaten unserer Kunden auf keinen Fall an externe Anbieter weitergeben. Deshalb betreiben wir die Modelle auf eigenen Servern. // 主要是数据保护。我们绝不能把客户的设计数据交给外部供应商，所以模型部署在我们自己的服务器上。
+K: Das zweite Problem ist die Zuverlässigkeit. Ein Modell, das in fünf Prozent der Fälle Unsinn erzählt, ist für uns unbrauchbar, wenn niemand die Ergebnisse überprüft. // 第二个问题是可靠性。一个在 5% 的情况下胡说八道的模型，如果没人核查结果，对我们来说就没用。
+R: Wie lösen Sie das? // 您怎么解决？
+K: Jede Antwort muss eine Quelle aus unseren eigenen Dokumenten nennen. Wenn das System keine Quelle findet, sagt es lieber „Ich weiß es nicht“. Und bei wichtigen Entscheidungen prüft immer ein Mensch. // 每个回答都必须给出来自我们自己文档的出处。系统找不到出处时，宁可说“我不知道”。重要决定总是有人来审核。
+R: Suchen Sie dafür neue Mitarbeiter? // 您为此招新员工吗？
+K: Ja, aber keine reinen KI-Forscher. Wir brauchen Entwickler, die eine stabile Software bauen und die Modelle sinnvoll einbinden können. // 招，但不是纯粹的 AI 研究员。我们需要能构建稳定软件、并合理集成模型的开发人员。
+---
+? Wofür nutzt die Firma ein Sprachmodell? => um Kundenanfragen vorzusortieren | um Maschinen zu bauen | um Rechnungen zu schreiben // um Anfragen von Kunden vorzusortieren
+? Was ist laut Kessler der Hauptgrund für das Zögern vieler Firmen? => der Datenschutz | die hohen Kosten | fehlendes Interesse // Vor allem am Datenschutz.
+! Die Firma nutzt die Modelle eines externen Anbieters in der Cloud. => falsch // Deshalb betreiben wir die Modelle auf eigenen Servern.
+? Wie verhindert die Firma falsche Antworten? => Jede Antwort braucht eine Quelle aus eigenen Dokumenten. | Sie nutzt mehrere Anbieter. | Sie stellt nur einfache Fragen. // Jede Antwort muss eine Quelle aus unseren eigenen Dokumenten nennen.
+! Die Firma sucht vor allem reine KI-Forscher. => falsch // keine reinen KI-Forscher
++ einsetzen // 使用、投入
++ auswerten // 分析、评估
++ zögern // 犹豫
++ die Zuverlässigkeit // 可靠性
++ einbinden // 集成、纳入
+
+=== l032 | B2 | 讨论 | Vier-Tage-Woche | 四天工作制
+intro: 广播讨论节目：两位嘉宾讨论四天工作制。
+voices: M=Katja:Moderatorin, A=Killian:Herr Brandt (Arbeitgeberverband), B=Amala:Frau Özdemir (Gewerkschaft)
+M: Immer mehr Beschäftigte wünschen sich eine Vier-Tage-Woche. Frau Özdemir, warum? // 越来越多的雇员希望实行四天工作制。厄兹德米尔女士，为什么？
+B: Weil viele Menschen erschöpft sind. Studien zeigen, dass ausgeruhte Mitarbeiter konzentrierter arbeiten und seltener krank sind. In Pilotprojekten blieb die Produktivität gleich, obwohl weniger gearbeitet wurde. // 因为很多人筋疲力尽。研究表明，休息充足的员工工作更专注，生病更少。在试点项目中，工作时间减少了，生产率却保持不变。
+M: Herr Brandt, das klingt doch überzeugend. // 布兰特先生，这听起来很有说服力。
+A: Für ein Büro mag das funktionieren. Aber in der Pflege, im Handwerk oder in der Produktion lässt sich Arbeit nicht einfach verdichten. Eine Pflegekraft kann nicht in vier Tagen so viele Patienten versorgen wie in fünf. // 对办公室来说也许可行。但在护理、手工业或生产领域，工作不能简单地压缩。一名护理人员四天照顾不了五天那么多的病人。
+B: Das bestreitet niemand. Es geht nicht um eine starre Regel für alle, sondern um Modelle, die zur Branche passen. // 没人否认这一点。这不是一刀切的规定，而是适合各行业的模式。
+A: Und wer bezahlt das? Wenn der Lohn bei weniger Stunden gleich bleibt, steigen die Kosten. Gerade kleine Betriebe können sich das in der aktuellen wirtschaftlichen Lage nicht leisten. // 那谁来买单？如果工时减少工资不变，成本就会上升。在当前经济形势下，小企业尤其负担不起。
+B: Umgekehrt finden Betriebe mit attraktiven Arbeitszeiten leichter Personal. Angesichts des Fachkräftemangels ist das auch ein wirtschaftliches Argument. // 反过来说，工作时间有吸引力的企业更容易招到人。鉴于人才短缺，这也是一个经济方面的理由。
+M: Gibt es einen gemeinsamen Nenner? // 有共同点吗？
+A: Freiwillige Lösungen in den Betrieben – ja. Ein gesetzlicher Anspruch – nein. // 企业自愿的方案——可以。法定权利——不行。
+---
+? Welches Argument nennt Frau Özdemir zuerst? => Ausgeruhte Mitarbeiter arbeiten konzentrierter. | Firmen sparen Geld. | Die Kunden wollen es. // ausgeruhte Mitarbeiter konzentrierter arbeiten
+? Wo sieht Herr Brandt Probleme? => in Pflege, Handwerk und Produktion | nur in Büros | in großen Konzernen // in der Pflege, im Handwerk oder in der Produktion
+! Frau Özdemir fordert eine einheitliche Regel für alle Branchen. => falsch // Es geht nicht um eine starre Regel für alle
+? Welches wirtschaftliche Argument bringt Frau Özdemir? => Firmen finden leichter Personal. | Die Steuern sinken. | Man braucht weniger Büros. // finden Betriebe mit attraktiven Arbeitszeiten leichter Personal
+! Herr Brandt ist gegen einen gesetzlichen Anspruch, aber offen für freiwillige Lösungen. => richtig // Freiwillige Lösungen … ja. Ein gesetzlicher Anspruch – nein.
++ erschöpft // 筋疲力尽的
++ verdichten // 压缩、密集化
++ bestreiten // 否认、反驳
++ sich etw. leisten können // 负担得起
++ der gemeinsame Nenner // 共同点
+
+=== l033 | B2 | 讲座 | Wie Large Language Models funktionieren | 大语言模型如何工作
+intro: 一场面向大众的科普讲座片段。
+voices: P=Florian:Professor
+P: Ein großes Sprachmodell tut im Grunde etwas sehr Einfaches: Es sagt das nächste Wort vorher – genauer gesagt das nächste Token, also ein Wortstück. // 大语言模型本质上做的事很简单：预测下一个词——更准确地说是下一个 token，也就是词片段。
+P: Dafür wurde es mit riesigen Textmengen trainiert. Aus diesen Daten hat es statistische Muster gelernt, wie Sprache aufgebaut ist und welche Inhalte häufig zusammen auftreten. // 为此它用海量文本进行了训练，从这些数据中学到了语言如何构成、哪些内容经常一起出现的统计规律。
+P: Das erklärt auch das größte Problem dieser Modelle: Sie erzeugen Texte, die plausibel klingen, aber nicht unbedingt wahr sind. Man spricht dann von Halluzinationen. // 这也解释了这些模型最大的问题：它们生成的文本听起来合理，但不一定真实。这被称为“幻觉”。
+P: Das Modell hat kein eingebautes Wissen darüber, ob eine Aussage stimmt. Es weiß nur, welche Fortsetzung wahrscheinlich ist. // 模型并没有内置的知识来判断一个陈述是否正确，它只知道哪种续写可能性大。
+P: Eine verbreitete Gegenmaßnahme heißt Retrieval-Augmented Generation. Dabei sucht ein System zuerst passende Dokumente und gibt sie dem Modell zusammen mit der Frage. Das Modell soll dann nur auf Grundlage dieser Dokumente antworten und die Quellen angeben. // 一种常见的对策叫检索增强生成。系统先查找相关文档，连同问题一起交给模型。模型只能依据这些文档回答，并给出出处。
+P: Das reduziert Halluzinationen deutlich, beseitigt sie aber nicht vollständig. Deshalb sollte man bei wichtigen Anwendungen – etwa in Medizin oder Recht – die Antworten automatisch oder von Menschen überprüfen lassen. // 这能明显减少幻觉，但不能完全消除。所以在重要的应用中，比如医疗或法律，应当让程序或人来核查答案。
+P: Ein weiterer Punkt ist die Bewertung: Wer ein solches System einführt, braucht einen Testdatensatz mit bekannten richtigen Antworten, um zu messen, ob Änderungen das System besser oder schlechter machen. // 另一点是评估：引入这种系统的人需要一个已知正确答案的测试集，用来衡量改动让系统变好还是变坏。
+---
+? Was macht ein Sprachmodell im Grunde? => Es sagt das nächste Token vorher. | Es sucht im Internet. | Es übersetzt Texte Wort für Wort. // Es sagt das nächste Wort vorher – genauer gesagt das nächste Token
+! Ein Sprachmodell weiß, ob eine Aussage wahr ist. => falsch // Das Modell hat kein eingebautes Wissen darüber, ob eine Aussage stimmt.
+? Was passiert bei Retrieval-Augmented Generation zuerst? => Das System sucht passende Dokumente. | Das Modell wird neu trainiert. | Ein Mensch schreibt die Antwort. // Dabei sucht ein System zuerst passende Dokumente
+! RAG beseitigt Halluzinationen vollständig. => falsch // reduziert … deutlich, beseitigt sie aber nicht vollständig
+? Wozu braucht man einen Testdatensatz? => um zu messen, ob Änderungen das System verbessern | um das Modell zu trainieren | um Kosten zu sparen // um zu messen, ob Änderungen das System besser oder schlechter machen
++ vorhersagen // 预测
++ plausibel // 看似合理的
++ die Gegenmaßnahme, -n // 对策
++ beseitigen // 消除
++ einführen // 引入
+
+=== l034 | B2 | 播客 | Wohnungsnot in Unistädten | 大学城的住房短缺
+intro: 一档社会类播客谈大学城租房难。
+voices: P=Jonas:Moderator, S=Seraphina:Studentin Lea
+P: In Städten wie München, Heidelberg oder Konstanz ist ein bezahlbares WG-Zimmer für viele Studierende kaum noch zu finden. Lea, wie war das bei dir? // 在慕尼黑、海德堡或康斯坦茨这样的城市，很多学生几乎找不到负担得起的合租房间。莉亚，你的情况怎样？
+S: Ich habe zwei Monate gesucht und über sechzig Anfragen geschrieben. Zu den meisten Besichtigungen kamen zwanzig, dreißig Leute. // 我找了两个月，发了六十多次询问。大多数看房都有二三十人去。
+P: Und die Wohnheime? // 学生宿舍呢？
+S: Da gibt es Wartelisten von bis zu drei Semestern. Als ich angefangen habe, war ich auf Platz vierhundert. // 宿舍排队最长要等三个学期。我刚开始时排在第四百位。
+P: Wie hast du schließlich etwas gefunden? // 你最后是怎么找到的？
+S: Über eine Bekannte. Eine Mitbewohnerin ist ausgezogen, und die WG hat lieber jemanden genommen, den sie über Freunde kannte. Ohne Kontakte hätte ich vermutlich noch länger gesucht. // 通过一个熟人。一位室友搬走了，合租的人更愿意找朋友介绍的人。没有关系的话，我可能还要找更久。
+P: Manche Studierende pendeln inzwischen aus dem Umland. // 有些学生现在从周边地区通勤。
+S: Ja, aber das hat seinen Preis. Eine Freundin von mir fährt jeden Tag anderthalb Stunden pro Strecke. Sie sagt, dass sie dadurch kaum noch am Uni-Leben teilnimmt. // 是的，但这是有代价的。我一个朋友每天单程一个半小时。她说因此几乎没法参加大学生活了。
+P: Was müsste sich ändern? // 应该改变什么？
+S: Es müssten deutlich mehr Wohnheimplätze gebaut werden. Und Vermieter sollten nicht für ein kleines Zimmer siebenhundert Euro verlangen dürfen. Die Mietpreisbremse wird in der Praxis oft umgangen. // 应该多建很多宿舍床位。房东也不应该被允许为一个小房间要价七百欧。租金刹车规定在实践中经常被规避。
+---
+? Wie lange hat Lea gesucht? => zwei Monate | zwei Wochen | drei Semester // Ich habe zwei Monate gesucht
+? Wie lang sind die Wartelisten in den Wohnheimen? => bis zu drei Semester | ein paar Tage | zwei Monate // Wartelisten von bis zu drei Semestern
+? Wie hat Lea ihr Zimmer gefunden? => über eine Bekannte | über eine Anzeige | im Wohnheim // Über eine Bekannte.
+! Leas Freundin findet das Pendeln problemlos. => falsch // 她说因此几乎没法参加大学生活（kaum noch am Uni-Leben teilnimmt）。
+! Lea meint, die Mietpreisbremse wird oft umgangen. => richtig // Die Mietpreisbremse wird in der Praxis oft umgangen.
++ bezahlbar // 负担得起的
++ die Warteliste, -n // 等候名单
++ pendeln // 通勤
++ umgehen (umgangen) // 规避、绕过
++ die Mietpreisbremse // 租金刹车（限租规定）
+
+=== l035 | B2 | 留言 | Rückmeldung nach dem Vorstellungsgespräch | 面试后的回电留言
+intro: 求职者在语音信箱里收到一条公司的留言。
+voices: H=Ingrid:Frau Albrecht
+H: Guten Tag, Herr Lin, hier ist Albrecht von der Firma Nordlicht Software. Ich rufe wegen Ihres Gesprächs am Montag an. // 您好，林先生，我是北极光软件公司的阿尔布雷希特。我打电话是关于您周一的面试。
+H: Zunächst möchte ich mich noch einmal bedanken. Das Team war von Ihrer Präsentation des Projekts sehr angetan, besonders davon, wie Sie die Fehlerbehandlung erklärt haben. // 首先我想再次感谢您。团队对您的项目展示印象很好，尤其是您讲解错误处理的方式。
+H: Wir würden Sie deshalb gern zu einer zweiten Runde einladen. Diesmal wäre das Gespräch vor Ort in Hamburg und würde etwa einen halben Tag dauern. // 所以我们想邀请您参加第二轮。这次是在汉堡现场面试，大约半天。
+H: Dabei lernen Sie das Team kennen, und es gibt eine Pair-Programming-Aufgabe mit einem unserer Entwickler. // 届时您会认识团队，还有一个和我们一位开发人员结对编程的任务。
+H: Die Reisekosten übernehmen wir selbstverständlich. Bitte buchen Sie ein Bahnticket in der zweiten Klasse und schicken Sie uns anschließend die Rechnung. // 差旅费当然由我们承担。请预订二等座火车票，之后把发票寄给我们。
+H: Als Termine könnten wir den achtzehnten oder den zwanzigsten anbieten. Bitte geben Sie mir bis Freitag Bescheid, welcher Tag Ihnen besser passt. // 日期我们可以安排 18 号或 20 号。请在周五前告诉我哪天更合适。
+H: Sie erreichen mich unter der Nummer, von der ich gerade angerufen habe, oder per E-Mail. Ich wünsche Ihnen eine gute Woche. // 您可以拨打我刚才打来的号码，或者发邮件联系我。祝您一周愉快。
+---
+? Was hat dem Team besonders gefallen? => wie Herr Lin die Fehlerbehandlung erklärt hat | seine Deutschkenntnisse | sein Lebenslauf // besonders davon, wie Sie die Fehlerbehandlung erklärt haben
+? Wo findet die zweite Runde statt? => vor Ort in Hamburg | online | in Herrn Lins Stadt // vor Ort in Hamburg
+! In der zweiten Runde gibt es eine Programmieraufgabe zusammen mit einem Entwickler. => richtig // eine Pair-Programming-Aufgabe mit einem unserer Entwickler
+! Herr Lin muss die Reise selbst bezahlen. => falsch // Die Reisekosten übernehmen wir selbstverständlich.
+? Bis wann soll Herr Lin antworten? => bis Freitag | bis zum 18. | bis Montag // Bitte geben Sie mir bis Freitag Bescheid
++ angetan sein von // 对……有好感
++ vor Ort // 现场
++ die Reisekosten (Pl.) // 差旅费
++ übernehmen // 承担
++ anschließend // 随后
+
+=== l036 | B2 | 新闻 | Neue Regeln für die Blaue Karte | 欧盟蓝卡新规
+intro: 广播里关于欧盟蓝卡的一条新闻（示例内容，不代表最新法规）。
+voices: N=Katja:Nachrichtensprecherin
+N: Für ausländische Fachkräfte ist es in den vergangenen Jahren deutlich einfacher geworden, mit der Blauen Karte der EU in Deutschland zu arbeiten. // 近年来，外国专业人才持欧盟蓝卡在德国工作变得容易多了。
+N: Voraussetzung ist in der Regel ein Hochschulabschluss und ein Arbeitsvertrag mit einem Mindestgehalt, das jedes Jahr neu festgelegt wird. // 条件通常是有大学学历，以及一份达到最低工资标准的工作合同，最低工资每年重新确定。
+N: Für Berufe mit Fachkräftemangel sowie für Berufseinsteiger, deren Abschluss höchstens drei Jahre zurückliegt, gilt eine niedrigere Gehaltsgrenze. // 对于人才短缺的职业，以及毕业不超过三年的职场新人，适用较低的工资门槛。
+N: IT-Spezialisten können die Karte unter bestimmten Bedingungen sogar ohne Hochschulabschluss bekommen, wenn sie mehrjährige Berufserfahrung nachweisen. // IT 专家在一定条件下即使没有大学学历也能获得蓝卡，前提是能证明有多年工作经验。
+N: Wer die Blaue Karte besitzt und ausreichende Deutschkenntnisse auf dem Niveau B1 nachweist, kann bereits nach einundzwanzig Monaten eine Niederlassungserlaubnis beantragen, sonst nach siebenundzwanzig Monaten. // 持蓝卡并能证明有 B1 水平德语的人，21 个月后就可以申请永久居留，否则要 27 个月。
+N: Kritiker bemängeln allerdings, dass die Ausländerbehörden vielerorts überlastet seien. Wartezeiten von mehreren Monaten auf einen Termin seien keine Seltenheit. // 不过批评者指出，许多地方的外管局超负荷运转，等几个月才约到预约并不罕见。
+---
+? Was ist normalerweise eine Voraussetzung für die Blaue Karte? => ein Hochschulabschluss und ein Mindestgehalt | sehr gute Deutschkenntnisse | ein deutscher Ehepartner // ein Hochschulabschluss und ein Arbeitsvertrag mit einem Mindestgehalt
+? Für wen gilt eine niedrigere Gehaltsgrenze? => für Mangelberufe und Berufseinsteiger | für alle IT-Berufe | für Studierende // Für Berufe mit Fachkräftemangel sowie für Berufseinsteiger
+! IT-Spezialisten brauchen immer einen Hochschulabschluss. => falsch // unter bestimmten Bedingungen sogar ohne Hochschulabschluss
+? Wann kann man mit Deutsch B1 die Niederlassungserlaubnis beantragen? => nach 21 Monaten | nach 27 Monaten | nach drei Jahren // bereits nach einundzwanzig Monaten
+! Kritiker beklagen lange Wartezeiten bei den Behörden. => richtig // Wartezeiten von mehreren Monaten auf einen Termin seien keine Seltenheit.
++ die Voraussetzung, -en // 前提条件
++ zurückliegen // 已过去（多久）
++ nachweisen // 证明
++ die Niederlassungserlaubnis // 永久居留许可
++ bemängeln // 批评、指出不足
+
+=== l037 | B2 | 对话 | Code-Review mit dem Teamleiter | 和组长做代码评审
+intro: 一位新入职的开发人员和组长讨论自己的代码。
+voices: T=Conrad:Teamleiter, E=Killian:Entwickler
+T: Ich habe mir deinen Pull Request angesehen. Die Funktion macht, was sie soll, aber ich habe ein paar Anmerkungen. // 我看了你的合并请求。功能是对的，但我有几点意见。
+E: Gern, ich bin ja noch neu im Projekt. // 好的，我在项目里还是新人。
+T: Erstens: Du rufst den externen Zahlungsdienst innerhalb der Datenbanktransaktion auf. Wenn der Dienst langsam antwortet, blockieren wir die ganze Zeit eine Datenbankverbindung. // 第一：你在数据库事务里面调用外部支付服务。如果服务响应慢，我们整个时间都占着一个数据库连接。
+E: Stimmt, daran habe ich nicht gedacht. Ich könnte zuerst den Auftrag speichern, die Transaktion abschließen und den Dienst danach aufrufen. // 对，我没想到。我可以先保存订单，结束事务，再调用服务。
+T: Genau. Und denk an einen Timeout. Ohne Timeout kann eine Anfrage im schlimmsten Fall minutenlang hängen. // 对。还要考虑超时。没有超时的话，一个请求最坏情况下会挂好几分钟。
+E: Okay. Und zweitens? // 好的。那第二点呢？
+T: Die Tests decken nur den Erfolgsfall ab. Was passiert, wenn der Zahlungsdienst einen Fehler zurückgibt oder wenn dieselbe Anfrage zweimal kommt? // 测试只覆盖了成功的情况。如果支付服务返回错误，或者同一个请求来了两次，会怎样？
+E: Dann würde die Zahlung zweimal ausgelöst. Ich könnte einen Idempotenzschlüssel mitschicken. // 那支付会被触发两次。我可以带上一个幂等键。
+T: Sehr gut. Schreib bitte für beide Fälle Tests, dann schaue ich es mir morgen noch einmal an. Ansonsten ist der Code sauber und gut lesbar. // 很好。请为这两种情况写测试，明天我再看一遍。除此之外代码很干净，可读性很好。
+---
+? Was ist das erste Problem im Code? => Ein externer Dienst wird innerhalb der Transaktion aufgerufen. | Die Funktion ist falsch. | Der Code ist schlecht lesbar. // Du rufst den externen Zahlungsdienst innerhalb der Datenbanktransaktion auf.
+? Was schlägt der Entwickler vor? => erst speichern, dann den Dienst aufrufen | die Datenbank wechseln | den Dienst gar nicht mehr nutzen // Ich könnte zuerst den Auftrag speichern, die Transaktion abschließen und den Dienst danach aufrufen.
+! Der Teamleiter meint, ein Timeout ist nicht nötig. => falsch // Und denk an einen Timeout.
+? Welche Fälle fehlen in den Tests? => Fehler des Dienstes und doppelte Anfragen | der Erfolgsfall | die Lesbarkeit // wenn der Zahlungsdienst einen Fehler zurückgibt oder wenn dieselbe Anfrage zweimal kommt
+! Insgesamt findet der Teamleiter den Code gut lesbar. => richtig // Ansonsten ist der Code sauber und gut lesbar.
++ die Anmerkung, -en // 意见、批注
++ abschließen // 结束、完成
++ abdecken // 覆盖
++ auslösen // 触发
++ ansonsten // 除此之外
+
+=== l038 | B2 | 独白 | Mein Weg nach Deutschland | 我来德国的路
+intro: 一位在德国工作的工程师在活动上讲自己的经历。
+voices: S=Amala:Priya
+S: Als ich vor sechs Jahren nach Deutschland kam, konnte ich genau zwei Sätze Deutsch: „Danke“ und „Ein Bier, bitte“. // 六年前我来德国时，只会两句德语：“谢谢”和“请来一杯啤酒”。
+S: Mein Masterstudium war auf Englisch, und am Anfang dachte ich, dass ich die Sprache gar nicht brauche. Das war ein Irrtum. // 我的硕士是英语授课，一开始我以为根本不需要德语。这是个误会。
+S: Spätestens bei der Jobsuche habe ich gemerkt, dass mir viele Türen verschlossen bleiben. Selbst bei internationalen Firmen wurde im Vorstellungsgespräch plötzlich nach meinem Deutsch gefragt. // 最晚在找工作时我意识到，很多门对我是关着的。即使是国际公司，面试中也会突然问我的德语水平。
+S: Also habe ich neben der Masterarbeit jeden Morgen eine Stunde Deutsch gelernt – mit einer App für Vokabeln, mit Podcasts auf dem Weg zur Uni und abends mit einem Tandempartner. // 于是我在写硕士论文的同时，每天早上学一小时德语——用 app 背单词，去学校路上听播客，晚上和语伴练习。
+S: Nach einem Jahr hatte ich das B2-Zertifikat. Ehrlich gesagt war das anstrengender als jede Prüfung im Studium. // 一年后我拿到了 B2 证书。说实话，这比学业中任何一场考试都累。
+S: Meine erste Stelle habe ich nach fünf Monaten Suche und hundertzwanzig Bewerbungen gefunden, bei einem mittelständischen Unternehmen auf der Schwäbischen Alb. Kein glamouröser Ort, aber ein Team, das sich viel Zeit für meine Einarbeitung genommen hat. // 找了五个月、投了一百二十份申请后，我在施瓦本山区一家中型企业找到了第一份工作。地方不光鲜，但团队花了很多时间带我入门。
+S: Mein Rat: Rechnet damit, dass es länger dauert, als ihr denkt. Und gebt nicht nach den ersten fünfzig Absagen auf. // 我的建议：要做好比你想象的更久的准备。不要在前五十次被拒后就放弃。
+---
+? Wie viel Deutsch konnte Priya am Anfang? => fast nichts | B1 | sehr gut // genau zwei Sätze Deutsch
+! Priya hat schnell gemerkt, dass sie Deutsch für die Uni braucht. => falsch // 硕士是英语授课；她是在找工作时才意识到的。
+? Wie hat Priya Deutsch gelernt? => mit App, Podcasts und einem Tandempartner | nur in einem Intensivkurs | im Job // mit einer App …, mit Podcasts … und abends mit einem Tandempartner
+? Wie lange hat ihre Jobsuche gedauert? => fünf Monate | ein Jahr | sechs Jahre // nach fünf Monaten Suche
+! Priya findet, man sollte nach vielen Absagen nicht aufgeben. => richtig // gebt nicht nach den ersten fünfzig Absagen auf
++ der Irrtum, ¨-er // 错误、误会
++ spätestens // 最晚
++ verschlossen // 关闭的
++ anstrengend // 累人的
++ rechnen mit // 预计、做好……的准备
+
+=== l039 | B2 | 讲座 | Datenschutz im Alltag | 日常生活中的数据保护
+intro: 消费者中心关于数据保护的讲座片段。
+voices: D=Jonas:Datenschutzberater
+D: Die Datenschutz-Grundverordnung, kurz DSGVO, gilt seit 2018 in der gesamten Europäischen Union. Sie gibt Ihnen als Verbraucher eine Reihe von Rechten, die viele Menschen nicht kennen. // 《通用数据保护条例》，简称 DSGVO，自 2018 年起在整个欧盟生效。它赋予消费者一系列很多人不知道的权利。
+D: Das wichtigste ist das Auskunftsrecht: Jedes Unternehmen muss Ihnen auf Anfrage mitteilen, welche Daten es über Sie gespeichert hat, wofür es sie nutzt und an wen es sie weitergibt. In der Regel innerhalb eines Monats und kostenlos. // 最重要的是知情权：每家公司都必须应您的要求告知存储了您哪些数据、用于什么目的、提供给了谁。一般在一个月内且免费。
+D: Sie können außerdem verlangen, dass falsche Daten korrigiert und nicht mehr benötigte Daten gelöscht werden. // 您还可以要求更正错误数据、删除不再需要的数据。
+D: Bei Cookie-Bannern gilt: Das Ablehnen muss genauso einfach sein wie das Zustimmen. Wenn eine Webseite das versteckt, verstößt sie gegen die Regeln. // 关于 Cookie 弹窗：拒绝必须和同意一样简单。如果网站把拒绝藏起来，就违反了规定。
+D: Ein häufiger Irrtum betrifft Bewerbungen: Wenn Sie abgelehnt werden, darf das Unternehmen Ihre Unterlagen nicht unbegrenzt aufbewahren. Üblich sind etwa sechs Monate, danach müssen sie gelöscht werden – es sei denn, Sie haben zugestimmt, dass man Sie für spätere Stellen berücksichtigt. // 一个常见误区涉及求职：如果您被拒，公司不能无限期保存您的材料。通常约六个月，之后必须删除——除非您同意他们在之后的职位中考虑您。
+D: Wenn ein Unternehmen nicht reagiert, können Sie sich bei der Datenschutzbehörde Ihres Bundeslandes beschweren. Das ist ebenfalls kostenlos. // 如果公司不回应，您可以向所在州的数据保护机构投诉，同样免费。
+---
+? Was muss ein Unternehmen beim Auskunftsrecht mitteilen? => welche Daten es speichert, wofür und an wen | nur den Namen | sein Firmenbudget // welche Daten es über Sie gespeichert hat, wofür es sie nutzt und an wen es sie weitergibt
+! Eine Auskunft kostet normalerweise eine Gebühr. => falsch // In der Regel innerhalb eines Monats und kostenlos.
+? Was gilt für Cookie-Banner? => Ablehnen muss so einfach sein wie Zustimmen. | Man muss immer zustimmen. | Cookie-Banner sind verboten. // Das Ablehnen muss genauso einfach sein wie das Zustimmen.
+? Wie lange werden Bewerbungsunterlagen nach einer Absage meist aufbewahrt? => etwa sechs Monate | für immer | einen Monat // Üblich sind etwa sechs Monate
+! Man kann sich kostenlos bei der Datenschutzbehörde beschweren. => richtig // Das ist ebenfalls kostenlos.
++ die Auskunft, ¨-e // 信息、答复
++ verlangen // 要求
++ verstoßen gegen // 违反
++ aufbewahren // 保存
++ sich beschweren // 投诉

@@ -1,0 +1,233 @@
+=== l010 | A2 | 电话 | Eine Wohnung besichtigen | 打电话约看房
+intro: 一位学生打电话给房东，想看一套出租的公寓。
+voices: V=Ingrid:Vermieterin, M=Conrad:Mieter
+V: Schneider, guten Tag. // 我是施耐德，您好。
+M: Guten Tag, Frau Schneider. Ich rufe wegen der Wohnung in der Gartenstraße an. Ist sie noch frei? // 您好，施耐德女士。我打电话是为了花园街那套公寓。还空着吗？
+V: Ja, die Zwei-Zimmer-Wohnung ist noch frei. Sie ist ab dem ersten Dezember frei. // 是的，那套两居室还空着，十二月一日起可以入住。
+M: Wie hoch ist die Miete? // 房租多少？
+V: Die Kaltmiete ist sechshundertzwanzig Euro, dazu kommen etwa hundertfünfzig Euro Nebenkosten. // 冷租 620 欧，另外还有大约 150 欧的杂费。
+M: Und gibt es eine Kaution? // 有押金吗？
+V: Ja, drei Monatsmieten. Die Wohnung liegt im zweiten Stock, und es gibt einen kleinen Balkon. // 有，三个月的房租。公寓在三楼（二层），有一个小阳台。
+M: Das klingt gut. Kann ich die Wohnung ansehen? // 听起来不错。我可以去看房吗？
+V: Am Donnerstag um achtzehn Uhr zeige ich sie mehreren Interessenten. Passt Ihnen das? // 周四晚上六点我带几位感兴趣的人一起看。您方便吗？
+M: Ja, das passt. Soll ich etwas mitbringen? // 方便。我需要带什么吗？
+V: Bitte bringen Sie eine Kopie Ihres Ausweises und eine Bescheinigung über Ihr Einkommen mit. // 请带上您的证件复印件和收入证明。
+---
+? Wie viele Zimmer hat die Wohnung? => zwei | drei | eins // die Zwei-Zimmer-Wohnung
+? Wie hoch sind die Nebenkosten ungefähr? => 150 Euro | 620 Euro | 770 Euro // etwa hundertfünfzig Euro Nebenkosten
+! Die Kaution ist eine Monatsmiete. => falsch // drei Monatsmieten
+! Der Mieter sieht die Wohnung allein an. => falsch // 周四房东会带好几位感兴趣的人一起看（mehreren Interessenten）。
+? Was soll der Mieter mitbringen? => eine Ausweiskopie und einen Einkommensnachweis | den Mietvertrag | die Kaution in bar // eine Kopie Ihres Ausweises und eine Bescheinigung über Ihr Einkommen
++ die Kaltmiete // 冷租（不含暖气和杂费）
++ die Nebenkosten (Pl.) // 杂费（水、垃圾、楼道清洁等）
++ die Kaution, -en // 押金
++ der Interessent, -en // 感兴趣的人、看房者
+
+=== l011 | A2 | 留言 | Nachricht vom Paketdienst | 快递留言
+intro: 你回家后听到电话答录机上的一条留言。
+voices: P=Killian:Paketdienst
+P: Guten Tag, hier ist der Paketdienst Schnell und Sicher. // 您好，这里是“又快又安全”快递公司。
+P: Wir wollten Ihnen heute um elf Uhr ein Paket bringen, aber Sie waren leider nicht zu Hause. // 我们今天 11 点想给您送一个包裹，但很遗憾您不在家。
+P: Ihr Nachbar, Herr Wolf, war auch nicht da. // 您的邻居沃尔夫先生也不在。
+P: Deshalb haben wir das Paket in die Filiale in der Bahnhofstraße gebracht. // 所以我们把包裹送到了火车站街的营业点。
+P: Sie können es ab morgen um zehn Uhr dort abholen. // 您明天十点起可以去那里取。
+P: Die Filiale hat von Montag bis Samstag geöffnet, aber nicht am Sonntag. // 营业点周一到周六营业，周日不开。
+P: Bitte bringen Sie die Benachrichtigungskarte aus Ihrem Briefkasten und Ihren Ausweis mit. // 请带上信箱里的取件通知卡和您的证件。
+P: Das Paket bleibt sieben Tage in der Filiale. Danach geht es zurück an den Absender. // 包裹在营业点保留七天，之后会退回给寄件人。
+---
+? Wo ist das Paket jetzt? => in der Filiale in der Bahnhofstraße | beim Nachbarn | im Briefkasten // in die Filiale in der Bahnhofstraße gebracht
+? Ab wann kann man das Paket abholen? => ab morgen um 10 Uhr | ab heute um 11 Uhr | ab Sonntag // ab morgen um zehn Uhr
+! Herr Wolf hat das Paket angenommen. => falsch // 邻居也不在（war auch nicht da）。
+! Man braucht den Ausweis und die Karte aus dem Briefkasten. => richtig // die Benachrichtigungskarte … und Ihren Ausweis
+? Was passiert nach sieben Tagen? => Das Paket geht zurück an den Absender. | Das Paket kommt noch einmal. | Man muss extra bezahlen. // Danach geht es zurück an den Absender.
++ die Filiale, -n // 营业点、分店
++ abholen // 取（东西）
++ die Benachrichtigung // 通知
++ der Absender, - // 寄件人
+
+=== l012 | A2 | 对话 | Beim Bürgeramt | 在市民办事处
+intro: 一位刚搬家的人去市民办事处登记新地址。
+voices: B=Katja:Beamtin, M=Florian:Herr Chen
+B: Guten Morgen. Haben Sie einen Termin? // 早上好。您有预约吗？
+M: Ja, um neun Uhr zwanzig. Ich möchte meine neue Adresse anmelden. // 有，九点二十。我想登记新地址。
+B: Gut. Wann sind Sie umgezogen? // 好的。您什么时候搬的家？
+M: Am ersten November. Ich wohne jetzt in der Seestraße zwölf. // 十一月一日。我现在住在湖街 12 号。
+B: Haben Sie die Wohnungsgeberbestätigung dabei? // 您带了房东出具的入住证明吗？
+M: Ja, hier ist sie. Mein Vermieter hat sie letzte Woche unterschrieben. // 带了，在这里。我的房东上周签的字。
+B: Und Ihren Pass, bitte. … Danke. Sie kommen aus China, richtig? // 请出示您的护照。……谢谢。您来自中国，对吗？
+M: Ja, genau. Muss ich auch meinen Aufenthaltstitel zeigen? // 对。我也要出示居留许可吗？
+B: Ja, bitte. … So, alles ist fertig. Hier ist Ihre Meldebescheinigung. // 是的，请出示。……好了，都办完了。这是您的登记证明。
+M: Kostet das etwas? // 要收费吗？
+B: Nein, die Anmeldung ist kostenlos. Aber denken Sie daran: Sie müssen auch der Ausländerbehörde Ihre neue Adresse mitteilen. // 不收费。但请记住：您还得把新地址告诉外管局。
+---
+? Warum ist Herr Chen beim Bürgeramt? => Er möchte seine neue Adresse anmelden. | Er braucht einen neuen Pass. | Er sucht eine Wohnung. // Ich möchte meine neue Adresse anmelden.
+? Was hat der Vermieter unterschrieben? => die Wohnungsgeberbestätigung | den Pass | die Meldebescheinigung // Mein Vermieter hat sie letzte Woche unterschrieben.
+! Die Anmeldung kostet zehn Euro. => falsch // die Anmeldung ist kostenlos
+! Herr Chen muss die neue Adresse auch der Ausländerbehörde sagen. => richtig // Sie müssen auch der Ausländerbehörde Ihre neue Adresse mitteilen.
+? Wann ist Herr Chen umgezogen? => am 1. November | am 12. November | letzte Woche // Am ersten November.
++ anmelden // 登记（住址）
++ umziehen (ist umgezogen) // 搬家
++ die Wohnungsgeberbestätigung // 房东入住证明
++ der Aufenthaltstitel, - // 居留许可
++ mitteilen // 告知、通知
+
+=== l013 | A2 | 广播 | Im Supermarkt | 超市广播
+intro: 你在超市购物时听到一条广播。
+voices: A=Seraphina:Durchsage
+A: Liebe Kundinnen und Kunden, herzlich willkommen bei Frischmarkt! // 亲爱的顾客们，欢迎光临 Frischmarkt！
+A: Heute haben wir tolle Angebote für Sie. // 今天我们为您准备了超值优惠。
+A: In unserer Obstabteilung kostet ein Kilo Äpfel aus der Region nur ein Euro neunundvierzig. // 在水果区，一公斤本地苹果只要 1.49 欧。
+A: Alle Joghurts gibt es heute zum halben Preis. // 所有酸奶今天半价。
+A: Und an unserer Fleischtheke bekommen Sie beim Kauf von zwei Packungen Hähnchenbrust eine dritte gratis. // 在肉类柜台，买两盒鸡胸肉送一盒。
+A: Bitte beachten Sie: Unser Markt schließt heute schon um achtzehn Uhr, weil morgen ein Feiertag ist. // 请注意：因为明天是节假日，本店今天 18 点就关门。
+A: Am Feiertag bleibt der Markt geschlossen. // 节假日当天不营业。
+A: Wir wünschen Ihnen einen schönen Einkauf! // 祝您购物愉快！
+---
+? Wie viel kostet ein Kilo Äpfel? => 1,49 € | 1,94 € | 0,49 € // nur ein Euro neunundvierzig
+! Joghurts kosten heute die Hälfte. => richtig // zum halben Preis
+? Was bekommt man gratis? => eine dritte Packung Hähnchenbrust | einen Joghurt | ein Kilo Äpfel // eine dritte gratis
+! Der Supermarkt ist morgen offen. => falsch // Am Feiertag bleibt der Markt geschlossen.
+? Warum schließt der Markt heute früher? => Morgen ist ein Feiertag. | Es gibt keine Waren mehr. | Die Mitarbeiter haben ein Fest. // weil morgen ein Feiertag ist
++ das Angebot, -e // 优惠、特价
++ zum halben Preis // 半价
++ gratis // 免费
++ der Feiertag, -e // 节假日
+
+=== l014 | A2 | 对话 | Mit der Kollegin über das Wochenende | 和同事聊周末
+intro: 周一早上，两位同事在办公室厨房聊天。
+voices: A=Amala:Anna, B=Jonas:Ben
+A: Morgen, Ben! Wie war dein Wochenende? // 早，本！周末过得怎么样？
+B: Hallo Anna! Sehr schön, danke. Ich war mit meiner Freundin in München. // 你好安娜！很好，谢谢。我和女朋友去了慕尼黑。
+A: Ach, toll! Was habt ihr dort gemacht? // 哇，真好！你们在那儿干了什么？
+B: Am Samstag sind wir durch die Altstadt gelaufen und haben ein Museum besucht. Am Abend haben wir Freunde getroffen. // 周六我们逛了老城，参观了一个博物馆。晚上见了朋友。
+A: Und das Wetter? Hier hat es das ganze Wochenende geregnet. // 天气呢？这里整个周末都在下雨。
+B: In München war es sonnig, aber ziemlich kalt. Und du? Was hast du gemacht? // 慕尼黑是晴天，但挺冷的。你呢？你干什么了？
+A: Nicht viel. Ich bin zu Hause geblieben, weil ich erkältet war. Ich habe viel geschlafen und Serien geschaut. // 没干什么。我感冒了，所以待在家里。睡了很多觉，看了剧。
+B: Oh, geht es dir jetzt besser? // 哦，你现在好点了吗？
+A: Ja, viel besser. Ich habe nur noch ein bisschen Schnupfen. // 好多了，只是还有点流鼻涕。
+B: Dann trink viel Tee! Sollen wir in der Mittagspause zusammen in die Kantine gehen? // 那多喝茶！午休时一起去食堂吗？
+A: Gern, um zwölf? // 好呀，十二点？
+---
+? Wo war Ben am Wochenende? => in München | zu Hause | in einem Hotel am See // Ich war mit meiner Freundin in München.
+! In München hat es geregnet. => falsch // 慕尼黑是晴天（sonnig），下雨的是他们这里。
+? Warum ist Anna zu Hause geblieben? => Sie war erkältet. | Es hat geregnet. | Sie musste arbeiten. // weil ich erkältet war
+! Anna geht es jetzt viel besser. => richtig // Ja, viel besser.
+? Was machen die beiden in der Mittagspause? => Sie gehen zusammen in die Kantine. | Sie trinken Tee im Büro. | Sie gehen ins Museum. // Sollen wir in der Mittagspause zusammen in die Kantine gehen? – Gern.
++ erkältet sein // 感冒了
++ der Schnupfen // 流鼻涕、鼻炎
++ die Kantine, -n // 员工食堂
++ ziemlich // 相当、挺
+
+=== l015 | A2 | 广播 | Wetterbericht | 天气预报
+intro: 收音机里的周末天气预报。
+voices: W=Florian:Wettermoderator
+W: Und jetzt das Wetter für das Wochenende in Baden-Württemberg. // 下面是巴登-符腾堡州的周末天气。
+W: Am Freitag ist es noch freundlich: viel Sonne bei Temperaturen bis zu zwölf Grad. // 周五天气还不错：阳光充足，最高气温 12 度。
+W: In der Nacht zum Samstag kommen von Westen Wolken und Regen. // 周五夜里，云和雨从西边移来。
+W: Am Samstag regnet es fast überall, und es wird deutlich kühler: höchstens sieben Grad. // 周六几乎到处下雨，气温明显下降：最高只有 7 度。
+W: Am Bodensee kann es auch Sturm geben. Bitte seien Sie vorsichtig. // 博登湖地区还可能有大风，请注意安全。
+W: Am Sonntag bleibt es kalt, aber es ist meistens trocken. // 周日仍然冷，但大部分地区干燥无雨。
+W: Im Schwarzwald fällt oberhalb von achthundert Metern der erste Schnee. // 黑森林海拔 800 米以上将迎来初雪。
+---
+? Wie ist das Wetter am Freitag? => sonnig, bis 12 Grad | regnerisch, 7 Grad | Schnee im Schwarzwald // viel Sonne bei Temperaturen bis zu zwölf Grad
+? Wann wird es regnerisch und kühler? => am Samstag | am Freitag | am Sonntag // Am Samstag regnet es fast überall
+! Am Bodensee kann es am Samstag Sturm geben. => richtig // Am Bodensee kann es auch Sturm geben.
+! Am Sonntag regnet es den ganzen Tag. => falsch // meistens trocken
+? Wo fällt Schnee? => im Schwarzwald über 800 Metern | am Bodensee | überall in Baden-Württemberg // Im Schwarzwald fällt oberhalb von achthundert Metern der erste Schnee.
++ freundlich (Wetter) // （天气）晴好
++ deutlich // 明显地
++ trocken // 干燥的、无雨的
++ oberhalb von // 在……以上
+
+=== l016 | A2 | 独白 | Mein neuer Job | 我的新工作
+intro: 一位女士讲她刚开始的新工作。
+voices: S=Seraphina:Sara
+S: Seit zwei Monaten arbeite ich in einer kleinen Firma in Konstanz. // 我在康斯坦茨一家小公司工作两个月了。
+S: Die Firma entwickelt Software für Hotels. // 这家公司为酒店开发软件。
+S: Vorher habe ich in einem Callcenter gearbeitet, aber das hat mir nicht gefallen. // 之前我在呼叫中心工作，但我不喜欢。
+S: Jetzt bin ich im Kundenservice: Ich beantworte E-Mails und helfe den Hotels, wenn das Programm nicht funktioniert. // 现在我在客服部门：回复邮件，在程序出问题时帮助酒店。
+S: Meine Kollegen sind sehr nett, und mein Chef ist jung und locker. // 同事们很友善，老板年轻随和。
+S: Ich arbeite dreißig Stunden pro Woche, von Montag bis Donnerstag. // 我每周工作 30 小时，周一到周四。
+S: Am Freitag habe ich frei. Dann mache ich einen Deutschkurs, denn ich möchte bald die B1-Prüfung machen. // 周五我休息，去上德语课，因为我想很快考 B1。
+S: Das Einzige, was mir nicht so gefällt, ist der Weg zur Arbeit. Mit dem Bus brauche ich fast eine Stunde. // 唯一不太满意的是上班的路，坐公交差不多要一个小时。
+---
+? Was macht Saras Firma? => Software für Hotels | Hotels in Konstanz | ein Callcenter // Die Firma entwickelt Software für Hotels.
+? Was macht Sara bei der Arbeit? => Sie hilft Kunden per E-Mail. | Sie programmiert. | Sie arbeitet an der Hotelrezeption. // Ich beantworte E-Mails und helfe den Hotels
+! Sara arbeitet fünf Tage pro Woche. => falsch // von Montag bis Donnerstag，周五休息。
+! Am Freitag lernt Sara Deutsch. => richtig // Dann mache ich einen Deutschkurs
+? Was gefällt Sara nicht? => der lange Weg zur Arbeit | ihr Chef | die Kollegen // Mit dem Bus brauche ich fast eine Stunde.
++ entwickeln // 开发
++ der Kundenservice // 客服
++ locker // 随和、轻松
++ frei haben // 休息、不上班
+
+=== l017 | A2 | 电话 | Krankmeldung | 打电话请病假
+intro: 一位员工早上打电话给公司请病假。
+voices: F=Katja:Frau Huber, M=Killian:Herr Novak
+F: Firma Bergmann, Huber am Apparat. // 贝格曼公司，我是胡贝尔。
+M: Guten Morgen, Frau Huber, hier ist Novak aus der IT. // 早上好，胡贝尔女士，我是 IT 部的诺瓦克。
+M: Ich kann heute leider nicht zur Arbeit kommen. Ich habe hohes Fieber und Kopfschmerzen. // 很遗憾我今天不能来上班了，我发高烧，还头疼。
+F: Oh, das tut mir leid. Waren Sie schon beim Arzt? // 哦，真遗憾。您看过医生了吗？
+M: Nein, ich habe um zehn Uhr einen Termin. Ich bringe dann eine Krankmeldung. // 还没有，我十点有预约。之后我会提交病假证明。
+F: Gut. Sie können die Krankmeldung auch per E-Mail schicken. Wissen Sie schon, wie lange Sie krank sind? // 好的。病假证明也可以发邮件。您知道要病多久吗？
+M: Wahrscheinlich bis Freitag. Ich sage Ihnen nach dem Arztbesuch Bescheid. // 可能到周五。看完医生我再告诉您。
+F: In Ordnung. Haben Sie heute wichtige Termine? // 好的。您今天有重要的会吗？
+M: Ja, um vierzehn Uhr ein Meeting mit Herrn Krause. Können Sie ihm bitte sagen, dass ich nicht kommen kann? // 有，下午两点和克劳泽先生开会。您能告诉他我来不了吗？
+F: Natürlich. Gute Besserung, Herr Novak! // 当然。祝您早日康复，诺瓦克先生！
+---
+? Warum ruft Herr Novak an? => Er ist krank. | Er hat einen Termin beim Chef. | Sein Computer ist kaputt. // Ich habe hohes Fieber und Kopfschmerzen.
+? Wann geht er zum Arzt? => um 10 Uhr | um 14 Uhr | am Freitag // ich habe um zehn Uhr einen Termin
+! Er kann die Krankmeldung per E-Mail schicken. => richtig // Sie können die Krankmeldung auch per E-Mail schicken.
+? Was soll Frau Huber für ihn machen? => Herrn Krause Bescheid sagen | einen Arzt anrufen | das Meeting leiten // Können Sie ihm bitte sagen, dass ich nicht kommen kann?
+! Herr Novak ist sicher nur einen Tag krank. => falsch // 他说可能到周五（wahrscheinlich bis Freitag），看完医生再告知。
++ die Krankmeldung // 病假证明、请病假
++ Bescheid sagen // 通知、告知
++ am Apparat // （电话里）我就是……
++ Gute Besserung! // 祝早日康复！
+
+=== l018 | A2 | 对话 | Am Fahrkartenautomaten | 在售票机前
+intro: 一位游客在火车站请一位路人帮忙买票。
+voices: T=Conrad:Tourist, F=Amala:Frau
+T: Entschuldigung, können Sie mir helfen? Ich verstehe den Automaten nicht. // 打扰一下，您能帮帮我吗？我不会用这个售票机。
+F: Natürlich. Wohin möchten Sie fahren? // 当然。您想去哪儿？
+T: Nach Singen und morgen zurück. // 去辛根，明天回来。
+F: Dann ist ein Tagesticket nicht gut. Kaufen Sie lieber eine Hin- und Rückfahrkarte. // 那日票不合适，您最好买往返票。
+F: Sie drücken hier auf „Fahrkarten“ und geben dann das Ziel ein: S-I-N-G-E-N. // 您在这里按“车票”，然后输入目的地：辛根。
+T: Ah, jetzt sehe ich es. Erste oder zweite Klasse? // 啊，现在看到了。一等座还是二等座？
+F: Die zweite Klasse ist billiger, und der Zug ist morgens nicht so voll. // 二等座便宜一些，早上车也不太挤。
+T: Und wie bezahle ich? Ich habe nur einen Fünfzig-Euro-Schein. // 我怎么付钱？我只有一张五十欧的钞票。
+F: Kein Problem, der Automat nimmt Scheine bis fünfzig Euro und gibt Wechselgeld. Sie können aber auch mit Karte zahlen. // 没问题，机器收五十欧以下的纸币，会找零。您也可以刷卡。
+T: Super. Und muss ich die Fahrkarte noch stempeln? // 太好了。车票还需要打卡吗？
+F: Nein, die ist schon gültig. Gute Reise! // 不用，已经生效了。旅途愉快！
+---
+? Was möchte der Tourist kaufen? => eine Hin- und Rückfahrkarte nach Singen | ein Tagesticket | eine Monatskarte // Kaufen Sie lieber eine Hin- und Rückfahrkarte.
+? Welche Klasse empfiehlt die Frau? => die zweite Klasse | die erste Klasse | Sie sagt nichts dazu. // Die zweite Klasse ist billiger
+! Der Automat nimmt keine Scheine. => falsch // nimmt Scheine bis fünfzig Euro
+! Man muss die Fahrkarte nicht stempeln. => richtig // Nein, die ist schon gültig.
+? Wann fährt der Tourist zurück? => morgen | heute Abend | nächste Woche // Nach Singen und morgen zurück.
++ die Hin- und Rückfahrkarte // 往返票
++ eingeben // 输入
++ das Wechselgeld // 找零
++ gültig // 有效的
+
+=== l019 | A2 | 留言 | Einladung zur Geburtstagsfeier | 生日聚会邀请
+intro: 朋友给你发了一条语音消息。
+voices: L=Amala:Lena
+L: Hi, hier ist Lena! Ich hoffe, dir geht's gut. // 嗨，我是莉娜！希望你一切都好。
+L: Am Samstag werde ich dreißig, und ich mache eine kleine Party. // 周六我三十岁生日，要办个小派对。
+L: Die Feier beginnt um sieben Uhr abends bei mir zu Hause. Meine neue Adresse ist Hafenstraße acht, im dritten Stock. // 派对晚上七点在我家开始。我的新地址是港口街 8 号，四楼（三层）。
+L: Du musst nichts mitbringen, ich koche Chili, auch eine vegetarische Version. // 你什么都不用带，我做辣肉酱，也有素食版。
+L: Aber wenn du möchtest, kannst du etwas zu trinken mitbringen. // 不过你愿意的话，可以带点喝的。
+L: Ach, und bitte kein Geschenk! Ich habe wirklich alles. // 哦对了，请别送礼物！我真的什么都有了。
+L: Kannst du mir bis Donnerstag Bescheid sagen, ob du kommst? Dann weiß ich, wie viel ich kochen muss. // 你能在周四之前告诉我来不来吗？这样我知道要做多少饭。
+L: Ich freue mich auf dich. Tschüss! // 期待见到你。拜拜！
+---
+? Warum macht Lena eine Party? => Sie hat Geburtstag. | Sie ist umgezogen. | Sie hat einen neuen Job. // Am Samstag werde ich dreißig
+? Wann beginnt die Party? => am Samstag um 19 Uhr | am Donnerstag um 19 Uhr | am Samstag um 17 Uhr // um sieben Uhr abends
+! Lena kocht auch für Vegetarier. => richtig // auch eine vegetarische Version
+! Lena wünscht sich ein Buch. => falsch // bitte kein Geschenk
+? Bis wann soll man antworten? => bis Donnerstag | bis Samstag | bis morgen // Kannst du mir bis Donnerstag Bescheid sagen
++ die Feier, -n // 庆祝会、聚会
++ vegetarisch // 素食的
++ sich freuen auf + Akk. // 期待（将来的事）
++ Bescheid sagen // 告知
