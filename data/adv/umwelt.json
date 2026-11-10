@@ -1,0 +1,10362 @@
+[
+ {
+  "lv": "B2",
+  "lemma": "Klimawandel",
+  "art": "der",
+  "pos": "n",
+  "zh": "气候变化",
+  "ex": [
+   "Der Klimawandel betrifft in Zukunft auch Länder in Mitteleuropa stark."
+  ],
+  "ex_zh": "气候变化将来也会严重影响中欧国家。",
+  "use": {
+   "col": [
+    [
+     "den Klimawandel bekämpfen",
+     "应对气候变化"
+    ],
+    [
+     "die Folgen des Klimawandels",
+     "气候变化的后果"
+    ]
+   ],
+   "tip": "也说 Klimakrise；复合词，没有复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Erderwärmung",
+  "art": "die",
+  "pos": "n",
+  "zh": "全球变暖",
+  "ex": [
+   "Die Erderwärmung lässt die Gletscher in den Alpen immer schneller schmelzen."
+  ],
+  "ex_zh": "全球变暖让阿尔卑斯山的冰川融化得越来越快。",
+  "use": {
+   "col": [
+    [
+     "die globale Erderwärmung",
+     "全球变暖"
+    ],
+    [
+     "die Erderwärmung aufhalten",
+     "遏制全球变暖"
+    ]
+   ],
+   "tip": "同义：die globale Erwärmung；没有复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Treibhausgas",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Treibhausgase",
+  "zh": "温室气体",
+  "ex": [
+   "Die Industrie muss ihren Ausstoß an Treibhausgasen deutlich senken."
+  ],
+  "ex_zh": "工业必须明显减少温室气体的排放量。",
+  "use": {
+   "col": [
+    [
+     "Treibhausgase ausstoßen",
+     "排放温室气体"
+    ],
+    [
+     "den Ausstoß von Treibhausgasen senken",
+     "减少温室气体排放"
+    ]
+   ],
+   "tip": "最主要的是 Kohlendioxid 和 Methan"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Emission",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Emissionen",
+  "zh": "排放（物）",
+  "ex": [
+   "Die Emissionen im Verkehrssektor sind in den letzten Jahren kaum gesunken."
+  ],
+  "ex_zh": "交通领域的排放这几年几乎没有下降。",
+  "use": {
+   "col": [
+    [
+     "Emissionen senken",
+     "减少排放"
+    ],
+    [
+     "die CO2-Emissionen",
+     "二氧化碳排放"
+    ]
+   ],
+   "tip": "多用复数；比 Abgase 更书面、范围更广"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kohlendioxid",
+  "art": "das",
+  "pos": "n",
+  "zh": "二氧化碳",
+  "ex": [
+   "Bäume nehmen Kohlendioxid aus der Luft auf und speichern es in ihrem Holz."
+  ],
+  "ex_zh": "树木从空气中吸收二氧化碳并储存在木头里。",
+  "use": {
+   "col": [
+    [
+     "Kohlendioxid ausstoßen",
+     "排放二氧化碳"
+    ],
+    [
+     "der Kohlendioxidgehalt der Luft",
+     "空气中的二氧化碳含量"
+    ]
+   ],
+   "tip": "缩写 CO₂，口语读 „ce o zwei“；没有复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Klimaschutz",
+  "art": "der",
+  "pos": "n",
+  "zh": "气候保护",
+  "ex": [
+   "Die Stadt investiert jedes Jahr viel Geld in den Klimaschutz."
+  ],
+  "ex_zh": "这座城市每年都在气候保护上投入大量资金。",
+  "use": {
+   "col": [
+    [
+     "sich für den Klimaschutz einsetzen",
+     "致力于气候保护"
+    ],
+    [
+     "ein Klimaschutzgesetz",
+     "气候保护法"
+    ]
+   ],
+   "tip": "侧重减排；Umweltschutz 范围更广"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Dürre",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Dürren",
+  "zh": "干旱",
+  "ex": [
+   "Nach der langen Dürre waren die Ernten in diesem Jahr sehr schlecht."
+  ],
+  "ex_zh": "长期干旱之后，今年的收成很差。",
+  "use": {
+   "col": [
+    [
+     "eine lang anhaltende Dürre",
+     "持续的干旱"
+    ],
+    [
+     "unter einer Dürre leiden",
+     "遭受旱灾"
+    ]
+   ],
+   "tip": "同族形容词 dürr（干枯的）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Überschwemmung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Überschwemmungen",
+  "zh": "洪水；水灾",
+  "ex": [
+   "Starke Regenfälle haben im Süden zu schweren Überschwemmungen geführt."
+  ],
+  "ex_zh": "暴雨在南部造成了严重的水灾。",
+  "use": {
+   "col": [
+    [
+     "von einer Überschwemmung betroffen sein",
+     "受水灾影响"
+    ],
+    [
+     "eine Überschwemmung verursachen",
+     "引发水灾"
+    ]
+   ],
+   "tip": "动词 überschwemmen 不可分；Hochwasser 强调水位高"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Hochwasser",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Hochwasser",
+  "zh": "洪水；高水位",
+  "ex": [
+   "Wegen des Hochwassers musste die Straße am Fluss gesperrt werden."
+  ],
+  "ex_zh": "因为洪水，河边的路被封了。",
+  "use": {
+   "col": [
+    [
+     "Hochwasser führen",
+     "河水上涨"
+    ],
+    [
+     "vom Hochwasser betroffen sein",
+     "受洪水影响"
+    ]
+   ],
+   "tip": "单复数同形；反义词 Niedrigwasser"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Waldbrand",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Waldbrände",
+  "zh": "森林火灾",
+  "ex": [
+   "Im Sommer steigt wegen der Trockenheit die Gefahr von Waldbränden."
+  ],
+  "ex_zh": "夏天由于干燥，森林火灾的危险上升。",
+  "use": {
+   "col": [
+    [
+     "einen Waldbrand löschen",
+     "扑灭森林火灾"
+    ],
+    [
+     "die Waldbrandgefahr",
+     "森林火险"
+    ]
+   ],
+   "tip": "Wald + Brand（火灾）；复数变音"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Naturkatastrophe",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Naturkatastrophen",
+  "zh": "自然灾害",
+  "ex": [
+   "Erdbeben und Überschwemmungen gehören zu den schlimmsten Naturkatastrophen."
+  ],
+  "ex_zh": "地震和洪水属于最严重的自然灾害。",
+  "use": {
+   "col": [
+    [
+     "von einer Naturkatastrophe heimgesucht werden",
+     "遭受自然灾害"
+    ],
+    [
+     "die Opfer einer Naturkatastrophe",
+     "自然灾害的受害者"
+    ]
+   ],
+   "tip": "Unwetter 只指恶劣天气"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Hitzewelle",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Hitzewellen",
+  "zh": "热浪",
+  "ex": [
+   "Während der Hitzewelle bleiben viele Menschen tagsüber in ihren Wohnungen."
+  ],
+  "ex_zh": "热浪期间，许多人白天待在家里。",
+  "use": {
+   "col": [
+    [
+     "eine Hitzewelle rollt über das Land",
+     "热浪席卷全国"
+    ],
+    [
+     "bei einer Hitzewelle viel trinken",
+     "热浪时多喝水"
+    ]
+   ],
+   "tip": "气象词；Kältewelle 是反义"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Trockenheit",
+  "art": "die",
+  "pos": "n",
+  "zh": "干旱；干燥",
+  "ex": [
+   "Die anhaltende Trockenheit setzt den Wäldern in Brandenburg stark zu."
+  ],
+  "ex_zh": "持续的干旱让勃兰登堡的森林严重受损。",
+  "use": {
+   "col": [
+    [
+     "unter Trockenheit leiden",
+     "受干旱之苦"
+    ],
+    [
+     "anhaltende Trockenheit",
+     "持续干旱"
+    ]
+   ],
+   "tip": "形容词 trocken 的名词；比 Dürre 程度轻"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Niederschlag",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Niederschläge",
+  "zh": "降水",
+  "ex": [
+   "Für das Wochenende sind im Norden kräftige Niederschläge angekündigt."
+  ],
+  "ex_zh": "周末北部预报有强降水。",
+  "use": {
+   "col": [
+    [
+     "ergiebige Niederschläge",
+     "充沛的降水"
+    ],
+    [
+     "die Niederschlagsmenge",
+     "降水量"
+    ]
+   ],
+   "tip": "天气预报用语，包括雨、雪、冰雹"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Lebensraum",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Lebensräume",
+  "zh": "生活空间；栖息地",
+  "ex": [
+   "Durch den Bau neuer Straßen verlieren viele Tiere ihren Lebensraum."
+  ],
+  "ex_zh": "新路的修建让许多动物失去了栖息地。",
+  "use": {
+   "col": [
+    [
+     "den Lebensraum zerstören",
+     "破坏栖息地"
+    ],
+    [
+     "ein natürlicher Lebensraum",
+     "自然栖息地"
+    ]
+   ],
+   "tip": "也可指人的生活空间"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Ökosystem",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Ökosysteme",
+  "zh": "生态系统",
+  "ex": [
+   "Das Ökosystem des Meeres gerät durch die Überfischung aus dem Gleichgewicht."
+  ],
+  "ex_zh": "过度捕捞使海洋生态系统失去平衡。",
+  "use": {
+   "col": [
+    [
+     "ein empfindliches Ökosystem",
+     "脆弱的生态系统"
+    ],
+    [
+     "das Ökosystem schützen",
+     "保护生态系统"
+    ]
+   ],
+   "tip": "常与 Gleichgewicht 搭配"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Nationalpark",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Nationalparks",
+  "zh": "国家公园",
+  "ex": [
+   "Am Wochenende wandern wir durch den Nationalpark Bayerischer Wald."
+  ],
+  "ex_zh": "周末我们去巴伐利亚森林国家公园徒步。",
+  "use": {
+   "col": [
+    [
+     "einen Nationalpark besuchen",
+     "参观国家公园"
+    ],
+    [
+     "in einem Nationalpark wandern",
+     "在国家公园徒步"
+    ]
+   ],
+   "tip": "保护强度比 Naturschutzgebiet 高，面积更大"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Naturschutzgebiet",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Naturschutzgebiete",
+  "zh": "自然保护区",
+  "ex": [
+   "In diesem Naturschutzgebiet dürfen Hunde nur an der Leine geführt werden."
+  ],
+  "ex_zh": "在这个自然保护区里，狗必须拴着绳子。",
+  "use": {
+   "col": [
+    [
+     "ein Naturschutzgebiet ausweisen",
+     "划定自然保护区"
+    ],
+    [
+     "ein Naturschutzgebiet betreten",
+     "进入自然保护区"
+    ]
+   ],
+   "tip": "缩写 NSG"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Regenwald",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Regenwälder",
+  "zh": "雨林",
+  "ex": [
+   "Der Regenwald am Amazonas wird seit Jahrzehnten großflächig abgeholzt."
+  ],
+  "ex_zh": "亚马孙雨林几十年来一直被大面积砍伐。",
+  "use": {
+   "col": [
+    [
+     "den Regenwald schützen",
+     "保护雨林"
+    ],
+    [
+     "der tropische Regenwald",
+     "热带雨林"
+    ]
+   ],
+   "tip": "复数变音：Wälder"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Ressource",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Ressourcen",
+  "zh": "资源",
+  "ex": [
+   "Wir müssen mit den natürlichen Ressourcen unseres Planeten sparsamer umgehen."
+  ],
+  "ex_zh": "我们必须更节约地对待地球的自然资源。",
+  "use": {
+   "col": [
+    [
+     "Ressourcen schonen",
+     "节约资源"
+    ],
+    [
+     "knappe Ressourcen",
+     "稀缺资源"
+    ]
+   ],
+   "tip": "多用复数；常与 Rohstoff 并用"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Rohstoff",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Rohstoffe",
+  "zh": "原料；原材料",
+  "ex": [
+   "Deutschland muss viele wichtige Rohstoffe aus dem Ausland importieren."
+  ],
+  "ex_zh": "德国必须从国外进口许多重要的原材料。",
+  "use": {
+   "col": [
+    [
+     "Rohstoffe abbauen",
+     "开采原材料"
+    ],
+    [
+     "nachwachsende Rohstoffe",
+     "可再生原料"
+    ]
+   ],
+   "tip": "Rohstoffe 多指矿产、石油等；Material 更泛"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Windkraft",
+  "art": "die",
+  "pos": "n",
+  "zh": "风力",
+  "ex": [
+   "In Norddeutschland wird immer mehr Strom aus Windkraft gewonnen."
+  ],
+  "ex_zh": "德国北部越来越多的电来自风力。",
+  "use": {
+   "col": [
+    [
+     "Strom aus Windkraft",
+     "风力发电"
+    ],
+    [
+     "ein Windkraftwerk",
+     "风力发电站"
+    ]
+   ],
+   "tip": "具体设备叫 Windrad / Windkraftanlage"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Solarenergie",
+  "art": "die",
+  "pos": "n",
+  "zh": "太阳能",
+  "ex": [
+   "Auf dem Dach unseres Hauses nutzen wir Solarenergie für Strom und Warmwasser."
+  ],
+  "ex_zh": "我们在屋顶用太阳能发电和烧热水。",
+  "use": {
+   "col": [
+    [
+     "Solarenergie nutzen",
+     "利用太阳能"
+    ],
+    [
+     "eine Solaranlage installieren",
+     "安装太阳能设备"
+    ]
+   ],
+   "tip": "同义：Sonnenenergie；设备叫 Solaranlage"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Atomkraft",
+  "art": "die",
+  "pos": "n",
+  "zh": "核能",
+  "ex": [
+   "Über die Atomkraft wird in Deutschland seit Jahrzehnten heftig gestritten."
+  ],
+  "ex_zh": "德国几十年来一直在激烈争论核能。",
+  "use": {
+   "col": [
+    [
+     "gegen Atomkraft protestieren",
+     "抗议核能"
+    ],
+    [
+     "der Ausstieg aus der Atomkraft",
+     "退出核能"
+    ]
+   ],
+   "tip": "同义：Kernenergie"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kernkraftwerk",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Kernkraftwerke",
+  "zh": "核电站",
+  "ex": [
+   "Das letzte Kernkraftwerk in Deutschland wurde im April 2023 abgeschaltet."
+  ],
+  "ex_zh": "德国最后一座核电站于2023年4月关闭。",
+  "use": {
+   "col": [
+    [
+     "ein Kernkraftwerk abschalten",
+     "关闭核电站"
+    ],
+    [
+     "ein Kernkraftwerk betreiben",
+     "运营核电站"
+    ]
+   ],
+   "tip": "口语常说 AKW（Atomkraftwerk）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kohle",
+  "art": "die",
+  "pos": "n",
+  "zh": "煤；（口语）钱",
+  "ex": [
+   "Bis 2038 soll in Deutschland kein Strom mehr aus Kohle erzeugt werden."
+  ],
+  "ex_zh": "到2038年德国不应再用煤发电。",
+  "use": {
+   "senses": [
+    "煤",
+    "（口语）钱"
+   ],
+   "col": [
+    [
+     "Kohle abbauen",
+     "采煤"
+    ],
+    [
+     "aus der Kohle aussteigen",
+     "退出煤炭"
+    ]
+   ],
+   "tip": "口语里 Kohle 也指「钱」，如 Kohle verdienen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Erdöl",
+  "art": "das",
+  "pos": "n",
+  "zh": "石油",
+  "ex": [
+   "Viele Heizungen in älteren Häusern laufen noch mit Erdöl."
+  ],
+  "ex_zh": "许多老房子的暖气仍然用石油。",
+  "use": {
+   "col": [
+    [
+     "Erdöl fördern",
+     "开采石油"
+    ],
+    [
+     "der Erdölpreis",
+     "石油价格"
+    ]
+   ],
+   "tip": "常简称 Öl；加工产品如 Heizöl"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Erdgas",
+  "art": "das",
+  "pos": "n",
+  "zh": "天然气",
+  "ex": [
+   "Nach 2022 hat Deutschland deutlich weniger Erdgas aus Russland bezogen."
+  ],
+  "ex_zh": "2022年之后德国从俄罗斯进口的天然气大幅减少。",
+  "use": {
+   "col": [
+    [
+     "mit Erdgas heizen",
+     "用天然气取暖"
+    ],
+    [
+     "Erdgas importieren",
+     "进口天然气"
+    ]
+   ],
+   "tip": "Gas 已学；Erdgas 特指天然气"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Brennstoff",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Brennstoffe",
+  "zh": "燃料",
+  "ex": [
+   "Fossile Brennstoffe wie Kohle und Öl belasten das Klima stark."
+  ],
+  "ex_zh": "煤和石油等化石燃料严重危害气候。",
+  "use": {
+   "col": [
+    [
+     "fossile Brennstoffe",
+     "化石燃料"
+    ],
+    [
+     "Brennstoffe verbrennen",
+     "燃烧燃料"
+    ]
+   ],
+   "tip": "汽车燃料多用 Kraftstoff"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Energiewende",
+  "art": "die",
+  "pos": "n",
+  "zh": "能源转型",
+  "ex": [
+   "Die Energiewende soll Deutschland unabhängiger von fossilen Energien machen."
+  ],
+  "ex_zh": "能源转型应当让德国减少对化石能源的依赖。",
+  "use": {
+   "col": [
+    [
+     "die Energiewende vorantreiben",
+     "推进能源转型"
+    ],
+    [
+     "die Kosten der Energiewende",
+     "能源转型的成本"
+    ]
+   ],
+   "tip": "德国特有的政治词，没有复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Stromverbrauch",
+  "art": "der",
+  "pos": "n",
+  "zh": "用电量",
+  "ex": [
+   "Unser Stromverbrauch ist seit dem Kauf der neuen Waschmaschine gesunken."
+  ],
+  "ex_zh": "自从买了新洗衣机，我们的用电量下降了。",
+  "use": {
+   "col": [
+    [
+     "den Stromverbrauch senken",
+     "降低用电量"
+    ],
+    [
+     "ein hoher Stromverbrauch",
+     "高用电量"
+    ]
+   ],
+   "tip": "动词 verbrauchen 已学"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Stromnetz",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Stromnetze",
+  "zh": "电网",
+  "ex": [
+   "Das Stromnetz muss ausgebaut werden, damit Windstrom in den Süden gelangt."
+  ],
+  "ex_zh": "电网必须扩建，风电才能输送到南部。",
+  "use": {
+   "col": [
+    [
+     "ins Stromnetz einspeisen",
+     "并入电网"
+    ],
+    [
+     "das Stromnetz ausbauen",
+     "扩建电网"
+    ]
+   ],
+   "tip": "Netzausbau 是常见新闻词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Wärmepumpe",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Wärmepumpen",
+  "zh": "热泵",
+  "ex": [
+   "Immer mehr Hausbesitzer ersetzen ihre alte Gasheizung durch eine Wärmepumpe."
+  ],
+  "ex_zh": "越来越多房主用热泵替换旧的燃气暖气。",
+  "use": {
+   "col": [
+    [
+     "eine Wärmepumpe einbauen",
+     "安装热泵"
+    ],
+    [
+     "die Wärmepumpe fördern",
+     "补贴热泵"
+    ]
+   ],
+   "tip": "近年德国的热门话题"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Recycling",
+  "art": "das",
+  "pos": "n",
+  "zh": "回收利用",
+  "ex": [
+   "Beim Recycling von Altglas wird viel Energie eingespart."
+  ],
+  "ex_zh": "回收旧玻璃可以节省大量能源。",
+  "use": {
+   "col": [
+    [
+     "das Recycling von Papier",
+     "纸张回收"
+    ],
+    [
+     "auf Recycling setzen",
+     "依靠回收利用"
+    ]
+   ],
+   "tip": "动词 recyceln；Recyclingpapier = 再生纸"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Mülltrennung",
+  "art": "die",
+  "pos": "n",
+  "zh": "垃圾分类",
+  "ex": [
+   "In Deutschland gehört die Mülltrennung für fast alle Haushalte zum Alltag."
+  ],
+  "ex_zh": "在德国，垃圾分类对几乎所有家庭来说都是日常。",
+  "use": {
+   "col": [
+    [
+     "die Mülltrennung beachten",
+     "遵守垃圾分类"
+    ],
+    [
+     "Regeln zur Mülltrennung",
+     "垃圾分类规则"
+    ]
+   ],
+   "tip": "动作说 den Müll trennen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Pfand",
+  "art": "das",
+  "pos": "n",
+  "zh": "押金",
+  "ex": [
+   "Auf Mehrwegflaschen zahlt man beim Kauf ein Pfand, das man später zurückbekommt."
+  ],
+  "ex_zh": "买可重复使用的瓶子时要付一笔之后能退回的押金。",
+  "use": {
+   "senses": [
+    "押金",
+    "抵押物"
+   ],
+   "col": [
+    [
+     "Pfand zurückbekommen",
+     "退回押金"
+    ],
+    [
+     "Pfand auf Flaschen",
+     "瓶子押金"
+    ]
+   ],
+   "tip": "Pfandflasche 押金瓶；也指抵押物"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Verpackung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Verpackungen",
+  "zh": "包装",
+  "ex": [
+   "Im Supermarkt achte ich darauf, Produkte mit wenig Verpackung zu kaufen."
+  ],
+  "ex_zh": "在超市里我注意买包装少的东西。",
+  "use": {
+   "col": [
+    [
+     "die Verpackung entfernen",
+     "去掉包装"
+    ],
+    [
+     "Verpackungsmüll vermeiden",
+     "避免包装垃圾"
+    ]
+   ],
+   "tip": "动词 verpacken 已学"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Abwasser",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Abwässer",
+  "zh": "污水；废水",
+  "ex": [
+   "Das Abwasser der Stadt wird in einer großen Kläranlage gereinigt."
+  ],
+  "ex_zh": "城市的污水在一座大型污水处理厂里净化。",
+  "use": {
+   "col": [
+    [
+     "Abwasser reinigen",
+     "净化污水"
+    ],
+    [
+     "industrielle Abwässer",
+     "工业废水"
+    ]
+   ],
+   "tip": "复数变音：Abwässer"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kläranlage",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Kläranlagen",
+  "zh": "污水处理厂",
+  "ex": [
+   "Die Kläranlage reinigt das Abwasser, bevor es in den Fluss zurückfließt."
+  ],
+  "ex_zh": "污水处理厂先净化污水，再让它流回河里。",
+  "use": {
+   "col": [
+    [
+     "eine Kläranlage betreiben",
+     "运营污水处理厂"
+    ],
+    [
+     "das Wasser aus der Kläranlage",
+     "污水处理厂的出水"
+    ]
+   ],
+   "tip": "klären（净化；澄清）+ Anlage"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Trinkwasser",
+  "art": "das",
+  "pos": "n",
+  "zh": "饮用水",
+  "ex": [
+   "Das Trinkwasser in Deutschland wird streng kontrolliert und ist direkt aus dem Hahn trinkbar."
+  ],
+  "ex_zh": "德国的饮用水受严格监控，可以直接喝自来水。",
+  "use": {
+   "col": [
+    [
+     "sauberes Trinkwasser",
+     "干净的饮用水"
+    ],
+    [
+     "die Trinkwasserversorgung",
+     "饮用水供应"
+    ]
+   ],
+   "tip": "自来水也叫 Leitungswasser"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Grundwasser",
+  "art": "das",
+  "pos": "n",
+  "zh": "地下水",
+  "ex": [
+   "Durch zu viel Dünger gelangen Nitrate ins Grundwasser."
+  ],
+  "ex_zh": "肥料过多会使硝酸盐进入地下水。",
+  "use": {
+   "col": [
+    [
+     "das Grundwasser verunreinigen",
+     "污染地下水"
+    ],
+    [
+     "der Grundwasserspiegel",
+     "地下水位"
+    ]
+   ],
+   "tip": "没有复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Luftverschmutzung",
+  "art": "die",
+  "pos": "n",
+  "zh": "空气污染",
+  "ex": [
+   "In vielen Großstädten ist die Luftverschmutzung ein ernstes Gesundheitsproblem."
+  ],
+  "ex_zh": "在许多大城市，空气污染是严重的健康问题。",
+  "use": {
+   "col": [
+    [
+     "die Luftverschmutzung bekämpfen",
+     "治理空气污染"
+    ],
+    [
+     "unter der Luftverschmutzung leiden",
+     "受空气污染之苦"
+    ]
+   ],
+   "tip": "同族：Luftqualität 空气质量"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Feinstaub",
+  "art": "der",
+  "pos": "n",
+  "zh": "细颗粒物；PM",
+  "ex": [
+   "In der Innenstadt werden die Grenzwerte für Feinstaub regelmäßig überschritten."
+  ],
+  "ex_zh": "市中心的细颗粒物经常超标。",
+  "use": {
+   "col": [
+    [
+     "die Feinstaubbelastung",
+     "细颗粒物污染"
+    ],
+    [
+     "Feinstaub einatmen",
+     "吸入细颗粒物"
+    ]
+   ],
+   "tip": "不可数；严重时叫 Smog"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Schadstoff",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Schadstoffe",
+  "zh": "有害物质",
+  "ex": [
+   "Moderne Filter halten viele Schadstoffe aus den Abgasen zurück."
+  ],
+  "ex_zh": "现代过滤器能拦住废气中的许多有害物质。",
+  "use": {
+   "col": [
+    [
+     "Schadstoffe ausstoßen",
+     "排放有害物质"
+    ],
+    [
+     "die Schadstoffbelastung",
+     "有害物质污染"
+    ]
+   ],
+   "tip": "Schaden（损害）+ Stoff（物质）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Lärmbelästigung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Lärmbelästigungen",
+  "zh": "噪音扰民",
+  "ex": [
+   "Die Anwohner klagen über Lärmbelästigung durch den nahen Flughafen."
+  ],
+  "ex_zh": "居民抱怨附近机场造成的噪音干扰。",
+  "use": {
+   "col": [
+    [
+     "unter Lärmbelästigung leiden",
+     "受噪音困扰"
+    ],
+    [
+     "Lärmbelästigung melden",
+     "举报噪音扰民"
+    ]
+   ],
+   "tip": "动词 belästigen（打扰；骚扰）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Artensterben",
+  "art": "das",
+  "pos": "n",
+  "zh": "物种灭绝",
+  "ex": [
+   "Das Artensterben schreitet weltweit schneller voran als je zuvor."
+  ],
+  "ex_zh": "物种灭绝在全球范围内的速度比以往任何时候都快。",
+  "use": {
+   "col": [
+    [
+     "das Artensterben aufhalten",
+     "遏制物种灭绝"
+    ],
+    [
+     "das Artensterben beschleunigen",
+     "加速物种灭绝"
+    ]
+   ],
+   "tip": "没有复数；动词 aussterben"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Insekt",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Insekten",
+  "zh": "昆虫",
+  "ex": [
+   "Wegen der vielen Pestizide gibt es auf den Feldern immer weniger Insekten."
+  ],
+  "ex_zh": "由于大量使用农药，田野里的昆虫越来越少。",
+  "use": {
+   "col": [
+    [
+     "Insekten bestäuben Blüten",
+     "昆虫给花授粉"
+    ],
+    [
+     "das Insektensterben",
+     "昆虫减少"
+    ]
+   ],
+   "tip": "别和 Insel（岛）混淆"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Biene",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Bienen",
+  "zh": "蜜蜂",
+  "ex": [
+   "Ohne Bienen würden viele Obstbäume kaum noch Früchte tragen."
+  ],
+  "ex_zh": "没有蜜蜂，许多果树几乎不会结果。",
+  "use": {
+   "col": [
+    [
+     "Bienen halten",
+     "养蜂"
+    ],
+    [
+     "von einer Biene gestochen werden",
+     "被蜜蜂蜇"
+    ]
+   ],
+   "tip": "Imker 养蜂人"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Schmetterling",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Schmetterlinge",
+  "zh": "蝴蝶",
+  "ex": [
+   "Im Garten fliegen im Sommer viele bunte Schmetterlinge von Blüte zu Blüte."
+  ],
+  "ex_zh": "夏天花园里许多彩色的蝴蝶在花间飞舞。",
+  "use": {
+   "col": [
+    [
+     "ein bunter Schmetterling",
+     "彩色的蝴蝶"
+    ],
+    [
+     "Schmetterlinge beobachten",
+     "观察蝴蝶"
+    ]
+   ],
+   "tip": "Falter 是同义词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Ameise",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Ameisen",
+  "zh": "蚂蚁",
+  "ex": [
+   "Eine Ameise kann ein Vielfaches ihres eigenen Gewichts tragen."
+  ],
+  "ex_zh": "一只蚂蚁能搬动比自身重很多倍的东西。",
+  "use": {
+   "col": [
+    [
+     "ein Ameisenhaufen",
+     "蚁丘"
+    ],
+    [
+     "fleißig wie eine Ameise",
+     "像蚂蚁一样勤劳"
+    ]
+   ],
+   "tip": "Ameisenbär 食蚁兽"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Wolf",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Wölfe",
+  "zh": "狼",
+  "ex": [
+   "In Brandenburg leben inzwischen wieder mehrere Wölfe in freier Wildbahn."
+  ],
+  "ex_zh": "勃兰登堡现在又有好几只狼生活在野外。",
+  "use": {
+   "col": [
+    [
+     "der Wolf heult",
+     "狼嚎叫"
+    ],
+    [
+     "Angst vor dem Wolf haben",
+     "怕狼"
+    ]
+   ],
+   "tip": "复数变音：Wölfe"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fuchs",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Füchse",
+  "zh": "狐狸",
+  "ex": [
+   "Nachts hat ein Fuchs im Garten nach Essensresten gesucht."
+  ],
+  "ex_zh": "夜里一只狐狸在花园里找剩饭。",
+  "use": {
+   "col": [
+    [
+     "schlau wie ein Fuchs",
+     "像狐狸一样狡猾"
+    ],
+    [
+     "einen Fuchs sehen",
+     "看到一只狐狸"
+    ]
+   ],
+   "tip": "复数变音：Füchse"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Reh",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Rehe",
+  "zh": "狍子；小鹿",
+  "ex": [
+   "Beim Autofahren auf dem Land muss man auf Rehe am Straßenrand achten."
+  ],
+  "ex_zh": "在乡下开车要留意路边的狍子。",
+  "use": {
+   "col": [
+    [
+     "ein Reh im Wald",
+     "森林里的一只狍子"
+    ],
+    [
+     "Rehe am Straßenrand",
+     "路边的狍子"
+    ]
+   ],
+   "tip": "Hirsch 是雄鹿，体型更大"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Hirsch",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Hirsche",
+  "zh": "鹿",
+  "ex": [
+   "Am Waldrand haben wir morgens einen Hirsch beobachtet."
+  ],
+  "ex_zh": "早上我们在林边看到了一头鹿。",
+  "use": {
+   "col": [
+    [
+     "ein Hirsch mit großem Geweih",
+     "长着大角的鹿"
+    ],
+    [
+     "die Hirschjagd",
+     "猎鹿"
+    ]
+   ],
+   "tip": "Geweih 是鹿角"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Wildschwein",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Wildschweine",
+  "zh": "野猪",
+  "ex": [
+   "Wildschweine wühlen nachts oft in Gärten am Stadtrand nach Futter."
+  ],
+  "ex_zh": "野猪夜里常在城郊的花园里翻土找食。",
+  "use": {
+   "col": [
+    [
+     "Wildschweine jagen",
+     "猎野猪"
+    ],
+    [
+     "eine Rotte Wildschweine",
+     "一群野猪"
+    ]
+   ],
+   "tip": "Wild- 表示「野生的」；Schwein 已学"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Eichhörnchen",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Eichhörnchen",
+  "zh": "松鼠",
+  "ex": [
+   "Im Park sammelt ein Eichhörnchen Nüsse für den Winter."
+  ],
+  "ex_zh": "公园里一只松鼠在为冬天收集坚果。",
+  "use": {
+   "col": [
+    [
+     "ein Eichhörnchen füttern",
+     "喂松鼠"
+    ],
+    [
+     "Nüsse verstecken",
+     "藏坚果"
+    ]
+   ],
+   "tip": "复数同形；发音难"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Igel",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Igel",
+  "zh": "刺猬",
+  "ex": [
+   "Im Herbst brauchen Igel einen ruhigen Platz für den Winterschlaf."
+  ],
+  "ex_zh": "秋天刺猬需要一个安静的地方冬眠。",
+  "use": {
+   "col": [
+    [
+     "einen Igel im Garten finden",
+     "在花园里发现刺猬"
+    ],
+    [
+     "Winterschlaf halten",
+     "冬眠"
+    ]
+   ],
+   "tip": "复数同形"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kuh",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Kühe",
+  "zh": "母牛；奶牛",
+  "ex": [
+   "Auf der Weide stehen mehr als fünfzig Kühe in der Sonne."
+  ],
+  "ex_zh": "牧场上有五十多头奶牛在晒太阳。",
+  "use": {
+   "col": [
+    [
+     "Kühe melken",
+     "挤奶"
+    ],
+    [
+     "eine Kuh züchten",
+     "养牛"
+    ]
+   ],
+   "tip": "复数变音：Kühe；Rind（已学）是统称"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Schaf",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Schafe",
+  "zh": "绵羊",
+  "ex": [
+   "Im Frühjahr werden die Schafe zum ersten Mal auf die Weide getrieben."
+  ],
+  "ex_zh": "春天羊群第一次被赶到牧场上。",
+  "use": {
+   "col": [
+    [
+     "Schafe hüten",
+     "放羊"
+    ],
+    [
+     "die Wolle der Schafe",
+     "羊毛"
+    ]
+   ],
+   "tip": "Schäfer 牧羊人；Lamm 羊羔"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Huhn",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Hühner",
+  "zh": "鸡",
+  "ex": [
+   "Die Eier in diesem Supermarkt stammen von Hühnern aus Freilandhaltung."
+  ],
+  "ex_zh": "这家超市的鸡蛋来自散养的鸡。",
+  "use": {
+   "col": [
+    [
+     "Hühner halten",
+     "养鸡"
+    ],
+    [
+     "ein Huhn schlachten",
+     "宰鸡"
+    ]
+   ],
+   "tip": "复数变音：Hühner；Hähnchen（已学）指鸡肉"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Lebewesen",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Lebewesen",
+  "zh": "生物",
+  "ex": [
+   "Alle Lebewesen auf der Erde sind auf sauberes Wasser angewiesen."
+  ],
+  "ex_zh": "地球上所有生物都离不开干净的水。",
+  "use": {
+   "col": [
+    [
+     "ein einzelliges Lebewesen",
+     "单细胞生物"
+    ],
+    [
+     "Lebewesen schützen",
+     "保护生物"
+    ]
+   ],
+   "tip": "单复数同形"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Raubtier",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Raubtiere",
+  "zh": "猛兽；食肉动物",
+  "ex": [
+   "Der Wolf ist ein Raubtier, das vor allem Rehe und Wildschweine jagt."
+  ],
+  "ex_zh": "狼是主要猎杀狍子和野猪的食肉动物。",
+  "use": {
+   "col": [
+    [
+     "ein gefährliches Raubtier",
+     "危险的猛兽"
+    ],
+    [
+     "Raubtiere füttern",
+     "喂食肉动物"
+    ]
+   ],
+   "tip": "Raub（抢夺）+ Tier"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Säugetier",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Säugetiere",
+  "zh": "哺乳动物",
+  "ex": [
+   "Wale sind keine Fische, sondern Säugetiere, die ihre Jungen mit Milch ernähren."
+  ],
+  "ex_zh": "鲸不是鱼，而是用奶喂养幼崽的哺乳动物。",
+  "use": {
+   "col": [
+    [
+     "ein Säugetier der Meere",
+     "海洋哺乳动物"
+    ],
+    [
+     "Säugetiere und Vögel",
+     "哺乳动物和鸟类"
+    ]
+   ],
+   "tip": "säugen 意为哺乳"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gletscher",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Gletscher",
+  "zh": "冰川",
+  "ex": [
+   "Die Gletscher in den Alpen schmelzen jedes Jahr ein Stück weiter ab."
+  ],
+  "ex_zh": "阿尔卑斯山的冰川每年都融化一点。",
+  "use": {
+   "col": [
+    [
+     "der Gletscher schmilzt",
+     "冰川融化"
+    ],
+    [
+     "ein Gletscher zieht sich zurück",
+     "冰川后退"
+    ]
+   ],
+   "tip": "复数同形"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Meeresspiegel",
+  "art": "der",
+  "pos": "n",
+  "zh": "海平面",
+  "ex": [
+   "Wenn der Meeresspiegel steigt, sind Küstenstädte besonders gefährdet."
+  ],
+  "ex_zh": "海平面上升时，沿海城市尤其危险。",
+  "use": {
+   "col": [
+    [
+     "der Anstieg des Meeresspiegels",
+     "海平面上升"
+    ],
+    [
+     "über dem Meeresspiegel",
+     "海拔"
+    ]
+   ],
+   "tip": "Meer 和 Spiegel 之间有连接音 -es-"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gewässer",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Gewässer",
+  "zh": "水域（河流、湖泊等）",
+  "ex": [
+   "Viele Gewässer in der Region sind durch Dünger stark belastet."
+  ],
+  "ex_zh": "这个地区的许多水域被肥料严重污染。",
+  "use": {
+   "col": [
+    [
+     "ein stehendes Gewässer",
+     "静水（湖、池塘）"
+    ],
+    [
+     "Gewässer verschmutzen",
+     "污染水体"
+    ]
+   ],
+   "tip": "单复数同形；统称河、湖、海"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Erdbeben",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Erdbeben",
+  "zh": "地震",
+  "ex": [
+   "Das Erdbeben hat mehrere Häuser in der Region beschädigt."
+  ],
+  "ex_zh": "地震损坏了这个地区的好几座房子。",
+  "use": {
+   "col": [
+    [
+     "von einem Erdbeben erschüttert werden",
+     "被地震震动"
+    ],
+    [
+     "ein schweres Erdbeben",
+     "强烈地震"
+    ]
+   ],
+   "tip": "单复数同形"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Umweltbewusstsein",
+  "art": "das",
+  "pos": "n",
+  "zh": "环保意识",
+  "ex": [
+   "Das Umweltbewusstsein junger Menschen hat in den letzten Jahren stark zugenommen."
+  ],
+  "ex_zh": "年轻人的环保意识近年来明显增强。",
+  "use": {
+   "col": [
+    [
+     "das Umweltbewusstsein stärken",
+     "增强环保意识"
+    ],
+    [
+     "ein ausgeprägtes Umweltbewusstsein",
+     "很强的环保意识"
+    ]
+   ],
+   "tip": "形容词 umweltbewusst；没有复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Umweltbelastung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Umweltbelastungen",
+  "zh": "环境负担；环境污染",
+  "ex": [
+   "Der Flugverkehr ist eine große Umweltbelastung, besonders auf kurzen Strecken."
+  ],
+  "ex_zh": "航空运输尤其是短途航班是巨大的环境负担。",
+  "use": {
+   "col": [
+    [
+     "die Umweltbelastung verringern",
+     "减轻环境负担"
+    ],
+    [
+     "eine hohe Umweltbelastung",
+     "很高的环境负担"
+    ]
+   ],
+   "tip": "动词 belasten（加重负担；污染）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fußabdruck",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Fußabdrücke",
+  "zh": "脚印；（生态）足迹",
+  "ex": [
+   "Mein ökologischer Fußabdruck ist durch den Verzicht auf das Auto kleiner geworden."
+  ],
+  "ex_zh": "放弃开车后，我的生态足迹变小了。",
+  "use": {
+   "senses": [
+    "脚印",
+    "（环境）足迹"
+   ],
+   "col": [
+    [
+     "der ökologische Fußabdruck",
+     "生态足迹"
+    ],
+    [
+     "der CO2-Fußabdruck",
+     "碳足迹"
+    ]
+   ],
+   "tip": "日常可指脚印，新闻里多指碳足迹"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Berufsverkehr",
+  "art": "der",
+  "pos": "n",
+  "zh": "上下班高峰时的交通",
+  "ex": [
+   "Im Berufsverkehr braucht man für diese Strecke fast doppelt so lange."
+  ],
+  "ex_zh": "上下班高峰时走这段路要花差不多两倍的时间。",
+  "use": {
+   "col": [
+    [
+     "im Berufsverkehr stecken bleiben",
+     "困在上下班高峰"
+    ],
+    [
+     "der morgendliche Berufsverkehr",
+     "早高峰"
+    ]
+   ],
+   "tip": "没有复数；同义 Stoßzeit 指高峰时段"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Stoßzeit",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Stoßzeiten",
+  "zh": "高峰时段",
+  "ex": [
+   "Zur Stoßzeit sind die S-Bahnen so voll, dass man kaum einsteigen kann."
+  ],
+  "ex_zh": "高峰时段S-Bahn挤得几乎上不去。",
+  "use": {
+   "col": [
+    [
+     "außerhalb der Stoßzeiten",
+     "在非高峰时段"
+    ],
+    [
+     "zur Stoßzeit fahren",
+     "在高峰时出行"
+    ]
+   ],
+   "tip": "也用于商店、客服等的忙时"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Pendler",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Pendler",
+  "zh": "通勤者（跨城上班者）",
+  "ex": [
+   "Täglich fahren Tausende Pendler aus dem Umland in die Stadt."
+  ],
+  "ex_zh": "每天有成千上万通勤者从周边地区进城。",
+  "use": {
+   "col": [
+    [
+     "Pendler aus dem Umland",
+     "来自周边的通勤者"
+    ],
+    [
+     "die Pendlerpauschale",
+     "通勤补贴（税务抵扣）"
+    ]
+   ],
+   "tip": "女性 Pendlerin；动词 pendeln"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fahrgemeinschaft",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Fahrgemeinschaften",
+  "zh": "拼车",
+  "ex": [
+   "Wir bilden eine Fahrgemeinschaft, damit nicht jeder allein zur Arbeit fährt."
+  ],
+  "ex_zh": "我们拼车上班，这样就不用每个人单独开车。",
+  "use": {
+   "col": [
+    [
+     "eine Fahrgemeinschaft bilden",
+     "组成拼车"
+    ],
+    [
+     "in einer Fahrgemeinschaft fahren",
+     "拼车出行"
+    ]
+   ],
+   "tip": "偏固定的长期拼车；一次性的叫 Mitfahrgelegenheit"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Nahverkehr",
+  "art": "der",
+  "pos": "n",
+  "zh": "近距离公共交通",
+  "ex": [
+   "Der öffentliche Nahverkehr ist in unserer Stadt gut ausgebaut."
+  ],
+  "ex_zh": "我们城市的公共交通很完善。",
+  "use": {
+   "col": [
+    [
+     "der öffentliche Nahverkehr (ÖPNV)",
+     "公共交通"
+    ],
+    [
+     "den Nahverkehr nutzen",
+     "使用公共交通"
+    ]
+   ],
+   "tip": "反义词 Fernverkehr；没有复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fernverkehr",
+  "art": "der",
+  "pos": "n",
+  "zh": "长途交通",
+  "ex": [
+   "Im Fernverkehr der Bahn kommt es häufig zu Verspätungen."
+  ],
+  "ex_zh": "德铁长途线路经常晚点。",
+  "use": {
+   "col": [
+    [
+     "der Fernverkehr der Bahn",
+     "铁路长途交通"
+    ],
+    [
+     "Fernverkehrszüge",
+     "长途列车"
+    ]
+   ],
+   "tip": "ICE、IC 属于 Fernverkehr；没有复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fahrgast",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Fahrgäste",
+  "zh": "乘客",
+  "ex": [
+   "Die Fahrgäste werden gebeten, im hinteren Teil des Busses weiterzugehen."
+  ],
+  "ex_zh": "请乘客往车厢后部走。",
+  "use": {
+   "col": [
+    [
+     "Fahrgäste befördern",
+     "运送乘客"
+    ],
+    [
+     "die Zahl der Fahrgäste",
+     "乘客数量"
+    ]
+   ],
+   "tip": "复数变音：Fahrgäste；Passagier 多用于飞机、轮船"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fahrschein",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Fahrscheine",
+  "zh": "车票",
+  "ex": [
+   "Bitte entwerten Sie Ihren Fahrschein, bevor Sie in den Bus einsteigen."
+  ],
+  "ex_zh": "上车前请先给您的车票验票。",
+  "use": {
+   "col": [
+    [
+     "einen Fahrschein lösen",
+     "买票"
+    ],
+    [
+     "ohne gültigen Fahrschein erwischt werden",
+     "无票被查到"
+    ]
+   ],
+   "tip": "Fahrkarte（已学）更日常；Fahrschein 常见于公交"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Radweg",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Radwege",
+  "zh": "自行车道",
+  "ex": [
+   "Auf dem neuen Radweg kann man sicher bis in die Innenstadt fahren."
+  ],
+  "ex_zh": "沿着新的自行车道可以安全地骑到市中心。",
+  "use": {
+   "col": [
+    [
+     "einen Radweg anlegen",
+     "修建自行车道"
+    ],
+    [
+     "auf dem Radweg fahren",
+     "在自行车道上骑行"
+    ]
+   ],
+   "tip": "Fahrradweg 同义"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Elektroauto",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Elektroautos",
+  "zh": "电动汽车",
+  "ex": [
+   "Ein Elektroauto ist im Unterhalt oft günstiger als ein Benziner."
+  ],
+  "ex_zh": "电动汽车的使用成本往往比燃油车低。",
+  "use": {
+   "col": [
+    [
+     "ein Elektroauto laden",
+     "给电动车充电"
+    ],
+    [
+     "die Förderung für Elektroautos",
+     "电动车补贴"
+    ]
+   ],
+   "tip": "口语说 E-Auto；Benziner 汽油车，Diesel 柴油车"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Ladestation",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Ladestationen",
+  "zh": "充电站",
+  "ex": [
+   "In unserer Straße gibt es jetzt zwei Ladestationen für Elektroautos."
+  ],
+  "ex_zh": "我们这条街现在有两个电动车充电站。",
+  "use": {
+   "col": [
+    [
+     "eine Ladestation installieren",
+     "安装充电站"
+    ],
+    [
+     "an der Ladestation laden",
+     "在充电站充电"
+    ]
+   ],
+   "tip": "同义 Ladesäule"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Tempolimit",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Tempolimits",
+  "zh": "限速",
+  "ex": [
+   "Auf deutschen Autobahnen gibt es noch immer kein generelles Tempolimit."
+  ],
+  "ex_zh": "德国高速公路至今仍没有统一限速。",
+  "use": {
+   "col": [
+    [
+     "ein Tempolimit einführen",
+     "实行限速"
+    ],
+    [
+     "das Tempolimit überschreiten",
+     "超速"
+    ]
+   ],
+   "tip": "Geschwindigkeitsbeschränkung（已学）是书面说法"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fahrverbot",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Fahrverbote",
+  "zh": "禁行；禁驾",
+  "ex": [
+   "Für alte Dieselautos gilt in einigen Innenstädten ein Fahrverbot."
+  ],
+  "ex_zh": "在一些城市的市中心，旧的柴油车禁止通行。",
+  "use": {
+   "senses": [
+    "（对某类车的）禁行",
+    "（对个人的）禁驾"
+   ],
+   "col": [
+    [
+     "ein Fahrverbot verhängen",
+     "下令禁行"
+    ],
+    [
+     "ein Fahrverbot für Diesel",
+     "柴油车禁行"
+    ]
+   ],
+   "tip": "也指交通违法后被吊销驾驶资格一个月以上"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Parkhaus",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Parkhäuser",
+  "zh": "停车楼",
+  "ex": [
+   "Im Parkhaus am Bahnhof kostet eine Stunde zwei Euro."
+  ],
+  "ex_zh": "火车站旁的停车楼一小时两欧元。",
+  "use": {
+   "col": [
+    [
+     "im Parkhaus parken",
+     "在停车楼停车"
+    ],
+    [
+     "die Einfahrt zum Parkhaus",
+     "停车楼入口"
+    ]
+   ],
+   "tip": "Tiefgarage 地下车库；复数变音"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kreisverkehr",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Kreisverkehre",
+  "zh": "环形交叉口",
+  "ex": [
+   "Im Kreisverkehr haben die Autos im Kreis Vorfahrt."
+  ],
+  "ex_zh": "在环岛里，环内的车辆有优先通行权。",
+  "use": {
+   "col": [
+    [
+     "in den Kreisverkehr einfahren",
+     "驶入环岛"
+    ],
+    [
+     "den Kreisverkehr verlassen",
+     "驶出环岛"
+    ]
+   ],
+   "tip": "常简称 Kreisel；复数 -e"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zebrastreifen",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Zebrastreifen",
+  "zh": "斑马线",
+  "ex": [
+   "Am Zebrastreifen müssen Autofahrer anhalten, wenn Fußgänger die Straße überqueren wollen."
+  ],
+  "ex_zh": "行人要过马路时，司机必须在斑马线前停下。",
+  "use": {
+   "col": [
+    [
+     "den Zebrastreifen benutzen",
+     "走斑马线"
+    ],
+    [
+     "am Zebrastreifen halten",
+     "在斑马线前停下"
+    ]
+   ],
+   "tip": "复数同形；官方叫 Fußgängerüberweg"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Bürgersteig",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Bürgersteige",
+  "zh": "人行道",
+  "ex": [
+   "Radfahrer dürfen nicht auf dem Bürgersteig fahren, wenn es einen Radweg gibt."
+  ],
+  "ex_zh": "有自行车道时，骑车人不得在人行道上骑行。",
+  "use": {
+   "col": [
+    [
+     "auf dem Bürgersteig gehen",
+     "走在人行道上"
+    ],
+    [
+     "die Bürgersteige hochklappen",
+     "早早打烊（俗语）"
+    ]
+   ],
+   "tip": "Gehsteig（已学）是南德、奥地利说法"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Güterverkehr",
+  "art": "der",
+  "pos": "n",
+  "zh": "货运",
+  "ex": [
+   "Der Güterverkehr sollte stärker von der Straße auf die Schiene verlagert werden."
+  ],
+  "ex_zh": "货运应当更多地从公路转到铁路。",
+  "use": {
+   "col": [
+    [
+     "den Güterverkehr verlagern",
+     "转移货运"
+    ],
+    [
+     "der Güterverkehr auf der Straße",
+     "公路货运"
+    ]
+   ],
+   "tip": "Personenverkehr 是客运；没有复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Schiene",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Schienen",
+  "zh": "铁轨；铁路",
+  "ex": [
+   "Die Bahn investiert Milliarden in neue Schienen und Bahnhöfe."
+  ],
+  "ex_zh": "德铁投入数十亿修建新铁轨和车站。",
+  "use": {
+   "col": [
+    [
+     "auf die Schiene verlagern",
+     "转到铁路上"
+    ],
+    [
+     "die Schienen verlegen",
+     "铺设铁轨"
+    ]
+   ],
+   "tip": "auf der Schiene 泛指铁路运输"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zugausfall",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Zugausfälle",
+  "zh": "列车停运",
+  "ex": [
+   "Wegen eines Zugausfalls bin ich zu spät zum Vorstellungsgespräch gekommen."
+  ],
+  "ex_zh": "因为列车停运，我面试迟到了。",
+  "use": {
+   "col": [
+    [
+     "wegen eines Zugausfalls",
+     "因列车停运"
+    ],
+    [
+     "mit Zugausfällen rechnen",
+     "预计有列车停运"
+    ]
+   ],
+   "tip": "复数变音；动词 ausfallen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gleisarbeiten (Pl.)",
+  "art": "die",
+  "pos": "n",
+  "zh": "铁路施工",
+  "ex": [
+   "Wegen Gleisarbeiten fallen am Wochenende mehrere Züge aus."
+  ],
+  "ex_zh": "由于铁轨施工，周末有几趟列车停运。",
+  "use": {
+   "col": [
+    [
+     "wegen Gleisarbeiten gesperrt",
+     "因铁轨施工封闭"
+    ],
+    [
+     "Gleisarbeiten im Bereich Mannheim",
+     "曼海姆一带的铁轨施工"
+    ]
+   ],
+   "tip": "只用复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Schienenersatzverkehr",
+  "art": "der",
+  "pos": "n",
+  "zh": "铁路替代交通（替代巴士）",
+  "ex": [
+   "Zwischen Mannheim und Heidelberg fährt wegen Bauarbeiten ein Schienenersatzverkehr."
+  ],
+  "ex_zh": "因为施工，曼海姆和海德堡之间改开替代巴士。",
+  "use": {
+   "col": [
+    [
+     "einen Schienenersatzverkehr einrichten",
+     "安排替代交通"
+    ],
+    [
+     "Schienenersatzverkehr mit Bussen",
+     "用巴士的替代交通"
+    ]
+   ],
+   "tip": "缩写 SEV；德国铁路公告里常见"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Mitfahrgelegenheit",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Mitfahrgelegenheiten",
+  "zh": "搭便车的机会；拼车",
+  "ex": [
+   "Über eine App habe ich eine Mitfahrgelegenheit nach Berlin gefunden."
+  ],
+  "ex_zh": "我通过一个App找到了去柏林的拼车。",
+  "use": {
+   "col": [
+    [
+     "eine Mitfahrgelegenheit anbieten",
+     "提供拼车位"
+    ],
+    [
+     "eine Mitfahrgelegenheit suchen",
+     "找拼车"
+    ]
+   ],
+   "tip": "动词 mitfahren"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Carsharing",
+  "art": "das",
+  "pos": "n",
+  "zh": "汽车共享",
+  "ex": [
+   "Ich besitze kein Auto, sondern nutze Carsharing, wenn ich einen Wagen brauche."
+  ],
+  "ex_zh": "我没有车，需要时就用共享汽车。",
+  "use": {
+   "col": [
+    [
+     "Carsharing nutzen",
+     "使用共享汽车"
+    ],
+    [
+     "ein Carsharing-Anbieter",
+     "共享汽车公司"
+    ]
+   ],
+   "tip": "外来词，发音近英语；没有复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Deutschlandticket",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Deutschlandtickets",
+  "zh": "德国通票（全国近郊公共交通月票）",
+  "ex": [
+   "Mit dem Deutschlandticket darf ich in ganz Deutschland den Nahverkehr nutzen."
+  ],
+  "ex_zh": "有了德国通票，我可以在全德使用近郊公共交通。",
+  "use": {
+   "col": [
+    [
+     "das Deutschlandticket kaufen",
+     "买德国通票"
+    ],
+    [
+     "das Deutschlandticket kündigen",
+     "退订德国通票"
+    ]
+   ],
+   "tip": "不含 ICE/IC 长途列车；月订、可月底前取消"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Verkehrsunfall",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Verkehrsunfälle",
+  "zh": "交通事故",
+  "ex": [
+   "Bei dem Verkehrsunfall auf der Autobahn wurden zwei Personen verletzt."
+  ],
+  "ex_zh": "高速公路上的交通事故中有两人受伤。",
+  "use": {
+   "col": [
+    [
+     "einen Verkehrsunfall verursachen",
+     "引发交通事故"
+    ],
+    [
+     "ein Verkehrsunfall mit Verletzten",
+     "有人受伤的交通事故"
+    ]
+   ],
+   "tip": "Unfall（已学）更泛指任何事故"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Flugverkehr",
+  "art": "der",
+  "pos": "n",
+  "zh": "航空运输；飞行交通",
+  "ex": [
+   "Der Flugverkehr hat sich nach der Pandemie nur langsam erholt."
+  ],
+  "ex_zh": "航空运输在疫情后恢复得很慢。",
+  "use": {
+   "col": [
+    [
+     "der Flugverkehr nimmt zu",
+     "航空运输增加"
+    ],
+    [
+     "den Flugverkehr einschränken",
+     "限制航空运输"
+    ]
+   ],
+   "tip": "没有复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Anwohner",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Anwohner",
+  "zh": "居民（住在附近的人）",
+  "ex": [
+   "Die Anwohner beschweren sich über den Verkehr in der Nebenstraße."
+  ],
+  "ex_zh": "居民们抱怨旁边街上的交通。",
+  "use": {
+   "col": [
+    [
+     "Anwohner parken frei",
+     "居民可免费停车"
+    ],
+    [
+     "die Anwohner informieren",
+     "通知居民"
+    ]
+   ],
+   "tip": "强调「住在这一带的人」；Bewohner 强调住在某栋楼、某地"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Landwirt",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Landwirte",
+  "zh": "农民；农场主",
+  "ex": [
+   "Viele Landwirte klagen über niedrige Preise für ihre Milch."
+  ],
+  "ex_zh": "许多农民抱怨牛奶价格太低。",
+  "use": {
+   "col": [
+    [
+     "ein Landwirt aus der Region",
+     "本地的农民"
+    ],
+    [
+     "als Landwirt arbeiten",
+     "当农民"
+    ]
+   ],
+   "tip": "女性 Landwirtin；比 Bauer（已学）更中性、正式"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Getreide",
+  "art": "das",
+  "pos": "n",
+  "zh": "谷物",
+  "ex": [
+   "Getreide wird in Deutschland vor allem im Norden und Osten angebaut."
+  ],
+  "ex_zh": "德国的谷物主要种在北部和东部。",
+  "use": {
+   "col": [
+    [
+     "Getreide anbauen",
+     "种植谷物"
+    ],
+    [
+     "die Getreideernte",
+     "谷物收获"
+    ]
+   ],
+   "tip": "没有复数；Weizen、Roggen、Gerste 都是 Getreide"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Weizen",
+  "art": "der",
+  "pos": "n",
+  "zh": "小麦",
+  "ex": [
+   "Aus Weizen wird Mehl für Brot, Brötchen und Nudeln gemacht."
+  ],
+  "ex_zh": "小麦被磨成面粉，用来做面包、小面包和面条。",
+  "use": {
+   "col": [
+    [
+     "Weizen anbauen",
+     "种小麦"
+    ],
+    [
+     "Weizenmehl",
+     "小麦粉"
+    ]
+   ],
+   "tip": "Roggen 黑麦也是德国常见谷物"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Acker",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Äcker",
+  "zh": "田地；耕地",
+  "ex": [
+   "Im Frühjahr bearbeiten die Bauern ihre Äcker mit schweren Maschinen."
+  ],
+  "ex_zh": "春天农民们用重型机器翻整他们的田地。",
+  "use": {
+   "col": [
+    [
+     "den Acker bestellen",
+     "耕种田地"
+    ],
+    [
+     "ein Acker voller Steine",
+     "满是石头的地"
+    ]
+   ],
+   "tip": "复数变音：Äcker；Feld（已学）更泛"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Dünger",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Dünger",
+  "zh": "肥料",
+  "ex": [
+   "Zu viel Dünger auf den Feldern belastet das Grundwasser."
+  ],
+  "ex_zh": "田里肥料用得太多会污染地下水。",
+  "use": {
+   "col": [
+    [
+     "Dünger ausbringen",
+     "施肥"
+    ],
+    [
+     "mineralischer Dünger",
+     "化肥"
+    ]
+   ],
+   "tip": "动词 düngen；Gülle 是粪肥"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Pestizid",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Pestizide",
+  "zh": "农药",
+  "ex": [
+   "Viele Verbraucher wollen heute Gemüse ohne Pestizide kaufen."
+  ],
+  "ex_zh": "如今许多消费者想买不含农药的蔬菜。",
+  "use": {
+   "col": [
+    [
+     "Pestizide einsetzen",
+     "使用农药"
+    ],
+    [
+     "frei von Pestiziden",
+     "不含农药"
+    ]
+   ],
+   "tip": "多用复数；同义 Pflanzenschutzmittel"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Massentierhaltung",
+  "art": "die",
+  "pos": "n",
+  "zh": "集约化养殖；工厂化养殖",
+  "ex": [
+   "Die Massentierhaltung steht wegen der schlechten Bedingungen für die Tiere in der Kritik."
+  ],
+  "ex_zh": "集约化养殖因动物的恶劣处境而受到批评。",
+  "use": {
+   "col": [
+    [
+     "gegen Massentierhaltung sein",
+     "反对集约化养殖"
+    ],
+    [
+     "Fleisch aus Massentierhaltung",
+     "集约化养殖的肉"
+    ]
+   ],
+   "tip": "对应：artgerechte Haltung 符合动物习性的饲养"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Stall",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Ställe",
+  "zh": "畜棚；圈舍",
+  "ex": [
+   "Im Winter bleiben die Kühe meistens im warmen Stall."
+  ],
+  "ex_zh": "冬天奶牛大多待在温暖的牛棚里。",
+  "use": {
+   "col": [
+    [
+     "den Stall ausmisten",
+     "清理畜棚"
+    ],
+    [
+     "im Stall halten",
+     "圈养"
+    ]
+   ],
+   "tip": "复数变音：Ställe"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Futter",
+  "art": "das",
+  "pos": "n",
+  "zh": "饲料",
+  "ex": [
+   "Die Bauern kaufen im Winter zusätzliches Futter für ihre Tiere."
+  ],
+  "ex_zh": "农民们冬天要为牲畜额外购买饲料。",
+  "use": {
+   "col": [
+    [
+     "Futter geben",
+     "喂饲料"
+    ],
+    [
+     "das Futter für die Katze",
+     "猫粮"
+    ]
+   ],
+   "tip": "没有复数；动词 füttern（已学）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Weide",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Weiden",
+  "zh": "牧场",
+  "ex": [
+   "Im Sommer stehen die Kühe den ganzen Tag auf der Weide."
+  ],
+  "ex_zh": "夏天奶牛整天都在牧场上。",
+  "use": {
+   "col": [
+    [
+     "auf die Weide treiben",
+     "赶到牧场"
+    ],
+    [
+     "eine saftige Weide",
+     "水草丰美的牧场"
+    ]
+   ],
+   "tip": "Wiese（已学）泛指草地；Weide 供牲畜吃草"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Weinberg",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Weinberge",
+  "zh": "葡萄园",
+  "ex": [
+   "An den Hängen des Rheins wachsen Weinberge, soweit das Auge reicht."
+  ],
+  "ex_zh": "莱茵河两岸的山坡上，葡萄园一眼望不到头。",
+  "use": {
+   "col": [
+    [
+     "einen Weinberg bewirtschaften",
+     "经营葡萄园"
+    ],
+    [
+     "durch die Weinberge wandern",
+     "在葡萄园间徒步"
+    ]
+   ],
+   "tip": "复数 -e；Winzer 葡萄种植/酿酒人"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gewächshaus",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Gewächshäuser",
+  "zh": "温室",
+  "ex": [
+   "Tomaten wachsen in den Niederlanden meist in beheizten Gewächshäusern."
+  ],
+  "ex_zh": "荷兰的西红柿大多种在加热的温室里。",
+  "use": {
+   "col": [
+    [
+     "im Gewächshaus anbauen",
+     "在温室里种植"
+    ],
+    [
+     "ein beheiztes Gewächshaus",
+     "加热温室"
+    ]
+   ],
+   "tip": "复数变音；Treibhaus 同义，但 Treibhauseffekt 是另一词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Anbau",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Anbauten",
+  "zh": "种植；扩建部分",
+  "ex": [
+   "Der Anbau von Kartoffeln ist in dieser Region weit verbreitet."
+  ],
+  "ex_zh": "这个地区土豆种植很普遍。",
+  "use": {
+   "senses": [
+    "种植",
+    "（房屋的）扩建部分"
+   ],
+   "col": [
+    [
+     "der Anbau von Getreide",
+     "谷物种植"
+    ],
+    [
+     "ein Anbau am Haus",
+     "房子的扩建部分"
+    ]
+   ],
+   "tip": "第一义没有复数；第二义 Anbauten"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gentechnik",
+  "art": "die",
+  "pos": "n",
+  "zh": "基因技术",
+  "ex": [
+   "Lebensmittel mit Gentechnik müssen in der EU gekennzeichnet werden."
+  ],
+  "ex_zh": "在欧盟，含转基因技术的食品必须标明。",
+  "use": {
+   "col": [
+    [
+     "grüne Gentechnik",
+     "农业基因技术"
+    ],
+    [
+     "gentechnikfrei",
+     "不含转基因"
+    ]
+   ],
+   "tip": "形容词 gentechnisch；没有复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Lebensmittelverschwendung",
+  "art": "die",
+  "pos": "n",
+  "zh": "食物浪费",
+  "ex": [
+   "Gegen Lebensmittelverschwendung gibt es Apps, die übrig gebliebenes Essen günstig verkaufen."
+  ],
+  "ex_zh": "有一些App低价出售剩余食物，以减少食物浪费。",
+  "use": {
+   "col": [
+    [
+     "gegen Lebensmittelverschwendung kämpfen",
+     "对抗食物浪费"
+    ],
+    [
+     "die Lebensmittelverschwendung verringern",
+     "减少食物浪费"
+    ]
+   ],
+   "tip": "动词 verschwenden；Abfälle = 垃圾"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Mindesthaltbarkeitsdatum",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Mindesthaltbarkeitsdaten",
+  "zh": "最佳食用日期",
+  "ex": [
+   "Das Mindesthaltbarkeitsdatum ist kein Verfallsdatum, viele Produkte sind danach noch genießbar."
+  ],
+  "ex_zh": "最佳食用日期不是过期日，很多食品过后仍可食用。",
+  "use": {
+   "col": [
+    [
+     "das Mindesthaltbarkeitsdatum überschreiten",
+     "超过最佳食用日期"
+    ],
+    [
+     "das Mindesthaltbarkeitsdatum prüfen",
+     "查看最佳食用日期"
+    ]
+   ],
+   "tip": "缩写 MHD；Verfallsdatum 才是真正的过期日"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zusatzstoff",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Zusatzstoffe",
+  "zh": "添加剂",
+  "ex": [
+   "Auf der Verpackung stehen alle Zusatzstoffe, die im Produkt enthalten sind."
+  ],
+  "ex_zh": "包装上列出了产品里含有的全部添加剂。",
+  "use": {
+   "col": [
+    [
+     "Zusatzstoffe kennzeichnen",
+     "标明添加剂"
+    ],
+    [
+     "ohne künstliche Zusatzstoffe",
+     "不含人工添加剂"
+    ]
+   ],
+   "tip": "同义 Additiv；Konservierungsstoff 防腐剂"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kennzeichnung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Kennzeichnungen",
+  "zh": "标识；标注",
+  "ex": [
+   "Die Kennzeichnung von Allergenen ist für die Hersteller Pflicht."
+  ],
+  "ex_zh": "生产商必须标明过敏原。",
+  "use": {
+   "col": [
+    [
+     "die Kennzeichnung von Lebensmitteln",
+     "食品标识"
+    ],
+    [
+     "eine Kennzeichnungspflicht",
+     "强制标识义务"
+    ]
+   ],
+   "tip": "动词 kennzeichnen（标明）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Vollkornbrot",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Vollkornbrote",
+  "zh": "全麦面包",
+  "ex": [
+   "Zum Frühstück esse ich am liebsten Vollkornbrot mit Käse."
+  ],
+  "ex_zh": "早餐我最喜欢吃全麦面包夹奶酪。",
+  "use": {
+   "col": [
+    [
+     "eine Scheibe Vollkornbrot",
+     "一片全麦面包"
+    ],
+    [
+     "Vollkornbrot backen",
+     "烤全麦面包"
+    ]
+   ],
+   "tip": "Vollkorn 指带麸皮的全谷物；Brot 已学"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Ballaststoff",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Ballaststoffe",
+  "zh": "膳食纤维",
+  "ex": [
+   "Vollkornprodukte enthalten viele Ballaststoffe, die gut für die Verdauung sind."
+  ],
+  "ex_zh": "全谷物产品含有大量对消化有益的膳食纤维。",
+  "use": {
+   "col": [
+    [
+     "reich an Ballaststoffen",
+     "富含膳食纤维"
+    ],
+    [
+     "Ballaststoffe zu sich nehmen",
+     "摄入膳食纤维"
+    ]
+   ],
+   "tip": "多用复数；字面义是「压舱物」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fertiggericht",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Fertiggerichte",
+  "zh": "预制菜；速食",
+  "ex": [
+   "Unter der Woche greife ich oft zu Fertiggerichten, weil mir die Zeit fehlt."
+  ],
+  "ex_zh": "工作日我常吃速食，因为没时间。",
+  "use": {
+   "col": [
+    [
+     "zu Fertiggerichten greifen",
+     "吃速食"
+    ],
+    [
+     "ein Fertiggericht aufwärmen",
+     "加热速食"
+    ]
+   ],
+   "tip": "Tiefkühlgericht 是冷冻食品"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Eiweiß",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Eiweiße",
+  "zh": "蛋白质；蛋清",
+  "ex": [
+   "Hülsenfrüchte sind eine gute Quelle für pflanzliches Eiweiß."
+  ],
+  "ex_zh": "豆类是植物蛋白的好来源。",
+  "use": {
+   "senses": [
+    "蛋白质",
+    "蛋清"
+   ],
+   "col": [
+    [
+     "pflanzliches Eiweiß",
+     "植物蛋白"
+    ],
+    [
+     "das Eiweiß vom Ei",
+     "蛋清"
+    ]
+   ],
+   "tip": "同义 Protein；也指蛋清"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Nährstoff",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Nährstoffe",
+  "zh": "营养素",
+  "ex": [
+   "Obst und Gemüse liefern wichtige Vitamine und Nährstoffe."
+  ],
+  "ex_zh": "水果和蔬菜提供重要的维生素和营养素。",
+  "use": {
+   "col": [
+    [
+     "wichtige Nährstoffe",
+     "重要营养素"
+    ],
+    [
+     "reich an Nährstoffen",
+     "营养丰富"
+    ]
+   ],
+   "tip": "Nahrung → nähren → Nährstoff"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fleischkonsum",
+  "art": "der",
+  "pos": "n",
+  "zh": "肉类消费",
+  "ex": [
+   "Ein geringerer Fleischkonsum würde dem Klima und der Gesundheit nützen."
+  ],
+  "ex_zh": "减少肉类消费对气候和健康都有好处。",
+  "use": {
+   "col": [
+    [
+     "den Fleischkonsum reduzieren",
+     "减少肉类消费"
+    ],
+    [
+     "der Fleischkonsum pro Kopf",
+     "人均肉类消费"
+    ]
+   ],
+   "tip": "Konsum 已学；没有复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Veganer",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Veganer",
+  "zh": "纯素食者",
+  "ex": [
+   "Veganer verzichten auf alle tierischen Produkte, auch auf Milch und Eier."
+  ],
+  "ex_zh": "纯素食者不吃任何动物产品，包括牛奶和鸡蛋。",
+  "use": {
+   "col": [
+    [
+     "als Veganer leben",
+     "过纯素生活"
+    ],
+    [
+     "ein veganes Gericht",
+     "纯素菜"
+    ]
+   ],
+   "tip": "女性 Veganerin；形容词 vegan"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Hungersnot",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Hungersnöte",
+  "zh": "饥荒",
+  "ex": [
+   "Nach mehreren Dürrejahren brach in der Region eine Hungersnot aus."
+  ],
+  "ex_zh": "连续几年干旱之后，这个地区爆发了饥荒。",
+  "use": {
+   "col": [
+    [
+     "eine Hungersnot droht",
+     "面临饥荒"
+    ],
+    [
+     "von einer Hungersnot betroffen",
+     "受饥荒影响"
+    ]
+   ],
+   "tip": "Not = 困境；复数变音"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Speiseplan",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Speisepläne",
+  "zh": "菜单安排；食谱",
+  "ex": [
+   "Der Speiseplan der Mensa wird jede Woche neu veröffentlicht."
+  ],
+  "ex_zh": "食堂的菜单每周更新发布。",
+  "use": {
+   "col": [
+    [
+     "den Speiseplan ansehen",
+     "看菜单安排"
+    ],
+    [
+     "ein ausgewogener Speiseplan",
+     "均衡的食谱"
+    ]
+   ],
+   "tip": "食堂、幼儿园、学校常用；Speisekarte 是餐厅菜单"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Essgewohnheit",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Essgewohnheiten",
+  "zh": "饮食习惯",
+  "ex": [
+   "Unsere Essgewohnheiten haben großen Einfluss auf das Klima."
+  ],
+  "ex_zh": "我们的饮食习惯对气候影响很大。",
+  "use": {
+   "col": [
+    [
+     "die Essgewohnheiten ändern",
+     "改变饮食习惯"
+    ],
+    [
+     "gesunde Essgewohnheiten",
+     "健康的饮食习惯"
+    ]
+   ],
+   "tip": "多用复数；Ernährungsweise 更书面"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Übergewicht",
+  "art": "das",
+  "pos": "n",
+  "zh": "超重；肥胖",
+  "ex": [
+   "Übergewicht ist in vielen Industrieländern ein wachsendes Problem."
+  ],
+  "ex_zh": "超重在许多工业国家是个日益严重的问题。",
+  "use": {
+   "col": [
+    [
+     "unter Übergewicht leiden",
+     "受超重困扰"
+    ],
+    [
+     "Übergewicht abbauen",
+     "减重"
+    ]
+   ],
+   "tip": "没有复数；Untergewicht 是偏瘦"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Innenstadt",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Innenstädte",
+  "zh": "市中心",
+  "ex": [
+   "In der Innenstadt gibt es kaum noch bezahlbare Wohnungen."
+  ],
+  "ex_zh": "市中心几乎没有负担得起的住房了。",
+  "use": {
+   "col": [
+    [
+     "in die Innenstadt fahren",
+     "去市中心"
+    ],
+    [
+     "die Innenstadt beleben",
+     "让市中心恢复活力"
+    ]
+   ],
+   "tip": "复数变音：Innenstädte"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Stadtteil",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Stadtteile",
+  "zh": "市区；街区",
+  "ex": [
+   "Ich wohne in einem ruhigen Stadtteil am Rand von Karlsruhe."
+  ],
+  "ex_zh": "我住在卡尔斯鲁厄边上一个安静的街区。",
+  "use": {
+   "col": [
+    [
+     "in einem beliebten Stadtteil wohnen",
+     "住在受欢迎的街区"
+    ],
+    [
+     "die Stadtteile Südstadt und Oststadt",
+     "南城、东城两个街区"
+    ]
+   ],
+   "tip": "同义 Stadtviertel"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Stadtrand",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Stadtränder",
+  "zh": "城市边缘；郊区",
+  "ex": [
+   "Am Stadtrand sind die Mieten niedriger, aber der Weg zur Arbeit ist länger."
+  ],
+  "ex_zh": "城郊租金更低，但上班路更远。",
+  "use": {
+   "col": [
+    [
+     "am Stadtrand wohnen",
+     "住在城郊"
+    ],
+    [
+     "an den Stadtrand ziehen",
+     "搬到城郊"
+    ]
+   ],
+   "tip": "复数变音：Stadtränder；比 Vorort（已学）更泛"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Großstadt",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Großstädte",
+  "zh": "大城市",
+  "ex": [
+   "Viele junge Leute ziehen für den ersten Job in eine Großstadt."
+  ],
+  "ex_zh": "许多年轻人为了第一份工作搬到大城市。",
+  "use": {
+   "col": [
+    [
+     "in einer Großstadt leben",
+     "住在大城市"
+    ],
+    [
+     "das Leben in der Großstadt",
+     "大城市生活"
+    ]
+   ],
+   "tip": "德国定义：10 万以上人口；Kleinstadt 小城市"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gemeinde",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Gemeinden",
+  "zh": "乡镇；市镇；教区",
+  "ex": [
+   "Die Gemeinde hat beschlossen, einen neuen Kindergarten zu bauen."
+  ],
+  "ex_zh": "乡镇决定新建一所幼儿园。",
+  "use": {
+   "senses": [
+    "乡镇；市镇",
+    "教会信众"
+   ],
+   "col": [
+    [
+     "der Bürgermeister der Gemeinde",
+     "乡镇长"
+    ],
+    [
+     "eine kleine Gemeinde auf dem Land",
+     "乡下的小乡镇"
+    ]
+   ],
+   "tip": "也指教会信众（Kirchengemeinde）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Neubau",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Neubauten",
+  "zh": "新建建筑；新楼",
+  "ex": [
+   "Die Wohnungen im Neubau sind teurer, aber besser gedämmt."
+  ],
+  "ex_zh": "新楼里的房子更贵，但保温更好。",
+  "use": {
+   "col": [
+    [
+     "in einen Neubau ziehen",
+     "搬进新楼"
+    ],
+    [
+     "der Neubau einer Schule",
+     "新建一所学校"
+    ]
+   ],
+   "tip": "反义词 Altbau；复数 -ten"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Altbau",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Altbauten",
+  "zh": "老房子（尤指二战前的建筑）",
+  "ex": [
+   "In einem Altbau mit hohen Decken zu wohnen, finde ich sehr schön."
+  ],
+  "ex_zh": "我觉得住在层高很高的老房子里很美好。",
+  "use": {
+   "col": [
+    [
+     "eine Wohnung im Altbau",
+     "老房子里的住房"
+    ],
+    [
+     "ein sanierter Altbau",
+     "翻新过的老房子"
+    ]
+   ],
+   "tip": "Altbauwohnung 在德国房源广告里很常见"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Hochhaus",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Hochhäuser",
+  "zh": "高层建筑",
+  "ex": [
+   "Im Zentrum ragen mehrere Hochhäuser aus Glas und Stahl in den Himmel."
+  ],
+  "ex_zh": "市中心有好几座玻璃钢结构的高楼直插云天。",
+  "use": {
+   "col": [
+    [
+     "ein Hochhaus errichten",
+     "建造高楼"
+    ],
+    [
+     "im 15. Stock eines Hochhauses",
+     "高楼的第15层"
+    ]
+   ],
+   "tip": "复数变音：Hochhäuser"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Mehrfamilienhaus",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Mehrfamilienhäuser",
+  "zh": "多户住宅楼",
+  "ex": [
+   "Unser Mehrfamilienhaus hat acht Wohnungen und einen gemeinsamen Garten."
+  ],
+  "ex_zh": "我们的多户住宅楼有八套房和一个公用花园。",
+  "use": {
+   "col": [
+    [
+     "ein Mehrfamilienhaus kaufen",
+     "买一栋多户住宅"
+    ],
+    [
+     "im Mehrfamilienhaus wohnen",
+     "住在多户住宅里"
+    ]
+   ],
+   "tip": "对应：Einfamilienhaus 独栋住宅"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Reihenhaus",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Reihenhäuser",
+  "zh": "联排房屋",
+  "ex": [
+   "Mit zwei Kindern suchen wir ein Reihenhaus mit kleinem Garten."
+  ],
+  "ex_zh": "有两个孩子，我们想找带小花园的联排房子。",
+  "use": {
+   "col": [
+    [
+     "ein Reihenhaus kaufen",
+     "买联排房屋"
+    ],
+    [
+     "das Eckhaus der Reihe",
+     "联排的边户"
+    ]
+   ],
+   "tip": "Doppelhaushälfte 是双拼别墅的一半"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Eigentumswohnung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Eigentumswohnungen",
+  "zh": "自有产权公寓",
+  "ex": [
+   "Sie haben eine Eigentumswohnung gekauft, statt weiter zur Miete zu wohnen."
+  ],
+  "ex_zh": "他们买了一套自有产权的公寓，不再租房住。",
+  "use": {
+   "col": [
+    [
+     "eine Eigentumswohnung erwerben",
+     "购买产权公寓"
+    ],
+    [
+     "eine vermietete Eigentumswohnung",
+     "已出租的产权公寓"
+    ]
+   ],
+   "tip": "缩写 ETW；对应：Mietwohnung 租赁住房"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Eigentümer",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Eigentümer",
+  "zh": "所有者；业主",
+  "ex": [
+   "Die Eigentümer des Hauses haben die Miete zum Jahresbeginn erhöht."
+  ],
+  "ex_zh": "房子的业主在年初提高了租金。",
+  "use": {
+   "col": [
+    [
+     "der Eigentümer der Wohnung",
+     "住房的所有人"
+    ],
+    [
+     "Eigentümer und Mieter",
+     "业主和租客"
+    ]
+   ],
+   "tip": "女性 Eigentümerin；比 Besitzer 更强调法律所有权"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Immobilie",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Immobilien",
+  "zh": "房地产；不动产",
+  "ex": [
+   "Die Preise für Immobilien sind in den letzten Jahren stark gestiegen."
+  ],
+  "ex_zh": "这几年房产价格大幅上涨。",
+  "use": {
+   "col": [
+    [
+     "eine Immobilie kaufen",
+     "购买房产"
+    ],
+    [
+     "in Immobilien investieren",
+     "投资房地产"
+    ]
+   ],
+   "tip": "多用复数；Immobilienmakler 房产中介"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Makler",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Makler",
+  "zh": "中介",
+  "ex": [
+   "Für die Vermittlung der Wohnung verlangte der Makler zwei Monatsmieten."
+  ],
+  "ex_zh": "这位中介为介绍这套房收了两个月租金。",
+  "use": {
+   "col": [
+    [
+     "einen Makler beauftragen",
+     "委托中介"
+    ],
+    [
+     "die Maklerprovision",
+     "中介佣金"
+    ]
+   ],
+   "tip": "女性 Maklerin；Immobilienmakler 的简称"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Mieterhöhung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Mieterhöhungen",
+  "zh": "涨租",
+  "ex": [
+   "Die Mieterhöhung muss der Vermieter dem Mieter schriftlich begründen."
+  ],
+  "ex_zh": "房东必须向租客书面说明涨租的理由。",
+  "use": {
+   "col": [
+    [
+     "einer Mieterhöhung zustimmen",
+     "同意涨租"
+    ],
+    [
+     "eine Mieterhöhung ankündigen",
+     "通知涨租"
+    ]
+   ],
+   "tip": "Erhöhung 已学；Mieter、Miete 已学"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kaltmiete",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Kaltmieten",
+  "zh": "基础租金（不含杂费）",
+  "ex": [
+   "Die Kaltmiete beträgt 650 Euro, dazu kommen noch die Nebenkosten."
+  ],
+  "ex_zh": "基础租金是650欧元，另外还有杂费。",
+  "use": {
+   "col": [
+    [
+     "die Kaltmiete zahlen",
+     "付基础租金"
+    ],
+    [
+     "Kaltmiete plus Nebenkosten",
+     "基础租金加杂费"
+    ]
+   ],
+   "tip": "对应：Warmmiete 含取暖等杂费的租金"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Warmmiete",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Warmmieten",
+  "zh": "总租金（含取暖等杂费）",
+  "ex": [
+   "Die Warmmiete enthält bereits die Kosten für Heizung und Wasser."
+  ],
+  "ex_zh": "总租金已经包含了暖气和水费。",
+  "use": {
+   "col": [
+    [
+     "die Warmmiete überweisen",
+     "转账总租金"
+    ],
+    [
+     "eine Warmmiete von 800 Euro",
+     "800欧元的总租金"
+    ]
+   ],
+   "tip": "租房广告常见缩写：KM / WM"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Nebenkostenabrechnung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Nebenkostenabrechnungen",
+  "zh": "杂费结算单",
+  "ex": [
+   "Die Nebenkostenabrechnung kommt bei uns meistens im Herbst."
+  ],
+  "ex_zh": "我们的杂费结算单通常秋天寄来。",
+  "use": {
+   "col": [
+    [
+     "die Nebenkostenabrechnung prüfen",
+     "核对杂费结算单"
+    ],
+    [
+     "eine Nachzahlung aus der Nebenkostenabrechnung",
+     "杂费结算后的补缴"
+    ]
+   ],
+   "tip": "Nachzahlung 补缴；Guthaben 退款"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Wohnungsmarkt",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Wohnungsmärkte",
+  "zh": "住房市场",
+  "ex": [
+   "Auf dem angespannten Wohnungsmarkt findet man kaum eine bezahlbare Wohnung."
+  ],
+  "ex_zh": "在紧张的住房市场上，几乎找不到负担得起的住房。",
+  "use": {
+   "col": [
+    [
+     "der angespannte Wohnungsmarkt",
+     "紧张的住房市场"
+    ],
+    [
+     "auf dem Wohnungsmarkt suchen",
+     "在住房市场找房"
+    ]
+   ],
+   "tip": "复数变音；常搭配 angespannt"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Wohnungsnot",
+  "art": "die",
+  "pos": "n",
+  "zh": "住房短缺",
+  "ex": [
+   "In vielen Universitätsstädten herrscht Wohnungsnot, vor allem für Studierende."
+  ],
+  "ex_zh": "在许多大学城，住房短缺，尤其是对学生。",
+  "use": {
+   "col": [
+    [
+     "unter Wohnungsnot leiden",
+     "受住房短缺之苦"
+    ],
+    [
+     "gegen die Wohnungsnot vorgehen",
+     "应对住房短缺"
+    ]
+   ],
+   "tip": "没有复数；Not = 紧缺"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Wohngemeinschaft",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Wohngemeinschaften",
+  "zh": "合租（住宅）",
+  "ex": [
+   "Während des Studiums habe ich in einer Wohngemeinschaft mit drei Mitbewohnern gelebt."
+  ],
+  "ex_zh": "大学期间我和三个室友合租过。",
+  "use": {
+   "col": [
+    [
+     "in einer Wohngemeinschaft leben",
+     "合租"
+    ],
+    [
+     "eine Wohngemeinschaft gründen",
+     "组成合租"
+    ]
+   ],
+   "tip": "口语缩写 WG [ve:ge:]"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Mitbewohner",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Mitbewohner",
+  "zh": "室友",
+  "ex": [
+   "Mein Mitbewohner kocht gern, deshalb essen wir oft zusammen."
+  ],
+  "ex_zh": "我的室友喜欢做饭，所以我们常常一起吃饭。",
+  "use": {
+   "col": [
+    [
+     "ein netter Mitbewohner",
+     "好室友"
+    ],
+    [
+     "einen Mitbewohner suchen",
+     "找室友"
+    ]
+   ],
+   "tip": "女性 Mitbewohnerin"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Untermiete",
+  "art": "die",
+  "pos": "n",
+  "zh": "转租；分租",
+  "ex": [
+   "Ich wohne zur Untermiete, bis ich eine eigene Wohnung gefunden habe."
+  ],
+  "ex_zh": "在找到自己的房子之前，我住在转租的房间里。",
+  "use": {
+   "col": [
+    [
+     "zur Untermiete wohnen",
+     "住转租房"
+    ],
+    [
+     "in Untermiete sein",
+     "处于转租中"
+    ]
+   ],
+   "tip": "Untermieter 转租房客；转租需房东同意"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Hausordnung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Hausordnungen",
+  "zh": "住宅楼规章",
+  "ex": [
+   "Laut Hausordnung ist in unserem Haus ab 22 Uhr Nachtruhe."
+  ],
+  "ex_zh": "根据规章，我们楼里晚上10点起是安静时间。",
+  "use": {
+   "col": [
+    [
+     "gegen die Hausordnung verstoßen",
+     "违反住宅规章"
+    ],
+    [
+     "die Hausordnung beachten",
+     "遵守住宅规章"
+    ]
+   ],
+   "tip": "常在楼道里张贴；Nachtruhe 夜间休息时间"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Hausverwaltung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Hausverwaltungen",
+  "zh": "物业管理",
+  "ex": [
+   "Den kaputten Aufzug habe ich der Hausverwaltung gemeldet."
+  ],
+  "ex_zh": "我把坏掉的电梯报给了物业。",
+  "use": {
+   "col": [
+    [
+     "die Hausverwaltung kontaktieren",
+     "联系物业"
+    ],
+    [
+     "eine Mängelanzeige an die Hausverwaltung",
+     "向物业报告缺陷"
+    ]
+   ],
+   "tip": "Hausmeister 是楼管，Hausverwaltung 是公司"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Nachbarschaft",
+  "art": "die",
+  "pos": "n",
+  "zh": "邻里；邻居们",
+  "ex": [
+   "In unserer Nachbarschaft helfen sich die Leute gegenseitig."
+  ],
+  "ex_zh": "在我们这个社区，大家互相帮忙。",
+  "use": {
+   "col": [
+    [
+     "eine gute Nachbarschaft",
+     "良好的邻里关系"
+    ],
+    [
+     "in der Nachbarschaft",
+     "在附近"
+    ]
+   ],
+   "tip": "集合名词，没有复数；Nachbar 已学"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Sanierung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Sanierungen",
+  "zh": "翻新；修缮；整治",
+  "ex": [
+   "Nach der Sanierung ist das alte Gebäude viel energieeffizienter."
+  ],
+  "ex_zh": "翻新之后，这座老建筑的能效高多了。",
+  "use": {
+   "col": [
+    [
+     "die energetische Sanierung",
+     "节能改造"
+    ],
+    [
+     "eine Sanierung durchführen",
+     "进行翻新"
+    ]
+   ],
+   "tip": "动词 sanieren；也用于企业重组"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Umbau",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Umbauten",
+  "zh": "改建",
+  "ex": [
+   "Während des Umbaus musste das Café mehrere Wochen schließen."
+  ],
+  "ex_zh": "改建期间，咖啡馆关门了好几周。",
+  "use": {
+   "col": [
+    [
+     "der Umbau des Hauses",
+     "房屋改建"
+    ],
+    [
+     "wegen Umbau geschlossen",
+     "因改建关闭"
+    ]
+   ],
+   "tip": "Neubau 新建，Umbau 改建，Anbau 扩建"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Baustoff",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Baustoffe",
+  "zh": "建筑材料",
+  "ex": [
+   "Holz gilt in der Baubranche als umweltfreundlicher und nachwachsender Baustoff."
+  ],
+  "ex_zh": "在建筑行业，木材被认为是环保的可再生建筑材料。",
+  "use": {
+   "col": [
+    [
+     "nachhaltige Baustoffe",
+     "可持续建材"
+    ],
+    [
+     "Baustoffe liefern",
+     "供应建材"
+    ]
+   ],
+   "tip": "同义 Baumaterial；Baustoffhandel 建材店"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Beton",
+  "art": "der",
+  "pos": "n",
+  "zh": "混凝土",
+  "ex": [
+   "Die Herstellung von Beton verbraucht sehr viel Energie."
+  ],
+  "ex_zh": "生产混凝土消耗大量能源。",
+  "use": {
+   "col": [
+    [
+     "Beton gießen",
+     "浇筑混凝土"
+    ],
+    [
+     "Stahlbeton",
+     "钢筋混凝土"
+    ]
+   ],
+   "tip": "发音 [beˈtɔŋ] 或 [beˈtoːn]；没有复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Ziegel",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Ziegel",
+  "zh": "砖；瓦",
+  "ex": [
+   "Das alte Haus am Marktplatz wurde aus roten Ziegeln gebaut."
+  ],
+  "ex_zh": "集市广场旁的老房子是用红砖盖的。",
+  "use": {
+   "col": [
+    [
+     "aus Ziegeln bauen",
+     "用砖建造"
+    ],
+    [
+     "das Dach mit Ziegeln decken",
+     "用瓦盖屋顶"
+    ]
+   ],
+   "tip": "Backstein 同义；Dachziegel 屋顶瓦"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fassade",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Fassaden",
+  "zh": "外墙；立面",
+  "ex": [
+   "Die Fassade des Hauses wird gerade neu gestrichen."
+  ],
+  "ex_zh": "房子的外墙正在重新粉刷。",
+  "use": {
+   "col": [
+    [
+     "die Fassade renovieren",
+     "翻新外墙"
+    ],
+    [
+     "eine begrünte Fassade",
+     "绿化外墙"
+    ]
+   ],
+   "tip": "比喻「表面」，如 hinter die Fassade blicken"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Dachboden",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Dachböden",
+  "zh": "阁楼",
+  "ex": [
+   "Auf dem Dachboden lagern noch alte Möbel meiner Großeltern."
+  ],
+  "ex_zh": "阁楼上还放着我祖父母的旧家具。",
+  "use": {
+   "col": [
+    [
+     "etwas auf dem Dachboden aufbewahren",
+     "把东西放在阁楼"
+    ],
+    [
+     "den Dachboden ausbauen",
+     "改造阁楼"
+    ]
+   ],
+   "tip": "复数变音；Dachgeschoss 是可居住的顶层"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Dachgeschoss",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Dachgeschosse",
+  "zh": "顶层（屋顶下的楼层）",
+  "ex": [
+   "Die Wohnung im Dachgeschoss hat schräge Wände und einen schönen Blick."
+  ],
+  "ex_zh": "顶层的房子有斜墙，景色很美。",
+  "use": {
+   "col": [
+    [
+     "im Dachgeschoss wohnen",
+     "住在顶层"
+    ],
+    [
+     "das Dachgeschoss ausbauen",
+     "改造顶层"
+    ]
+   ],
+   "tip": "缩写 DG；Erdgeschoss 已学"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Abstellraum",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Abstellräume",
+  "zh": "储物间",
+  "ex": [
+   "Im Keller gibt es einen Abstellraum für Fahrräder und Kinderwagen."
+  ],
+  "ex_zh": "地下室里有个放自行车和婴儿车的储物间。",
+  "use": {
+   "col": [
+    [
+     "einen Abstellraum nutzen",
+     "使用储物间"
+    ],
+    [
+     "etwas im Abstellraum lassen",
+     "把东西留在储物间"
+    ]
+   ],
+   "tip": "复数变音；Abstellkammer 同义"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Heizkörper",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Heizkörper",
+  "zh": "暖气片",
+  "ex": [
+   "Der Heizkörper im Schlafzimmer wird nicht mehr richtig warm."
+  ],
+  "ex_zh": "卧室的暖气片不太热了。",
+  "use": {
+   "col": [
+    [
+     "den Heizkörper entlüften",
+     "给暖气片排气"
+    ],
+    [
+     "den Heizkörper aufdrehen",
+     "打开暖气片"
+    ]
+   ],
+   "tip": "Heizung（已学）是整个暖气系统"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fußbodenheizung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Fußbodenheizungen",
+  "zh": "地暖",
+  "ex": [
+   "Dank der Fußbodenheizung sind die Fliesen im Bad immer angenehm warm."
+  ],
+  "ex_zh": "有了地暖，卫生间的瓷砖总是暖暖的。",
+  "use": {
+   "col": [
+    [
+     "eine Fußbodenheizung einbauen",
+     "安装地暖"
+    ],
+    [
+     "mit Fußbodenheizung",
+     "带地暖"
+    ]
+   ],
+   "tip": "房源广告常见：FBH"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Schimmel",
+  "art": "der",
+  "pos": "n",
+  "zh": "霉；霉菌",
+  "ex": [
+   "Wegen der Feuchtigkeit hat sich an der Wand Schimmel gebildet."
+  ],
+  "ex_zh": "由于潮湿，墙上长了霉。",
+  "use": {
+   "col": [
+    [
+     "Schimmel entfernen",
+     "除霉"
+    ],
+    [
+     "sich Schimmel bilden",
+     "长霉"
+    ]
+   ],
+   "tip": "租房纠纷高频词；没有复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Feuchtigkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "潮湿；湿气",
+  "ex": [
+   "Hohe Feuchtigkeit in der Wohnung kann zu Schimmel führen."
+  ],
+  "ex_zh": "房间里湿度太高会导致长霉。",
+  "use": {
+   "col": [
+    [
+     "Feuchtigkeit in den Wänden",
+     "墙体潮湿"
+    ],
+    [
+     "vor Feuchtigkeit schützen",
+     "防潮"
+    ]
+   ],
+   "tip": "形容词 feucht（已学）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Grünfläche",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Grünflächen",
+  "zh": "绿地",
+  "ex": [
+   "Die Stadt will mehr Grünflächen schaffen, um die Hitze im Sommer zu mildern."
+  ],
+  "ex_zh": "这座城市想增加绿地，以缓解夏天的高温。",
+  "use": {
+   "col": [
+    [
+     "Grünflächen anlegen",
+     "建绿地"
+    ],
+    [
+     "öffentliche Grünflächen",
+     "公共绿地"
+    ]
+   ],
+   "tip": "Park（已学）是公园，Grünfläche 更广"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gewerbegebiet",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Gewerbegebiete",
+  "zh": "商业／工业区",
+  "ex": [
+   "Das Unternehmen sucht ein Grundstück in einem Gewerbegebiet am Stadtrand."
+  ],
+  "ex_zh": "这家公司在城郊的工商业区找一块地。",
+  "use": {
+   "col": [
+    [
+     "im Gewerbegebiet liegen",
+     "位于工商业区"
+    ],
+    [
+     "ein Gewerbegebiet ausweisen",
+     "划定工商业区"
+    ]
+   ],
+   "tip": "Wohngebiet 是住宅区"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Infrastruktur",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Infrastrukturen",
+  "zh": "基础设施",
+  "ex": [
+   "Auf dem Land fehlt oft eine gute Infrastruktur, etwa Busverbindungen und Ärzte."
+  ],
+  "ex_zh": "农村往往缺少良好的基础设施，比如公交和医生。",
+  "use": {
+   "col": [
+    [
+     "die Infrastruktur ausbauen",
+     "扩建基础设施"
+    ],
+    [
+     "eine gut entwickelte Infrastruktur",
+     "完善的基础设施"
+    ]
+   ],
+   "tip": "复数少用；Straße、Schiene、Netz 都属于它"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Bauland",
+  "art": "das",
+  "pos": "n",
+  "zh": "建设用地",
+  "ex": [
+   "Bauland ist in Ballungsräumen knapp und sehr teuer."
+  ],
+  "ex_zh": "在大都市圈，建设用地稀缺而且很贵。",
+  "use": {
+   "col": [
+    [
+     "Bauland ausweisen",
+     "划定建设用地"
+    ],
+    [
+     "Bauland erschließen",
+     "开发建设用地"
+    ]
+   ],
+   "tip": "没有复数；Grundstück（已学）是地块"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Baugenehmigung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Baugenehmigungen",
+  "zh": "建筑许可",
+  "ex": [
+   "Ohne Baugenehmigung darf man in Deutschland kein Haus bauen."
+  ],
+  "ex_zh": "在德国没有建筑许可不能盖房子。",
+  "use": {
+   "col": [
+    [
+     "eine Baugenehmigung beantragen",
+     "申请建筑许可"
+    ],
+    [
+     "die Baugenehmigung erteilen",
+     "颁发建筑许可"
+    ]
+   ],
+   "tip": "genehmigen 已学"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Bauarbeiter",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Bauarbeiter",
+  "zh": "建筑工人",
+  "ex": [
+   "Die Bauarbeiter fangen morgens schon um sechs Uhr an."
+  ],
+  "ex_zh": "建筑工人早上六点就开工了。",
+  "use": {
+   "col": [
+    [
+     "als Bauarbeiter arbeiten",
+     "当建筑工人"
+    ],
+    [
+     "die Bauarbeiter auf der Baustelle",
+     "工地上的工人"
+    ]
+   ],
+   "tip": "女性 Bauarbeiterin"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Baukosten (Pl.)",
+  "art": "die",
+  "pos": "n",
+  "zh": "建筑费用",
+  "ex": [
+   "Die Baukosten sind wegen der Materialpreise stark gestiegen."
+  ],
+  "ex_zh": "因为材料价格，建筑费用大幅上升。",
+  "use": {
+   "col": [
+    [
+     "die Baukosten senken",
+     "降低建筑成本"
+    ],
+    [
+     "die Baukosten überschreiten",
+     "超出建筑预算"
+    ]
+   ],
+   "tip": "只用复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Denkmalschutz",
+  "art": "der",
+  "pos": "n",
+  "zh": "文物保护",
+  "ex": [
+   "Das Gebäude steht unter Denkmalschutz, deshalb darf die Fassade nicht verändert werden."
+  ],
+  "ex_zh": "这座建筑受文物保护，因此外墙不能改动。",
+  "use": {
+   "col": [
+    [
+     "unter Denkmalschutz stehen",
+     "受文物保护"
+    ],
+    [
+     "das Amt für Denkmalschutz",
+     "文物保护局"
+    ]
+   ],
+   "tip": "没有复数；Denkmal 已学"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Straßenlaterne",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Straßenlaternen",
+  "zh": "路灯",
+  "ex": [
+   "Nachts sind einige Straßenlaternen ausgefallen, deshalb ist es sehr dunkel."
+  ],
+  "ex_zh": "夜里有几盏路灯坏了，所以很暗。",
+  "use": {
+   "col": [
+    [
+     "die Straßenlaterne einschalten",
+     "打开路灯"
+    ],
+    [
+     "eine defekte Straßenlaterne",
+     "坏掉的路灯"
+    ]
+   ],
+   "tip": "Laterne 本义灯笼"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Schlagloch",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Schlaglöcher",
+  "zh": "坑洼（路面）",
+  "ex": [
+   "Auf dieser Straße gibt es so viele Schlaglöcher, dass man vorsichtig fahren muss."
+  ],
+  "ex_zh": "这条路上坑太多，必须小心开。",
+  "use": {
+   "col": [
+    [
+     "ein Schlagloch ausbessern",
+     "修补坑洼"
+    ],
+    [
+     "in ein Schlagloch fahren",
+     "开进坑里"
+    ]
+   ],
+   "tip": "复数变音：Schlaglöcher"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Obdachlose",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Obdachlosen",
+  "zh": "无家可归者",
+  "ex": [
+   "Im Winter bieten viele Städte Obdachlosen eine Notunterkunft an."
+  ],
+  "ex_zh": "冬天许多城市为无家可归者提供临时住处。",
+  "use": {
+   "col": [
+    [
+     "Obdachlosen helfen",
+     "帮助无家可归者"
+    ],
+    [
+     "ein Obdachloser",
+     "一位无家可归者"
+    ]
+   ],
+   "tip": "形容词变化：der/ein Obdachlose(r)"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Sozialwohnung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Sozialwohnungen",
+  "zh": "社会保障房；廉租房",
+  "ex": [
+   "Mit einem Wohnberechtigungsschein kann man eine Sozialwohnung mieten."
+  ],
+  "ex_zh": "有住房资格证明才能租社会保障房。",
+  "use": {
+   "col": [
+    [
+     "eine Sozialwohnung beantragen",
+     "申请社会保障房"
+    ],
+    [
+     "Sozialwohnungen bauen",
+     "建造社会保障房"
+    ]
+   ],
+   "tip": "需要 Wohnberechtigungsschein (WBS)"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Wohngeld",
+  "art": "das",
+  "pos": "n",
+  "zh": "住房补贴",
+  "ex": [
+   "Wer wenig verdient, kann beim Amt Wohngeld beantragen."
+  ],
+  "ex_zh": "收入低的人可以向主管机构申请住房补贴。",
+  "use": {
+   "col": [
+    [
+     "Wohngeld beantragen",
+     "申请住房补贴"
+    ],
+    [
+     "Anspruch auf Wohngeld haben",
+     "有权领取住房补贴"
+    ]
+   ],
+   "tip": "没有复数；Geld 已学"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Brunnen",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Brunnen",
+  "zh": "喷泉；井",
+  "ex": [
+   "Auf dem Marktplatz steht ein alter Brunnen mit einer Statue."
+  ],
+  "ex_zh": "集市广场上有一座带雕像的老喷泉。",
+  "use": {
+   "col": [
+    [
+     "ein Brunnen auf dem Platz",
+     "广场上的喷泉"
+    ],
+    [
+     "einen Brunnen graben",
+     "打井"
+    ]
+   ],
+   "tip": "复数同形"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "pendeln",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "gependelt",
+  "forms": "pendelt, pendelte, ist gependelt",
+  "zh": "通勤；往返",
+  "ex": [
+   "Ich pendle jeden Tag mit dem Zug von Heidelberg nach Karlsruhe."
+  ],
+  "ex_zh": "我每天坐火车从海德堡到卡尔斯鲁厄通勤。",
+  "use": {
+   "col": [
+    [
+     "zwischen Wohnort und Arbeitsplatz pendeln",
+     "在住地和工作地之间通勤"
+    ],
+    [
+     "täglich pendeln",
+     "每天通勤"
+    ]
+   ],
+   "tip": "名词 der Pendler；助动词常用 ist"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "recyceln",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "recycelt",
+  "forms": "recycelt, recycelte, hat recycelt",
+  "zh": "回收利用",
+  "ex": [
+   "Plastikflaschen werden recycelt und zu neuen Produkten verarbeitet."
+  ],
+  "ex_zh": "塑料瓶被回收并加工成新产品。",
+  "use": {
+   "col": [
+    [
+     "Altpapier recyceln",
+     "回收废纸"
+    ],
+    [
+     "recycelte Materialien",
+     "再生材料"
+    ]
+   ],
+   "tip": "第二分词 recycelt 没有 ge-；名词 das Recycling"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "einsparen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingespart",
+  "forms": "spart ein, sparte ein, hat eingespart",
+  "zh": "节省；节约",
+  "ex": [
+   "Mit einer neuen Heizung konnten wir jedes Jahr viel Energie einsparen."
+  ],
+  "ex_zh": "换了新暖气后，我们每年能省下很多能源。",
+  "use": {
+   "col": [
+    [
+     "Energie einsparen",
+     "节约能源"
+    ],
+    [
+     "Kosten einsparen",
+     "节省费用"
+    ]
+   ],
+   "tip": "可分动词；比 sparen（已学）更强调削减的量"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verschwenden",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verschwendet",
+  "forms": "verschwendet, verschwendete, hat verschwendet",
+  "zh": "浪费",
+  "ex": [
+   "Wir sollten kein Wasser verschwenden, wenn wir uns die Zähne putzen."
+  ],
+  "ex_zh": "刷牙时我们不应该浪费水。",
+  "use": {
+   "col": [
+    [
+     "Energie verschwenden",
+     "浪费能源"
+    ],
+    [
+     "Zeit und Geld verschwenden",
+     "浪费时间和金钱"
+    ]
+   ],
+   "tip": "名词 die Verschwendung；不可分"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "belasten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "belastet",
+  "forms": "belastet, belastete, hat belastet",
+  "zh": "使负担；污染；使受压",
+  "ex": [
+   "Der starke Verkehr belastet die Anwohner und die Umwelt."
+  ],
+  "ex_zh": "繁忙的交通给居民和环境带来负担。",
+  "gov": "jdn./etw. mit etw. belasten",
+  "use": {
+   "senses": [
+    "给…造成负担",
+    "污染；（账户等）记借"
+   ],
+   "col": [
+    [
+     "die Umwelt belasten",
+     "污染环境"
+    ],
+    [
+     "das Budget belasten",
+     "加重预算负担"
+    ]
+   ],
+   "tip": "名词 die Belastung；反义 entlasten"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "ausstoßen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ausgestoßen",
+  "forms": "stößt aus, stieß aus, hat ausgestoßen",
+  "zh": "排放；发出",
+  "ex": [
+   "Moderne Autos stoßen deutlich weniger Schadstoffe aus als ältere Modelle."
+  ],
+  "ex_zh": "现代汽车比老款排放的有害物质少得多。",
+  "use": {
+   "col": [
+    [
+     "CO2 ausstoßen",
+     "排放二氧化碳"
+    ],
+    [
+     "Abgase ausstoßen",
+     "排放废气"
+    ]
+   ],
+   "tip": "名词 der Ausstoß（排放量）；不规则动词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "aussterben",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "ausgestorben",
+  "forms": "stirbt aus, starb aus, ist ausgestorben",
+  "zh": "灭绝；绝种",
+  "ex": [
+   "Viele Tierarten sind bereits ausgestorben oder stehen kurz davor."
+  ],
+  "ex_zh": "许多动物物种已经灭绝，或者濒临灭绝。",
+  "use": {
+   "col": [
+    [
+     "eine Art stirbt aus",
+     "一个物种灭绝"
+    ],
+    [
+     "ausgestorbene Tiere",
+     "已灭绝的动物"
+    ]
+   ],
+   "tip": "名词 das Aussterben；可分动词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "schonen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "geschont",
+  "forms": "schont, schonte, hat geschont",
+  "zh": "爱惜；保护；节约",
+  "ex": [
+   "Wer Wasser spart, schont die Umwelt und den eigenen Geldbeutel."
+  ],
+  "ex_zh": "节约用水的人既保护环境，也保护自己的钱包。",
+  "use": {
+   "col": [
+    [
+     "die Umwelt schonen",
+     "爱护环境"
+    ],
+    [
+     "sich schonen",
+     "保重身体"
+    ]
+   ],
+   "tip": "形容词 schonend；反身义 sich schonen = 好好休息"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "abholzen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgeholzt",
+  "forms": "holzt ab, holzte ab, hat abgeholzt",
+  "zh": "砍伐（森林）",
+  "ex": [
+   "Für neue Felder wurden große Teile des Waldes abgeholzt."
+  ],
+  "ex_zh": "为了开辟新农田，大片森林被砍掉了。",
+  "use": {
+   "col": [
+    [
+     "Wälder abholzen",
+     "砍伐森林"
+    ],
+    [
+     "großflächig abholzen",
+     "大面积砍伐"
+    ]
+   ],
+   "tip": "名词 die Abholzung；Holz（已学）+ ab"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "überschwemmen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "überschwemmt",
+  "forms": "überschwemmt, überschwemmte, hat überschwemmt",
+  "zh": "淹没；使泛滥",
+  "ex": [
+   "Der Fluss ist über die Ufer getreten und hat die Wiesen überschwemmt."
+  ],
+  "ex_zh": "河水漫过河岸，淹没了草地。",
+  "use": {
+   "col": [
+    [
+     "Felder überschwemmen",
+     "淹没农田"
+    ],
+    [
+     "mit Werbung überschwemmt werden",
+     "被广告淹没"
+    ]
+   ],
+   "tip": "不可分动词；名词 die Überschwemmung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "schmelzen",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "geschmolzen",
+  "forms": "schmilzt, schmolz, ist geschmolzen",
+  "zh": "融化",
+  "ex": [
+   "Im Frühling schmilzt der Schnee in den Bergen und die Bäche schwellen an."
+  ],
+  "ex_zh": "春天山里的雪融化，溪流水位上涨。",
+  "use": {
+   "col": [
+    [
+     "das Eis schmilzt",
+     "冰融化"
+    ],
+    [
+     "Butter schmelzen",
+     "把黄油融化"
+    ]
+   ],
+   "tip": "不规则；及物（使融化）时用 hat geschmolzen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sanieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "saniert",
+  "forms": "saniert, sanierte, hat saniert",
+  "zh": "翻新；整治；重组",
+  "ex": [
+   "Die Stadt will die alten Schulgebäude bis nächstes Jahr sanieren."
+  ],
+  "ex_zh": "市里想在明年之前翻新这些老校舍。",
+  "use": {
+   "col": [
+    [
+     "ein Gebäude sanieren",
+     "翻新建筑"
+    ],
+    [
+     "energetisch sanieren",
+     "节能改造"
+    ]
+   ],
+   "tip": "名词 die Sanierung；也用于企业重组"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "abreißen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgerissen",
+  "forms": "reißt ab, riss ab, hat abgerissen",
+  "zh": "拆除；撕下",
+  "ex": [
+   "Das baufällige Haus am Bahnhof soll im Herbst abgerissen werden."
+  ],
+  "ex_zh": "火车站旁破旧的房子将在秋天拆除。",
+  "use": {
+   "senses": [
+    "拆除",
+    "撕下"
+   ],
+   "col": [
+    [
+     "ein Gebäude abreißen",
+     "拆除建筑"
+    ],
+    [
+     "ein Blatt abreißen",
+     "撕下一页"
+    ]
+   ],
+   "tip": "名词 der Abriss；不规则动词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "errichten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "errichtet",
+  "forms": "errichtet, errichtete, hat errichtet",
+  "zh": "建造；设立",
+  "ex": [
+   "Auf dem Gelände soll ein neues Wohnviertel errichtet werden."
+  ],
+  "ex_zh": "这块地上将建一个新的住宅区。",
+  "use": {
+   "col": [
+    [
+     "ein Gebäude errichten",
+     "建造建筑"
+    ],
+    [
+     "ein Denkmal errichten",
+     "立纪念碑"
+    ]
+   ],
+   "tip": "书面语，比 bauen 更正式"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "ausbauen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ausgebaut",
+  "forms": "baut aus, baute aus, hat ausgebaut",
+  "zh": "扩建；扩大；改建",
+  "ex": [
+   "Die Bahn will das Netz der Schnellstrecken bis 2030 weiter ausbauen."
+  ],
+  "ex_zh": "德铁想在2030年前继续扩建高速线路网。",
+  "use": {
+   "col": [
+    [
+     "das Netz ausbauen",
+     "扩建网络"
+    ],
+    [
+     "den Dachboden ausbauen",
+     "改造阁楼"
+    ]
+   ],
+   "tip": "名词 der Ausbau；也指拆下零件"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "anbauen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "angebaut",
+  "forms": "baut an, baute an, hat angebaut",
+  "zh": "种植；扩建",
+  "ex": [
+   "In dieser Region werden vor allem Wein und Obst angebaut."
+  ],
+  "ex_zh": "这个地区主要种植葡萄和水果。",
+  "use": {
+   "senses": [
+    "种植",
+    "扩建（房子）"
+   ],
+   "col": [
+    [
+     "Getreide anbauen",
+     "种植谷物"
+    ],
+    [
+     "ein Zimmer anbauen",
+     "加盖一间房"
+    ]
+   ],
+   "tip": "名词 der Anbau"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "ernten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "geerntet",
+  "forms": "erntet, erntete, hat geerntet",
+  "zh": "收获；收割",
+  "ex": [
+   "Im September ernten die Bauern die Äpfel auf den Plantagen."
+  ],
+  "ex_zh": "九月农民们在果园里收苹果。",
+  "use": {
+   "col": [
+    [
+     "Obst ernten",
+     "收水果"
+    ],
+    [
+     "Lob ernten",
+     "获得称赞"
+    ]
+   ],
+   "tip": "名词 die Ernte（已学）；比喻「收获」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "düngen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gedüngt",
+  "forms": "düngt, düngte, hat gedüngt",
+  "zh": "施肥",
+  "ex": [
+   "Im Frühjahr düngen viele Gartenbesitzer ihren Rasen mit Kompost."
+  ],
+  "ex_zh": "春天许多有花园的人用堆肥给草坪施肥。",
+  "use": {
+   "col": [
+    [
+     "den Boden düngen",
+     "给土壤施肥"
+    ],
+    [
+     "mit Mist düngen",
+     "用粪肥施肥"
+    ]
+   ],
+   "tip": "名词 der Dünger"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "züchten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gezüchtet",
+  "forms": "züchtet, züchtete, hat gezüchtet",
+  "zh": "培育；饲养繁殖",
+  "ex": [
+   "Er züchtet in seinem Garten seltene Rosen und Tomatensorten."
+  ],
+  "ex_zh": "他在花园里培育稀有的玫瑰和西红柿品种。",
+  "use": {
+   "col": [
+    [
+     "Pferde züchten",
+     "繁育马"
+    ],
+    [
+     "Bakterien züchten",
+     "培养细菌"
+    ]
+   ],
+   "tip": "名词 die Zucht，der Züchter"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "jagen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gejagt",
+  "forms": "jagt, jagte, hat gejagt",
+  "zh": "打猎；追赶",
+  "ex": [
+   "Im Herbst jagen die Jäger in den Wäldern Rehe und Wildschweine."
+  ],
+  "ex_zh": "秋天猎人们在森林里猎狍子和野猪。",
+  "use": {
+   "col": [
+    [
+     "Wild jagen",
+     "猎野味"
+    ],
+    [
+     "einen Dieb jagen",
+     "追赶小偷"
+    ]
+   ],
+   "tip": "名词 der Jäger，die Jagd"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "lüften",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gelüftet",
+  "forms": "lüftet, lüftete, hat gelüftet",
+  "zh": "通风",
+  "ex": [
+   "Im Winter sollte man mehrmals am Tag kurz die Wohnung lüften."
+  ],
+  "ex_zh": "冬天应该每天几次短时间给房间通风。",
+  "use": {
+   "col": [
+    [
+     "die Wohnung lüften",
+     "给房间通风"
+    ],
+    [
+     "stoßlüften",
+     "短时间开窗通风"
+    ]
+   ],
+   "tip": "德国人很重视 Stoßlüften，可防止长霉"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "dämmen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gedämmt",
+  "forms": "dämmt, dämmte, hat gedämmt",
+  "zh": "保温；隔热；隔音",
+  "ex": [
+   "Wer sein Haus gut dämmt, spart viel Heizenergie."
+  ],
+  "ex_zh": "把房子保温做好的人能省下很多取暖能源。",
+  "use": {
+   "col": [
+    [
+     "ein Haus dämmen",
+     "给房子做保温"
+    ],
+    [
+     "gut gedämmt sein",
+     "保温良好"
+    ]
+   ],
+   "tip": "名词 die Dämmung；同义 isolieren"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "einparken",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingeparkt",
+  "forms": "parkt ein, parkte ein, hat eingeparkt",
+  "zh": "把车停进车位",
+  "ex": [
+   "Ich brauche immer lange, um in enge Parklücken einzuparken."
+  ],
+  "ex_zh": "我停进窄车位总要花很长时间。",
+  "use": {
+   "col": [
+    [
+     "rückwärts einparken",
+     "倒车入位"
+    ],
+    [
+     "in eine Lücke einparken",
+     "停进车位"
+    ]
+   ],
+   "tip": "反义 ausparken；Parklücke 停车位"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "abschleppen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgeschleppt",
+  "forms": "schleppt ab, schleppte ab, hat abgeschleppt",
+  "zh": "拖走（车辆）",
+  "ex": [
+   "Das falsch geparkte Auto wurde von der Polizei abgeschleppt."
+  ],
+  "ex_zh": "停错位置的车被警察拖走了。",
+  "use": {
+   "col": [
+    [
+     "ein Auto abschleppen lassen",
+     "找人拖车"
+    ],
+    [
+     "der Abschleppdienst",
+     "拖车服务"
+    ]
+   ],
+   "tip": "可分动词；名词 der Abschleppwagen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "entwerten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "entwertet",
+  "forms": "entwertet, entwertete, hat entwertet",
+  "zh": "给车票验票；使贬值",
+  "ex": [
+   "Vergiss nicht, die Fahrkarte vor der Fahrt zu entwerten."
+  ],
+  "ex_zh": "别忘了上车前给车票验票。",
+  "use": {
+   "senses": [
+    "验票；使无效",
+    "使贬值"
+   ],
+   "col": [
+    [
+     "den Fahrschein entwerten",
+     "给车票验票"
+    ],
+    [
+     "eine Währung entwerten",
+     "使货币贬值"
+    ]
+   ],
+   "tip": "德国部分城市的纸质车票须自己验票；不可分动词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "gefährden",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gefährdet",
+  "forms": "gefährdet, gefährdete, hat gefährdet",
+  "zh": "危及；使陷入危险",
+  "ex": [
+   "Zu schnelles Fahren gefährdet nicht nur den Fahrer, sondern auch andere."
+  ],
+  "ex_zh": "开得太快不仅危及司机，也危及别人。",
+  "use": {
+   "col": [
+    [
+     "die Gesundheit gefährden",
+     "危害健康"
+    ],
+    [
+     "den Frieden gefährden",
+     "危及和平"
+    ]
+   ],
+   "tip": "名词 die Gefährdung；形容词 gefährdet"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "bedrohen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bedroht",
+  "forms": "bedroht, bedrohte, hat bedroht",
+  "zh": "威胁",
+  "ex": [
+   "Der steigende Meeresspiegel bedroht die Küstenregionen und viele Inseln."
+  ],
+  "ex_zh": "不断上升的海平面威胁着沿海地区和许多岛屿。",
+  "use": {
+   "col": [
+    [
+     "vom Aussterben bedroht",
+     "濒临灭绝"
+    ],
+    [
+     "jemanden mit dem Tod bedrohen",
+     "用死亡威胁某人"
+    ]
+   ],
+   "tip": "名词 die Bedrohung；形容词 bedroht"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "schädigen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "geschädigt",
+  "forms": "schädigt, schädigte, hat geschädigt",
+  "zh": "损害；伤害",
+  "ex": [
+   "Zu viel Lärm kann auf Dauer das Gehör schädigen."
+  ],
+  "ex_zh": "噪音太大长期会损伤听力。",
+  "use": {
+   "col": [
+    [
+     "die Umwelt schädigen",
+     "损害环境"
+    ],
+    [
+     "die Gesundheit schädigen",
+     "损害健康"
+    ]
+   ],
+   "tip": "名词 die Schädigung；比 schaden 更书面、及物"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verunreinigen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verunreinigt",
+  "forms": "verunreinigt, verunreinigte, hat verunreinigt",
+  "zh": "污染；弄脏",
+  "ex": [
+   "Chemikalien haben den Fluss verunreinigt und viele Fische getötet."
+  ],
+  "ex_zh": "化学品污染了河水，毒死了许多鱼。",
+  "use": {
+   "col": [
+    [
+     "das Wasser verunreinigen",
+     "污染水质"
+    ],
+    [
+     "verunreinigt sein",
+     "受污染"
+    ]
+   ],
+   "tip": "书面或官方用语；名词 die Verunreinigung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "erneuern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "erneuert",
+  "forms": "erneuert, erneuerte, hat erneuert",
+  "zh": "更新；翻新；续签",
+  "ex": [
+   "Die Stadt lässt die alte Brücke bis zum Winter erneuern."
+  ],
+  "ex_zh": "市里让人在冬天之前翻新这座老桥。",
+  "use": {
+   "col": [
+    [
+     "einen Vertrag erneuern",
+     "续签合同"
+    ],
+    [
+     "ein Dach erneuern",
+     "翻新屋顶"
+    ]
+   ],
+   "tip": "名词 die Erneuerung；形容词 erneuerbar"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich ausbreiten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ausgebreitet",
+  "forms": "breitet sich aus, breitete sich aus, hat sich ausgebreitet",
+  "zh": "蔓延；扩散",
+  "ex": [
+   "Das Feuer hat sich wegen des starken Windes schnell ausgebreitet."
+  ],
+  "ex_zh": "由于风大，火势迅速蔓延。",
+  "use": {
+   "col": [
+    [
+     "sich schnell ausbreiten",
+     "迅速蔓延"
+    ],
+    [
+     "eine Krankheit breitet sich aus",
+     "疾病蔓延"
+    ]
+   ],
+   "tip": "可分、反身；名词 die Ausbreitung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich erwärmen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "erwärmt",
+  "forms": "erwärmt sich, erwärmte sich, hat sich erwärmt",
+  "zh": "变暖",
+  "ex": [
+   "Die Meere erwärmen sich seit Jahrzehnten immer weiter."
+  ],
+  "ex_zh": "海洋几十年来一直在继续变暖。",
+  "use": {
+   "col": [
+    [
+     "sich langsam erwärmen",
+     "慢慢变暖"
+    ],
+    [
+     "die Erde erwärmt sich",
+     "地球变暖"
+    ]
+   ],
+   "tip": "及物用法 etw. erwärmen = 加热；名词 die Erwärmung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "vorbeugen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "vorgebeugt",
+  "forms": "beugt vor, beugte vor, hat vorgebeugt",
+  "zh": "预防",
+  "ex": [
+   "Regelmäßige Bewegung und gesunde Ernährung beugen vielen Krankheiten vor."
+  ],
+  "ex_zh": "经常运动和健康饮食可以预防许多疾病。",
+  "gov": "vorbeugen + Dat.",
+  "use": {
+   "col": [
+    [
+     "einer Krankheit vorbeugen",
+     "预防疾病"
+    ],
+    [
+     "vorbeugend wirken",
+     "起预防作用"
+    ]
+   ],
+   "tip": "+ Dat.；另有「向前弯腰」义"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "wegwerfen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "weggeworfen",
+  "forms": "wirft weg, warf weg, hat weggeworfen",
+  "zh": "扔掉",
+  "ex": [
+   "Viele Menschen werfen Lebensmittel weg, obwohl sie noch gut sind."
+  ],
+  "ex_zh": "很多人明明食物还能吃，却把它扔掉。",
+  "use": {
+   "col": [
+    [
+     "Lebensmittel wegwerfen",
+     "扔掉食物"
+    ],
+    [
+     "etwas in den Müll wegwerfen",
+     "把东西扔进垃圾桶"
+    ]
+   ],
+   "tip": "名词 die Wegwerfgesellschaft；不规则"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "bewahren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bewahrt",
+  "forms": "bewahrt, bewahrte, hat bewahrt",
+  "zh": "保护；保持；使免于",
+  "ex": [
+   "Wir müssen die Natur für die nächsten Generationen bewahren."
+  ],
+  "ex_zh": "我们必须为下一代保护好自然。",
+  "gov": "bewahren vor + Dat.",
+  "use": {
+   "col": [
+    [
+     "die Natur bewahren",
+     "保护自然"
+    ],
+    [
+     "Ruhe bewahren",
+     "保持冷静"
+    ]
+   ],
+   "tip": "bewahren vor + Dat. = 使免于…"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "pflücken",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gepflückt",
+  "forms": "pflückt, pflückte, hat gepflückt",
+  "zh": "摘；采",
+  "ex": [
+   "Im Sommer pflücken wir Beeren am Waldrand und kochen Marmelade."
+  ],
+  "ex_zh": "夏天我们在林边采浆果，煮成果酱。",
+  "use": {
+   "col": [
+    [
+     "Blumen pflücken",
+     "摘花"
+    ],
+    [
+     "Äpfel pflücken",
+     "摘苹果"
+    ]
+   ],
+   "tip": "采摘 = pflücken；收割庄稼用 ernten"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "säen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gesät",
+  "forms": "sät, säte, hat gesät",
+  "zh": "播种",
+  "ex": [
+   "Im Frühjahr säen die Landwirte Mais und Sonnenblumen auf den Feldern."
+  ],
+  "ex_zh": "春天农民在田里播种玉米和向日葵。",
+  "use": {
+   "col": [
+    [
+     "Samen säen",
+     "播种"
+    ],
+    [
+     "Zwietracht säen",
+     "挑拨离间"
+    ]
+   ],
+   "tip": "名词 die Saat；säen und ernten 是一对"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "erzeugen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "erzeugt",
+  "forms": "erzeugt, erzeugte, hat erzeugt",
+  "zh": "生产；产生",
+  "ex": [
+   "Moderne Windräder erzeugen Strom, ohne dabei Kohlendioxid auszustoßen."
+  ],
+  "ex_zh": "现代风力发电机发电时不排放二氧化碳。",
+  "use": {
+   "col": [
+    [
+     "Strom erzeugen",
+     "发电"
+    ],
+    [
+     "Druck erzeugen",
+     "产生压力"
+    ]
+   ],
+   "tip": "名词 die Erzeugung，das Erzeugnis（产品）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verbrennen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verbrannt",
+  "forms": "verbrennt, verbrannte, hat verbrannt",
+  "zh": "烧掉；焚烧",
+  "ex": [
+   "Nicht recycelbarer Müll wird in dieser Anlage bei hohen Temperaturen verbrannt."
+  ],
+  "ex_zh": "无法回收的垃圾在这个设施里被高温焚烧。",
+  "use": {
+   "col": [
+    [
+     "Müll verbrennen",
+     "焚烧垃圾"
+    ],
+    [
+     "sich die Zunge verbrennen",
+     "烫伤舌头"
+    ]
+   ],
+   "tip": "及物用 hat；不及物「烧毁」用 ist verbrannt"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "mähen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gemäht",
+  "forms": "mäht, mähte, hat gemäht",
+  "zh": "割（草）",
+  "ex": [
+   "Am Samstag mäht mein Nachbar immer um acht Uhr den Rasen."
+  ],
+  "ex_zh": "周六我的邻居总是八点割草。",
+  "use": {
+   "col": [
+    [
+     "den Rasen mähen",
+     "修剪草坪"
+    ],
+    [
+     "die Wiese mähen",
+     "割草地"
+    ]
+   ],
+   "tip": "Rasenmäher 割草机；周日和夜间不能用"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verkehren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verkehrt",
+  "forms": "verkehrt, verkehrte, hat verkehrt",
+  "zh": "（车辆）运行；往来",
+  "ex": [
+   "Der Bus verkehrt zwischen sechs und zweiundzwanzig Uhr alle zehn Minuten."
+  ],
+  "ex_zh": "公交车在六点到二十二点之间每十分钟一班。",
+  "use": {
+   "col": [
+    [
+     "regelmäßig verkehren",
+     "定期运行"
+    ],
+    [
+     "nur werktags verkehren",
+     "只在工作日运行"
+    ]
+   ],
+   "tip": "公共交通公告用语；名词 der Verkehr"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sperren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gesperrt",
+  "forms": "sperrt, sperrte, hat gesperrt",
+  "zh": "封锁；封闭；冻结",
+  "ex": [
+   "Wegen eines Unfalls wurde die Autobahn für mehrere Stunden gesperrt."
+  ],
+  "ex_zh": "因为事故，高速公路被封了几个小时。",
+  "use": {
+   "senses": [
+    "封锁（道路）",
+    "冻结；停用"
+   ],
+   "col": [
+    [
+     "eine Straße sperren",
+     "封路"
+    ],
+    [
+     "ein Konto sperren",
+     "冻结账户"
+    ]
+   ],
+   "tip": "名词 die Sperrung；Straßensperrung 封路"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "umleiten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "umgeleitet",
+  "forms": "leitet um, leitete um, hat umgeleitet",
+  "zh": "改道；使绕行",
+  "ex": [
+   "Der Verkehr wird wegen der Baustelle über die Nebenstraßen umgeleitet."
+  ],
+  "ex_zh": "因为施工，车流被引到旁边的小路。",
+  "use": {
+   "col": [
+    [
+     "den Verkehr umleiten",
+     "让车辆改道"
+    ],
+    [
+     "eine umgeleitete Buslinie",
+     "改线的公交"
+    ]
+   ],
+   "tip": "名词 die Umleitung（已学）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "ausweichen",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "ausgewichen",
+  "forms": "weicht aus, wich aus, ist ausgewichen",
+  "zh": "避让；改走",
+  "ex": [
+   "Wegen des Staus sind wir auf die Landstraße ausgewichen."
+  ],
+  "ex_zh": "由于堵车，我们改走了乡道。",
+  "gov": "ausweichen + Dat.",
+  "use": {
+   "col": [
+    [
+     "einem Hindernis ausweichen",
+     "避开障碍"
+    ],
+    [
+     "auf eine andere Route ausweichen",
+     "改走别的路线"
+    ]
+   ],
+   "tip": "ausweichen + Dat.；改走的路用 auf + Akk."
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "umweltfreundlich",
+  "pos": "adj",
+  "zh": "环保的；对环境友好的",
+  "ex": [
+   "Der Zug ist ein umweltfreundlicheres Verkehrsmittel als das Flugzeug."
+  ],
+  "ex_zh": "火车比飞机更环保。",
+  "use": {
+   "col": [
+    [
+     "umweltfreundliche Produkte",
+     "环保产品"
+    ],
+    [
+     "umweltfreundlich reisen",
+     "环保地旅行"
+    ]
+   ],
+   "tip": "反义 umweltschädlich；同义 ökologisch"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "umweltschädlich",
+  "pos": "adj",
+  "zh": "危害环境的",
+  "ex": [
+   "Kurzstreckenflüge sind für das Klima besonders umweltschädlich und sollten vermieden werden."
+  ],
+  "ex_zh": "短途航班对气候特别有害，应当避免。",
+  "use": {
+   "col": [
+    [
+     "umweltschädliche Stoffe",
+     "危害环境的物质"
+    ],
+    [
+     "umweltschädlich produzieren",
+     "污染环境地生产"
+    ]
+   ],
+   "tip": "反义 umweltfreundlich；klimaschädlich 范围更窄"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "klimafreundlich",
+  "pos": "adj",
+  "zh": "对气候友好的",
+  "ex": [
+   "Wer klimafreundlich leben will, isst weniger Fleisch und fährt seltener Auto."
+  ],
+  "ex_zh": "想过气候友好生活的人少吃肉，少开车。",
+  "use": {
+   "col": [
+    [
+     "klimafreundlich heizen",
+     "用气候友好的方式取暖"
+    ],
+    [
+     "klimafreundliche Mobilität",
+     "气候友好的出行"
+    ]
+   ],
+   "tip": "klimaneutral 要求更严（净零排放）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "nachhaltig",
+  "pos": "adj",
+  "zh": "可持续的；持久的",
+  "ex": [
+   "Die Firma setzt auf nachhaltige Produktion und regionale Lieferanten."
+  ],
+  "ex_zh": "这家公司注重可持续生产和本地供应商。",
+  "use": {
+   "col": [
+    [
+     "nachhaltig wirtschaften",
+     "可持续经营"
+    ],
+    [
+     "nachhaltige Entwicklung",
+     "可持续发展"
+    ]
+   ],
+   "tip": "名词 die Nachhaltigkeit；也可指「长久起效的」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "erneuerbar",
+  "pos": "adj",
+  "zh": "可再生的",
+  "ex": [
+   "Der Anteil erneuerbarer Energien am Strommix steigt jedes Jahr."
+  ],
+  "ex_zh": "可再生能源在电力结构中的比例逐年上升。",
+  "use": {
+   "col": [
+    [
+     "erneuerbare Energien",
+     "可再生能源"
+    ],
+    [
+     "erneuerbare Quellen",
+     "可再生来源"
+    ]
+   ],
+   "tip": "同义 regenerativ；动词 erneuern"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "fossil",
+  "pos": "adj",
+  "zh": "化石的",
+  "ex": [
+   "Fossile Energieträger wie Kohle, Öl und Gas verursachen den größten Teil der Emissionen."
+  ],
+  "ex_zh": "煤、石油、天然气等化石能源造成了大部分排放。",
+  "use": {
+   "col": [
+    [
+     "fossile Brennstoffe",
+     "化石燃料"
+    ],
+    [
+     "fossile Energien",
+     "化石能源"
+    ]
+   ],
+   "tip": "只作定语，没有比较级"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "ökologisch",
+  "pos": "adj",
+  "zh": "生态的；有机的",
+  "ex": [
+   "Viele Käufer achten heute darauf, ob ein Produkt ökologisch hergestellt wurde."
+  ],
+  "ex_zh": "如今许多买家会留意产品是否按生态方式生产。",
+  "use": {
+   "col": [
+    [
+     "ökologisch anbauen",
+     "有机种植"
+    ],
+    [
+     "ökologische Landwirtschaft",
+     "生态农业"
+    ]
+   ],
+   "tip": "名词 die Ökologie；常和 bio 同义"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verschmutzt",
+  "pos": "adj",
+  "zh": "被污染的；脏的",
+  "ex": [
+   "Der Strand war nach dem Sturm stark mit Plastikmüll verschmutzt."
+  ],
+  "ex_zh": "风暴过后，海滩上到处是塑料垃圾。",
+  "use": {
+   "col": [
+    [
+     "stark verschmutzt",
+     "污染严重"
+    ],
+    [
+     "verschmutztes Wasser",
+     "被污染的水"
+    ]
+   ],
+   "tip": "动词 verschmutzen 的分词形容词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "bedroht",
+  "pos": "adj",
+  "zh": "受到威胁的",
+  "ex": [
+   "Viele Tierarten sind durch den Verlust ihres Lebensraums bedroht."
+  ],
+  "ex_zh": "许多动物物种因栖息地丧失而受到威胁。",
+  "use": {
+   "col": [
+    [
+     "vom Aussterben bedroht",
+     "濒临灭绝"
+    ],
+    [
+     "eine bedrohte Tierart",
+     "濒危物种"
+    ]
+   ],
+   "tip": "动词 bedrohen 的分词；与 gefährdet 近义"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "gefährdet",
+  "pos": "adj",
+  "zh": "处于危险中的",
+  "ex": [
+   "Durch den Klimawandel sind viele Küstenregionen und Inseln akut gefährdet."
+  ],
+  "ex_zh": "气候变化使许多沿海地区和岛屿面临迫在眉睫的危险。",
+  "use": {
+   "col": [
+    [
+     "gefährdete Arten",
+     "濒危物种"
+    ],
+    [
+     "akut gefährdet",
+     "面临紧迫危险"
+    ]
+   ],
+   "tip": "可用于人、物、事；gefährlich 是「危险的」，别混淆"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "heimisch",
+  "pos": "adj",
+  "zh": "本地的；本土的",
+  "ex": [
+   "Im Garten sollte man möglichst heimische Pflanzen anbauen."
+  ],
+  "ex_zh": "花园里最好种本地植物。",
+  "use": {
+   "col": [
+    [
+     "heimische Tiere und Pflanzen",
+     "本地动植物"
+    ],
+    [
+     "sich heimisch fühlen",
+     "感到有家的感觉"
+    ]
+   ],
+   "tip": "近义 einheimisch；Heimat 已学"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "ländlich",
+  "pos": "adj",
+  "zh": "乡村的；农村的",
+  "ex": [
+   "In ländlichen Gegenden fährt der Bus oft nur ein paar Mal am Tag."
+  ],
+  "ex_zh": "在乡下，公交车往往一天只有几班。",
+  "use": {
+   "col": [
+    [
+     "ländliche Regionen",
+     "农村地区"
+    ],
+    [
+     "der ländliche Raum",
+     "农村地区"
+    ]
+   ],
+   "tip": "反义 städtisch；Land（已学）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "energiesparend",
+  "pos": "adj",
+  "zh": "节能的",
+  "ex": [
+   "Wir haben alle alten Lampen durch energiesparende LED-Lampen ersetzt."
+  ],
+  "ex_zh": "我们把所有旧灯都换成了节能的LED灯。",
+  "use": {
+   "col": [
+    [
+     "energiesparende Geräte",
+     "节能设备"
+    ],
+    [
+     "energiesparend heizen",
+     "节能取暖"
+    ]
+   ],
+   "tip": "同义 energieeffizient"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "barrierefrei",
+  "pos": "adj",
+  "zh": "无障碍的",
+  "ex": [
+   "Der Bahnhof ist jetzt barrierefrei, mit Aufzügen und Rampen."
+  ],
+  "ex_zh": "火车站现在是无障碍的，有电梯和坡道。",
+  "use": {
+   "col": [
+    [
+     "ein barrierefreier Zugang",
+     "无障碍通道"
+    ],
+    [
+     "barrierefrei bauen",
+     "建无障碍建筑"
+    ]
+   ],
+   "tip": "名词 die Barrierefreiheit；Barriere = 障碍"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "baufällig",
+  "pos": "adj",
+  "zh": "年久失修的；有倒塌危险的",
+  "ex": [
+   "Das alte Gebäude ist so baufällig, dass es nicht mehr betreten werden darf."
+  ],
+  "ex_zh": "这座老建筑破败不堪，已不允许进入。",
+  "use": {
+   "col": [
+    [
+     "ein baufälliges Haus",
+     "危房"
+    ],
+    [
+     "baufällig sein",
+     "年久失修"
+    ]
+   ],
+   "tip": "用于房、桥等建筑物"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "überfüllt",
+  "pos": "adj",
+  "zh": "过于拥挤的；挤满的",
+  "ex": [
+   "Die Züge sind in den Ferien oft völlig überfüllt."
+  ],
+  "ex_zh": "假期里火车常常挤得满满的。",
+  "use": {
+   "col": [
+    [
+     "überfüllte Züge",
+     "拥挤的火车"
+    ],
+    [
+     "überfüllt sein",
+     "太拥挤"
+    ]
+   ],
+   "tip": "动词 überfüllen；反义 leer（已学）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "autofrei",
+  "pos": "adj",
+  "zh": "无车的",
+  "ex": [
+   "Am Sonntag ist die Innenstadt autofrei, nur Radfahrer dürfen hindurch."
+  ],
+  "ex_zh": "星期天市中心禁止汽车通行，只有骑车人可以通过。",
+  "use": {
+   "col": [
+    [
+     "eine autofreie Innenstadt",
+     "无车市中心"
+    ],
+    [
+     "autofreie Zone",
+     "无车区"
+    ]
+   ],
+   "tip": "-frei = 没有…的"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "saisonal",
+  "pos": "adj",
+  "zh": "季节性的；应季的",
+  "ex": [
+   "Im Winter kaufe ich lieber saisonales Gemüse wie Kohl und Wurzelgemüse."
+  ],
+  "ex_zh": "冬天我更愿意买应季蔬菜，比如卷心菜和根茎类。",
+  "use": {
+   "col": [
+    [
+     "saisonale Produkte",
+     "应季产品"
+    ],
+    [
+     "saisonal einkaufen",
+     "按季节购物"
+    ]
+   ],
+   "tip": "regional und saisonal 常一起出现"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "tierisch",
+  "pos": "adj",
+  "zh": "动物的；（口语）极其",
+  "ex": [
+   "Veganer essen keine tierischen Produkte wie Fleisch, Eier oder Käse."
+  ],
+  "ex_zh": "纯素食者不吃肉、蛋、奶酪这类动物产品。",
+  "use": {
+   "senses": [
+    "动物的",
+    "（口语）极其"
+   ],
+   "col": [
+    [
+     "tierische Produkte",
+     "动物产品"
+    ],
+    [
+     "tierisch gut",
+     "（口语）超级棒"
+    ]
+   ],
+   "tip": "口语里 tierisch 可作强调副词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "pflanzlich",
+  "pos": "adj",
+  "zh": "植物的；植物性的",
+  "ex": [
+   "Viele Menschen ersetzen Milch durch pflanzliche Getränke aus Hafer oder Soja."
+  ],
+  "ex_zh": "很多人用燕麦或大豆制成的植物饮品代替牛奶。",
+  "use": {
+   "col": [
+    [
+     "pflanzliche Ernährung",
+     "植物性饮食"
+    ],
+    [
+     "pflanzliches Eiweiß",
+     "植物蛋白"
+    ]
+   ],
+   "tip": "反义 tierisch；Pflanze 已学"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "abbaubar",
+  "pos": "adj",
+  "zh": "可降解的",
+  "ex": [
+   "Diese Taschen bestehen aus Material, das biologisch abbaubar ist."
+  ],
+  "ex_zh": "这些袋子是用可生物降解的材料做的。",
+  "use": {
+   "col": [
+    [
+     "biologisch abbaubar",
+     "可生物降解的"
+    ],
+    [
+     "leicht abbaubar",
+     "易降解的"
+    ]
+   ],
+   "tip": "abbauen → abbaubar；词尾 -bar 表示「可…的」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "wiederverwendbar",
+  "pos": "adj",
+  "zh": "可重复使用的",
+  "ex": [
+   "Mehrwegbecher sind wiederverwendbar und sparen jeden Tag viel Einwegmüll."
+  ],
+  "ex_zh": "可重复使用的杯子每天能节省大量一次性垃圾。",
+  "use": {
+   "col": [
+    [
+     "wiederverwendbare Taschen",
+     "可重复使用的袋子"
+    ],
+    [
+     "mehrfach wiederverwendbar",
+     "可多次重复使用"
+    ]
+   ],
+   "tip": "名词 die Wiederverwendung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verheerend",
+  "pos": "adj",
+  "zh": "毁灭性的；灾难性的",
+  "ex": [
+   "Der Sturm hatte verheerende Folgen für die Küstenorte."
+  ],
+  "ex_zh": "这场风暴给沿海村镇带来了毁灭性的后果。",
+  "use": {
+   "col": [
+    [
+     "verheerende Folgen",
+     "毁灭性后果"
+    ],
+    [
+     "ein verheerender Brand",
+     "毁灭性的火灾"
+    ]
+   ],
+   "tip": "比 schlimm 更强，多用于灾难"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "katastrophal",
+  "pos": "adj",
+  "zh": "灾难性的；糟糕透顶的",
+  "ex": [
+   "Die Lage in den überfluteten Dörfern war katastrophal."
+  ],
+  "ex_zh": "被淹的村庄里情况极其糟糕。",
+  "use": {
+   "col": [
+    [
+     "katastrophale Folgen",
+     "灾难性后果"
+    ],
+    [
+     "katastrophal sein",
+     "糟透了"
+    ]
+   ],
+   "tip": "口语也夸张用：Das Essen war katastrophal"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "ausgewogen",
+  "pos": "adj",
+  "zh": "均衡的；平衡的",
+  "ex": [
+   "Eine ausgewogene Ernährung enthält viel Gemüse, Obst und Vollkornprodukte."
+  ],
+  "ex_zh": "均衡的饮食包含大量蔬菜、水果和全谷物食品。",
+  "use": {
+   "col": [
+    [
+     "ausgewogene Ernährung",
+     "均衡饮食"
+    ],
+    [
+     "ein ausgewogenes Verhältnis",
+     "均衡的比例"
+    ]
+   ],
+   "tip": "也可指观点、报道「公允的」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "fruchtbar",
+  "pos": "adj",
+  "zh": "肥沃的；多产的",
+  "ex": [
+   "Der Boden in dieser Region ist sehr fruchtbar."
+  ],
+  "ex_zh": "这个地区的土壤非常肥沃。",
+  "use": {
+   "col": [
+    [
+     "fruchtbarer Boden",
+     "肥沃的土壤"
+    ],
+    [
+     "fruchtbares Land",
+     "沃土"
+    ]
+   ],
+   "tip": "反义 unfruchtbar；也可指「能生育的」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "umweltbewusst",
+  "pos": "adj",
+  "zh": "有环保意识的",
+  "ex": [
+   "Umweltbewusste Verbraucher kaufen lieber regionale Produkte ohne Plastikverpackung."
+  ],
+  "ex_zh": "有环保意识的消费者更愿意买不带塑料包装的本地产品。",
+  "use": {
+   "col": [
+    [
+     "umweltbewusst leben",
+     "有环保意识地生活"
+    ],
+    [
+     "ein umweltbewusster Mensch",
+     "有环保意识的人"
+    ]
+   ],
+   "tip": "名词 das Umweltbewusstsein"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "energieeffizient",
+  "pos": "adj",
+  "zh": "节能高效的",
+  "ex": [
+   "Neue Kühlschränke sind deutlich energieeffizienter als Geräte von vor zehn Jahren."
+  ],
+  "ex_zh": "新冰箱的能效比十年前的设备高得多。",
+  "use": {
+   "col": [
+    [
+     "energieeffiziente Geräte",
+     "高能效设备"
+    ],
+    [
+     "energieeffizient bauen",
+     "建高能效建筑"
+    ]
+   ],
+   "tip": "Energieeffizienzklasse = 能效等级"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "vegan",
+  "pos": "adj",
+  "zh": "纯素的",
+  "ex": [
+   "Immer mehr Restaurants bieten auch vegane Gerichte auf der Speisekarte an."
+  ],
+  "ex_zh": "越来越多餐厅的菜单上也有纯素菜品。",
+  "use": {
+   "col": [
+    [
+     "vegan leben",
+     "过纯素生活"
+    ],
+    [
+     "vegane Ernährung",
+     "纯素饮食"
+    ]
+   ],
+   "tip": "名词 der Veganer；vegetarisch（已学）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "zur Miete wohnen",
+  "pos": "phr",
+  "zh": "租房住",
+  "ex": [
+   "Wir wohnen zur Miete, aber irgendwann möchten wir ein Haus kaufen."
+  ],
+  "ex_zh": "我们现在租房住，但总有一天想买房。",
+  "use": {
+   "col": [
+    [
+     "zur Miete wohnen",
+     "租房住"
+    ],
+    [
+     "zur Untermiete wohnen",
+     "住转租房"
+    ]
+   ],
+   "tip": "反义 im Eigentum wohnen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "im Stau stehen",
+  "pos": "phr",
+  "zh": "堵车",
+  "ex": [
+   "Wir standen über eine Stunde im Stau und kamen deshalb zu spät."
+  ],
+  "ex_zh": "我们堵了一个多小时的车，所以迟到了。",
+  "use": {
+   "col": [
+    [
+     "im Stau stehen",
+     "堵在路上"
+    ],
+    [
+     "in einen Stau geraten",
+     "遇到堵车"
+    ]
+   ],
+   "tip": "Stau 已学；stecken bleiben 同义（口语）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Müll trennen",
+  "pos": "phr",
+  "zh": "垃圾分类",
+  "ex": [
+   "In unserer Wohnung trennen wir den Müll in vier verschiedene Behälter."
+  ],
+  "ex_zh": "我们家把垃圾分成四个不同的桶。",
+  "use": {
+   "col": [
+    [
+     "den Müll trennen",
+     "给垃圾分类"
+    ],
+    [
+     "Müll richtig trennen",
+     "正确分类垃圾"
+    ]
+   ],
+   "tip": "常用 den Müll trennen；名词 die Mülltrennung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "im Grünen wohnen",
+  "pos": "phr",
+  "zh": "住在绿色环境里；住在郊外",
+  "ex": [
+   "Viele Familien möchten lieber im Grünen wohnen als mitten in der Stadt."
+  ],
+  "ex_zh": "许多家庭更想住在郊外绿地中，而不是市中心。",
+  "use": {
+   "col": [
+    [
+     "im Grünen",
+     "在绿色环境中，在郊外"
+    ],
+    [
+     "ins Grüne fahren",
+     "去郊外"
+    ]
+   ],
+   "tip": "das Grüne 是名词化的形容词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Deich",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Deiche",
+  "zh": "堤坝；海堤",
+  "ex": [
+   "Der Deich schützt das Land hinter der Küste vor Sturmfluten."
+  ],
+  "ex_zh": "海堤保护海岸后方的土地免受风暴潮侵袭。",
+  "use": {
+   "col": [
+    [
+     "einen Deich bauen",
+     "修堤坝"
+    ],
+    [
+     "der Deich bricht",
+     "堤坝决口"
+    ]
+   ],
+   "tip": "北海沿岸常见；Damm 是泛指的堤、坝"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Siedlung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Siedlungen",
+  "zh": "居住区；聚居地",
+  "ex": [
+   "Am Rand des Dorfes entsteht eine neue Siedlung mit Reihenhäusern."
+  ],
+  "ex_zh": "村子边上正在建一个有联排房屋的新居住区。",
+  "use": {
+   "col": [
+    [
+     "eine neue Siedlung bauen",
+     "建新居住区"
+    ],
+    [
+     "in einer Siedlung wohnen",
+     "住在居住区"
+    ]
+   ],
+   "tip": "动词 siedeln；Zersiedelung 见 C1"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Nutztier",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Nutztiere",
+  "zh": "家畜；经济动物",
+  "ex": [
+   "Kühe, Schweine und Hühner gehören zu den wichtigsten Nutztieren in der Landwirtschaft."
+  ],
+  "ex_zh": "牛、猪和鸡是农业里最重要的家畜。",
+  "use": {
+   "col": [
+    [
+     "Nutztiere halten",
+     "饲养家畜"
+    ],
+    [
+     "artgerechte Haltung von Nutztieren",
+     "家畜的适宜饲养"
+    ]
+   ],
+   "tip": "反义 Haustier（宠物）或 Wildtier"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Treibhauseffekt",
+  "art": "der",
+  "pos": "n",
+  "zh": "温室效应",
+  "ex": [
+   "Der Treibhauseffekt entsteht, weil bestimmte Gase die Wärme in der Atmosphäre zurückhalten."
+  ],
+  "ex_zh": "温室效应的成因是某些气体把热量留在了大气层里。",
+  "use": {
+   "col": [
+    [
+     "den Treibhauseffekt verstärken",
+     "加剧温室效应"
+    ],
+    [
+     "der natürliche Treibhauseffekt",
+     "自然温室效应"
+    ]
+   ],
+   "tip": "没有复数；Atmosphäre = 大气层"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Artenvielfalt",
+  "art": "die",
+  "pos": "n",
+  "zh": "物种多样性",
+  "ex": [
+   "Die Artenvielfalt in Monokulturen ist deutlich geringer als in naturnahen Wäldern."
+  ],
+  "ex_zh": "单一作物种植区的物种多样性比近自然森林低得多。",
+  "use": {
+   "col": [
+    [
+     "die Artenvielfalt erhalten",
+     "保护物种多样性"
+    ],
+    [
+     "der Verlust der Artenvielfalt",
+     "物种多样性的丧失"
+    ]
+   ],
+   "tip": "同义词 Biodiversität；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Biodiversität",
+  "art": "die",
+  "pos": "n",
+  "zh": "生物多样性",
+  "ex": [
+   "Die Biodiversität ist eine wichtige Grundlage für stabile Ökosysteme."
+  ],
+  "ex_zh": "生物多样性是稳定生态系统的重要基础。",
+  "use": {
+   "col": [
+    [
+     "die Biodiversität schützen",
+     "保护生物多样性"
+    ],
+    [
+     "der Verlust an Biodiversität",
+     "生物多样性的丧失"
+    ]
+   ],
+   "tip": "学术、政治场合更常用；日常说 Artenvielfalt"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Rodung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Rodungen",
+  "zh": "砍伐并清除（林地）",
+  "ex": [
+   "Die Rodung des Urwalds schreitet trotz internationaler Proteste weiter voran."
+  ],
+  "ex_zh": "尽管国际上有抗议，原始森林的砍伐仍在推进。",
+  "use": {
+   "col": [
+    [
+     "illegale Rodung",
+     "非法砍伐"
+    ],
+    [
+     "die Rodung von Wäldern",
+     "砍伐森林"
+    ]
+   ],
+   "tip": "动词 roden；比 Abholzung 强调把树根也清除"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Aufforstung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Aufforstungen",
+  "zh": "植树造林",
+  "ex": [
+   "Durch Aufforstung sollen die verlorenen Waldflächen langfristig ausgeglichen werden."
+  ],
+  "ex_zh": "通过植树造林，要长期弥补失去的林地。",
+  "use": {
+   "col": [
+    [
+     "Aufforstung betreiben",
+     "造林"
+    ],
+    [
+     "ein Programm zur Aufforstung",
+     "造林计划"
+    ]
+   ],
+   "tip": "动词 aufforsten；Forst = 人工经营的森林"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Raubbau",
+  "art": "der",
+  "pos": "n",
+  "zh": "掠夺式开发；过度开发",
+  "ex": [
+   "Der Raubbau an den Wäldern hat in der Region zu starker Bodenerosion geführt."
+  ],
+  "ex_zh": "对森林的掠夺式砍伐导致这个地区的水土流失严重。",
+  "gov": "Raubbau an + Dat.",
+  "use": {
+   "col": [
+    [
+     "Raubbau treiben an",
+     "掠夺式开发"
+    ],
+    [
+     "Raubbau an der Natur",
+     "掠夺自然"
+    ]
+   ],
+   "tip": "只用单数；常见搭配 Raubbau an + Dat."
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Überfischung",
+  "art": "die",
+  "pos": "n",
+  "zh": "过度捕捞",
+  "ex": [
+   "Die Überfischung hat die Bestände vieler Speisefische dramatisch schrumpfen lassen."
+  ],
+  "ex_zh": "过度捕捞让许多食用鱼的存量急剧下降。",
+  "use": {
+   "col": [
+    [
+     "gegen Überfischung vorgehen",
+     "打击过度捕捞"
+    ],
+    [
+     "die Überfischung der Meere",
+     "海洋过度捕捞"
+    ]
+   ],
+   "tip": "动词 überfischen；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Klimaneutralität",
+  "art": "die",
+  "pos": "n",
+  "zh": "气候中和；碳中和",
+  "ex": [
+   "Die Stadt hat sich zum Ziel gesetzt, bis 2035 Klimaneutralität zu erreichen."
+  ],
+  "ex_zh": "这座城市把2035年前实现气候中和作为目标。",
+  "use": {
+   "col": [
+    [
+     "Klimaneutralität erreichen",
+     "实现气候中和"
+    ],
+    [
+     "das Ziel der Klimaneutralität",
+     "气候中和目标"
+    ]
+   ],
+   "tip": "形容词 klimaneutral；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Ökobilanz",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Ökobilanzen",
+  "zh": "生态平衡表；生命周期环境评估",
+  "ex": [
+   "Laut Ökobilanz schneidet die Mehrwegflasche besser ab als die Einwegflasche."
+  ],
+  "ex_zh": "按生态评估，可重复使用的瓶子比一次性瓶子更好。",
+  "use": {
+   "col": [
+    [
+     "eine Ökobilanz erstellen",
+     "做环境评估"
+    ],
+    [
+     "die Ökobilanz eines Produkts",
+     "产品的环境评估"
+    ]
+   ],
+   "tip": "评估产品从生产到处理的全程环境影响"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Kreislaufwirtschaft",
+  "art": "die",
+  "pos": "n",
+  "zh": "循环经济",
+  "ex": [
+   "In einer Kreislaufwirtschaft werden Rohstoffe immer wieder genutzt, statt zu Abfall zu werden."
+  ],
+  "ex_zh": "在循环经济中，原料被反复使用，而不是变成垃圾。",
+  "use": {
+   "col": [
+    [
+     "auf Kreislaufwirtschaft setzen",
+     "依靠循环经济"
+    ],
+    [
+     "das Kreislaufwirtschaftsgesetz",
+     "循环经济法"
+    ]
+   ],
+   "tip": "Kreislauf 本义「循环」；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Energieträger",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Energieträger",
+  "zh": "能源载体；能源",
+  "ex": [
+   "Erdgas bleibt in Deutschland vorerst ein wichtiger Energieträger für die Industrie."
+  ],
+  "ex_zh": "在德国，天然气暂时仍是工业的重要能源。",
+  "use": {
+   "col": [
+    [
+     "fossile Energieträger",
+     "化石能源"
+    ],
+    [
+     "erneuerbare Energieträger",
+     "可再生能源"
+    ]
+   ],
+   "tip": "复数同形；比 Energie 更专业"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Energieeffizienz",
+  "art": "die",
+  "pos": "n",
+  "zh": "能效",
+  "ex": [
+   "Durch bessere Dämmung lässt sich die Energieeffizienz von Gebäuden deutlich steigern."
+  ],
+  "ex_zh": "通过更好的保温可以明显提高建筑的能效。",
+  "use": {
+   "col": [
+    [
+     "die Energieeffizienz steigern",
+     "提高能效"
+    ],
+    [
+     "die Energieeffizienzklasse",
+     "能效等级"
+    ]
+   ],
+   "tip": "形容词 energieeffizient；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Atomausstieg",
+  "art": "der",
+  "pos": "n",
+  "zh": "退出核能",
+  "ex": [
+   "Der Atomausstieg wurde in Deutschland nach dem Unglück von Fukushima beschlossen."
+  ],
+  "ex_zh": "德国在福岛事故后决定退出核能。",
+  "use": {
+   "col": [
+    [
+     "den Atomausstieg beschließen",
+     "决定退出核能"
+    ],
+    [
+     "der Atomausstieg bis 2022",
+     "到2022年退出核能"
+    ]
+   ],
+   "tip": "德国2011年决定退出，2023年4月最后三座核电站关闭"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Atommüll",
+  "art": "der",
+  "pos": "n",
+  "zh": "核废料",
+  "ex": [
+   "Wohin mit dem Atommüll, ist in Deutschland bis heute umstritten."
+  ],
+  "ex_zh": "核废料该放到哪里，在德国至今仍有争议。",
+  "use": {
+   "col": [
+    [
+     "Atommüll lagern",
+     "存放核废料"
+    ],
+    [
+     "ein Endlager für Atommüll",
+     "核废料最终处置库"
+    ]
+   ],
+   "tip": "没有复数；Endlager = 最终处置库"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Photovoltaik",
+  "art": "die",
+  "pos": "n",
+  "zh": "光伏",
+  "ex": [
+   "Auf immer mehr Dächern wird Photovoltaik installiert, um selbst Strom zu erzeugen."
+  ],
+  "ex_zh": "越来越多的屋顶装上光伏设备，用来自己发电。",
+  "use": {
+   "col": [
+    [
+     "eine Photovoltaikanlage",
+     "光伏设备"
+    ],
+    [
+     "Strom aus Photovoltaik",
+     "光伏发电"
+    ]
+   ],
+   "tip": "缩写 PV；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Biomasse",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Biomassen",
+  "zh": "生物质",
+  "ex": [
+   "Aus Biomasse wie Holz und Pflanzenresten lässt sich Energie gewinnen."
+  ],
+  "ex_zh": "可以从木材和植物残余等生物质中获取能量。",
+  "use": {
+   "col": [
+    [
+     "Energie aus Biomasse",
+     "生物质能"
+    ],
+    [
+     "Biomasse verbrennen",
+     "燃烧生物质"
+    ]
+   ],
+   "tip": "日常多用单数；Biogas = 沼气"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Wasserstoff",
+  "art": "der",
+  "pos": "n",
+  "zh": "氢；氢气",
+  "ex": [
+   "Grüner Wasserstoff soll in Zukunft fossile Brennstoffe in der Industrie ersetzen."
+  ],
+  "ex_zh": "绿氢将来要在工业中取代化石燃料。",
+  "use": {
+   "col": [
+    [
+     "grüner Wasserstoff",
+     "绿氢"
+    ],
+    [
+     "Wasserstoff herstellen",
+     "制氢"
+    ]
+   ],
+   "tip": "化学符号 H₂；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Einspeisevergütung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Einspeisevergütungen",
+  "zh": "上网电价补贴",
+  "ex": [
+   "Die Einspeisevergütung garantiert Betreibern von Solaranlagen feste Preise für ihren Strom."
+  ],
+  "ex_zh": "上网电价补贴为太阳能设备的运营者保证了固定的电价。",
+  "use": {
+   "col": [
+    [
+     "die Einspeisevergütung erhalten",
+     "领取上网电价补贴"
+    ],
+    [
+     "die Einspeisevergütung kürzen",
+     "削减补贴"
+    ]
+   ],
+   "tip": "动词 einspeisen；与 EEG（可再生能源法）相关"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Emissionshandel",
+  "art": "der",
+  "pos": "n",
+  "zh": "排放权交易",
+  "ex": [
+   "Im Emissionshandel müssen Unternehmen Zertifikate für ihren CO2-Ausstoß kaufen."
+  ],
+  "ex_zh": "在排放权交易中，企业必须为自己的二氧化碳排放购买许可证。",
+  "use": {
+   "col": [
+    [
+     "am Emissionshandel teilnehmen",
+     "参与排放权交易"
+    ],
+    [
+     "der europäische Emissionshandel",
+     "欧盟排放权交易"
+    ]
+   ],
+   "tip": "没有复数；Handel 已学"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Grenzwert",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Grenzwerte",
+  "zh": "限值；临界值",
+  "ex": [
+   "In mehreren Städten wurden die Grenzwerte für Stickoxide überschritten."
+  ],
+  "ex_zh": "好几个城市的氮氧化物超出了限值。",
+  "use": {
+   "col": [
+    [
+     "einen Grenzwert einhalten",
+     "遵守限值"
+    ],
+    [
+     "Grenzwerte überschreiten",
+     "超出限值"
+    ]
+   ],
+   "tip": "常见于环保、食品、医学报道"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Deponie",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Deponien",
+  "zh": "垃圾填埋场",
+  "ex": [
+   "Ein Teil des Mülls landet noch immer auf einer Deponie, statt recycelt zu werden."
+  ],
+  "ex_zh": "一部分垃圾仍被送到填埋场，而不是被回收。",
+  "use": {
+   "col": [
+    [
+     "eine Deponie betreiben",
+     "运营填埋场"
+    ],
+    [
+     "auf einer Deponie lagern",
+     "在填埋场存放"
+    ]
+   ],
+   "tip": "重音在 -nie；Mülldeponie 同义"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Müllverbrennung",
+  "art": "die",
+  "pos": "n",
+  "zh": "垃圾焚烧",
+  "ex": [
+   "Bei der Müllverbrennung wird Wärme gewonnen, mit der Haushalte heizen können."
+  ],
+  "ex_zh": "垃圾焚烧时产生的热量可以供家庭取暖。",
+  "use": {
+   "col": [
+    [
+     "die Müllverbrennungsanlage",
+     "垃圾焚烧厂"
+    ],
+    [
+     "thermische Verwertung",
+     "热能回收利用"
+    ]
+   ],
+   "tip": "没有复数；动词 verbrennen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Wertstoff",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Wertstoffe",
+  "zh": "可回收物",
+  "ex": [
+   "Wertstoffe wie Glas, Papier und Metall gehören nicht in den Restmüll."
+  ],
+  "ex_zh": "玻璃、纸和金属等可回收物不该扔进其他垃圾。",
+  "use": {
+   "col": [
+    [
+     "Wertstoffe sammeln",
+     "收集可回收物"
+    ],
+    [
+     "der Wertstoffhof",
+     "可回收物回收站"
+    ]
+   ],
+   "tip": "Restmüll = 其他垃圾；Wertstofftonne 可回收物桶"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Mikroplastik",
+  "art": "das",
+  "pos": "n",
+  "zh": "微塑料",
+  "ex": [
+   "Mikroplastik gelangt über das Abwasser in Flüsse und schließlich ins Meer."
+  ],
+  "ex_zh": "微塑料通过污水进入河流，最终进入大海。",
+  "use": {
+   "col": [
+    [
+     "Mikroplastik im Meer",
+     "海里的微塑料"
+    ],
+    [
+     "frei von Mikroplastik",
+     "不含微塑料"
+    ]
+   ],
+   "tip": "没有复数；Plastik 已学"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Sondermüll",
+  "art": "der",
+  "pos": "n",
+  "zh": "特殊垃圾；有害垃圾",
+  "ex": [
+   "Alte Farben und Batterien muss man als Sondermüll getrennt entsorgen."
+  ],
+  "ex_zh": "旧油漆和电池要当作有害垃圾单独处理。",
+  "use": {
+   "col": [
+    [
+     "Sondermüll entsorgen",
+     "处理有害垃圾"
+    ],
+    [
+     "der Sondermüll abgeben",
+     "交出有害垃圾"
+    ]
+   ],
+   "tip": "没有复数；Schadstoffmobil 是流动回收车"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Altlasten (Pl.)",
+  "art": "die",
+  "pos": "n",
+  "zh": "遗留污染；历史遗留问题",
+  "ex": [
+   "Die Altlasten der ehemaligen Fabrik verseuchen bis heute das Grundwasser."
+  ],
+  "ex_zh": "这家旧工厂留下的污染至今仍在污染地下水。",
+  "use": {
+   "col": [
+    [
+     "Altlasten beseitigen",
+     "清除遗留污染"
+    ],
+    [
+     "ökologische Altlasten",
+     "环境遗留问题"
+    ]
+   ],
+   "tip": "多用复数；也比喻「遗留的包袱」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Kompost",
+  "art": "der",
+  "pos": "n",
+  "zh": "堆肥",
+  "ex": [
+   "Küchenabfälle landen bei uns im Kompost und werden später zu Erde."
+  ],
+  "ex_zh": "我们的厨余垃圾进入堆肥，后来变成泥土。",
+  "use": {
+   "col": [
+    [
+     "Kompost anlegen",
+     "建堆肥堆"
+    ],
+    [
+     "mit Kompost düngen",
+     "用堆肥施肥"
+    ]
+   ],
+   "tip": "动词 kompostieren；Komposthaufen 堆肥堆"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Erosion",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Erosionen",
+  "zh": "侵蚀；水土流失",
+  "ex": [
+   "Ohne Bäume und Wurzeln ist der Boden stark von Erosion bedroht."
+  ],
+  "ex_zh": "没有树木和根系，土壤很容易发生水土流失。",
+  "use": {
+   "col": [
+    [
+     "Erosion verhindern",
+     "防止水土流失"
+    ],
+    [
+     "die Bodenerosion",
+     "水土流失"
+    ]
+   ],
+   "tip": "日常多用单数；重音在 -on"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Flächenverbrauch",
+  "art": "der",
+  "pos": "n",
+  "zh": "土地占用；用地消耗",
+  "ex": [
+   "Der Flächenverbrauch für neue Straßen und Baugebiete ist in Deutschland weiterhin hoch."
+  ],
+  "ex_zh": "德国用于新路和建设区的土地占用仍然很高。",
+  "use": {
+   "col": [
+    [
+     "den Flächenverbrauch begrenzen",
+     "限制土地占用"
+    ],
+    [
+     "der tägliche Flächenverbrauch",
+     "每日土地占用量"
+    ]
+   ],
+   "tip": "没有复数；Fläche 已学"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Versiegelung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Versiegelungen",
+  "zh": "地面硬化；封闭",
+  "ex": [
+   "Die Versiegelung des Bodens führt bei Starkregen zu Überschwemmungen in der Stadt."
+  ],
+  "ex_zh": "地面硬化让城市在暴雨时容易发生积水。",
+  "use": {
+   "col": [
+    [
+     "die Flächenversiegelung",
+     "土地硬化"
+    ],
+    [
+     "die Versiegelung verringern",
+     "减少地面硬化"
+    ]
+   ],
+   "tip": "动词 versiegeln；也指给物体密封"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Zersiedelung",
+  "art": "die",
+  "pos": "n",
+  "zh": "城市无序蔓延；分散建设",
+  "ex": [
+   "Durch die Zersiedelung der Landschaft verschwinden immer mehr Felder und Wiesen."
+  ],
+  "ex_zh": "由于居住区无序蔓延，越来越多的田野和草地消失了。",
+  "use": {
+   "col": [
+    [
+     "gegen die Zersiedelung kämpfen",
+     "对抗无序蔓延"
+    ],
+    [
+     "die Zersiedelung der Landschaft",
+     "景观被分散建设破坏"
+    ]
+   ],
+   "tip": "Siedlung 的派生；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Gentrifizierung",
+  "art": "die",
+  "pos": "n",
+  "zh": "绅士化（旧区高档化）",
+  "ex": [
+   "Die Gentrifizierung hat dazu geführt, dass sich viele Alteingesessene das Viertel nicht mehr leisten können."
+  ],
+  "ex_zh": "绅士化使许多老住户再也住不起这个街区。",
+  "use": {
+   "col": [
+    [
+     "von Gentrifizierung betroffen sein",
+     "受绅士化影响"
+    ],
+    [
+     "die Gentrifizierung aufhalten",
+     "阻止绅士化"
+    ]
+   ],
+   "tip": "外来词；动词 gentrifizieren；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Leerstand",
+  "art": "der",
+  "pos": "n",
+  "zh": "空置",
+  "ex": [
+   "Trotz Wohnungsnot gibt es in manchen Städten noch immer viel Leerstand."
+  ],
+  "ex_zh": "尽管住房紧缺，有些城市仍有大量空置房。",
+  "use": {
+   "col": [
+    [
+     "Leerstand beseitigen",
+     "消除空置"
+    ],
+    [
+     "von Leerstand betroffen sein",
+     "受空置影响"
+    ]
+   ],
+   "tip": "动词 leer stehen；形容词 leerstehend；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Ballungsraum",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Ballungsräume",
+  "zh": "大都市圈；人口密集区",
+  "ex": [
+   "In Ballungsräumen wie dem Rhein-Main-Gebiet leben besonders viele Menschen auf engem Raum."
+  ],
+  "ex_zh": "在莱茵-美因地区这样的大都市圈里，很多人生活在狭小的空间里。",
+  "use": {
+   "col": [
+    [
+     "im Ballungsraum arbeiten",
+     "在大都市圈工作"
+    ],
+    [
+     "ein dicht besiedelter Ballungsraum",
+     "人口密集的大都市圈"
+    ]
+   ],
+   "tip": "ballen = 聚集；复数变音"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Daseinsvorsorge",
+  "art": "die",
+  "pos": "n",
+  "zh": "公共基础服务（生存照顾）",
+  "ex": [
+   "Wasser, Strom und Nahverkehr gehören zur öffentlichen Daseinsvorsorge."
+  ],
+  "ex_zh": "水、电和公共交通属于公共基础服务。",
+  "use": {
+   "col": [
+    [
+     "kommunale Daseinsvorsorge",
+     "地方公共服务"
+    ],
+    [
+     "Aufgaben der Daseinsvorsorge",
+     "公共基础服务任务"
+    ]
+   ],
+   "tip": "行政、法律术语；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Stadtentwicklung",
+  "art": "die",
+  "pos": "n",
+  "zh": "城市发展",
+  "ex": [
+   "Die Stadtentwicklung muss Wohnraum, Grünflächen und Verkehr zugleich berücksichtigen."
+  ],
+  "ex_zh": "城市发展必须同时兼顾住房、绿地和交通。",
+  "use": {
+   "col": [
+    [
+     "nachhaltige Stadtentwicklung",
+     "可持续城市发展"
+    ],
+    [
+     "die Stadtentwicklung planen",
+     "规划城市发展"
+    ]
+   ],
+   "tip": "相关：Stadtplanung 城市规划；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Bebauungsplan",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Bebauungspläne",
+  "zh": "建设规划（详细规划）",
+  "ex": [
+   "Im Bebauungsplan ist genau festgelegt, wo gebaut werden darf und wie hoch."
+  ],
+  "ex_zh": "建设规划里明确规定了哪里可以建、能建多高。",
+  "use": {
+   "col": [
+    [
+     "einen Bebauungsplan aufstellen",
+     "编制建设规划"
+    ],
+    [
+     "laut Bebauungsplan",
+     "根据建设规划"
+    ]
+   ],
+   "tip": "缩写 B-Plan；动词 bebauen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Bauherr",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Bauherren",
+  "zh": "建设方；业主（出资建房者）",
+  "ex": [
+   "Der Bauherr haftet dafür, dass alle Vorschriften auf der Baustelle eingehalten werden."
+  ],
+  "ex_zh": "建设方要负责工地上遵守所有规定。",
+  "use": {
+   "col": [
+    [
+     "als Bauherr auftreten",
+     "以建设方身份出面"
+    ],
+    [
+     "Bauherren beraten",
+     "为建设方提供咨询"
+    ]
+   ],
+   "tip": "女性 Bauherrin；复数 -en"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Wohnraum",
+  "art": "der",
+  "pos": "n",
+  "zh": "居住空间；住房",
+  "ex": [
+   "In Großstädten fehlt bezahlbarer Wohnraum, besonders für junge Familien."
+  ],
+  "ex_zh": "大城市缺少负担得起的住房，尤其是年轻家庭。",
+  "use": {
+   "col": [
+    [
+     "Wohnraum schaffen",
+     "创造住房"
+    ],
+    [
+     "bezahlbarer Wohnraum",
+     "能负担得起的住房"
+    ]
+   ],
+   "tip": "集合意义，多用单数；Wohnung 是具体住房"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Zweckentfremdung",
+  "art": "die",
+  "pos": "n",
+  "zh": "挪作他用（尤指住房改作他用）",
+  "ex": [
+   "Die Zweckentfremdung von Wohnungen als Ferienunterkünfte ist in vielen Städten verboten."
+  ],
+  "ex_zh": "在许多城市，把住房改作度假住宿是被禁止的。",
+  "use": {
+   "col": [
+    [
+     "das Verbot der Zweckentfremdung",
+     "禁止挪作他用"
+    ],
+    [
+     "Wohnraum vor Zweckentfremdung schützen",
+     "保护住房不被挪作他用"
+    ]
+   ],
+   "tip": "动词 zweckentfremden；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Eigenbedarf",
+  "art": "der",
+  "pos": "n",
+  "zh": "自用需求（房东自住）",
+  "ex": [
+   "Der Vermieter hat dem Mieter wegen Eigenbedarfs gekündigt."
+  ],
+  "ex_zh": "房东因为自己要住而向租客解约。",
+  "use": {
+   "col": [
+    [
+     "Kündigung wegen Eigenbedarf",
+     "因自住需求解约"
+    ],
+    [
+     "Eigenbedarf anmelden",
+     "声明自住需求"
+    ]
+   ],
+   "tip": "租房法术语；没有复数；wegen + Gen. 常加 -s"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Mietspiegel",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Mietspiegel",
+  "zh": "租金指数表",
+  "ex": [
+   "Der Mietspiegel zeigt, welche Miete in einem Viertel ortsüblich ist."
+  ],
+  "ex_zh": "租金指数表显示一个街区的常规租金水平。",
+  "use": {
+   "col": [
+    [
+     "laut Mietspiegel",
+     "根据租金指数表"
+    ],
+    [
+     "den Mietspiegel einsehen",
+     "查看租金指数表"
+    ]
+   ],
+   "tip": "由市政府编制；复数同形"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Mietpreisbremse",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Mietpreisbremsen",
+  "zh": "租金上限（租金刹车）",
+  "ex": [
+   "Die Mietpreisbremse soll verhindern, dass die Mieten bei Neuvermietung zu stark steigen."
+  ],
+  "ex_zh": "租金上限规定旨在防止新租赁时租金涨得过高。",
+  "use": {
+   "col": [
+    [
+     "die Mietpreisbremse verschärfen",
+     "收紧租金上限"
+    ],
+    [
+     "gegen die Mietpreisbremse verstoßen",
+     "违反租金上限"
+    ]
+   ],
+   "tip": "Bremse（已学）= 刹车"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Kündigungsschutz",
+  "art": "der",
+  "pos": "n",
+  "zh": "解约保护",
+  "ex": [
+   "Mieter genießen in Deutschland einen sehr starken Kündigungsschutz."
+  ],
+  "ex_zh": "在德国，租客享有很强的解约保护。",
+  "use": {
+   "col": [
+    [
+     "Kündigungsschutz genießen",
+     "享受解约保护"
+    ],
+    [
+     "besonderer Kündigungsschutz",
+     "特殊解约保护"
+    ]
+   ],
+   "tip": "也用于劳动法；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Zwangsräumung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Zwangsräumungen",
+  "zh": "强制腾退",
+  "ex": [
+   "Wer monatelang keine Miete zahlt, muss mit einer Zwangsräumung rechnen."
+  ],
+  "ex_zh": "连续几个月不交房租的人，要面对强制腾退。",
+  "use": {
+   "col": [
+    [
+     "eine Zwangsräumung verhindern",
+     "阻止强制腾退"
+    ],
+    [
+     "von Zwangsräumung bedroht sein",
+     "面临强制腾退"
+    ]
+   ],
+   "tip": "动词 zwangsräumen 少用"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Verdrängung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Verdrängungen",
+  "zh": "排挤；压抑",
+  "ex": [
+   "Die steigenden Mieten führen zur Verdrängung einkommensschwacher Haushalte aus dem Zentrum."
+  ],
+  "ex_zh": "不断上涨的租金把低收入家庭挤出了市中心。",
+  "use": {
+   "senses": [
+    "排挤；取代",
+    "（心理）压抑"
+   ],
+   "col": [
+    [
+     "die Verdrängung der Bewohner",
+     "居民被挤出"
+    ],
+    [
+     "von Verdrängung betroffen sein",
+     "受排挤影响"
+    ]
+   ],
+   "tip": "动词 verdrängen；心理学中指「压抑」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Verkehrswende",
+  "art": "die",
+  "pos": "n",
+  "zh": "交通转型",
+  "ex": [
+   "Für die Verkehrswende braucht es mehr Bahnen, Radwege und weniger Autos in den Städten."
+  ],
+  "ex_zh": "要实现交通转型，需要更多轨道交通、自行车道，城市里的汽车要减少。",
+  "use": {
+   "col": [
+    [
+     "die Verkehrswende einleiten",
+     "启动交通转型"
+    ],
+    [
+     "eine Verkehrswende fordern",
+     "要求交通转型"
+    ]
+   ],
+   "tip": "与 Energiewende 相对；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Verkehrsaufkommen",
+  "art": "das",
+  "pos": "n",
+  "zh": "交通流量",
+  "ex": [
+   "Das hohe Verkehrsaufkommen auf der A5 führt täglich zu Staus."
+  ],
+  "ex_zh": "A5高速公路上的高交通流量每天造成堵车。",
+  "use": {
+   "col": [
+    [
+     "ein hohes Verkehrsaufkommen",
+     "很高的交通流量"
+    ],
+    [
+     "das Verkehrsaufkommen reduzieren",
+     "减少交通流量"
+    ]
+   ],
+   "tip": "没有复数；Aufkommen = 出现的量"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Verkehrsberuhigung",
+  "art": "die",
+  "pos": "n",
+  "zh": "交通缓行（降低车流）",
+  "ex": [
+   "Durch Verkehrsberuhigung in Wohnstraßen soll das Leben der Anwohner sicherer werden."
+  ],
+  "ex_zh": "通过住宅街的交通缓行措施，居民的生活应该更安全。",
+  "use": {
+   "col": [
+    [
+     "eine verkehrsberuhigte Zone",
+     "缓行区"
+    ],
+    [
+     "Maßnahmen zur Verkehrsberuhigung",
+     "交通缓行措施"
+    ]
+   ],
+   "tip": "形容词 verkehrsberuhigt；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Umweltzone",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Umweltzonen",
+  "zh": "环保区（限制排放）",
+  "ex": [
+   "In der Umweltzone dürfen nur Fahrzeuge mit grüner Plakette fahren."
+  ],
+  "ex_zh": "在环保区里只有贴绿色标志的车辆可以行驶。",
+  "use": {
+   "col": [
+    [
+     "in die Umweltzone einfahren",
+     "驶入环保区"
+    ],
+    [
+     "die Plakette für die Umweltzone",
+     "环保区标志"
+    ]
+   ],
+   "tip": "Plakette = 环保标识贴纸"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Kraftstoff",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Kraftstoffe",
+  "zh": "燃料（汽车用）",
+  "ex": [
+   "Der Verbrauch an Kraftstoff lässt sich durch vorausschauendes Fahren spürbar senken."
+  ],
+  "ex_zh": "通过有预判的驾驶可以明显降低燃料消耗。",
+  "use": {
+   "col": [
+    [
+     "synthetische Kraftstoffe",
+     "合成燃料"
+    ],
+    [
+     "Kraftstoff sparen",
+     "省油"
+    ]
+   ],
+   "tip": "Benzin 和 Diesel 的统称；Brennstoff 指取暖等用的燃料"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Verbrennungsmotor",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Verbrennungsmotoren",
+  "zh": "内燃机",
+  "ex": [
+   "Langfristig sollen Autos mit Verbrennungsmotor durch Elektrofahrzeuge ersetzt werden."
+  ],
+  "ex_zh": "长远来看，内燃机汽车应由电动车取代。",
+  "use": {
+   "col": [
+    [
+     "ein Auto mit Verbrennungsmotor",
+     "内燃机汽车"
+    ],
+    [
+     "das Aus für den Verbrennungsmotor",
+     "内燃机的终结"
+    ]
+   ],
+   "tip": "口语也说 Verbrenner"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Antrieb",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Antriebe",
+  "zh": "驱动；动力装置；干劲",
+  "ex": [
+   "Immer mehr Hersteller bieten Autos mit alternativem Antrieb an."
+  ],
+  "ex_zh": "越来越多厂商提供替代动力的汽车。",
+  "use": {
+   "senses": [
+    "驱动；动力装置",
+    "干劲；动力"
+   ],
+   "col": [
+    [
+     "ein elektrischer Antrieb",
+     "电驱动"
+    ],
+    [
+     "aus eigenem Antrieb",
+     "主动地"
+    ]
+   ],
+   "tip": "动词 antreiben；aus eigenem Antrieb = 自觉地"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Schienennetz",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Schienennetze",
+  "zh": "铁路网",
+  "ex": [
+   "Das deutsche Schienennetz ist an vielen Stellen veraltet und überlastet."
+  ],
+  "ex_zh": "德国的铁路网在很多地方陈旧而且不堪重负。",
+  "use": {
+   "col": [
+    [
+     "das Schienennetz modernisieren",
+     "铁路网现代化"
+    ],
+    [
+     "das Schienennetz ausbauen",
+     "扩建铁路网"
+    ]
+   ],
+   "tip": "Netz + Schiene；德铁常被批评老化"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Takt",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Takte",
+  "zh": "班次间隔；节拍",
+  "ex": [
+   "Auf dieser Strecke fährt die S-Bahn im Zehn-Minuten-Takt."
+  ],
+  "ex_zh": "这条线路上S-Bahn每十分钟一班。",
+  "use": {
+   "senses": [
+    "（班次）间隔",
+    "节拍"
+   ],
+   "col": [
+    [
+     "im Stundentakt",
+     "每小时一班"
+    ],
+    [
+     "den Takt verdichten",
+     "加密班次"
+    ]
+   ],
+   "tip": "公共交通常用；音乐中指「拍子」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Engpass",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Engpässe",
+  "zh": "瓶颈；紧缺",
+  "ex": [
+   "Beim Güterverkehr kommt es auf dieser Strecke immer wieder zu Engpässen."
+  ],
+  "ex_zh": "这条线路上的货运一再出现瓶颈。",
+  "use": {
+   "col": [
+    [
+     "Engpässe beseitigen",
+     "消除瓶颈"
+    ],
+    [
+     "ein Engpass bei der Versorgung",
+     "供应紧缺"
+    ]
+   ],
+   "tip": "复数变音；Lieferengpass 供货紧缺"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Nadelöhr",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Nadelöhre",
+  "zh": "瓶颈路段；狭窄通道",
+  "ex": [
+   "Die Brücke ist das Nadelöhr des gesamten Verkehrs in der Region."
+  ],
+  "ex_zh": "这座桥是整个地区交通的瓶颈。",
+  "use": {
+   "col": [
+    [
+     "ein Nadelöhr im Verkehr",
+     "交通中的瓶颈"
+    ],
+    [
+     "zum Nadelöhr werden",
+     "成为瓶颈"
+    ]
+   ],
+   "tip": "本义「针孔」；比喻堵点"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Extremwetter",
+  "art": "das",
+  "pos": "n",
+  "zh": "极端天气",
+  "ex": [
+   "Extremwetter wie Starkregen und Hitze wird durch den Klimawandel häufiger."
+  ],
+  "ex_zh": "暴雨和高温等极端天气会因气候变化而更频繁。",
+  "use": {
+   "col": [
+    [
+     "Extremwetter-Ereignisse",
+     "极端天气事件"
+    ],
+    [
+     "vor Extremwetter warnen",
+     "对极端天气发出警告"
+    ]
+   ],
+   "tip": "没有复数；也说 Wetterextreme"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Starkregen",
+  "art": "der",
+  "pos": "n",
+  "zh": "暴雨；强降雨",
+  "ex": [
+   "Nach dem Starkregen standen mehrere Keller in der Straße unter Wasser."
+  ],
+  "ex_zh": "暴雨过后，这条街上好几个地下室被水淹了。",
+  "use": {
+   "col": [
+    [
+     "bei Starkregen",
+     "遇暴雨时"
+    ],
+    [
+     "Warnung vor Starkregen",
+     "暴雨预警"
+    ]
+   ],
+   "tip": "没有复数；气象局警报用词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Unwetter",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Unwetter",
+  "zh": "恶劣天气；暴风雨",
+  "ex": [
+   "Der Deutsche Wetterdienst warnt vor schweren Unwettern mit Hagel und Sturm."
+  ],
+  "ex_zh": "德国气象局对伴有冰雹和暴风的恶劣天气发出警告。",
+  "use": {
+   "col": [
+    [
+     "ein Unwetter zieht auf",
+     "暴风雨将至"
+    ],
+    [
+     "vor Unwettern warnen",
+     "发布暴风雨警告"
+    ]
+   ],
+   "tip": "单复数同形；含雷暴、冰雹、风暴"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Küstenschutz",
+  "art": "der",
+  "pos": "n",
+  "zh": "海岸防护",
+  "ex": [
+   "Die Deiche sind ein wichtiger Teil des Küstenschutzes an der Nordsee."
+  ],
+  "ex_zh": "堤坝是北海海岸防护的重要组成部分。",
+  "use": {
+   "col": [
+    [
+     "Küstenschutz betreiben",
+     "进行海岸防护"
+    ],
+    [
+     "Maßnahmen des Küstenschutzes",
+     "海岸防护措施"
+    ]
+   ],
+   "tip": "没有复数；Küste 已学"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Monokultur",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Monokulturen",
+  "zh": "单一种植（单一作物）",
+  "ex": [
+   "Auf großen Flächen wachsen Monokulturen, die anfällig für Schädlinge sind."
+  ],
+  "ex_zh": "大片土地上种着单一作物，很容易受害虫侵害。",
+  "use": {
+   "col": [
+    [
+     "in Monokultur anbauen",
+     "单一种植"
+    ],
+    [
+     "Monokulturen vermeiden",
+     "避免单一种植"
+    ]
+   ],
+   "tip": "mono = 单一"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Bodenschätze (Pl.)",
+  "art": "die",
+  "pos": "n",
+  "zh": "矿产资源",
+  "ex": [
+   "Das Land verfügt über reiche Bodenschätze wie Kohle, Erz und Gas."
+  ],
+  "ex_zh": "这个国家拥有煤、矿石和天然气等丰富的矿产资源。",
+  "use": {
+   "col": [
+    [
+     "Bodenschätze abbauen",
+     "开采矿产"
+    ],
+    [
+     "reich an Bodenschätzen",
+     "矿产丰富"
+    ]
+   ],
+   "tip": "只用复数；Schatz = 宝藏"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Tierwohl",
+  "art": "das",
+  "pos": "n",
+  "zh": "动物福利",
+  "ex": [
+   "Das Tierwohl soll durch strengere Vorschriften für Ställe verbessert werden."
+  ],
+  "ex_zh": "要通过更严格的畜舍规定改善动物福利。",
+  "use": {
+   "col": [
+    [
+     "das Tierwohl verbessern",
+     "改善动物福利"
+    ],
+    [
+     "Fleisch mit Tierwohl-Siegel",
+     "有动物福利标志的肉"
+    ]
+   ],
+   "tip": "没有复数；Wohl = 福祉"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Tierschutz",
+  "art": "der",
+  "pos": "n",
+  "zh": "动物保护",
+  "ex": [
+   "Der Tierschutz verlangt, dass Nutztiere genug Platz und Auslauf haben."
+  ],
+  "ex_zh": "动物保护要求家畜有足够的空间和活动场地。",
+  "use": {
+   "col": [
+    [
+     "für den Tierschutz eintreten",
+     "致力于动物保护"
+    ],
+    [
+     "das Tierschutzgesetz",
+     "动物保护法"
+    ]
+   ],
+   "tip": "没有复数；Artenschutz 保护物种"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Artenschutz",
+  "art": "der",
+  "pos": "n",
+  "zh": "物种保护",
+  "ex": [
+   "Der Artenschutz verbietet es, geschützte Pflanzen und Tiere zu fangen oder zu töten."
+  ],
+  "ex_zh": "物种保护禁止捕捉或杀死受保护的动植物。",
+  "use": {
+   "col": [
+    [
+     "Maßnahmen zum Artenschutz",
+     "物种保护措施"
+    ],
+    [
+     "im Interesse des Artenschutzes",
+     "为了物种保护"
+    ]
+   ],
+   "tip": "没有复数；Art = 物种"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Naturschutz",
+  "art": "der",
+  "pos": "n",
+  "zh": "自然保护",
+  "ex": [
+   "Naturschutz und Landwirtschaft geraten oft in Konflikt miteinander."
+  ],
+  "ex_zh": "自然保护与农业常常发生冲突。",
+  "use": {
+   "col": [
+    [
+     "für den Naturschutz kämpfen",
+     "为自然保护而斗争"
+    ],
+    [
+     "ein Naturschutzverband",
+     "自然保护协会"
+    ]
+   ],
+   "tip": "没有复数；Umweltschutz 范围更广"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Population",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Populationen",
+  "zh": "种群；人口",
+  "ex": [
+   "Die Population der Wölfe hat in den letzten Jahren stark zugenommen."
+  ],
+  "ex_zh": "狼的种群数量近年来大幅增加。",
+  "use": {
+   "col": [
+    [
+     "die Population wächst",
+     "种群增长"
+    ],
+    [
+     "eine stabile Population",
+     "稳定的种群"
+    ]
+   ],
+   "tip": "指人口时常用 Bevölkerung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Zugvogel",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Zugvögel",
+  "zh": "候鸟",
+  "ex": [
+   "Im Herbst fliegen die Zugvögel in wärmere Gebiete im Süden."
+  ],
+  "ex_zh": "秋天候鸟飞往南方更温暖的地方。",
+  "use": {
+   "col": [
+    [
+     "Zugvögel beobachten",
+     "观察候鸟"
+    ],
+    [
+     "der Zug der Vögel",
+     "鸟类迁徙"
+    ]
+   ],
+   "tip": "复数变音；反义 Standvogel（留鸟）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Schädling",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Schädlinge",
+  "zh": "害虫；有害生物",
+  "ex": [
+   "Gegen Schädlinge setzen manche Landwirte lieber Nützlinge statt Chemie ein."
+  ],
+  "ex_zh": "对付害虫，有些农民更愿意用益虫而不是化学药剂。",
+  "use": {
+   "col": [
+    [
+     "Schädlinge bekämpfen",
+     "防治害虫"
+    ],
+    [
+     "von Schädlingen befallen",
+     "遭受害虫侵害"
+    ]
+   ],
+   "tip": "反义 Nützling（益虫）；动词 schädigen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Bestäubung",
+  "art": "die",
+  "pos": "n",
+  "zh": "授粉",
+  "ex": [
+   "Ohne die Bestäubung durch Insekten gäbe es viel weniger Obst und Gemüse."
+  ],
+  "ex_zh": "没有昆虫授粉，水果和蔬菜会少得多。",
+  "use": {
+   "col": [
+    [
+     "die Bestäubung durch Bienen",
+     "蜜蜂授粉"
+    ],
+    [
+     "für die Bestäubung sorgen",
+     "负责授粉"
+    ]
+   ],
+   "tip": "动词 bestäuben；Blüte 花；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Agrarpolitik",
+  "art": "die",
+  "pos": "n",
+  "zh": "农业政策",
+  "ex": [
+   "Die europäische Agrarpolitik verteilt jedes Jahr Milliarden an die Landwirte."
+  ],
+  "ex_zh": "欧盟的农业政策每年向农民发放数十亿资金。",
+  "use": {
+   "col": [
+    [
+     "die Agrarpolitik reformieren",
+     "改革农业政策"
+    ],
+    [
+     "die gemeinsame Agrarpolitik (GAP)",
+     "共同农业政策"
+    ]
+   ],
+   "tip": "Agrar- 表示「农业的」；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Subvention",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Subventionen",
+  "zh": "补贴",
+  "ex": [
+   "Landwirte erhalten Subventionen, wenn sie ihre Felder umweltschonend bewirtschaften."
+  ],
+  "ex_zh": "农民如果以环保方式耕种，就能得到补贴。",
+  "use": {
+   "col": [
+    [
+     "Subventionen abbauen",
+     "削减补贴"
+    ],
+    [
+     "staatliche Subventionen",
+     "国家补贴"
+    ]
+   ],
+   "tip": "动词 subventionieren；日常也说 Zuschuss"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Ernährungssicherheit",
+  "art": "die",
+  "pos": "n",
+  "zh": "粮食安全",
+  "ex": [
+   "Die Dürre gefährdet die Ernährungssicherheit in mehreren Ländern Afrikas."
+  ],
+  "ex_zh": "干旱危及非洲多国的粮食安全。",
+  "use": {
+   "col": [
+    [
+     "die Ernährungssicherheit gewährleisten",
+     "保障粮食安全"
+    ],
+    [
+     "Ernährungssicherheit gefährden",
+     "危及粮食安全"
+    ]
+   ],
+   "tip": "国际新闻常见；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Selbstversorgung",
+  "art": "die",
+  "pos": "n",
+  "zh": "自给自足",
+  "ex": [
+   "Die Region strebt eine weitgehende Selbstversorgung mit Energie und Lebensmitteln an."
+  ],
+  "ex_zh": "这个地区力求在能源和食品上基本做到自给自足。",
+  "use": {
+   "col": [
+    [
+     "Selbstversorgung mit Lebensmitteln",
+     "食品自给"
+    ],
+    [
+     "ein Selbstversorger",
+     "自给自足者"
+    ]
+   ],
+   "tip": "没有复数；形容词 autark"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Lieferkette",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Lieferketten",
+  "zh": "供应链",
+  "ex": [
+   "Die Lieferkette vieler Kleidungsstücke reicht von Baumwollfeldern in Asien bis in deutsche Läden."
+  ],
+  "ex_zh": "许多衣服的供应链从亚洲的棉田一直延伸到德国的商店。",
+  "use": {
+   "col": [
+    [
+     "die Lieferkette unterbrechen",
+     "中断供应链"
+    ],
+    [
+     "eine transparente Lieferkette",
+     "透明的供应链"
+    ]
+   ],
+   "tip": "Lieferkettengesetz = 供应链法"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Wegwerfgesellschaft",
+  "art": "die",
+  "pos": "n",
+  "zh": "一次性消费社会",
+  "ex": [
+   "Kritiker werfen der Wegwerfgesellschaft vor, Ressourcen zu verschwenden."
+  ],
+  "ex_zh": "批评者指责一次性消费社会浪费资源。",
+  "use": {
+   "col": [
+    [
+     "in einer Wegwerfgesellschaft leben",
+     "生活在一次性消费社会"
+    ],
+    [
+     "die Wegwerfgesellschaft kritisieren",
+     "批评一次性消费社会"
+    ]
+   ],
+   "tip": "由 wegwerfen 派生；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Verbraucherschutz",
+  "art": "der",
+  "pos": "n",
+  "zh": "消费者保护",
+  "ex": [
+   "Der Verbraucherschutz klärt darüber auf, welche Rechte Kunden bei Mängeln haben."
+  ],
+  "ex_zh": "消费者保护机构说明顾客遇到瑕疵时有哪些权利。",
+  "use": {
+   "col": [
+    [
+     "die Verbraucherzentrale",
+     "消费者中心"
+    ],
+    [
+     "den Verbraucherschutz stärken",
+     "加强消费者保护"
+    ]
+   ],
+   "tip": "没有复数；Verbraucher 见 B2 词汇"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Verzicht",
+  "art": "der",
+  "pos": "n",
+  "zh": "放弃；舍弃",
+  "ex": [
+   "Klimaschutz bedeutet nicht nur Verzicht, sondern kann auch mehr Lebensqualität bringen."
+  ],
+  "ex_zh": "气候保护不只意味着放弃，也可能带来更好的生活质量。",
+  "gov": "Verzicht auf + Akk.",
+  "use": {
+   "col": [
+    [
+     "Verzicht üben",
+     "克制自己"
+    ],
+    [
+     "der Verzicht auf Fleisch",
+     "不吃肉"
+    ]
+   ],
+   "tip": "动词 verzichten（已学）；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Konsumverhalten",
+  "art": "das",
+  "pos": "n",
+  "zh": "消费行为；消费习惯",
+  "ex": [
+   "Das Konsumverhalten der Menschen ändert sich, sobald die Umweltfolgen sichtbar werden."
+  ],
+  "ex_zh": "一旦环境后果显现，人们的消费行为就会改变。",
+  "use": {
+   "col": [
+    [
+     "das Konsumverhalten ändern",
+     "改变消费习惯"
+    ],
+    [
+     "nachhaltiges Konsumverhalten",
+     "可持续消费行为"
+    ]
+   ],
+   "tip": "Konsum（已学）+ Verhalten（已学）；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Verursacherprinzip",
+  "art": "das",
+  "pos": "n",
+  "zh": "污染者付费原则",
+  "ex": [
+   "Nach dem Verursacherprinzip muss zahlen, wer die Umwelt verschmutzt."
+  ],
+  "ex_zh": "按污染者付费原则，污染环境的人要买单。",
+  "use": {
+   "col": [
+    [
+     "das Verursacherprinzip anwenden",
+     "适用污染者付费原则"
+    ],
+    [
+     "nach dem Verursacherprinzip",
+     "按污染者付费原则"
+    ]
+   ],
+   "tip": "Verursacher = 造成者；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Generationengerechtigkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "代际公平",
+  "ex": [
+   "Beim Klimaschutz geht es auch um die Frage der Generationengerechtigkeit."
+  ],
+  "ex_zh": "气候保护也关系到代际公平的问题。",
+  "use": {
+   "col": [
+    [
+     "Generationengerechtigkeit einfordern",
+     "要求代际公平"
+    ],
+    [
+     "im Sinne der Generationengerechtigkeit",
+     "本着代际公平"
+    ]
+   ],
+   "tip": "德国联邦宪法法院 2021 年气候判决的关键词；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Umweltverträglichkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "环境兼容性；环保性",
+  "ex": [
+   "Vor dem Bau der Straße wird die Umweltverträglichkeit des Projekts geprüft."
+  ],
+  "ex_zh": "修路前要审查项目对环境的影响。",
+  "use": {
+   "col": [
+    [
+     "die Umweltverträglichkeitsprüfung (UVP)",
+     "环境影响评估"
+    ],
+    [
+     "auf Umweltverträglichkeit prüfen",
+     "审查环境兼容性"
+    ]
+   ],
+   "tip": "形容词 umweltverträglich；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Gemeinwohl",
+  "art": "das",
+  "pos": "n",
+  "zh": "公共利益；公益",
+  "ex": [
+   "Der Staat muss bei Bauprojekten das Gemeinwohl über private Interessen stellen."
+  ],
+  "ex_zh": "国家在建设项目中要把公共利益放在私人利益之上。",
+  "use": {
+   "col": [
+    [
+     "dem Gemeinwohl dienen",
+     "服务公共利益"
+    ],
+    [
+     "zum Wohl der Allgemeinheit",
+     "为了公众的福祉"
+    ]
+   ],
+   "tip": "没有复数；Wohl 福祉"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Energiespeicher",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Energiespeicher",
+  "zh": "储能设备",
+  "ex": [
+   "Große Batterien dienen als Energiespeicher, wenn Wind und Sonne nicht ausreichen."
+  ],
+  "ex_zh": "当风和阳光不足时，大型电池充当储能设备。",
+  "use": {
+   "col": [
+    [
+     "einen Energiespeicher ausbauen",
+     "扩建储能设施"
+    ],
+    [
+     "ein Energiespeicher für Solarstrom",
+     "太阳能储能设备"
+    ]
+   ],
+   "tip": "动词 speichern（已学）；复数同形"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Netzausbau",
+  "art": "der",
+  "pos": "n",
+  "zh": "电网扩建",
+  "ex": [
+   "Der Netzausbau kommt langsamer voran als geplant, weil viele Anwohner dagegen protestieren."
+  ],
+  "ex_zh": "电网扩建比计划推进得慢，因为很多居民反对。",
+  "use": {
+   "col": [
+    [
+     "den Netzausbau beschleunigen",
+     "加快电网扩建"
+    ],
+    [
+     "der Netzausbau im Norden",
+     "北部的电网扩建"
+    ]
+   ],
+   "tip": "没有复数；Ausbau 见 ausbauen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Versorgungssicherheit",
+  "art": "die",
+  "pos": "n",
+  "zh": "供应安全",
+  "ex": [
+   "Die Versorgungssicherheit mit Strom hat für die Regierung oberste Priorität."
+  ],
+  "ex_zh": "电力供应安全是政府的首要任务。",
+  "use": {
+   "col": [
+    [
+     "die Versorgungssicherheit gewährleisten",
+     "保障供应安全"
+    ],
+    [
+     "die Versorgungssicherheit gefährden",
+     "危及供应安全"
+    ]
+   ],
+   "tip": "没有复数；Versorgung 供应"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Quartier",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Quartiere",
+  "zh": "街区；居住区",
+  "ex": [
+   "Im neuen Quartier sollen Wohnungen, Läden und Parks entstehen."
+  ],
+  "ex_zh": "新街区里要建住宅、商店和公园。",
+  "use": {
+   "col": [
+    [
+     "ein lebendiges Quartier",
+     "有活力的街区"
+    ],
+    [
+     "das Quartiersmanagement",
+     "街区管理"
+    ]
+   ],
+   "tip": "比 Viertel 更书面；也指住宿处"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Biotop",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Biotope",
+  "zh": "生物群落生境；栖息地",
+  "ex": [
+   "Die Feuchtwiese ist ein wertvolles Biotop für seltene Vögel und Amphibien."
+  ],
+  "ex_zh": "这片湿草地是稀有鸟类和两栖动物的重要生境。",
+  "use": {
+   "col": [
+    [
+     "ein Biotop schützen",
+     "保护生境"
+    ],
+    [
+     "ein Biotop anlegen",
+     "建造生境"
+    ]
+   ],
+   "tip": "也可作 der Biotop；重音在 -top"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Moor",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Moore",
+  "zh": "沼泽；泥炭地",
+  "ex": [
+   "Intakte Moore speichern große Mengen Kohlenstoff und schützen so das Klima."
+  ],
+  "ex_zh": "完好的沼泽能储存大量碳，从而保护气候。",
+  "use": {
+   "col": [
+    [
+     "ein Moor renaturieren",
+     "恢复沼泽"
+    ],
+    [
+     "im Moor wandern",
+     "在沼泽地徒步"
+    ]
+   ],
+   "tip": "Moor 是中性名词；Torf 泥炭"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Kohlenstoff",
+  "art": "der",
+  "pos": "n",
+  "zh": "碳（元素）",
+  "ex": [
+   "Beim Verbrennen von Kohle wird der darin gebundene Kohlenstoff als Kohlendioxid freigesetzt."
+  ],
+  "ex_zh": "燃烧煤炭时，其中结合的碳以二氧化碳形式释放出来。",
+  "use": {
+   "col": [
+    [
+     "Kohlenstoff speichern",
+     "储存碳"
+    ],
+    [
+     "der Kohlenstoffkreislauf",
+     "碳循环"
+    ]
+   ],
+   "tip": "化学符号 C；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "eindämmen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingedämmt",
+  "forms": "dämmt ein, dämmte ein, hat eingedämmt",
+  "zh": "遏制；控制住",
+  "ex": [
+   "Die Regierung will die Verbreitung von Plastikmüll mit neuen Gesetzen eindämmen."
+  ],
+  "ex_zh": "政府想用新法律遏制塑料垃圾的扩散。",
+  "use": {
+   "col": [
+    [
+     "die Ausbreitung eindämmen",
+     "遏制蔓延"
+    ],
+    [
+     "Kosten eindämmen",
+     "控制成本"
+    ]
+   ],
+   "tip": "Damm（堤坝）+ ein；名词 die Eindämmung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "abmildern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgemildert",
+  "forms": "mildert ab, milderte ab, hat abgemildert",
+  "zh": "缓和；减轻",
+  "ex": [
+   "Begrünte Dächer können die Folgen von Hitze in Städten abmildern."
+  ],
+  "ex_zh": "绿化屋顶可以缓解城市里高温带来的影响。",
+  "use": {
+   "col": [
+    [
+     "Folgen abmildern",
+     "减轻后果"
+    ],
+    [
+     "die Härte abmildern",
+     "缓和严厉程度"
+    ]
+   ],
+   "tip": "mild（已学）+ ab；同义 mildern"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "drosseln",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gedrosselt",
+  "forms": "drosselt, drosselte, hat gedrosselt",
+  "zh": "节流；减缓；降低",
+  "ex": [
+   "Wegen der hohen Energiepreise haben viele Betriebe ihre Produktion gedrosselt."
+  ],
+  "ex_zh": "由于能源价格高，许多企业压低了产量。",
+  "use": {
+   "col": [
+    [
+     "die Produktion drosseln",
+     "降低产量"
+    ],
+    [
+     "das Tempo drosseln",
+     "降低速度"
+    ]
+   ],
+   "tip": "Drossel = 节流阀"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "roden",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gerodet",
+  "forms": "rodet, rodete, hat gerodet",
+  "zh": "砍伐并清理（林地）",
+  "ex": [
+   "Für das neue Gewerbegebiet wurde ein ganzer Waldstreifen gerodet."
+  ],
+  "ex_zh": "为了新的工商业区，一整条林带被砍伐清除。",
+  "use": {
+   "col": [
+    [
+     "einen Wald roden",
+     "砍伐清理森林"
+    ],
+    [
+     "Land roden",
+     "开垦土地"
+    ]
+   ],
+   "tip": "名词 die Rodung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ausrotten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ausgerottet",
+  "forms": "rottet aus, rottete aus, hat ausgerottet",
+  "zh": "灭绝；根除",
+  "ex": [
+   "Durch jahrelange Jagd wurde der Wolf in Deutschland beinahe ausgerottet."
+  ],
+  "ex_zh": "经过多年捕猎，狼在德国几乎被灭绝。",
+  "use": {
+   "col": [
+    [
+     "eine Tierart ausrotten",
+     "使一个物种灭绝"
+    ],
+    [
+     "Krankheiten ausrotten",
+     "根除疾病"
+    ]
+   ],
+   "tip": "比喻义「消灭」；名词 die Ausrottung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "vermüllen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "vermüllt",
+  "forms": "vermüllt, vermüllte, hat vermüllt",
+  "zh": "（用垃圾）弄脏；使充满垃圾",
+  "ex": [
+   "Touristen vermüllen im Sommer oft die Strände und Parks."
+  ],
+  "ex_zh": "夏天游客常把海滩和公园弄得到处是垃圾。",
+  "use": {
+   "col": [
+    [
+     "die Umwelt vermüllen",
+     "用垃圾污染环境"
+    ],
+    [
+     "vermüllte Straßen",
+     "满是垃圾的街道"
+    ]
+   ],
+   "tip": "新闻和口语中常见；名词 die Vermüllung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verseuchen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verseucht",
+  "forms": "verseucht, verseuchte, hat verseucht",
+  "zh": "严重污染；毒化",
+  "ex": [
+   "Ausgelaufenes Öl hat das Grundwasser in der Umgebung verseucht."
+  ],
+  "ex_zh": "泄漏的石油污染了周边的地下水。",
+  "use": {
+   "col": [
+    [
+     "verseuchtes Wasser",
+     "受污染的水"
+    ],
+    [
+     "radioaktiv verseucht",
+     "受放射性污染"
+    ]
+   ],
+   "tip": "比 verschmutzen 更重，指有毒、放射性或病菌"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "versiegeln",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "versiegelt",
+  "forms": "versiegelt, versiegelte, hat versiegelt",
+  "zh": "封闭（地面）；密封",
+  "ex": [
+   "Wenn zu viele Flächen versiegelt werden, kann Regenwasser nicht mehr versickern."
+  ],
+  "ex_zh": "如果太多地面被硬化，雨水就渗不下去了。",
+  "use": {
+   "col": [
+    [
+     "den Boden versiegeln",
+     "硬化地面"
+    ],
+    [
+     "versiegelte Flächen",
+     "硬化地面"
+    ]
+   ],
+   "tip": "名词 die Versiegelung；也指封存、密封"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "begrünen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "begrünt",
+  "forms": "begrünt, begrünte, hat begrünt",
+  "zh": "绿化",
+  "ex": [
+   "Die Stadt lässt mehrere Dächer und Fassaden begrünen, um die Luft zu verbessern."
+  ],
+  "ex_zh": "市里让人绿化几处屋顶和外墙，以改善空气。",
+  "use": {
+   "col": [
+    [
+     "ein Dach begrünen",
+     "绿化屋顶"
+    ],
+    [
+     "eine begrünte Fassade",
+     "绿化外墙"
+    ]
+   ],
+   "tip": "名词 die Begrünung；不可分"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "renaturieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "renaturiert",
+  "forms": "renaturiert, renaturierte, hat renaturiert",
+  "zh": "恢复自然状态",
+  "ex": [
+   "Der begradigte Bach wurde renaturiert und schlängelt sich nun wieder durch die Wiese."
+  ],
+  "ex_zh": "被截直的小溪恢复了原貌，又蜿蜒穿过草地了。",
+  "use": {
+   "col": [
+    [
+     "einen Fluss renaturieren",
+     "恢复河流自然状态"
+    ],
+    [
+     "ein Moor renaturieren",
+     "恢复沼泽"
+    ]
+   ],
+   "tip": "名词 die Renaturierung；不可分，重音在 -ie-"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "nachrüsten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "nachgerüstet",
+  "forms": "rüstet nach, rüstete nach, hat nachgerüstet",
+  "zh": "加装；改装升级",
+  "ex": [
+   "Viele ältere Dieselfahrzeuge wurden nachträglich mit Partikelfiltern nachgerüstet."
+  ],
+  "ex_zh": "许多较旧的柴油车加装了颗粒过滤器。",
+  "use": {
+   "col": [
+    [
+     "mit einem Filter nachrüsten",
+     "加装过滤器"
+    ],
+    [
+     "nachgerüstete Heizung",
+     "改装的暖气"
+    ]
+   ],
+   "tip": "名词 die Nachrüstung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "umrüsten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "umgerüstet",
+  "forms": "rüstet um, rüstete um, hat umgerüstet",
+  "zh": "改装；转换配置",
+  "ex": [
+   "Der Betrieb hat seine Flotte auf Elektrofahrzeuge umgerüstet."
+  ],
+  "ex_zh": "这家企业把车队换成了电动车。",
+  "gov": "umrüsten auf + Akk.",
+  "use": {
+   "col": [
+    [
+     "auf LED umrüsten",
+     "换成LED"
+    ],
+    [
+     "eine Anlage umrüsten",
+     "改装设备"
+    ]
+   ],
+   "tip": "umrüsten auf + Akk.；名词 die Umrüstung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "stilllegen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "stillgelegt",
+  "forms": "legt still, legte still, hat stillgelegt",
+  "zh": "关停；停用",
+  "ex": [
+   "Die letzten Zechen im Ruhrgebiet wurden 2018 stillgelegt."
+  ],
+  "ex_zh": "鲁尔区最后几座煤矿于2018年关停。",
+  "use": {
+   "col": [
+    [
+     "ein Kraftwerk stilllegen",
+     "关停发电厂"
+    ],
+    [
+     "eine Strecke stilllegen",
+     "停用线路"
+    ]
+   ],
+   "tip": "stilllegen 写三个 l；名词 die Stilllegung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "subventionieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "subventioniert",
+  "forms": "subventioniert, subventionierte, hat subventioniert",
+  "zh": "给予补贴",
+  "ex": [
+   "Der Staat subventioniert den Kauf von Elektroautos mit mehreren tausend Euro."
+  ],
+  "ex_zh": "国家用几千欧元补贴购买电动车。",
+  "use": {
+   "col": [
+    [
+     "stark subventioniert",
+     "受到大量补贴"
+    ],
+    [
+     "die Landwirtschaft subventionieren",
+     "补贴农业"
+    ]
+   ],
+   "tip": "名词 die Subvention；不可分"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ausbeuten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ausgebeutet",
+  "forms": "beutet aus, beutete aus, hat ausgebeutet",
+  "zh": "剥削；过度开发",
+  "ex": [
+   "Die Rohstoffe des Landes werden von internationalen Konzernen rücksichtslos ausgebeutet."
+  ],
+  "ex_zh": "这个国家的资源被跨国公司肆无忌惮地榨取。",
+  "use": {
+   "col": [
+    [
+     "Arbeiter ausbeuten",
+     "剥削工人"
+    ],
+    [
+     "Bodenschätze ausbeuten",
+     "开发矿产"
+    ]
+   ],
+   "tip": "名词 die Ausbeutung；带贬义"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "überfischen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "überfischt",
+  "forms": "überfischt, überfischte, hat überfischt",
+  "zh": "过度捕捞",
+  "ex": [
+   "Viele Fischbestände in der Nordsee wurden jahrzehntelang überfischt und haben sich kaum erholt."
+  ],
+  "ex_zh": "北海的许多鱼群被过度捕捞了几十年，几乎没有恢复。",
+  "use": {
+   "col": [
+    [
+     "überfischte Meere",
+     "被过度捕捞的海域"
+    ],
+    [
+     "Bestände überfischen",
+     "过度捕捞存量"
+    ]
+   ],
+   "tip": "名词 die Überfischung；不可分，多用被动或分词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "erschöpfen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "erschöpft",
+  "forms": "erschöpft, erschöpfte, hat erschöpft",
+  "zh": "耗尽；使精疲力竭",
+  "ex": [
+   "Die Vorräte an Erdöl sind nicht unendlich und werden irgendwann erschöpft sein."
+  ],
+  "ex_zh": "石油储备不是无限的，总有一天会耗尽。",
+  "use": {
+   "senses": [
+    "耗尽",
+    "使精疲力竭"
+   ],
+   "col": [
+    [
+     "Ressourcen erschöpfen",
+     "耗尽资源"
+    ],
+    [
+     "erschöpft sein",
+     "精疲力竭"
+    ]
+   ],
+   "tip": "erschöpft 作形容词指「累极了」；名词 die Erschöpfung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich regenerieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "regeneriert",
+  "forms": "regeneriert sich, regenerierte sich, hat sich regeneriert",
+  "zh": "再生；恢复",
+  "ex": [
+   "Nach einem Brand braucht der Wald viele Jahre, um sich zu regenerieren."
+  ],
+  "ex_zh": "火灾之后，森林要很多年才能恢复。",
+  "use": {
+   "col": [
+    [
+     "sich über Nacht regenerieren",
+     "一夜之间恢复"
+    ],
+    [
+     "sich schnell regenerieren",
+     "迅速恢复"
+    ]
+   ],
+   "tip": "名词 die Regeneration；也指运动后恢复"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "gegensteuern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gegengesteuert",
+  "forms": "steuert gegen, steuerte gegen, hat gegengesteuert",
+  "zh": "采取对策；对着干预",
+  "ex": [
+   "Mit Förderprogrammen versucht die Regierung, dem Wohnungsmangel gegenzusteuern."
+  ],
+  "ex_zh": "政府试图用扶持项目来应对住房短缺。",
+  "gov": "gegensteuern + Dat.",
+  "use": {
+   "col": [
+    [
+     "der Entwicklung gegensteuern",
+     "针对趋势采取对策"
+    ],
+    [
+     "rechtzeitig gegensteuern",
+     "及时纠偏"
+    ]
+   ],
+   "tip": "gegensteuern + Dat.；steuern（掌舵）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "abwenden",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgewendet",
+  "forms": "wendet ab, wendete ab, hat abgewendet",
+  "zh": "避免；阻止（危险）",
+  "ex": [
+   "Durch schnelles Handeln konnte eine größere Katastrophe abgewendet werden."
+  ],
+  "ex_zh": "由于迅速行动，更大的灾难得以避免。",
+  "use": {
+   "col": [
+    [
+     "eine Gefahr abwenden",
+     "避免危险"
+    ],
+    [
+     "den Blick abwenden",
+     "移开视线"
+    ]
+   ],
+   "tip": "也可变位 wandte ab；sich abwenden = 转身"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "anheizen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "angeheizt",
+  "forms": "heizt an, heizte an, hat angeheizt",
+  "zh": "加剧；煽动；生火",
+  "ex": [
+   "Billige Flüge heizen den Tourismus und damit auch den Klimawandel weiter an."
+  ],
+  "ex_zh": "廉价航班助长了旅游业，也进一步加剧了气候变化。",
+  "use": {
+   "col": [
+    [
+     "die Stimmung anheizen",
+     "煽动情绪"
+    ],
+    [
+     "die Inflation anheizen",
+     "助推通胀"
+    ]
+   ],
+   "tip": "本义「点火」；heizen 已学"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verdrängen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verdrängt",
+  "forms": "verdrängt, verdrängte, hat verdrängt",
+  "zh": "排挤；取代；压抑",
+  "ex": [
+   "Teure Neubauten verdrängen immer mehr Alteingesessene aus ihrem Viertel."
+  ],
+  "ex_zh": "昂贵的新建住宅把越来越多的老住户挤出了街区。",
+  "use": {
+   "senses": [
+    "排挤；取代",
+    "（心理）压抑"
+   ],
+   "col": [
+    [
+     "jemanden verdrängen",
+     "排挤某人"
+    ],
+    [
+     "Ängste verdrängen",
+     "压抑恐惧"
+    ]
+   ],
+   "tip": "名词 die Verdrängung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verdichten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verdichtet",
+  "forms": "verdichtet, verdichtete, hat verdichtet",
+  "zh": "加密；使密集",
+  "ex": [
+   "In Ballungsräumen wird der Wohnungsbau zunehmend verdichtet, statt neue Flächen zu erschließen."
+  ],
+  "ex_zh": "在大都市圈，住房建设越来越多地向密集化发展，而不是开发新地块。",
+  "use": {
+   "col": [
+    [
+     "Wohnraum verdichten",
+     "提高居住密度"
+    ],
+    [
+     "den Takt verdichten",
+     "加密班次"
+    ]
+   ],
+   "tip": "名词 die Verdichtung；dicht 密"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "aufbereiten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "aufbereitet",
+  "forms": "bereitet auf, bereitete auf, hat aufbereitet",
+  "zh": "处理；净化；整理",
+  "ex": [
+   "Das Abwasser wird in der Kläranlage aufbereitet und wieder in den Fluss geleitet."
+  ],
+  "ex_zh": "污水在污水处理厂处理后重新排入河里。",
+  "use": {
+   "col": [
+    [
+     "Wasser aufbereiten",
+     "净化水"
+    ],
+    [
+     "Daten aufbereiten",
+     "整理数据"
+    ]
+   ],
+   "tip": "名词 die Aufbereitung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "einspeisen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingespeist",
+  "forms": "speist ein, speiste ein, hat eingespeist",
+  "zh": "并入（电网）；馈入",
+  "ex": [
+   "Viele Hausbesitzer speisen überschüssigen Solarstrom ins öffentliche Netz ein."
+  ],
+  "ex_zh": "许多房主把多余的太阳能电送入公共电网。",
+  "use": {
+   "col": [
+    [
+     "Strom einspeisen",
+     "并网送电"
+    ],
+    [
+     "ins Netz einspeisen",
+     "馈入电网"
+    ]
+   ],
+   "tip": "名词 die Einspeisung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "entwässern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "entwässert",
+  "forms": "entwässert, entwässerte, hat entwässert",
+  "zh": "排水；脱水",
+  "ex": [
+   "Früher wurden große Moore entwässert, um Ackerland zu gewinnen."
+  ],
+  "ex_zh": "过去为了获得耕地，许多沼泽被排干水。",
+  "use": {
+   "col": [
+    [
+     "ein Moor entwässern",
+     "排干沼泽"
+    ],
+    [
+     "Felder entwässern",
+     "给农田排水"
+    ]
+   ],
+   "tip": "名词 die Entwässerung；反义 bewässern"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "bewässern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bewässert",
+  "forms": "bewässert, bewässerte, hat bewässert",
+  "zh": "灌溉；浇水",
+  "ex": [
+   "In trockenen Sommern müssen die Felder künstlich bewässert werden."
+  ],
+  "ex_zh": "干燥的夏天里，农田必须人工灌溉。",
+  "use": {
+   "col": [
+    [
+     "Felder bewässern",
+     "灌溉农田"
+    ],
+    [
+     "ein Beet bewässern",
+     "给花坛浇水"
+    ]
+   ],
+   "tip": "名词 die Bewässerung；Wasser + -ern"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "versickern",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "versickert",
+  "forms": "versickert, versickerte, ist versickert",
+  "zh": "渗入（地下）",
+  "ex": [
+   "Auf unversiegelten Flächen kann das Regenwasser im Boden versickern."
+  ],
+  "ex_zh": "在没有硬化的地面上，雨水可以渗进土里。",
+  "use": {
+   "col": [
+    [
+     "im Boden versickern",
+     "渗入土壤"
+    ],
+    [
+     "Regenwasser versickern lassen",
+     "让雨水渗入"
+    ]
+   ],
+   "tip": "sickern = 渗出；不可分"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "auswildern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ausgewildert",
+  "forms": "wildert aus, wilderte aus, hat ausgewildert",
+  "zh": "野化放归（动物）",
+  "ex": [
+   "Im Nationalpark wurden mehrere Luchse ausgewildert, die zuvor in Gehegen gelebt hatten."
+  ],
+  "ex_zh": "国家公园里放归了几只此前生活在围栏里的猞猁。",
+  "use": {
+   "col": [
+    [
+     "Tiere auswildern",
+     "野化放归动物"
+    ],
+    [
+     "ein Projekt zur Auswilderung",
+     "野化放归项目"
+    ]
+   ],
+   "tip": "名词 die Auswilderung；wild（已学）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "mästen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gemästet",
+  "forms": "mästet, mästete, hat gemästet",
+  "zh": "育肥",
+  "ex": [
+   "Die Schweine werden in großen Betrieben nur wenige Monate gemästet."
+  ],
+  "ex_zh": "猪在大型养殖场里只被育肥几个月。",
+  "use": {
+   "col": [
+    [
+     "Schweine mästen",
+     "育肥猪"
+    ],
+    [
+     "Gänse mästen",
+     "填肥鹅"
+    ]
+   ],
+   "tip": "名词 die Mast，der Mastbetrieb"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "gedeihen",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "gediehen",
+  "forms": "gedeiht, gedieh, ist gediehen",
+  "zh": "茁壮成长；顺利发展",
+  "ex": [
+   "Auf dem sandigen Boden gedeihen nur wenige Pflanzen."
+  ],
+  "ex_zh": "在沙质土壤上只有少数植物能长好。",
+  "use": {
+   "col": [
+    [
+     "gut gedeihen",
+     "长得好"
+    ],
+    [
+     "prächtig gedeihen",
+     "长势极好"
+    ]
+   ],
+   "tip": "不规则动词；也比喻事业、关系「顺利发展」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verkümmern",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "verkümmert",
+  "forms": "verkümmert, verkümmerte, ist verkümmert",
+  "zh": "萎缩；枯萎",
+  "ex": [
+   "Ohne genug Licht verkümmern die Pflanzen im Keller."
+  ],
+  "ex_zh": "没有足够的光线，地下室里的植物会萎缩。",
+  "use": {
+   "col": [
+    [
+     "verkümmerte Pflanzen",
+     "萎缩的植物"
+    ],
+    [
+     "geistig verkümmern",
+     "精神萎缩"
+    ]
+   ],
+   "tip": "多指因缺乏条件而衰退"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "brachliegen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "brachgelegen",
+  "forms": "liegt brach, lag brach, hat brachgelegen",
+  "zh": "闲置；休耕",
+  "ex": [
+   "Seit der Schließung der Fabrik liegt das Gelände brach."
+  ],
+  "ex_zh": "自从工厂关闭后，这块场地一直闲置着。",
+  "use": {
+   "col": [
+    [
+     "brachliegende Flächen",
+     "闲置土地"
+    ],
+    [
+     "Talente liegen brach",
+     "才能被埋没"
+    ]
+   ],
+   "tip": "Brache = 休耕地；分词形容词 brachliegend"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "zweckentfremden",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "zweckentfremdet",
+  "forms": "zweckentfremdet, zweckentfremdete, hat zweckentfremdet",
+  "zh": "挪作他用",
+  "ex": [
+   "Wohnungen dürfen nicht dauerhaft als Büros oder Ferienunterkünfte zweckentfremdet werden."
+  ],
+  "ex_zh": "住房不得长期被挪作办公室或度假住所。",
+  "use": {
+   "col": [
+    [
+     "Wohnraum zweckentfremden",
+     "把住房挪作他用"
+    ],
+    [
+     "zweckentfremdet genutzt",
+     "被挪作他用"
+    ]
+   ],
+   "tip": "名词 die Zweckentfremdung；不可分，重音在 Zweck-"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "aufwerten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "aufgewertet",
+  "forms": "wertet auf, wertete auf, hat aufgewertet",
+  "zh": "提升价值；升值",
+  "ex": [
+   "Neue Parks und Radwege haben das Viertel deutlich aufgewertet."
+  ],
+  "ex_zh": "新公园和自行车道明显提升了这个街区的价值。",
+  "use": {
+   "col": [
+    [
+     "ein Viertel aufwerten",
+     "提升街区价值"
+    ],
+    [
+     "die Währung aufwerten",
+     "使货币升值"
+    ]
+   ],
+   "tip": "反义 abwerten；名词 die Aufwertung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verwahrlosen",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "verwahrlost",
+  "forms": "verwahrlost, verwahrloste, ist verwahrlost",
+  "zh": "荒废；无人看管而破败",
+  "ex": [
+   "Das leerstehende Haus ist im Laufe der Jahre völlig verwahrlost."
+  ],
+  "ex_zh": "这座空置的房子多年来彻底荒废了。",
+  "use": {
+   "col": [
+    [
+     "verwahrloste Häuser",
+     "荒废的房子"
+    ],
+    [
+     "zu verwahrlosen drohen",
+     "有荒废的危险"
+    ]
+   ],
+   "tip": "形容词 verwahrlost；也指人长期无人照管"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verfallen",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "verfallen",
+  "forms": "verfällt, verfiel, ist verfallen",
+  "zh": "破败；失效；沉溺",
+  "ex": [
+   "Die alte Fabrik verfällt, weil sich niemand um das Gebäude kümmert."
+  ],
+  "ex_zh": "这座旧工厂没人管，正在破败。",
+  "use": {
+   "senses": [
+    "（建筑）破败",
+    "（票券等）失效，过期"
+   ],
+   "col": [
+    [
+     "zu verfallen drohen",
+     "濒临破败"
+    ],
+    [
+     "Gutscheine verfallen",
+     "代金券过期"
+    ]
+   ],
+   "tip": "verfallen + Dat. = 沉迷于；不可分，不规则"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "kompostieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "kompostiert",
+  "forms": "kompostiert, kompostierte, hat kompostiert",
+  "zh": "堆肥",
+  "ex": [
+   "Gartenabfälle und Küchenreste kann man einfach im eigenen Garten kompostieren."
+  ],
+  "ex_zh": "花园垃圾和厨余可以直接在自家花园里堆肥。",
+  "use": {
+   "col": [
+    [
+     "Bioabfall kompostieren",
+     "把有机垃圾堆肥"
+    ],
+    [
+     "kompostierbar",
+     "可堆肥的"
+    ]
+   ],
+   "tip": "名词 der Kompost；不可分"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "befahren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "befahren",
+  "forms": "befährt, befuhr, hat befahren",
+  "zh": "行驶于；通行",
+  "ex": [
+   "Dieser Weg darf nur von Anwohnern und Lieferfahrzeugen befahren werden."
+  ],
+  "ex_zh": "这条路只允许居民和送货车辆通行。",
+  "use": {
+   "col": [
+    [
+     "eine Strecke befahren",
+     "行驶某路段"
+    ],
+    [
+     "stark befahren",
+     "车流量大的"
+    ]
+   ],
+   "tip": "常见 stark befahrene Straße；不可分，不规则"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "bebauen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bebaut",
+  "forms": "bebaut, bebaute, hat bebaut",
+  "zh": "建造房屋；开发（土地）",
+  "ex": [
+   "Das Grundstück darf nicht bebaut werden, weil es im Überschwemmungsgebiet liegt."
+  ],
+  "ex_zh": "这块地不能盖房，因为它位于洪泛区。",
+  "use": {
+   "col": [
+    [
+     "ein Grundstück bebauen",
+     "在地块上建房"
+    ],
+    [
+     "dicht bebaut",
+     "建筑密集的"
+    ]
+   ],
+   "tip": "名词 die Bebauung，der Bebauungsplan"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich häufen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gehäuft",
+  "forms": "häuft sich, häufte sich, hat sich gehäuft",
+  "zh": "越来越多；频繁出现",
+  "ex": [
+   "In den letzten Jahren häufen sich Hitzewellen und Starkregen in Mitteleuropa."
+  ],
+  "ex_zh": "近年来中欧的热浪和暴雨越来越频繁。",
+  "use": {
+   "col": [
+    [
+     "die Beschwerden häufen sich",
+     "投诉越来越多"
+    ],
+    [
+     "die Fälle häufen sich",
+     "案例越来越多"
+    ]
+   ],
+   "tip": "häufig（已学）；Haufen = 堆"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verschärfen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verschärft",
+  "forms": "verschärft, verschärfte, hat verschärft",
+  "zh": "加剧；加严",
+  "ex": [
+   "Die EU hat die Grenzwerte für Luftschadstoffe in den letzten Jahren verschärft."
+  ],
+  "ex_zh": "欧盟近年来收紧了空气污染物的限值。",
+  "use": {
+   "senses": [
+    "加严（规定）",
+    "使（局势）恶化"
+   ],
+   "col": [
+    [
+     "die Regeln verschärfen",
+     "收紧规则"
+    ],
+    [
+     "sich verschärfen",
+     "加剧"
+    ]
+   ],
+   "tip": "反义 lockern；scharf（已学）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "klimaneutral",
+  "pos": "adj",
+  "zh": "气候中和的；碳中和的",
+  "ex": [
+   "Der Konzern will seine Produktion bis 2040 klimaneutral gestalten."
+  ],
+  "ex_zh": "这家集团想在2040年前让生产实现气候中和。",
+  "use": {
+   "col": [
+    [
+     "klimaneutral werden",
+     "实现气候中和"
+    ],
+    [
+     "klimaneutral wirtschaften",
+     "以气候中和的方式经营"
+    ]
+   ],
+   "tip": "指排放与抵消相平衡；比 klimafreundlich 更严"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ressourcenschonend",
+  "pos": "adj",
+  "zh": "节约资源的",
+  "ex": [
+   "Recycelte Materialien machen die Produktion in vielen Branchen deutlich ressourcenschonender."
+  ],
+  "ex_zh": "再生材料让许多行业的生产明显更节约资源。",
+  "use": {
+   "col": [
+    [
+     "ressourcenschonend bauen",
+     "节约资源地建造"
+    ],
+    [
+     "ein ressourcenschonender Umgang",
+     "节约资源的做法"
+    ]
+   ],
+   "tip": "动词 schonen；名词 die Ressource"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "emissionsarm",
+  "pos": "adj",
+  "zh": "低排放的",
+  "ex": [
+   "Neue Stadtbusse fahren emissionsarm und sind kaum zu hören."
+  ],
+  "ex_zh": "新的城市公交车低排放，而且几乎没有声音。",
+  "use": {
+   "col": [
+    [
+     "emissionsarme Antriebe",
+     "低排放动力"
+    ],
+    [
+     "emissionsarm fahren",
+     "低排放行驶"
+    ]
+   ],
+   "tip": "-arm = 少…的；反义 -reich"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "schadstoffarm",
+  "pos": "adj",
+  "zh": "低污染物的",
+  "ex": [
+   "Für Kinderspielzeug sollten möglichst nur schadstoffarme Materialien verwendet werden."
+  ],
+  "ex_zh": "儿童玩具应使用低有害物质的材料。",
+  "use": {
+   "col": [
+    [
+     "schadstoffarme Farben",
+     "低毒颜料"
+    ],
+    [
+     "schadstoffarm produzieren",
+     "低污染地生产"
+    ]
+   ],
+   "tip": "Schadstoff 见 B2 词汇"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "regenerativ",
+  "pos": "adj",
+  "zh": "可再生的；再生的",
+  "ex": [
+   "Regenerative Energien machen Deutschland langfristig unabhängiger von Importen."
+  ],
+  "ex_zh": "可再生能源让德国长期来看更少依赖进口。",
+  "use": {
+   "col": [
+    [
+     "regenerative Energiequellen",
+     "可再生能源"
+    ],
+    [
+     "regenerativ erzeugt",
+     "用可再生方式产生的"
+    ]
+   ],
+   "tip": "与 erneuerbar 同义，更书面"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "naturnah",
+  "pos": "adj",
+  "zh": "接近自然的",
+  "ex": [
+   "Der Bach fließt wieder durch ein naturnahes Bett und bietet Fischen Lebensraum."
+  ],
+  "ex_zh": "小溪重新流过近自然的河床，给鱼类提供了栖息地。",
+  "use": {
+   "col": [
+    [
+     "naturnahe Landschaft",
+     "近自然景观"
+    ],
+    [
+     "naturnah gestalten",
+     "以近自然方式设计"
+    ]
+   ],
+   "tip": "naturbelassen 强调未加改动"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "artgerecht",
+  "pos": "adj",
+  "zh": "符合物种习性的",
+  "ex": [
+   "Bei artgerechter Haltung haben die Tiere genug Platz und Auslauf."
+  ],
+  "ex_zh": "在符合物种习性的饲养下，动物有足够的空间和活动场地。",
+  "use": {
+   "col": [
+    [
+     "artgerechte Haltung",
+     "适宜饲养"
+    ],
+    [
+     "artgerecht füttern",
+     "按习性喂养"
+    ]
+   ],
+   "tip": "Art 在此指物种"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "konventionell",
+  "pos": "adj",
+  "zh": "常规的；传统的",
+  "ex": [
+   "Konventionell erzeugte Lebensmittel sind meist billiger als Bioprodukte."
+  ],
+  "ex_zh": "常规生产的食品通常比有机产品便宜。",
+  "use": {
+   "col": [
+    [
+     "konventionelle Landwirtschaft",
+     "常规农业"
+    ],
+    [
+     "konventionell heizen",
+     "用传统方式取暖"
+    ]
+   ],
+   "tip": "反义 ökologisch / bio；也指「传统的」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ertragreich",
+  "pos": "adj",
+  "zh": "高产的；收益丰厚的",
+  "ex": [
+   "Dank neuer Sorten war die Ernte in diesem Jahr besonders ertragreich."
+  ],
+  "ex_zh": "由于新品种，今年的收成特别丰厚。",
+  "use": {
+   "col": [
+    [
+     "eine ertragreiche Ernte",
+     "高产的收成"
+    ],
+    [
+     "ertragreiche Böden",
+     "高产的土壤"
+    ]
+   ],
+   "tip": "Ertrag = 产量；收益"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "karg",
+  "pos": "adj",
+  "zh": "贫瘠的；简朴的",
+  "ex": [
+   "Der karge Boden in den Bergen erlaubt nur wenig Landwirtschaft."
+  ],
+  "ex_zh": "山里贫瘠的土壤只允许很少的农业。",
+  "use": {
+   "col": [
+    [
+     "karger Boden",
+     "贫瘠的土壤"
+    ],
+    [
+     "eine karge Landschaft",
+     "荒凉的景观"
+    ]
+   ],
+   "tip": "也用于「简朴的」，如 ein karges Zimmer、karger Lohn"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "üppig",
+  "pos": "adj",
+  "zh": "茂盛的；丰盛的",
+  "ex": [
+   "Nach dem regenreichen Frühling wuchs die Vegetation üppig."
+  ],
+  "ex_zh": "多雨的春天过后，植被长得很茂盛。",
+  "use": {
+   "col": [
+    [
+     "üppige Vegetation",
+     "茂盛的植被"
+    ],
+    [
+     "ein üppiges Essen",
+     "丰盛的饭菜"
+    ]
+   ],
+   "tip": "引申为「丰厚的」，如 üppige Gehälter"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "energieintensiv",
+  "pos": "adj",
+  "zh": "耗能大的",
+  "ex": [
+   "Die Herstellung von Stahl und Zement ist sehr energieintensiv."
+  ],
+  "ex_zh": "钢铁和水泥的生产非常耗能。",
+  "use": {
+   "col": [
+    [
+     "energieintensive Industrie",
+     "能源密集型工业"
+    ],
+    [
+     "energieintensive Verfahren",
+     "耗能的工艺"
+    ]
+   ],
+   "tip": "-intensiv = 耗…多的"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "tragfähig",
+  "pos": "adj",
+  "zh": "可持续的；站得住脚的；承重的",
+  "ex": [
+   "Wir brauchen ein tragfähiges Konzept für den Nahverkehr auf dem Land."
+  ],
+  "ex_zh": "我们需要一个可行、能长期支撑的农村公共交通方案。",
+  "use": {
+   "col": [
+    [
+     "ein tragfähiges Konzept",
+     "可行的方案"
+    ],
+    [
+     "tragfähige Lösung",
+     "站得住脚的解决方案"
+    ]
+   ],
+   "tip": "本义「能承重的」；比喻「可行的」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "zukunftsfähig",
+  "pos": "adj",
+  "zh": "有未来的；面向未来的",
+  "ex": [
+   "Eine zukunftsfähige Stadt braucht saubere Energie und kurze Wege."
+  ],
+  "ex_zh": "一座有未来的城市需要清洁能源和短途距离。",
+  "use": {
+   "col": [
+    [
+     "zukunftsfähig sein",
+     "有未来"
+    ],
+    [
+     "zukunftsfähige Technologien",
+     "面向未来的技术"
+    ]
+   ],
+   "tip": "近义 zukunftssicher"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "umweltverträglich",
+  "pos": "adj",
+  "zh": "对环境无害的；环境兼容的",
+  "ex": [
+   "Die Firma entwickelt neue umweltverträgliche Verpackungen aus Pflanzenfasern."
+  ],
+  "ex_zh": "这家公司开发用植物纤维制成的环保包装。",
+  "use": {
+   "col": [
+    [
+     "umweltverträgliche Produkte",
+     "环保产品"
+    ],
+    [
+     "umweltverträglich entsorgen",
+     "以环保方式处理"
+    ]
+   ],
+   "tip": "名词 die Umweltverträglichkeit"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "autark",
+  "pos": "adj",
+  "zh": "自给自足的",
+  "ex": [
+   "Das Dorf versorgt sich mit Strom und Wärme fast autark."
+  ],
+  "ex_zh": "这个村子的电和热几乎做到了自给自足。",
+  "use": {
+   "col": [
+    [
+     "autark leben",
+     "自给自足地生活"
+    ],
+    [
+     "energetisch autark",
+     "能源自给"
+    ]
+   ],
+   "tip": "名词 die Autarkie；来自希腊语"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "innerstädtisch",
+  "pos": "adj",
+  "zh": "市区内的",
+  "ex": [
+   "Innerstädtisch ist das Fahrrad oft das schnellste Verkehrsmittel."
+  ],
+  "ex_zh": "在市区里，自行车往往是最快的交通工具。",
+  "use": {
+   "col": [
+    [
+     "innerstädtischer Verkehr",
+     "市区交通"
+    ],
+    [
+     "innerstädtisch wohnen",
+     "住在市区"
+    ]
+   ],
+   "tip": "反义 überörtlich（跨地区）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "heruntergekommen",
+  "pos": "adj",
+  "zh": "破败的；衰落的",
+  "ex": [
+   "In dem heruntergekommenen Viertel stehen viele Häuser leer."
+  ],
+  "ex_zh": "在那个破败的街区里，许多房子空着。",
+  "use": {
+   "col": [
+    [
+     "ein heruntergekommenes Haus",
+     "破败的房子"
+    ],
+    [
+     "heruntergekommen wirken",
+     "显得破败"
+    ]
+   ],
+   "tip": "带评价色彩；也可形容人「落魄」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "flächendeckend",
+  "pos": "adj",
+  "zh": "覆盖全面的；覆盖整个地区的",
+  "ex": [
+   "Eine flächendeckende Versorgung mit Ladestationen fehlt in ländlichen Regionen noch."
+  ],
+  "ex_zh": "农村地区还缺少全面覆盖的充电站网络。",
+  "use": {
+   "col": [
+    [
+     "flächendeckend ausbauen",
+     "全面铺开建设"
+    ],
+    [
+     "eine flächendeckende Versorgung",
+     "全覆盖的供应"
+    ]
+   ],
+   "tip": "Fläche（已学）+ decken（覆盖）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "marode",
+  "pos": "adj",
+  "zh": "破旧的；年久失修的",
+  "ex": [
+   "Viele Brücken in Deutschland sind marode und müssen dringend saniert werden."
+  ],
+  "ex_zh": "德国许多桥梁破旧不堪，必须尽快修缮。",
+  "use": {
+   "col": [
+    [
+     "marode Brücken",
+     "破旧的桥"
+    ],
+    [
+     "marode Infrastruktur",
+     "老化的基础设施"
+    ]
+   ],
+   "tip": "新闻常用；本义「疲惫的」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "unter Denkmalschutz stehen",
+  "pos": "phr",
+  "zh": "受文物保护",
+  "ex": [
+   "Das Rathaus steht unter Denkmalschutz und darf nur mit Genehmigung umgebaut werden."
+  ],
+  "ex_zh": "市政厅受文物保护，只有获得批准才能改建。",
+  "use": {
+   "col": [
+    [
+     "unter Denkmalschutz stehen",
+     "受文物保护"
+    ],
+    [
+     "unter Denkmalschutz stellen",
+     "列为保护文物"
+    ]
+   ],
+   "tip": "Denkmalschutz 见 B2 词汇"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "auf Kosten der Umwelt",
+  "pos": "phr",
+  "zh": "以牺牲环境为代价",
+  "ex": [
+   "Wirtschaftliches Wachstum darf nicht auf Kosten der Umwelt gehen."
+  ],
+  "ex_zh": "经济增长不能以牺牲环境为代价。",
+  "gov": "auf Kosten + Gen.",
+  "use": {
+   "col": [
+    [
+     "auf Kosten der Umwelt",
+     "以环境为代价"
+    ],
+    [
+     "auf Kosten anderer leben",
+     "靠牺牲别人生活"
+    ]
+   ],
+   "tip": "auf Kosten + Gen.；同义 zulasten"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "im Einklang mit der Natur",
+  "pos": "phr",
+  "zh": "与自然和谐共处",
+  "ex": [
+   "Viele Menschen wünschen sich ein Leben im Einklang mit der Natur."
+  ],
+  "ex_zh": "许多人向往与自然和谐相处的生活。",
+  "use": {
+   "col": [
+    [
+     "im Einklang mit der Natur leben",
+     "与自然和谐相处"
+    ],
+    [
+     "im Einklang mit den Gesetzen",
+     "符合法律"
+    ]
+   ],
+   "tip": "Einklang = 和谐一致；书面语"
+  }
+ }
+]

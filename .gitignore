@@ -16,3 +16,6 @@ re/
 
 # 听力每句的原始音频（build_content.py 生成，拼好的在 docs/listen/）
 audio_listen/
+
+# 生成 B2/C1 时给代理看的已有词表（随时可重新导出）
+data/existing_lemmas.txt

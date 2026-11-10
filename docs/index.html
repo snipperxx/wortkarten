@@ -358,6 +358,7 @@ const COMBO_TIERS = [5, 10, 30, 50, 100];              // 连对到这些数时�
 const DECKS = {
   B1: { name: "B1 主线", test: w => w.lv === "B1" },
   B2: { name: "B2 进阶", test: w => w.lv === "B2" },
+  C1: { name: "C1 高级", test: w => w.lv === "C1" },
   A12: { name: "A1–A2 查漏", test: w => w.lv === "A1" || w.lv === "A2" },
   JOB: { name: "求职 · IT · 办事", test: w => ["求职", "IT", "办事"].includes(w.lv) },
   ALL: { name: "全部", test: () => true },
@@ -1000,7 +1001,7 @@ function statsHTML() {
   const streak = streakDays();
   const fc = [...Array(7)].map((_, i) => Object.values(S.prog).filter(p => p[0] >= 1 && p[0] < KILL && (i === 0 ? p[1] <= d : p[1] === d + i)).length);
   const mx = Math.max(1, ...fc);
-  const order = ["A1", "A2", "B1", "B2", "求职", "IT", "办事"];
+  const order = ["A1", "A2", "B1", "B2", "C1", "求职", "IT", "办事"];
   const gl = Object.values(S.gram), gok = gl.filter(g => g.s >= 80).length, gbook = Object.values(S.gx).filter(gxLive).length;
   const ll = Object.values(S.lis), wk = [...Array(7)].map((_, i) => dayTotal(d - i)), wg = wk.reduce((a, x) => a + x.g, 0), wl = wk.reduce((a, x) => a + x.l, 0);
   return `<div class="grid-stats">
@@ -1066,7 +1067,7 @@ function settingsHTML() {
       <p class="note">版本 <span id="ver"></span> · 这台设备 ${DEV}</p>
     </div>
     <div class="card about">
-      <span>词表来源：Goethe-Institut 公开的 A1 / A2 / B1 考试词表（含例句），本站仅供学习、不商业使用。</span>
+      <span>词表来源：Goethe-Institut 公开的 A1 / A2 / B1 考试词表（含例句），本站仅供学习、不商业使用。B2 / C1 没有官方词表，是按考试和工作中的常用词由 AI 整理的，例句也是 AI 写的。</span>
       <span>中文释义、例句翻译、义项、搭配和提示由 AI 生成，可能有错，欢迎纠错。单词发音为微软神经网络语音合成。</span>
       <span>源代码：<a href="https://github.com/snipperxx/wortkarten" target="_blank" rel="noopener">github.com/snipperxx/wortkarten</a></span>
     </div>
@@ -1735,7 +1736,7 @@ document.addEventListener("keydown", e => {
 });
 
 /* ---------- 自动更新（和送报 App 一样：打开/切回前台时检查新版本） ---------- */
-const APP_VERSION = "2026-11-10.1";
+const APP_VERSION = "2026-11-10.2";
 if ("serviceWorker" in navigator && location.protocol === "https:") {
   navigator.serviceWorker.register("sw.js", { updateViaCache: "none" }).then(reg => {
     document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") reg.update().catch(() => {}); });

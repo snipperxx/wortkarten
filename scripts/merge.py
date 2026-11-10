@@ -70,6 +70,9 @@ for w in base:
 
 extra = json.loads((D / "extra.json").read_text(encoding="utf-8"))
 out += extra
+adv = D / "adv_words.json"          # B2 / C1，scripts/build_adv.py 生成
+if adv.exists():
+    out += json.loads(adv.read_text(encoding="utf-8"))
 for w in out:
     w.pop("kind", None)
 

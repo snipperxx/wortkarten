@@ -1,0 +1,9743 @@
+[
+ {
+  "lv": "B2",
+  "lemma": "Allergie",
+  "art": "die",
+  "pl_full": "die Allergien",
+  "pos": "n",
+  "zh": "过敏",
+  "ex": [
+   "Seit meiner Kindheit habe ich eine Allergie gegen Katzenhaare."
+  ],
+  "ex_zh": "我从小就对猫毛过敏。",
+  "gov": "Allergie gegen + Akk.",
+  "use": {
+   "col": [
+    [
+     "eine Allergie gegen Pollen",
+     "花粉过敏"
+    ],
+    [
+     "an einer Allergie leiden",
+     "受过敏之苦"
+    ]
+   ],
+   "tip": "形容词 allergisch；Heuschnupfen 花粉症"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Entzündung",
+  "art": "die",
+  "pl_full": "die Entzündungen",
+  "pos": "n",
+  "zh": "炎症",
+  "ex": [
+   "Der Arzt hat eine Entzündung im Hals festgestellt."
+  ],
+  "ex_zh": "医生诊断出喉咙发炎。",
+  "use": {
+   "col": [
+    [
+     "eine Entzündung behandeln",
+     "治疗炎症"
+    ],
+    [
+     "die Mandelentzündung",
+     "扁桃体炎"
+    ]
+   ],
+   "tip": "动词 sich entzünden；Lungenentzündung 肺炎"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Diagnose",
+  "art": "die",
+  "pl_full": "die Diagnosen",
+  "pos": "n",
+  "zh": "诊断",
+  "ex": [
+   "Die Diagnose hat sie zuerst erschreckt, aber die Behandlung ist gut möglich."
+  ],
+  "ex_zh": "这个诊断起初吓到了她，但治疗是很有希望的。",
+  "use": {
+   "col": [
+    [
+     "eine Diagnose stellen",
+     "作出诊断"
+    ],
+    [
+     "die Diagnose lautet …",
+     "诊断结果是……"
+    ]
+   ],
+   "tip": "动词 diagnostizieren；Fehldiagnose 误诊"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Symptom",
+  "art": "das",
+  "pl_full": "die Symptome",
+  "pos": "n",
+  "zh": "症状",
+  "ex": [
+   "Welche Symptome haben Sie denn genau, und seit wann?"
+  ],
+  "ex_zh": "您具体有哪些症状，从什么时候开始的？",
+  "use": {
+   "col": [
+    [
+     "typische Symptome",
+     "典型症状"
+    ],
+    [
+     "Symptome zeigen",
+     "表现出症状"
+    ]
+   ],
+   "tip": "重音在 -tom；也可指不好现象的征兆"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Impfung",
+  "art": "die",
+  "pl_full": "die Impfungen",
+  "pos": "n",
+  "zh": "接种疫苗",
+  "ex": [
+   "Für die Reise nach Indien brauchst du mehrere Impfungen."
+  ],
+  "ex_zh": "去印度旅行你需要接种好几种疫苗。",
+  "gov": "Impfung gegen + Akk.",
+  "use": {
+   "col": [
+    [
+     "eine Impfung auffrischen",
+     "加强接种"
+    ],
+    [
+     "Impfung gegen Masern",
+     "麻疹疫苗接种"
+    ]
+   ],
+   "tip": "动词 impfen；Impfstoff 疫苗，Impfpass 接种证"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Nebenwirkung",
+  "art": "die",
+  "pl_full": "die Nebenwirkungen",
+  "pos": "n",
+  "zh": "副作用",
+  "ex": [
+   "Lesen Sie den Beipackzettel, dort stehen alle möglichen Nebenwirkungen."
+  ],
+  "ex_zh": "请读一下药品说明书，上面写着所有可能的副作用。",
+  "use": {
+   "col": [
+    [
+     "Nebenwirkungen haben",
+     "有副作用"
+    ],
+    [
+     "mit Nebenwirkungen rechnen",
+     "预料会有副作用"
+    ]
+   ],
+   "tip": "Wirkung 是「作用」；药品说明书 Beipackzettel"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Krankschreibung",
+  "art": "die",
+  "pl_full": "die Krankschreibungen",
+  "pos": "n",
+  "zh": "病假证明；开病假",
+  "ex": [
+   "Für die Krankschreibung brauche ich eine Bescheinigung vom Arzt."
+  ],
+  "ex_zh": "要请病假，我需要医生的证明。",
+  "use": {
+   "col": [
+    [
+     "eine Krankschreibung bekommen",
+     "拿到病假条"
+    ],
+    [
+     "sich krankschreiben lassen",
+     "请医生开病假"
+    ]
+   ],
+   "tip": "口语：der gelbe Schein"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Genesung",
+  "art": "die",
+  "pos": "n",
+  "zh": "康复",
+  "ex": [
+   "Wir wünschen Ihnen gute Genesung und eine schnelle Rückkehr."
+  ],
+  "ex_zh": "祝您早日康复、早日回来。",
+  "use": {
+   "col": [
+    [
+     "gute Genesung!",
+     "祝早日康复！"
+    ],
+    [
+     "auf dem Weg der Genesung sein",
+     "在康复途中"
+    ]
+   ],
+   "tip": "动词 genesen；比 Besserung 更书面"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Heilung",
+  "art": "die",
+  "pos": "n",
+  "zh": "治愈；愈合",
+  "ex": [
+   "Die vollständige Heilung des komplizierten Knochenbruchs dauert voraussichtlich mehrere Wochen."
+  ],
+  "ex_zh": "这处复杂骨折要完全愈合，预计需要好几周。",
+  "use": {
+   "col": [
+    [
+     "auf Heilung hoffen",
+     "盼望痊愈"
+    ],
+    [
+     "der Heilungsprozess",
+     "愈合过程"
+    ]
+   ],
+   "tip": "动词 heilen；Heilung 强调彻底治好"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kopfschmerzen (Pl.)",
+  "art": "die",
+  "pos": "n",
+  "zh": "头痛",
+  "ex": [
+   "Nach dem langen Tag am Bildschirm habe ich oft Kopfschmerzen."
+  ],
+  "ex_zh": "在屏幕前坐了一整天，我常常头疼。",
+  "use": {
+   "col": [
+    [
+     "Kopfschmerzen haben",
+     "头疼"
+    ],
+    [
+     "Tabletten gegen Kopfschmerzen",
+     "止头痛药"
+    ]
+   ],
+   "tip": "通常用复数；其他：Bauch-、Rücken-、Halsschmerzen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Bauchschmerzen (Pl.)",
+  "art": "die",
+  "pos": "n",
+  "zh": "肚子痛",
+  "ex": [
+   "Die Kinder klagen seit dem Mittagessen über Bauchschmerzen."
+  ],
+  "ex_zh": "孩子们从午饭后就喊肚子痛。",
+  "use": {
+   "col": [
+    [
+     "Bauchschmerzen haben",
+     "肚子痛"
+    ],
+    [
+     "über Bauchschmerzen klagen",
+     "诉说肚子痛"
+    ]
+   ],
+   "tip": "口语：Bauchweh；Magen 指胃，Bauch 指腹部"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Rückenschmerzen (Pl.)",
+  "art": "die",
+  "pos": "n",
+  "zh": "背痛",
+  "ex": [
+   "Wer den ganzen Tag sitzt, bekommt früher oder später Rückenschmerzen."
+  ],
+  "ex_zh": "整天坐着的人迟早会背痛。",
+  "use": {
+   "col": [
+    [
+     "Rückenschmerzen haben",
+     "背痛"
+    ],
+    [
+     "chronische Rückenschmerzen",
+     "慢性背痛"
+    ]
+   ],
+   "tip": "程序员、办公室工作者常见；Rücken 背"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Halsschmerzen (Pl.)",
+  "art": "die",
+  "pos": "n",
+  "zh": "喉咙痛",
+  "ex": [
+   "Seit dem Konzert habe ich Halsschmerzen und eine heisere Stimme."
+  ],
+  "ex_zh": "听完音乐会后我喉咙痛，嗓子也哑了。",
+  "use": {
+   "col": [
+    [
+     "Halsschmerzen haben",
+     "喉咙痛"
+    ],
+    [
+     "Tabletten gegen Halsschmerzen",
+     "喉咙痛含片"
+    ]
+   ],
+   "tip": "Hals 既是颈也是喉咙；heiser 嗓子哑的"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Übelkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "恶心",
+  "ex": [
+   "Bei Übelkeit und Erbrechen sollten Sie sofort einen Arzt anrufen."
+  ],
+  "ex_zh": "如果恶心和呕吐，请立刻打电话给医生。",
+  "use": {
+   "col": [
+    [
+     "unter Übelkeit leiden",
+     "受恶心之苦"
+    ],
+    [
+     "Übelkeit verspüren",
+     "感到恶心"
+    ]
+   ],
+   "tip": "口语：Mir ist übel；Erbrechen 呕吐"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Schwindel",
+  "art": "der",
+  "pos": "n",
+  "zh": "头晕；骗局",
+  "ex": [
+   "Beim schnellen Aufstehen bekomme ich manchmal einen leichten Schwindel."
+  ],
+  "ex_zh": "猛地站起来时，我有时会有点头晕。",
+  "use": {
+   "senses": [
+    "头晕",
+    "欺骗；骗局"
+   ],
+   "col": [
+    [
+     "Schwindel verspüren",
+     "感到头晕"
+    ],
+    [
+     "ein Schwindelanfall",
+     "一阵眩晕"
+    ]
+   ],
+   "tip": "形容词 schwindelig；另一义是骗局"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Durchfall",
+  "art": "der",
+  "pos": "n",
+  "zh": "腹泻",
+  "ex": [
+   "Nach dem Essen auf dem Markt hatte ich zwei Tage lang Durchfall."
+  ],
+  "ex_zh": "在集市上吃完东西后，我拉了两天肚子。",
+  "use": {
+   "col": [
+    [
+     "Durchfall haben",
+     "腹泻"
+    ],
+    [
+     "Durchfall und Erbrechen",
+     "腹泻和呕吐"
+    ]
+   ],
+   "tip": "反义词 Verstopfung（便秘）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Blutdruck",
+  "art": "der",
+  "pos": "n",
+  "zh": "血压",
+  "ex": [
+   "Mein Blutdruck ist zu hoch, deshalb soll ich weniger Salz essen."
+  ],
+  "ex_zh": "我血压太高，所以应该少吃盐。",
+  "use": {
+   "col": [
+    [
+     "den Blutdruck messen",
+     "量血压"
+    ],
+    [
+     "hohen Blutdruck haben",
+     "有高血压"
+    ]
+   ],
+   "tip": "高血压也叫 Bluthochdruck；没有复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Puls",
+  "art": "der",
+  "pos": "n",
+  "zh": "脉搏",
+  "ex": [
+   "Der Arzt misst den Puls und hört die Lunge ab."
+  ],
+  "ex_zh": "医生测脉搏，并听诊肺部。",
+  "use": {
+   "col": [
+    [
+     "den Puls fühlen",
+     "摸脉搏"
+    ],
+    [
+     "der Puls rast",
+     "脉搏飞快"
+    ]
+   ],
+   "tip": "书面的「心率」是 Herzfrequenz"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gelenk",
+  "art": "das",
+  "pl_full": "die Gelenke",
+  "pos": "n",
+  "zh": "关节",
+  "ex": [
+   "Bei feuchtem Wetter und Regen tun ihr die Gelenke besonders weh."
+  ],
+  "ex_zh": "在潮湿多雨的天气里，她的关节特别疼。",
+  "use": {
+   "col": [
+    [
+     "Gelenkschmerzen haben",
+     "关节痛"
+    ],
+    [
+     "ein künstliches Gelenk",
+     "人工关节"
+    ]
+   ],
+   "tip": "Kniegelenk 膝关节；形容词 gelenkig 灵活的"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gehirn",
+  "art": "das",
+  "pl_full": "die Gehirne",
+  "pos": "n",
+  "zh": "大脑",
+  "ex": [
+   "Das Gehirn braucht ausreichend Schlaf, um Informationen zu verarbeiten."
+  ],
+  "ex_zh": "大脑需要充足的睡眠来处理信息。",
+  "use": {
+   "col": [
+    [
+     "das Gehirn trainieren",
+     "锻炼大脑"
+    ],
+    [
+     "eine Gehirnerschütterung",
+     "脑震荡"
+    ]
+   ],
+   "tip": "Hirn 是较短的口语说法"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Lunge",
+  "art": "die",
+  "pl_full": "die Lungen",
+  "pos": "n",
+  "zh": "肺",
+  "ex": [
+   "Rauchen schadet der Lunge und erhöht das Krebsrisiko."
+  ],
+  "ex_zh": "吸烟损害肺部并提高患癌风险。",
+  "use": {
+   "col": [
+    [
+     "die Lunge röntgen",
+     "给肺部拍片"
+    ],
+    [
+     "die Lungenentzündung",
+     "肺炎"
+    ]
+   ],
+   "tip": "Lungenentzündung 肺炎；Lungenkrebs 肺癌"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Leber",
+  "art": "die",
+  "pl_full": "die Lebern",
+  "pos": "n",
+  "zh": "肝",
+  "ex": [
+   "Zu viel Alkohol belastet die Leber auf Dauer."
+  ],
+  "ex_zh": "长期过量饮酒会加重肝脏负担。",
+  "use": {
+   "col": [
+    [
+     "die Leber schädigen",
+     "损伤肝脏"
+    ],
+    [
+     "die Leberwerte",
+     "肝功能指标"
+    ]
+   ],
+   "tip": "Leberwurst 肝肠"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Niere",
+  "art": "die",
+  "pl_full": "die Nieren",
+  "pos": "n",
+  "zh": "肾",
+  "ex": [
+   "Wegen einer kranken Niere muss er dreimal pro Woche zur Dialyse."
+  ],
+  "ex_zh": "因为一个肾有病，他每周要去三次做透析。",
+  "use": {
+   "col": [
+    [
+     "eine Niere spenden",
+     "捐一个肾"
+    ],
+    [
+     "der Nierenstein",
+     "肾结石"
+    ]
+   ],
+   "tip": "Nierenversagen 肾衰竭"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Darm",
+  "art": "der",
+  "pl_full": "die Därme",
+  "pos": "n",
+  "zh": "肠",
+  "ex": [
+   "Ballaststoffe sind gut für den Darm und die Verdauung."
+  ],
+  "ex_zh": "膳食纤维对肠道和消化有益。",
+  "use": {
+   "col": [
+    [
+     "ein empfindlicher Darm",
+     "敏感的肠道"
+    ],
+    [
+     "Darmkrebs",
+     "肠癌"
+    ]
+   ],
+   "tip": "复数有变音：Därme；Magen-Darm-Infekt 肠胃炎"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Übergewicht",
+  "art": "das",
+  "pos": "n",
+  "zh": "超重",
+  "ex": [
+   "Viele Menschen mit Übergewicht haben auch Probleme mit dem Rücken."
+  ],
+  "ex_zh": "很多超重的人背部也有问题。",
+  "use": {
+   "col": [
+    [
+     "Übergewicht haben",
+     "超重"
+    ],
+    [
+     "gegen Übergewicht kämpfen",
+     "与超重作斗争"
+    ]
+   ],
+   "tip": "形容词 übergewichtig；严重肥胖叫 Adipositas"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Nährstoff",
+  "art": "der",
+  "pl_full": "die Nährstoffe",
+  "pos": "n",
+  "zh": "营养素",
+  "ex": [
+   "Frisches Gemüse enthält viele wichtige Nährstoffe und Vitamine für den Körper."
+  ],
+  "ex_zh": "新鲜蔬菜含有许多对身体重要的营养素和维生素。",
+  "use": {
+   "col": [
+    [
+     "wichtige Nährstoffe",
+     "重要营养素"
+    ],
+    [
+     "Nährstoffe aufnehmen",
+     "吸收营养"
+    ]
+   ],
+   "tip": "形容词 nahrhaft 有营养的"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Eiweiß",
+  "art": "das",
+  "pos": "n",
+  "zh": "蛋白质；蛋清",
+  "ex": [
+   "Nach dem Krafttraining esse ich gern etwas mit viel Eiweiß."
+  ],
+  "ex_zh": "力量训练后我喜欢吃些高蛋白的东西。",
+  "use": {
+   "senses": [
+    "蛋白质",
+    "蛋清"
+   ],
+   "col": [
+    [
+     "eiweißreiche Ernährung",
+     "高蛋白饮食"
+    ],
+    [
+     "das Eiweiß steif schlagen",
+     "把蛋清打发"
+    ]
+   ],
+   "tip": "蛋白质也叫 Protein；蛋清也叫 Eiklar"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kalorie",
+  "art": "die",
+  "pl_full": "die Kalorien",
+  "pos": "n",
+  "zh": "卡路里",
+  "ex": [
+   "Ein Stück Kuchen hat mehr Kalorien, als man denkt."
+  ],
+  "ex_zh": "一块蛋糕的热量比人们想的要高。",
+  "use": {
+   "col": [
+    [
+     "Kalorien zählen",
+     "数卡路里"
+    ],
+    [
+     "kalorienarm",
+     "低热量的"
+    ]
+   ],
+   "tip": "食品包装上写 kcal"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Vegetarier",
+  "art": "der",
+  "pl_full": "die Vegetarier",
+  "pos": "n",
+  "zh": "素食者",
+  "ex": [
+   "Seit fünf Jahren lebt meine Schwester als Vegetarierin."
+  ],
+  "ex_zh": "五年来我妹妹一直是素食者。",
+  "use": {
+   "col": [
+    [
+     "ein strenger Vegetarier",
+     "严格的素食者"
+    ],
+    [
+     "Vegetarier und Veganer",
+     "素食者和纯素者"
+    ]
+   ],
+   "tip": "女性 die Vegetarierin；vegetarisch 形容词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kondition",
+  "art": "die",
+  "pos": "n",
+  "zh": "体能",
+  "ex": [
+   "Nach der langen Pause fehlt mir einfach die Kondition."
+  ],
+  "ex_zh": "停了这么久，我就是缺体能了。",
+  "use": {
+   "col": [
+    [
+     "Kondition haben",
+     "体能好"
+    ],
+    [
+     "die Kondition verbessern",
+     "提升体能"
+    ]
+   ],
+   "tip": "Ausdauer 偏指耐力；Kondition 指整体体能，没有复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Ausdauer",
+  "art": "die",
+  "pos": "n",
+  "zh": "耐力；毅力",
+  "ex": [
+   "Für einen Marathon braucht man viel Ausdauer und Geduld."
+  ],
+  "ex_zh": "跑马拉松需要很强的耐力和耐心。",
+  "use": {
+   "senses": [
+    "（体力）耐力",
+    "毅力；恒心"
+   ],
+   "col": [
+    [
+     "Ausdauer trainieren",
+     "训练耐力"
+    ],
+    [
+     "Ausdauer beweisen",
+     "表现出毅力"
+    ]
+   ],
+   "tip": "形容词 ausdauernd；Ausdauersport 耐力运动"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Muskelkater",
+  "art": "der",
+  "pos": "n",
+  "zh": "肌肉酸痛",
+  "ex": [
+   "Nach dem ersten Training im Fitnessstudio hatte ich drei Tage Muskelkater."
+  ],
+  "ex_zh": "第一次在健身房训练后，我肌肉酸痛了三天。",
+  "use": {
+   "col": [
+    [
+     "Muskelkater haben",
+     "肌肉酸痛"
+    ],
+    [
+     "einen fürchterlichen Muskelkater",
+     "严重的肌肉酸痛"
+    ]
+   ],
+   "tip": "字面是「肌肉的公猫」，与猫无关；没有复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fitnessstudio",
+  "art": "das",
+  "pl_full": "die Fitnessstudios",
+  "pos": "n",
+  "zh": "健身房",
+  "ex": [
+   "Ich gehe zweimal in der Woche ins Fitnessstudio."
+  ],
+  "ex_zh": "我每周去两次健身房。",
+  "use": {
+   "col": [
+    [
+     "im Fitnessstudio angemeldet sein",
+     "办了健身房会员"
+    ],
+    [
+     "ein Fitnessstudio besuchen",
+     "去健身房"
+    ]
+   ],
+   "tip": "新正字法 Fitnessstudio（三个 s）；口语也说 Studio"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Wettkampf",
+  "art": "der",
+  "pl_full": "die Wettkämpfe",
+  "pos": "n",
+  "zh": "比赛；竞赛",
+  "ex": [
+   "Vor dem Wettkampf war die ganze Mannschaft sehr nervös."
+  ],
+  "ex_zh": "比赛前整个队伍都非常紧张。",
+  "use": {
+   "col": [
+    [
+     "an einem Wettkampf teilnehmen",
+     "参加比赛"
+    ],
+    [
+     "einen Wettkampf gewinnen",
+     "赢得比赛"
+    ]
+   ],
+   "tip": "Wettbewerb 范围更广，也指商业竞争"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Schiedsrichter",
+  "art": "der",
+  "pl_full": "die Schiedsrichter",
+  "pos": "n",
+  "zh": "裁判",
+  "ex": [
+   "Der Schiedsrichter hat dem Spieler die gelbe Karte gezeigt."
+  ],
+  "ex_zh": "裁判向那名球员出示了黄牌。",
+  "use": {
+   "col": [
+    [
+     "der Schiedsrichter pfeift",
+     "裁判吹哨"
+    ],
+    [
+     "eine Entscheidung des Schiedsrichters",
+     "裁判的判罚"
+    ]
+   ],
+   "tip": "口语缩写 Schiri；女性 die Schiedsrichterin"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Niederlage",
+  "art": "die",
+  "pl_full": "die Niederlagen",
+  "pos": "n",
+  "zh": "失败；败仗",
+  "ex": [
+   "Nach der Niederlage im Finale herrschte lange Stille in der Kabine."
+  ],
+  "ex_zh": "决赛失利后，更衣室里沉默了很久。",
+  "use": {
+   "col": [
+    [
+     "eine Niederlage einstecken",
+     "吃败仗"
+    ],
+    [
+     "eine bittere Niederlage",
+     "惨痛的失败"
+    ]
+   ],
+   "tip": "反义词 Sieg；也可用于选举、官司"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Meisterschaft",
+  "art": "die",
+  "pl_full": "die Meisterschaften",
+  "pos": "n",
+  "zh": "锦标赛；冠军赛",
+  "ex": [
+   "Die deutsche Meisterschaft im Schwimmen findet dieses Jahr in Berlin statt."
+  ],
+  "ex_zh": "今年的德国游泳锦标赛在柏林举行。",
+  "use": {
+   "col": [
+    [
+     "eine Meisterschaft gewinnen",
+     "赢得冠军"
+    ],
+    [
+     "an der Weltmeisterschaft teilnehmen",
+     "参加世界锦标赛"
+    ]
+   ],
+   "tip": "缩写 WM（世界杯）、EM（欧洲杯）；Meister 冠军"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Entspannung",
+  "art": "die",
+  "pos": "n",
+  "zh": "放松",
+  "ex": [
+   "Zur Entspannung höre ich abends gern ruhige Musik."
+  ],
+  "ex_zh": "为了放松，我晚上喜欢听舒缓的音乐。",
+  "use": {
+   "col": [
+    [
+     "zur Entspannung",
+     "为了放松"
+    ],
+    [
+     "Entspannung finden",
+     "得到放松"
+    ]
+   ],
+   "tip": "动词 sich entspannen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Schlafstörung",
+  "art": "die",
+  "pl_full": "die Schlafstörungen",
+  "pos": "n",
+  "zh": "睡眠障碍",
+  "ex": [
+   "Viele Menschen mit Schlafstörungen sitzen abends zu lange am Handy."
+  ],
+  "ex_zh": "很多睡眠有问题的人晚上盯着手机太久。",
+  "use": {
+   "col": [
+    [
+     "an Schlafstörungen leiden",
+     "受睡眠障碍之苦"
+    ],
+    [
+     "Schlafstörungen behandeln",
+     "治疗睡眠障碍"
+    ]
+   ],
+   "tip": "通常用复数；完全睡不着叫 Schlaflosigkeit"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Depression",
+  "art": "die",
+  "pl_full": "die Depressionen",
+  "pos": "n",
+  "zh": "抑郁症",
+  "ex": [
+   "Eine Depression ist keine Schwäche, sondern eine ernste Krankheit."
+  ],
+  "ex_zh": "抑郁症不是软弱，而是一种严重的疾病。",
+  "use": {
+   "col": [
+    [
+     "an einer Depression leiden",
+     "患抑郁症"
+    ],
+    [
+     "unter Depressionen leiden",
+     "饱受抑郁之苦"
+    ]
+   ],
+   "tip": "形容词 depressiv；医学概念，不等于普通的心情低落"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Nervosität",
+  "art": "die",
+  "pos": "n",
+  "zh": "紧张；神经质",
+  "ex": [
+   "Vor dem Vorstellungsgespräch konnte ich meine Nervosität kaum verbergen."
+  ],
+  "ex_zh": "面试前我几乎藏不住自己的紧张。",
+  "use": {
+   "col": [
+    [
+     "seine Nervosität verbergen",
+     "掩饰紧张"
+    ],
+    [
+     "vor Nervosität zittern",
+     "紧张得发抖"
+    ]
+   ],
+   "tip": "形容词 nervös；近义 Aufregung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Wut",
+  "art": "die",
+  "pos": "n",
+  "zh": "愤怒；怒火",
+  "ex": [
+   "Er hat vor Wut die Tür zugeknallt und das Haus verlassen."
+  ],
+  "ex_zh": "他气得砰地关上门，离开了家。",
+  "use": {
+   "col": [
+    [
+     "vor Wut kochen",
+     "气得冒火"
+    ],
+    [
+     "eine Wut im Bauch haben",
+     "一肚子火"
+    ]
+   ],
+   "tip": "形容词 wütend；比 Ärger 更强烈"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Trauer",
+  "art": "die",
+  "pos": "n",
+  "zh": "悲痛；哀悼",
+  "ex": [
+   "Die Familie zeigte ihre Trauer um den Verstorbenen offen."
+  ],
+  "ex_zh": "这家人公开表达了对逝者的哀悼。",
+  "gov": "Trauer um + Akk.",
+  "use": {
+   "col": [
+    [
+     "Trauer tragen",
+     "服丧"
+    ],
+    [
+     "in tiefer Trauer",
+     "深切哀悼"
+    ]
+   ],
+   "tip": "动词 trauern um；Trauerfeier 追悼会"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Eifersucht",
+  "art": "die",
+  "pos": "n",
+  "zh": "嫉妒（感情中）",
+  "ex": [
+   "Seine Eifersucht hat die Beziehung auf Dauer belastet."
+  ],
+  "ex_zh": "他的嫉妒长期拖累了这段感情。",
+  "use": {
+   "col": [
+    [
+     "krankhafte Eifersucht",
+     "病态的嫉妒"
+    ],
+    [
+     "vor Eifersucht platzen",
+     "嫉妒得发狂"
+    ]
+   ],
+   "tip": "形容词 eifersüchtig auf + Akk.；多指感情上的嫉妒"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Neid",
+  "art": "der",
+  "pos": "n",
+  "zh": "羡慕嫉妒",
+  "ex": [
+   "Sein neues Auto hat bei den Nachbarn nur Neid ausgelöst."
+  ],
+  "ex_zh": "他的新车只引来了邻居们的眼红。",
+  "use": {
+   "col": [
+    [
+     "vor Neid erblassen",
+     "羡慕得脸色发白"
+    ],
+    [
+     "Neid erregen",
+     "引起嫉妒"
+    ]
+   ],
+   "tip": "动词 beneiden；形容词 neidisch；Neid 指想要别人所有的"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Scham",
+  "art": "die",
+  "pos": "n",
+  "zh": "羞耻；羞愧",
+  "ex": [
+   "Vor Scham wäre sie am liebsten im Boden versunken."
+  ],
+  "ex_zh": "她羞得恨不得找个地缝钻进去。",
+  "use": {
+   "col": [
+    [
+     "vor Scham erröten",
+     "羞得脸红"
+    ],
+    [
+     "keine Scham kennen",
+     "不知羞耻"
+    ]
+   ],
+   "tip": "动词 sich schämen；形容词 beschämt 感到惭愧的"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Schuldgefühl",
+  "art": "das",
+  "pl_full": "die Schuldgefühle",
+  "pos": "n",
+  "zh": "负罪感；愧疚",
+  "ex": [
+   "Nach dem Streit mit seiner Schwester hatte er lange Schuldgefühle."
+  ],
+  "ex_zh": "和姐姐吵架之后，他愧疚了很久。",
+  "use": {
+   "col": [
+    [
+     "Schuldgefühle haben",
+     "感到愧疚"
+    ],
+    [
+     "von Schuldgefühlen geplagt werden",
+     "被愧疚折磨"
+    ]
+   ],
+   "tip": "常用复数；Schuld 是「责任；罪过」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Einsamkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "孤独",
+  "ex": [
+   "Viele ältere Menschen leiden in der Stadt unter Einsamkeit."
+  ],
+  "ex_zh": "城市里很多老年人饱受孤独之苦。",
+  "use": {
+   "col": [
+    [
+     "unter Einsamkeit leiden",
+     "受孤独之苦"
+    ],
+    [
+     "die Einsamkeit überwinden",
+     "克服孤独"
+    ]
+   ],
+   "tip": "形容词 einsam（感到孤独）；allein 只表示独自一人"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Sehnsucht",
+  "art": "die",
+  "pl_full": "die Sehnsüchte",
+  "pos": "n",
+  "zh": "渴望；思念",
+  "ex": [
+   "Mit der Zeit bekam ich große Sehnsucht nach meiner Heimat."
+  ],
+  "ex_zh": "时间一长，我对家乡产生了强烈的思念。",
+  "gov": "Sehnsucht nach + Dat.",
+  "use": {
+   "col": [
+    [
+     "Sehnsucht haben",
+     "思念；渴望"
+    ],
+    [
+     "von Sehnsucht erfüllt sein",
+     "充满渴望"
+    ]
+   ],
+   "tip": "动词 sich sehnen nach；Heimweh 专指想家"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zufriedenheit",
+  "art": "die",
+  "pos": "n",
+  "zh": "满意；知足",
+  "ex": [
+   "Die Zufriedenheit der Kunden hat für unser Unternehmen oberste Priorität."
+  ],
+  "ex_zh": "客户满意度对我们公司来说是第一位的。",
+  "use": {
+   "col": [
+    [
+     "die Zufriedenheit steigern",
+     "提高满意度"
+    ],
+    [
+     "Zufriedenheit ausstrahlen",
+     "散发出满足感"
+    ]
+   ],
+   "tip": "形容词 zufrieden；Kundenzufriedenheit 客户满意度"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Unsicherheit",
+  "art": "die",
+  "pl_full": "die Unsicherheiten",
+  "pos": "n",
+  "zh": "不安；不确定",
+  "ex": [
+   "Die Unsicherheit über die Zukunft belastet viele Studenten."
+  ],
+  "ex_zh": "对未来的不确定让许多学生感到压力。",
+  "use": {
+   "col": [
+    [
+     "große Unsicherheit",
+     "很大的不确定感"
+    ],
+    [
+     "Unsicherheit ausstrahlen",
+     "流露出不自信"
+    ]
+   ],
+   "tip": "反义词 Sicherheit；形容词 unsicher"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Selbstvertrauen",
+  "art": "das",
+  "pos": "n",
+  "zh": "自信",
+  "ex": [
+   "Nach dem erfolgreichen Vortrag wuchs mein Selbstvertrauen deutlich."
+  ],
+  "ex_zh": "成功做完报告后，我的自信明显增长了。",
+  "use": {
+   "col": [
+    [
+     "Selbstvertrauen haben",
+     "有自信"
+    ],
+    [
+     "das Selbstvertrauen stärken",
+     "增强自信"
+    ]
+   ],
+   "tip": "近义 Selbstbewusstsein；没有复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Selbstbewusstsein",
+  "art": "das",
+  "pos": "n",
+  "zh": "自信；自我意识",
+  "ex": [
+   "Sie tritt mit viel Selbstbewusstsein vor die Gruppe."
+  ],
+  "ex_zh": "她充满自信地走到大家面前。",
+  "use": {
+   "col": [
+    [
+     "ein gesundes Selbstbewusstsein",
+     "健康的自信"
+    ],
+    [
+     "an Selbstbewusstsein gewinnen",
+     "增加自信"
+    ]
+   ],
+   "tip": "形容词 selbstbewusst；日常多指「自信」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Charakter",
+  "art": "der",
+  "pl_full": "die Charaktere",
+  "pos": "n",
+  "zh": "性格；品格",
+  "ex": [
+   "Er hat einen schwierigen Charakter, aber im Kern ist er ein guter Mensch."
+  ],
+  "ex_zh": "他性格不好相处，但本质上是个好人。",
+  "use": {
+   "col": [
+    [
+     "einen starken Charakter haben",
+     "性格坚强"
+    ],
+    [
+     "ein Mann von Charakter",
+     "有品格的人"
+    ]
+   ],
+   "tip": "发音 [kaˈrakter]，复数 Charaktere 重音后移"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Eigenschaft",
+  "art": "die",
+  "pl_full": "die Eigenschaften",
+  "pos": "n",
+  "zh": "特点；性质",
+  "ex": [
+   "Zuverlässigkeit ist die wichtigste Eigenschaft, die ich an Kollegen schätze."
+  ],
+  "ex_zh": "可靠是我最看重同事的一个特点。",
+  "use": {
+   "col": [
+    [
+     "positive Eigenschaften",
+     "优点"
+    ],
+    [
+     "eine typische Eigenschaft",
+     "典型特点"
+    ]
+   ],
+   "tip": "Charaktereigenschaft 性格特点；也指物质性质"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Persönlichkeit",
+  "art": "die",
+  "pl_full": "die Persönlichkeiten",
+  "pos": "n",
+  "zh": "个性；人物",
+  "ex": [
+   "Sie hat eine starke Persönlichkeit und lässt sich nicht beeinflussen."
+  ],
+  "ex_zh": "她个性很强，不会被别人左右。",
+  "use": {
+   "senses": [
+    "个性",
+    "（知名）人物"
+   ],
+   "col": [
+    [
+     "eine starke Persönlichkeit",
+     "个性鲜明的人"
+    ],
+    [
+     "die Persönlichkeit entwickeln",
+     "发展个性"
+    ]
+   ],
+   "tip": "也指知名人物"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Ehrlichkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "诚实",
+  "ex": [
+   "Ich schätze an ihm vor allem seine Ehrlichkeit."
+  ],
+  "ex_zh": "我最欣赏他的诚实。",
+  "use": {
+   "col": [
+    [
+     "in aller Ehrlichkeit",
+     "老实说"
+    ],
+    [
+     "Ehrlichkeit schätzen",
+     "看重诚实"
+    ]
+   ],
+   "tip": "形容词 ehrlich；Aufrichtigkeit 更书面"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Höflichkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "礼貌",
+  "ex": [
+   "Aus Höflichkeit hat er das Angebot nicht sofort abgelehnt."
+  ],
+  "ex_zh": "出于礼貌，他没有马上拒绝这个提议。",
+  "use": {
+   "col": [
+    [
+     "aus Höflichkeit",
+     "出于礼貌"
+    ],
+    [
+     "die Höflichkeit wahren",
+     "保持礼貌"
+    ]
+   ],
+   "tip": "形容词 höflich；Höflichkeitsform 指敬称 Sie"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zuverlässigkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "可靠",
+  "ex": [
+   "Bei Bewerbungen wird oft auf Zuverlässigkeit und Teamfähigkeit geachtet."
+  ],
+  "ex_zh": "求职时常常看重可靠性和团队合作能力。",
+  "use": {
+   "col": [
+    [
+     "Zuverlässigkeit beweisen",
+     "证明自己可靠"
+    ],
+    [
+     "auf Zuverlässigkeit achten",
+     "注重可靠性"
+    ]
+   ],
+   "tip": "形容词 zuverlässig；求职常考察的品质"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Pünktlichkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "守时",
+  "ex": [
+   "In Deutschland gilt Pünktlichkeit im Berufsleben als eine wichtige Tugend."
+  ],
+  "ex_zh": "在德国，守时在职场中被视为一种重要美德。",
+  "use": {
+   "col": [
+    [
+     "Wert auf Pünktlichkeit legen",
+     "重视守时"
+    ],
+    [
+     "Pünktlichkeit erwarten",
+     "要求守时"
+    ]
+   ],
+   "tip": "形容词 pünktlich；德国职场文化的关键词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Vorurteil",
+  "art": "das",
+  "pl_full": "die Vorurteile",
+  "pos": "n",
+  "zh": "偏见；成见",
+  "ex": [
+   "Gegenüber Ausländern gibt es leider immer noch viele Vorurteile."
+  ],
+  "ex_zh": "对外国人，很遗憾仍然有很多偏见。",
+  "use": {
+   "col": [
+    [
+     "Vorurteile abbauen",
+     "消除偏见"
+    ],
+    [
+     "gegen jemanden Vorurteile haben",
+     "对某人有成见"
+    ]
+   ],
+   "tip": "几乎总是负面含义；注意与 Urteil（判断）区别"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Angewohnheit",
+  "art": "die",
+  "pl_full": "die Angewohnheiten",
+  "pos": "n",
+  "zh": "（个人）习惯；癖好",
+  "ex": [
+   "Eine seiner Angewohnheiten ist es, beim Telefonieren auf und ab zu gehen."
+  ],
+  "ex_zh": "他的一个习惯是边打电话边来回走动。",
+  "use": {
+   "col": [
+    [
+     "eine komische Angewohnheit",
+     "古怪的习惯"
+    ],
+    [
+     "eine schlechte Angewohnheit",
+     "坏习惯"
+    ]
+   ],
+   "tip": "比 Gewohnheit 更个人化，常带有贬义或奇特感"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Vorsorge",
+  "art": "die",
+  "pos": "n",
+  "zh": "预防；预先准备",
+  "ex": [
+   "Zur Vorsorge gehe ich einmal im Jahr zum Zahnarzt."
+  ],
+  "ex_zh": "为了预防，我每年去看一次牙医。",
+  "use": {
+   "col": [
+    [
+     "Vorsorge treffen",
+     "预先做好准备"
+    ],
+    [
+     "zur Vorsorge",
+     "作为预防"
+    ]
+   ],
+   "tip": "Vorsorgeuntersuchung 预防性体检；动词 vorsorgen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Physiotherapie",
+  "art": "die",
+  "pos": "n",
+  "zh": "理疗",
+  "ex": [
+   "Nach dem Bänderriss verschrieb mir der Arzt Physiotherapie."
+  ],
+  "ex_zh": "韧带撕裂后，医生给我开了理疗。",
+  "use": {
+   "col": [
+    [
+     "Physiotherapie verschreiben",
+     "开理疗"
+    ],
+    [
+     "zur Physiotherapie gehen",
+     "去做理疗"
+    ]
+   ],
+   "tip": "口语 Krankengymnastik"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Pflege",
+  "art": "die",
+  "pos": "n",
+  "zh": "护理；保养",
+  "ex": [
+   "Die Pflege älterer Angehöriger ist für viele Familien eine große Belastung."
+  ],
+  "ex_zh": "照护年长亲人对许多家庭是很大的负担。",
+  "use": {
+   "senses": [
+    "（病人）护理",
+    "保养；护理（物品、皮肤）"
+   ],
+   "col": [
+    [
+     "die Pflege übernehmen",
+     "承担护理"
+    ],
+    [
+     "die Hautpflege",
+     "皮肤护理"
+    ]
+   ],
+   "tip": "Pflegeversicherung 护理保险；Pflegekraft 护理人员"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Erste Hilfe",
+  "pos": "phr",
+  "zh": "急救",
+  "ex": [
+   "Als der Mann zusammenbrach, hat sie sofort Erste Hilfe geleistet."
+  ],
+  "ex_zh": "那个人倒下时，她立刻进行了急救。",
+  "use": {
+   "col": [
+    [
+     "Erste Hilfe leisten",
+     "进行急救"
+    ],
+    [
+     "einen Erste-Hilfe-Kurs machen",
+     "参加急救培训"
+    ]
+   ],
+   "tip": "Erste-Hilfe-Kasten 急救箱"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Behinderung",
+  "art": "die",
+  "pl_full": "die Behinderungen",
+  "pos": "n",
+  "zh": "残疾；障碍",
+  "ex": [
+   "Menschen mit einer Behinderung sollen am Arbeitsleben teilnehmen können."
+  ],
+  "ex_zh": "残障人士应当能够参与工作生活。",
+  "use": {
+   "col": [
+    [
+     "eine Behinderung haben",
+     "有残疾"
+    ],
+    [
+     "Menschen mit Behinderung",
+     "残障人士"
+    ]
+   ],
+   "tip": "现多说 Mensch mit Behinderung；也指「妨碍」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kreislauf",
+  "art": "der",
+  "pl_full": "die Kreisläufe",
+  "pos": "n",
+  "zh": "血液循环；循环",
+  "ex": [
+   "Bei der Hitze hat mein Kreislauf Probleme gemacht."
+  ],
+  "ex_zh": "天太热，我的血液循环出了问题。",
+  "use": {
+   "col": [
+    [
+     "Kreislaufprobleme haben",
+     "循环系统不适"
+    ],
+    [
+     "den Kreislauf in Schwung bringen",
+     "让血液循环活跃起来"
+    ]
+   ],
+   "tip": "也泛指循环：Wasserkreislauf 水循环"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Immunsystem",
+  "art": "das",
+  "pl_full": "die Immunsysteme",
+  "pos": "n",
+  "zh": "免疫系统",
+  "ex": [
+   "Ausreichend Schlaf und viel Bewegung stärken das Immunsystem gerade im Winter."
+  ],
+  "ex_zh": "充足的睡眠和大量运动能增强免疫系统，尤其是在冬天。",
+  "use": {
+   "col": [
+    [
+     "das Immunsystem stärken",
+     "增强免疫系统"
+    ],
+    [
+     "ein geschwächtes Immunsystem",
+     "被削弱的免疫系统"
+    ]
+   ],
+   "tip": "日常说 Abwehrkräfte 也可"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Krebs",
+  "art": "der",
+  "pos": "n",
+  "zh": "癌症；螃蟹",
+  "ex": [
+   "Bei früher Diagnose ist Krebs oft gut behandelbar."
+  ],
+  "ex_zh": "如果诊断得早，癌症往往可以很好地治疗。",
+  "use": {
+   "senses": [
+    "癌症",
+    "螃蟹"
+   ],
+   "col": [
+    [
+     "an Krebs erkranken",
+     "患癌"
+    ],
+    [
+     "Krebs bekommen",
+     "得癌症"
+    ]
+   ],
+   "tip": "Brustkrebs 乳腺癌，Hautkrebs 皮肤癌；也指螃蟹、巨蟹座"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Herzinfarkt",
+  "art": "der",
+  "pl_full": "die Herzinfarkte",
+  "pos": "n",
+  "zh": "心肌梗死",
+  "ex": [
+   "Mein Großvater ist mit sechzig an einem Herzinfarkt gestorben."
+  ],
+  "ex_zh": "我爷爷六十岁时死于心肌梗死。",
+  "use": {
+   "col": [
+    [
+     "einen Herzinfarkt erleiden",
+     "心肌梗死发作"
+    ],
+    [
+     "das Risiko für einen Herzinfarkt",
+     "心梗风险"
+    ]
+   ],
+   "tip": "Herz-Kreislauf-Erkrankung 心血管病"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Schlaganfall",
+  "art": "der",
+  "pl_full": "die Schlaganfälle",
+  "pos": "n",
+  "zh": "中风",
+  "ex": [
+   "Nach einem Schlaganfall ist eine schnelle Behandlung entscheidend."
+  ],
+  "ex_zh": "中风之后，及时治疗至关重要。",
+  "use": {
+   "col": [
+    [
+     "einen Schlaganfall erleiden",
+     "中风"
+    ],
+    [
+     "die Folgen eines Schlaganfalls",
+     "中风的后果"
+    ]
+   ],
+   "tip": "复数有变音：Schlaganfälle"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Diabetes",
+  "art": "der",
+  "pos": "n",
+  "zh": "糖尿病",
+  "ex": [
+   "Bei Diabetes muss man auf den Blutzucker achten."
+  ],
+  "ex_zh": "患糖尿病的人得注意血糖。",
+  "use": {
+   "col": [
+    [
+     "Diabetes haben",
+     "患糖尿病"
+    ],
+    [
+     "an Diabetes erkranken",
+     "得糖尿病"
+    ]
+   ],
+   "tip": "口语 Zuckerkrankheit；患者 der Diabetiker"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Asthma",
+  "art": "das",
+  "pos": "n",
+  "zh": "哮喘",
+  "ex": [
+   "Mit Asthma darf man Sport treiben, wenn der Arzt zustimmt."
+  ],
+  "ex_zh": "只要医生同意，哮喘患者也可以做运动。",
+  "use": {
+   "col": [
+    [
+     "Asthma haben",
+     "患哮喘"
+    ],
+    [
+     "einen Asthmaanfall bekommen",
+     "哮喘发作"
+    ]
+   ],
+   "tip": "形容词 asthmatisch"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Migräne",
+  "art": "die",
+  "pl_full": "die Migränen",
+  "pos": "n",
+  "zh": "偏头痛",
+  "ex": [
+   "Bei grellem Licht und Lärm bekomme ich oft starke Migräne."
+  ],
+  "ex_zh": "遇到刺眼的光线和噪音，我常常会偏头痛得很厉害。",
+  "use": {
+   "col": [
+    [
+     "unter Migräne leiden",
+     "受偏头痛之苦"
+    ],
+    [
+     "ein Migräneanfall",
+     "偏头痛发作"
+    ]
+   ],
+   "tip": "比一般 Kopfschmerzen 严重；复数很少用"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Ohnmacht",
+  "art": "die",
+  "pl_full": "die Ohnmachten",
+  "pos": "n",
+  "zh": "昏厥；无力",
+  "ex": [
+   "In der überfüllten U-Bahn fiel sie plötzlich in Ohnmacht."
+  ],
+  "ex_zh": "在拥挤的地铁里她突然晕倒了。",
+  "use": {
+   "col": [
+    [
+     "in Ohnmacht fallen",
+     "晕倒"
+    ],
+    [
+     "aus der Ohnmacht erwachen",
+     "从昏迷中醒来"
+    ]
+   ],
+   "tip": "形容词 ohnmächtig；也有「无力感」的比喻义"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Verband",
+  "art": "der",
+  "pl_full": "die Verbände",
+  "pos": "n",
+  "zh": "绷带；协会",
+  "ex": [
+   "Der Arzt hat die Wunde gereinigt und einen Verband angelegt."
+  ],
+  "ex_zh": "医生清理了伤口并包了绷带。",
+  "use": {
+   "senses": [
+    "绷带",
+    "协会；联合会"
+   ],
+   "col": [
+    [
+     "einen Verband anlegen",
+     "包扎绷带"
+    ],
+    [
+     "den Verband wechseln",
+     "换绷带"
+    ]
+   ],
+   "tip": "另一义是「协会」：Sportverband"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Röntgenbild",
+  "art": "das",
+  "pl_full": "die Röntgenbilder",
+  "pos": "n",
+  "zh": "X光片",
+  "ex": [
+   "Auf dem Röntgenbild war der Bruch deutlich zu erkennen."
+  ],
+  "ex_zh": "在X光片上可以清楚地看到骨折。",
+  "use": {
+   "col": [
+    [
+     "ein Röntgenbild machen",
+     "拍X光片"
+    ],
+    [
+     "das Röntgenbild auswerten",
+     "解读X光片"
+    ]
+   ],
+   "tip": "动词 röntgen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Atmung",
+  "art": "die",
+  "pos": "n",
+  "zh": "呼吸",
+  "ex": [
+   "Bei Stress wird die Atmung schneller und flacher."
+  ],
+  "ex_zh": "压力大时，呼吸会变得更快更浅。",
+  "use": {
+   "col": [
+    [
+     "die Atmung kontrollieren",
+     "控制呼吸"
+    ],
+    [
+     "auf die Atmung achten",
+     "注意呼吸"
+    ]
+   ],
+   "tip": "动词 atmen；Atem 是「气息」，Atmung 指呼吸这一过程"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zelle",
+  "art": "die",
+  "pl_full": "die Zellen",
+  "pos": "n",
+  "zh": "细胞；牢房",
+  "ex": [
+   "Jede Zelle im Körper enthält das gesamte Erbgut."
+  ],
+  "ex_zh": "身体里的每个细胞都含有全部的遗传物质。",
+  "use": {
+   "senses": [
+    "细胞",
+    "牢房；单元"
+   ],
+   "col": [
+    [
+     "eine Zelle teilt sich",
+     "细胞分裂"
+    ],
+    [
+     "die Zellen erneuern",
+     "更新细胞"
+    ]
+   ],
+   "tip": "也指牢房、电池单元、单元格"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "niesen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "geniest",
+  "forms": "niest, nieste, hat geniest",
+  "zh": "打喷嚏",
+  "ex": [
+   "Wenn die Birken blühen, muss ich den ganzen Tag niesen."
+  ],
+  "ex_zh": "桦树开花时，我整天都在打喷嚏。",
+  "use": {
+   "col": [
+    [
+     "laut niesen",
+     "大声打喷嚏"
+    ],
+    [
+     "Gesundheit!",
+     "（别人打喷嚏时）保重！"
+    ]
+   ],
+   "tip": "别人打喷嚏时习惯说 Gesundheit!"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich übergeben",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "übergeben",
+  "forms": "übergibt sich, übergab sich, hat sich übergeben",
+  "zh": "呕吐",
+  "ex": [
+   "Nach dem Essen musste er sich mehrmals übergeben."
+  ],
+  "ex_zh": "吃完饭后，他不得不吐了好几次。",
+  "use": {
+   "col": [
+    [
+     "sich übergeben müssen",
+     "要吐"
+    ],
+    [
+     "sich im Auto übergeben",
+     "在车里呕吐"
+    ]
+   ],
+   "tip": "不可分动词；书面 erbrechen，口语 kotzen（粗）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "impfen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "geimpft",
+  "forms": "impft, impfte, hat geimpft",
+  "zh": "接种疫苗",
+  "ex": [
+   "In unserem Betrieb werden alle Mitarbeiter kostenlos gegen Grippe geimpft."
+  ],
+  "ex_zh": "在我们公司，所有员工都免费接种流感疫苗。",
+  "gov": "impfen gegen + Akk.",
+  "use": {
+   "col": [
+    [
+     "sich impfen lassen",
+     "去打疫苗"
+    ],
+    [
+     "gegen Masern geimpft sein",
+     "接种过麻疹疫苗"
+    ]
+   ],
+   "tip": "名词 die Impfung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich anstecken",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "angesteckt",
+  "forms": "steckt sich an, steckte sich an, hat sich angesteckt",
+  "zh": "被传染；感染",
+  "ex": [
+   "Ich habe mich bei meiner Kollegin mit der Grippe angesteckt."
+  ],
+  "ex_zh": "我被同事传染了流感。",
+  "gov": "sich anstecken bei + Dat.",
+  "use": {
+   "col": [
+    [
+     "sich bei jemandem anstecken",
+     "被某人传染"
+    ],
+    [
+     "jemanden anstecken",
+     "传染给某人"
+    ]
+   ],
+   "tip": "形容词 ansteckend；名词 die Ansteckung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich infizieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "infiziert",
+  "forms": "infiziert sich, infizierte sich, hat sich infiziert",
+  "zh": "感染",
+  "ex": [
+   "Viele haben sich bei der Veranstaltung mit dem Virus infiziert."
+  ],
+  "ex_zh": "许多人在这次活动中感染了病毒。",
+  "gov": "sich infizieren mit + Dat.",
+  "use": {
+   "col": [
+    [
+     "sich mit einem Virus infizieren",
+     "感染病毒"
+    ],
+    [
+     "infiziert sein",
+     "被感染"
+    ]
+   ],
+   "tip": "名词 die Infektion；比 sich anstecken 更偏医学"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "zittern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gezittert",
+  "forms": "zittert, zitterte, hat gezittert",
+  "zh": "发抖；颤抖",
+  "ex": [
+   "Vor der Prüfung haben ihm die Hände gezittert."
+  ],
+  "ex_zh": "考试前他的手在发抖。",
+  "gov": "zittern vor + Dat.",
+  "use": {
+   "col": [
+    [
+     "vor Kälte zittern",
+     "冷得发抖"
+    ],
+    [
+     "vor Angst zittern",
+     "吓得发抖"
+    ]
+   ],
+   "tip": "原因用 vor + Dat."
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "fasten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gefastet",
+  "forms": "fastet, fastete, hat gefastet",
+  "zh": "禁食；斋戒",
+  "ex": [
+   "Manche Menschen fasten vor Ostern sieben Wochen lang."
+  ],
+  "ex_zh": "有些人在复活节前会禁食七个星期。",
+  "use": {
+   "col": [
+    [
+     "vor Ostern fasten",
+     "在复活节前斋戒"
+    ],
+    [
+     "Intervallfasten",
+     "间歇性断食"
+    ]
+   ],
+   "tip": "名词 das Fasten，die Fastenzeit 斋期"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verdauen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verdaut",
+  "forms": "verdaut, verdaute, hat verdaut",
+  "zh": "消化",
+  "ex": [
+   "Fettiges Essen kann ich abends nur schwer verdauen."
+  ],
+  "ex_zh": "晚上我很难消化油腻的食物。",
+  "use": {
+   "col": [
+    [
+     "schwer zu verdauen",
+     "难消化"
+    ],
+    [
+     "eine Nachricht verdauen",
+     "消化（接受）一个消息"
+    ]
+   ],
+   "tip": "名词 die Verdauung；也可比喻消化一个消息"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "schlucken",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "geschluckt",
+  "forms": "schluckt, schluckte, hat geschluckt",
+  "zh": "吞咽",
+  "ex": [
+   "Wegen der Halsentzündung kann ich kaum noch schlucken."
+  ],
+  "ex_zh": "因为喉咙发炎，我几乎吞不下东西了。",
+  "use": {
+   "col": [
+    [
+     "eine Tablette schlucken",
+     "吞药片"
+    ],
+    [
+     "Probleme beim Schlucken haben",
+     "吞咽困难"
+    ]
+   ],
+   "tip": "比喻：eine Kröte schlucken 忍气吞声"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich entspannen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "entspannt",
+  "forms": "entspannt sich, entspannte sich, hat sich entspannt",
+  "zh": "放松；（局势）缓和",
+  "ex": [
+   "Am Wochenende entspanne ich mich am besten bei einem langen Spaziergang."
+  ],
+  "ex_zh": "周末我最好的放松方式是长时间散步。",
+  "use": {
+   "col": [
+    [
+     "sich beim Lesen entspannen",
+     "读书放松"
+    ],
+    [
+     "Die Lage entspannt sich.",
+     "局势缓和了。"
+    ]
+   ],
+   "tip": "形容词 entspannt；名词 die Entspannung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "einschlafen",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "eingeschlafen",
+  "forms": "schläft ein, schlief ein, ist eingeschlafen",
+  "zh": "入睡；睡着",
+  "ex": [
+   "Gestern bin ich schon beim Lesen auf dem Sofa eingeschlafen."
+  ],
+  "ex_zh": "昨天我看书时就在沙发上睡着了。",
+  "use": {
+   "col": [
+    [
+     "schwer einschlafen",
+     "难以入睡"
+    ],
+    [
+     "vor dem Fernseher einschlafen",
+     "看电视时睡着"
+    ]
+   ],
+   "tip": "反义 aufwachen；完成时用 sein"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "schnarchen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "geschnarcht",
+  "forms": "schnarcht, schnarchte, hat geschnarcht",
+  "zh": "打鼾",
+  "ex": [
+   "Mein Mitbewohner schnarcht so laut, dass ich nachts kaum schlafe."
+  ],
+  "ex_zh": "我的室友鼾声太大，我晚上几乎睡不着。",
+  "use": {
+   "col": [
+    [
+     "laut schnarchen",
+     "大声打鼾"
+    ],
+    [
+     "im Schlaf schnarchen",
+     "睡着时打鼾"
+    ]
+   ],
+   "tip": "名词 das Schnarchen；Schnarcher 打鼾的人"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "gähnen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gegähnt",
+  "forms": "gähnt, gähnte, hat gegähnt",
+  "zh": "打哈欠",
+  "ex": [
+   "In der letzten Vorlesung musste ich ständig gähnen."
+  ],
+  "ex_zh": "在最后一堂课上，我一直在打哈欠。",
+  "use": {
+   "col": [
+    [
+     "laut gähnen",
+     "大声打哈欠"
+    ],
+    [
+     "gähnende Leere",
+     "空空荡荡"
+    ]
+   ],
+   "tip": "Gähnen 会传染：Gähnen ist ansteckend"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich fürchten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gefürchtet",
+  "forms": "fürchtet sich, fürchtete sich, hat sich gefürchtet",
+  "zh": "害怕",
+  "ex": [
+   "Als Kind habe ich mich nachts im dunklen Keller gefürchtet."
+  ],
+  "ex_zh": "小时候，我夜里害怕待在黑暗的地下室。",
+  "gov": "sich fürchten vor + Dat.",
+  "use": {
+   "col": [
+    [
+     "sich vor etw. fürchten",
+     "害怕某事"
+    ],
+    [
+     "nichts zu fürchten haben",
+     "没什么可怕的"
+    ]
+   ],
+   "tip": "较书面；日常多说 Angst haben vor；名词 die Furcht"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich schämen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "geschämt",
+  "forms": "schämt sich, schämte sich, hat sich geschämt",
+  "zh": "羞愧；感到害臊",
+  "ex": [
+   "Er schämt sich dafür, dass er die Prüfung nicht bestanden hat."
+  ],
+  "ex_zh": "他为没通过考试而感到羞愧。",
+  "gov": "sich schämen für + Akk.",
+  "use": {
+   "col": [
+    [
+     "sich für etw. schämen",
+     "为某事感到羞愧"
+    ],
+    [
+     "sich in Grund und Boden schämen",
+     "羞愧得无地自容"
+    ]
+   ],
+   "tip": "名词 die Scham；形容词 beschämt"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "trauern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "getrauert",
+  "forms": "trauert, trauerte, hat getrauert",
+  "zh": "悲痛；哀悼",
+  "ex": [
+   "Die ganze Stadt trauert um die Opfer des Unglücks."
+  ],
+  "ex_zh": "整座城市都在哀悼事故的遇难者。",
+  "gov": "trauern um + Akk.",
+  "use": {
+   "col": [
+    [
+     "um jemanden trauern",
+     "哀悼某人"
+    ],
+    [
+     "lange trauern",
+     "悲伤很久"
+    ]
+   ],
+   "tip": "名词 die Trauer；Trauerfeier 追悼会"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "seufzen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "geseufzt",
+  "forms": "seufzt, seufzte, hat geseufzt",
+  "zh": "叹气",
+  "ex": [
+   "Sie seufzte laut, als sie die vielen E-Mails sah."
+  ],
+  "ex_zh": "看到那么多邮件，她大声叹了口气。",
+  "use": {
+   "col": [
+    [
+     "tief seufzen",
+     "深深叹气"
+    ],
+    [
+     "erleichtert seufzen",
+     "松了口气地叹息"
+    ]
+   ],
+   "tip": "名词 der Seufzer"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich benehmen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "benommen",
+  "forms": "benimmt sich, benahm sich, hat sich benommen",
+  "zh": "表现；举止",
+  "ex": [
+   "Die Kinder haben sich beim Essen sehr gut benommen."
+  ],
+  "ex_zh": "孩子们吃饭时表现得很好。",
+  "use": {
+   "col": [
+    [
+     "sich schlecht benehmen",
+     "举止不当"
+    ],
+    [
+     "Benimm dich!",
+     "注意你的举止！"
+    ]
+   ],
+   "tip": "名词 das Benehmen；形容词 benommen 是「发懵的」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "jammern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gejammert",
+  "forms": "jammert, jammerte, hat gejammert",
+  "zh": "哀叹；抱怨",
+  "ex": [
+   "Statt zu jammern, sollten wir lieber nach einer Lösung suchen."
+  ],
+  "ex_zh": "与其抱怨，我们不如找个解决办法。",
+  "use": {
+   "col": [
+    [
+     "über etw. jammern",
+     "对某事哀叹"
+    ],
+    [
+     "laut jammern",
+     "大声哀号"
+    ]
+   ],
+   "tip": "贬义的抱怨；近义 klagen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "meckern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gemeckert",
+  "forms": "meckert, meckerte, hat gemeckert",
+  "zh": "发牢骚；挑剔",
+  "ex": [
+   "Er meckert den ganzen Tag über das Wetter und das Essen."
+  ],
+  "ex_zh": "他整天对天气和饭菜发牢骚。",
+  "use": {
+   "col": [
+    [
+     "über etw. meckern",
+     "对某事发牢骚"
+    ],
+    [
+     "ständig meckern",
+     "老是发牢骚"
+    ]
+   ],
+   "tip": "口语、贬义；正式场合说 sich beschweren"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "bewundern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bewundert",
+  "forms": "bewundert, bewunderte, hat bewundert",
+  "zh": "钦佩；赞赏",
+  "ex": [
+   "Alle im Team bewundern ihre Ruhe in schwierigen Situationen."
+  ],
+  "ex_zh": "团队里所有人都佩服她在困难情况下的镇定。",
+  "use": {
+   "col": [
+    [
+     "jemanden für etw. bewundern",
+     "因某事钦佩某人"
+    ],
+    [
+     "jemandes Mut bewundern",
+     "钦佩某人的勇气"
+    ]
+   ],
+   "tip": "名词 die Bewunderung；形容词 bewundernswert"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "beneiden",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "beneidet",
+  "forms": "beneidet, beneidete, hat beneidet",
+  "zh": "羡慕；嫉妒",
+  "ex": [
+   "Ich beneide dich wirklich um deine Gelassenheit vor wichtigen Terminen."
+  ],
+  "ex_zh": "我真羡慕你在重要场合前的那份淡定。",
+  "gov": "beneiden um + Akk.",
+  "use": {
+   "col": [
+    [
+     "jemanden um etw. beneiden",
+     "羡慕某人的某物"
+    ],
+    [
+     "nicht zu beneiden sein",
+     "处境不令人羡慕"
+    ]
+   ],
+   "tip": "不可分动词；名词 der Neid"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich überwinden",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "überwunden",
+  "forms": "überwindet sich, überwand sich, hat sich überwunden",
+  "zh": "克制自己；强迫自己",
+  "ex": [
+   "Ich musste mich überwinden, bei diesem Wetter joggen zu gehen."
+  ],
+  "ex_zh": "我得逼自己在这种天气里去慢跑。",
+  "use": {
+   "col": [
+    [
+     "sich überwinden müssen",
+     "得逼自己"
+    ],
+    [
+     "seine Angst überwinden",
+     "克服恐惧"
+    ]
+   ],
+   "tip": "及物用法：eine Krise überwinden 克服危机；不可分"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "ablenken",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgelenkt",
+  "forms": "lenkt ab, lenkte ab, hat abgelenkt",
+  "zh": "分散注意力；转移",
+  "ex": [
+   "Das laute Handy hat mich bei der Arbeit ständig abgelenkt."
+  ],
+  "ex_zh": "响个不停的手机一直让我工作分心。",
+  "gov": "ablenken von + Dat.",
+  "use": {
+   "col": [
+    [
+     "sich ablenken",
+     "让自己转移注意力"
+    ],
+    [
+     "jemanden von der Arbeit ablenken",
+     "使某人工作分心"
+    ]
+   ],
+   "tip": "名词 die Ablenkung；可分动词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "belasten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "belastet",
+  "forms": "belastet, belastete, hat belastet",
+  "zh": "使负担；对……造成压力",
+  "ex": [
+   "Die ständigen Überstunden belasten ihn nicht nur körperlich, sondern auch psychisch."
+  ],
+  "ex_zh": "持续的加班不仅在身体上，也在心理上给他造成负担。",
+  "use": {
+   "col": [
+    [
+     "die Gesundheit belasten",
+     "损害健康"
+    ],
+    [
+     "psychisch belastet sein",
+     "心理负担重"
+    ]
+   ],
+   "tip": "名词 die Belastung；反义 entlasten"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "überfordern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "überfordert",
+  "forms": "überfordert, überforderte, hat überfordert",
+  "zh": "使不堪重负",
+  "ex": [
+   "Die vielen neuen Aufgaben auf einmal überfordern mich ein wenig."
+  ],
+  "ex_zh": "这么多新任务一下子压过来，我有点应付不了。",
+  "use": {
+   "col": [
+    [
+     "sich überfordert fühlen",
+     "感到力不从心"
+    ],
+    [
+     "jemanden überfordern",
+     "对某人要求过高"
+    ]
+   ],
+   "tip": "反义 unterfordern；名词 die Überforderung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "schonen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "geschont",
+  "forms": "schont, schonte, hat geschont",
+  "zh": "爱惜；保养；使休息",
+  "ex": [
+   "Nach der Operation muss er sein Knie noch einige Wochen schonen."
+  ],
+  "ex_zh": "手术后他的膝盖还需要保养几周。",
+  "use": {
+   "col": [
+    [
+     "sich schonen",
+     "保重身体"
+    ],
+    [
+     "die Umwelt schonen",
+     "保护环境"
+    ]
+   ],
+   "tip": "形容词 schonend 温和的；名词 die Schonung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "vorbeugen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "vorgebeugt",
+  "forms": "beugt vor, beugte vor, hat vorgebeugt",
+  "zh": "预防",
+  "ex": [
+   "Regelmäßige Bewegung an der frischen Luft beugt vielen Krankheiten vor."
+  ],
+  "ex_zh": "经常在户外运动可以预防许多疾病。",
+  "gov": "vorbeugen + Dat.",
+  "use": {
+   "col": [
+    [
+     "einer Krankheit vorbeugen",
+     "预防疾病"
+    ],
+    [
+     "Vorbeugen ist besser als Heilen.",
+     "预防胜于治疗。"
+    ]
+   ],
+   "tip": "形容词 vorbeugend；另有「向前弯腰」义；接第三格"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "ertragen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ertragen",
+  "forms": "erträgt, ertrug, hat ertragen",
+  "zh": "忍受；承受",
+  "ex": [
+   "Die Schmerzen im Rücken waren nach dem Unfall kaum noch zu ertragen."
+  ],
+  "ex_zh": "事故之后，背上的疼痛几乎让人无法忍受。",
+  "use": {
+   "col": [
+    [
+     "Schmerzen ertragen",
+     "忍受疼痛"
+    ],
+    [
+     "kaum zu ertragen sein",
+     "几乎无法忍受"
+    ]
+   ],
+   "tip": "不可分动词；比 aushalten 更书面"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "überstehen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "überstanden",
+  "forms": "übersteht, überstand, hat überstanden",
+  "zh": "熬过；度过",
+  "ex": [
+   "Sie hat die schwere Operation am Herzen erstaunlich gut überstanden."
+  ],
+  "ex_zh": "她顺利熬过了那场很重的心脏手术，状态出奇地好。",
+  "use": {
+   "col": [
+    [
+     "eine Krankheit überstehen",
+     "熬过疾病"
+    ],
+    [
+     "den Winter überstehen",
+     "熬过冬天"
+    ]
+   ],
+   "tip": "不可分动词；Das Schlimmste ist überstanden."
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich verstauchen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verstaucht",
+  "forms": "verstaucht sich, verstauchte sich, hat sich verstaucht",
+  "zh": "扭伤",
+  "ex": [
+   "Beim Joggen habe ich mir den Knöchel verstaucht."
+  ],
+  "ex_zh": "慢跑时我扭伤了脚踝。",
+  "gov": "sich (Dat.) etw. verstauchen",
+  "use": {
+   "col": [
+    [
+     "sich den Knöchel verstauchen",
+     "扭伤脚踝"
+    ],
+    [
+     "ein verstauchter Finger",
+     "扭伤的手指"
+    ]
+   ],
+   "tip": "人的部位用第三格 mir/dir；名词 die Verstauchung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich verbrennen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verbrannt",
+  "forms": "verbrennt sich, verbrannte sich, hat sich verbrannt",
+  "zh": "烫伤；烧伤",
+  "ex": [
+   "Vorsicht, das Fett ist heiß! Ich habe mir schon einmal die Hand verbrannt."
+  ],
+  "ex_zh": "小心，油很烫！我已经烫伤过一次手了。",
+  "use": {
+   "col": [
+    [
+     "sich die Finger verbrennen",
+     "烫伤手指；比喻吃亏"
+    ],
+    [
+     "sich an der Herdplatte verbrennen",
+     "被灶台烫伤"
+    ]
+   ],
+   "tip": "部位用第三格；不及物 verbrennen 是「烧毁」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "stolpern",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "gestolpert",
+  "forms": "stolpert, stolperte, ist gestolpert",
+  "zh": "绊倒；绊了一下",
+  "ex": [
+   "Im Dunkeln bin ich über eine Stufe gestolpert und gestürzt."
+  ],
+  "ex_zh": "黑暗中我被一级台阶绊了一下并摔倒了。",
+  "gov": "stolpern über + Akk.",
+  "use": {
+   "col": [
+    [
+     "über etw. stolpern",
+     "被某物绊倒"
+    ],
+    [
+     "über einen Stein stolpern",
+     "被石头绊倒"
+    ]
+   ],
+   "tip": "完成时用 sein"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "ausrutschen",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "ausgerutscht",
+  "forms": "rutscht aus, rutschte aus, ist ausgerutscht",
+  "zh": "滑倒",
+  "ex": [
+   "Auf dem nassen Boden ist sie ausgerutscht und hingefallen."
+  ],
+  "ex_zh": "她在湿地板上滑倒摔了一跤。",
+  "use": {
+   "col": [
+    [
+     "auf Glatteis ausrutschen",
+     "在冰面上滑倒"
+    ],
+    [
+     "auf einer Bananenschale ausrutschen",
+     "踩到香蕉皮滑倒"
+    ]
+   ],
+   "tip": "可分动词；口语里还可指说错话"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "anfeuern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "angefeuert",
+  "forms": "feuert an, feuerte an, hat angefeuert",
+  "zh": "加油助威",
+  "ex": [
+   "Die Fans haben ihre Mannschaft die ganze Zeit lautstark angefeuert."
+  ],
+  "ex_zh": "球迷们一直大声为自己的球队加油。",
+  "use": {
+   "col": [
+    [
+     "die Mannschaft anfeuern",
+     "为球队加油"
+    ],
+    [
+     "lautstark anfeuern",
+     "大声助威"
+    ]
+   ],
+   "tip": "可分动词；Fans 球迷"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich aufwärmen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "aufgewärmt",
+  "forms": "wärmt sich auf, wärmte sich auf, hat sich aufgewärmt",
+  "zh": "热身；暖和起来",
+  "ex": [
+   "Vor dem Spiel wärmen sich die Spieler auf dem Platz auf."
+  ],
+  "ex_zh": "比赛前，球员们在场上热身。",
+  "use": {
+   "senses": [
+    "热身",
+    "暖和起来"
+   ],
+   "col": [
+    [
+     "sich vor dem Training aufwärmen",
+     "训练前热身"
+    ],
+    [
+     "das Essen aufwärmen",
+     "把饭菜热一下"
+    ]
+   ],
+   "tip": "可分动词；非反身用法 aufwärmen 指把食物加热"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "dehnen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gedehnt",
+  "forms": "dehnt, dehnte, hat gedehnt",
+  "zh": "拉伸；伸展",
+  "ex": [
+   "Nach dem Laufen sollte man die Muskeln gründlich dehnen."
+  ],
+  "ex_zh": "跑步之后应该充分拉伸肌肉。",
+  "use": {
+   "col": [
+    [
+     "sich dehnen",
+     "伸展身体"
+    ],
+    [
+     "die Beine dehnen",
+     "拉伸双腿"
+    ]
+   ],
+   "tip": "名词 die Dehnung；也用于「使延长」：Vokale dehnen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich trauen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "getraut",
+  "forms": "traut sich, traute sich, hat sich getraut",
+  "zh": "敢；有胆量",
+  "ex": [
+   "Ich traue mich nicht, vor so vielen Leuten zu sprechen."
+  ],
+  "ex_zh": "我不敢在这么多人面前讲话。",
+  "use": {
+   "col": [
+    [
+     "sich nicht trauen",
+     "不敢"
+    ],
+    [
+     "sich etwas trauen",
+     "敢做某事"
+    ]
+   ],
+   "tip": "近义 sich wagen；trauen 另有「信任」「结婚」义"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "chronisch",
+  "pos": "adj",
+  "zh": "慢性的；长期的",
+  "ex": [
+   "Er leidet an einer chronischen Erkrankung und muss regelmäßig zur Kontrolle."
+  ],
+  "ex_zh": "他患有慢性疾病，需要定期复查。",
+  "use": {
+   "col": [
+    [
+     "chronische Schmerzen",
+     "慢性疼痛"
+    ],
+    [
+     "eine chronische Krankheit",
+     "慢性病"
+    ]
+   ],
+   "tip": "反义词 akut；重音在第二音节 chro-NISCH"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "akut",
+  "pos": "adj",
+  "zh": "急性的；迫切的",
+  "ex": [
+   "Bei akuten Schmerzen sollten Sie sofort die Notaufnahme aufsuchen."
+  ],
+  "ex_zh": "如果出现剧烈的急性疼痛，您应当立刻去急诊。",
+  "use": {
+   "col": [
+    [
+     "eine akute Entzündung",
+     "急性炎症"
+    ],
+    [
+     "akute Gefahr",
+     "迫在眉睫的危险"
+    ]
+   ],
+   "tip": "反义词 chronisch；也用于「迫切」的问题"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "harmlos",
+  "pos": "adj",
+  "zh": "无害的；无恶意的",
+  "ex": [
+   "Der Arzt sagte, die Verletzung sei harmlos und heile von selbst."
+  ],
+  "ex_zh": "医生说这个伤没什么大碍，会自己愈合。",
+  "use": {
+   "col": [
+    [
+     "eine harmlose Erkältung",
+     "普通的小感冒"
+    ],
+    [
+     "völlig harmlos",
+     "完全无害"
+    ]
+   ],
+   "tip": "反义词 gefährlich；bedenklich 指令人担忧的"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "ansteckend",
+  "pos": "adj",
+  "zh": "传染的",
+  "ex": [
+   "Die Grippe ist sehr ansteckend, bleib lieber zu Hause."
+  ],
+  "ex_zh": "流感传染性很强，你最好待在家里。",
+  "use": {
+   "col": [
+    [
+     "eine ansteckende Krankheit",
+     "传染病"
+    ],
+    [
+     "Lachen ist ansteckend.",
+     "笑会传染。"
+    ]
+   ],
+   "tip": "动词 sich anstecken；名词 die Ansteckung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "geschwollen",
+  "pos": "adj",
+  "zh": "肿的",
+  "ex": [
+   "Mein Knöchel ist seit gestern Abend dick geschwollen und tut sehr weh."
+  ],
+  "ex_zh": "我的脚踝从昨晚起肿得很厉害，而且很疼。",
+  "use": {
+   "col": [
+    [
+     "ein geschwollener Fuß",
+     "肿起来的脚"
+    ],
+    [
+     "dick geschwollen",
+     "肿得很厉害"
+    ]
+   ],
+   "tip": "动词 anschwellen 的分词；名词 die Schwellung 肿胀"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "übergewichtig",
+  "pos": "adj",
+  "zh": "超重的",
+  "ex": [
+   "Übergewichtige Menschen haben ein höheres Risiko für Herzkrankheiten."
+  ],
+  "ex_zh": "超重的人患心脏病的风险更高。",
+  "use": {
+   "col": [
+    [
+     "stark übergewichtig",
+     "严重超重"
+    ],
+    [
+     "übergewichtig sein",
+     "超重"
+    ]
+   ],
+   "tip": "名词 das Übergewicht；反义 untergewichtig"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "gesundheitsschädlich",
+  "pos": "adj",
+  "zh": "有害健康的",
+  "ex": [
+   "Zu viel Zucker ist gesundheitsschädlich, vor allem für Kinder."
+  ],
+  "ex_zh": "糖吃得太多对健康有害，尤其是对孩子。",
+  "use": {
+   "col": [
+    [
+     "gesundheitsschädliche Stoffe",
+     "有害健康的物质"
+    ],
+    [
+     "gesundheitsschädlich sein",
+     "危害健康"
+    ]
+   ],
+   "tip": "同义 ungesund；反义 gesundheitsfördernd"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "nahrhaft",
+  "pos": "adj",
+  "zh": "有营养的",
+  "ex": [
+   "Eine Suppe mit Gemüse und Bohnen ist günstig und nahrhaft."
+  ],
+  "ex_zh": "加了蔬菜和豆子的汤既便宜又有营养。",
+  "use": {
+   "col": [
+    [
+     "ein nahrhaftes Essen",
+     "有营养的饭菜"
+    ],
+    [
+     "nahrhaft und gesund",
+     "营养又健康"
+    ]
+   ],
+   "tip": "名词 die Nahrung / der Nährstoff；也指「分量足」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "benommen",
+  "pos": "adj",
+  "zh": "发懵的；头晕的",
+  "ex": [
+   "Nach dem Sturz fühlte sie sich benommen und konnte kaum klar denken."
+  ],
+  "ex_zh": "摔倒后她觉得晕乎乎的，几乎没法清楚思考。",
+  "use": {
+   "col": [
+    [
+     "sich benommen fühlen",
+     "觉得发懵"
+    ],
+    [
+     "benommen sein",
+     "头昏脑涨"
+    ]
+   ],
+   "tip": "和 sich benehmen 的分词 benommen 同形，含义不同"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "schwindelig",
+  "pos": "adj",
+  "zh": "头晕的",
+  "ex": [
+   "Beim Blick vom Turm in die Tiefe wurde mir plötzlich schwindelig."
+  ],
+  "ex_zh": "从塔上往下看时，我突然觉得头晕。",
+  "use": {
+   "col": [
+    [
+     "Mir ist schwindelig.",
+     "我头晕。"
+    ],
+    [
+     "schwindelig werden",
+     "变得头晕"
+    ]
+   ],
+   "tip": "也写 schwind(e)lig；名词 der Schwindel；人称用第三格"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "munter",
+  "pos": "adj",
+  "zh": "精神饱满的；活泼的",
+  "ex": [
+   "Nach einer Tasse Kaffee war er sofort wieder munter."
+  ],
+  "ex_zh": "喝了一杯咖啡，他马上又精神起来了。",
+  "use": {
+   "col": [
+    [
+     "putzmunter",
+     "精神抖擞"
+    ],
+    [
+     "munter werden",
+     "清醒过来"
+    ]
+   ],
+   "tip": "口语：wieder munter sein 恢复精神"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "ausgeruht",
+  "pos": "adj",
+  "zh": "休息好的",
+  "ex": [
+   "Ausgeruht arbeite ich viel konzentrierter als nach einer kurzen Nacht."
+  ],
+  "ex_zh": "睡饱之后工作，我比睡眠不足时专注得多。",
+  "use": {
+   "col": [
+    [
+     "ausgeruht sein",
+     "精神饱满"
+    ],
+    [
+     "ausgeruht aufwachen",
+     "醒来时精神充沛"
+    ]
+   ],
+   "tip": "动词 sich ausruhen；反义 übermüdet"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "gelassen",
+  "pos": "adj",
+  "zh": "沉着的；淡定的",
+  "ex": [
+   "Er blieb auch bei der Kritik ruhig und gelassen."
+  ],
+  "ex_zh": "即使面对批评，他也保持平静淡定。",
+  "use": {
+   "col": [
+    [
+     "gelassen bleiben",
+     "保持淡定"
+    ],
+    [
+     "gelassen reagieren",
+     "沉着应对"
+    ]
+   ],
+   "tip": "名词 die Gelassenheit；近义 ruhig"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "aufgeregt",
+  "pos": "adj",
+  "zh": "激动的；兴奋或紧张的",
+  "ex": [
+   "Die Kinder waren schon am Morgen ganz aufgeregt wegen der Reise."
+  ],
+  "ex_zh": "孩子们早上就因为旅行兴奋得不得了。",
+  "use": {
+   "col": [
+    [
+     "aufgeregt sein",
+     "激动不安"
+    ],
+    [
+     "aufgeregt erzählen",
+     "兴奋地讲述"
+    ]
+   ],
+   "tip": "动词 sich aufregen；可以是兴奋也可以是紧张，看语境"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "enttäuscht",
+  "pos": "adj",
+  "zh": "失望的",
+  "ex": [
+   "Sie war enttäuscht, dass niemand zu ihrer Feier gekommen ist."
+  ],
+  "ex_zh": "没有人来参加她的聚会，她很失望。",
+  "gov": "enttäuscht von + Dat.",
+  "use": {
+   "col": [
+    [
+     "enttäuscht sein von + Dat.",
+     "对……感到失望"
+    ],
+    [
+     "bitter enttäuscht",
+     "非常失望"
+    ]
+   ],
+   "tip": "动词 enttäuschen；名词 die Enttäuschung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "besorgt",
+  "pos": "adj",
+  "zh": "担心的",
+  "ex": [
+   "Die Eltern sind besorgt, weil ihr Sohn schon lange nicht angerufen hat."
+  ],
+  "ex_zh": "父母很担心，因为儿子很久没打电话了。",
+  "gov": "besorgt um + Akk.",
+  "use": {
+   "col": [
+    [
+     "besorgt sein um + Akk.",
+     "为……担心"
+    ],
+    [
+     "besorgt klingen",
+     "听起来担心"
+    ]
+   ],
+   "tip": "名词 die Sorge；besorgt 还有「操心」的口气"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "eifersüchtig",
+  "pos": "adj",
+  "zh": "嫉妒的",
+  "ex": [
+   "Sie ist eifersüchtig auf jede Frau, mit der er spricht."
+  ],
+  "ex_zh": "他和任何一个女人说话，她都会吃醋。",
+  "gov": "eifersüchtig auf + Akk.",
+  "use": {
+   "col": [
+    [
+     "eifersüchtig auf jemanden sein",
+     "嫉妒某人"
+    ],
+    [
+     "eifersüchtig werden",
+     "产生嫉妒"
+    ]
+   ],
+   "tip": "名词 die Eifersucht；neidisch 指羡慕他人的所有"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "neidisch",
+  "pos": "adj",
+  "zh": "眼红的；羡慕的",
+  "ex": [
+   "Alle Kollegen sind neidisch auf sein neues Gehalt und den Dienstwagen."
+  ],
+  "ex_zh": "所有同事都眼红他的新薪水和公司配车。",
+  "gov": "neidisch auf + Akk.",
+  "use": {
+   "col": [
+    [
+     "neidisch auf jemanden sein",
+     "对某人眼红"
+    ],
+    [
+     "neidisch werden",
+     "产生妒意"
+    ]
+   ],
+   "tip": "名词 der Neid；动词 beneiden"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "gelangweilt",
+  "pos": "adj",
+  "zh": "感到无聊的",
+  "ex": [
+   "Gelangweilt saß er in der Vorlesung und sah aus dem Fenster."
+  ],
+  "ex_zh": "他百无聊赖地坐在课堂上，看着窗外。",
+  "use": {
+   "col": [
+    [
+     "gelangweilt aussehen",
+     "一脸无聊"
+    ],
+    [
+     "gelangweilt sein",
+     "觉得无聊"
+    ]
+   ],
+   "tip": "感到无聊 = gelangweilt；令人无聊 = langweilig"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verlegen",
+  "pos": "adj",
+  "zh": "难为情的；尴尬的",
+  "ex": [
+   "Bei dem Lob wurde sie ein wenig verlegen."
+  ],
+  "ex_zh": "听到表扬，她有点不好意思。",
+  "use": {
+   "col": [
+    [
+     "verlegen lächeln",
+     "难为情地笑"
+    ],
+    [
+     "verlegen werden",
+     "变得尴尬"
+    ]
+   ],
+   "tip": "名词 die Verlegenheit"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "erleichtert",
+  "pos": "adj",
+  "zh": "松了一口气的",
+  "ex": [
+   "Wir waren erleichtert, als das Prüfungsergebnis endlich online stand."
+  ],
+  "ex_zh": "考试成绩终于公布时，我们都松了口气。",
+  "use": {
+   "col": [
+    [
+     "erleichtert aufatmen",
+     "松了一口气"
+    ],
+    [
+     "erleichtert sein",
+     "感到如释重负"
+    ]
+   ],
+   "tip": "名词 die Erleichterung；动词 erleichtern"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "gereizt",
+  "pos": "adj",
+  "zh": "烦躁的；易怒的",
+  "ex": [
+   "Nach dem Streit war die Stimmung im Büro gereizt."
+  ],
+  "ex_zh": "吵过架之后，办公室里的气氛很紧张。",
+  "use": {
+   "col": [
+    [
+     "gereizt reagieren",
+     "烦躁地反应"
+    ],
+    [
+     "eine gereizte Stimmung",
+     "紧张烦躁的气氛"
+    ]
+   ],
+   "tip": "动词 reizen；Reizbarkeit (C1) 易怒"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "launisch",
+  "pos": "adj",
+  "zh": "情绪多变的",
+  "ex": [
+   "Mein Chef ist launisch, man weiß nie, wie er reagiert."
+  ],
+  "ex_zh": "我老板情绪反复无常，你永远不知道他会怎么反应。",
+  "use": {
+   "col": [
+    [
+     "ein launischer Mensch",
+     "情绪多变的人"
+    ],
+    [
+     "launisch sein",
+     "喜怒无常"
+    ]
+   ],
+   "tip": "名词 die Laune；Stimmungsschwankungen 情绪波动"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "hilflos",
+  "pos": "adj",
+  "zh": "无助的",
+  "ex": [
+   "Hilflos stand sie vor dem Automaten und verstand die Anleitung nicht."
+  ],
+  "ex_zh": "她无助地站在自动售货机前，看不懂说明。",
+  "use": {
+   "col": [
+    [
+     "sich hilflos fühlen",
+     "感到无助"
+    ],
+    [
+     "hilflos zusehen",
+     "束手无策地看着"
+    ]
+   ],
+   "tip": "名词 die Hilflosigkeit；反义 hilfsbereit 乐于助人"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verzweifelt",
+  "pos": "adj",
+  "zh": "绝望的",
+  "ex": [
+   "Verzweifelt suchte er nach einem Weg, die Miete zu bezahlen."
+  ],
+  "ex_zh": "他绝望地寻找支付房租的办法。",
+  "use": {
+   "col": [
+    [
+     "verzweifelt sein",
+     "感到绝望"
+    ],
+    [
+     "verzweifelt versuchen",
+     "拼命尝试"
+    ]
+   ],
+   "tip": "动词 verzweifeln；名词 die Verzweiflung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "feige",
+  "pos": "adj",
+  "zh": "懦弱的；胆小的",
+  "ex": [
+   "Es war feige von ihm, nach dem Streit einfach zu verschwinden."
+  ],
+  "ex_zh": "吵架之后他一走了之，真是懦弱。",
+  "use": {
+   "col": [
+    [
+     "feige sein",
+     "胆小"
+    ],
+    [
+     "ein feiger Mensch",
+     "懦夫"
+    ]
+   ],
+   "tip": "名词 die Feigheit；反义 mutig"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "geduldig",
+  "pos": "adj",
+  "zh": "有耐心的",
+  "ex": [
+   "Die Lehrerin ist sehr geduldig und erklärt alles gern noch einmal."
+  ],
+  "ex_zh": "这位老师很有耐心，乐意再把什么都解释一遍。",
+  "use": {
+   "col": [
+    [
+     "geduldig warten",
+     "耐心等待"
+    ],
+    [
+     "geduldig sein",
+     "有耐心"
+    ]
+   ],
+   "tip": "名词 die Geduld；反义 ungeduldig"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "ungeduldig",
+  "pos": "adj",
+  "zh": "不耐烦的",
+  "ex": [
+   "Ungeduldig wartete er auf die Antwort des Personalers."
+  ],
+  "ex_zh": "他不耐烦地等着人事的回复。",
+  "use": {
+   "col": [
+    [
+     "ungeduldig werden",
+     "变得不耐烦"
+    ],
+    [
+     "ungeduldig warten",
+     "焦急地等待"
+    ]
+   ],
+   "tip": "名词 die Ungeduld；反义 geduldig"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "großzügig",
+  "pos": "adj",
+  "zh": "慷慨的；宽敞的",
+  "ex": [
+   "Er ist sehr großzügig und lädt oft alle zum Essen ein."
+  ],
+  "ex_zh": "他非常大方，经常请大家吃饭。",
+  "use": {
+   "senses": [
+    "慷慨的",
+    "（空间）宽敞的"
+   ],
+   "col": [
+    [
+     "großzügig sein",
+     "大方"
+    ],
+    [
+     "eine großzügige Wohnung",
+     "宽敞的房子"
+    ]
+   ],
+   "tip": "名词 die Großzügigkeit；也可形容空间大"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "geizig",
+  "pos": "adj",
+  "zh": "吝啬的",
+  "ex": [
+   "Mein Onkel ist so geizig, dass er nie ein Trinkgeld gibt."
+  ],
+  "ex_zh": "我叔叔吝啬到从不给小费。",
+  "use": {
+   "col": [
+    [
+     "geizig sein",
+     "吝啬"
+    ],
+    [
+     "geizig mit etw. sein",
+     "在某事上吝啬"
+    ]
+   ],
+   "tip": "名词 der Geiz；比 sparsam 贬义得多"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "bescheiden",
+  "pos": "adj",
+  "zh": "谦虚的；朴素的",
+  "ex": [
+   "Trotz seines Erfolgs ist er immer bescheiden geblieben."
+  ],
+  "ex_zh": "尽管成功了，他一直保持谦虚。",
+  "use": {
+   "col": [
+    [
+     "bescheiden bleiben",
+     "保持谦逊"
+    ],
+    [
+     "ein bescheidenes Leben",
+     "朴素的生活"
+    ]
+   ],
+   "tip": "名词 die Bescheidenheit；与 Bescheid（通知）不同义"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "selbstbewusst",
+  "pos": "adj",
+  "zh": "自信的",
+  "ex": [
+   "Sie präsentierte ihr Projekt selbstbewusst vor dem gesamten Vorstand."
+  ],
+  "ex_zh": "她自信地在整个董事会面前展示了她的项目。",
+  "use": {
+   "col": [
+    [
+     "selbstbewusst auftreten",
+     "自信地亮相"
+    ],
+    [
+     "ein selbstbewusster Mensch",
+     "自信的人"
+    ]
+   ],
+   "tip": "名词 das Selbstbewusstsein；不等于傲慢"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "schüchtern",
+  "pos": "adj",
+  "zh": "害羞的；腼腆的",
+  "ex": [
+   "Als Schüler war er so schüchtern, dass er nie sprach."
+  ],
+  "ex_zh": "他上学时很腼腆，从不说话。",
+  "use": {
+   "col": [
+    [
+     "schüchtern sein",
+     "害羞"
+    ],
+    [
+     "schüchtern lächeln",
+     "腼腆地笑"
+    ]
+   ],
+   "tip": "名词 die Schüchternheit；反义 selbstbewusst"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "ehrgeizig",
+  "pos": "adj",
+  "zh": "有野心的；上进的",
+  "ex": [
+   "Sie ist sehr ehrgeizig und will unbedingt Teamleiterin werden."
+  ],
+  "ex_zh": "她很有野心，一心想当组长。",
+  "use": {
+   "col": [
+    [
+     "ein ehrgeiziges Ziel",
+     "雄心勃勃的目标"
+    ],
+    [
+     "ehrgeizig sein",
+     "有上进心"
+    ]
+   ],
+   "tip": "名词 der Ehrgeiz；可褒可贬"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sensibel",
+  "pos": "adj",
+  "zh": "敏感的；细腻的",
+  "ex": [
+   "Sie ist sehr sensibel und nimmt Kritik schnell persönlich."
+  ],
+  "ex_zh": "她很敏感，容易把批评当成针对自己。",
+  "use": {
+   "col": [
+    [
+     "sensibel reagieren",
+     "敏感地反应"
+    ],
+    [
+     "sensibles Thema",
+     "敏感话题"
+    ]
+   ],
+   "tip": "名词 die Sensibilität"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "empfindlich",
+  "pos": "adj",
+  "zh": "敏感的；易受伤害的",
+  "ex": [
+   "Meine Haut ist sehr empfindlich und reagiert sofort auf Sonne."
+  ],
+  "ex_zh": "我的皮肤很敏感，一晒太阳就有反应。",
+  "gov": "empfindlich gegen + Akk.",
+  "use": {
+   "col": [
+    [
+     "empfindlich auf etw. reagieren",
+     "对某事反应强烈"
+    ],
+    [
+     "empfindliche Haut",
+     "敏感肌"
+    ]
+   ],
+   "tip": "可指身体或情绪；名词 die Empfindlichkeit"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "hilfsbereit",
+  "pos": "adj",
+  "zh": "乐于助人的",
+  "ex": [
+   "Meine Nachbarn sind sehr hilfsbereit und leihen mir immer Werkzeug."
+  ],
+  "ex_zh": "我的邻居们乐于助人，总是借我工具。",
+  "use": {
+   "col": [
+    [
+     "hilfsbereit sein",
+     "乐于助人"
+    ],
+    [
+     "ein hilfsbereiter Kollege",
+     "乐于助人的同事"
+    ]
+   ],
+   "tip": "名词 die Hilfsbereitschaft"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "rücksichtsvoll",
+  "pos": "adj",
+  "zh": "体贴的；顾及他人的",
+  "ex": [
+   "Ein rücksichtsvoller Nachbar stellt die Musik nach zehn Uhr leiser."
+  ],
+  "ex_zh": "体贴的邻居会在十点后把音乐调小。",
+  "use": {
+   "col": [
+    [
+     "rücksichtsvoll sein",
+     "体谅他人"
+    ],
+    [
+     "sich rücksichtsvoll verhalten",
+     "体贴行事"
+    ]
+   ],
+   "tip": "名词 die Rücksicht；反义 rücksichtslos"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "rücksichtslos",
+  "pos": "adj",
+  "zh": "不顾他人的；无情的",
+  "ex": [
+   "Er fährt rücksichtslos und gefährdet damit andere Verkehrsteilnehmer."
+  ],
+  "ex_zh": "他开车毫不顾忌他人，危及其他交通参与者。",
+  "use": {
+   "col": [
+    [
+     "rücksichtslos handeln",
+     "自私地行事"
+    ],
+    [
+     "rücksichtslos fahren",
+     "不顾别人地开车"
+    ]
+   ],
+   "tip": "反义 rücksichtsvoll"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "egoistisch",
+  "pos": "adj",
+  "zh": "自私的",
+  "ex": [
+   "Es ist egoistisch, immer nur an den eigenen Vorteil zu denken."
+  ],
+  "ex_zh": "总是只想着自己的好处是自私的。",
+  "use": {
+   "col": [
+    [
+     "egoistisch handeln",
+     "自私地行动"
+    ],
+    [
+     "ein egoistischer Mensch",
+     "自私的人"
+    ]
+   ],
+   "tip": "名词 der Egoismus / der Egoist"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "spontan",
+  "pos": "adj",
+  "zh": "自发的；临时起意的",
+  "ex": [
+   "Wir haben uns spontan entschieden, noch ein Wochenende wegzufahren."
+  ],
+  "ex_zh": "我们临时决定再出去玩一个周末。",
+  "use": {
+   "col": [
+    [
+     "spontan reagieren",
+     "自发地反应"
+    ],
+    [
+     "eine spontane Idee",
+     "一时的念头"
+    ]
+   ],
+   "tip": "反义 geplant；重音在 -tan"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "stur",
+  "pos": "adj",
+  "zh": "固执的；倔的",
+  "ex": [
+   "Mein Vater ist so stur, dass er nie zum Arzt geht."
+  ],
+  "ex_zh": "我爸倔得从来不去看医生。",
+  "use": {
+   "col": [
+    [
+     "stur bleiben",
+     "固执己见"
+    ],
+    [
+     "stur wie ein Esel",
+     "像驴一样倔"
+    ]
+   ],
+   "tip": "口语、略带贬义；近义 dickköpfig, eigensinnig"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sachlich",
+  "pos": "adj",
+  "zh": "客观的；就事论事的",
+  "ex": [
+   "Bitte bleiben wir bei der Diskussion sachlich und höflich."
+  ],
+  "ex_zh": "请让我们在讨论时保持就事论事、彬彬有礼。",
+  "use": {
+   "col": [
+    [
+     "sachlich bleiben",
+     "保持客观"
+    ],
+    [
+     "eine sachliche Diskussion",
+     "理性的讨论"
+    ]
+   ],
+   "tip": "名词 die Sache；对立面 emotional"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "humorvoll",
+  "pos": "adj",
+  "zh": "幽默的",
+  "ex": [
+   "Unser Professor erklärt humorvoll und macht die Vorlesung lebendig."
+  ],
+  "ex_zh": "我们教授讲课很幽默，让课堂很生动。",
+  "use": {
+   "col": [
+    [
+     "humorvoll sein",
+     "有幽默感"
+    ],
+    [
+     "eine humorvolle Rede",
+     "幽默的讲话"
+    ]
+   ],
+   "tip": "名词 der Humor；口语也说 lustig"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "pessimistisch",
+  "pos": "adj",
+  "zh": "悲观的",
+  "ex": [
+   "Er sieht die Lage zu pessimistisch, denn es gibt durchaus Chancen."
+  ],
+  "ex_zh": "他把形势看得太悲观了，其实是有机会的。",
+  "use": {
+   "col": [
+    [
+     "pessimistisch sein",
+     "悲观"
+    ],
+    [
+     "pessimistisch klingen",
+     "听起来悲观"
+    ]
+   ],
+   "tip": "名词 der Pessimismus；反义 optimistisch"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "depressiv",
+  "pos": "adj",
+  "zh": "抑郁的",
+  "ex": [
+   "Nach dem Verlust seiner Stelle wurde er zunehmend depressiv."
+  ],
+  "ex_zh": "失业之后，他变得越来越抑郁。",
+  "use": {
+   "col": [
+    [
+     "depressiv sein",
+     "抑郁"
+    ],
+    [
+     "eine depressive Phase",
+     "抑郁期"
+    ]
+   ],
+   "tip": "名词 die Depression；医学含义，非日常低落"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Hausarzt",
+  "art": "der",
+  "pl_full": "die Hausärzte",
+  "pos": "n",
+  "zh": "家庭医生",
+  "ex": [
+   "Bei Beschwerden gehe ich zuerst zu meinem Hausarzt, der mich dann weiterüberweist."
+  ],
+  "ex_zh": "有不适时我先去找家庭医生，他再把我转诊。",
+  "use": {
+   "col": [
+    [
+     "zum Hausarzt gehen",
+     "去看家庭医生"
+    ],
+    [
+     "einen Hausarzt suchen",
+     "找家庭医生"
+    ]
+   ],
+   "tip": "女 die Hausärztin；德国看专科前通常先看 Hausarzt"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Facharzt",
+  "art": "der",
+  "pl_full": "die Fachärzte",
+  "pos": "n",
+  "zh": "专科医生",
+  "ex": [
+   "Für den Termin beim Facharzt muss man oft mehrere Wochen warten."
+  ],
+  "ex_zh": "要预约专科医生，常常得等好几周。",
+  "use": {
+   "col": [
+    [
+     "einen Facharzt aufsuchen",
+     "去看专科医生"
+    ],
+    [
+     "ein Facharzt für Orthopädie",
+     "骨科专科医生"
+    ]
+   ],
+   "tip": "女 die Fachärztin；Orthopäde 骨科医生"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Wartezimmer",
+  "art": "das",
+  "pl_full": "die Wartezimmer",
+  "pos": "n",
+  "zh": "候诊室",
+  "ex": [
+   "Im Wartezimmer saßen schon zehn Patienten, und es gab keine freien Stühle mehr."
+  ],
+  "ex_zh": "候诊室里已经坐了十个病人，没有空位了。",
+  "use": {
+   "col": [
+    [
+     "im Wartezimmer warten",
+     "在候诊室等候"
+    ],
+    [
+     "ins Wartezimmer gehen",
+     "去候诊室"
+    ]
+   ],
+   "tip": "也说 Wartebereich；动词 warten"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Rollstuhl",
+  "art": "der",
+  "pl_full": "die Rollstühle",
+  "pos": "n",
+  "zh": "轮椅",
+  "ex": [
+   "Seit dem Unfall ist sie auf einen Rollstuhl angewiesen."
+  ],
+  "ex_zh": "自事故以来，她得靠轮椅生活。",
+  "use": {
+   "col": [
+    [
+     "im Rollstuhl sitzen",
+     "坐轮椅"
+    ],
+    [
+     "auf den Rollstuhl angewiesen sein",
+     "离不开轮椅"
+    ]
+   ],
+   "tip": "形容词 rollstuhlgerecht 无障碍的"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Narbe",
+  "art": "die",
+  "pl_full": "die Narben",
+  "pos": "n",
+  "zh": "疤痕",
+  "ex": [
+   "Von der Operation ist nur eine kleine Narbe am Bauch geblieben."
+  ],
+  "ex_zh": "手术之后只在肚子上留下一道小疤。",
+  "use": {
+   "col": [
+    [
+     "eine Narbe zurücklassen",
+     "留下疤痕"
+    ],
+    [
+     "eine Narbe im Gesicht",
+     "脸上的疤"
+    ]
+   ],
+   "tip": "动词 vernarben (C1)；也有「心灵创伤」的比喻"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Blutzucker",
+  "art": "der",
+  "pos": "n",
+  "zh": "血糖",
+  "ex": [
+   "Diabetiker müssen mehrmals am Tag ihren Blutzucker mit einem kleinen Gerät messen."
+  ],
+  "ex_zh": "糖尿病人每天要用小仪器测几次血糖。",
+  "use": {
+   "col": [
+    [
+     "den Blutzucker messen",
+     "测血糖"
+    ],
+    [
+     "einen hohen Blutzucker haben",
+     "血糖高"
+    ]
+   ],
+   "tip": "Blutzuckerspiegel 血糖水平"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Cholesterin",
+  "art": "das",
+  "pos": "n",
+  "zh": "胆固醇",
+  "ex": [
+   "Zu viel Cholesterin im Blut erhöht das Risiko für Herzkrankheiten."
+  ],
+  "ex_zh": "血液中胆固醇过高会增加患心脏病的风险。",
+  "use": {
+   "col": [
+    [
+     "erhöhtes Cholesterin",
+     "胆固醇偏高"
+    ],
+    [
+     "Cholesterin senken",
+     "降胆固醇"
+    ]
+   ],
+   "tip": "Cholesterinspiegel 胆固醇水平；发音 [ç] 或 [k]"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Sauerstoff",
+  "art": "der",
+  "pos": "n",
+  "zh": "氧气",
+  "ex": [
+   "Im Hochgebirge ist der Sauerstoff in der Luft knapp."
+  ],
+  "ex_zh": "高山上空气中的氧气很稀薄。",
+  "use": {
+   "col": [
+    [
+     "Sauerstoff einatmen",
+     "吸入氧气"
+    ],
+    [
+     "an Sauerstoffmangel leiden",
+     "缺氧"
+    ]
+   ],
+   "tip": "Sauerstoffmangel 缺氧；Kohlenstoff 碳"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Krafttraining",
+  "art": "das",
+  "pos": "n",
+  "zh": "力量训练",
+  "ex": [
+   "Zweimal pro Woche mache ich Krafttraining, um meinen Rücken zu stärken."
+  ],
+  "ex_zh": "我每周做两次力量训练来增强背部。",
+  "use": {
+   "col": [
+    [
+     "Krafttraining machen",
+     "做力量训练"
+    ],
+    [
+     "mit Krafttraining beginnen",
+     "开始力量训练"
+    ]
+   ],
+   "tip": "Ausdauertraining 耐力训练；Kraft 力量"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Dehnübung",
+  "art": "die",
+  "pl_full": "die Dehnübungen",
+  "pos": "n",
+  "zh": "拉伸练习",
+  "ex": [
+   "Vor dem Joggen mache ich immer ein paar Dehnübungen."
+  ],
+  "ex_zh": "慢跑之前我总是做几个拉伸动作。",
+  "use": {
+   "col": [
+    [
+     "Dehnübungen machen",
+     "做拉伸练习"
+    ],
+    [
+     "leichte Dehnübungen",
+     "轻度拉伸练习"
+    ]
+   ],
+   "tip": "动词 dehnen；Übung 练习"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Psychologie",
+  "art": "die",
+  "pos": "n",
+  "zh": "心理学",
+  "ex": [
+   "Nach dem Abitur möchte sie unbedingt Psychologie an einer großen Universität studieren."
+  ],
+  "ex_zh": "高中毕业后，她很想在一所大型大学学心理学。",
+  "use": {
+   "col": [
+    [
+     "Psychologie studieren",
+     "学心理学"
+    ],
+    [
+     "angewandte Psychologie",
+     "应用心理学"
+    ]
+   ],
+   "tip": "心理学家 der Psychologe；形容词 psychologisch"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Therapeut",
+  "art": "der",
+  "pl_full": "die Therapeuten",
+  "pos": "n",
+  "zh": "治疗师",
+  "ex": [
+   "Seit einem halben Jahr geht er regelmäßig zu einem Therapeuten."
+  ],
+  "ex_zh": "半年来他一直定期去看心理治疗师。",
+  "use": {
+   "col": [
+    [
+     "zum Therapeuten gehen",
+     "去看治疗师"
+    ],
+    [
+     "einen Therapeuten finden",
+     "找到治疗师"
+    ]
+   ],
+   "tip": "n-变格；女 die Therapeutin；多指心理治疗师"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gedächtnis",
+  "art": "das",
+  "pos": "n",
+  "zh": "记忆力",
+  "ex": [
+   "Mit zunehmendem Alter lässt mein Gedächtnis leider immer mehr nach."
+  ],
+  "ex_zh": "随着年龄增长，我的记忆力越来越差了。",
+  "use": {
+   "col": [
+    [
+     "ein gutes Gedächtnis haben",
+     "记性好"
+    ],
+    [
+     "das Gedächtnis trainieren",
+     "训练记忆力"
+    ]
+   ],
+   "tip": "Erinnerung 是具体的回忆；Gedächtnis 是能力"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Konzentration",
+  "art": "die",
+  "pos": "n",
+  "zh": "专注力",
+  "ex": [
+   "Bei diesem Lärm fällt es mir schwer, meine Konzentration zu halten."
+  ],
+  "ex_zh": "在这种噪音下，我很难保持专注。",
+  "use": {
+   "col": [
+    [
+     "die Konzentration verlieren",
+     "失去专注"
+    ],
+    [
+     "Konzentration erfordern",
+     "需要集中精力"
+    ]
+   ],
+   "tip": "动词 sich konzentrieren"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Motivation",
+  "art": "die",
+  "pl_full": "die Motivationen",
+  "pos": "n",
+  "zh": "动力；积极性",
+  "ex": [
+   "Ohne Motivation fällt es schwer, ein Projekt bis zum Ende durchzuziehen."
+  ],
+  "ex_zh": "没有动力，就很难把一个项目坚持做完。",
+  "use": {
+   "col": [
+    [
+     "die Motivation steigern",
+     "提高积极性"
+    ],
+    [
+     "keine Motivation haben",
+     "没有动力"
+    ]
+   ],
+   "tip": "动词 motivieren；形容词 motiviert"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Mitleid",
+  "art": "das",
+  "pos": "n",
+  "zh": "同情",
+  "ex": [
+   "Er hat kein Mitleid mit Menschen, die ihre Fehler nicht eingestehen wollen."
+  ],
+  "ex_zh": "他对不肯承认错误的人没有同情心。",
+  "gov": "Mitleid haben mit + Dat.",
+  "use": {
+   "col": [
+    [
+     "Mitleid haben mit + Dat.",
+     "同情……"
+    ],
+    [
+     "aus Mitleid",
+     "出于同情"
+    ]
+   ],
+   "tip": "同情的是别人的苦；Mitgefühl 更中性、更温暖"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Begeisterung",
+  "art": "die",
+  "pos": "n",
+  "zh": "热情；兴奋",
+  "ex": [
+   "Mit großer Begeisterung erzählte sie von ihrem ersten Marathon."
+  ],
+  "ex_zh": "她兴致勃勃地讲述了自己的第一次马拉松。",
+  "use": {
+   "col": [
+    [
+     "Begeisterung auslösen",
+     "引起热情"
+    ],
+    [
+     "voller Begeisterung",
+     "满怀热情"
+    ]
+   ],
+   "tip": "动词 begeistern；形容词 begeistert"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Verzweiflung",
+  "art": "die",
+  "pos": "n",
+  "zh": "绝望",
+  "ex": [
+   "In seiner Verzweiflung rief er mitten in der Nacht einen Freund an."
+  ],
+  "ex_zh": "绝望之中，他半夜给一个朋友打了电话。",
+  "use": {
+   "col": [
+    [
+     "aus Verzweiflung",
+     "出于绝望"
+    ],
+    [
+     "zur Verzweiflung treiben",
+     "把人逼到绝望"
+    ]
+   ],
+   "tip": "动词 verzweifeln；形容词 verzweifelt"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Erleichterung",
+  "art": "die",
+  "pos": "n",
+  "zh": "如释重负",
+  "ex": [
+   "Zu unserer großen Erleichterung war das Testergebnis am Ende doch negativ."
+  ],
+  "ex_zh": "让我们大大松了口气的是，检测结果最终是阴性。",
+  "use": {
+   "col": [
+    [
+     "Erleichterung verspüren",
+     "感到如释重负"
+    ],
+    [
+     "mit Erleichterung",
+     "如释重负地"
+    ]
+   ],
+   "tip": "动词 erleichtern"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Neugier",
+  "art": "die",
+  "pos": "n",
+  "zh": "好奇心",
+  "ex": [
+   "Aus reiner Neugier habe ich mich für den Kurs angemeldet."
+  ],
+  "ex_zh": "纯粹出于好奇，我报名了这门课。",
+  "use": {
+   "col": [
+    [
+     "aus Neugier",
+     "出于好奇"
+    ],
+    [
+     "Neugier wecken",
+     "激起好奇心"
+    ]
+   ],
+   "tip": "形容词 neugierig；Wissensdurst 求知欲"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Ehrgeiz",
+  "art": "der",
+  "pos": "n",
+  "zh": "上进心；野心",
+  "ex": [
+   "Sein Ehrgeiz hat ihn schon früh an die Spitze des Teams gebracht."
+  ],
+  "ex_zh": "他的上进心使他很早就走到了团队前列。",
+  "use": {
+   "col": [
+    [
+     "Ehrgeiz haben",
+     "有上进心"
+    ],
+    [
+     "großen Ehrgeiz zeigen",
+     "表现出强烈的上进心"
+    ]
+   ],
+   "tip": "形容词 ehrgeizig；可褒可贬"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Schüchternheit",
+  "art": "die",
+  "pos": "n",
+  "zh": "害羞",
+  "ex": [
+   "Wegen seiner Schüchternheit traut er sich kaum, neue Leute anzusprechen."
+  ],
+  "ex_zh": "因为害羞，他几乎不敢主动跟新认识的人搭话。",
+  "use": {
+   "col": [
+    [
+     "Schüchternheit überwinden",
+     "克服害羞"
+    ],
+    [
+     "aus Schüchternheit",
+     "出于害羞"
+    ]
+   ],
+   "tip": "形容词 schüchtern"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Tugend",
+  "art": "die",
+  "pl_full": "die Tugenden",
+  "pos": "n",
+  "zh": "美德",
+  "ex": [
+   "Geduld ist eine Tugend, die nicht jeder besitzt."
+  ],
+  "ex_zh": "耐心是一种并非人人都有的美德。",
+  "use": {
+   "col": [
+    [
+     "eine Tugend sein",
+     "是一种美德"
+    ],
+    [
+     "aus der Not eine Tugend machen",
+     "把不利变成优势"
+    ]
+   ],
+   "tip": "deutsche Tugenden 如守时、勤奋"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Vorliebe",
+  "art": "die",
+  "pl_full": "die Vorlieben",
+  "pos": "n",
+  "zh": "偏好",
+  "ex": [
+   "Eine besondere Vorliebe hat sie für Krimis und starken Kaffee."
+  ],
+  "ex_zh": "她特别偏爱侦探小说和浓咖啡。",
+  "gov": "Vorliebe für + Akk.",
+  "use": {
+   "col": [
+    [
+     "eine Vorliebe für etw. haben",
+     "偏爱某物"
+    ],
+    [
+     "persönliche Vorlieben",
+     "个人偏好"
+    ]
+   ],
+   "tip": "Vorliebe für + Akk.；近义 Neigung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "einatmen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingeatmet",
+  "forms": "atmet ein, atmete ein, hat eingeatmet",
+  "zh": "吸气",
+  "ex": [
+   "Atmen Sie bitte tief ein und halten Sie die Luft kurz an."
+  ],
+  "ex_zh": "请深吸一口气，然后屏住呼吸。",
+  "use": {
+   "col": [
+    [
+     "tief einatmen",
+     "深吸气"
+    ],
+    [
+     "Staub einatmen",
+     "吸入灰尘"
+    ]
+   ],
+   "tip": "反义 ausatmen；可分动词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "ausatmen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ausgeatmet",
+  "forms": "atmet aus, atmete aus, hat ausgeatmet",
+  "zh": "呼气",
+  "ex": [
+   "Beim Yoga soll man langsam und gleichmäßig ausatmen."
+  ],
+  "ex_zh": "练瑜伽时要缓慢而均匀地呼气。",
+  "use": {
+   "col": [
+    [
+     "tief ausatmen",
+     "深呼气"
+    ],
+    [
+     "langsam ausatmen",
+     "缓缓呼气"
+    ]
+   ],
+   "tip": "反义 einatmen；可分动词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich strecken",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gestreckt",
+  "forms": "streckt sich, streckte sich, hat sich gestreckt",
+  "zh": "伸懒腰；伸展",
+  "ex": [
+   "Nach dem Aufstehen strecke ich mich jeden Morgen ausgiebig."
+  ],
+  "ex_zh": "起床之后，我每天早上都要好好伸个懒腰。",
+  "use": {
+   "col": [
+    [
+     "sich ausgiebig strecken",
+     "舒展身体"
+    ],
+    [
+     "die Beine strecken",
+     "伸直双腿"
+    ]
+   ],
+   "tip": "也可非反身：die Arme strecken"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich bücken",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gebückt",
+  "forms": "bückt sich, bückte sich, hat sich gebückt",
+  "zh": "弯腰",
+  "ex": [
+   "Mit dem Rücken fällt es mir schwer, mich zu bücken."
+  ],
+  "ex_zh": "因为背不好，我很难弯腰。",
+  "use": {
+   "col": [
+    [
+     "sich nach etw. bücken",
+     "弯腰去捡某物"
+    ],
+    [
+     "sich tief bücken",
+     "深深弯腰"
+    ]
+   ],
+   "tip": "弯腰向下；beugen 一般的弯曲"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "humpeln",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "gehumpelt",
+  "forms": "humpelt, humpelte, ist gehumpelt",
+  "zh": "一瘸一拐地走",
+  "ex": [
+   "Nach dem Spiel humpelte der Spieler vom Platz."
+  ],
+  "ex_zh": "比赛后，这名球员一瘸一拐地下了场。",
+  "use": {
+   "col": [
+    [
+     "humpelnd gehen",
+     "一瘸一拐地走"
+    ],
+    [
+     "mit dem rechten Bein humpeln",
+     "右腿一瘸一拐"
+    ]
+   ],
+   "tip": "移动用 sein；近义 hinken"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "erröten",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "errötet",
+  "forms": "errötet, errötete, ist errötet",
+  "zh": "脸红",
+  "ex": [
+   "Bei dem Lob vor allen Kollegen errötete sie leicht."
+  ],
+  "ex_zh": "听到夸奖，她微微红了脸。",
+  "use": {
+   "col": [
+    [
+     "vor Scham erröten",
+     "羞得脸红"
+    ],
+    [
+     "leicht erröten",
+     "微微脸红"
+    ]
+   ],
+   "tip": "书面；口语更常说 rot werden；名词 die Röte"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "kichern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gekichert",
+  "forms": "kichert, kicherte, hat gekichert",
+  "zh": "咯咯笑",
+  "ex": [
+   "Die Mädchen kicherten leise, als der Lehrer das Klassenzimmer betrat."
+  ],
+  "ex_zh": "老师走进教室时，女孩们低声咯咯笑了起来。",
+  "use": {
+   "col": [
+    [
+     "leise kichern",
+     "轻声咯咯笑"
+    ],
+    [
+     "albern kichern",
+     "傻笑"
+    ]
+   ],
+   "tip": "多用于轻声笑；名词 das Kichern"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "schluchzen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "geschluchzt",
+  "forms": "schluchzt, schluchzte, hat geschluchzt",
+  "zh": "抽泣",
+  "ex": [
+   "Das Kind schluchzte leise und wollte nicht getröstet werden."
+  ],
+  "ex_zh": "孩子轻声抽泣，不愿被安慰。",
+  "use": {
+   "col": [
+    [
+     "laut schluchzen",
+     "大声抽泣"
+    ],
+    [
+     "herzzerreißend schluchzen",
+     "哭得撕心裂肺"
+    ]
+   ],
+   "tip": "名词 der Schluchzer；weinen 的强化"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "bedauern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bedauert",
+  "forms": "bedauert, bedauerte, hat bedauert",
+  "zh": "遗憾；同情",
+  "ex": [
+   "Wir bedauern sehr, Ihnen mitteilen zu müssen, dass die Stelle bereits besetzt ist."
+  ],
+  "ex_zh": "我们很遗憾地通知您，这个职位已经有人了。",
+  "use": {
+   "senses": [
+    "表示遗憾",
+    "同情"
+   ],
+   "col": [
+    [
+     "etw. sehr bedauern",
+     "对某事深表遗憾"
+    ],
+    [
+     "jemanden bedauern",
+     "同情某人"
+    ]
+   ],
+   "tip": "正式书信用语；名词 das Bedauern"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "mitfühlen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "mitgefühlt",
+  "forms": "fühlt mit, fühlte mit, hat mitgefühlt",
+  "zh": "同情；有同感",
+  "ex": [
+   "Ich kann gut mitfühlen, weil ich selbst Ähnliches erlebt habe."
+  ],
+  "ex_zh": "我很能感同身受，因为我自己也经历过类似的事。",
+  "use": {
+   "col": [
+    [
+     "mit jemandem mitfühlen",
+     "与某人感同身受"
+    ],
+    [
+     "mitfühlend nicken",
+     "同情地点头"
+    ]
+   ],
+   "tip": "可分动词；名词 das Mitgefühl，形容词 mitfühlend"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "trösten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "getröstet",
+  "forms": "tröstet, tröstete, hat getröstet",
+  "zh": "安慰",
+  "ex": [
+   "Sie tröstete ihren Freund, der seine Stelle verloren hatte."
+  ],
+  "ex_zh": "她安慰失去工作的朋友。",
+  "use": {
+   "col": [
+    [
+     "jemanden trösten",
+     "安慰某人"
+    ],
+    [
+     "sich trösten",
+     "自我安慰"
+    ]
+   ],
+   "tip": "名词 der Trost；形容词 tröstlich"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "aushalten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ausgehalten",
+  "forms": "hält aus, hielt aus, hat ausgehalten",
+  "zh": "忍受；承受",
+  "ex": [
+   "Die Hitze im Büro war ohne Klimaanlage kaum noch auszuhalten."
+  ],
+  "ex_zh": "没有空调，办公室里的热度几乎让人受不了。",
+  "use": {
+   "col": [
+    [
+     "Schmerzen aushalten",
+     "忍受疼痛"
+    ],
+    [
+     "es nicht mehr aushalten",
+     "再也受不了"
+    ]
+   ],
+   "tip": "可分动词；口语，比 ertragen 常用"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich begeistern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "begeistert",
+  "forms": "begeistert sich, begeisterte sich, hat sich begeistert",
+  "zh": "对……着迷；热衷",
+  "ex": [
+   "Schon als Kind hat er sich für Technik begeistert."
+  ],
+  "ex_zh": "他从小就对技术着迷。",
+  "gov": "sich begeistern für + Akk.",
+  "use": {
+   "col": [
+    [
+     "sich für etw. begeistern",
+     "热衷于某事"
+    ],
+    [
+     "jemanden begeistern",
+     "使某人兴奋"
+    ]
+   ],
+   "tip": "形容词 begeistert；名词 die Begeisterung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "gesundheitsbewusst",
+  "pos": "adj",
+  "zh": "注重健康的",
+  "ex": [
+   "Immer mehr gesundheitsbewusste Menschen in der Stadt verzichten ganz auf Fleisch."
+  ],
+  "ex_zh": "城里越来越多注重健康的人完全不吃肉了。",
+  "use": {
+   "col": [
+    [
+     "gesundheitsbewusst leben",
+     "健康意识强地生活"
+    ],
+    [
+     "gesundheitsbewusst essen",
+     "注重健康地饮食"
+    ]
+   ],
+   "tip": "名词 das Gesundheitsbewusstsein"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "gesundheitsfördernd",
+  "pos": "adj",
+  "zh": "有益健康的",
+  "ex": [
+   "Regelmäßige Bewegung an der frischen Luft ist gesundheitsfördernd."
+  ],
+  "ex_zh": "经常在户外活动有益健康。",
+  "use": {
+   "col": [
+    [
+     "gesundheitsfördernde Maßnahmen",
+     "促进健康的措施"
+    ],
+    [
+     "gesundheitsfördernd wirken",
+     "有益健康"
+    ]
+   ],
+   "tip": "反义 gesundheitsschädlich"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "krankhaft",
+  "pos": "adj",
+  "zh": "病态的",
+  "ex": [
+   "Seine krankhafte Eifersucht hat schließlich die ganze Beziehung zerstört."
+  ],
+  "ex_zh": "他病态的嫉妒最终毁掉了整段感情。",
+  "use": {
+   "col": [
+    [
+     "krankhaft eifersüchtig",
+     "病态地嫉妒"
+    ],
+    [
+     "krankhaft ehrgeizig",
+     "病态地好胜"
+    ]
+   ],
+   "tip": "krank + -haft：像病的；医学上指病理性的"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "seelisch",
+  "pos": "adj",
+  "zh": "心灵的；精神上的",
+  "ex": [
+   "Neben den körperlichen Folgen gibt es oft auch seelische Belastungen."
+  ],
+  "ex_zh": "除了身体上的后果，往往还有心理上的负担。",
+  "use": {
+   "col": [
+    [
+     "seelische Belastung",
+     "精神负担"
+    ],
+    [
+     "seelisch gesund",
+     "心理健康"
+    ]
+   ],
+   "tip": "Seele 心灵；seelisch ≈ psychisch，更口语"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "psychisch",
+  "pos": "adj",
+  "zh": "心理的",
+  "ex": [
+   "Der psychische Druck im Job kann auf Dauer krank machen."
+  ],
+  "ex_zh": "工作中的心理压力长期下来会让人生病。",
+  "use": {
+   "col": [
+    [
+     "psychische Probleme",
+     "心理问题"
+    ],
+    [
+     "psychisch belastet",
+     "心理负担重"
+    ]
+   ],
+   "tip": "名词 die Psyche；与 körperlich 对应"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "geistig",
+  "pos": "adj",
+  "zh": "精神上的；智力的",
+  "ex": [
+   "Ältere Menschen sollten geistig und körperlich aktiv bleiben."
+  ],
+  "ex_zh": "老年人应当在脑力和体力上都保持活跃。",
+  "use": {
+   "col": [
+    [
+     "geistig fit",
+     "头脑灵活"
+    ],
+    [
+     "geistige Arbeit",
+     "脑力劳动"
+    ]
+   ],
+   "tip": "Geist 精神；geistig ≠ geistlich（宗教的）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verletzlich",
+  "pos": "adj",
+  "zh": "脆弱的；易受伤的",
+  "ex": [
+   "Gerade in der Pubertät sind Jugendliche besonders verletzlich."
+  ],
+  "ex_zh": "尤其在青春期，青少年特别敏感脆弱。",
+  "use": {
+   "col": [
+    [
+     "verletzlich wirken",
+     "显得脆弱"
+    ],
+    [
+     "ein verletzlicher Moment",
+     "脆弱的时刻"
+    ]
+   ],
+   "tip": "动词 verletzen；名词 die Verletzlichkeit"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "zerbrechlich",
+  "pos": "adj",
+  "zh": "易碎的；纤弱的",
+  "ex": [
+   "Die alte Frau wirkte so zerbrechlich, dass ich ihr sofort meinen Platz anbot."
+  ],
+  "ex_zh": "那位老太太看起来那么纤弱，我立刻让了座。",
+  "use": {
+   "col": [
+    [
+     "zerbrechlich wirken",
+     "显得纤弱"
+    ],
+    [
+     "zerbrechliche Gläser",
+     "易碎的玻璃杯"
+    ]
+   ],
+   "tip": "动词 zerbrechen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "tapfer",
+  "pos": "adj",
+  "zh": "勇敢的；坚强的",
+  "ex": [
+   "Der kleine Junge war tapfer und weinte beim Arzt nicht."
+  ],
+  "ex_zh": "那个小男孩很勇敢，在医生那里没有哭。",
+  "use": {
+   "col": [
+    [
+     "tapfer sein",
+     "勇敢坚强"
+    ],
+    [
+     "sich tapfer halten",
+     "表现得很坚强"
+    ]
+   ],
+   "tip": "多用于忍耐痛苦或困难的人；mutig 面对危险"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "leichtsinnig",
+  "pos": "adj",
+  "zh": "轻率的；不顾后果的",
+  "ex": [
+   "Es war leichtsinnig, ohne Helm Fahrrad zu fahren."
+  ],
+  "ex_zh": "不戴头盔骑车太轻率了。",
+  "use": {
+   "col": [
+    [
+     "leichtsinnig handeln",
+     "轻率行事"
+    ],
+    [
+     "leichtsinnig sein",
+     "不顾后果"
+    ]
+   ],
+   "tip": "名词 der Leichtsinn；反义 vorsichtig"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "aufdringlich",
+  "pos": "adj",
+  "zh": "缠人的；过分热情的",
+  "ex": [
+   "Der Verkäufer war so aufdringlich, dass wir den Laden schnell verließen."
+  ],
+  "ex_zh": "那位店员太缠人了，我们很快就离开了店。",
+  "use": {
+   "col": [
+    [
+     "aufdringlich wirken",
+     "显得烦人"
+    ],
+    [
+     "aufdringlich fragen",
+     "纠缠着问"
+    ]
+   ],
+   "tip": "也形容气味、颜色过于浓烈；名词 die Aufdringlichkeit"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "gesellig",
+  "pos": "adj",
+  "zh": "合群的；爱交际的",
+  "ex": [
+   "Er ist ein geselliger Mensch und lädt gern Freunde zum Essen ein."
+  ],
+  "ex_zh": "他是个爱交际的人，喜欢请朋友们吃饭。",
+  "use": {
+   "col": [
+    [
+     "gesellig beisammensitzen",
+     "大家聚在一起热闹聊天"
+    ],
+    [
+     "ein geselliger Abend",
+     "热闹的聚会之夜"
+    ]
+   ],
+   "tip": "名词 die Geselligkeit；反义 zurückgezogen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "zurückhaltend",
+  "pos": "adj",
+  "zh": "含蓄的；谨慎的",
+  "ex": [
+   "Die Kollegin ist freundlich, aber im Gespräch eher zurückhaltend."
+  ],
+  "ex_zh": "这位同事很友善，但交谈时比较含蓄。",
+  "use": {
+   "col": [
+    [
+     "zurückhaltend reagieren",
+     "谨慎地回应"
+    ],
+    [
+     "sich zurückhaltend äußern",
+     "措辞谨慎"
+    ]
+   ],
+   "tip": "名词 die Zurückhaltung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "gutmütig",
+  "pos": "adj",
+  "zh": "心地善良的；脾气好的",
+  "ex": [
+   "Der gutmütige Hund lässt sich von den Kindern alles gefallen."
+  ],
+  "ex_zh": "这条脾气温顺的狗任由孩子们折腾。",
+  "use": {
+   "col": [
+    [
+     "ein gutmütiger Mensch",
+     "心地善良的人"
+    ],
+    [
+     "gutmütig lächeln",
+     "和善地笑"
+    ]
+   ],
+   "tip": "有时含「过于好说话」之意；名词 die Gutmütigkeit"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "ausgeglichen",
+  "pos": "adj",
+  "zh": "平和稳定的",
+  "ex": [
+   "Seit sie regelmäßig Sport treibt, ist sie viel ausgeglichener."
+  ],
+  "ex_zh": "自从经常运动，她情绪稳定多了。",
+  "use": {
+   "col": [
+    [
+     "ausgeglichen wirken",
+     "显得平和"
+    ],
+    [
+     "ein ausgeglichenes Wesen",
+     "沉稳的性格"
+    ]
+   ],
+   "tip": "反义 unausgeglichen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "gestresst",
+  "pos": "adj",
+  "zh": "压力大的",
+  "ex": [
+   "Vor dem Abgabetermin war das ganze Team ziemlich gestresst."
+  ],
+  "ex_zh": "临近交付期限，整个团队都压力很大。",
+  "use": {
+   "col": [
+    [
+     "gestresst sein",
+     "压力很大"
+    ],
+    [
+     "gestresst wirken",
+     "显得有压力"
+    ]
+   ],
+   "tip": "名词 der Stress；比 stressig（令人有压力的）指人的状态"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "überarbeitet",
+  "pos": "adj",
+  "zh": "工作过度的",
+  "ex": [
+   "Der Chef sieht überarbeitet aus und sollte dringend Urlaub machen."
+  ],
+  "ex_zh": "老板看起来工作过度，真该好好休个假了。",
+  "use": {
+   "senses": [
+    "工作过度的",
+    "经过修订的"
+   ],
+   "col": [
+    [
+     "überarbeitet sein",
+     "工作过度"
+    ],
+    [
+     "völlig überarbeitet",
+     "累垮"
+    ]
+   ],
+   "tip": "也可指文稿被修订过"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verkrampft",
+  "pos": "adj",
+  "zh": "紧张僵硬的",
+  "ex": [
+   "Beim Vortrag wirkte er verkrampft und sprach sehr leise."
+  ],
+  "ex_zh": "做报告时他显得僵硬紧张，说话声音很轻。",
+  "use": {
+   "col": [
+    [
+     "verkrampft lächeln",
+     "僵硬地笑"
+    ],
+    [
+     "verkrampfte Muskeln",
+     "痉挛的肌肉"
+    ]
+   ],
+   "tip": "动词 sich verkrampfen；名词 der Krampf 痉挛"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "angespannt",
+  "pos": "adj",
+  "zh": "紧绷的；紧张的",
+  "ex": [
+   "Die Lage im Büro ist seit der Kündigung ziemlich angespannt."
+  ],
+  "ex_zh": "自从裁员以来，办公室里的气氛相当紧张。",
+  "use": {
+   "col": [
+    [
+     "angespannt wirken",
+     "显得紧绷"
+    ],
+    [
+     "eine angespannte Lage",
+     "紧张的局势"
+    ]
+   ],
+   "tip": "动词 anspannen；反义 entspannt"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "hoffnungslos",
+  "pos": "adj",
+  "zh": "没有希望的；绝望的",
+  "ex": [
+   "Die Lage schien hoffnungslos, doch dann kam unerwartet Hilfe."
+  ],
+  "ex_zh": "形势看起来毫无希望，但这时意外来了帮助。",
+  "use": {
+   "col": [
+    [
+     "hoffnungslos sein",
+     "没有希望"
+    ],
+    [
+     "ein hoffnungsloser Fall",
+     "无可救药的人/事"
+    ]
+   ],
+   "tip": "反义 hoffnungsvoll"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verwirrt",
+  "pos": "adj",
+  "zh": "困惑的；糊涂的",
+  "ex": [
+   "Nach dem Sturz war der alte Mann noch verwirrt und kannte seinen Namen nicht."
+  ],
+  "ex_zh": "摔倒后，老人还神志不清，说不出自己的名字。",
+  "use": {
+   "col": [
+    [
+     "verwirrt wirken",
+     "显得糊涂"
+    ],
+    [
+     "völlig verwirrt",
+     "彻底糊涂"
+    ]
+   ],
+   "tip": "动词 verwirren；名词 die Verwirrung；老年人尤指神志不清"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "erstaunt",
+  "pos": "adj",
+  "zh": "惊讶的",
+  "ex": [
+   "Erstaunt stellte er fest, dass die Rechnung schon bezahlt war."
+  ],
+  "ex_zh": "他惊讶地发现账单已经付过了。",
+  "gov": "erstaunt über + Akk.",
+  "use": {
+   "col": [
+    [
+     "erstaunt sein über + Akk.",
+     "对……感到惊讶"
+    ],
+    [
+     "erstaunt fragen",
+     "惊讶地问"
+    ]
+   ],
+   "tip": "名词 das Erstaunen；比 überrascht 略带「不敢相信」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Beschwerden (Pl.)",
+  "art": "die",
+  "pos": "n",
+  "zh": "不适；病痛",
+  "ex": [
+   "Seit Wochen klagt sie über Beschwerden im Magen und im Rücken."
+  ],
+  "ex_zh": "几周来，她一直抱怨胃和背部不适。",
+  "use": {
+   "col": [
+    [
+     "Beschwerden haben",
+     "有不适症状"
+    ],
+    [
+     "unter Beschwerden leiden",
+     "受病痛折磨"
+    ]
+   ],
+   "tip": "医学语境的复数；单数 die Beschwerde 是「投诉」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Erkrankung",
+  "art": "die",
+  "pl_full": "die Erkrankungen",
+  "pos": "n",
+  "zh": "疾病；患病",
+  "ex": [
+   "Bei einer schweren Erkrankung übernimmt die Krankenkasse die Kosten der Behandlung."
+  ],
+  "ex_zh": "在患重病时，医保承担治疗费用。",
+  "use": {
+   "col": [
+    [
+     "eine chronische Erkrankung",
+     "慢性疾病"
+    ],
+    [
+     "die Erkrankung verläuft mild",
+     "病程较轻"
+    ]
+   ],
+   "tip": "比 Krankheit 更书面、更医学；动词 erkranken"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Vorerkrankung",
+  "art": "die",
+  "pl_full": "die Vorerkrankungen",
+  "pos": "n",
+  "zh": "既往病史；基础疾病",
+  "ex": [
+   "Menschen mit Vorerkrankungen sollten sich besonders gut schützen."
+  ],
+  "ex_zh": "有基础疾病的人应特别注意保护自己。",
+  "use": {
+   "col": [
+    [
+     "eine Vorerkrankung haben",
+     "有基础病"
+    ],
+    [
+     "Patienten mit Vorerkrankungen",
+     "有既往病史的患者"
+    ]
+   ],
+   "tip": "常用复数；vor- 表示「先前的」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Krankheitsverlauf",
+  "art": "der",
+  "pl_full": "die Krankheitsverläufe",
+  "pos": "n",
+  "zh": "病程",
+  "ex": [
+   "Der Krankheitsverlauf hängt stark vom Alter und von der Therapie ab."
+  ],
+  "ex_zh": "病程很大程度上取决于年龄和治疗。",
+  "use": {
+   "col": [
+    [
+     "ein milder Krankheitsverlauf",
+     "病程较轻"
+    ],
+    [
+     "den Krankheitsverlauf beobachten",
+     "观察病程"
+    ]
+   ],
+   "tip": "Verlauf 指过程、走向"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Wirkstoff",
+  "art": "der",
+  "pl_full": "die Wirkstoffe",
+  "pos": "n",
+  "zh": "有效成分",
+  "ex": [
+   "Der Wirkstoff dieses Medikaments senkt den Blutdruck und entlastet das Herz."
+  ],
+  "ex_zh": "这种药的有效成分能降低血压，减轻心脏负担。",
+  "use": {
+   "col": [
+    [
+     "der Wirkstoff Ibuprofen",
+     "有效成分布洛芬"
+    ],
+    [
+     "einen Wirkstoff entwickeln",
+     "研发有效成分"
+    ]
+   ],
+   "tip": "药品说明书用语；Wirkung 是作用"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Wechselwirkung",
+  "art": "die",
+  "pl_full": "die Wechselwirkungen",
+  "pos": "n",
+  "zh": "相互作用",
+  "ex": [
+   "Bitte fragen Sie wegen möglicher Wechselwirkungen mit anderen Medikamenten Ihren Arzt."
+  ],
+  "ex_zh": "关于与其他药物可能的相互作用，请咨询医生。",
+  "use": {
+   "col": [
+    [
+     "Wechselwirkungen mit Medikamenten",
+     "与药物的相互作用"
+    ],
+    [
+     "in Wechselwirkung stehen",
+     "相互影响"
+    ]
+   ],
+   "tip": "也可用于一般学术语境：互相影响"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Unverträglichkeit",
+  "art": "die",
+  "pl_full": "die Unverträglichkeiten",
+  "pos": "n",
+  "zh": "不耐受；不相容",
+  "ex": [
+   "Wegen einer Laktoseunverträglichkeit trinkt er keine normale Milch."
+  ],
+  "ex_zh": "因为乳糖不耐受，他不喝普通牛奶。",
+  "use": {
+   "col": [
+    [
+     "eine Unverträglichkeit gegen Gluten",
+     "麸质不耐受"
+    ],
+    [
+     "Unverträglichkeiten testen",
+     "检测不耐受"
+    ]
+   ],
+   "tip": "形容词 unverträglich；Verträglichkeit 耐受性"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Unwohlsein",
+  "art": "das",
+  "pos": "n",
+  "zh": "不舒服",
+  "ex": [
+   "Wegen eines plötzlichen Unwohlseins musste sie die Sitzung verlassen."
+  ],
+  "ex_zh": "因为突然不舒服，她不得不离开会议。",
+  "use": {
+   "col": [
+    [
+     "ein leichtes Unwohlsein",
+     "轻微不适"
+    ],
+    [
+     "Unwohlsein verspüren",
+     "感到不适"
+    ]
+   ],
+   "tip": "比 Übelkeit 笼统；反义 Wohlbefinden"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Wohlbefinden",
+  "art": "das",
+  "pos": "n",
+  "zh": "安康；舒适感",
+  "ex": [
+   "Regelmäßige Bewegung steigert das Wohlbefinden und senkt das Stressniveau."
+  ],
+  "ex_zh": "规律运动能提升幸福感并降低压力水平。",
+  "use": {
+   "col": [
+    [
+     "sein Wohlbefinden steigern",
+     "提升舒适感"
+    ],
+    [
+     "das körperliche Wohlbefinden",
+     "身体的舒适"
+    ]
+   ],
+   "tip": "常见于健康、护理语境；动词 sich wohlfühlen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Erschöpfung",
+  "art": "die",
+  "pl_full": "die Erschöpfungen",
+  "pos": "n",
+  "zh": "精疲力竭",
+  "ex": [
+   "Nach monatelanger Überlastung brach er vor Erschöpfung zusammen."
+  ],
+  "ex_zh": "经过数月超负荷工作，他累得倒下了。",
+  "use": {
+   "col": [
+    [
+     "völlige Erschöpfung",
+     "精疲力竭"
+    ],
+    [
+     "an Erschöpfung leiden",
+     "受衰竭之苦"
+    ]
+   ],
+   "tip": "形容词 erschöpft"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Überlastung",
+  "art": "die",
+  "pl_full": "die Überlastungen",
+  "pos": "n",
+  "zh": "超负荷",
+  "ex": [
+   "Viele Pflegekräfte klagen über chronische Überlastung und viel zu wenig Personal."
+  ],
+  "ex_zh": "许多护理人员抱怨长期超负荷，而且人手严重不足。",
+  "use": {
+   "col": [
+    [
+     "zur Überlastung führen",
+     "导致超负荷"
+    ],
+    [
+     "Überlastung melden",
+     "报告超负荷"
+    ]
+   ],
+   "tip": "动词 überlasten；Belastung 是普通的负担"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Resilienz",
+  "art": "die",
+  "pos": "n",
+  "zh": "心理韧性；复原力",
+  "ex": [
+   "Psychische Resilienz hilft Menschen dabei, mit Krisen und Rückschlägen besser umzugehen."
+  ],
+  "ex_zh": "心理韧性帮助人们更好地应对危机和挫折。",
+  "use": {
+   "col": [
+    [
+     "Resilienz aufbauen",
+     "培养韧性"
+    ],
+    [
+     "psychische Resilienz",
+     "心理韧性"
+    ]
+   ],
+   "tip": "近年流行的心理学词；形容词 resilient"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Trauma",
+  "art": "das",
+  "pl_full": "die Traumata",
+  "pos": "n",
+  "zh": "创伤",
+  "ex": [
+   "Der Krieg hat bei vielen Kindern ein tiefes Trauma hinterlassen."
+  ],
+  "ex_zh": "战争给许多孩子留下了深深的创伤。",
+  "use": {
+   "col": [
+    [
+     "ein Trauma erleiden",
+     "遭受创伤"
+    ],
+    [
+     "ein Kindheitstrauma",
+     "童年创伤"
+    ]
+   ],
+   "tip": "复数 Traumata；形容词 traumatisch"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Angststörung",
+  "art": "die",
+  "pl_full": "die Angststörungen",
+  "pos": "n",
+  "zh": "焦虑症",
+  "ex": [
+   "Eine Angststörung lässt sich mit Therapie und Medikamenten gut behandeln."
+  ],
+  "ex_zh": "焦虑症可以通过治疗和药物很好地控制。",
+  "use": {
+   "col": [
+    [
+     "an einer Angststörung leiden",
+     "患焦虑症"
+    ],
+    [
+     "eine Angststörung behandeln",
+     "治疗焦虑症"
+    ]
+   ],
+   "tip": "Panikattacke 惊恐发作；Phobie 恐惧症"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Panikattacke",
+  "art": "die",
+  "pl_full": "die Panikattacken",
+  "pos": "n",
+  "zh": "惊恐发作",
+  "ex": [
+   "Mitten in der U-Bahn bekam er plötzlich eine Panikattacke."
+  ],
+  "ex_zh": "在地铁里他突然惊恐发作。",
+  "use": {
+   "col": [
+    [
+     "eine Panikattacke bekommen",
+     "惊恐发作"
+    ],
+    [
+     "Panikattacken haben",
+     "有惊恐发作"
+    ]
+   ],
+   "tip": "Panik 恐慌；Angst 一般的害怕"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Gemüt",
+  "art": "das",
+  "pl_full": "die Gemüter",
+  "pos": "n",
+  "zh": "心情；性情",
+  "ex": [
+   "Die Nachricht hat die Gemüter in der Belegschaft stark erhitzt."
+  ],
+  "ex_zh": "这个消息使员工们群情激愤。",
+  "use": {
+   "col": [
+    [
+     "ein sonniges Gemüt",
+     "开朗的性情"
+    ],
+    [
+     "die Gemüter beruhigen",
+     "平息众人情绪"
+    ]
+   ],
+   "tip": "古老的德语特色词；常见：Die Gemüter erhitzen sich."
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Befindlichkeit",
+  "art": "die",
+  "pl_full": "die Befindlichkeiten",
+  "pos": "n",
+  "zh": "身心状态；情绪状态",
+  "ex": [
+   "Im Beruf sollte man persönliche Befindlichkeiten nicht zu wichtig nehmen."
+  ],
+  "ex_zh": "在职场中，不应把个人情绪看得太重。",
+  "use": {
+   "col": [
+    [
+     "persönliche Befindlichkeiten",
+     "个人情绪"
+    ],
+    [
+     "die gesundheitliche Befindlichkeit",
+     "健康状况"
+    ]
+   ],
+   "tip": "常用复数，略带贬义地指「小情绪」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Zorn",
+  "art": "der",
+  "pos": "n",
+  "zh": "愤怒；怒火",
+  "ex": [
+   "Sein Zorn richtete sich vor allem gegen die Geschäftsleitung."
+  ],
+  "ex_zh": "他的怒火主要针对管理层。",
+  "use": {
+   "col": [
+    [
+     "jemandes Zorn erregen",
+     "激起某人的怒火"
+    ],
+    [
+     "in Zorn geraten",
+     "发怒"
+    ]
+   ],
+   "tip": "比 Wut 更书面、更庄重；形容词 zornig"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Groll",
+  "art": "der",
+  "pos": "n",
+  "zh": "怨恨；积怨",
+  "ex": [
+   "Nach all den Jahren hegte sie noch immer Groll gegen ihren Bruder."
+  ],
+  "ex_zh": "这么多年之后，她仍对哥哥怀有怨恨。",
+  "use": {
+   "col": [
+    [
+     "Groll hegen",
+     "怀恨"
+    ],
+    [
+     "einen Groll auf jemanden haben",
+     "对某人怀有积怨"
+    ]
+   ],
+   "tip": "动词 grollen；是长期压抑的怨气"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Genugtuung",
+  "art": "die",
+  "pos": "n",
+  "zh": "满足感；平反",
+  "ex": [
+   "Es war ihr eine große Genugtuung, dass er sich endlich entschuldigte."
+  ],
+  "ex_zh": "他终于道歉了，这让她感到极大的快慰。",
+  "use": {
+   "col": [
+    [
+     "Genugtuung empfinden",
+     "感到快慰"
+    ],
+    [
+     "mit Genugtuung feststellen",
+     "满意地确认"
+    ]
+   ],
+   "tip": "书面用语；也有「补偿、讨回公道」之义"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Bestürzung",
+  "art": "die",
+  "pos": "n",
+  "zh": "震惊；惊愕",
+  "ex": [
+   "Die Nachricht vom Unglück löste in der ganzen Region große Bestürzung aus."
+  ],
+  "ex_zh": "事故的消息在整个地区引起了极大的震惊。",
+  "use": {
+   "col": [
+    [
+     "Bestürzung auslösen",
+     "引发震惊"
+    ],
+    [
+     "mit Bestürzung reagieren",
+     "震惊地反应"
+    ]
+   ],
+   "tip": "形容词 bestürzt；比 Überraschung 更沉重"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Gleichgültigkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "漠不关心",
+  "ex": [
+   "Die Gleichgültigkeit der Behörden hat viele Bürger enttäuscht."
+  ],
+  "ex_zh": "当局的漠不关心让许多市民失望。",
+  "use": {
+   "col": [
+    [
+     "Gleichgültigkeit zeigen",
+     "表现得漠不关心"
+    ],
+    [
+     "auf Gleichgültigkeit stoßen",
+     "遇到冷漠"
+    ]
+   ],
+   "tip": "形容词 gleichgültig；反义 Anteilnahme"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Gelassenheit",
+  "art": "die",
+  "pos": "n",
+  "zh": "沉着；淡定",
+  "ex": [
+   "Mit großer Gelassenheit nahm sie die Kritik ihres Vorgesetzten entgegen."
+  ],
+  "ex_zh": "她十分淡定地接受了上司的批评。",
+  "use": {
+   "col": [
+    [
+     "Gelassenheit bewahren",
+     "保持沉着"
+    ],
+    [
+     "mit Gelassenheit",
+     "沉着地"
+    ]
+   ],
+   "tip": "形容词 gelassen；近义 Ruhe，Besonnenheit"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Besonnenheit",
+  "art": "die",
+  "pos": "n",
+  "zh": "冷静；审慎",
+  "ex": [
+   "In der schweren Krise bewies der Minister Besonnenheit und handelte überlegt."
+  ],
+  "ex_zh": "在严重的危机中，这位部长表现得审慎，行事经过深思熟虑。",
+  "use": {
+   "col": [
+    [
+     "Besonnenheit zeigen",
+     "表现得冷静审慎"
+    ],
+    [
+     "zur Besonnenheit mahnen",
+     "呼吁保持冷静"
+    ]
+   ],
+   "tip": "形容词 besonnen；常见于新闻评论"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Aufrichtigkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "真诚；坦率",
+  "ex": [
+   "Ich schätze die Aufrichtigkeit, mit der sie über ihre Fehler spricht."
+  ],
+  "ex_zh": "我很欣赏她坦率谈论自己错误的态度。",
+  "use": {
+   "col": [
+    [
+     "mit Aufrichtigkeit",
+     "真诚地"
+    ],
+    [
+     "an der Aufrichtigkeit zweifeln",
+     "怀疑其真诚"
+    ]
+   ],
+   "tip": "形容词 aufrichtig；比 Ehrlichkeit 更书面"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Heuchelei",
+  "art": "die",
+  "pl_full": "die Heucheleien",
+  "pos": "n",
+  "zh": "虚伪",
+  "ex": [
+   "Seine Heuchelei wurde erst bei der Betriebsfeier sichtbar."
+  ],
+  "ex_zh": "直到公司聚会上，他的虚伪才暴露出来。",
+  "use": {
+   "col": [
+    [
+     "reine Heuchelei",
+     "纯粹的虚伪"
+    ],
+    [
+     "Heuchelei vorwerfen",
+     "指责虚伪"
+    ]
+   ],
+   "tip": "动词 heucheln；Heuchler 伪君子"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Überheblichkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "傲慢；自大",
+  "ex": [
+   "Seine Überheblichkeit macht ihn bei den Kollegen unbeliebt."
+  ],
+  "ex_zh": "他的傲慢让他在同事中不受欢迎。",
+  "use": {
+   "col": [
+    [
+     "von Überheblichkeit zeugen",
+     "显出傲慢"
+    ],
+    [
+     "jede Überheblichkeit vermeiden",
+     "避免任何傲慢"
+    ]
+   ],
+   "tip": "形容词 überheblich；近义 Arroganz"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Sturheit",
+  "art": "die",
+  "pos": "n",
+  "zh": "固执；执拗",
+  "ex": [
+   "Aus purer Sturheit weigerte er sich, den Fehler zuzugeben."
+  ],
+  "ex_zh": "纯粹出于固执，他拒绝承认错误。",
+  "use": {
+   "col": [
+    [
+     "aus Sturheit",
+     "出于固执"
+    ],
+    [
+     "Sturheit zeigen",
+     "表现固执"
+    ]
+   ],
+   "tip": "形容词 stur；口语，略贬义"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Widerstandsfähigkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "抵抗力；韧性",
+  "ex": [
+   "Regelmäßiger Sport erhöht die Widerstandsfähigkeit gegen Stress und Krankheiten."
+  ],
+  "ex_zh": "规律运动能提高对压力和疾病的抵抗力。",
+  "use": {
+   "col": [
+    [
+     "die Widerstandsfähigkeit stärken",
+     "增强抵抗力"
+    ],
+    [
+     "geringe Widerstandsfähigkeit",
+     "抵抗力弱"
+    ]
+   ],
+   "tip": "形容词 widerstandsfähig；近义 Resilienz"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Zuwendung",
+  "art": "die",
+  "pl_full": "die Zuwendungen",
+  "pos": "n",
+  "zh": "关爱；捐助",
+  "ex": [
+   "Kleine Kinder brauchen vor allem liebevolle Zuwendung und klare Regeln."
+  ],
+  "ex_zh": "小孩子最需要的是温柔的关爱和明确的规矩。",
+  "use": {
+   "senses": [
+    "关爱",
+    "（款项）资助"
+   ],
+   "col": [
+    [
+     "Zuwendung brauchen",
+     "需要关爱"
+    ],
+    [
+     "liebevolle Zuwendung",
+     "温柔的关爱"
+    ]
+   ],
+   "tip": "也指款项：finanzielle Zuwendungen 资助"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Zuneigung",
+  "art": "die",
+  "pos": "n",
+  "zh": "好感；喜爱",
+  "ex": [
+   "Sie empfand tiefe Zuneigung für den alten Nachbarn."
+  ],
+  "ex_zh": "她对这位老邻居怀有深厚的感情。",
+  "use": {
+   "col": [
+    [
+     "Zuneigung empfinden",
+     "产生好感"
+    ],
+    [
+     "jemandem Zuneigung zeigen",
+     "对某人表示喜爱"
+    ]
+   ],
+   "tip": "反义 Abneigung；动词 zuneigen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Abneigung",
+  "art": "die",
+  "pl_full": "die Abneigungen",
+  "pos": "n",
+  "zh": "反感",
+  "ex": [
+   "Er hat eine starke Abneigung gegen große Menschenmengen und laute Orte."
+  ],
+  "ex_zh": "他对大批人群和嘈杂场合有很强的反感。",
+  "gov": "Abneigung gegen + Akk.",
+  "use": {
+   "col": [
+    [
+     "eine Abneigung gegen jemanden haben",
+     "对某人反感"
+    ],
+    [
+     "Abneigung empfinden",
+     "感到厌恶"
+    ]
+   ],
+   "tip": "反义 Zuneigung；比 Hass 轻"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Verachtung",
+  "art": "die",
+  "pos": "n",
+  "zh": "鄙视",
+  "ex": [
+   "Seine Lügen lösten bei den Kollegen nur Verachtung aus."
+  ],
+  "ex_zh": "他的谎言只引来了同事的鄙视。",
+  "use": {
+   "col": [
+    [
+     "Verachtung zeigen",
+     "表示鄙视"
+    ],
+    [
+     "mit Verachtung strafen",
+     "以蔑视惩罚（不理睬）"
+    ]
+   ],
+   "tip": "动词 verachten；形容词 verächtlich"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Misstrauen",
+  "art": "das",
+  "pos": "n",
+  "zh": "不信任",
+  "ex": [
+   "Das Misstrauen gegenüber den Medien ist in den letzten Jahren gewachsen."
+  ],
+  "ex_zh": "近年来对媒体的不信任在增加。",
+  "gov": "Misstrauen gegenüber + Dat.",
+  "use": {
+   "col": [
+    [
+     "Misstrauen hegen",
+     "心存疑虑"
+    ],
+    [
+     "auf Misstrauen stoßen",
+     "遇到不信任"
+    ]
+   ],
+   "tip": "形容词 misstrauisch；反义 Vertrauen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Scheu",
+  "art": "die",
+  "pos": "n",
+  "zh": "畏惧；怯场",
+  "ex": [
+   "Aus Scheu vor dem Chef traute sie sich nicht, die Frage zu stellen."
+  ],
+  "ex_zh": "出于对老板的畏惧，她不敢提问。",
+  "use": {
+   "col": [
+    [
+     "ohne Scheu",
+     "毫无顾忌地"
+    ],
+    [
+     "Scheu überwinden",
+     "克服怯意"
+    ]
+   ],
+   "tip": "形容词 scheu（胆怯的）；动词 scheuen 回避"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Hemmung",
+  "art": "die",
+  "pl_full": "die Hemmungen",
+  "pos": "n",
+  "zh": "顾虑；拘束",
+  "ex": [
+   "Er hat keine Hemmungen, vor großem Publikum zu sprechen."
+  ],
+  "ex_zh": "他在大批听众面前讲话毫无拘束。",
+  "use": {
+   "col": [
+    [
+     "Hemmungen haben",
+     "有顾虑"
+    ],
+    [
+     "seine Hemmungen überwinden",
+     "克服拘束"
+    ]
+   ],
+   "tip": "常用复数；形容词 gehemmt；动词 hemmen 阻碍"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Verlegenheit",
+  "art": "die",
+  "pl_full": "die Verlegenheiten",
+  "pos": "n",
+  "zh": "尴尬；窘境",
+  "ex": [
+   "Aus Verlegenheit begann er, über das Wetter zu sprechen."
+  ],
+  "ex_zh": "出于尴尬，他开始谈论天气。",
+  "use": {
+   "col": [
+    [
+     "jemanden in Verlegenheit bringen",
+     "使某人为难"
+    ],
+    [
+     "in Verlegenheit geraten",
+     "陷入窘境"
+    ]
+   ],
+   "tip": "形容词 verlegen；也指经济上的窘迫"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Entschlossenheit",
+  "art": "die",
+  "pos": "n",
+  "zh": "决心；果断",
+  "ex": [
+   "Mit großer Entschlossenheit verfolgte sie ihr Ziel, Ärztin zu werden."
+  ],
+  "ex_zh": "她以极大的决心追求成为医生的目标。",
+  "use": {
+   "col": [
+    [
+     "Entschlossenheit zeigen",
+     "展现决心"
+    ],
+    [
+     "mit Entschlossenheit",
+     "坚决地"
+    ]
+   ],
+   "tip": "形容词 entschlossen；动词 sich entschließen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Selbstzweifel",
+  "art": "der",
+  "pl_full": "die Selbstzweifel",
+  "pos": "n",
+  "zh": "自我怀疑",
+  "ex": [
+   "Nach dem Misserfolg bei der Prüfung plagten ihn wochenlang Selbstzweifel."
+  ],
+  "ex_zh": "考试失利之后，自我怀疑折磨了他好几周。",
+  "use": {
+   "col": [
+    [
+     "Selbstzweifel haben",
+     "自我怀疑"
+    ],
+    [
+     "von Selbstzweifeln geplagt",
+     "被自我怀疑困扰"
+    ]
+   ],
+   "tip": "常用复数；反义 Selbstvertrauen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Selbstwertgefühl",
+  "art": "das",
+  "pos": "n",
+  "zh": "自我价值感",
+  "ex": [
+   "Dauernde Kritik kann das Selbstwertgefühl eines Kindes stark beeinträchtigen."
+  ],
+  "ex_zh": "持续的批评会严重损害孩子的自我价值感。",
+  "use": {
+   "col": [
+    [
+     "ein gesundes Selbstwertgefühl",
+     "健康的自我价值感"
+    ],
+    [
+     "das Selbstwertgefühl stärken",
+     "增强自我价值感"
+    ]
+   ],
+   "tip": "心理学常用词；与 Selbstbewusstsein 相近"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Selbstreflexion",
+  "art": "die",
+  "pos": "n",
+  "zh": "自我反思",
+  "ex": [
+   "Regelmäßige Selbstreflexion hilft dabei, aus den eigenen Fehlern zu lernen."
+  ],
+  "ex_zh": "经常自我反思有助于从自己的错误中学习。",
+  "use": {
+   "col": [
+    [
+     "zur Selbstreflexion fähig sein",
+     "有自我反思能力"
+    ],
+    [
+     "Selbstreflexion üben",
+     "练习自我反思"
+    ]
+   ],
+   "tip": "动词 reflektieren；形容词 selbstkritisch"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Körpersprache",
+  "art": "die",
+  "pos": "n",
+  "zh": "肢体语言",
+  "ex": [
+   "Seine Körpersprache verriet, dass er sich unwohl fühlte."
+  ],
+  "ex_zh": "他的肢体语言透露出他很不自在。",
+  "use": {
+   "col": [
+    [
+     "die Körpersprache deuten",
+     "解读肢体语言"
+    ],
+    [
+     "eine offene Körpersprache",
+     "开放的肢体语言"
+    ]
+   ],
+   "tip": "相关：Mimik 表情，Gestik 手势"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Verspannung",
+  "art": "die",
+  "pl_full": "die Verspannungen",
+  "pos": "n",
+  "zh": "肌肉紧绷",
+  "ex": [
+   "Vom langen Sitzen am Computer bekommt man leicht Verspannungen im Nacken."
+  ],
+  "ex_zh": "长时间坐在电脑前，脖子容易紧绷酸痛。",
+  "use": {
+   "col": [
+    [
+     "Verspannungen lösen",
+     "缓解肌肉紧绷"
+    ],
+    [
+     "Nackenverspannungen",
+     "颈部僵硬"
+    ]
+   ],
+   "tip": "动词 sich verspannen；形容词 verspannt"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Bandscheibenvorfall",
+  "art": "der",
+  "pl_full": "die Bandscheibenvorfälle",
+  "pos": "n",
+  "zh": "椎间盘突出",
+  "ex": [
+   "Nach einem Bandscheibenvorfall musste er monatelang mit dem Sport pausieren."
+  ],
+  "ex_zh": "椎间盘突出之后，他有好几个月不得不停止运动。",
+  "use": {
+   "col": [
+    [
+     "einen Bandscheibenvorfall haben",
+     "椎间盘突出"
+    ],
+    [
+     "nach einem Bandscheibenvorfall",
+     "椎间盘突出之后"
+    ]
+   ],
+   "tip": "Bandscheibe 椎间盘"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Haltung",
+  "art": "die",
+  "pl_full": "die Haltungen",
+  "pos": "n",
+  "zh": "姿势；态度",
+  "ex": [
+   "Eine falsche Haltung am Schreibtisch kann auf Dauer zu Rückenproblemen führen."
+  ],
+  "ex_zh": "在书桌前姿势不对，长期会引起背部问题。",
+  "use": {
+   "senses": [
+    "（身体）姿势",
+    "态度；立场"
+   ],
+   "col": [
+    [
+     "eine gerade Haltung",
+     "挺直的姿势"
+    ],
+    [
+     "eine kritische Haltung",
+     "批判的态度"
+    ]
+   ],
+   "tip": "Körperhaltung 身体姿势；也指立场、态度"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Durchblutung",
+  "art": "die",
+  "pos": "n",
+  "zh": "血液循环",
+  "ex": [
+   "Bewegung fördert die Durchblutung und senkt den Blutdruck."
+  ],
+  "ex_zh": "运动能促进血液循环并降低血压。",
+  "use": {
+   "col": [
+    [
+     "die Durchblutung fördern",
+     "促进血液循环"
+    ],
+    [
+     "eine schlechte Durchblutung",
+     "血液循环不良"
+    ]
+   ],
+   "tip": "动词 durchbluten；Blut 血"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Stoffwechsel",
+  "art": "der",
+  "pos": "n",
+  "zh": "新陈代谢",
+  "ex": [
+   "Mit zunehmendem Alter verlangsamt sich der Stoffwechsel, deshalb nimmt man leichter zu."
+  ],
+  "ex_zh": "随着年龄增长，新陈代谢变慢，所以更容易发胖。",
+  "use": {
+   "col": [
+    [
+     "den Stoffwechsel anregen",
+     "促进新陈代谢"
+    ],
+    [
+     "ein langsamer Stoffwechsel",
+     "新陈代谢缓慢"
+    ]
+   ],
+   "tip": "Stoff 物质，wechseln 交换"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Eingriff",
+  "art": "der",
+  "pl_full": "die Eingriffe",
+  "pos": "n",
+  "zh": "手术；干预",
+  "ex": [
+   "Der operative Eingriff dauerte nur etwa eine halbe Stunde."
+  ],
+  "ex_zh": "这次手术只花了半小时左右。",
+  "use": {
+   "senses": [
+    "（医疗）手术",
+    "干预；侵害"
+   ],
+   "col": [
+    [
+     "ein operativer Eingriff",
+     "外科手术"
+    ],
+    [
+     "ein Eingriff in die Rechte",
+     "对权利的干预"
+    ]
+   ],
+   "tip": "医学上是「小型手术」的委婉说法；也是「干预」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Transplantation",
+  "art": "die",
+  "pl_full": "die Transplantationen",
+  "pos": "n",
+  "zh": "移植",
+  "ex": [
+   "Nach der Transplantation muss er lebenslang Medikamente nehmen."
+  ],
+  "ex_zh": "移植之后，他得终身服药。",
+  "use": {
+   "col": [
+    [
+     "eine Transplantation durchführen",
+     "进行移植手术"
+    ],
+    [
+     "auf eine Transplantation warten",
+     "等待移植"
+    ]
+   ],
+   "tip": "Organspende 器官捐献；动词 transplantieren"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Intensivstation",
+  "art": "die",
+  "pl_full": "die Intensivstationen",
+  "pos": "n",
+  "zh": "重症监护室",
+  "ex": [
+   "Wegen der schweren Lungenentzündung liegt er seit Tagen auf der Intensivstation."
+  ],
+  "ex_zh": "因为严重的肺炎，他已经在重症监护室躺了好几天。",
+  "use": {
+   "col": [
+    [
+     "auf der Intensivstation liegen",
+     "在重症监护室"
+    ],
+    [
+     "auf die Intensivstation verlegen",
+     "转入重症监护"
+    ]
+   ],
+   "tip": "auf der Intensivstation；缩写 ITS"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Pflegebedürftigkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "需要护理的状态",
+  "ex": [
+   "Mit zunehmendem Alter steigt das Risiko einer Pflegebedürftigkeit."
+  ],
+  "ex_zh": "随着年龄增长，需要护理的风险也会增加。",
+  "use": {
+   "col": [
+    [
+     "bei Pflegebedürftigkeit",
+     "在需要护理时"
+    ],
+    [
+     "Pflegebedürftigkeit feststellen",
+     "认定护理需求"
+    ]
+   ],
+   "tip": "形容词 pflegebedürftig；Pflegegrad 护理等级"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Lebenserwartung",
+  "art": "die",
+  "pl_full": "die Lebenserwartungen",
+  "pos": "n",
+  "zh": "预期寿命",
+  "ex": [
+   "Die durchschnittliche Lebenserwartung in Deutschland liegt bei über 80 Jahren."
+  ],
+  "ex_zh": "德国人的平均预期寿命超过八十岁。",
+  "use": {
+   "col": [
+    [
+     "die Lebenserwartung steigt",
+     "预期寿命提高"
+    ],
+    [
+     "eine hohe Lebenserwartung",
+     "较高的预期寿命"
+    ]
+   ],
+   "tip": "统计用语；动词 erwarten"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Früherkennung",
+  "art": "die",
+  "pos": "n",
+  "zh": "早期发现",
+  "ex": [
+   "Die Früherkennung von Krebs rettet jedes Jahr viele Leben."
+  ],
+  "ex_zh": "癌症的早期发现每年挽救许多生命。",
+  "use": {
+   "col": [
+    [
+     "zur Früherkennung",
+     "为了早期发现"
+    ],
+    [
+     "Früherkennung von Krebs",
+     "癌症早期筛查"
+    ]
+   ],
+   "tip": "Vorsorge 预防；Früherkennung 偏筛查"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Prävention",
+  "art": "die",
+  "pos": "n",
+  "zh": "预防",
+  "ex": [
+   "Prävention ist oft günstiger als die spätere Behandlung."
+  ],
+  "ex_zh": "预防往往比事后治疗便宜。",
+  "use": {
+   "col": [
+    [
+     "Prävention betreiben",
+     "开展预防"
+    ],
+    [
+     "gesundheitliche Prävention",
+     "健康预防"
+    ]
+   ],
+   "tip": "动词 vorbeugen；形容词 präventiv"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Pandemie",
+  "art": "die",
+  "pl_full": "die Pandemien",
+  "pos": "n",
+  "zh": "大流行病",
+  "ex": [
+   "Die Pandemie hat das Arbeiten von zu Hause dauerhaft verändert."
+  ],
+  "ex_zh": "大流行彻底改变了居家办公。",
+  "use": {
+   "col": [
+    [
+     "eine Pandemie ausrufen",
+     "宣布大流行"
+    ],
+    [
+     "während der Pandemie",
+     "大流行期间"
+    ]
+   ],
+   "tip": "区别于 Epidemie（地区性流行）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Erreger",
+  "art": "der",
+  "pl_full": "die Erreger",
+  "pos": "n",
+  "zh": "病原体",
+  "ex": [
+   "Der Erreger wird vor allem über Tröpfchen übertragen."
+  ],
+  "ex_zh": "病原体主要通过飞沫传播。",
+  "use": {
+   "col": [
+    [
+     "einen Erreger nachweisen",
+     "检出病原体"
+    ],
+    [
+     "ein gefährlicher Erreger",
+     "危险的病原体"
+    ]
+   ],
+   "tip": "Virus、Bakterie 的上位词；动词 erregen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Antibiotikum",
+  "art": "das",
+  "pl_full": "die Antibiotika",
+  "pos": "n",
+  "zh": "抗生素",
+  "ex": [
+   "Gegen eine reine Viruserkrankung wie die Grippe hilft kein Antibiotikum."
+  ],
+  "ex_zh": "对于流感这样的纯病毒性疾病，抗生素没有用。",
+  "use": {
+   "col": [
+    [
+     "ein Antibiotikum nehmen",
+     "吃抗生素"
+    ],
+    [
+     "resistent gegen Antibiotika",
+     "对抗生素耐药"
+    ]
+   ],
+   "tip": "复数 Antibiotika；形容词 antibiotisch"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Impfstoff",
+  "art": "der",
+  "pl_full": "die Impfstoffe",
+  "pos": "n",
+  "zh": "疫苗",
+  "ex": [
+   "Der neue Impfstoff wird derzeit in mehreren Ländern getestet."
+  ],
+  "ex_zh": "新疫苗目前在多个国家进行测试。",
+  "use": {
+   "col": [
+    [
+     "einen Impfstoff entwickeln",
+     "研发疫苗"
+    ],
+    [
+     "ein wirksamer Impfstoff",
+     "有效疫苗"
+    ]
+   ],
+   "tip": "动词 impfen；Impfung 是接种行为"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Quarantäne",
+  "art": "die",
+  "pl_full": "die Quarantänen",
+  "pos": "n",
+  "zh": "隔离",
+  "ex": [
+   "Nach dem Kontakt musste die ganze Klasse in Quarantäne."
+  ],
+  "ex_zh": "接触后，整个班级都得隔离。",
+  "use": {
+   "col": [
+    [
+     "in Quarantäne gehen",
+     "进入隔离"
+    ],
+    [
+     "unter Quarantäne stehen",
+     "处于隔离中"
+    ]
+   ],
+   "tip": "发音 [karanˈtɛːnə]"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Magersucht",
+  "art": "die",
+  "pos": "n",
+  "zh": "神经性厌食症",
+  "ex": [
+   "Magersucht betrifft vor allem junge Frauen und erfordert eine Therapie."
+  ],
+  "ex_zh": "神经性厌食症主要影响年轻女性，需要治疗。",
+  "use": {
+   "col": [
+    [
+     "an Magersucht leiden",
+     "患厌食症"
+    ],
+    [
+     "an Magersucht erkranken",
+     "罹患厌食症"
+    ]
+   ],
+   "tip": "医学名 Anorexie；Essstörung 进食障碍"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Essstörung",
+  "art": "die",
+  "pl_full": "die Essstörungen",
+  "pos": "n",
+  "zh": "进食障碍",
+  "ex": [
+   "Eine Essstörung zeigt sich oft schon in der Jugend."
+  ],
+  "ex_zh": "进食障碍往往在青春期就显现出来。",
+  "use": {
+   "col": [
+    [
+     "an einer Essstörung leiden",
+     "患进食障碍"
+    ],
+    [
+     "eine Essstörung behandeln",
+     "治疗进食障碍"
+    ]
+   ],
+   "tip": "Magersucht（厌食）、Bulimie（暴食症）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Nahrungsergänzungsmittel",
+  "art": "das",
+  "pl_full": "die Nahrungsergänzungsmittel",
+  "pos": "n",
+  "zh": "营养补充剂",
+  "ex": [
+   "Nahrungsergänzungsmittel können eine ausgewogene Ernährung nicht ersetzen, sondern höchstens ergänzen."
+  ],
+  "ex_zh": "营养补充剂无法取代均衡饮食，最多只能起到补充作用。",
+  "use": {
+   "col": [
+    [
+     "Nahrungsergänzungsmittel einnehmen",
+     "服用营养补充剂"
+    ],
+    [
+     "Nahrungsergänzungsmittel kaufen",
+     "购买营养补充剂"
+    ]
+   ],
+   "tip": "缩写 NEM；药店和超市都有卖"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Leistungsdruck",
+  "art": "der",
+  "pos": "n",
+  "zh": "业绩压力",
+  "ex": [
+   "Der ständige Leistungsdruck macht vielen Studierenden zu schaffen."
+  ],
+  "ex_zh": "持续的成绩压力让许多大学生难以承受。",
+  "use": {
+   "col": [
+    [
+     "unter Leistungsdruck stehen",
+     "面临业绩压力"
+    ],
+    [
+     "Leistungsdruck abbauen",
+     "减轻压力"
+    ]
+   ],
+   "tip": "Leistung 成绩；Druck 压力"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Leistungssport",
+  "art": "der",
+  "pos": "n",
+  "zh": "竞技体育",
+  "ex": [
+   "Im Leistungssport entscheiden oft nur Sekundenbruchteile über Sieg oder Niederlage."
+  ],
+  "ex_zh": "在竞技体育中，往往只差几分之一秒就决定了胜负。",
+  "use": {
+   "col": [
+    [
+     "Leistungssport betreiben",
+     "从事竞技体育"
+    ],
+    [
+     "im Leistungssport",
+     "在竞技体育中"
+    ]
+   ],
+   "tip": "对立面 Breitensport（大众体育）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich auskurieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "auskuriert",
+  "forms": "kuriert sich aus, kurierte sich aus, hat sich auskuriert",
+  "zh": "彻底养好病",
+  "ex": [
+   "Bleib noch ein paar Tage zu Hause und kuriere dich richtig aus."
+  ],
+  "ex_zh": "再在家待几天，把病彻底养好。",
+  "use": {
+   "col": [
+    [
+     "eine Grippe auskurieren",
+     "把流感治好"
+    ],
+    [
+     "sich richtig auskurieren",
+     "彻底养好"
+    ]
+   ],
+   "tip": "可分动词；口语，带点「好好养」的意味"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "abklingen",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "abgeklungen",
+  "forms": "klingt ab, klang ab, ist abgeklungen",
+  "zh": "减弱；消退",
+  "ex": [
+   "Das Fieber ist über Nacht abgeklungen, die Schmerzen aber bleiben."
+  ],
+  "ex_zh": "发烧夜里退了，但疼痛还在。",
+  "use": {
+   "col": [
+    [
+     "Die Schmerzen klingen ab.",
+     "疼痛减轻。"
+    ],
+    [
+     "abklingende Symptome",
+     "逐渐消退的症状"
+    ]
+   ],
+   "tip": "可分动词；也可用于声音、情绪、热潮"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "nachlassen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "nachgelassen",
+  "forms": "lässt nach, ließ nach, hat nachgelassen",
+  "zh": "减弱；松懈",
+  "ex": [
+   "Seit der Therapie haben die Beschwerden deutlich nachgelassen."
+  ],
+  "ex_zh": "接受治疗后，症状明显减轻了。",
+  "use": {
+   "col": [
+    [
+     "Die Schmerzen lassen nach.",
+     "疼痛减轻。"
+    ],
+    [
+     "in der Leistung nachlassen",
+     "成绩/表现下滑"
+    ]
+   ],
+   "tip": "可分动词；也指「表现下降」，比 abklingen 更宽泛"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich verschlimmern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verschlimmert",
+  "forms": "verschlimmert sich, verschlimmerte sich, hat sich verschlimmert",
+  "zh": "恶化；加重",
+  "ex": [
+   "Wenn sich die Symptome verschlimmern, sollten Sie sofort wiederkommen."
+  ],
+  "ex_zh": "如果症状加重，请立刻回来。",
+  "use": {
+   "col": [
+    [
+     "Die Lage verschlimmert sich.",
+     "情况恶化。"
+    ],
+    [
+     "den Zustand verschlimmern",
+     "使状况恶化"
+    ]
+   ],
+   "tip": "反义 sich bessern；近义 sich verschlechtern"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich bessern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gebessert",
+  "forms": "bessert sich, besserte sich, hat sich gebessert",
+  "zh": "好转",
+  "ex": [
+   "Sein Zustand hat sich in den letzten Tagen langsam gebessert."
+  ],
+  "ex_zh": "这几天他的状况慢慢好转了。",
+  "use": {
+   "col": [
+    [
+     "Das Wetter bessert sich.",
+     "天气好转。"
+    ],
+    [
+     "sich bessern wollen",
+     "想改过自新"
+    ]
+   ],
+   "tip": "名词 die Besserung；Gute Besserung! 祝早日康复"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "lindern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gelindert",
+  "forms": "lindert, linderte, hat gelindert",
+  "zh": "缓解；减轻",
+  "ex": [
+   "Diese Salbe lindert den Juckreiz nach wenigen Minuten."
+  ],
+  "ex_zh": "这种药膏几分钟内就能缓解瘙痒。",
+  "use": {
+   "col": [
+    [
+     "Schmerzen lindern",
+     "缓解疼痛"
+    ],
+    [
+     "die Not lindern",
+     "减轻困苦"
+    ]
+   ],
+   "tip": "名词 die Linderung；比 mildern 更多用于病痛"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich zuziehen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "zugezogen",
+  "forms": "zieht sich zu, zog sich zu, hat sich zugezogen",
+  "zh": "染上；招致（病、伤）",
+  "ex": [
+   "Bei dem Unfall hat er sich schwere Verletzungen zugezogen."
+  ],
+  "ex_zh": "事故中他受了重伤。",
+  "gov": "sich (Dat.) etw. zuziehen",
+  "use": {
+   "col": [
+    [
+     "sich eine Erkältung zuziehen",
+     "染上感冒"
+    ],
+    [
+     "sich eine Verletzung zuziehen",
+     "受伤"
+    ]
+   ],
+   "tip": "书面语；第三格 sich (Dat.)；口语用 bekommen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "erleiden",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "erlitten",
+  "forms": "erleidet, erlitt, hat erlitten",
+  "zh": "遭受；蒙受",
+  "ex": [
+   "Bei dem schweren Sturz vom Fahrrad erlitt sie mehrere Knochenbrüche."
+  ],
+  "ex_zh": "从自行车上严重摔倒时，她多处骨折。",
+  "use": {
+   "col": [
+    [
+     "einen Herzinfarkt erleiden",
+     "心梗发作"
+    ],
+    [
+     "eine Niederlage erleiden",
+     "遭受失败"
+    ]
+   ],
+   "tip": "不可分、不规则；常见搭配：Schaden / Verluste erleiden"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "kollabieren",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "kollabiert",
+  "forms": "kollabiert, kollabierte, ist kollabiert",
+  "zh": "虚脱；崩溃",
+  "ex": [
+   "Der Läufer kollabierte kurz vor dem Ziel und wurde sofort behandelt."
+  ],
+  "ex_zh": "那名跑者在接近终点时虚脱了，立刻得到救治。",
+  "use": {
+   "senses": [
+    "虚脱",
+    "崩溃"
+   ],
+   "col": [
+    [
+     "plötzlich kollabieren",
+     "突然虚脱"
+    ],
+    [
+     "Das System kollabiert.",
+     "系统崩溃。"
+    ]
+   ],
+   "tip": "医学上指循环衰竭；也用于系统、市场的崩溃"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verabreichen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verabreicht",
+  "forms": "verabreicht, verabreichte, hat verabreicht",
+  "zh": "给药；注射",
+  "ex": [
+   "Dem Patienten wurde auf der Station ein starkes Schmerzmittel verabreicht."
+  ],
+  "ex_zh": "病房里给病人用了一种强效止痛药。",
+  "use": {
+   "col": [
+    [
+     "ein Medikament verabreichen",
+     "给药"
+    ],
+    [
+     "eine Spritze verabreichen",
+     "打针"
+    ]
+   ],
+   "tip": "书面、医学用语；名词 die Verabreichung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "einweisen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingewiesen",
+  "forms": "weist ein, wies ein, hat eingewiesen",
+  "zh": "送入（医院）；指导",
+  "ex": [
+   "Nach dem Sturz wurde die alte Dame ins Krankenhaus eingewiesen."
+  ],
+  "ex_zh": "摔倒之后，这位老太太被送进了医院。",
+  "use": {
+   "senses": [
+    "送入医院",
+    "指导；上岗培训"
+   ],
+   "col": [
+    [
+     "ins Krankenhaus einweisen",
+     "送入医院"
+    ],
+    [
+     "jemanden in eine Arbeit einweisen",
+     "指导某人入手工作"
+    ]
+   ],
+   "tip": "名词 die Einweisung；也指对新同事的「培训介绍」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verheilen",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "verheilt",
+  "forms": "verheilt, verheilte, ist verheilt",
+  "zh": "愈合",
+  "ex": [
+   "Die Wunde ist gut verheilt, nur eine kleine Narbe bleibt."
+  ],
+  "ex_zh": "伤口愈合得很好，只留下一道小疤。",
+  "use": {
+   "col": [
+    [
+     "gut verheilen",
+     "愈合良好"
+    ],
+    [
+     "Die Wunde verheilt langsam.",
+     "伤口愈合缓慢"
+    ]
+   ],
+   "tip": "完成时用 sein；名词 die Narbe 疤痕"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verkraften",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verkraftet",
+  "forms": "verkraftet, verkraftete, hat verkraftet",
+  "zh": "承受得住；消化（打击）",
+  "ex": [
+   "Sie hat den Tod ihres Mannes nur schwer verkraftet."
+  ],
+  "ex_zh": "她很难承受丈夫的去世。",
+  "use": {
+   "col": [
+    [
+     "einen Verlust verkraften",
+     "承受损失"
+    ],
+    [
+     "nicht zu verkraften sein",
+     "难以承受"
+    ]
+   ],
+   "tip": "不可分动词；比 ertragen 更强调「消化」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "bewältigen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bewältigt",
+  "forms": "bewältigt, bewältigte, hat bewältigt",
+  "zh": "克服；应付",
+  "ex": [
+   "Mit der Therapie lernte er, seine Ängste besser zu bewältigen."
+  ],
+  "ex_zh": "通过治疗，他学会了更好地应对自己的恐惧。",
+  "use": {
+   "col": [
+    [
+     "eine Krise bewältigen",
+     "渡过危机"
+    ],
+    [
+     "den Alltag bewältigen",
+     "应付日常生活"
+    ]
+   ],
+   "tip": "名词 die Bewältigung；书面，强调成功处理困难"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verarbeiten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verarbeitet",
+  "forms": "verarbeitet, verarbeitete, hat verarbeitet",
+  "zh": "消化（情感）；加工",
+  "ex": [
+   "Es dauert, bis man so ein Erlebnis richtig verarbeitet hat."
+  ],
+  "ex_zh": "要过一段时间，才能真正消化这样的经历。",
+  "use": {
+   "senses": [
+    "（心理）消化",
+    "加工；处理"
+   ],
+   "col": [
+    [
+     "ein Erlebnis verarbeiten",
+     "消化一段经历"
+    ],
+    [
+     "Daten verarbeiten",
+     "处理数据"
+    ]
+   ],
+   "tip": "名词 die Verarbeitung；可指加工和处理"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verdrängen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verdrängt",
+  "forms": "verdrängt, verdrängte, hat verdrängt",
+  "zh": "压抑；排挤",
+  "ex": [
+   "Sie hat die schlimmen Erinnerungen an den Unfall jahrelang verdrängt."
+  ],
+  "ex_zh": "她多年来一直压抑着对那次事故的糟糕回忆。",
+  "use": {
+   "senses": [
+    "（心理）压抑",
+    "排挤；取代"
+   ],
+   "col": [
+    [
+     "Gefühle verdrängen",
+     "压抑情感"
+    ],
+    [
+     "jemanden vom Markt verdrängen",
+     "把某人挤出市场"
+    ]
+   ],
+   "tip": "名词 die Verdrängung；心理学术语也很常用"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "grübeln",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gegrübelt",
+  "forms": "grübelt, grübelte, hat gegrübelt",
+  "zh": "苦思；钻牛角尖",
+  "ex": [
+   "Er grübelt ständig darüber, ob er die richtige Entscheidung getroffen hat."
+  ],
+  "ex_zh": "他总是在琢磨自己是否做对了决定。",
+  "gov": "grübeln über + Akk.",
+  "use": {
+   "col": [
+    [
+     "über etw. grübeln",
+     "为某事苦思"
+    ],
+    [
+     "nächtelang grübeln",
+     "彻夜思索"
+    ]
+   ],
+   "tip": "常带负面色彩，思来想去；名词 das Grübeln"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "hadern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gehadert",
+  "forms": "hadert, haderte, hat gehadert",
+  "zh": "抱怨；不满（与命运等）",
+  "ex": [
+   "Er haderte lange mit seinem Schicksal, bevor er neu anfing."
+  ],
+  "ex_zh": "他与自己的命运纠结了很久，才重新开始。",
+  "gov": "hadern mit + Dat.",
+  "use": {
+   "col": [
+    [
+     "mit dem Schicksal hadern",
+     "埋怨命运"
+    ],
+    [
+     "mit sich selbst hadern",
+     "与自己较劲"
+    ]
+   ],
+   "tip": "书面；常搭配 mit + Dat."
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich sehnen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gesehnt",
+  "forms": "sehnt sich, sehnte sich, hat sich gesehnt",
+  "zh": "渴望；思念",
+  "ex": [
+   "Nach dem langen Winter sehnen sich alle nach Sonne und Wärme."
+  ],
+  "ex_zh": "漫长的冬天过后，大家都渴望阳光和温暖。",
+  "gov": "sich sehnen nach + Dat.",
+  "use": {
+   "col": [
+    [
+     "sich nach Ruhe sehnen",
+     "渴望宁静"
+    ],
+    [
+     "sich nach der Heimat sehnen",
+     "思念家乡"
+    ]
+   ],
+   "tip": "名词 die Sehnsucht；书面感较强"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "bereuen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bereut",
+  "forms": "bereut, bereute, hat bereut",
+  "zh": "后悔",
+  "ex": [
+   "Ich bereue es nicht, ins Ausland gezogen zu sein."
+  ],
+  "ex_zh": "我不后悔搬到国外来。",
+  "use": {
+   "col": [
+    [
+     "eine Entscheidung bereuen",
+     "后悔一个决定"
+    ],
+    [
+     "nichts bereuen",
+     "毫不后悔"
+    ]
+   ],
+   "tip": "名词 die Reue；比 leidtun 更强，用于重大选择"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "zurückschrecken",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "zurückgeschreckt",
+  "forms": "schreckt zurück, schreckte zurück, ist zurückgeschreckt",
+  "zh": "退缩；吓得后退",
+  "ex": [
+   "Er schreckte nicht davor zurück, die Wahrheit offen auszusprechen."
+  ],
+  "ex_zh": "他毫不畏缩，坦率说出了真相。",
+  "gov": "zurückschrecken vor + Dat.",
+  "use": {
+   "col": [
+    [
+     "vor etw. zurückschrecken",
+     "对某事却步"
+    ],
+    [
+     "nicht davor zurückschrecken",
+     "不惮于"
+    ]
+   ],
+   "tip": "完成时用 sein；常用于否定「不惜、不惮」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verzagen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verzagt",
+  "forms": "verzagt, verzagte, hat verzagt",
+  "zh": "气馁；丧失信心",
+  "ex": [
+   "Auch nach der dritten Absage verzagte sie nicht und bewarb sich weiter."
+  ],
+  "ex_zh": "即使收到第三封拒信，她也没有气馁，继续投递。",
+  "use": {
+   "col": [
+    [
+     "nicht verzagen",
+     "不气馁"
+    ],
+    [
+     "verzagt sein",
+     "灰心丧气"
+    ]
+   ],
+   "tip": "书面；形容词 verzagt；近义 den Mut verlieren"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "resignieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "resigniert",
+  "forms": "resigniert, resignierte, hat resigniert",
+  "zh": "认命；灰心放弃",
+  "ex": [
+   "Nach mehreren Absagen hat er resigniert und die Suche aufgegeben."
+  ],
+  "ex_zh": "几次被拒后，他灰心放弃了寻找。",
+  "use": {
+   "col": [
+    [
+     "resigniert aufgeben",
+     "灰心地放弃"
+    ],
+    [
+     "müde und resigniert",
+     "疲惫而灰心"
+    ]
+   ],
+   "tip": "名词 die Resignation；形容词 resigniert"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "schwärmen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "geschwärmt",
+  "forms": "schwärmt, schwärmte, hat geschwärmt",
+  "zh": "热情赞叹；迷恋",
+  "ex": [
+   "Meine Kollegin schwärmt noch immer von ihrer Reise nach Portugal."
+  ],
+  "ex_zh": "我同事至今还在热情地讲她的葡萄牙之旅。",
+  "gov": "schwärmen von / für + Dat./Akk.",
+  "use": {
+   "col": [
+    [
+     "von etw. schwärmen",
+     "对某事赞不绝口"
+    ],
+    [
+     "für jemanden schwärmen",
+     "迷恋某人"
+    ]
+   ],
+   "tip": "名词 die Schwärmerei；von（赞美）或 für（迷恋）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verabscheuen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verabscheut",
+  "forms": "verabscheut, verabscheute, hat verabscheut",
+  "zh": "憎恶；厌恶",
+  "ex": [
+   "Er verabscheut jede Form von Gewalt und engagiert sich in einem Verein."
+  ],
+  "ex_zh": "他憎恶任何形式的暴力，并在一个协会里做志愿工作。",
+  "use": {
+   "col": [
+    [
+     "etw. zutiefst verabscheuen",
+     "深恶痛绝"
+    ],
+    [
+     "Gewalt verabscheuen",
+     "憎恶暴力"
+    ]
+   ],
+   "tip": "比 hassen 更书面、更道德色彩；形容词 abscheulich"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich empören",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "empört",
+  "forms": "empört sich, empörte sich, hat sich empört",
+  "zh": "愤慨",
+  "ex": [
+   "Viele Bürger empörten sich über die geplante Preiserhöhung."
+  ],
+  "ex_zh": "许多市民对计划中的涨价感到愤慨。",
+  "gov": "sich empören über + Akk.",
+  "use": {
+   "col": [
+    [
+     "sich über etw. empören",
+     "对某事愤慨"
+    ],
+    [
+     "empört sein",
+     "愤愤不平"
+    ]
+   ],
+   "tip": "名词 die Empörung；比 sich aufregen 书面"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "beschwichtigen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "beschwichtigt",
+  "forms": "beschwichtigt, beschwichtigte, hat beschwichtigt",
+  "zh": "安抚；平息",
+  "ex": [
+   "Der Manager versuchte, die aufgebrachten Kunden zu beschwichtigen."
+  ],
+  "ex_zh": "经理试图安抚愤怒的客户。",
+  "use": {
+   "col": [
+    [
+     "die Gemüter beschwichtigen",
+     "平息众人的情绪"
+    ],
+    [
+     "beschwichtigend sagen",
+     "安抚地说"
+    ]
+   ],
+   "tip": "名词 die Beschwichtigung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich einfühlen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingefühlt",
+  "forms": "fühlt sich ein, fühlte sich ein, hat sich eingefühlt",
+  "zh": "设身处地；共情",
+  "ex": [
+   "Gute Lehrer können sich in die Lage der Schüler einfühlen."
+  ],
+  "ex_zh": "好老师能够设身处地为学生着想。",
+  "gov": "sich einfühlen in + Akk.",
+  "use": {
+   "col": [
+    [
+     "sich in jemanden einfühlen",
+     "体会某人的心情"
+    ],
+    [
+     "einfühlsam",
+     "善解人意的"
+    ]
+   ],
+   "tip": "形容词 einfühlsam"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich abfinden",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgefunden",
+  "forms": "findet sich ab, fand sich ab, hat sich abgefunden",
+  "zh": "接受；认命",
+  "ex": [
+   "Er konnte sich nur schwer mit dem Verlust seiner Stelle abfinden."
+  ],
+  "ex_zh": "他很难接受失去工作这件事。",
+  "gov": "sich abfinden mit + Dat.",
+  "use": {
+   "col": [
+    [
+     "sich mit etw. abfinden",
+     "接受某事"
+    ],
+    [
+     "sich nicht abfinden wollen",
+     "不愿认命"
+    ]
+   ],
+   "tip": "可分动词；强调无奈地接受"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich zusammenreißen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "zusammengerissen",
+  "forms": "reißt sich zusammen, riss sich zusammen, hat sich zusammengerissen",
+  "zh": "强忍；振作起来",
+  "ex": [
+   "Sie musste sich zusammenreißen, um nicht vor allen zu weinen."
+  ],
+  "ex_zh": "她得强忍着，才没有当众哭出来。",
+  "use": {
+   "col": [
+    [
+     "sich zusammenreißen müssen",
+     "必须克制自己"
+    ],
+    [
+     "Reiß dich zusammen!",
+     "打起精神来！"
+    ]
+   ],
+   "tip": "口语化；可分动词，用于自我克制"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "unterdrücken",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "unterdrückt",
+  "forms": "unterdrückt, unterdrückte, hat unterdrückt",
+  "zh": "压抑；抑制",
+  "ex": [
+   "Während der langen Besprechung konnte er ein Gähnen kaum noch unterdrücken."
+  ],
+  "ex_zh": "在冗长的会议中，他几乎忍不住要打哈欠。",
+  "use": {
+   "senses": [
+    "压抑；忍住",
+    "压迫"
+   ],
+   "col": [
+    [
+     "Gefühle unterdrücken",
+     "压抑情感"
+    ],
+    [
+     "ein Gähnen unterdrücken",
+     "忍住哈欠"
+    ]
+   ],
+   "tip": "不可分动词；也指政治上的压迫：Meinungen unterdrücken"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich verausgaben",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verausgabt",
+  "forms": "verausgabt sich, verausgabte sich, hat sich verausgabt",
+  "zh": "耗尽体力；过度消耗",
+  "ex": [
+   "Er hat sich beim Marathon so verausgabt, dass er danach kaum laufen konnte."
+  ],
+  "ex_zh": "他在马拉松中耗尽了力气，之后几乎走不动。",
+  "use": {
+   "senses": [
+    "过度消耗体力",
+    "超额花钱"
+   ],
+   "col": [
+    [
+     "sich völlig verausgaben",
+     "耗尽全力"
+    ],
+    [
+     "sich nicht verausgaben",
+     "不要用力过度"
+    ]
+   ],
+   "tip": "不可分动词；也可指金钱花得太狠"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ausbrennen",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "ausgebrannt",
+  "forms": "brennt aus, brannte aus, ist ausgebrannt",
+  "zh": "燃尽；精疲力竭（职业倦怠）",
+  "ex": [
+   "Wer jahrelang nur noch arbeitet und nie abschaltet, brennt irgendwann aus."
+  ],
+  "ex_zh": "多年只知工作、从不放松的人，总有一天会精疲力竭。",
+  "use": {
+   "col": [
+    [
+     "ausgebrannt sein",
+     "精疲力竭"
+    ],
+    [
+     "das Feuer brennt aus",
+     "火烧尽了"
+    ]
+   ],
+   "tip": "名词 das Burn-out；形容词 ausgebrannt"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich regenerieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "regeneriert",
+  "forms": "regeneriert sich, regenerierte sich, hat sich regeneriert",
+  "zh": "恢复；再生",
+  "ex": [
+   "Nach dem Wettkampf braucht der Körper Zeit, um sich zu regenerieren."
+  ],
+  "ex_zh": "比赛之后，身体需要时间来恢复。",
+  "use": {
+   "col": [
+    [
+     "sich schnell regenerieren",
+     "快速恢复"
+    ],
+    [
+     "die Haut regeneriert sich",
+     "皮肤再生"
+    ]
+   ],
+   "tip": "名词 die Regeneration；运动、医学常用"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "durchatmen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "durchgeatmet",
+  "forms": "atmet durch, atmete durch, hat durchgeatmet",
+  "zh": "深呼吸；喘口气",
+  "ex": [
+   "Nach der Abgabe des Berichts konnte ich endlich durchatmen."
+  ],
+  "ex_zh": "交完报告后，我终于可以喘口气了。",
+  "use": {
+   "col": [
+    [
+     "tief durchatmen",
+     "深吸一口气"
+    ],
+    [
+     "kurz durchatmen",
+     "喘口气"
+    ]
+   ],
+   "tip": "可分动词；比喻用法「终于松口气」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "abschalten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgeschaltet",
+  "forms": "schaltet ab, schaltete ab, hat abgeschaltet",
+  "zh": "放松；关闭",
+  "ex": [
+   "Nach der Arbeit kann ich beim Kochen am besten abschalten."
+  ],
+  "ex_zh": "下班后，做饭最能让我放松。",
+  "use": {
+   "senses": [
+    "放松；不再想",
+    "关闭"
+   ],
+   "col": [
+    [
+     "vom Alltag abschalten",
+     "从日常中放松"
+    ],
+    [
+     "das Gerät abschalten",
+     "关闭设备"
+    ]
+   ],
+   "tip": "口语里「完全放松、不去想工作」；可分动词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "prahlen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "geprahlt",
+  "forms": "prahlt, prahlte, hat geprahlt",
+  "zh": "吹嘘；炫耀",
+  "ex": [
+   "Er prahlt ständig vor seinen Kollegen mit seinem neuen Auto und seinem Gehalt."
+  ],
+  "ex_zh": "他总在同事面前炫耀自己的新车和薪水。",
+  "gov": "prahlen mit + Dat.",
+  "use": {
+   "col": [
+    [
+     "mit etw. prahlen",
+     "吹嘘某事"
+    ],
+    [
+     "mit Erfolgen prahlen",
+     "炫耀成就"
+    ]
+   ],
+   "tip": "贬义；近义 angeben（口语）、sich brüsten（书面）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "lästern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gelästert",
+  "forms": "lästert, lästerte, hat gelästert",
+  "zh": "说闲话；背后议论",
+  "ex": [
+   "Die Kollegen lästern gern über den neuen Chef."
+  ],
+  "ex_zh": "同事们爱在背后议论新老板。",
+  "gov": "lästern über + Akk.",
+  "use": {
+   "col": [
+    [
+     "über jemanden lästern",
+     "说某人坏话"
+    ],
+    [
+     "hinter dem Rücken lästern",
+     "在背后说坏话"
+    ]
+   ],
+   "tip": "口语；名词 die Lästerei；书面 Gott lästern 亵渎"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "schikanieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "schikaniert",
+  "forms": "schikaniert, schikanierte, hat schikaniert",
+  "zh": "刁难；欺压",
+  "ex": [
+   "Der Vorgesetzte schikaniert seine Mitarbeiter mit sinnlosen Vorschriften."
+  ],
+  "ex_zh": "这位上司用毫无意义的规定刁难下属。",
+  "use": {
+   "col": [
+    [
+     "jemanden schikanieren",
+     "刁难某人"
+    ],
+    [
+     "schikaniert werden",
+     "受到刁难"
+    ]
+   ],
+   "tip": "名词 die Schikane；比 mobben 偏权力滥用"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "bevormunden",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bevormundet",
+  "forms": "bevormundet, bevormundete, hat bevormundet",
+  "zh": "对……包办；管头管脚",
+  "ex": [
+   "Erwachsene möchten nicht von ihren Eltern bevormundet werden."
+  ],
+  "ex_zh": "成年人不想被父母管头管脚。",
+  "use": {
+   "col": [
+    [
+     "sich bevormundet fühlen",
+     "觉得被管束"
+    ],
+    [
+     "jemanden bevormunden",
+     "对某人包办"
+    ]
+   ],
+   "tip": "名词 die Bevormundung；Vormund 监护人"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "beschönigen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "beschönigt",
+  "forms": "beschönigt, beschönigte, hat beschönigt",
+  "zh": "粉饰；美化",
+  "ex": [
+   "Der Bericht beschönigt die tatsächliche Lage in der Firma."
+  ],
+  "ex_zh": "这份报告粉饰了公司的实际状况。",
+  "use": {
+   "col": [
+    [
+     "nichts beschönigen",
+     "不加粉饰"
+    ],
+    [
+     "die Wahrheit beschönigen",
+     "粉饰真相"
+    ]
+   ],
+   "tip": "名词 die Beschönigung；近义 schönreden"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "heucheln",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "geheuchelt",
+  "forms": "heuchelt, heuchelte, hat geheuchelt",
+  "zh": "假装；伪善",
+  "ex": [
+   "Er heuchelte Interesse, um den Auftrag zu bekommen."
+  ],
+  "ex_zh": "为了拿到订单，他假装感兴趣。",
+  "use": {
+   "col": [
+    [
+     "Interesse heucheln",
+     "假装感兴趣"
+    ],
+    [
+     "Mitleid heucheln",
+     "假装同情"
+    ]
+   ],
+   "tip": "名词 die Heuchelei，der Heuchler"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich verstellen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verstellt",
+  "forms": "verstellt sich, verstellte sich, hat sich verstellt",
+  "zh": "装模作样；伪装",
+  "ex": [
+   "Du musst dich nicht verstellen, sei einfach du selbst."
+  ],
+  "ex_zh": "你不用装，做你自己就好。",
+  "use": {
+   "col": [
+    [
+     "sich nicht verstellen",
+     "不要伪装"
+    ],
+    [
+     "seine Stimme verstellen",
+     "改变嗓音"
+    ]
+   ],
+   "tip": "可分动词；非反身用法 verstellen 是「挪动；调整位置」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich einmischen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingemischt",
+  "forms": "mischt sich ein, mischte sich ein, hat sich eingemischt",
+  "zh": "干涉；插手",
+  "ex": [
+   "Ich möchte mich nicht in euren Streit einmischen."
+  ],
+  "ex_zh": "我不想插手你们的争执。",
+  "gov": "sich einmischen in + Akk.",
+  "use": {
+   "col": [
+    [
+     "sich in etw. einmischen",
+     "插手某事"
+    ],
+    [
+     "sich ungefragt einmischen",
+     "擅自插嘴"
+    ]
+   ],
+   "tip": "可分动词；名词 die Einmischung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich zurückhalten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "zurückgehalten",
+  "forms": "hält sich zurück, hielt sich zurück, hat sich zurückgehalten",
+  "zh": "克制；保持克制",
+  "ex": [
+   "Bei der Diskussion hielt er sich auffällig zurück."
+  ],
+  "ex_zh": "讨论中他明显保持克制，没怎么发言。",
+  "use": {
+   "col": [
+    [
+     "sich mit Kritik zurückhalten",
+     "克制批评"
+    ],
+    [
+     "sich zurückhalten müssen",
+     "必须克制"
+    ]
+   ],
+   "tip": "形容词 zurückhaltend"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "bösartig",
+  "pos": "adj",
+  "zh": "恶性的；恶意的",
+  "ex": [
+   "Der Tumor war glücklicherweise nicht bösartig und konnte entfernt werden."
+  ],
+  "ex_zh": "幸运的是，这个肿瘤不是恶性的，已被切除。",
+  "use": {
+   "senses": [
+    "（医学）恶性的",
+    "恶意的"
+   ],
+   "col": [
+    [
+     "ein bösartiger Tumor",
+     "恶性肿瘤"
+    ],
+    [
+     "bösartig lächeln",
+     "恶意地笑"
+    ]
+   ],
+   "tip": "反义 gutartig（良性的）；也用于人的恶意"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "gutartig",
+  "pos": "adj",
+  "zh": "良性的",
+  "ex": [
+   "Bei der Untersuchung stellte sich heraus, dass der Knoten gutartig ist."
+  ],
+  "ex_zh": "检查发现这个结节是良性的。",
+  "use": {
+   "col": [
+    [
+     "ein gutartiger Tumor",
+     "良性肿瘤"
+    ],
+    [
+     "gutartig sein",
+     "是良性的"
+    ]
+   ],
+   "tip": "反义 bösartig；也指性格温顺"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "schleichend",
+  "pos": "adj",
+  "zh": "缓慢隐匿的",
+  "ex": [
+   "Die Krankheit verläuft schleichend und wird oft erst spät bemerkt."
+  ],
+  "ex_zh": "这种病发展隐匿，往往很晚才被察觉。",
+  "use": {
+   "col": [
+    [
+     "eine schleichende Entwicklung",
+     "缓慢隐匿的发展"
+    ],
+    [
+     "schleichend fortschreiten",
+     "隐匿地发展"
+    ]
+   ],
+   "tip": "动词 schleichen 的分词，用于病情、变化"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "lebensbedrohlich",
+  "pos": "adj",
+  "zh": "危及生命的",
+  "ex": [
+   "Der Patient befindet sich in einem lebensbedrohlichen Zustand."
+  ],
+  "ex_zh": "病人处于危及生命的状态。",
+  "use": {
+   "col": [
+    [
+     "lebensbedrohliche Verletzungen",
+     "危及生命的伤"
+    ],
+    [
+     "ein lebensbedrohlicher Zustand",
+     "危及生命的状态"
+    ]
+   ],
+   "tip": "Leben + bedrohlich；近义 lebensgefährlich"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "angeschlagen",
+  "pos": "adj",
+  "zh": "身体不适的；受挫的",
+  "ex": [
+   "Er wirkt nach der langen Grippe noch immer angeschlagen."
+  ],
+  "ex_zh": "得了长时间的流感后，他看上去仍然状态不佳。",
+  "use": {
+   "col": [
+    [
+     "gesundheitlich angeschlagen",
+     "身体欠佳"
+    ],
+    [
+     "angeschlagen sein",
+     "状态不好"
+    ]
+   ],
+   "tip": "口语到书面都可；也指经济上受损"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "geschwächt",
+  "pos": "adj",
+  "zh": "被削弱的；体弱的",
+  "ex": [
+   "Nach der Operation ist sein Immunsystem noch stark geschwächt."
+  ],
+  "ex_zh": "手术后他的免疫系统仍然很虚弱。",
+  "use": {
+   "col": [
+    [
+     "ein geschwächtes Immunsystem",
+     "被削弱的免疫系统"
+    ],
+    [
+     "geschwächt sein",
+     "身体虚弱"
+    ]
+   ],
+   "tip": "动词 schwächen；名词 die Schwäche"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "gebrechlich",
+  "pos": "adj",
+  "zh": "年老体弱的",
+  "ex": [
+   "Seine gebrechliche Mutter braucht inzwischen täglich Hilfe im Haushalt."
+  ],
+  "ex_zh": "他体弱的母亲如今每天都需要家务帮助。",
+  "use": {
+   "col": [
+    [
+     "ein gebrechlicher alter Mann",
+     "体弱的老人"
+    ],
+    [
+     "gebrechlich wirken",
+     "显得体弱"
+    ]
+   ],
+   "tip": "多用于老人；名词 die Gebrechlichkeit"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "robust",
+  "pos": "adj",
+  "zh": "结实的；稳健的",
+  "ex": [
+   "Er hat eine robuste Gesundheit und ist selten krank."
+  ],
+  "ex_zh": "他身体结实，很少生病。",
+  "use": {
+   "col": [
+    [
+     "eine robuste Gesundheit",
+     "结实的体质"
+    ],
+    [
+     "ein robustes System",
+     "稳健的系统"
+    ]
+   ],
+   "tip": "也用于材料、系统；近义 widerstandsfähig"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "anfällig",
+  "pos": "adj",
+  "zh": "易受影响的；易患……的",
+  "ex": [
+   "Im Winter bin ich besonders anfällig für Erkältungen."
+  ],
+  "ex_zh": "冬天我特别容易感冒。",
+  "gov": "anfällig für + Akk.",
+  "use": {
+   "col": [
+    [
+     "anfällig für etw. sein",
+     "容易受……影响"
+    ],
+    [
+     "fehleranfällig",
+     "易出错的"
+    ]
+   ],
+   "tip": "名词 die Anfälligkeit；如 stressanfällig"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "pflegebedürftig",
+  "pos": "adj",
+  "zh": "需要护理的",
+  "ex": [
+   "Mit dem demografischen Wandel werden immer mehr ältere Menschen pflegebedürftig."
+  ],
+  "ex_zh": "随着人口结构变化，越来越多的老年人需要护理。",
+  "use": {
+   "col": [
+    [
+     "pflegebedürftig sein",
+     "需要护理"
+    ],
+    [
+     "pflegebedürftige Angehörige",
+     "需要护理的亲属"
+    ]
+   ],
+   "tip": "名词 die Pflegebedürftigkeit；Pflegegrad"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "stationär",
+  "pos": "adj",
+  "zh": "住院的；固定的",
+  "ex": [
+   "Der Patient muss zur weiteren Behandlung stationär aufgenommen werden."
+  ],
+  "ex_zh": "病人需要住院继续治疗。",
+  "use": {
+   "senses": [
+    "（医疗）住院的",
+    "固定的"
+   ],
+   "col": [
+    [
+     "stationär behandelt werden",
+     "住院治疗"
+    ],
+    [
+     "stationär aufnehmen",
+     "收治入院"
+    ]
+   ],
+   "tip": "反义 ambulant（门诊的）；也指固定不动的"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ambulant",
+  "pos": "adj",
+  "zh": "门诊的；流动的",
+  "ex": [
+   "Der Eingriff kann ambulant durchgeführt werden, Sie können noch heute heim."
+  ],
+  "ex_zh": "这个手术可以门诊完成，您今天就能回家。",
+  "use": {
+   "col": [
+    [
+     "ambulant behandeln",
+     "门诊治疗"
+    ],
+    [
+     "ein ambulanter Pflegedienst",
+     "上门护理服务"
+    ]
+   ],
+   "tip": "反义 stationär；ambulanter Pflegedienst"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "schmerzhaft",
+  "pos": "adj",
+  "zh": "疼痛的",
+  "ex": [
+   "Die Behandlung ist unangenehm, aber nicht besonders schmerzhaft."
+  ],
+  "ex_zh": "治疗不太舒服，但不是特别疼。",
+  "use": {
+   "col": [
+    [
+     "eine schmerzhafte Verletzung",
+     "疼痛的伤"
+    ],
+    [
+     "schmerzhaft sein",
+     "很痛"
+    ]
+   ],
+   "tip": "和 schmerzlich 不同：schmerzlich 偏感情上的痛苦"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "schmerzlich",
+  "pos": "adj",
+  "zh": "令人痛苦的（心理上）",
+  "ex": [
+   "Der Abschied von der Familie war für ihn sehr schmerzlich."
+  ],
+  "ex_zh": "与家人告别对他来说非常痛苦。",
+  "use": {
+   "col": [
+    [
+     "eine schmerzliche Erfahrung",
+     "痛苦的经历"
+    ],
+    [
+     "schmerzlich vermissen",
+     "痛苦地想念"
+    ]
+   ],
+   "tip": "偏心理、情感；身体疼痛用 schmerzhaft"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "qualvoll",
+  "pos": "adj",
+  "zh": "极其痛苦的",
+  "ex": [
+   "Nach langem, qualvollem Leiden ist der alte Mann im Krankenhaus gestorben."
+  ],
+  "ex_zh": "经过漫长而痛苦的折磨，这位老人在医院去世了。",
+  "use": {
+   "col": [
+    [
+     "ein qualvoller Tod",
+     "痛苦的死"
+    ],
+    [
+     "qualvoll warten",
+     "煎熬地等待"
+    ]
+   ],
+   "tip": "名词 die Qual；动词 quälen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "unerträglich",
+  "pos": "adj",
+  "zh": "难以忍受的",
+  "ex": [
+   "Die Schmerzen im Rücken wurden mit der Zeit unerträglich."
+  ],
+  "ex_zh": "背部的疼痛渐渐变得难以忍受。",
+  "use": {
+   "col": [
+    [
+     "unerträgliche Hitze",
+     "难耐的酷热"
+    ],
+    [
+     "unerträglich werden",
+     "变得无法忍受"
+    ]
+   ],
+   "tip": "动词 ertragen；近义 unausstehlich（令人受不了的人）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "antriebslos",
+  "pos": "adj",
+  "zh": "没有动力的",
+  "ex": [
+   "Seit Wochen fühlt sie sich müde und antriebslos."
+  ],
+  "ex_zh": "几周来，她一直觉得疲惫，没有干劲。",
+  "use": {
+   "col": [
+    [
+     "antriebslos wirken",
+     "显得没有动力"
+    ],
+    [
+     "sich antriebslos fühlen",
+     "觉得没有干劲"
+    ]
+   ],
+   "tip": "名词 der Antrieb（驱动力）；常与 Depression 相关"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "niedergeschlagen",
+  "pos": "adj",
+  "zh": "情绪低落的",
+  "ex": [
+   "Nach der Absage der Firma war er tagelang niedergeschlagen und kaum ansprechbar."
+  ],
+  "ex_zh": "收到公司的拒信后，他消沉了好几天，几乎不理人。",
+  "use": {
+   "col": [
+    [
+     "niedergeschlagen wirken",
+     "显得消沉"
+    ],
+    [
+     "niedergeschlagen sein",
+     "情绪低落"
+    ]
+   ],
+   "tip": "名词 die Niedergeschlagenheit"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "bedrückt",
+  "pos": "adj",
+  "zh": "心情沉重的",
+  "ex": [
+   "Sie wirkte bedrückt und wollte nicht über ihre Probleme sprechen."
+  ],
+  "ex_zh": "她看上去心情沉重，不愿谈自己的问题。",
+  "use": {
+   "col": [
+    [
+     "bedrückt wirken",
+     "显得心情沉重"
+    ],
+    [
+     "eine bedrückte Stimmung",
+     "压抑的气氛"
+    ]
+   ],
+   "tip": "动词 bedrücken；名词 die Bedrückung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verbittert",
+  "pos": "adj",
+  "zh": "怨恨的；愤懑的",
+  "ex": [
+   "Nach der Kündigung war er verbittert und zog sich zurück."
+  ],
+  "ex_zh": "被解雇后，他心怀怨恨，渐渐疏远他人。",
+  "use": {
+   "col": [
+    [
+     "verbittert sein",
+     "充满怨恨"
+    ],
+    [
+     "ein verbitterter Mann",
+     "愤懑的男人"
+    ]
+   ],
+   "tip": "动词 verbittern；名词 die Verbitterung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "aufgewühlt",
+  "pos": "adj",
+  "zh": "心潮起伏的；激动不安的",
+  "ex": [
+   "Aufgewühlt von den Nachrichten konnte sie nicht schlafen."
+  ],
+  "ex_zh": "被这些消息搅得心潮难平，她睡不着。",
+  "use": {
+   "col": [
+    [
+     "innerlich aufgewühlt",
+     "内心翻腾"
+    ],
+    [
+     "aufgewühlt sein",
+     "情绪激荡"
+    ]
+   ],
+   "tip": "动词 aufwühlen；也可形容水面、土地"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "fassungslos",
+  "pos": "adj",
+  "zh": "不知所措的；难以置信的",
+  "ex": [
+   "Die Familie stand fassungslos vor dem abgebrannten Haus."
+  ],
+  "ex_zh": "这家人不知所措地站在烧毁的房子前。",
+  "use": {
+   "col": [
+    [
+     "fassungslos sein",
+     "难以置信"
+    ],
+    [
+     "fassungslos zusehen",
+     "呆呆地看着"
+    ]
+   ],
+   "tip": "名词 die Fassungslosigkeit；Fassung = 镇定"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "bestürzt",
+  "pos": "adj",
+  "zh": "震惊的；惊愕的",
+  "ex": [
+   "Wir sind bestürzt über den plötzlichen Tod unseres Kollegen."
+  ],
+  "ex_zh": "同事的突然去世让我们震惊。",
+  "gov": "bestürzt über + Akk.",
+  "use": {
+   "col": [
+    [
+     "bestürzt sein über + Akk.",
+     "对……感到震惊"
+    ],
+    [
+     "bestürzt reagieren",
+     "震惊地反应"
+    ]
+   ],
+   "tip": "名词 die Bestürzung；常用于讣告、官方声明"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "entsetzt",
+  "pos": "adj",
+  "zh": "惊骇的",
+  "ex": [
+   "Entsetzt sah sie, wie das Auto auf die Kreuzung zuraste."
+  ],
+  "ex_zh": "她惊骇地看着汽车冲向十字路口。",
+  "use": {
+   "col": [
+    [
+     "entsetzt sein",
+     "惊骇"
+    ],
+    [
+     "entsetzt aufschreien",
+     "惊叫"
+    ]
+   ],
+   "tip": "名词 das Entsetzen；比 bestürzt 更强"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "gerührt",
+  "pos": "adj",
+  "zh": "感动的",
+  "ex": [
+   "Die Zuschauer waren zu Tränen gerührt, als der Chor das letzte Lied sang."
+  ],
+  "ex_zh": "合唱团唱最后一首歌时，观众感动得流下了眼泪。",
+  "use": {
+   "col": [
+    [
+     "zu Tränen gerührt",
+     "感动得落泪"
+    ],
+    [
+     "gerührt sein",
+     "被打动"
+    ]
+   ],
+   "tip": "动词 rühren；名词 die Rührung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "beschämt",
+  "pos": "adj",
+  "zh": "感到羞愧的",
+  "ex": [
+   "Beschämt gestand er seinem Chef, dass er die Frist vergessen hatte."
+  ],
+  "ex_zh": "他羞愧地向老板承认自己忘了期限。",
+  "use": {
+   "col": [
+    [
+     "beschämt sein",
+     "感到惭愧"
+    ],
+    [
+     "beschämt zu Boden blicken",
+     "羞愧地低头"
+    ]
+   ],
+   "tip": "动词 beschämen；名词 die Scham"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "gekränkt",
+  "pos": "adj",
+  "zh": "受伤害的；感到被冒犯的",
+  "ex": [
+   "Er war gekränkt, weil niemand seinen Vorschlag ernst nahm."
+  ],
+  "ex_zh": "他很受伤，因为没人认真对待他的建议。",
+  "use": {
+   "col": [
+    [
+     "gekränkt reagieren",
+     "感到被冒犯而反应"
+    ],
+    [
+     "sich gekränkt fühlen",
+     "觉得受到伤害"
+    ]
+   ],
+   "tip": "动词 kränken；名词 die Kränkung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "beleidigt",
+  "pos": "adj",
+  "zh": "生气的（觉得被侮辱）",
+  "ex": [
+   "Sie ist beleidigt, weil niemand ihr zum Geburtstag gratuliert hat."
+  ],
+  "ex_zh": "她生气了，因为没人给她生日祝福。",
+  "use": {
+   "col": [
+    [
+     "beleidigt sein",
+     "因被冒犯而闹别扭"
+    ],
+    [
+     "die beleidigte Leberwurst spielen",
+     "耍小脾气"
+    ]
+   ],
+   "tip": "口语 die beleidigte Leberwurst 闹别扭的人"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "reizbar",
+  "pos": "adj",
+  "zh": "易怒的",
+  "ex": [
+   "Schlafmangel macht viele Menschen schnell reizbar und lässt sie unkonzentriert arbeiten."
+  ],
+  "ex_zh": "睡眠不足会让许多人很容易发火，工作也难以集中。",
+  "use": {
+   "col": [
+    [
+     "reizbar sein",
+     "易怒"
+    ],
+    [
+     "reizbar reagieren",
+     "烦躁地反应"
+    ]
+   ],
+   "tip": "名词 die Reizbarkeit；动词 reizen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "jähzornig",
+  "pos": "adj",
+  "zh": "暴躁易怒的",
+  "ex": [
+   "Sein Vater war jähzornig und schlug oft mit der Faust auf den Tisch."
+  ],
+  "ex_zh": "他父亲脾气暴躁，常常用拳头砸桌子。",
+  "use": {
+   "col": [
+    [
+     "ein jähzorniger Mensch",
+     "暴脾气的人"
+    ],
+    [
+     "jähzornig sein",
+     "一点就着"
+    ]
+   ],
+   "tip": "名词 der Jähzorn；Zorn = 愤怒"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "missmutig",
+  "pos": "adj",
+  "zh": "情绪低落且不满的",
+  "ex": [
+   "Missmutig schleppte er sich am Montagmorgen ins Büro."
+  ],
+  "ex_zh": "周一早上，他闷闷不乐地拖着步子走进办公室。",
+  "use": {
+   "col": [
+    [
+     "missmutig aussehen",
+     "一脸不高兴"
+    ],
+    [
+     "missmutig antworten",
+     "没好气地回答"
+    ]
+   ],
+   "tip": "名词 der Missmut；近义 mürrisch"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "mürrisch",
+  "pos": "adj",
+  "zh": "脾气坏的；板着脸的",
+  "ex": [
+   "Der mürrische Kellner brachte uns das Essen ohne ein Wort."
+  ],
+  "ex_zh": "那位板着脸的服务员一句话不说地给我们上了菜。",
+  "use": {
+   "col": [
+    [
+     "mürrisch antworten",
+     "没好气地回答"
+    ],
+    [
+     "ein mürrischer Mensch",
+     "脾气乖戾的人"
+    ]
+   ],
+   "tip": "近义 griesgrämig, missmutig"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "unbeirrt",
+  "pos": "adj",
+  "zh": "不为所动的；坚定不移的",
+  "ex": [
+   "Unbeirrt verfolgte sie ihren Plan, obwohl alle zweifelten."
+  ],
+  "ex_zh": "尽管大家都怀疑，她仍不为所动地推行自己的计划。",
+  "use": {
+   "col": [
+    [
+     "unbeirrt weitermachen",
+     "毫不动摇地继续"
+    ],
+    [
+     "unbeirrt an etw. festhalten",
+     "坚定不移地坚持"
+    ]
+   ],
+   "tip": "动词 beirren（使动摇）；多用于否定形式 unbeirrt"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "zaghaft",
+  "pos": "adj",
+  "zh": "犹豫的；畏缩的",
+  "ex": [
+   "Zaghaft klopfte der neue Praktikant an die Tür des Chefs."
+  ],
+  "ex_zh": "新来的实习生犹豫地敲了敲老板的门。",
+  "use": {
+   "col": [
+    [
+     "zaghaft fragen",
+     "怯生生地问"
+    ],
+    [
+     "ein zaghafter Versuch",
+     "小心翼翼的尝试"
+    ]
+   ],
+   "tip": "名词 die Zaghaftigkeit；反义 entschlossen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "argwöhnisch",
+  "pos": "adj",
+  "zh": "起疑的；猜疑的",
+  "ex": [
+   "Argwöhnisch musterte er den Fremden vor seiner Tür."
+  ],
+  "ex_zh": "他怀疑地打量着门口的陌生人。",
+  "use": {
+   "col": [
+    [
+     "argwöhnisch sein",
+     "疑心很重"
+    ],
+    [
+     "jemanden argwöhnisch beobachten",
+     "起疑地观察某人"
+    ]
+   ],
+   "tip": "名词 der Argwohn；比 misstrauisch 更书面"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "misstrauisch",
+  "pos": "adj",
+  "zh": "不信任的；多疑的",
+  "ex": [
+   "Nach den schlechten Erfahrungen ist er gegenüber Fremden misstrauisch geworden."
+  ],
+  "ex_zh": "有过糟糕的经历后，他对陌生人变得多疑。",
+  "gov": "misstrauisch gegenüber + Dat.",
+  "use": {
+   "col": [
+    [
+     "misstrauisch werden",
+     "起疑"
+    ],
+    [
+     "misstrauisch gegenüber + Dat.",
+     "对……不信任"
+    ]
+   ],
+   "tip": "名词 das Misstrauen；反义 vertrauensvoll"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "naiv",
+  "pos": "adj",
+  "zh": "天真的；幼稚的",
+  "ex": [
+   "Es war naiv zu glauben, dass sich das Problem von selbst löst."
+  ],
+  "ex_zh": "以为问题会自己解决，真是太天真了。",
+  "use": {
+   "col": [
+    [
+     "naiv sein",
+     "天真"
+    ],
+    [
+     "eine naive Vorstellung",
+     "天真的想法"
+    ]
+   ],
+   "tip": "含轻微贬义；名词 die Naivität"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verlogen",
+  "pos": "adj",
+  "zh": "爱撒谎的；虚伪的",
+  "ex": [
+   "Ich traue ihm nicht, er ist durch und durch verlogen."
+  ],
+  "ex_zh": "我不信任他，他彻头彻尾地虚伪。",
+  "use": {
+   "col": [
+    [
+     "ein verlogener Mensch",
+     "爱撒谎的人"
+    ],
+    [
+     "eine verlogene Moral",
+     "虚伪的道德"
+    ]
+   ],
+   "tip": "比 unehrlich 强烈得多；名词 die Verlogenheit"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "scheinheilig",
+  "pos": "adj",
+  "zh": "假惺惺的；伪善的",
+  "ex": [
+   "Seine Entschuldigung klang scheinheilig und war für uns wenig überzeugend."
+  ],
+  "ex_zh": "他的道歉听起来假惺惺的，对我们来说没什么说服力。",
+  "use": {
+   "col": [
+    [
+     "scheinheilig lächeln",
+     "假惺惺地笑"
+    ],
+    [
+     "eine scheinheilige Frage",
+     "明知故问的问题"
+    ]
+   ],
+   "tip": "= heuchlerisch；名词 die Scheinheiligkeit"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "überheblich",
+  "pos": "adj",
+  "zh": "傲慢的；自大的",
+  "ex": [
+   "Er sprach überheblich über seine Kollegen und hielt sich für etwas Besseres."
+  ],
+  "ex_zh": "他傲慢地谈论同事，自以为高人一等。",
+  "use": {
+   "col": [
+    [
+     "überheblich wirken",
+     "显得自大"
+    ],
+    [
+     "eine überhebliche Art",
+     "傲慢的作风"
+    ]
+   ],
+   "tip": "名词 die Überheblichkeit；近义 arrogant"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "genügsam",
+  "pos": "adj",
+  "zh": "知足的；要求不高的",
+  "ex": [
+   "Meine Großeltern sind genügsam und brauchen nicht viel zum Leben."
+  ],
+  "ex_zh": "我的祖父母很知足，生活所需不多。",
+  "use": {
+   "col": [
+    [
+     "ein genügsamer Mensch",
+     "知足的人"
+    ],
+    [
+     "genügsam leben",
+     "简朴知足地生活"
+    ]
+   ],
+   "tip": "褒义；名词 die Genügsamkeit；反义 anspruchsvoll"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "hartnäckig",
+  "pos": "adj",
+  "zh": "顽固的；坚持不懈的",
+  "ex": [
+   "Die Journalistin fragte hartnäckig nach, bis sie eine Antwort bekam."
+  ],
+  "ex_zh": "这位记者锲而不舍地追问，直到得到答复。",
+  "use": {
+   "col": [
+    [
+     "hartnäckig bleiben",
+     "坚持不懈"
+    ],
+    [
+     "ein hartnäckiger Husten",
+     "久咳不愈"
+    ]
+   ],
+   "tip": "可褒可贬；也形容久治不愈的病、污渍"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "beharrlich",
+  "pos": "adj",
+  "zh": "坚持不懈的",
+  "ex": [
+   "Mit beharrlichem Training verbesserte er sich Schritt für Schritt."
+  ],
+  "ex_zh": "通过坚持不懈的训练，他一步步进步。",
+  "use": {
+   "col": [
+    [
+     "beharrlich arbeiten",
+     "持之以恒地工作"
+    ],
+    [
+     "beharrlich schweigen",
+     "固执地沉默"
+    ]
+   ],
+   "tip": "动词 beharren auf；偏褒义，比 hartnäckig 更中性"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "zielstrebig",
+  "pos": "adj",
+  "zh": "目标明确的",
+  "ex": [
+   "Sie verfolgt seit dem Bachelor zielstrebig ihren Weg zur Professur."
+  ],
+  "ex_zh": "自本科以来，她就目标明确地走在通往教授之路上。",
+  "use": {
+   "col": [
+    [
+     "zielstrebig arbeiten",
+     "目标明确地工作"
+    ],
+    [
+     "ein zielstrebiger Mensch",
+     "有明确目标的人"
+    ]
+   ],
+   "tip": "Ziel + streben；求职里的好词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "gewissenhaft",
+  "pos": "adj",
+  "zh": "认真负责的",
+  "ex": [
+   "Der Techniker prüft jede Maschine gewissenhaft vor dem Einsatz."
+  ],
+  "ex_zh": "技术员在每台机器投入使用前都认真检查。",
+  "use": {
+   "col": [
+    [
+     "gewissenhaft arbeiten",
+     "一丝不苟地工作"
+    ],
+    [
+     "ein gewissenhafter Mitarbeiter",
+     "认真负责的员工"
+    ]
+   ],
+   "tip": "Gewissen = 良心；名词 die Gewissenhaftigkeit"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "nachlässig",
+  "pos": "adj",
+  "zh": "马虎的；疏忽的",
+  "ex": [
+   "Wegen nachlässiger Arbeit musste er die Berechnung noch einmal machen."
+  ],
+  "ex_zh": "因为工作马虎，他不得不重新计算。",
+  "use": {
+   "col": [
+    [
+     "nachlässig arbeiten",
+     "马虎地工作"
+    ],
+    [
+     "nachlässig gekleidet",
+     "衣着随便"
+    ]
+   ],
+   "tip": "名词 die Nachlässigkeit；反义 sorgfältig"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "oberflächlich",
+  "pos": "adj",
+  "zh": "肤浅的；表面的",
+  "ex": [
+   "Seine Kenntnisse in diesem Bereich sind eher oberflächlich."
+  ],
+  "ex_zh": "他在这个领域的知识比较肤浅。",
+  "use": {
+   "col": [
+    [
+     "oberflächlich betrachten",
+     "粗略地看"
+    ],
+    [
+     "ein oberflächlicher Mensch",
+     "肤浅的人"
+    ]
+   ],
+   "tip": "Oberfläche 表面；反义 gründlich"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "zerstreut",
+  "pos": "adj",
+  "zh": "心不在焉的",
+  "ex": [
+   "Er ist heute so zerstreut, dass er schon wieder den Schlüssel verloren hat."
+  ],
+  "ex_zh": "他今天心不在焉，竟然又把钥匙丢了。",
+  "use": {
+   "col": [
+    [
+     "zerstreut sein",
+     "心不在焉"
+    ],
+    [
+     "ein zerstreuter Professor",
+     "健忘的教授"
+    ]
+   ],
+   "tip": "名词 die Zerstreutheit；动词 zerstreuen（驱散）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "vergesslich",
+  "pos": "adj",
+  "zh": "健忘的",
+  "ex": [
+   "Mit zunehmendem Alter wird meine Großmutter immer vergesslicher."
+  ],
+  "ex_zh": "随着年龄增长，我奶奶越来越健忘。",
+  "use": {
+   "col": [
+    [
+     "vergesslich sein",
+     "健忘"
+    ],
+    [
+     "zunehmend vergesslich",
+     "越来越健忘"
+    ]
+   ],
+   "tip": "名词 die Vergesslichkeit；动词 vergessen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "impulsiv",
+  "pos": "adj",
+  "zh": "冲动的",
+  "ex": [
+   "Er traf seine Entscheidungen oft impulsiv und bereute sie später."
+  ],
+  "ex_zh": "他常常冲动地做决定，事后又后悔。",
+  "use": {
+   "col": [
+    [
+     "impulsiv handeln",
+     "冲动行事"
+    ],
+    [
+     "ein impulsiver Mensch",
+     "冲动的人"
+    ]
+   ],
+   "tip": "名词 der Impuls；近义 spontan（褒义）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sprunghaft",
+  "pos": "adj",
+  "zh": "反复无常的；跳跃的",
+  "ex": [
+   "Seine sprunghafte Art macht die Zusammenarbeit im Projekt manchmal ziemlich schwierig."
+  ],
+  "ex_zh": "他三心二意的做派，有时让项目里的合作相当困难。",
+  "use": {
+   "col": [
+    [
+     "sprunghaft sein",
+     "三心二意"
+    ],
+    [
+     "sprunghaft ansteigen",
+     "急剧上升"
+    ]
+   ],
+   "tip": "也指数据急剧变化"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verschlossen",
+  "pos": "adj",
+  "zh": "封闭的；不爱说话的",
+  "ex": [
+   "Er ist ein verschlossener Mensch und redet selten über Gefühle."
+  ],
+  "ex_zh": "他是个内向封闭的人，很少谈论感受。",
+  "use": {
+   "col": [
+    [
+     "verschlossen wirken",
+     "显得封闭"
+    ],
+    [
+     "verschlossen bleiben",
+     "保持封闭"
+    ]
+   ],
+   "tip": "另一义「锁着的」；反义 offen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "aufgeschlossen",
+  "pos": "adj",
+  "zh": "思想开放的；乐于接受的",
+  "ex": [
+   "Unsere Chefin ist neuen Ideen gegenüber sehr aufgeschlossen."
+  ],
+  "ex_zh": "我们的女上司对新想法非常开放。",
+  "gov": "aufgeschlossen gegenüber + Dat.",
+  "use": {
+   "col": [
+    [
+     "aufgeschlossen für etw. sein",
+     "乐于接受某事"
+    ],
+    [
+     "ein aufgeschlossener Mensch",
+     "思想开明的人"
+    ]
+   ],
+   "tip": "= offen für；求职信常用词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "einfühlsam",
+  "pos": "adj",
+  "zh": "善解人意的",
+  "ex": [
+   "Eine einfühlsame Ärztin nimmt sich Zeit für die Sorgen ihrer Patienten."
+  ],
+  "ex_zh": "善解人意的医生会花时间听患者的担忧。",
+  "use": {
+   "col": [
+    [
+     "einfühlsam reagieren",
+     "善解人意地回应"
+    ],
+    [
+     "ein einfühlsamer Mensch",
+     "体贴的人"
+    ]
+   ],
+   "tip": "动词 sich einfühlen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "taktvoll",
+  "pos": "adj",
+  "zh": "得体的；有分寸的",
+  "ex": [
+   "Taktvoll wechselte er das Thema, um niemanden zu verletzen."
+  ],
+  "ex_zh": "他得体地换了话题，以免伤到任何人。",
+  "use": {
+   "col": [
+    [
+     "taktvoll sein",
+     "有分寸"
+    ],
+    [
+     "sich taktvoll verhalten",
+     "得体地行事"
+    ]
+   ],
+   "tip": "名词 der Takt（分寸）；反义 taktlos"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verständnisvoll",
+  "pos": "adj",
+  "zh": "体谅的；通情达理的",
+  "ex": [
+   "Mein Vorgesetzter reagierte sehr verständnisvoll auf meine Bitte um Homeoffice."
+  ],
+  "ex_zh": "我提出居家办公的请求时，上司非常体谅。",
+  "use": {
+   "col": [
+    [
+     "verständnisvoll reagieren",
+     "体谅地回应"
+    ],
+    [
+     "verständnisvoll nicken",
+     "理解地点头"
+    ]
+   ],
+   "tip": "名词 das Verständnis；近义 einfühlsam"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "nachsichtig",
+  "pos": "adj",
+  "zh": "宽容的；不苛求的",
+  "ex": [
+   "Er war nachsichtig mit den Fehlern seiner Mitarbeiter."
+  ],
+  "ex_zh": "他对员工的错误很宽容。",
+  "gov": "nachsichtig mit + Dat.",
+  "use": {
+   "col": [
+    [
+     "nachsichtig sein mit + Dat.",
+     "对……宽容"
+    ],
+    [
+     "nachsichtig lächeln",
+     "宽容地笑"
+    ]
+   ],
+   "tip": "名词 die Nachsicht；比 tolerant 更强调「放一马」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "fürsorglich",
+  "pos": "adj",
+  "zh": "关怀备至的",
+  "ex": [
+   "Die fürsorgliche Krankenschwester kümmerte sich Tag und Nacht um die Patienten."
+  ],
+  "ex_zh": "细心的护士日夜照顾病人。",
+  "use": {
+   "col": [
+    [
+     "fürsorglich sein",
+     "关怀备至"
+    ],
+    [
+     "sich fürsorglich kümmern",
+     "体贴地照料"
+    ]
+   ],
+   "tip": "名词 die Fürsorge；Sorge 关心"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "selbstlos",
+  "pos": "adj",
+  "zh": "无私的",
+  "ex": [
+   "Sie half selbstlos und verlangte dafür keine Gegenleistung."
+  ],
+  "ex_zh": "她无私地提供帮助，不求任何回报。",
+  "use": {
+   "col": [
+    [
+     "selbstlos handeln",
+     "无私地行事"
+    ],
+    [
+     "selbstloser Einsatz",
+     "无私的付出"
+    ]
+   ],
+   "tip": "名词 die Selbstlosigkeit；反义 egoistisch"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "pedantisch",
+  "pos": "adj",
+  "zh": "吹毛求疵的",
+  "ex": [
+   "Der Buchhalter ist pedantisch und kontrolliert jede Zahl dreimal."
+  ],
+  "ex_zh": "这位会计极为拘泥，每个数字都核三遍。",
+  "use": {
+   "col": [
+    [
+     "pedantisch genau",
+     "一丝不苟到挑剔的程度"
+    ],
+    [
+     "ein pedantischer Mensch",
+     "拘泥小节的人"
+    ]
+   ],
+   "tip": "名词 die Pedanterie；比 genau 带贬义"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ausgewogen",
+  "pos": "adj",
+  "zh": "均衡的",
+  "ex": [
+   "Eine ausgewogene Ernährung enthält Gemüse, Obst und Vollkornprodukte."
+  ],
+  "ex_zh": "均衡的饮食包含蔬菜、水果和全谷类食品。",
+  "use": {
+   "col": [
+    [
+     "sich ausgewogen ernähren",
+     "均衡饮食"
+    ],
+    [
+     "ein ausgewogenes Verhältnis",
+     "均衡的比例"
+    ]
+   ],
+   "tip": "也用于报道：ausgewogene Berichterstattung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "bekömmlich",
+  "pos": "adj",
+  "zh": "易消化的；对身体无负担的",
+  "ex": [
+   "Dieses Gericht ist leicht und für den Magen gut bekömmlich."
+  ],
+  "ex_zh": "这道菜很清淡，对胃很好消化。",
+  "use": {
+   "col": [
+    [
+     "leicht bekömmlich",
+     "容易消化"
+    ],
+    [
+     "gut bekömmlich",
+     "对身体负担小"
+    ]
+   ],
+   "tip": "反义 schwer verdaulich；仅用于食物、饮品"
+  }
+ }
+]

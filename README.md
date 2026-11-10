@@ -9,7 +9,8 @@
 - 旧的 claude.ai 版：https://claude.ai/artifact/938zwT5CUcFdC6ABjBGCte ，进度和上面的不互通。
 
 ## 内容
-- 词库 3,174 词：Goethe 官方 A1 / A2 / B1 词表（`src/`），加上求职、IT、办事专题词 113 个（`data/extra.py`）。去掉了只在瑞士或奥地利使用的词。
+- 词库 6,580 词：Goethe 官方 A1 / A2 / B1 词表（`src/`），加上求职、IT、办事专题词 113 个（`data/extra.py`），以及 B2 1,994 + C1 1,412 个（2026-11-10，`data/adv/<主题>.json`，按 `data/adv/SPEC.md` 由 Claude 分主题生成）。去掉了只在瑞士或奥地利使用的词。
+- B2 / C1：`python -I scripts/build_adv.py .` 去重、校验、分配固定 id（y0000 起）→ `data/adv_words.json`，merge.py 会把它并进词库；发音用 `scripts/gen_audio_adv.py`，按 id 固定分包到 `docs/audio/b32+`（旧包 b0–b31 在用户设备上永久缓存，不能改）。要补词：在 `data/adv/` 加或改主题文件，重跑这两个脚本。生成前先导出已有词表到 `data/existing_lemmas.txt`（不进仓库）。
 - 中文释义、例句翻译、义项、常用搭配和提示由 Claude 生成（`data/chunk*_zh.json`、`chunk*_use.json`），可能有个别错误。
 - 单词发音：微软 Katja 神经语音（edge-tts）预生成，经 ffmpeg 压缩（`audio_small/`），打包成 `site/audio/b*.json`。
 

@@ -1,0 +1,9917 @@
+[
+ {
+  "lv": "B2",
+  "lemma": "Abgeordnete",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Abgeordneten",
+  "zh": "议员；代表",
+  "ex": [
+   "Die Abgeordneten stimmen heute über das neue Gesetz ab."
+  ],
+  "ex_zh": "议员们今天就新法律进行表决。",
+  "use": {
+   "col": [
+    [
+     "als Abgeordnete kandidieren",
+     "作为议员候选人参选"
+    ],
+    [
+     "die Abgeordneten des Bundestags",
+     "联邦议院的议员们"
+    ]
+   ],
+   "tip": "形容词变格：ein Abgeordneter / eine Abgeordnete"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Wahlkampf",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Wahlkämpfe",
+  "zh": "竞选活动",
+  "ex": [
+   "Im Wahlkampf versprechen die Parteien oft mehr, als sie halten können."
+  ],
+  "ex_zh": "竞选期间各党派常常许下过多承诺。",
+  "use": {
+   "col": [
+    [
+     "einen Wahlkampf führen",
+     "进行竞选"
+    ],
+    [
+     "ein harter Wahlkampf",
+     "激烈的竞选"
+    ]
+   ],
+   "tip": "由 Wahl + Kampf 组成；竞选期叫 Wahlkampfzeit"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Wahlbeteiligung",
+  "art": "die",
+  "pos": "n",
+  "zh": "投票率",
+  "ex": [
+   "Die Wahlbeteiligung lag diesmal bei nur 55 Prozent."
+  ],
+  "ex_zh": "这次的投票率只有百分之五十五。",
+  "use": {
+   "col": [
+    [
+     "eine hohe Wahlbeteiligung",
+     "高投票率"
+    ],
+    [
+     "die Wahlbeteiligung sinkt",
+     "投票率下降"
+    ]
+   ],
+   "tip": "通常不用复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Wahlergebnis",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Wahlergebnisse",
+  "zh": "选举结果",
+  "ex": [
+   "Das vorläufige Wahlergebnis wird am Sonntagabend bekannt gegeben."
+  ],
+  "ex_zh": "初步选举结果将在周日晚上公布。",
+  "use": {
+   "col": [
+    [
+     "das amtliche Wahlergebnis",
+     "正式选举结果"
+    ],
+    [
+     "das Wahlergebnis anerkennen",
+     "承认选举结果"
+    ]
+   ],
+   "tip": "vorläufig 初步的，endgültig 最终的"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Wähler",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Wähler",
+  "zh": "选民",
+  "ex": [
+   "Viele Wähler waren mit der Politik der Regierung unzufrieden."
+  ],
+  "ex_zh": "许多选民对政府的政策不满意。",
+  "use": {
+   "col": [
+    [
+     "Wähler gewinnen",
+     "争取选民"
+    ],
+    [
+     "unentschlossene Wähler",
+     "犹豫不决的选民"
+    ]
+   ],
+   "tip": "女性 die Wählerin；Nichtwähler 指不投票者"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Wahlrecht",
+  "art": "das",
+  "pos": "n",
+  "zh": "选举权；选举法",
+  "ex": [
+   "Wer 18 Jahre alt ist, besitzt das Wahlrecht bei der Bundestagswahl."
+  ],
+  "ex_zh": "年满十八岁的人在联邦议院选举中拥有选举权。",
+  "use": {
+   "senses": [
+    "选举权",
+    "选举制度、选举法"
+   ],
+   "col": [
+    [
+     "das aktive Wahlrecht",
+     "选举权"
+    ],
+    [
+     "das passive Wahlrecht",
+     "被选举权"
+    ]
+   ],
+   "tip": "aktiv = 可以投票，passiv = 可以被选"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Bundestag",
+  "art": "der",
+  "pos": "n",
+  "zh": "联邦议院（德国国会）",
+  "ex": [
+   "Der Bundestag hat das Gesetz gestern mit großer Mehrheit beschlossen."
+  ],
+  "ex_zh": "联邦议院昨天以大多数票通过了这项法律。",
+  "use": {
+   "col": [
+    [
+     "im Bundestag sitzen",
+     "是联邦议院议员"
+    ],
+    [
+     "der Bundestag tagt",
+     "联邦议院开会"
+    ]
+   ],
+   "tip": "专有名词，一般不用复数；议员叫 Bundestagsabgeordnete"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Bundesrat",
+  "art": "der",
+  "pos": "n",
+  "zh": "联邦参议院",
+  "ex": [
+   "Der Bundesrat vertritt die Interessen der Länder auf Bundesebene."
+  ],
+  "ex_zh": "联邦参议院在联邦层面代表各州的利益。",
+  "use": {
+   "col": [
+    [
+     "dem Bundesrat zustimmen",
+     "同意联邦参议院的意见"
+    ],
+    [
+     "der Bundesrat billigt ein Gesetz",
+     "联邦参议院批准一项法律"
+    ]
+   ],
+   "tip": "别和 Bundestag 混淆：Bundesrat 代表各州"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Bundesland",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Bundesländer",
+  "zh": "联邦州",
+  "ex": [
+   "Bildung ist in Deutschland Sache der einzelnen Bundesländer."
+  ],
+  "ex_zh": "在德国，教育是各个联邦州自己的事务。",
+  "use": {
+   "col": [
+    [
+     "das Bundesland Bayern",
+     "巴伐利亚州"
+    ],
+    [
+     "die alten und neuen Bundesländer",
+     "老联邦州和新联邦州"
+    ]
+   ],
+   "tip": "德国共 16 个 Bundesländer；也说 Land"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Bundesregierung",
+  "art": "die",
+  "pos": "n",
+  "zh": "联邦政府",
+  "ex": [
+   "Die Bundesregierung will die Energiepreise im nächsten Jahr senken."
+  ],
+  "ex_zh": "联邦政府想在明年降低能源价格。",
+  "use": {
+   "col": [
+    [
+     "die Bundesregierung beschließt",
+     "联邦政府决定"
+    ],
+    [
+     "die Bundesregierung kritisieren",
+     "批评联邦政府"
+    ]
+   ],
+   "tip": "由总理和部长们组成；各州的政府叫 Landesregierung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Bundeskanzler",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Bundeskanzler",
+  "zh": "联邦总理",
+  "ex": [
+   "Der Bundeskanzler hat in seiner Rede neue Reformen angekündigt."
+  ],
+  "ex_zh": "联邦总理在讲话中宣布了新的改革。",
+  "use": {
+   "col": [
+    [
+     "zum Bundeskanzler gewählt werden",
+     "被选为联邦总理"
+    ],
+    [
+     "das Amt des Bundeskanzlers",
+     "联邦总理一职"
+    ]
+   ],
+   "tip": "女性 die Bundeskanzlerin；简称 Kanzler"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Minister",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Minister",
+  "zh": "部长",
+  "ex": [
+   "Der Minister musste sich vor dem Parlament erklären."
+  ],
+  "ex_zh": "部长不得不在议会面前作出解释。",
+  "use": {
+   "col": [
+    [
+     "einen Minister entlassen",
+     "罢免部长"
+    ],
+    [
+     "der Minister tritt zurück",
+     "部长辞职"
+    ]
+   ],
+   "tip": "女性 die Ministerin；Ministerpräsident 另指州总理"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Ministerium",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Ministerien",
+  "zh": "部（政府部门）",
+  "ex": [
+   "Das Ministerium prüft derzeit mehrere Anträge auf Fördergelder."
+  ],
+  "ex_zh": "该部目前正在审查几份资助申请。",
+  "use": {
+   "col": [
+    [
+     "das Ministerium für Bildung",
+     "教育部"
+    ],
+    [
+     "ein Ministerium leiten",
+     "领导一个部"
+    ]
+   ],
+   "tip": "如 Innenministerium 内政部"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Regierung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Regierungen",
+  "zh": "政府",
+  "ex": [
+   "Die Regierung hat ein neues Paket gegen die Inflation beschlossen."
+  ],
+  "ex_zh": "政府通过了一揽子抗通胀的新措施。",
+  "use": {
+   "col": [
+    [
+     "an die Regierung kommen",
+     "上台执政"
+    ],
+    [
+     "die Regierung bilden",
+     "组阁"
+    ]
+   ],
+   "tip": "动词 regieren；Regierungschef 政府首脑"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Opposition",
+  "art": "die",
+  "pos": "n",
+  "zh": "反对党；在野派",
+  "ex": [
+   "Die Opposition kritisiert den Haushaltsentwurf der Regierung scharf."
+  ],
+  "ex_zh": "反对党强烈批评政府的预算草案。",
+  "use": {
+   "col": [
+    [
+     "in der Opposition sein",
+     "在野"
+    ],
+    [
+     "die Opposition anführen",
+     "领导反对党"
+    ]
+   ],
+   "tip": "反义：Regierung；Oppositionsführer 反对党领袖"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Koalition",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Koalitionen",
+  "zh": "联合政府；联盟",
+  "ex": [
+   "Die Koalition einigte sich nach langen Verhandlungen auf einen Kompromiss."
+  ],
+  "ex_zh": "联合政府在长时间谈判后达成了妥协。",
+  "use": {
+   "col": [
+    [
+     "eine Koalition bilden",
+     "组建联合政府"
+    ],
+    [
+     "die Koalition platzt",
+     "联合政府破裂"
+    ]
+   ],
+   "tip": "Koalitionsvertrag 是联合执政协议"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Partei",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Parteien",
+  "zh": "政党",
+  "ex": [
+   "Er ist vor fünf Jahren in eine Partei eingetreten."
+  ],
+  "ex_zh": "他五年前加入了一个政党。",
+  "use": {
+   "col": [
+    [
+     "in eine Partei eintreten",
+     "加入政党"
+    ],
+    [
+     "aus der Partei austreten",
+     "退党"
+    ]
+   ],
+   "tip": "Partei 也指诉讼中的一方；Parteitag 党代会"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gesetzentwurf",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Gesetzentwürfe",
+  "zh": "法律草案",
+  "ex": [
+   "Der Gesetzentwurf wurde im Ausschuss noch einmal überarbeitet."
+  ],
+  "ex_zh": "法律草案在委员会里又被修改了一遍。",
+  "use": {
+   "col": [
+    [
+     "einen Gesetzentwurf einbringen",
+     "提交法律草案"
+    ],
+    [
+     "einen Gesetzentwurf ablehnen",
+     "否决法律草案"
+    ]
+   ],
+   "tip": "也写 Gesetzesentwurf；Entwurf 本身是「草稿」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Verfassung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Verfassungen",
+  "zh": "宪法；（身体、精神）状态",
+  "ex": [
+   "Die Verfassung des Landes garantiert jedem Bürger grundlegende Rechte und Freiheiten."
+  ],
+  "ex_zh": "该国宪法保障每个公民的基本权利和自由。",
+  "use": {
+   "senses": [
+    "宪法",
+    "（身体或精神的）状态"
+   ],
+   "col": [
+    [
+     "die Verfassung ändern",
+     "修改宪法"
+    ],
+    [
+     "in guter Verfassung sein",
+     "状态良好"
+    ]
+   ],
+   "tip": "德国的宪法叫 Grundgesetz；形容词 verfassungswidrig"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Grundgesetz",
+  "art": "das",
+  "pos": "n",
+  "zh": "基本法（德国宪法）",
+  "ex": [
+   "Artikel 1 des Grundgesetzes schützt die Würde des Menschen."
+  ],
+  "ex_zh": "基本法第一条保护人的尊严。",
+  "use": {
+   "col": [
+    [
+     "Artikel 3 des Grundgesetzes",
+     "基本法第三条"
+    ],
+    [
+     "im Grundgesetz stehen",
+     "写在基本法里"
+    ]
+   ],
+   "tip": "缩写 GG；1949 年生效"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Demokratie",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Demokratien",
+  "zh": "民主；民主国家",
+  "ex": [
+   "Eine funktionierende Demokratie braucht eine freie Presse und unabhängige Gerichte."
+  ],
+  "ex_zh": "运转良好的民主制度需要自由的新闻界和独立的法院。",
+  "use": {
+   "col": [
+    [
+     "die Demokratie verteidigen",
+     "捍卫民主"
+    ],
+    [
+     "eine parlamentarische Demokratie",
+     "议会民主制"
+    ]
+   ],
+   "tip": "形容词 demokratisch；反义 Diktatur"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Diktatur",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Diktaturen",
+  "zh": "独裁；独裁国家",
+  "ex": [
+   "Viele Menschen litten in der Diktatur jahrelang unter Angst und Armut."
+  ],
+  "ex_zh": "许多人在独裁统治下多年饱受恐惧和贫困之苦。",
+  "use": {
+   "col": [
+    [
+     "eine Diktatur stürzen",
+     "推翻独裁政权"
+    ],
+    [
+     "unter einer Diktatur leben",
+     "生活在独裁统治下"
+    ]
+   ],
+   "tip": "人叫 der Diktator"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gerechtigkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "公正；公平",
+  "ex": [
+   "Viele Menschen fordern mehr soziale Gerechtigkeit im Steuersystem."
+  ],
+  "ex_zh": "许多人要求税收制度更加社会公平。",
+  "use": {
+   "col": [
+    [
+     "soziale Gerechtigkeit",
+     "社会公平"
+    ],
+    [
+     "für Gerechtigkeit kämpfen",
+     "为公正而斗争"
+    ]
+   ],
+   "tip": "形容词 gerecht，反义 Ungerechtigkeit"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gleichberechtigung",
+  "art": "die",
+  "pos": "n",
+  "zh": "平等权利；男女平权",
+  "ex": [
+   "Die Gleichberechtigung von Frau und Mann steht im Grundgesetz."
+  ],
+  "ex_zh": "男女平等写在基本法里。",
+  "use": {
+   "col": [
+    [
+     "die Gleichberechtigung der Geschlechter",
+     "性别平权"
+    ],
+    [
+     "für Gleichberechtigung eintreten",
+     "主张平等权利"
+    ]
+   ],
+   "tip": "形容词 gleichberechtigt；强调法律权利"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Staat",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Staaten",
+  "zh": "国家；政府",
+  "ex": [
+   "Der Staat muss für ein faires Bildungssystem sorgen."
+  ],
+  "ex_zh": "国家必须保证公平的教育体系。",
+  "use": {
+   "senses": [
+    "国家",
+    "国家机构、政府"
+   ],
+   "col": [
+    [
+     "ein demokratischer Staat",
+     "民主国家"
+    ],
+    [
+     "Staat und Kirche",
+     "政教关系"
+    ]
+   ],
+   "tip": "Staat 强调国家机构，Land 常指地理上的国家或州"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Menschenrechte (Pl.)",
+  "art": "die",
+  "pos": "n",
+  "zh": "人权",
+  "ex": [
+   "Die Verletzung der Menschenrechte wurde international scharf verurteilt."
+  ],
+  "ex_zh": "对人权的侵犯受到了国际社会的强烈谴责。",
+  "use": {
+   "col": [
+    [
+     "die Menschenrechte achten",
+     "尊重人权"
+    ],
+    [
+     "gegen die Menschenrechte verstoßen",
+     "违反人权"
+    ]
+   ],
+   "tip": "单数 das Menschenrecht 少用"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Meinungsfreiheit",
+  "art": "die",
+  "pos": "n",
+  "zh": "言论自由",
+  "ex": [
+   "Die Meinungsfreiheit gilt in Deutschland auch für unbequeme und umstrittene Äußerungen."
+  ],
+  "ex_zh": "在德国，言论自由也适用于令人不舒服和有争议的言论。",
+  "use": {
+   "col": [
+    [
+     "die Meinungsfreiheit einschränken",
+     "限制言论自由"
+    ],
+    [
+     "das Recht auf Meinungsfreiheit",
+     "言论自由权"
+    ]
+   ],
+   "tip": "同类：Pressefreiheit、Religionsfreiheit"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Pressefreiheit",
+  "art": "die",
+  "pos": "n",
+  "zh": "新闻自由",
+  "ex": [
+   "In vielen Ländern ist die Pressefreiheit stark eingeschränkt."
+  ],
+  "ex_zh": "在许多国家，新闻自由受到严重限制。",
+  "use": {
+   "col": [
+    [
+     "die Pressefreiheit verteidigen",
+     "捍卫新闻自由"
+    ],
+    [
+     "eine Einschränkung der Pressefreiheit",
+     "对新闻自由的限制"
+    ]
+   ],
+   "tip": "Presse 指新闻媒体整体"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Demonstration",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Demonstrationen",
+  "zh": "游行示威",
+  "ex": [
+   "Tausende Menschen nahmen an der Demonstration gegen die Mieterhöhungen teil."
+  ],
+  "ex_zh": "数千人参加了反对涨房租的游行。",
+  "use": {
+   "col": [
+    [
+     "an einer Demonstration teilnehmen",
+     "参加游行"
+    ],
+    [
+     "eine Demonstration anmelden",
+     "申报游行"
+    ]
+   ],
+   "tip": "口语常简称 Demo；动词 demonstrieren"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kundgebung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Kundgebungen",
+  "zh": "集会",
+  "ex": [
+   "Auf der Kundgebung sprachen mehrere Vertreter der Gewerkschaft."
+  ],
+  "ex_zh": "工会的几位代表在集会上发言。",
+  "use": {
+   "col": [
+    [
+     "eine Kundgebung veranstalten",
+     "举办集会"
+    ],
+    [
+     "zu einer Kundgebung aufrufen",
+     "号召集会"
+    ]
+   ],
+   "tip": "Demonstration 是游行，Kundgebung 多为站着听发言的集会"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Verhandlung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Verhandlungen",
+  "zh": "谈判；庭审",
+  "ex": [
+   "Die Verhandlungen zwischen beiden Ländern dauern bereits Monate."
+  ],
+  "ex_zh": "两国之间的谈判已经持续了好几个月。",
+  "use": {
+   "senses": [
+    "谈判",
+    "（法院）开庭审理"
+   ],
+   "col": [
+    [
+     "Verhandlungen führen",
+     "进行谈判"
+    ],
+    [
+     "die Verhandlungen scheitern",
+     "谈判破裂"
+    ]
+   ],
+   "tip": "谈判多用复数；法庭上的开庭也叫 Verhandlung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Abkommen",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Abkommen",
+  "zh": "协定；协议",
+  "ex": [
+   "Beide Länder unterzeichneten ein Abkommen über die Zusammenarbeit in der Energiepolitik."
+  ],
+  "ex_zh": "两国签署了一项能源政策合作协定。",
+  "use": {
+   "col": [
+    [
+     "ein Abkommen schließen",
+     "缔结协定"
+    ],
+    [
+     "ein Abkommen unterzeichnen",
+     "签署协定"
+    ]
+   ],
+   "tip": "比 Vertrag 稍不正式；动词 übereinkommen 很少用"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Botschafter",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Botschafter",
+  "zh": "大使",
+  "ex": [
+   "Der Botschafter wurde zu einem Gespräch ins Außenministerium einbestellt."
+  ],
+  "ex_zh": "大使被召到外交部谈话。",
+  "use": {
+   "col": [
+    [
+     "den Botschafter einbestellen",
+     "召见大使"
+    ],
+    [
+     "der Botschafter der Bundesrepublik",
+     "德意志联邦共和国大使"
+    ]
+   ],
+   "tip": "女性 die Botschafterin"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Subvention",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Subventionen",
+  "zh": "补贴",
+  "ex": [
+   "Die Subventionen für Elektroautos wurden zum Jahresende gestrichen."
+  ],
+  "ex_zh": "电动汽车的补贴在年底被取消了。",
+  "use": {
+   "col": [
+    [
+     "Subventionen kürzen",
+     "削减补贴"
+    ],
+    [
+     "staatliche Subventionen",
+     "国家补贴"
+    ]
+   ],
+   "tip": "动词 subventionieren；多指政府对企业或产业的资助"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Staatsanwalt",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Staatsanwälte",
+  "zh": "检察官",
+  "ex": [
+   "Der Staatsanwalt erhob nach monatelangen Ermittlungen Anklage gegen den Geschäftsführer."
+  ],
+  "ex_zh": "经过数月调查，检察官对经理提起了公诉。",
+  "use": {
+   "col": [
+    [
+     "der Staatsanwalt ermittelt",
+     "检察官进行调查"
+    ],
+    [
+     "Anklage erheben",
+     "提起公诉"
+    ]
+   ],
+   "tip": "女性 die Staatsanwältin"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Staatsanwaltschaft",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Staatsanwaltschaften",
+  "zh": "检察院",
+  "ex": [
+   "Die Staatsanwaltschaft ermittelt wegen Betrugs gegen mehrere Mitarbeiter."
+  ],
+  "ex_zh": "检察院正在就诈骗罪调查几名员工。",
+  "use": {
+   "col": [
+    [
+     "die Staatsanwaltschaft ermittelt",
+     "检察院调查"
+    ],
+    [
+     "Anzeige bei der Staatsanwaltschaft erstatten",
+     "向检察院报案"
+    ]
+   ],
+   "tip": "缩写 StA；wegen + Gen. 指罪名"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Verteidiger",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Verteidiger",
+  "zh": "辩护律师",
+  "ex": [
+   "Der Verteidiger beantragte am Ende der Verhandlung einen Freispruch für seinen Mandanten."
+  ],
+  "ex_zh": "庭审结束时，辩护律师请求为他的当事人宣告无罪。",
+  "use": {
+   "col": [
+    [
+     "einen Verteidiger beauftragen",
+     "委托辩护律师"
+    ],
+    [
+     "der Verteidiger plädiert",
+     "辩护律师作辩护发言"
+    ]
+   ],
+   "tip": "女性 die Verteidigerin；也指足球后卫"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Angeklagte",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Angeklagten",
+  "zh": "被告",
+  "ex": [
+   "Der Angeklagte bestritt vor dem Landgericht alle Vorwürfe der Staatsanwaltschaft."
+  ],
+  "ex_zh": "被告在地区法院否认了检察院的所有指控。",
+  "use": {
+   "col": [
+    [
+     "der Angeklagte schweigt",
+     "被告保持沉默"
+    ],
+    [
+     "einen Angeklagten freisprechen",
+     "判被告无罪"
+    ]
+   ],
+   "tip": "形容词变格：der Angeklagte / ein Angeklagter"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Verfahren",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Verfahren",
+  "zh": "程序；诉讼程序；方法",
+  "ex": [
+   "Das Verfahren gegen den Unternehmer wurde nach nur zwei Verhandlungstagen eingestellt."
+  ],
+  "ex_zh": "对这名企业家的诉讼在仅仅两个开庭日之后就被终止了。",
+  "use": {
+   "senses": [
+    "（法律）程序",
+    "方法、工艺"
+   ],
+   "col": [
+    [
+     "ein Verfahren einleiten",
+     "启动程序"
+    ],
+    [
+     "ein Verfahren einstellen",
+     "终止程序"
+    ]
+   ],
+   "tip": "法律中指 Gerichtsverfahren；技术上也指「工艺、方法」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Ermittlung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Ermittlungen",
+  "zh": "调查；侦查",
+  "ex": [
+   "Die Ermittlungen der Polizei dauern auch nach drei Monaten noch an."
+  ],
+  "ex_zh": "警方的调查三个月后仍在继续。",
+  "use": {
+   "col": [
+    [
+     "Ermittlungen aufnehmen",
+     "展开调查"
+    ],
+    [
+     "die Ermittlungen einstellen",
+     "终止调查"
+    ]
+   ],
+   "tip": "多用复数；动词 ermitteln；Ermittler 调查人员"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Festnahme",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Festnahmen",
+  "zh": "逮捕；拘留",
+  "ex": [
+   "Nach der Festnahme wurde der Verdächtige dem Haftrichter vorgeführt."
+  ],
+  "ex_zh": "嫌疑人被拘留后被带到羁押法官面前。",
+  "use": {
+   "col": [
+    [
+     "bei der Festnahme",
+     "逮捕时"
+    ],
+    [
+     "eine vorläufige Festnahme",
+     "临时拘留"
+    ]
+   ],
+   "tip": "动词 festnehmen（可分）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Haft",
+  "art": "die",
+  "pos": "n",
+  "zh": "监禁；拘押",
+  "ex": [
+   "Wegen der Körperverletzung wurde er zu zwei Jahren Haft verurteilt."
+  ],
+  "ex_zh": "因伤害罪，他被判处两年监禁。",
+  "use": {
+   "col": [
+    [
+     "in Haft sein",
+     "被关押"
+    ],
+    [
+     "aus der Haft entlassen werden",
+     "被释放"
+    ]
+   ],
+   "tip": "Untersuchungshaft 审前羁押；Gefängnis 指监狱建筑"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Freiheitsstrafe",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Freiheitsstrafen",
+  "zh": "徒刑",
+  "ex": [
+   "Das Gericht verhängte eine Freiheitsstrafe von zwei Jahren auf Bewährung."
+  ],
+  "ex_zh": "法院判处两年缓刑的徒刑。",
+  "use": {
+   "col": [
+    [
+     "eine Freiheitsstrafe verhängen",
+     "判处徒刑"
+    ],
+    [
+     "zu einer Freiheitsstrafe verurteilen",
+     "判处徒刑"
+    ]
+   ],
+   "tip": "Geldstrafe 是罚金"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Geldstrafe",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Geldstrafen",
+  "zh": "罚金",
+  "ex": [
+   "Für die Trunkenheitsfahrt muss er eine hohe Geldstrafe zahlen."
+  ],
+  "ex_zh": "他因酒驾必须缴纳一大笔罚金。",
+  "use": {
+   "col": [
+    [
+     "eine Geldstrafe zahlen",
+     "缴纳罚金"
+    ],
+    [
+     "zu einer Geldstrafe verurteilt werden",
+     "被判罚金"
+    ]
+   ],
+   "tip": "刑法上的罚金；较轻的违规是 Bußgeld"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Bußgeld",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Bußgelder",
+  "zh": "罚款",
+  "ex": [
+   "Wer falsch parkt, muss mit einem Bußgeld rechnen."
+  ],
+  "ex_zh": "乱停车的人要做好被罚款的准备。",
+  "use": {
+   "col": [
+    [
+     "ein Bußgeld zahlen",
+     "缴纳罚款"
+    ],
+    [
+     "ein Bußgeld verhängen",
+     "处以罚款"
+    ]
+   ],
+   "tip": "用于 Ordnungswidrigkeit；Bußgeldbescheid 罚款通知"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Verstoß",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Verstöße",
+  "zh": "违反；违规",
+  "ex": [
+   "Ein Verstoß gegen die Hausordnung kann zur Kündigung führen."
+  ],
+  "ex_zh": "违反住户守则可能导致被解约。",
+  "gov": "Verstoß gegen + Akk.",
+  "use": {
+   "col": [
+    [
+     "ein schwerer Verstoß",
+     "严重违规"
+    ],
+    [
+     "bei Verstößen",
+     "在违规的情况下"
+    ]
+   ],
+   "tip": "动词 verstoßen gegen；注意复数有变音"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Straftat",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Straftaten",
+  "zh": "犯罪行为",
+  "ex": [
+   "Diebstahl ist eine Straftat und wird mit Geldstrafe oder Haft bestraft."
+  ],
+  "ex_zh": "盗窃是犯罪，会被处以罚金或监禁。",
+  "use": {
+   "col": [
+    [
+     "eine Straftat begehen",
+     "犯罪"
+    ],
+    [
+     "eine Straftat anzeigen",
+     "举报犯罪"
+    ]
+   ],
+   "tip": "比 Ordnungswidrigkeit 严重；Verbrechen 指重罪"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Ordnungswidrigkeit",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Ordnungswidrigkeiten",
+  "zh": "违反秩序行为",
+  "ex": [
+   "Zu schnelles Fahren gilt als Ordnungswidrigkeit und nicht als Straftat."
+  ],
+  "ex_zh": "超速属于违反秩序行为，而不是犯罪。",
+  "use": {
+   "col": [
+    [
+     "eine Ordnungswidrigkeit begehen",
+     "违反秩序规定"
+    ],
+    [
+     "eine Ordnungswidrigkeit ahnden",
+     "处罚违规行为"
+    ]
+   ],
+   "tip": "缩写 OWi；处理方式是 Bußgeld，不留刑事记录"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Anklage",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Anklagen",
+  "zh": "起诉；指控",
+  "ex": [
+   "Die Staatsanwaltschaft hat Anklage gegen den Mann erhoben."
+  ],
+  "ex_zh": "检察院对这名男子提起了公诉。",
+  "use": {
+   "col": [
+    [
+     "Anklage erheben",
+     "提起公诉"
+    ],
+    [
+     "unter Anklage stehen",
+     "被起诉"
+    ]
+   ],
+   "tip": "动词 anklagen；Angeklagte 被告"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Freispruch",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Freisprüche",
+  "zh": "无罪释放",
+  "ex": [
+   "Das Gericht entschied auf Freispruch, weil die Beweise nicht ausreichten."
+  ],
+  "ex_zh": "因为证据不足，法院判决无罪。",
+  "use": {
+   "col": [
+    [
+     "auf Freispruch plädieren",
+     "请求判无罪"
+    ],
+    [
+     "ein Freispruch aus Mangel an Beweisen",
+     "因证据不足判无罪"
+    ]
+   ],
+   "tip": "动词 freisprechen；反义 Verurteilung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Berufung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Berufungen",
+  "zh": "上诉；任命",
+  "ex": [
+   "Der Anwalt hat gegen das Urteil Berufung eingelegt."
+  ],
+  "ex_zh": "律师对判决提出了上诉。",
+  "use": {
+   "senses": [
+    "上诉",
+    "任命、聘任",
+    "援引"
+   ],
+   "col": [
+    [
+     "Berufung einlegen",
+     "提起上诉"
+    ],
+    [
+     "die Berufung zurückweisen",
+     "驳回上诉"
+    ]
+   ],
+   "tip": "Berufung 也指「受聘担任教授」；动词 sich berufen auf"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Rechtsanwalt",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Rechtsanwälte",
+  "zh": "律师",
+  "ex": [
+   "Bei einem Streit mit dem Vermieter solltest du einen Rechtsanwalt fragen."
+  ],
+  "ex_zh": "和房东发生争执时，你应该问问律师。",
+  "use": {
+   "col": [
+    [
+     "einen Rechtsanwalt beauftragen",
+     "委托律师"
+    ],
+    [
+     "ein Rechtsanwalt für Arbeitsrecht",
+     "劳动法律师"
+    ]
+   ],
+   "tip": "女性 die Rechtsanwältin；口语和书面常用 Anwalt"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Rechtsstaat",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Rechtsstaaten",
+  "zh": "法治国家",
+  "ex": [
+   "In einem Rechtsstaat sind alle Menschen vor dem Gesetz gleich."
+  ],
+  "ex_zh": "在法治国家，所有人在法律面前一律平等。",
+  "use": {
+   "col": [
+    [
+     "ein demokratischer Rechtsstaat",
+     "民主法治国家"
+    ],
+    [
+     "die Prinzipien des Rechtsstaats",
+     "法治原则"
+    ]
+   ],
+   "tip": "形容词 rechtsstaatlich"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Terroranschlag",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Terroranschläge",
+  "zh": "恐怖袭击",
+  "ex": [
+   "Nach dem Terroranschlag wurden die Kontrollen am Flughafen verschärft."
+  ],
+  "ex_zh": "恐怖袭击之后，机场的检查被加强了。",
+  "use": {
+   "col": [
+    [
+     "einen Terroranschlag verüben",
+     "实施恐怖袭击"
+    ],
+    [
+     "einen Terroranschlag verhindern",
+     "阻止恐怖袭击"
+    ]
+   ],
+   "tip": "简称 Anschlag；Terror 是恐怖活动"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kriminalität",
+  "art": "die",
+  "pos": "n",
+  "zh": "犯罪；犯罪率",
+  "ex": [
+   "Die Kriminalität in der Innenstadt ist in den letzten Jahren gesunken."
+  ],
+  "ex_zh": "市中心的犯罪率这几年下降了。",
+  "use": {
+   "col": [
+    [
+     "organisierte Kriminalität",
+     "有组织犯罪"
+    ],
+    [
+     "die Kriminalität bekämpfen",
+     "打击犯罪"
+    ]
+   ],
+   "tip": "形容词 kriminell；通常不用复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Genehmigung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Genehmigungen",
+  "zh": "批准；许可证",
+  "ex": [
+   "Für den Umbau brauchen Sie eine Genehmigung der Stadt."
+  ],
+  "ex_zh": "改建需要得到市政府的批准。",
+  "use": {
+   "col": [
+    [
+     "eine Genehmigung beantragen",
+     "申请许可"
+    ],
+    [
+     "die Genehmigung erteilen",
+     "批准"
+    ]
+   ],
+   "tip": "动词 genehmigen；Baugenehmigung 建筑许可"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Widerspruch",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Widersprüche",
+  "zh": "异议；矛盾",
+  "ex": [
+   "Gegen den Bescheid kann man innerhalb eines Monats Widerspruch einlegen."
+  ],
+  "ex_zh": "对通知书可以在一个月内提出异议。",
+  "use": {
+   "senses": [
+    "（对行政决定的）异议",
+    "矛盾",
+    "反驳"
+   ],
+   "col": [
+    [
+     "Widerspruch einlegen",
+     "提出异议"
+    ],
+    [
+     "im Widerspruch zu etwas stehen",
+     "与某事相矛盾"
+    ]
+   ],
+   "tip": "动词 widersprechen；行政程序里是对决定的申诉"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zuständigkeit",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Zuständigkeiten",
+  "zh": "职权；管辖",
+  "ex": [
+   "Für diese Frage liegt die Zuständigkeit nicht bei uns, sondern beim Land."
+  ],
+  "ex_zh": "这个问题不归我们管，而是州政府的职权。",
+  "use": {
+   "col": [
+    [
+     "in die Zuständigkeit fallen",
+     "属于职权范围"
+    ],
+    [
+     "die Zuständigkeit klären",
+     "厘清管辖归属"
+    ]
+   ],
+   "tip": "形容词 zuständig（负责的）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Bürokratie",
+  "art": "die",
+  "pos": "n",
+  "zh": "官僚制度；繁琐的行政手续",
+  "ex": [
+   "Die Bürokratie in Deutschland nervt viele Gründer, weil jeder Antrag lange dauert."
+  ],
+  "ex_zh": "德国的官僚作风让许多创业者很烦，因为每份申请都要很久。",
+  "use": {
+   "col": [
+    [
+     "Bürokratie abbauen",
+     "精简行政手续"
+    ],
+    [
+     "ein Übermaß an Bürokratie",
+     "过多的行政手续"
+    ]
+   ],
+   "tip": "形容词 bürokratisch；常带负面含义"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Verordnung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Verordnungen",
+  "zh": "条例；法规",
+  "ex": [
+   "Die neue Verordnung tritt am ersten Januar in Kraft."
+  ],
+  "ex_zh": "新条例将于一月一日生效。",
+  "use": {
+   "senses": [
+    "条例",
+    "（医生）开药、医嘱"
+   ],
+   "col": [
+    [
+     "eine Verordnung erlassen",
+     "颁布条例"
+    ],
+    [
+     "laut Verordnung",
+     "按照条例"
+    ]
+   ],
+   "tip": "位阶低于 Gesetz；也有医嘱 Verordnung 的意思"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Richtlinie",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Richtlinien",
+  "zh": "指令；准则",
+  "ex": [
+   "Die EU hat eine neue Richtlinie zum Datenschutz erlassen."
+  ],
+  "ex_zh": "欧盟颁布了一项关于数据保护的新指令。",
+  "use": {
+   "col": [
+    [
+     "eine Richtlinie umsetzen",
+     "落实指令"
+    ],
+    [
+     "sich an die Richtlinien halten",
+     "遵守准则"
+    ]
+   ],
+   "tip": "EU-Richtlinie 需由成员国转化为本国法律"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Regelung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Regelungen",
+  "zh": "规定；安排",
+  "ex": [
+   "Die neue Regelung gilt ab dem nächsten Semester für alle Studierenden."
+  ],
+  "ex_zh": "新规定从下学期起适用于所有学生。",
+  "use": {
+   "col": [
+    [
+     "eine Regelung treffen",
+     "作出规定"
+    ],
+    [
+     "eine gesetzliche Regelung",
+     "法律规定"
+    ]
+   ],
+   "tip": "动词 regeln；比 Vorschrift 更泛指「安排」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Abschiebung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Abschiebungen",
+  "zh": "遣返；驱逐出境",
+  "ex": [
+   "Gegen die Abschiebung der Familie legte der Anwalt Klage ein."
+  ],
+  "ex_zh": "律师对遣返这家人提起了诉讼。",
+  "use": {
+   "col": [
+    [
+     "von der Abschiebung bedroht sein",
+     "面临被遣返"
+    ],
+    [
+     "eine Abschiebung aussetzen",
+     "暂缓遣返"
+    ]
+   ],
+   "tip": "动词 abschieben（可分）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Asylbewerber",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Asylbewerber",
+  "zh": "寻求庇护者",
+  "ex": [
+   "Asylbewerber dürfen nach einigen Monaten unter bestimmten Bedingungen in Deutschland arbeiten."
+  ],
+  "ex_zh": "寻求庇护者在几个月后，在一定条件下可以在德国工作。",
+  "use": {
+   "col": [
+    [
+     "einen Asylbewerber aufnehmen",
+     "接收寻求庇护者"
+    ],
+    [
+     "die Unterkunft für Asylbewerber",
+     "寻求庇护者的住所"
+    ]
+   ],
+   "tip": "女性 die Asylbewerberin"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Flüchtling",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Flüchtlinge",
+  "zh": "难民",
+  "ex": [
+   "Viele Flüchtlinge lernen schnell Deutsch, um arbeiten zu können."
+  ],
+  "ex_zh": "许多难民很快学会德语，以便能够工作。",
+  "use": {
+   "col": [
+    [
+     "einen Flüchtling aufnehmen",
+     "接收难民"
+    ],
+    [
+     "das Flüchtlingslager",
+     "难民营"
+    ]
+   ],
+   "tip": "n-变格：den Flüchtling；中性说法 Geflüchtete"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Einwanderung",
+  "art": "die",
+  "pos": "n",
+  "zh": "移民（入境）",
+  "ex": [
+   "Deutschland braucht Einwanderung, um den Fachkräftemangel zu lindern."
+  ],
+  "ex_zh": "德国需要移民来缓解专业人才短缺。",
+  "use": {
+   "col": [
+    [
+     "die Einwanderung steuern",
+     "调控移民"
+    ],
+    [
+     "ein Einwanderungsgesetz",
+     "移民法"
+    ]
+   ],
+   "tip": "动词 einwandern（ist）；反义 Auswanderung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Einwanderer",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Einwanderer",
+  "zh": "移民（入境者）",
+  "ex": [
+   "Viele Einwanderer gründen kleine Betriebe und schaffen Arbeitsplätze."
+  ],
+  "ex_zh": "许多移民创办小企业，创造就业岗位。",
+  "use": {
+   "col": [
+    [
+     "ein Einwanderer der zweiten Generation",
+     "第二代移民"
+    ],
+    [
+     "Einwanderer aus der Türkei",
+     "来自土耳其的移民"
+    ]
+   ],
+   "tip": "女性 die Einwanderin；Migrant 范围更广"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Auswanderung",
+  "art": "die",
+  "pos": "n",
+  "zh": "移居国外",
+  "ex": [
+   "Die Auswanderung nach Kanada wurde in den letzten Jahren beliebter."
+  ],
+  "ex_zh": "移居加拿大这几年变得更受欢迎了。",
+  "use": {
+   "col": [
+    [
+     "die Auswanderung planen",
+     "计划移居国外"
+    ],
+    [
+     "eine Welle der Auswanderung",
+     "移居国外的浪潮"
+    ]
+   ],
+   "tip": "动词 auswandern（ist）；Auswanderer 移出者"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zuwanderung",
+  "art": "die",
+  "pos": "n",
+  "zh": "迁入；外来移民",
+  "ex": [
+   "Die Zuwanderung der letzten Jahre hat die Bevölkerungszahl in Deutschland stabil gehalten."
+  ],
+  "ex_zh": "近几年的外来移民使德国的人口数量保持稳定。",
+  "use": {
+   "col": [
+    [
+     "die Zuwanderung begrenzen",
+     "限制移民流入"
+    ],
+    [
+     "Zuwanderung aus der EU",
+     "来自欧盟的移民"
+    ]
+   ],
+   "tip": "政治与官方用语，与 Einwanderung 意思接近"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Herkunftsland",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Herkunftsländer",
+  "zh": "原籍国",
+  "ex": [
+   "Bei der Anhörung musste er die Lage in seinem Herkunftsland schildern."
+  ],
+  "ex_zh": "在听证会上，他必须陈述原籍国的情况。",
+  "use": {
+   "col": [
+    [
+     "in das Herkunftsland zurückkehren",
+     "返回原籍国"
+    ],
+    [
+     "sichere Herkunftsländer",
+     "安全原籍国"
+    ]
+   ],
+   "tip": "相关：Aufnahmeland 接收国"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Integrationskurs",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Integrationskurse",
+  "zh": "融入课程",
+  "ex": [
+   "Im Integrationskurs lernen Zugewanderte Deutsch und die Grundlagen des Landes."
+  ],
+  "ex_zh": "在融入课程中，新移民学习德语和这个国家的基本知识。",
+  "use": {
+   "col": [
+    [
+     "einen Integrationskurs besuchen",
+     "参加融入课程"
+    ],
+    [
+     "zum Integrationskurs verpflichtet sein",
+     "有义务参加融入课程"
+    ]
+   ],
+   "tip": "包括语言课和 Orientierungskurs，由 BAMF 管理"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Diskriminierung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Diskriminierungen",
+  "zh": "歧视",
+  "ex": [
+   "Diskriminierung bei der Wohnungssuche ist leider immer noch ein Problem."
+  ],
+  "ex_zh": "找房子时遇到的歧视遗憾地依然是个问题。",
+  "use": {
+   "col": [
+    [
+     "Diskriminierung am Arbeitsplatz",
+     "职场歧视"
+    ],
+    [
+     "vor Diskriminierung schützen",
+     "保护免受歧视"
+    ]
+   ],
+   "tip": "动词 diskriminieren；AGG 是反歧视法"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Rassismus",
+  "art": "der",
+  "pos": "n",
+  "zh": "种族主义",
+  "ex": [
+   "Rassismus darf in der Gesellschaft keinen Platz haben."
+  ],
+  "ex_zh": "种族主义在社会上不应有立足之地。",
+  "use": {
+   "col": [
+    [
+     "gegen Rassismus kämpfen",
+     "反对种族主义"
+    ],
+    [
+     "struktureller Rassismus",
+     "结构性种族主义"
+    ]
+   ],
+   "tip": "形容词 rassistisch；Rassist 种族主义者"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Vorurteil",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Vorurteile",
+  "zh": "偏见",
+  "ex": [
+   "Gegen Ausländer gibt es leider noch viele Vorurteile."
+  ],
+  "ex_zh": "对外国人遗憾地仍然存在很多偏见。",
+  "gov": "Vorurteil gegen + Akk.",
+  "use": {
+   "col": [
+    [
+     "Vorurteile abbauen",
+     "消除偏见"
+    ],
+    [
+     "ein Vorurteil haben",
+     "有偏见"
+    ]
+   ],
+   "tip": "Klischee 是刻板印象"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Vielfalt",
+  "art": "die",
+  "pos": "n",
+  "zh": "多样性",
+  "ex": [
+   "Die kulturelle Vielfalt macht unsere Stadt lebendig und für Firmen attraktiv."
+  ],
+  "ex_zh": "文化多样性让我们的城市充满活力，也对企业有吸引力。",
+  "use": {
+   "col": [
+    [
+     "kulturelle Vielfalt",
+     "文化多样性"
+    ],
+    [
+     "Vielfalt fördern",
+     "促进多样性"
+    ]
+   ],
+   "tip": "形容词 vielfältig；常用于 Diversität 的位置"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Mitgliedstaat",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Mitgliedstaaten",
+  "zh": "成员国",
+  "ex": [
+   "Alle Mitgliedstaaten müssen die Richtlinie in nationales Recht umsetzen."
+  ],
+  "ex_zh": "所有成员国都必须把该指令转化为国内法。",
+  "use": {
+   "col": [
+    [
+     "die Mitgliedstaaten der EU",
+     "欧盟成员国"
+    ],
+    [
+     "ein neuer Mitgliedstaat",
+     "新成员国"
+    ]
+   ],
+   "tip": "也写 Mitgliedsstaat；复数 Mitgliedstaaten"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Währung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Währungen",
+  "zh": "货币",
+  "ex": [
+   "Der Euro ist die gemeinsame Währung vieler europäischer Länder."
+  ],
+  "ex_zh": "欧元是许多欧洲国家共用的货币。",
+  "use": {
+   "col": [
+    [
+     "eine stabile Währung",
+     "稳定的货币"
+    ],
+    [
+     "die Währung abwerten",
+     "使货币贬值"
+    ]
+   ],
+   "tip": "Euro-Zone 欧元区；Geld 是一般的「钱」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gipfel",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Gipfel",
+  "zh": "峰会；山顶",
+  "ex": [
+   "Beim Gipfel in Brüssel sprachen die Staatschefs über die Energiekrise."
+  ],
+  "ex_zh": "在布鲁塞尔峰会上，各国领导人讨论了能源危机。",
+  "use": {
+   "senses": [
+    "峰会",
+    "山顶"
+   ],
+   "col": [
+    [
+     "ein Gipfeltreffen",
+     "峰会"
+    ],
+    [
+     "den Gipfel erreichen",
+     "到达山顶"
+    ]
+   ],
+   "tip": "G7-Gipfel 七国集团峰会"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Außenpolitik",
+  "art": "die",
+  "pos": "n",
+  "zh": "外交政策",
+  "ex": [
+   "Die Außenpolitik des Landes wurde von allen Seiten kritisiert."
+  ],
+  "ex_zh": "该国的外交政策受到各方批评。",
+  "use": {
+   "col": [
+    [
+     "eine aktive Außenpolitik",
+     "积极的外交政策"
+    ],
+    [
+     "die Außen- und Sicherheitspolitik",
+     "外交与安全政策"
+    ]
+   ],
+   "tip": "对应 Innenpolitik 内政；Außenminister 外交部长"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Bündnis",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Bündnisse",
+  "zh": "联盟",
+  "ex": [
+   "Mehrere Länder schlossen ein Bündnis gegen die Bedrohung."
+  ],
+  "ex_zh": "几个国家结成联盟共同应对威胁。",
+  "use": {
+   "col": [
+    [
+     "ein Bündnis eingehen",
+     "结盟"
+    ],
+    [
+     "das Bündnis verlassen",
+     "退出联盟"
+    ]
+   ],
+   "tip": "也有政党联盟，如 Bündnis 90/Die Grünen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Waffenstillstand",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Waffenstillstände",
+  "zh": "停火",
+  "ex": [
+   "Beide Seiten vereinbarten einen Waffenstillstand für zehn Tage."
+  ],
+  "ex_zh": "双方约定停火十天。",
+  "use": {
+   "col": [
+    [
+     "einen Waffenstillstand vereinbaren",
+     "约定停火"
+    ],
+    [
+     "den Waffenstillstand brechen",
+     "破坏停火"
+    ]
+   ],
+   "tip": "Frieden 是和平，Waffenstillstand 只是暂停战斗"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Militär",
+  "art": "das",
+  "pos": "n",
+  "zh": "军队；军事",
+  "ex": [
+   "Das Militär übernahm nach dem Putsch die Macht."
+  ],
+  "ex_zh": "政变后军队夺取了政权。",
+  "use": {
+   "col": [
+    [
+     "beim Militär sein",
+     "在军队服役"
+    ],
+    [
+     "das Militär einsetzen",
+     "动用军队"
+    ]
+   ],
+   "tip": "形容词 militärisch；Armee 指具体部队"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Soldat",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Soldaten",
+  "zh": "士兵",
+  "ex": [
+   "Die Soldaten wurden im Auftrag der Regierung in das Krisengebiet verlegt."
+  ],
+  "ex_zh": "士兵们奉政府之命被调往危机地区。",
+  "use": {
+   "col": [
+    [
+     "ein Soldat im Einsatz",
+     "执行任务的士兵"
+    ],
+    [
+     "Soldat auf Zeit sein",
+     "服役期有限的军人"
+    ]
+   ],
+   "tip": "n-变格：den Soldaten；女性 die Soldatin"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Entwicklungshilfe",
+  "art": "die",
+  "pos": "n",
+  "zh": "发展援助",
+  "ex": [
+   "Die Entwicklungshilfe soll vor allem Bildung und Gesundheit fördern."
+  ],
+  "ex_zh": "发展援助主要应该促进教育和卫生。",
+  "use": {
+   "col": [
+    [
+     "Entwicklungshilfe leisten",
+     "提供发展援助"
+    ],
+    [
+     "die Entwicklungshilfe kürzen",
+     "削减发展援助"
+    ]
+   ],
+   "tip": "Entwicklungszusammenarbeit 是更现代的官方说法"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Wehrpflicht",
+  "art": "die",
+  "pos": "n",
+  "zh": "兵役义务",
+  "ex": [
+   "Die allgemeine Wehrpflicht wurde in Deutschland im Jahr 2011 ausgesetzt."
+  ],
+  "ex_zh": "全民兵役义务在德国于 2011 年被暂停。",
+  "use": {
+   "col": [
+    [
+     "die allgemeine Wehrpflicht",
+     "全民兵役义务"
+    ],
+    [
+     "die Wehrpflicht abschaffen",
+     "废除兵役制"
+    ]
+   ],
+   "tip": "Wehrdienst 是具体的服役；Zivildienst 为替代役"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kommune",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Kommunen",
+  "zh": "市镇；地方政府",
+  "ex": [
+   "Die Kommunen klagen über fehlendes Geld für Schulen und Straßen."
+  ],
+  "ex_zh": "各市镇抱怨缺少用于学校和道路的资金。",
+  "use": {
+   "col": [
+    [
+     "die Kommunen entlasten",
+     "减轻地方政府负担"
+    ],
+    [
+     "in der Kommune arbeiten",
+     "在地方政府工作"
+    ]
+   ],
+   "tip": "形容词 kommunal；Gemeinde 是较小的行政单位"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Bürgermeister",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Bürgermeister",
+  "zh": "市长；镇长",
+  "ex": [
+   "Der Bürgermeister eröffnete gestern gemeinsam mit den Anwohnern das neue Bürgerzentrum."
+  ],
+  "ex_zh": "市长昨天与居民们一起为新的市民中心揭幕。",
+  "use": {
+   "col": [
+    [
+     "zum Bürgermeister gewählt werden",
+     "被选为市长"
+    ],
+    [
+     "der Oberbürgermeister",
+     "（大城市的）市长"
+    ]
+   ],
+   "tip": "女性 die Bürgermeisterin；大城市 Oberbürgermeister"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Stadtrat",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Stadträte",
+  "zh": "市议会；市议员",
+  "ex": [
+   "Der Stadtrat hat den Bau des neuen Radwegs beschlossen."
+  ],
+  "ex_zh": "市议会决定修建新的自行车道。",
+  "use": {
+   "senses": [
+    "市议会",
+    "市议员"
+   ],
+   "col": [
+    [
+     "im Stadtrat sitzen",
+     "是市议会议员"
+    ],
+    [
+     "der Stadtrat tagt",
+     "市议会开会"
+    ]
+   ],
+   "tip": "既指机构，也可指个人（复数 die Stadträte）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Ministerpräsident",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Ministerpräsidenten",
+  "zh": "州总理；总理",
+  "ex": [
+   "Der Ministerpräsident von Bayern traf sich mit dem Bundeskanzler."
+  ],
+  "ex_zh": "巴伐利亚州总理会见了联邦总理。",
+  "use": {
+   "col": [
+    [
+     "die Ministerpräsidentenkonferenz",
+     "州总理会议"
+    ],
+    [
+     "zum Ministerpräsidenten gewählt werden",
+     "被选为州总理"
+    ]
+   ],
+   "tip": "德国各州的政府首脑；女性 die Ministerpräsidentin"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Rücktritt",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Rücktritte",
+  "zh": "辞职；下台",
+  "ex": [
+   "Nach dem Skandal forderten viele den Rücktritt des Ministers."
+  ],
+  "ex_zh": "丑闻之后，许多人要求部长辞职。",
+  "use": {
+   "col": [
+    [
+     "seinen Rücktritt erklären",
+     "宣布辞职"
+    ],
+    [
+     "den Rücktritt fordern",
+     "要求辞职"
+    ]
+   ],
+   "tip": "动词 zurücktreten（ist）；也指合同的「解除」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Skandal",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Skandale",
+  "zh": "丑闻",
+  "ex": [
+   "Der Skandal um die falschen Abrechnungen erschütterte das Unternehmen."
+  ],
+  "ex_zh": "虚假账目的丑闻震动了这家公司。",
+  "use": {
+   "col": [
+    [
+     "einen Skandal aufdecken",
+     "揭露丑闻"
+    ],
+    [
+     "in einen Skandal verwickelt sein",
+     "卷入丑闻"
+    ]
+   ],
+   "tip": "形容词 skandalös"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Korruption",
+  "art": "die",
+  "pos": "n",
+  "zh": "腐败",
+  "ex": [
+   "Die Korruption in der Verwaltung wurde jahrelang nicht bekämpft."
+  ],
+  "ex_zh": "行政部门的腐败多年来没有被打击。",
+  "use": {
+   "col": [
+    [
+     "Korruption bekämpfen",
+     "打击腐败"
+    ],
+    [
+     "der Verdacht auf Korruption",
+     "腐败嫌疑"
+    ]
+   ],
+   "tip": "形容词 korrupt；Bestechung 是行贿受贿"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Volksentscheid",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Volksentscheide",
+  "zh": "公民投票",
+  "ex": [
+   "Beim Volksentscheid stimmten die meisten gegen den Bau der Autobahn."
+  ],
+  "ex_zh": "在公民投票中，多数人反对修建这条高速公路。",
+  "use": {
+   "col": [
+    [
+     "einen Volksentscheid durchführen",
+     "举行公投"
+    ],
+    [
+     "ein Volksentscheid auf Landesebene",
+     "州一级的公投"
+    ]
+   ],
+   "tip": "联邦层面不设，州和市镇层面常有；Volksabstimmung 同义"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fraktion",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Fraktionen",
+  "zh": "议会党团",
+  "ex": [
+   "Die Fraktion der Grünen lehnt den Vorschlag ab."
+  ],
+  "ex_zh": "绿党议会党团反对这个提议。",
+  "use": {
+   "col": [
+    [
+     "die Fraktion wechseln",
+     "换党团"
+    ],
+    [
+     "der Fraktionsvorsitzende",
+     "党团主席"
+    ]
+   ],
+   "tip": "Fraktion 是议会中的党团，Partei 是政党本身"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Ausschuss",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Ausschüsse",
+  "zh": "委员会",
+  "ex": [
+   "Der Ausschuss berät den Gesetzentwurf in dieser Woche."
+  ],
+  "ex_zh": "委员会本周审议法律草案。",
+  "use": {
+   "col": [
+    [
+     "einen Ausschuss einsetzen",
+     "设立委员会"
+    ],
+    [
+     "im Ausschuss sitzen",
+     "担任委员"
+    ]
+   ],
+   "tip": "Untersuchungsausschuss 调查委员会"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Debatte",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Debatten",
+  "zh": "辩论；讨论",
+  "ex": [
+   "Die Debatte über das Tempolimit hat wieder begonnen."
+  ],
+  "ex_zh": "关于限速的讨论又开始了。",
+  "use": {
+   "col": [
+    [
+     "eine Debatte führen",
+     "进行辩论"
+    ],
+    [
+     "eine hitzige Debatte",
+     "激烈的辩论"
+    ]
+   ],
+   "tip": "动词 debattieren；比 Diskussion 更正式"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Beschluss",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Beschlüsse",
+  "zh": "决议；决定",
+  "ex": [
+   "Der Beschluss des Gemeinderats wurde nach langer Debatte einstimmig gefasst."
+  ],
+  "ex_zh": "镇议会的决议在长时间辩论后全票通过。",
+  "use": {
+   "col": [
+    [
+     "einen Beschluss fassen",
+     "作出决议"
+    ],
+    [
+     "einen Beschluss aufheben",
+     "撤销决议"
+    ]
+   ],
+   "tip": "动词 beschließen；注意复数有变音"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Sanktion",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Sanktionen",
+  "zh": "制裁",
+  "ex": [
+   "Die EU verhängte neue Sanktionen gegen das Land."
+  ],
+  "ex_zh": "欧盟对该国实施了新的制裁。",
+  "use": {
+   "col": [
+    [
+     "Sanktionen verhängen",
+     "实施制裁"
+    ],
+    [
+     "Sanktionen aufheben",
+     "取消制裁"
+    ]
+   ],
+   "tip": "多用复数；动词 sanktionieren"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "kandidieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "kandidiert",
+  "forms": "kandidiert, kandidierte, hat kandidiert",
+  "zh": "竞选；参选",
+  "ex": [
+   "Sie kandidiert bei der nächsten Wahl für das Amt der Bürgermeisterin."
+  ],
+  "ex_zh": "她将在下次选举中竞选市长一职。",
+  "gov": "kandidieren für + Akk.",
+  "use": {
+   "col": [
+    [
+     "für das Amt kandidieren",
+     "竞选某个职位"
+    ],
+    [
+     "erneut kandidieren",
+     "再次参选"
+    ]
+   ],
+   "tip": "名词 der Kandidat / die Kandidatur"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "regieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "regiert",
+  "forms": "regiert, regierte, hat regiert",
+  "zh": "统治；执政",
+  "ex": [
+   "Die Partei regiert das Land seit acht Jahren."
+  ],
+  "ex_zh": "这个党已经执政八年了。",
+  "use": {
+   "col": [
+    [
+     "allein regieren",
+     "单独执政"
+    ],
+    [
+     "in einer Koalition regieren",
+     "在联合政府中执政"
+    ]
+   ],
+   "tip": "名词 die Regierung；及物动词，直接跟 Akk."
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verhandeln",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verhandelt",
+  "forms": "verhandelt, verhandelte, hat verhandelt",
+  "zh": "谈判；审理",
+  "ex": [
+   "Die Gewerkschaft verhandelt mit den Arbeitgebern über höhere Löhne."
+  ],
+  "ex_zh": "工会正在与雇主就提高工资进行谈判。",
+  "gov": "verhandeln mit + Dat. über + Akk.",
+  "use": {
+   "col": [
+    [
+     "über den Preis verhandeln",
+     "就价格谈判"
+    ],
+    [
+     "einen Fall verhandeln",
+     "审理案件"
+    ]
+   ],
+   "tip": "名词 die Verhandlung；法院里指「开庭审理」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "unterzeichnen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "unterzeichnet",
+  "forms": "unterzeichnet, unterzeichnete, hat unterzeichnet",
+  "zh": "签署",
+  "ex": [
+   "Der Minister unterzeichnete das Abkommen gestern in Paris."
+  ],
+  "ex_zh": "部长昨天在巴黎签署了这项协定。",
+  "use": {
+   "col": [
+    [
+     "einen Vertrag unterzeichnen",
+     "签署合同"
+    ],
+    [
+     "ein Abkommen unterzeichnen",
+     "签署协定"
+    ]
+   ],
+   "tip": "不可分动词；比 unterschreiben 更正式"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verabschieden",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verabschiedet",
+  "forms": "verabschiedet, verabschiedete, hat verabschiedet",
+  "zh": "通过（法律）；告别",
+  "ex": [
+   "Der Bundestag hat das Gesetz in zweiter Lesung verabschiedet."
+  ],
+  "ex_zh": "联邦议院在二读时通过了这项法律。",
+  "use": {
+   "senses": [
+    "通过（法律、预算）",
+    "告别"
+   ],
+   "col": [
+    [
+     "ein Gesetz verabschieden",
+     "通过法律"
+    ],
+    [
+     "sich von jemandem verabschieden",
+     "与某人告别"
+    ]
+   ],
+   "tip": "通过法律时是及物；告别时常用 sich verabschieden"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "abschaffen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgeschafft",
+  "forms": "schafft ab, schaffte ab, hat abgeschafft",
+  "zh": "废除；取消",
+  "ex": [
+   "Viele Studierende fordern, die Studiengebühren in allen Bundesländern wieder abzuschaffen."
+  ],
+  "ex_zh": "许多大学生要求在所有联邦州重新取消学费。",
+  "use": {
+   "col": [
+    [
+     "ein Gesetz abschaffen",
+     "废除法律"
+    ],
+    [
+     "die Todesstrafe abschaffen",
+     "废除死刑"
+    ]
+   ],
+   "tip": "可分动词；名词 die Abschaffung；反义 einführen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "anordnen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "angeordnet",
+  "forms": "ordnet an, ordnete an, hat angeordnet",
+  "zh": "下令；指示",
+  "ex": [
+   "Das Gericht ordnete eine medizinische Untersuchung des Angeklagten an."
+  ],
+  "ex_zh": "法院下令对被告进行医学检查。",
+  "use": {
+   "col": [
+    [
+     "eine Maßnahme anordnen",
+     "下令采取措施"
+    ],
+    [
+     "die Räumung anordnen",
+     "下令腾空"
+    ]
+   ],
+   "tip": "可分动词；名词 die Anordnung；比 befehlen 更偏法律与行政"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "durchsetzen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "durchgesetzt",
+  "forms": "setzt durch, setzte durch, hat durchgesetzt",
+  "zh": "贯彻；强制执行",
+  "ex": [
+   "Die Regierung konnte ihre Pläne im Parlament nicht durchsetzen."
+  ],
+  "ex_zh": "政府未能在议会中推行自己的计划。",
+  "use": {
+   "col": [
+    [
+     "eine Forderung durchsetzen",
+     "使要求得到落实"
+    ],
+    [
+     "sich durchsetzen",
+     "占上风、成功"
+    ]
+   ],
+   "tip": "可分动词；sich durchsetzen 指成功胜出"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verstoßen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verstoßen",
+  "forms": "verstößt, verstieß, hat verstoßen",
+  "zh": "违反",
+  "ex": [
+   "Die Firma hat mit der Entsorgung gegen mehrere Umweltauflagen verstoßen."
+  ],
+  "ex_zh": "这家公司在废物处理上违反了多项环保要求。",
+  "gov": "verstoßen gegen + Akk.",
+  "use": {
+   "col": [
+    [
+     "gegen das Gesetz verstoßen",
+     "违反法律"
+    ],
+    [
+     "gegen die Regeln verstoßen",
+     "违反规则"
+    ]
+   ],
+   "tip": "名词 der Verstoß；另有「逐出」义"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "beschuldigen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "beschuldigt",
+  "forms": "beschuldigt, beschuldigte, hat beschuldigt",
+  "zh": "指控；责怪",
+  "ex": [
+   "Die Zeugin beschuldigte den Nachbarn, das Auto beschädigt zu haben."
+  ],
+  "ex_zh": "女证人指控邻居损坏了那辆车。",
+  "gov": "jdn. + Gen. beschuldigen",
+  "use": {
+   "col": [
+    [
+     "jemanden zu Unrecht beschuldigen",
+     "冤枉某人"
+    ],
+    [
+     "jemanden des Diebstahls beschuldigen",
+     "指控某人盗窃"
+    ]
+   ],
+   "tip": "名词 die Beschuldigung；比 anklagen 口语"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "anklagen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "angeklagt",
+  "forms": "klagt an, klagte an, hat angeklagt",
+  "zh": "起诉；控告",
+  "ex": [
+   "Der Mann wurde nach einem Jahr Ermittlungen wegen Betrugs angeklagt."
+  ],
+  "ex_zh": "经过一年调查，这名男子因诈骗罪被起诉。",
+  "gov": "jdn. wegen + Gen. anklagen",
+  "use": {
+   "col": [
+    [
+     "wegen Mordes angeklagt werden",
+     "因谋杀罪被起诉"
+    ],
+    [
+     "jemanden des Betrugs anklagen",
+     "控告某人诈骗"
+    ]
+   ],
+   "tip": "可分动词；名词 die Anklage；Angeklagte 被告"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "ermitteln",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ermittelt",
+  "forms": "ermittelt, ermittelte, hat ermittelt",
+  "zh": "调查；查明",
+  "ex": [
+   "Die Polizei ermittelt gegen mehrere Verdächtige wegen Betrugs."
+  ],
+  "ex_zh": "警方正在就诈骗罪调查几名嫌疑人。",
+  "gov": "ermitteln gegen + Akk.",
+  "use": {
+   "col": [
+    [
+     "gegen jemanden ermitteln",
+     "对某人展开调查"
+    ],
+    [
+     "den Täter ermitteln",
+     "查出行凶者"
+    ]
+   ],
+   "tip": "名词 die Ermittlung；Ermittler 调查员"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verdächtigen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verdächtigt",
+  "forms": "verdächtigt, verdächtigte, hat verdächtigt",
+  "zh": "怀疑",
+  "ex": [
+   "Die Polizei verdächtigt ihn, in den letzten Monaten Geld unterschlagen zu haben."
+  ],
+  "ex_zh": "警方怀疑他在最近几个月侵吞了钱款。",
+  "gov": "jdn. + Gen. verdächtigen",
+  "use": {
+   "col": [
+    [
+     "jemanden des Diebstahls verdächtigen",
+     "怀疑某人盗窃"
+    ],
+    [
+     "zu Unrecht verdächtigt werden",
+     "被冤枉怀疑"
+    ]
+   ],
+   "tip": "名词 der Verdacht；形容词 verdächtig"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "freisprechen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "freigesprochen",
+  "forms": "spricht frei, sprach frei, hat freigesprochen",
+  "zh": "判无罪",
+  "ex": [
+   "Das Gericht sprach den Angeklagten in allen Punkten frei."
+  ],
+  "ex_zh": "法院在所有指控上判被告无罪。",
+  "use": {
+   "col": [
+    [
+     "von einer Anklage freisprechen",
+     "对某项指控判无罪"
+    ],
+    [
+     "aus Mangel an Beweisen freisprechen",
+     "因证据不足判无罪"
+    ]
+   ],
+   "tip": "名词 der Freispruch；反义 verurteilen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verhängen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verhängt",
+  "forms": "verhängt, verhängte, hat verhängt",
+  "zh": "判处；颁布（制裁、禁令）",
+  "ex": [
+   "Das Gericht hat eine hohe Geldstrafe gegen die Firma verhängt."
+  ],
+  "ex_zh": "法院对这家公司处以高额罚金。",
+  "use": {
+   "col": [
+    [
+     "eine Strafe verhängen",
+     "判处刑罚"
+    ],
+    [
+     "ein Verbot verhängen",
+     "颁布禁令"
+    ]
+   ],
+   "tip": "不可分动词；用于官方对惩罚、限制的决定"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "einlegen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingelegt",
+  "forms": "legt ein, legte ein, hat eingelegt",
+  "zh": "提出（异议、上诉）",
+  "ex": [
+   "Er hat gegen die Entscheidung der Behörde Widerspruch eingelegt."
+  ],
+  "ex_zh": "他对官方的决定提出了异议。",
+  "use": {
+   "col": [
+    [
+     "Berufung einlegen",
+     "提起上诉"
+    ],
+    [
+     "Beschwerde einlegen",
+     "提出申诉"
+    ]
+   ],
+   "tip": "可分动词；表示正式提出，与 Widerspruch、Berufung 等搭配"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "vorladen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "vorgeladen",
+  "forms": "lädt vor, lud vor, hat vorgeladen",
+  "zh": "传唤",
+  "ex": [
+   "Die Polizei hat ihn als Zeugen zur Vernehmung vorgeladen."
+  ],
+  "ex_zh": "警方传唤他作为证人接受讯问。",
+  "use": {
+   "col": [
+    [
+     "als Zeuge vorgeladen werden",
+     "被传唤作证"
+    ],
+    [
+     "zur Verhandlung vorladen",
+     "传唤出庭"
+    ]
+   ],
+   "tip": "可分动词；名词 die Vorladung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "aussagen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ausgesagt",
+  "forms": "sagt aus, sagte aus, hat ausgesagt",
+  "zh": "作证；陈述",
+  "ex": [
+   "Der Zeuge sagte vor Gericht gegen den Angeklagten aus."
+  ],
+  "ex_zh": "证人在法庭上作了对被告不利的证词。",
+  "use": {
+   "col": [
+    [
+     "als Zeuge aussagen",
+     "作为证人作证"
+    ],
+    [
+     "gegen jemanden aussagen",
+     "作对某人不利的证词"
+    ]
+   ],
+   "tip": "可分动词；名词 die Aussage"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "abschieben",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgeschoben",
+  "forms": "schiebt ab, schob ab, hat abgeschoben",
+  "zh": "遣返；推卸",
+  "ex": [
+   "Die Behörden wollen die Familie in ihr Heimatland abschieben."
+  ],
+  "ex_zh": "当局想把这家人遣返回原籍国。",
+  "use": {
+   "senses": [
+    "遣返出境",
+    "推卸（责任）"
+   ],
+   "col": [
+    [
+     "in ein Land abschieben",
+     "遣返到某国"
+    ],
+    [
+     "Verantwortung abschieben",
+     "推卸责任"
+    ]
+   ],
+   "tip": "可分动词；名词 die Abschiebung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "auswandern",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "ausgewandert",
+  "forms": "wandert aus, wanderte aus, ist ausgewandert",
+  "zh": "移居国外",
+  "ex": [
+   "Meine Tante ist vor zehn Jahren nach Australien ausgewandert."
+  ],
+  "ex_zh": "我姑姑十年前移居去了澳大利亚。",
+  "use": {
+   "col": [
+    [
+     "nach Kanada auswandern",
+     "移民去加拿大"
+    ],
+    [
+     "auswandern wollen",
+     "想移居国外"
+    ]
+   ],
+   "tip": "可分动词，助动词用 sein；反义 einwandern"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "einwandern",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "eingewandert",
+  "forms": "wandert ein, wanderte ein, ist eingewandert",
+  "zh": "移民入境",
+  "ex": [
+   "Seine Großeltern sind in den Sechzigerjahren nach Deutschland eingewandert."
+  ],
+  "ex_zh": "他的祖父母在上世纪六十年代移民到了德国。",
+  "use": {
+   "col": [
+    [
+     "nach Deutschland einwandern",
+     "移民来德国"
+    ],
+    [
+     "legal einwandern",
+     "合法入境移民"
+    ]
+   ],
+   "tip": "可分动词，助动词用 sein；名词 die Einwanderung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "ausweisen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ausgewiesen",
+  "forms": "weist aus, wies aus, hat ausgewiesen",
+  "zh": "驱逐出境；出示证件",
+  "ex": [
+   "Als Reaktion auf die Spionage hat das Land mehrere Diplomaten ausgewiesen."
+  ],
+  "ex_zh": "作为对间谍活动的回应，该国驱逐了几名外交官。",
+  "use": {
+   "senses": [
+    "驱逐出境",
+    "sich ausweisen：出示身份证件"
+   ],
+   "col": [
+    [
+     "aus dem Land ausweisen",
+     "驱逐出境"
+    ],
+    [
+     "sich ausweisen",
+     "出示身份证件"
+    ]
+   ],
+   "tip": "可分动词；名词 die Ausweisung 与 der Ausweis（证件）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "diskriminieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "diskriminiert",
+  "forms": "diskriminiert, diskriminierte, hat diskriminiert",
+  "zh": "歧视",
+  "ex": [
+   "Nach dem Gesetz darf niemand wegen seiner Herkunft oder seines Geschlechts diskriminiert werden."
+  ],
+  "ex_zh": "按照法律，任何人都不得因出身或性别而受到歧视。",
+  "use": {
+   "col": [
+    [
+     "jemanden benachteiligen und diskriminieren",
+     "不公平对待并歧视某人"
+    ],
+    [
+     "sich diskriminiert fühlen",
+     "感到被歧视"
+    ]
+   ],
+   "tip": "名词 die Diskriminierung；重音在 -nier-"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "unterdrücken",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "unterdrückt",
+  "forms": "unterdrückt, unterdrückte, hat unterdrückt",
+  "zh": "压迫；压制",
+  "ex": [
+   "Das Regime unterdrückt seit Jahren jede Form von Kritik und freier Berichterstattung."
+  ],
+  "ex_zh": "该政权多年来压制任何形式的批评和自由报道。",
+  "use": {
+   "col": [
+    [
+     "die Opposition unterdrücken",
+     "压制反对派"
+    ],
+    [
+     "Gefühle unterdrücken",
+     "压抑感情"
+    ]
+   ],
+   "tip": "名词 die Unterdrückung；不可分，重音在 -drück-"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "demonstrieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "demonstriert",
+  "forms": "demonstriert, demonstrierte, hat demonstriert",
+  "zh": "游行示威；演示",
+  "ex": [
+   "Am Samstag demonstrierten in der Innenstadt Tausende Menschen für mehr Klimaschutz."
+  ],
+  "ex_zh": "周六有数千人在市中心游行，要求加强气候保护。",
+  "use": {
+   "senses": [
+    "游行示威",
+    "演示、证明"
+   ],
+   "col": [
+    [
+     "für etwas demonstrieren",
+     "为某事游行"
+    ],
+    [
+     "gegen die Regierung demonstrieren",
+     "游行反对政府"
+    ]
+   ],
+   "tip": "也有「展示、演示」义；名词 die Demonstration"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "überwachen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "überwacht",
+  "forms": "überwacht, überwachte, hat überwacht",
+  "zh": "监视；监督",
+  "ex": [
+   "Die zuständigen Behörden überwachen regelmäßig die Einhaltung der gesetzlichen Grenzwerte."
+  ],
+  "ex_zh": "主管部门定期监督法定限值的遵守情况。",
+  "use": {
+   "col": [
+    [
+     "per Kamera überwachen",
+     "用摄像头监控"
+    ],
+    [
+     "den Verkehr überwachen",
+     "监控交通"
+    ]
+   ],
+   "tip": "名词 die Überwachung；不可分，重音在 -wach-"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "zurücktreten",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "zurückgetreten",
+  "forms": "tritt zurück, trat zurück, ist zurückgetreten",
+  "zh": "辞职；退出",
+  "ex": [
+   "Der Minister ist nach den Vorwürfen gegen ihn wegen der Affäre zurückgetreten."
+  ],
+  "ex_zh": "在受到指控之后，部长因这起事件辞职了。",
+  "gov": "zurücktreten von + Dat.",
+  "use": {
+   "col": [
+    [
+     "von einem Amt zurücktreten",
+     "辞去职务"
+    ],
+    [
+     "vom Vertrag zurücktreten",
+     "解除合同"
+    ]
+   ],
+   "tip": "名词 der Rücktritt；助动词用 sein；也可以指「退后一步」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "absetzen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgesetzt",
+  "forms": "setzt ab, setzte ab, hat abgesetzt",
+  "zh": "罢免；放下；取消",
+  "ex": [
+   "Nach dem Skandal setzte das Parlament den Präsidenten mit großer Mehrheit ab."
+  ],
+  "ex_zh": "丑闻之后，议会以大多数票罢免了总统。",
+  "use": {
+   "senses": [
+    "罢免",
+    "从税前扣除",
+    "（节目、日程）取消"
+   ],
+   "col": [
+    [
+     "einen Politiker absetzen",
+     "罢免政客"
+    ],
+    [
+     "eine Sendung absetzen",
+     "取消节目"
+    ]
+   ],
+   "tip": "可分动词；也有「从税中扣除」（von der Steuer absetzen）义"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "ernennen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ernannt",
+  "forms": "ernennt, ernannte, hat ernannt",
+  "zh": "任命",
+  "ex": [
+   "Der Bundespräsident ernannte sie nach der Wahl offiziell zur neuen Ministerin."
+  ],
+  "ex_zh": "选举后，联邦总统正式任命她为新任部长。",
+  "gov": "jdn. zu + Dat. ernennen",
+  "use": {
+   "col": [
+    [
+     "zum Minister ernennen",
+     "任命为部长"
+    ],
+    [
+     "jemanden zum Botschafter ernennen",
+     "任命某人为大使"
+    ]
+   ],
+   "tip": "名词 die Ernennung；不可分"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verwalten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verwaltet",
+  "forms": "verwaltet, verwaltete, hat verwaltet",
+  "zh": "管理；行政管理",
+  "ex": [
+   "Die Stadt verwaltet die Wohnungen über eine eigene Gesellschaft."
+  ],
+  "ex_zh": "市政府通过自己的公司管理这些住房。",
+  "use": {
+   "col": [
+    [
+     "ein Vermögen verwalten",
+     "管理财产"
+    ],
+    [
+     "einen Bezirk verwalten",
+     "管理一个区"
+    ]
+   ],
+   "tip": "名词 die Verwaltung；重点在行政、事务管理"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "bewilligen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bewilligt",
+  "forms": "bewilligt, bewilligte, hat bewilligt",
+  "zh": "批准（经费、申请）",
+  "ex": [
+   "Die Behörde hat den Antrag auf Wohngeld bewilligt."
+  ],
+  "ex_zh": "主管部门批准了住房补贴的申请。",
+  "use": {
+   "col": [
+    [
+     "einen Antrag bewilligen",
+     "批准申请"
+    ],
+    [
+     "Geld bewilligen",
+     "批准拨款"
+    ]
+   ],
+   "tip": "名词 die Bewilligung；常用于经费、补助"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "einreichen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingereicht",
+  "forms": "reicht ein, reichte ein, hat eingereicht",
+  "zh": "递交；提交",
+  "ex": [
+   "Bis Freitag müssen alle Unterlagen beim Amt eingereicht werden."
+  ],
+  "ex_zh": "所有材料必须在周五之前递交给办事处。",
+  "use": {
+   "col": [
+    [
+     "einen Antrag einreichen",
+     "递交申请"
+    ],
+    [
+     "Klage einreichen",
+     "提起诉讼"
+    ]
+   ],
+   "tip": "可分动词；名词 die Einreichung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "bearbeiten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bearbeitet",
+  "forms": "bearbeitet, bearbeitete, hat bearbeitet",
+  "zh": "处理；加工",
+  "ex": [
+   "Das Amt bearbeitet Ihren Antrag in der Regel innerhalb von vier Wochen."
+  ],
+  "ex_zh": "办事处一般在四周内处理您的申请。",
+  "use": {
+   "col": [
+    [
+     "einen Antrag bearbeiten",
+     "处理申请"
+    ],
+    [
+     "einen Text bearbeiten",
+     "修改文本"
+    ]
+   ],
+   "tip": "名词 die Bearbeitung；der Sachbearbeiter 经办人"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "beglaubigen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "beglaubigt",
+  "forms": "beglaubigt, beglaubigte, hat beglaubigt",
+  "zh": "公证；认证",
+  "ex": [
+   "Die Übersetzung muss von einem vereidigten Übersetzer beglaubigt werden."
+  ],
+  "ex_zh": "译文必须由宣誓翻译员认证。",
+  "use": {
+   "col": [
+    [
+     "eine Kopie beglaubigen lassen",
+     "把复印件拿去认证"
+    ],
+    [
+     "beglaubigte Abschrift",
+     "经认证的副本"
+    ]
+   ],
+   "tip": "名词 die Beglaubigung；不可分"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "bescheinigen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bescheinigt",
+  "forms": "bescheinigt, bescheinigte, hat bescheinigt",
+  "zh": "出具证明",
+  "ex": [
+   "Die Universität bescheinigt, dass er dort immatrikuliert ist."
+  ],
+  "ex_zh": "大学出具证明，他在那里注册在读。",
+  "use": {
+   "col": [
+    [
+     "eine Teilnahme bescheinigen",
+     "证明参加过"
+    ],
+    [
+     "den Empfang bescheinigen",
+     "证明已收到"
+    ]
+   ],
+   "tip": "名词 die Bescheinigung（证明）；不可分"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verweigern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verweigert",
+  "forms": "verweigert, verweigerte, hat verweigert",
+  "zh": "拒绝；拒不给予",
+  "ex": [
+   "Die Behörde verweigerte ihm das Visum ohne Begründung."
+  ],
+  "ex_zh": "主管部门没有说明理由就拒绝了他的签证。",
+  "use": {
+   "col": [
+    [
+     "die Aussage verweigern",
+     "拒绝作证"
+    ],
+    [
+     "jemandem den Zutritt verweigern",
+     "拒绝某人进入"
+    ]
+   ],
+   "tip": "名词 die Verweigerung；比 ablehnen 更强调拒绝给予"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "gewähren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gewährt",
+  "forms": "gewährt, gewährte, hat gewährt",
+  "zh": "给予；准予",
+  "ex": [
+   "Der Staat gewährt Studierenden aus einkommensschwachen Familien ein zinsgünstiges Darlehen."
+  ],
+  "ex_zh": "国家向低收入家庭的大学生提供低息贷款。",
+  "gov": "jdm. etwas gewähren",
+  "use": {
+   "col": [
+    [
+     "Asyl gewähren",
+     "给予庇护"
+    ],
+    [
+     "einen Kredit gewähren",
+     "发放贷款"
+    ]
+   ],
+   "tip": "书面语；名词 die Gewährung；不可分"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "betreffen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "betroffen",
+  "forms": "betrifft, betraf, hat betroffen",
+  "zh": "涉及；影响到",
+  "ex": [
+   "Die neue Regelung betrifft vor allem Selbstständige und kleine Betriebe im Land."
+  ],
+  "ex_zh": "新规定主要涉及个体经营者和国内的小企业。",
+  "use": {
+   "col": [
+    [
+     "von etwas betroffen sein",
+     "受某事影响"
+    ],
+    [
+     "was mich betrifft",
+     "就我而言"
+    ]
+   ],
+   "tip": "形容词 betroffen；不可分，及物动词跟 Akk."
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich einmischen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingemischt",
+  "forms": "mischt sich ein, mischte sich ein, hat sich eingemischt",
+  "zh": "干预；插手",
+  "ex": [
+   "Die Regierung will sich nicht in innere Angelegenheiten anderer Staaten einmischen."
+  ],
+  "ex_zh": "政府不想干涉其他国家的内政。",
+  "gov": "sich einmischen in + Akk.",
+  "use": {
+   "col": [
+    [
+     "sich in fremde Angelegenheiten einmischen",
+     "插手别人的事"
+    ],
+    [
+     "sich nicht einmischen",
+     "不干预"
+    ]
+   ],
+   "tip": "可分动词；名词 die Einmischung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "abwählen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgewählt",
+  "forms": "wählt ab, wählte ab, hat abgewählt",
+  "zh": "投票罢免；选下台",
+  "ex": [
+   "Die Wähler haben die Regierung bei der Wahl abgewählt."
+  ],
+  "ex_zh": "选民在选举中把政府选下了台。",
+  "use": {
+   "col": [
+    [
+     "eine Regierung abwählen",
+     "选掉一届政府"
+    ],
+    [
+     "einen Bürgermeister abwählen",
+     "罢免市长"
+    ]
+   ],
+   "tip": "可分动词；反义 wählen；名词 die Abwahl"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "ausrufen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ausgerufen",
+  "forms": "ruft aus, rief aus, hat ausgerufen",
+  "zh": "宣布；宣告",
+  "ex": [
+   "Der Präsident rief den Notstand für das ganze Land aus."
+  ],
+  "ex_zh": "总统宣布全国进入紧急状态。",
+  "use": {
+   "col": [
+    [
+     "den Notstand ausrufen",
+     "宣布紧急状态"
+    ],
+    [
+     "die Unabhängigkeit ausrufen",
+     "宣布独立"
+    ]
+   ],
+   "tip": "可分动词；也指「大声叫喊」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "vermitteln",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "vermittelt",
+  "forms": "vermittelt, vermittelte, hat vermittelt",
+  "zh": "调解；介绍；传授",
+  "ex": [
+   "Die Vereinten Nationen versuchen, zwischen den Konfliktparteien zu vermitteln."
+  ],
+  "ex_zh": "联合国试图在冲突各方之间进行调解。",
+  "use": {
+   "senses": [
+    "调解",
+    "介绍（工作、住所）",
+    "传授（知识）"
+   ],
+   "col": [
+    [
+     "zwischen den Parteien vermitteln",
+     "在各方之间调解"
+    ],
+    [
+     "eine Stelle vermitteln",
+     "介绍工作"
+    ]
+   ],
+   "tip": "名词 die Vermittlung、der Vermittler"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "demokratisch",
+  "pos": "adj",
+  "zh": "民主的",
+  "ex": [
+   "Die Entscheidung wurde nach einer langen Diskussion auf demokratische Weise getroffen."
+  ],
+  "ex_zh": "这项决定是在长时间讨论后以民主方式作出的。",
+  "use": {
+   "col": [
+    [
+     "demokratisch gewählt",
+     "民主选出的"
+    ],
+    [
+     "ein demokratischer Staat",
+     "民主国家"
+    ]
+   ],
+   "tip": "名词 die Demokratie；反义 autoritär"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "staatlich",
+  "pos": "adj",
+  "zh": "国家的；国营的",
+  "ex": [
+   "Die Universität wird größtenteils mit staatlichen Mitteln finanziert."
+  ],
+  "ex_zh": "这所大学大部分经费来自国家资金。",
+  "use": {
+   "col": [
+    [
+     "staatliche Förderung",
+     "国家资助"
+    ],
+    [
+     "staatlich anerkannt",
+     "国家认可的"
+    ]
+   ],
+   "tip": "名词 der Staat；反义 privat"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "gesetzlich",
+  "pos": "adj",
+  "zh": "法定的；依法的",
+  "ex": [
+   "Für den Mindestlohn gibt es in Deutschland eine klare gesetzliche Regelung."
+  ],
+  "ex_zh": "德国对最低工资有明确的法律规定。",
+  "use": {
+   "col": [
+    [
+     "gesetzlich vorgeschrieben",
+     "法律规定的"
+    ],
+    [
+     "der gesetzliche Anspruch",
+     "法定权利"
+    ]
+   ],
+   "tip": "名词 das Gesetz；别和 gesetzmäßig 混淆"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "legal",
+  "pos": "adj",
+  "zh": "合法的",
+  "ex": [
+   "Der Verkauf dieses Produkts ist in der EU legal."
+  ],
+  "ex_zh": "这种产品在欧盟境内销售是合法的。",
+  "use": {
+   "col": [
+    [
+     "legal arbeiten",
+     "合法工作"
+    ],
+    [
+     "legal einwandern",
+     "合法移民"
+    ]
+   ],
+   "tip": "反义 illegal；近义 rechtmäßig"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "kriminell",
+  "pos": "adj",
+  "zh": "犯罪的；有犯罪倾向的",
+  "ex": [
+   "Er ist in kriminelle Kreise geraten und musste ins Gefängnis."
+  ],
+  "ex_zh": "他陷入了犯罪圈子，不得不入狱。",
+  "use": {
+   "col": [
+    [
+     "kriminell werden",
+     "走上犯罪道路"
+    ],
+    [
+     "eine kriminelle Organisation",
+     "犯罪组织"
+    ]
+   ],
+   "tip": "名词 die Kriminalität、der Kriminelle"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "unschuldig",
+  "pos": "adj",
+  "zh": "无辜的；无罪的",
+  "ex": [
+   "Er beteuerte vor Gericht, dass er unschuldig sei."
+  ],
+  "ex_zh": "他在法庭上声明自己是无辜的。",
+  "use": {
+   "col": [
+    [
+     "unschuldig im Gefängnis sitzen",
+     "无辜被关押"
+    ],
+    [
+     "sich unschuldig fühlen",
+     "觉得自己无罪"
+    ]
+   ],
+   "tip": "反义 schuldig；名词 die Unschuld"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "friedlich",
+  "pos": "adj",
+  "zh": "和平的；平静的",
+  "ex": [
+   "Die Demonstration in der Innenstadt verlief trotz der vielen Teilnehmer völlig friedlich."
+  ],
+  "ex_zh": "尽管参加者很多，市中心的游行仍完全和平地进行。",
+  "use": {
+   "col": [
+    [
+     "friedlich zusammenleben",
+     "和平共处"
+    ],
+    [
+     "eine friedliche Lösung",
+     "和平的解决方案"
+    ]
+   ],
+   "tip": "名词 der Frieden；反义 gewalttätig"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "gewalttätig",
+  "pos": "adj",
+  "zh": "暴力的",
+  "ex": [
+   "Die Auseinandersetzung zwischen den beiden Gruppen wurde am Abend plötzlich gewalttätig."
+  ],
+  "ex_zh": "两个团体之间的争执在晚上突然变得暴力起来。",
+  "use": {
+   "col": [
+    [
+     "gewalttätig werden",
+     "动用暴力"
+    ],
+    [
+     "gewalttätige Übergriffe",
+     "暴力攻击"
+    ]
+   ],
+   "tip": "名词 die Gewalttat；近义 gewaltsam"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "extremistisch",
+  "pos": "adj",
+  "zh": "极端主义的",
+  "ex": [
+   "Die Polizei durchsuchte mehrere Wohnungen mit extremistischem Material."
+  ],
+  "ex_zh": "警方搜查了几处藏有极端主义材料的住所。",
+  "use": {
+   "col": [
+    [
+     "extremistische Gruppen",
+     "极端主义团体"
+    ],
+    [
+     "eine extremistische Ideologie",
+     "极端主义意识形态"
+    ]
+   ],
+   "tip": "名词 der Extremismus；近义 radikal"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "radikal",
+  "pos": "adj",
+  "zh": "激进的；彻底的",
+  "ex": [
+   "Die Partei fordert eine radikale Änderung der Wirtschaftspolitik."
+  ],
+  "ex_zh": "该党要求彻底改变经济政策。",
+  "use": {
+   "col": [
+    [
+     "radikale Ansichten",
+     "激进的观点"
+    ],
+    [
+     "radikal ändern",
+     "彻底改变"
+    ]
+   ],
+   "tip": "政治上带贬义，一般语境中指「彻底的」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "neutral",
+  "pos": "adj",
+  "zh": "中立的",
+  "ex": [
+   "Die Schweiz bleibt in internationalen Konflikten traditionell neutral und vermittelt oft."
+  ],
+  "ex_zh": "瑞士在国际冲突中历来保持中立，并常常出面调解。",
+  "use": {
+   "col": [
+    [
+     "neutral bleiben",
+     "保持中立"
+    ],
+    [
+     "eine neutrale Haltung",
+     "中立的立场"
+    ]
+   ],
+   "tip": "名词 die Neutralität"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "national",
+  "pos": "adj",
+  "zh": "国家的；全国的",
+  "ex": [
+   "Das Thema wurde auch auf nationaler Ebene diskutiert."
+  ],
+  "ex_zh": "这个话题在全国层面也被讨论过。",
+  "use": {
+   "col": [
+    [
+     "auf nationaler Ebene",
+     "在国家层面"
+    ],
+    [
+     "das nationale Interesse",
+     "国家利益"
+    ]
+   ],
+   "tip": "反义 international、regional；注意重音在 -nal"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "europäisch",
+  "pos": "adj",
+  "zh": "欧洲的；欧盟的",
+  "ex": [
+   "Die europäische Zusammenarbeit wurde in den letzten Jahren enger."
+  ],
+  "ex_zh": "欧洲合作近几年更加紧密了。",
+  "use": {
+   "col": [
+    [
+     "die europäische Union",
+     "欧洲联盟"
+    ],
+    [
+     "europäisches Recht",
+     "欧盟法"
+    ]
+   ],
+   "tip": "名词 Europa；作形容词词尾不大写"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "bürokratisch",
+  "pos": "adj",
+  "zh": "官僚的；手续繁琐的",
+  "ex": [
+   "Das Verfahren ist leider sehr bürokratisch und dauert lange."
+  ],
+  "ex_zh": "这个程序遗憾地很繁琐，需要很长时间。",
+  "use": {
+   "col": [
+    [
+     "ein bürokratischer Aufwand",
+     "繁琐的行政手续"
+    ],
+    [
+     "bürokratische Hürden",
+     "行政障碍"
+    ]
+   ],
+   "tip": "名词 die Bürokratie；多含贬义"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "diplomatisch",
+  "pos": "adj",
+  "zh": "外交的；有策略的",
+  "ex": [
+   "Die Krise sollte auf diplomatischem Weg gelöst werden."
+  ],
+  "ex_zh": "这场危机应该通过外交途径解决。",
+  "use": {
+   "col": [
+    [
+     "auf diplomatischem Weg",
+     "通过外交途径"
+    ],
+    [
+     "diplomatisch vorgehen",
+     "谨慎周旋"
+    ]
+   ],
+   "tip": "名词 die Diplomatie；也指「圆滑、有分寸」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "unabhängig",
+  "pos": "adj",
+  "zh": "独立的",
+  "ex": [
+   "Die Zeitung berichtet unabhängig von den politischen Parteien und ihren Interessen."
+  ],
+  "ex_zh": "这家报纸的报道独立于各政党及其利益。",
+  "gov": "unabhängig von + Dat.",
+  "use": {
+   "col": [
+    [
+     "politisch unabhängig",
+     "政治上独立"
+    ],
+    [
+     "unabhängig von etwas",
+     "与……无关"
+    ]
+   ],
+   "tip": "名词 die Unabhängigkeit"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "in Kraft treten",
+  "pos": "phr",
+  "zh": "生效",
+  "ex": [
+   "Das neue Gesetz tritt zum ersten Januar in Kraft."
+  ],
+  "ex_zh": "新法律于一月一日起生效。",
+  "use": {
+   "col": [
+    [
+     "sofort in Kraft treten",
+     "立即生效"
+    ],
+    [
+     "außer Kraft treten",
+     "失效"
+    ]
+   ],
+   "tip": "助动词用 sein；及物形式 in Kraft setzen（使生效）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "an die Macht kommen",
+  "pos": "phr",
+  "zh": "上台；掌权",
+  "ex": [
+   "Die Partei kam bei der letzten Wahl an die Macht."
+  ],
+  "ex_zh": "这个党在上次选举中上台执政。",
+  "use": {
+   "col": [
+    [
+     "an der Macht sein",
+     "掌权"
+    ],
+    [
+     "die Macht übernehmen",
+     "接管政权"
+    ]
+   ],
+   "tip": "助动词用 sein；Machtübernahme 夺权"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "zur Wahl stehen",
+  "pos": "phr",
+  "zh": "参加竞选；可供选择",
+  "ex": [
+   "Drei Kandidaten stehen bei der Bürgermeisterwahl zur Wahl."
+  ],
+  "ex_zh": "三名候选人参加市长选举。",
+  "use": {
+   "col": [
+    [
+     "zur Wahl gehen",
+     "去投票"
+    ],
+    [
+     "zur Wahl aufrufen",
+     "号召投票"
+    ]
+   ],
+   "tip": "zur Wahl gehen 则是选民去投票"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Anzeige erstatten",
+  "pos": "phr",
+  "zh": "报案；举报",
+  "ex": [
+   "Nach dem Einbruch hat sie bei der Polizei Anzeige erstattet."
+  ],
+  "ex_zh": "入室盗窃后，她向警方报了案。",
+  "gov": "Anzeige erstatten gegen + Akk.",
+  "use": {
+   "col": [
+    [
+     "Anzeige gegen Unbekannt erstatten",
+     "对身份不明者报案"
+    ],
+    [
+     "eine Anzeige zurückziehen",
+     "撤销报案"
+    ]
+   ],
+   "tip": "固定搭配，不能说 eine Anzeige machen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Klage erheben",
+  "pos": "phr",
+  "zh": "提起诉讼",
+  "ex": [
+   "Der Mieter hat gegen die Kündigung Klage erhoben."
+  ],
+  "ex_zh": "租户对解约提起了诉讼。",
+  "use": {
+   "col": [
+    [
+     "Klage gegen jemanden erheben",
+     "对某人起诉"
+    ],
+    [
+     "eine Klage abweisen",
+     "驳回起诉"
+    ]
+   ],
+   "tip": "也说 Klage einreichen；Kläger 原告"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Einspruch erheben",
+  "pos": "phr",
+  "zh": "提出异议",
+  "ex": [
+   "Gegen den Steuerbescheid hat sie fristgerecht Einspruch erhoben."
+  ],
+  "ex_zh": "她对税单及时提出了异议。",
+  "gov": "Einspruch erheben gegen + Akk.",
+  "use": {
+   "col": [
+    [
+     "Einspruch einlegen",
+     "提出异议"
+    ],
+    [
+     "einen Einspruch zurückweisen",
+     "驳回异议"
+    ]
+   ],
+   "tip": "Einspruch 用于税务、罚单等；Widerspruch 用于一般行政决定"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Anspruch haben auf",
+  "pos": "phr",
+  "zh": "有权获得",
+  "ex": [
+   "Wer lange gearbeitet hat, hat Anspruch auf Arbeitslosengeld."
+  ],
+  "ex_zh": "工作过较长时间的人有权领取失业金。",
+  "gov": "Anspruch haben auf + Akk.",
+  "use": {
+   "col": [
+    [
+     "einen Anspruch geltend machen",
+     "主张权利"
+    ],
+    [
+     "Anspruch auf Urlaub haben",
+     "有权休假"
+    ]
+   ],
+   "tip": "名词 der Anspruch；Rechtsanspruch 法定权利"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Stellung nehmen",
+  "pos": "phr",
+  "zh": "表态；发表意见",
+  "ex": [
+   "Der Minister wollte zu den Vorwürfen nicht Stellung nehmen."
+  ],
+  "ex_zh": "部长不愿就这些指控表态。",
+  "gov": "Stellung nehmen zu + Dat.",
+  "use": {
+   "col": [
+    [
+     "zu etwas Stellung nehmen",
+     "就某事表态"
+    ],
+    [
+     "öffentlich Stellung beziehen",
+     "公开表明立场"
+    ]
+   ],
+   "tip": "名词 die Stellungnahme"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "das Wort ergreifen",
+  "pos": "phr",
+  "zh": "发言",
+  "ex": [
+   "Zum Schluss der Sitzung ergriff der Vorsitzende noch einmal das Wort."
+  ],
+  "ex_zh": "会议结束时，主席又一次发言。",
+  "use": {
+   "col": [
+    [
+     "das Wort erteilen",
+     "给予发言权"
+    ],
+    [
+     "ums Wort bitten",
+     "请求发言"
+    ]
+   ],
+   "tip": "较正式；非正式场合常说 etwas sagen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "unter Druck setzen",
+  "pos": "phr",
+  "zh": "向……施压",
+  "ex": [
+   "Die Opposition versucht, die Regierung unter Druck zu setzen."
+  ],
+  "ex_zh": "反对党试图向政府施压。",
+  "use": {
+   "col": [
+    [
+     "unter Druck stehen",
+     "处于压力之下"
+    ],
+    [
+     "sich unter Druck setzen",
+     "给自己压力"
+    ]
+   ],
+   "tip": "也可用于日常，如同事、家人之间"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "auf freiem Fuß sein",
+  "pos": "phr",
+  "zh": "获释；未被关押",
+  "ex": [
+   "Der Verdächtige ist inzwischen wieder auf freiem Fuß."
+  ],
+  "ex_zh": "嫌疑人目前又重获自由了。",
+  "use": {
+   "col": [
+    [
+     "auf freien Fuß setzen",
+     "释放"
+    ],
+    [
+     "auf freiem Fuß bleiben",
+     "保持自由身"
+    ]
+   ],
+   "tip": "固定表达；「被释放」说 auf freien Fuß kommen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Stimmen gewinnen",
+  "pos": "phr",
+  "zh": "赢得选票",
+  "ex": [
+   "Die Partei hat bei den jungen Wählern deutlich Stimmen gewonnen."
+  ],
+  "ex_zh": "这个党在年轻选民中明显赢得了选票。",
+  "use": {
+   "col": [
+    [
+     "Stimmen verlieren",
+     "失去选票"
+    ],
+    [
+     "die meisten Stimmen erhalten",
+     "获得最多选票"
+    ]
+   ],
+   "tip": "Stimme 在选举中指选票；Zweitstimme 是联邦议院选举中的第二票"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Wahlprogramm",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Wahlprogramme",
+  "zh": "竞选纲领",
+  "ex": [
+   "Im Wahlprogramm verspricht die Partei mehr Geld für Schulen und Bahnen."
+  ],
+  "ex_zh": "该党在竞选纲领中承诺为学校和铁路投入更多资金。",
+  "use": {
+   "col": [
+    [
+     "ein Wahlprogramm vorstellen",
+     "发布竞选纲领"
+    ],
+    [
+     "im Wahlprogramm stehen",
+     "写在竞选纲领里"
+    ]
+   ],
+   "tip": "由 Wahl + Programm 组成"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Parteitag",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Parteitage",
+  "zh": "党代会",
+  "ex": [
+   "Auf dem Parteitag wurde die neue Vorsitzende mit großer Mehrheit gewählt."
+  ],
+  "ex_zh": "在党代会上，新任主席以高票当选。",
+  "use": {
+   "col": [
+    [
+     "einen Parteitag abhalten",
+     "召开党代会"
+    ],
+    [
+     "auf dem Parteitag sprechen",
+     "在党代会上发言"
+    ]
+   ],
+   "tip": "复数 -tage，注意单词里 -tag"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Landtag",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Landtage",
+  "zh": "州议会",
+  "ex": [
+   "Der Landtag in München hat das Schulgesetz geändert."
+  ],
+  "ex_zh": "慕尼黑的州议会修改了学校法。",
+  "use": {
+   "col": [
+    [
+     "in den Landtag einziehen",
+     "进入州议会"
+    ],
+    [
+     "die Landtagswahl",
+     "州议会选举"
+    ]
+   ],
+   "tip": "各联邦州的议会；联邦层面是 Bundestag"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Landesregierung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Landesregierungen",
+  "zh": "州政府",
+  "ex": [
+   "Die Landesregierung unterstützt die Hochschulen mit zusätzlichen Mitteln."
+  ],
+  "ex_zh": "州政府以额外经费支持高校。",
+  "use": {
+   "col": [
+    [
+     "die Landesregierung bilden",
+     "组建州政府"
+    ],
+    [
+     "von der Landesregierung gefördert",
+     "受州政府资助"
+    ]
+   ],
+   "tip": "与 Bundesregierung（联邦政府）相对"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kommunalwahl",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Kommunalwahlen",
+  "zh": "地方选举",
+  "ex": [
+   "Bei der Kommunalwahl durften auch EU-Bürger ihre Stimme abgeben."
+  ],
+  "ex_zh": "在地方选举中，欧盟公民也可以投票。",
+  "use": {
+   "col": [
+    [
+     "die Kommunalwahl gewinnen",
+     "赢得地方选举"
+    ],
+    [
+     "an der Kommunalwahl teilnehmen",
+     "参加地方选举"
+    ]
+   ],
+   "tip": "EU 公民在居住地有地方选举权"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Bundespräsident",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Bundespräsidenten",
+  "zh": "联邦总统",
+  "ex": [
+   "Der Bundespräsident hat das Gesetz nach langer Prüfung unterzeichnet."
+  ],
+  "ex_zh": "联邦总统经过长时间审查后签署了该法律。",
+  "use": {
+   "col": [
+    [
+     "den Bundespräsidenten wählen",
+     "选举联邦总统"
+    ],
+    [
+     "die Rede des Bundespräsidenten",
+     "联邦总统的讲话"
+    ]
+   ],
+   "tip": "女性 die Bundespräsidentin；以礼仪性职能为主"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gemeinderat",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Gemeinderäte",
+  "zh": "镇议会；镇议员",
+  "ex": [
+   "Der Gemeinderat entscheidet über den Bau der neuen Grundschule."
+  ],
+  "ex_zh": "镇议会决定新建小学的事宜。",
+  "use": {
+   "senses": [
+    "镇议会",
+    "镇议员"
+   ],
+   "col": [
+    [
+     "im Gemeinderat sitzen",
+     "担任镇议员"
+    ],
+    [
+     "im Gemeinderat abstimmen",
+     "在镇议会表决"
+    ]
+   ],
+   "tip": "复数有变音；既指机构也指个人"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Amtsgericht",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Amtsgerichte",
+  "zh": "基层法院",
+  "ex": [
+   "Der Streit um die Nebenkosten wird vor dem Amtsgericht verhandelt."
+  ],
+  "ex_zh": "关于附加费用的争议将在基层法院审理。",
+  "use": {
+   "col": [
+    [
+     "beim Amtsgericht klagen",
+     "向基层法院起诉"
+    ],
+    [
+     "das zuständige Amtsgericht",
+     "主管的基层法院"
+    ]
+   ],
+   "tip": "低于 Landgericht 一级，处理小额案件"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Landgericht",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Landgerichte",
+  "zh": "地区法院",
+  "ex": [
+   "Das Landgericht verurteilte den Angeklagten zu fünf Jahren Haft."
+  ],
+  "ex_zh": "地区法院判处被告五年监禁。",
+  "use": {
+   "col": [
+    [
+     "vor dem Landgericht verhandeln",
+     "在地区法院审理"
+    ],
+    [
+     "das Landgericht Berlin",
+     "柏林地区法院"
+    ]
+   ],
+   "tip": "高于 Amtsgericht，处理较重的案件"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Schadensersatz",
+  "art": "der",
+  "pos": "n",
+  "zh": "损害赔偿",
+  "ex": [
+   "Der Mieter fordert Schadensersatz für das beschädigte Bad."
+  ],
+  "ex_zh": "租户要求就受损的浴室获得赔偿。",
+  "use": {
+   "col": [
+    [
+     "Schadensersatz fordern",
+     "要求赔偿"
+    ],
+    [
+     "auf Schadensersatz klagen",
+     "起诉要求赔偿"
+    ]
+   ],
+   "tip": "也写 Schadenersatz；动词 Schadensersatz leisten 赔偿"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Strafverfahren",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Strafverfahren",
+  "zh": "刑事诉讼",
+  "ex": [
+   "Gegen den Politiker wurde gestern ein Strafverfahren wegen Bestechung eingeleitet."
+  ],
+  "ex_zh": "昨天对这位政客以受贿罪启动了刑事诉讼。",
+  "use": {
+   "col": [
+    [
+     "ein Strafverfahren einleiten",
+     "启动刑事诉讼"
+    ],
+    [
+     "das Strafverfahren einstellen",
+     "终止刑事诉讼"
+    ]
+   ],
+   "tip": "民事诉讼叫 Zivilverfahren"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kläger",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Kläger",
+  "zh": "原告",
+  "ex": [
+   "Der Kläger verlangt von der Firma Schadensersatz in Höhe von 5.000 Euro."
+  ],
+  "ex_zh": "原告要求公司赔偿五千欧元。",
+  "use": {
+   "col": [
+    [
+     "der Kläger und der Beklagte",
+     "原告与被告"
+    ],
+    [
+     "als Kläger auftreten",
+     "作为原告出庭"
+    ]
+   ],
+   "tip": "女性 die Klägerin；民事诉讼的被告是 der Beklagte"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Bürgerinitiative",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Bürgerinitiativen",
+  "zh": "公民倡议团体",
+  "ex": [
+   "Eine Bürgerinitiative kämpft gegen den Bau der neuen Umgehungsstraße."
+  ],
+  "ex_zh": "一个公民倡议团体正在反对修建新的绕城公路。",
+  "use": {
+   "col": [
+    [
+     "eine Bürgerinitiative gründen",
+     "成立公民倡议团体"
+    ],
+    [
+     "sich einer Bürgerinitiative anschließen",
+     "加入公民倡议团体"
+    ]
+   ],
+   "tip": "由居民自发组成，多针对地方事务"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Wahllokal",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Wahllokale",
+  "zh": "投票站",
+  "ex": [
+   "Die Wahllokale sind am Sonntag von acht bis achtzehn Uhr geöffnet."
+  ],
+  "ex_zh": "投票站周日从八点开到十八点。",
+  "use": {
+   "col": [
+    [
+     "im Wahllokal wählen",
+     "在投票站投票"
+    ],
+    [
+     "das Wahllokal schließt",
+     "投票站关闭"
+    ]
+   ],
+   "tip": "Wahlzettel 是选票，Wahlkabine 是投票间"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Wahlzettel",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Wahlzettel",
+  "zh": "选票",
+  "ex": [
+   "Auf dem Wahlzettel stehen die Namen aller Kandidaten und Parteien."
+  ],
+  "ex_zh": "选票上印有所有候选人和政党的名字。",
+  "use": {
+   "col": [
+    [
+     "den Wahlzettel ausfüllen",
+     "填写选票"
+    ],
+    [
+     "einen ungültigen Wahlzettel abgeben",
+     "投出无效票"
+    ]
+   ],
+   "tip": "联邦议院选举上有 Erststimme 和 Zweitstimme 两票"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Steuererhöhung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Steuererhöhungen",
+  "zh": "加税",
+  "ex": [
+   "Die Opposition warnt vor einer Steuererhöhung für mittlere Einkommen."
+  ],
+  "ex_zh": "反对党警告说中等收入者可能被加税。",
+  "use": {
+   "col": [
+    [
+     "eine Steuererhöhung beschließen",
+     "决定加税"
+    ],
+    [
+     "gegen Steuererhöhungen sein",
+     "反对加税"
+    ]
+   ],
+   "tip": "反义 Steuersenkung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Sozialleistung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Sozialleistungen",
+  "zh": "社会福利",
+  "ex": [
+   "Wer wenig verdient, kann beim zuständigen Amt bestimmte Sozialleistungen beantragen."
+  ],
+  "ex_zh": "收入低的人可以向主管部门申请某些社会福利。",
+  "use": {
+   "col": [
+    [
+     "Sozialleistungen beziehen",
+     "领取社会福利"
+    ],
+    [
+     "Sozialleistungen kürzen",
+     "削减社会福利"
+    ]
+   ],
+   "tip": "常用复数；Wohngeld、Kindergeld 等都是 Sozialleistungen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Staatsbürgerschaft",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Staatsbürgerschaften",
+  "zh": "国籍；公民身份",
+  "ex": [
+   "Nach der Einbürgerung bekam er die deutsche Staatsbürgerschaft."
+  ],
+  "ex_zh": "入籍之后，他获得了德国国籍。",
+  "use": {
+   "col": [
+    [
+     "die Staatsbürgerschaft beantragen",
+     "申请国籍"
+    ],
+    [
+     "die doppelte Staatsbürgerschaft",
+     "双重国籍"
+    ]
+   ],
+   "tip": "与 Staatsangehörigkeit 基本同义；后者是官方用语"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Einwanderungsland",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Einwanderungsländer",
+  "zh": "移民国家",
+  "ex": [
+   "Deutschland versteht sich inzwischen als ein modernes Einwanderungsland in Europa."
+  ],
+  "ex_zh": "德国现在自认为是欧洲的一个现代移民国家。",
+  "use": {
+   "col": [
+    [
+     "ein klassisches Einwanderungsland",
+     "典型的移民国家"
+    ],
+    [
+     "zum Einwanderungsland werden",
+     "成为移民国家"
+    ]
+   ],
+   "tip": "也说 Zuwanderungsland；对应 Auswanderungsland"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Asylantrag",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Asylanträge",
+  "zh": "庇护申请",
+  "ex": [
+   "Sein Asylantrag wurde nach einem Jahr Wartezeit leider abgelehnt."
+  ],
+  "ex_zh": "他的庇护申请在等了一年之后遗憾地被拒绝了。",
+  "use": {
+   "col": [
+    [
+     "einen Asylantrag stellen",
+     "提出庇护申请"
+    ],
+    [
+     "den Asylantrag ablehnen",
+     "拒绝庇护申请"
+    ]
+   ],
+   "tip": "提出申请叫 stellen，不说 machen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Grenzkontrolle",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Grenzkontrollen",
+  "zh": "边境检查",
+  "ex": [
+   "An der Grenze wurden die Grenzkontrollen wieder eingeführt."
+  ],
+  "ex_zh": "边境上重新实行了边境检查。",
+  "use": {
+   "col": [
+    [
+     "Grenzkontrollen einführen",
+     "实行边境检查"
+    ],
+    [
+     "an der Grenzkontrolle warten",
+     "在边境检查处等候"
+    ]
+   ],
+   "tip": "申根区内一般没有 Grenzkontrollen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Krisengebiet",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Krisengebiete",
+  "zh": "危机地区",
+  "ex": [
+   "Hilfsorganisationen schicken Ärzte und Medikamente in das Krisengebiet."
+  ],
+  "ex_zh": "援助组织向危机地区派出医生并运送药品。",
+  "use": {
+   "col": [
+    [
+     "in ein Krisengebiet reisen",
+     "前往危机地区"
+    ],
+    [
+     "aus einem Krisengebiet fliehen",
+     "从危机地区逃离"
+    ]
+   ],
+   "tip": "Kriegsgebiet 是战区"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Entwicklungsland",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Entwicklungsländer",
+  "zh": "发展中国家",
+  "ex": [
+   "Viele Entwicklungsländer leiden besonders stark unter den Folgen des Klimawandels."
+  ],
+  "ex_zh": "许多发展中国家特别严重地受到气候变化的影响。",
+  "use": {
+   "col": [
+    [
+     "ein Entwicklungsland unterstützen",
+     "援助发展中国家"
+    ],
+    [
+     "Schwellen- und Entwicklungsländer",
+     "新兴与发展中国家"
+    ]
+   ],
+   "tip": "Industrieland 是工业国；Schwellenland 是新兴经济体"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Handelsabkommen",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Handelsabkommen",
+  "zh": "贸易协定",
+  "ex": [
+   "Die EU verhandelt über ein Handelsabkommen mit mehreren Staaten Südamerikas."
+  ],
+  "ex_zh": "欧盟正与南美几个国家就贸易协定进行谈判。",
+  "use": {
+   "col": [
+    [
+     "ein Handelsabkommen unterzeichnen",
+     "签署贸易协定"
+    ],
+    [
+     "ein Handelsabkommen kündigen",
+     "终止贸易协定"
+    ]
+   ],
+   "tip": "Freihandelsabkommen 是自由贸易协定"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Staatschef",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Staatschefs",
+  "zh": "国家元首；国家领导人",
+  "ex": [
+   "Die Staatschefs trafen sich zu einem Krisengipfel in Brüssel."
+  ],
+  "ex_zh": "各国领导人在布鲁塞尔举行了危机峰会。",
+  "use": {
+   "col": [
+    [
+     "die Staatschefs der EU",
+     "欧盟各国领导人"
+    ],
+    [
+     "ein Treffen der Staatschefs",
+     "国家领导人会晤"
+    ]
+   ],
+   "tip": "也说 Staatsoberhaupt；Regierungschef 指政府首脑"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Sicherheitsrat",
+  "art": "der",
+  "pos": "n",
+  "zh": "安全理事会",
+  "ex": [
+   "Der Sicherheitsrat der Vereinten Nationen verurteilte den Angriff."
+  ],
+  "ex_zh": "联合国安理会谴责了这次袭击。",
+  "use": {
+   "col": [
+    [
+     "im Sicherheitsrat abstimmen",
+     "在安理会表决"
+    ],
+    [
+     "ein ständiges Mitglied des Sicherheitsrats",
+     "安理会常任理事国"
+    ]
+   ],
+   "tip": "五个常任理事国有否决权 (Veto)"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Weltgemeinschaft",
+  "art": "die",
+  "pos": "n",
+  "zh": "国际社会",
+  "ex": [
+   "Die Weltgemeinschaft muss schneller auf die Hungerkrise reagieren."
+  ],
+  "ex_zh": "国际社会必须更快地应对饥荒危机。",
+  "use": {
+   "col": [
+    [
+     "an die Weltgemeinschaft appellieren",
+     "呼吁国际社会"
+    ],
+    [
+     "die Weltgemeinschaft ist gefordert",
+     "国际社会责无旁贷"
+    ]
+   ],
+   "tip": "近义 internationale Gemeinschaft"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Beitritt",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Beitritte",
+  "zh": "加入；入盟",
+  "ex": [
+   "Der Beitritt zur EU brachte dem Land wirtschaftlichen Aufschwung."
+  ],
+  "ex_zh": "加入欧盟给该国带来了经济增长。",
+  "gov": "Beitritt zu + Dat.",
+  "use": {
+   "col": [
+    [
+     "der Beitritt zur NATO",
+     "加入北约"
+    ],
+    [
+     "einen Beitritt beantragen",
+     "申请加入"
+    ]
+   ],
+   "tip": "动词 beitreten；反义 Austritt"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Vollmacht",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Vollmachten",
+  "zh": "授权；委托书",
+  "ex": [
+   "Für die Anmeldung brauchen Sie eine schriftliche Vollmacht Ihres Vaters."
+  ],
+  "ex_zh": "办理登记需要您父亲的书面委托书。",
+  "use": {
+   "col": [
+    [
+     "eine Vollmacht erteilen",
+     "出具委托书"
+    ],
+    [
+     "mit Vollmacht handeln",
+     "凭授权行事"
+    ]
+   ],
+   "tip": "办事时让别人代办要用 Vollmacht"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Sachbearbeiter",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Sachbearbeiter",
+  "zh": "经办人；承办员",
+  "ex": [
+   "Der zuständige Sachbearbeiter meldet sich in den nächsten Tagen bei Ihnen."
+  ],
+  "ex_zh": "负责的经办人会在这几天联系您。",
+  "use": {
+   "col": [
+    [
+     "mit dem Sachbearbeiter sprechen",
+     "和经办人谈话"
+    ],
+    [
+     "einen neuen Sachbearbeiter bekommen",
+     "换了新的经办人"
+    ]
+   ],
+   "tip": "女性 die Sachbearbeiterin；官方信件中常提到"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Ordnungsamt",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Ordnungsämter",
+  "zh": "公共秩序局",
+  "ex": [
+   "Das Ordnungsamt kontrolliert, ob die Parkvorschriften eingehalten werden."
+  ],
+  "ex_zh": "公共秩序局检查是否遵守了停车规定。",
+  "use": {
+   "col": [
+    [
+     "beim Ordnungsamt anmelden",
+     "向公共秩序局登记"
+    ],
+    [
+     "das Ordnungsamt informieren",
+     "通知公共秩序局"
+    ]
+   ],
+   "tip": "市政机构：停车、噪音、集会等；复数有变音"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Sozialamt",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Sozialämter",
+  "zh": "社会福利局",
+  "ex": [
+   "Das Sozialamt prüft, ob ein Anspruch auf Unterstützung besteht."
+  ],
+  "ex_zh": "社会福利局审查是否有权获得补助。",
+  "use": {
+   "col": [
+    [
+     "zum Sozialamt gehen",
+     "去社会福利局"
+    ],
+    [
+     "beim Sozialamt beantragen",
+     "向社会福利局申请"
+    ]
+   ],
+   "tip": "复数有变音；与 Jobcenter 分工不同"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "beitreten",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "beigetreten",
+  "forms": "tritt bei, trat bei, ist beigetreten",
+  "zh": "加入；入",
+  "ex": [
+   "Das Land ist vor zehn Jahren der Europäischen Union beigetreten."
+  ],
+  "ex_zh": "该国十年前加入了欧盟。",
+  "gov": "beitreten + Dat.",
+  "use": {
+   "col": [
+    [
+     "einem Verein beitreten",
+     "加入协会"
+    ],
+    [
+     "einer Partei beitreten",
+     "加入政党"
+    ]
+   ],
+   "tip": "可分动词，助动词用 sein，跟 Dat.；名词 der Beitritt"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "austreten",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "ausgetreten",
+  "forms": "tritt aus, trat aus, ist ausgetreten",
+  "zh": "退出；退会",
+  "ex": [
+   "Nach dem Streit ist er aus der Partei ausgetreten."
+  ],
+  "ex_zh": "争吵之后，他退出了该党。",
+  "gov": "austreten aus + Dat.",
+  "use": {
+   "col": [
+    [
+     "aus der Kirche austreten",
+     "退教"
+    ],
+    [
+     "aus dem Verein austreten",
+     "退出协会"
+    ]
+   ],
+   "tip": "可分动词，助动词用 sein；名词 der Austritt；反义 eintreten"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "wiederwählen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "wiedergewählt",
+  "forms": "wählt wieder, wählte wieder, hat wiedergewählt",
+  "zh": "连任；重新选举",
+  "ex": [
+   "Die Bürger haben den Bürgermeister mit großer Mehrheit wiedergewählt."
+  ],
+  "ex_zh": "市民们以高票让市长连任。",
+  "use": {
+   "col": [
+    [
+     "zur Wiederwahl stehen",
+     "参加连任竞选"
+    ],
+    [
+     "ins Amt wiederwählen",
+     "重新选入职位"
+    ]
+   ],
+   "tip": "也写 wieder wählen；名词 die Wiederwahl"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "umstritten",
+  "pos": "adj",
+  "zh": "有争议的",
+  "ex": [
+   "Die Reform der Rente ist in der Koalition weiterhin umstritten."
+  ],
+  "ex_zh": "养老金改革在联合政府内依然有争议。",
+  "use": {
+   "col": [
+    [
+     "ein umstrittenes Gesetz",
+     "有争议的法律"
+    ],
+    [
+     "politisch umstritten",
+     "在政治上有争议"
+    ]
+   ],
+   "tip": "近义 strittig；动词 bestreiten"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verbindlich",
+  "pos": "adj",
+  "zh": "有约束力的；确定的",
+  "ex": [
+   "Die Anmeldung zum Kurs ist verbindlich und kann nicht storniert werden."
+  ],
+  "ex_zh": "课程报名是有约束力的，不能取消。",
+  "use": {
+   "col": [
+    [
+     "eine verbindliche Zusage",
+     "确定的承诺"
+    ],
+    [
+     "verbindlich regeln",
+     "作出有约束力的规定"
+    ]
+   ],
+   "tip": "反义 unverbindlich；名词 die Verbindlichkeit"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "einstimmig",
+  "pos": "adj",
+  "zh": "一致的；全票的",
+  "ex": [
+   "Der Stadtrat hat den Haushalt für das nächste Jahr einstimmig verabschiedet."
+  ],
+  "ex_zh": "市议会全票通过了明年的预算。",
+  "use": {
+   "col": [
+    [
+     "einstimmig beschließen",
+     "一致通过"
+    ],
+    [
+     "ein einstimmiger Beschluss",
+     "全票通过的决议"
+    ]
+   ],
+   "tip": "反义 mehrheitlich；Stimme + -ig"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "mehrheitlich",
+  "pos": "adj",
+  "zh": "多数的；大多",
+  "ex": [
+   "Die Abgeordneten lehnten den Antrag der Opposition mehrheitlich ab."
+  ],
+  "ex_zh": "大多数议员否决了反对党的提案。",
+  "use": {
+   "col": [
+    [
+     "mehrheitlich zustimmen",
+     "多数同意"
+    ],
+    [
+     "mehrheitlich ablehnen",
+     "多数否决"
+    ]
+   ],
+   "tip": "副词用法居多；反义 einstimmig"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "berechtigt",
+  "pos": "adj",
+  "zh": "有权的；有理的",
+  "ex": [
+   "Als Student bist du berechtigt, die Mensa zu einem günstigen Preis zu nutzen."
+  ],
+  "ex_zh": "作为学生，你有权以优惠价格使用食堂。",
+  "gov": "berechtigt sein zu + Dat.",
+  "use": {
+   "col": [
+    [
+     "zur Wahl berechtigt sein",
+     "有选举权"
+    ],
+    [
+     "eine berechtigte Frage",
+     "合理的问题"
+    ]
+   ],
+   "tip": "动词 berechtigen；名词 die Berechtigung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Gewaltenteilung",
+  "art": "die",
+  "pos": "n",
+  "zh": "权力分立；三权分立",
+  "ex": [
+   "Die Gewaltenteilung soll verhindern, dass sich zu viel Macht in einer Hand konzentriert."
+  ],
+  "ex_zh": "权力分立旨在防止过多权力集中在一人之手。",
+  "use": {
+   "col": [
+    [
+     "die Gewaltenteilung achten",
+     "遵守权力分立"
+    ],
+    [
+     "das Prinzip der Gewaltenteilung",
+     "权力分立原则"
+    ]
+   ],
+   "tip": "分为 Legislative、Exekutive、Judikative 三权"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Souveränität",
+  "art": "die",
+  "pos": "n",
+  "zh": "主权；优越感",
+  "ex": [
+   "Die Souveränität eines Staates wird durch internationale Verträge teilweise eingeschränkt."
+  ],
+  "ex_zh": "国家的主权会受到国际条约的部分限制。",
+  "use": {
+   "col": [
+    [
+     "die staatliche Souveränität",
+     "国家主权"
+    ],
+    [
+     "die Souveränität verteidigen",
+     "捍卫主权"
+    ]
+   ],
+   "tip": "形容词 souverän；重音在 -tät"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Gesetzgebung",
+  "art": "die",
+  "pos": "n",
+  "zh": "立法",
+  "ex": [
+   "Die Gesetzgebung liegt beim Bundestag und beim Bundesrat."
+  ],
+  "ex_zh": "立法权属于联邦议院和联邦参议院。",
+  "use": {
+   "col": [
+    [
+     "die Gesetzgebung des Bundes",
+     "联邦立法"
+    ],
+    [
+     "in die Gesetzgebung eingreifen",
+     "干预立法"
+    ]
+   ],
+   "tip": "动词 Gesetze geben；Gesetzgeber 立法者"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Rechtsprechung",
+  "art": "die",
+  "pos": "n",
+  "zh": "司法判决；审判实践",
+  "ex": [
+   "Die ständige Rechtsprechung des Bundesgerichtshofs ist hier eindeutig."
+  ],
+  "ex_zh": "联邦最高法院的一贯判例在此很明确。",
+  "use": {
+   "col": [
+    [
+     "die höchstrichterliche Rechtsprechung",
+     "最高法院的判例"
+    ],
+    [
+     "von der Rechtsprechung abweichen",
+     "偏离判例"
+    ]
+   ],
+   "tip": "指法院的判决总体；Urteil 是单个判决"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Bundesverfassungsgericht",
+  "art": "das",
+  "pos": "n",
+  "zh": "联邦宪法法院",
+  "ex": [
+   "Das Bundesverfassungsgericht hat in Karlsruhe über die Klage mehrerer Länder entschieden."
+  ],
+  "ex_zh": "联邦宪法法院在卡尔斯鲁厄就几个州的诉讼作出了裁决。",
+  "use": {
+   "col": [
+    [
+     "Verfassungsbeschwerde beim Bundesverfassungsgericht einlegen",
+     "向联邦宪法法院提出宪法申诉"
+    ],
+    [
+     "das Urteil des Bundesverfassungsgerichts",
+     "联邦宪法法院的判决"
+    ]
+   ],
+   "tip": "位于卡尔斯鲁厄；缩写 BVerfG"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Grundrecht",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Grundrechte",
+  "zh": "基本权利",
+  "ex": [
+   "Die Grundrechte schützen den Einzelnen vor Eingriffen des Staates."
+  ],
+  "ex_zh": "基本权利保护个人免受国家的干预。",
+  "use": {
+   "col": [
+    [
+     "ein Grundrecht einschränken",
+     "限制基本权利"
+    ],
+    [
+     "in Grundrechte eingreifen",
+     "侵犯基本权利"
+    ]
+   ],
+   "tip": "主要写在基本法第 1–19 条；常用复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Rechtsweg",
+  "art": "der",
+  "pos": "n",
+  "zh": "法律途径；诉讼途径",
+  "ex": [
+   "Gegen die Entscheidung der Behörde steht dir der Rechtsweg vor dem Verwaltungsgericht offen."
+  ],
+  "ex_zh": "对主管部门的决定，你可以到行政法院走法律途径。",
+  "use": {
+   "col": [
+    [
+     "den Rechtsweg beschreiten",
+     "走法律途径"
+    ],
+    [
+     "der Rechtsweg ist ausgeschlossen",
+     "排除诉讼途径"
+    ]
+   ],
+   "tip": "抽奖说明里常见「Rechtsweg ausgeschlossen」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Rechtsgrundlage",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Rechtsgrundlagen",
+  "zh": "法律依据",
+  "ex": [
+   "Für diese Maßnahme fehlt der Regierung bisher eine ausreichende Rechtsgrundlage."
+  ],
+  "ex_zh": "政府迄今为止缺乏这项措施的足够法律依据。",
+  "use": {
+   "col": [
+    [
+     "auf einer gesetzlichen Rechtsgrundlage beruhen",
+     "基于法律依据"
+    ],
+    [
+     "die Rechtsgrundlage schaffen",
+     "创设法律依据"
+    ]
+   ],
+   "tip": "书面语；Grundlage 是一般「基础」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Strafverfolgung",
+  "art": "die",
+  "pos": "n",
+  "zh": "刑事追诉",
+  "ex": [
+   "Die Strafverfolgung liegt in Deutschland bei der Staatsanwaltschaft."
+  ],
+  "ex_zh": "在德国，刑事追诉由检察院负责。",
+  "use": {
+   "col": [
+    [
+     "die Strafverfolgung einleiten",
+     "启动刑事追诉"
+    ],
+    [
+     "sich der Strafverfolgung entziehen",
+     "逃避追诉"
+    ]
+   ],
+   "tip": "Strafverfolgungsbehörden 指检察院和警察"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Vorsatz",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Vorsätze",
+  "zh": "故意；打算",
+  "ex": [
+   "Die Tat wurde mit Vorsatz begangen, nicht aus Versehen."
+  ],
+  "ex_zh": "这起行为是故意实施的，不是无意之举。",
+  "use": {
+   "senses": [
+    "（法律）故意",
+    "打算、决心"
+   ],
+   "col": [
+    [
+     "mit Vorsatz handeln",
+     "故意行事"
+    ],
+    [
+     "gute Vorsätze fassen",
+     "下决心"
+    ]
+   ],
+   "tip": "法律上与 Fahrlässigkeit 相对；形容词 vorsätzlich"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Fahrlässigkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "过失；疏忽",
+  "ex": [
+   "Der Arzt wurde wegen grober Fahrlässigkeit zu einer Geldstrafe verurteilt."
+  ],
+  "ex_zh": "这名医生因重大过失被判处罚金。",
+  "use": {
+   "col": [
+    [
+     "grobe Fahrlässigkeit",
+     "重大过失"
+    ],
+    [
+     "fahrlässige Körperverletzung",
+     "过失伤害"
+    ]
+   ],
+   "tip": "形容词 fahrlässig；与 Vorsatz 相对"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Haftbefehl",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Haftbefehle",
+  "zh": "逮捕令",
+  "ex": [
+   "Gegen den Verdächtigen wurde gestern vom zuständigen Richter ein Haftbefehl erlassen."
+  ],
+  "ex_zh": "昨天主管法官对嫌疑人签发了逮捕令。",
+  "use": {
+   "col": [
+    [
+     "einen Haftbefehl erlassen",
+     "签发逮捕令"
+    ],
+    [
+     "gegen jemanden Haftbefehl beantragen",
+     "申请对某人发逮捕令"
+    ]
+   ],
+   "tip": "由法官签发；Durchsuchungsbeschluss 是搜查令"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Untersuchungshaft",
+  "art": "die",
+  "pos": "n",
+  "zh": "审前羁押",
+  "ex": [
+   "Der Beschuldigte sitzt seit drei Monaten in Untersuchungshaft."
+  ],
+  "ex_zh": "被指控人已被审前羁押三个月。",
+  "use": {
+   "col": [
+    [
+     "in Untersuchungshaft sitzen",
+     "处于审前羁押"
+    ],
+    [
+     "Untersuchungshaft anordnen",
+     "下令审前羁押"
+    ]
+   ],
+   "tip": "缩写 U-Haft"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Bewährung",
+  "art": "die",
+  "pos": "n",
+  "zh": "缓刑；考验",
+  "ex": [
+   "Die Freiheitsstrafe von zwei Jahren wurde zur Bewährung ausgesetzt."
+  ],
+  "ex_zh": "两年的徒刑被宣告缓刑。",
+  "use": {
+   "senses": [
+    "缓刑",
+    "考验"
+   ],
+   "col": [
+    [
+     "zur Bewährung aussetzen",
+     "缓期执行"
+    ],
+    [
+     "eine Strafe auf Bewährung",
+     "缓刑"
+    ]
+   ],
+   "tip": "Bewährungshelfer 是缓刑监督官；也指「经受考验」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Revision",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Revisionen",
+  "zh": "上诉（法律审）；修订",
+  "ex": [
+   "Die Verteidigung legte gegen das Urteil beim Bundesgerichtshof Revision ein."
+  ],
+  "ex_zh": "辩方就该判决向联邦最高法院提起了法律审上诉。",
+  "use": {
+   "senses": [
+    "（法律审）上诉",
+    "修订、审计"
+   ],
+   "col": [
+    [
+     "Revision einlegen",
+     "提起法律审上诉"
+    ],
+    [
+     "in die Revision gehen",
+     "提起上诉"
+    ]
+   ],
+   "tip": "Revision 只审查法律适用，不重新调查事实；Berufung 重新审理事实"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Plädoyer",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Plädoyers",
+  "zh": "（法庭）辩论发言；呼吁",
+  "ex": [
+   "Im Plädoyer forderte die Staatsanwältin eine Freiheitsstrafe von vier Jahren."
+  ],
+  "ex_zh": "检察官在法庭发言中要求判处四年徒刑。",
+  "use": {
+   "senses": [
+    "（法庭）总结陈词",
+    "有力的呼吁、主张"
+   ],
+   "col": [
+    [
+     "das Schlussplädoyer halten",
+     "作最后陈述"
+    ],
+    [
+     "ein Plädoyer für mehr Toleranz",
+     "呼吁更多宽容"
+    ]
+   ],
+   "tip": "动词 plädieren；发音 [plɛdoaˈjeː]"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Haftung",
+  "art": "die",
+  "pos": "n",
+  "zh": "责任；赔偿责任",
+  "ex": [
+   "Für Schäden durch Fehlbedienung übernimmt der Hersteller keine Haftung."
+  ],
+  "ex_zh": "因操作不当造成的损失，制造商不承担责任。",
+  "use": {
+   "col": [
+    [
+     "die Haftung übernehmen",
+     "承担责任"
+    ],
+    [
+     "eine Haftung ausschließen",
+     "排除责任"
+    ]
+   ],
+   "tip": "动词 haften für；GmbH 即有限责任公司"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Verjährung",
+  "art": "die",
+  "pos": "n",
+  "zh": "时效",
+  "ex": [
+   "Nach zehn Jahren tritt bei diesem Delikt die Verjährung ein."
+  ],
+  "ex_zh": "这类案件在十年后适用时效。",
+  "use": {
+   "col": [
+    [
+     "die Verjährung tritt ein",
+     "时效届满"
+    ],
+    [
+     "die Verjährungsfrist",
+     "时效期间"
+    ]
+   ],
+   "tip": "动词 verjähren；谋杀罪不适用"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Unschuldsvermutung",
+  "art": "die",
+  "pos": "n",
+  "zh": "无罪推定",
+  "ex": [
+   "Bis zu einer rechtskräftigen Verurteilung gilt für jeden Beschuldigten die Unschuldsvermutung."
+  ],
+  "ex_zh": "在生效判决之前，每个被指控人都适用无罪推定。",
+  "use": {
+   "col": [
+    [
+     "die Unschuldsvermutung achten",
+     "遵守无罪推定"
+    ],
+    [
+     "gegen die Unschuldsvermutung verstoßen",
+     "违反无罪推定"
+    ]
+   ],
+   "tip": "也说 in dubio pro reo（存疑时有利于被告）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Mandant",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Mandanten",
+  "zh": "委托人；当事人",
+  "ex": [
+   "Der Rechtsanwalt ist gegenüber seinen Mandanten zur Verschwiegenheit verpflichtet."
+  ],
+  "ex_zh": "律师对他的委托人负有保密义务。",
+  "use": {
+   "col": [
+    [
+     "einen Mandanten vertreten",
+     "代理委托人"
+    ],
+    [
+     "ein neuer Mandant",
+     "新的委托人"
+    ]
+   ],
+   "tip": "n-变格：den Mandanten；女性 die Mandantin"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Geständnis",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Geständnisse",
+  "zh": "供认；坦白",
+  "ex": [
+   "Nach dem Geständnis des Täters wurde das Strafmaß gemildert."
+  ],
+  "ex_zh": "在行凶者认罪之后，刑罚被减轻。",
+  "use": {
+   "col": [
+    [
+     "ein Geständnis ablegen",
+     "认罪"
+    ],
+    [
+     "ein umfassendes Geständnis",
+     "全面供认"
+    ]
+   ],
+   "tip": "动词 gestehen；ein Geständnis ablegen 是固定搭配"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Auflage",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Auflagen",
+  "zh": "附加条件；版次；印数",
+  "ex": [
+   "Die Genehmigung für das Fest wurde mit mehreren Auflagen verbunden."
+  ],
+  "ex_zh": "庆典的许可附带了几项条件。",
+  "use": {
+   "senses": [
+    "（官方）附加条件",
+    "（书籍）版次、印数"
+   ],
+   "col": [
+    [
+     "Auflagen erfüllen",
+     "满足附加条件"
+    ],
+    [
+     "die erste Auflage",
+     "第一版"
+    ]
+   ],
+   "tip": "在行政、法律中指附带的要求"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Ermessen",
+  "art": "das",
+  "pos": "n",
+  "zh": "裁量权；斟酌",
+  "ex": [
+   "Ob der Antrag bewilligt wird, liegt im Ermessen der zuständigen Behörde."
+  ],
+  "ex_zh": "申请是否获批，取决于主管部门的裁量。",
+  "use": {
+   "col": [
+    [
+     "nach eigenem Ermessen",
+     "由自己斟酌"
+    ],
+    [
+     "im Ermessen liegen",
+     "取决于裁量"
+    ]
+   ],
+   "tip": "Ermessensspielraum 裁量空间；动词 ermessen 较少用"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Verwaltungsakt",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Verwaltungsakte",
+  "zh": "行政行为；行政决定",
+  "ex": [
+   "Ein Verwaltungsakt kann innerhalb einer bestimmten Frist mit Widerspruch angefochten werden."
+  ],
+  "ex_zh": "行政决定可以在一定期限内通过异议加以质疑。",
+  "use": {
+   "col": [
+    [
+     "einen Verwaltungsakt erlassen",
+     "作出行政决定"
+    ],
+    [
+     "einen Verwaltungsakt anfechten",
+     "对行政决定提出质疑"
+    ]
+   ],
+   "tip": "如税单、居留许可、罚款通知都是 Verwaltungsakt"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Rechtsmittel",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Rechtsmittel",
+  "zh": "法律救济手段（上诉等）",
+  "ex": [
+   "Gegen das Urteil sind keine Rechtsmittel mehr möglich."
+  ],
+  "ex_zh": "对该判决已无法再提出上诉。",
+  "use": {
+   "col": [
+    [
+     "ein Rechtsmittel einlegen",
+     "提起上诉、申诉"
+    ],
+    [
+     "Rechtsmittel ausschöpfen",
+     "穷尽法律救济手段"
+    ]
+   ],
+   "tip": "包括 Berufung、Revision、Beschwerde"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Rechtsbehelfsbelehrung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Rechtsbehelfsbelehrungen",
+  "zh": "救济途径告知",
+  "ex": [
+   "Am Ende des Bescheids steht eine Rechtsbehelfsbelehrung mit der Frist für den Widerspruch."
+  ],
+  "ex_zh": "通知书末尾写有救济途径告知和提出异议的期限。",
+  "use": {
+   "col": [
+    [
+     "eine Rechtsbehelfsbelehrung enthalten",
+     "附有救济途径告知"
+    ],
+    [
+     "laut Rechtsbehelfsbelehrung",
+     "根据救济途径告知"
+    ]
+   ],
+   "tip": "官方信件里常见，告诉你如何、何时提出异议"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Anhörung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Anhörungen",
+  "zh": "听证；听取意见",
+  "ex": [
+   "Vor der Entscheidung findet eine Anhörung der Betroffenen statt."
+  ],
+  "ex_zh": "作出决定之前会听取当事人的意见。",
+  "use": {
+   "col": [
+    [
+     "eine Anhörung durchführen",
+     "举行听证"
+    ],
+    [
+     "zur Anhörung geladen werden",
+     "被传唤去听证"
+    ]
+   ],
+   "tip": "动词 anhören；Asylbewerber 要参加 Anhörung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Gutachten",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Gutachten",
+  "zh": "鉴定意见；专家意见",
+  "ex": [
+   "Das Gericht beauftragte einen Sachverständigen mit einem Gutachten."
+  ],
+  "ex_zh": "法院委托鉴定人出具了鉴定意见。",
+  "use": {
+   "col": [
+    [
+     "ein Gutachten erstellen",
+     "出具鉴定意见"
+    ],
+    [
+     "ein medizinisches Gutachten",
+     "医学鉴定"
+    ]
+   ],
+   "tip": "出具人叫 Gutachter；非官方的意见常用 Einschätzung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Stichtag",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Stichtage",
+  "zh": "截止日；基准日",
+  "ex": [
+   "Als Stichtag für die Berechnung gilt der 31. Dezember."
+  ],
+  "ex_zh": "计算的基准日为十二月三十一日。",
+  "use": {
+   "col": [
+    [
+     "zum Stichtag",
+     "在基准日"
+    ],
+    [
+     "den Stichtag festlegen",
+     "确定基准日"
+    ]
+   ],
+   "tip": "用于规则、补助与统计的关键日期"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Staatsverschuldung",
+  "art": "die",
+  "pos": "n",
+  "zh": "国债；国家债务",
+  "ex": [
+   "Die Staatsverschuldung ist in der Krise stark angestiegen."
+  ],
+  "ex_zh": "国家债务在危机中大幅上升。",
+  "use": {
+   "col": [
+    [
+     "die Staatsverschuldung abbauen",
+     "降低国家债务"
+    ],
+    [
+     "eine hohe Staatsverschuldung",
+     "高额国家债务"
+    ]
+   ],
+   "tip": "Schuldenbremse 是德国宪法中的债务刹车"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Steuerhinterziehung",
+  "art": "die",
+  "pos": "n",
+  "zh": "逃税",
+  "ex": [
+   "Wegen Steuerhinterziehung wurde der Unternehmer zu einer Geldstrafe verurteilt."
+  ],
+  "ex_zh": "该企业家因逃税被判罚金。",
+  "use": {
+   "col": [
+    [
+     "Steuerhinterziehung begehen",
+     "逃税"
+    ],
+    [
+     "der Verdacht auf Steuerhinterziehung",
+     "逃税嫌疑"
+    ]
+   ],
+   "tip": "逃税是犯罪；Steuervermeidung 是合法避税"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Föderalismus",
+  "art": "der",
+  "pos": "n",
+  "zh": "联邦制",
+  "ex": [
+   "Der Föderalismus macht die Bildungspolitik in Deutschland manchmal ziemlich kompliziert."
+  ],
+  "ex_zh": "联邦制有时让德国的教育政策相当复杂。",
+  "use": {
+   "col": [
+    [
+     "der kooperative Föderalismus",
+     "合作联邦制"
+    ],
+    [
+     "den Föderalismus reformieren",
+     "改革联邦制"
+    ]
+   ],
+   "tip": "形容词 föderal；对立面 Zentralismus"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Lobbyismus",
+  "art": "der",
+  "pos": "n",
+  "zh": "游说；院外活动",
+  "ex": [
+   "Kritiker warnen vor dem Einfluss des Lobbyismus auf die Gesetzgebung."
+  ],
+  "ex_zh": "批评者警告游说活动对立法的影响。",
+  "use": {
+   "col": [
+    [
+     "gegen Lobbyismus vorgehen",
+     "打击游说"
+    ],
+    [
+     "der Einfluss des Lobbyismus",
+     "游说的影响"
+    ]
+   ],
+   "tip": "人叫 Lobbyist；动词 lobbyieren"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Wahlkreis",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Wahlkreise",
+  "zh": "选区",
+  "ex": [
+   "Sie gewann ihren Wahlkreis bei der Bundestagswahl mit deutlichem Vorsprung."
+  ],
+  "ex_zh": "她在联邦议院选举中以明显优势赢得了自己的选区。",
+  "use": {
+   "col": [
+    [
+     "einen Wahlkreis gewinnen",
+     "赢得选区"
+    ],
+    [
+     "im Wahlkreis kandidieren",
+     "在选区参选"
+    ]
+   ],
+   "tip": "德国联邦议院共 299 个 Wahlkreis"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Stichwahl",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Stichwahlen",
+  "zh": "决选；第二轮选举",
+  "ex": [
+   "Weil niemand die Mehrheit erreichte, kam es zur Stichwahl."
+  ],
+  "ex_zh": "因为没有人获得多数，进行了决选。",
+  "use": {
+   "col": [
+    [
+     "in die Stichwahl kommen",
+     "进入决选"
+    ],
+    [
+     "die Stichwahl gewinnen",
+     "赢得决选"
+    ]
+   ],
+   "tip": "德国选举中主要用于市长选举"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Briefwahl",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Briefwahlen",
+  "zh": "邮寄投票",
+  "ex": [
+   "Immer mehr Menschen entscheiden sich für die Briefwahl."
+  ],
+  "ex_zh": "越来越多的人选择邮寄投票。",
+  "use": {
+   "col": [
+    [
+     "Briefwahl beantragen",
+     "申请邮寄投票"
+    ],
+    [
+     "per Briefwahl wählen",
+     "通过邮寄投票"
+    ]
+   ],
+   "tip": "Briefwahlunterlagen 是邮寄投票材料"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Wahlberechtigte",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Wahlberechtigten",
+  "zh": "有选举权的人",
+  "ex": [
+   "Alle Wahlberechtigten erhalten einige Wochen vor der Wahl eine Wahlbenachrichtigung per Post."
+  ],
+  "ex_zh": "所有有选举权的人在选举前几周都会收到邮寄的投票通知。",
+  "use": {
+   "col": [
+    [
+     "die Zahl der Wahlberechtigten",
+     "有选举权的人数"
+    ],
+    [
+     "als Wahlberechtigter",
+     "作为有选举权者"
+    ]
+   ],
+   "tip": "变格同形容词：ein Wahlberechtigter"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Misstrauensvotum",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Misstrauensvoten",
+  "zh": "不信任投票",
+  "ex": [
+   "Die Opposition stellte ein Misstrauensvotum gegen den Kanzler."
+  ],
+  "ex_zh": "反对党对总理提出了不信任投票。",
+  "use": {
+   "col": [
+    [
+     "ein Misstrauensvotum einbringen",
+     "提出不信任案"
+    ],
+    [
+     "ein konstruktives Misstrauensvotum",
+     "建设性不信任投票"
+    ]
+   ],
+   "tip": "德国要求「建设性」：必须同时选出继任者"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Regierungsbildung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Regierungsbildungen",
+  "zh": "组阁",
+  "ex": [
+   "Nach der Wahl begannen die Gespräche zur Regierungsbildung."
+  ],
+  "ex_zh": "选举之后开始了组阁谈判。",
+  "use": {
+   "col": [
+    [
+     "die Regierungsbildung scheitert",
+     "组阁失败"
+    ],
+    [
+     "Sondierungsgespräche zur Regierungsbildung",
+     "组阁的探索性谈判"
+    ]
+   ],
+   "tip": "先 Sondierung，再 Koalitionsverhandlungen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Koalitionsvertrag",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Koalitionsverträge",
+  "zh": "联合执政协议",
+  "ex": [
+   "Im Koalitionsvertrag steht, dass die Mieten begrenzt werden sollen."
+  ],
+  "ex_zh": "联合执政协议里写着要限制房租。",
+  "use": {
+   "col": [
+    [
+     "den Koalitionsvertrag unterzeichnen",
+     "签署联合执政协议"
+    ],
+    [
+     "im Koalitionsvertrag vereinbaren",
+     "在联合执政协议中约定"
+    ]
+   ],
+   "tip": "复数有变音：die Koalitionsverträge"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Regierungserklärung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Regierungserklärungen",
+  "zh": "施政声明",
+  "ex": [
+   "Der Kanzler gab im Bundestag eine Regierungserklärung zur Energiepolitik ab."
+  ],
+  "ex_zh": "总理在联邦议院就能源政策发表了施政声明。",
+  "use": {
+   "col": [
+    [
+     "eine Regierungserklärung abgeben",
+     "发表施政声明"
+    ],
+    [
+     "die Regierungserklärung des Kanzlers",
+     "总理的施政声明"
+    ]
+   ],
+   "tip": "与动词 abgeben 搭配"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Mandat",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Mandate",
+  "zh": "议席；委托",
+  "ex": [
+   "Die Partei verlor bei der Wahl zehn Mandate."
+  ],
+  "ex_zh": "该党在选举中丢了十个议席。",
+  "use": {
+   "senses": [
+    "议席",
+    "（律师的）委托、受托"
+   ],
+   "col": [
+    [
+     "ein Mandat niederlegen",
+     "放弃议席"
+    ],
+    [
+     "ein Mandat erhalten",
+     "获得委托或议席"
+    ]
+   ],
+   "tip": "Mandatsträger 指有议席的人；律师接案也叫 Mandat"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Immunität",
+  "art": "die",
+  "pos": "n",
+  "zh": "豁免权",
+  "ex": [
+   "Die Immunität des Abgeordneten wurde vom Parlament aufgehoben."
+  ],
+  "ex_zh": "该议员的豁免权被议会取消了。",
+  "use": {
+   "senses": [
+    "（议员、外交官）豁免权",
+    "免疫（力）"
+   ],
+   "col": [
+    [
+     "die Immunität aufheben",
+     "取消豁免权"
+    ],
+    [
+     "diplomatische Immunität",
+     "外交豁免"
+    ]
+   ],
+   "tip": "也指医学上的「免疫」，与 Immunsystem 相关"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Untersuchungsausschuss",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Untersuchungsausschüsse",
+  "zh": "调查委员会",
+  "ex": [
+   "Der Untersuchungsausschuss soll die Pannen bei der Behörde aufklären."
+  ],
+  "ex_zh": "调查委员会应查明该机构的失误。",
+  "use": {
+   "col": [
+    [
+     "einen Untersuchungsausschuss einsetzen",
+     "设立调查委员会"
+    ],
+    [
+     "vor dem Untersuchungsausschuss aussagen",
+     "在调查委员会作证"
+    ]
+   ],
+   "tip": "议会的特别委员会，有权传唤证人"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Politikverdrossenheit",
+  "art": "die",
+  "pos": "n",
+  "zh": "对政治的厌倦",
+  "ex": [
+   "Die niedrige Wahlbeteiligung wird oft mit Politikverdrossenheit erklärt."
+  ],
+  "ex_zh": "低投票率常被解释为对政治的厌倦。",
+  "use": {
+   "col": [
+    [
+     "unter Politikverdrossenheit leiden",
+     "受政治厌倦之苦"
+    ],
+    [
+     "der Politikverdrossenheit entgegenwirken",
+     "对抗政治厌倦"
+    ]
+   ],
+   "tip": "Parteienverdrossenheit 指对政党的厌倦"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Populismus",
+  "art": "der",
+  "pos": "n",
+  "zh": "民粹主义",
+  "ex": [
+   "Der Populismus nutzt einfache Antworten auf komplizierte Fragen."
+  ],
+  "ex_zh": "民粹主义用简单的回答来应对复杂的问题。",
+  "use": {
+   "col": [
+    [
+     "dem Populismus entgegentreten",
+     "反对民粹主义"
+    ],
+    [
+     "Rechtspopulismus",
+     "右翼民粹主义"
+    ]
+   ],
+   "tip": "形容词 populistisch；Populist 民粹主义者"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Extremismus",
+  "art": "der",
+  "pos": "n",
+  "zh": "极端主义",
+  "ex": [
+   "Der Verfassungsschutz beobachtet den Extremismus von links und rechts."
+  ],
+  "ex_zh": "宪法保卫局监视左翼和右翼的极端主义。",
+  "use": {
+   "col": [
+    [
+     "gegen Extremismus vorgehen",
+     "打击极端主义"
+    ],
+    [
+     "politischer Extremismus",
+     "政治极端主义"
+    ]
+   ],
+   "tip": "形容词 extremistisch；Extremist 极端分子"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Radikalisierung",
+  "art": "die",
+  "pos": "n",
+  "zh": "激进化",
+  "ex": [
+   "Die Radikalisierung junger Menschen im Internet bereitet Sorgen."
+  ],
+  "ex_zh": "年轻人在网上的激进化令人担忧。",
+  "use": {
+   "col": [
+    [
+     "einer Radikalisierung vorbeugen",
+     "预防激进化"
+    ],
+    [
+     "zur Radikalisierung beitragen",
+     "助长激进化"
+    ]
+   ],
+   "tip": "动词 sich radikalisieren"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Polarisierung",
+  "art": "die",
+  "pos": "n",
+  "zh": "两极分化",
+  "ex": [
+   "Die zunehmende Polarisierung der Gesellschaft macht Kompromisse in der Politik schwieriger."
+  ],
+  "ex_zh": "社会日益加剧的两极分化使政治上的妥协更加困难。",
+  "use": {
+   "col": [
+    [
+     "die politische Polarisierung",
+     "政治两极分化"
+    ],
+    [
+     "zur Polarisierung führen",
+     "导致两极分化"
+    ]
+   ],
+   "tip": "动词 polarisieren"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Propaganda",
+  "art": "die",
+  "pos": "n",
+  "zh": "宣传（带贬义）",
+  "ex": [
+   "Die Staatsmedien verbreiten gezielt Propaganda gegen die Opposition."
+  ],
+  "ex_zh": "国家媒体有针对性地散布反对派的宣传。",
+  "use": {
+   "col": [
+    [
+     "Propaganda verbreiten",
+     "散布宣传"
+    ],
+    [
+     "staatliche Propaganda",
+     "国家宣传"
+    ]
+   ],
+   "tip": "贬义；中性的「宣传」说 Werbung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Zensur",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Zensuren",
+  "zh": "（言论）审查",
+  "ex": [
+   "In dem Land verhindert die Zensur, dass kritische Artikel überhaupt erscheinen."
+  ],
+  "ex_zh": "在该国，审查使批评性文章根本无法发表。",
+  "use": {
+   "senses": [
+    "（媒体、言论）审查",
+    "（旧）成绩"
+   ],
+   "col": [
+    [
+     "die Zensur aufheben",
+     "取消审查"
+    ],
+    [
+     "unter Zensur stehen",
+     "受审查"
+    ]
+   ],
+   "tip": "在学校里 Zensur 也是「成绩」的旧说法；动词 zensieren"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Verfassungsschutz",
+  "art": "der",
+  "pos": "n",
+  "zh": "宪法保卫局",
+  "ex": [
+   "Der Verfassungsschutz stuft die Gruppe als extremistisch ein."
+  ],
+  "ex_zh": "宪法保卫局把该团体归为极端主义。",
+  "use": {
+   "col": [
+    [
+     "vom Verfassungsschutz beobachtet werden",
+     "被宪法保卫局监视"
+    ],
+    [
+     "das Bundesamt für Verfassungsschutz",
+     "联邦宪法保卫局"
+    ]
+   ],
+   "tip": "德国国内情报机构，缩写 BfV"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Geheimdienst",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Geheimdienste",
+  "zh": "情报机构",
+  "ex": [
+   "Der Geheimdienst soll das Telefon des Politikers abgehört haben."
+  ],
+  "ex_zh": "据称情报机构窃听了这位政客的电话。",
+  "use": {
+   "col": [
+    [
+     "für einen Geheimdienst arbeiten",
+     "为情报机构工作"
+    ],
+    [
+     "ausländische Geheimdienste",
+     "外国情报机构"
+    ]
+   ],
+   "tip": "德国的 BND 是对外情报机构"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Spionage",
+  "art": "die",
+  "pos": "n",
+  "zh": "间谍活动",
+  "ex": [
+   "Wegen Spionage wurden zwei Diplomaten des Landes verwiesen."
+  ],
+  "ex_zh": "因间谍活动，该国两名外交官被驱逐。",
+  "use": {
+   "col": [
+    [
+     "Spionage betreiben",
+     "从事间谍活动"
+    ],
+    [
+     "Industriespionage",
+     "商业间谍活动"
+    ]
+   ],
+   "tip": "人叫 der Spion；动词 spionieren"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Hinweisgeber",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Hinweisgeber",
+  "zh": "举报人",
+  "ex": [
+   "Das Gesetz schützt Hinweisgeber vor Nachteilen im Beruf."
+  ],
+  "ex_zh": "法律保护举报人不在职场受到不利对待。",
+  "use": {
+   "col": [
+    [
+     "ein anonymer Hinweisgeber",
+     "匿名举报人"
+    ],
+    [
+     "das Hinweisgeberschutzgesetz",
+     "举报人保护法"
+    ]
+   ],
+   "tip": "又称 Whistleblower；女性 die Hinweisgeberin"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Transparenz",
+  "art": "die",
+  "pos": "n",
+  "zh": "透明度",
+  "ex": [
+   "Die Bürger fordern mehr Transparenz bei Entscheidungen der Behörden."
+  ],
+  "ex_zh": "公民要求主管部门在决策上更加透明。",
+  "use": {
+   "col": [
+    [
+     "für Transparenz sorgen",
+     "确保透明"
+    ],
+    [
+     "Transparenz herstellen",
+     "建立透明度"
+    ]
+   ],
+   "tip": "形容词 transparent；Intransparenz 不透明"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Legitimität",
+  "art": "die",
+  "pos": "n",
+  "zh": "合法性；正当性",
+  "ex": [
+   "Die Legitimität der Wahl wurde von der Opposition angezweifelt."
+  ],
+  "ex_zh": "反对党质疑这次选举的合法性。",
+  "use": {
+   "col": [
+    [
+     "die Legitimität anzweifeln",
+     "质疑正当性"
+    ],
+    [
+     "demokratische Legitimität",
+     "民主正当性"
+    ]
+   ],
+   "tip": "形容词 legitim；Legalität 是形式上的合法"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Zivilgesellschaft",
+  "art": "die",
+  "pos": "n",
+  "zh": "公民社会",
+  "ex": [
+   "Eine starke Zivilgesellschaft ist wichtig für die Demokratie."
+  ],
+  "ex_zh": "强大的公民社会对民主制度很重要。",
+  "use": {
+   "col": [
+    [
+     "die Zivilgesellschaft stärken",
+     "加强公民社会"
+    ],
+    [
+     "Organisationen der Zivilgesellschaft",
+     "公民社会组织"
+    ]
+   ],
+   "tip": "包括协会、基金会、志愿者团体等"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Bürgerbeteiligung",
+  "art": "die",
+  "pos": "n",
+  "zh": "公民参与",
+  "ex": [
+   "Bei großen Bauprojekten ist eine frühe Bürgerbeteiligung vorgesehen."
+  ],
+  "ex_zh": "大型建设项目应让公民早期参与。",
+  "use": {
+   "col": [
+    [
+     "Bürgerbeteiligung ermöglichen",
+     "使公民得以参与"
+    ],
+    [
+     "eine Bürgerversammlung zur Bürgerbeteiligung",
+     "公民大会让公民参与"
+    ]
+   ],
+   "tip": "如 Bürgerversammlung、Bürgerentscheid"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Gemeinwohl",
+  "art": "das",
+  "pos": "n",
+  "zh": "公共福祉",
+  "ex": [
+   "Der Staat soll das Gemeinwohl über Einzelinteressen stellen."
+  ],
+  "ex_zh": "国家应把公共福祉置于个别利益之上。",
+  "use": {
+   "col": [
+    [
+     "dem Gemeinwohl dienen",
+     "服务于公共福祉"
+    ],
+    [
+     "das Gemeinwohl gefährden",
+     "危害公共福祉"
+    ]
+   ],
+   "tip": "形容词 gemeinnützig 与之相关"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Solidarität",
+  "art": "die",
+  "pos": "n",
+  "zh": "团结；互助",
+  "ex": [
+   "In der Krise zeigten viele Menschen große Solidarität mit den Betroffenen."
+  ],
+  "ex_zh": "危机中许多人对受影响者表现出强烈的团结精神。",
+  "gov": "Solidarität mit + Dat.",
+  "use": {
+   "col": [
+    [
+     "Solidarität zeigen",
+     "表现出团结"
+    ],
+    [
+     "das Solidarprinzip",
+     "互助原则"
+    ]
+   ],
+   "tip": "形容词 solidarisch；sich solidarisieren mit"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Sozialstaat",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Sozialstaaten",
+  "zh": "福利国家",
+  "ex": [
+   "Der Sozialstaat soll Menschen in Notlagen absichern und Chancen eröffnen."
+  ],
+  "ex_zh": "福利国家应当为陷入困境的人提供保障并打开机会。",
+  "use": {
+   "col": [
+    [
+     "den Sozialstaat reformieren",
+     "改革福利国家"
+    ],
+    [
+     "die Grundlagen des Sozialstaats",
+     "福利国家的基础"
+    ]
+   ],
+   "tip": "《基本法》称德国为「sozialer Rechtsstaat」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Teilhabe",
+  "art": "die",
+  "pos": "n",
+  "zh": "参与；融入",
+  "ex": [
+   "Bildung ist die wichtigste Voraussetzung für gesellschaftliche Teilhabe und sozialen Aufstieg."
+  ],
+  "ex_zh": "教育是融入社会和向上流动的最重要前提。",
+  "use": {
+   "col": [
+    [
+     "gesellschaftliche Teilhabe",
+     "社会参与"
+    ],
+    [
+     "Teilhabe ermöglichen",
+     "使人能够参与"
+    ]
+   ],
+   "tip": "常用于社会政策与融入讨论，通常不带复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Chancengleichheit",
+  "art": "die",
+  "pos": "n",
+  "zh": "机会平等",
+  "ex": [
+   "Das Bildungssystem sollte unabhängig von der Herkunft für Chancengleichheit sorgen."
+  ],
+  "ex_zh": "教育体系应当不论出身都保障机会平等。",
+  "use": {
+   "col": [
+    [
+     "für Chancengleichheit sorgen",
+     "保障机会平等"
+    ],
+    [
+     "mangelnde Chancengleichheit",
+     "机会不平等"
+    ]
+   ],
+   "tip": "近义 Chancengerechtigkeit"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Benachteiligung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Benachteiligungen",
+  "zh": "不利待遇；歧视",
+  "ex": [
+   "Das Gesetz schützt vor Benachteiligung aufgrund des Alters."
+  ],
+  "ex_zh": "法律保护人们不因年龄而受到不利对待。",
+  "use": {
+   "col": [
+    [
+     "eine Benachteiligung erfahren",
+     "遭遇不利对待"
+    ],
+    [
+     "vor Benachteiligung schützen",
+     "防止受到不利对待"
+    ]
+   ],
+   "tip": "动词 benachteiligen；比 Diskriminierung 更宽泛"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Ausgrenzung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Ausgrenzungen",
+  "zh": "排斥；边缘化",
+  "ex": [
+   "Viele Betroffene erleben im Alltag Ausgrenzung, etwa bei der Wohnungssuche."
+  ],
+  "ex_zh": "许多当事人在日常生活中遭到排斥，比如找房子的时候。",
+  "use": {
+   "col": [
+    [
+     "soziale Ausgrenzung",
+     "社会排斥"
+    ],
+    [
+     "von Ausgrenzung betroffen sein",
+     "受到排斥"
+    ]
+   ],
+   "tip": "动词 ausgrenzen；近义 Ausschluss"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Parallelgesellschaft",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Parallelgesellschaften",
+  "zh": "平行社会",
+  "ex": [
+   "Politiker warnen vor der Entstehung von Parallelgesellschaften in manchen Vierteln."
+  ],
+  "ex_zh": "政客警告说有些街区会出现平行社会。",
+  "use": {
+   "col": [
+    [
+     "Parallelgesellschaften bilden",
+     "形成平行社会"
+    ],
+    [
+     "gegen Parallelgesellschaften vorgehen",
+     "打击平行社会"
+    ]
+   ],
+   "tip": "有争议，常带批判性"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Fluchtursache",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Fluchtursachen",
+  "zh": "逃难原因",
+  "ex": [
+   "Die Politik will die Fluchtursachen vor Ort bekämpfen."
+  ],
+  "ex_zh": "政界想在当地消除逃难的原因。",
+  "use": {
+   "col": [
+    [
+     "Fluchtursachen bekämpfen",
+     "消除逃难原因"
+    ],
+    [
+     "die Ursachen von Flucht und Vertreibung",
+     "逃难与驱逐的原因"
+    ]
+   ],
+   "tip": "常用复数；政治讨论中的固定表达"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Schutzsuchende",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Schutzsuchenden",
+  "zh": "寻求保护者",
+  "ex": [
+   "Die Stadt hat in der Turnhalle Unterkünfte für Schutzsuchende bereitgestellt."
+  ],
+  "ex_zh": "该市在体育馆里为寻求保护者提供了住处。",
+  "use": {
+   "col": [
+    [
+     "Schutzsuchende aufnehmen",
+     "接收寻求保护者"
+    ],
+    [
+     "Schutzsuchende aus der Ukraine",
+     "来自乌克兰的寻求保护者"
+    ]
+   ],
+   "tip": "变格同形容词；官方用语"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Asylverfahren",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Asylverfahren",
+  "zh": "庇护程序",
+  "ex": [
+   "Das Asylverfahren kann sich über mehrere Monate hinziehen."
+  ],
+  "ex_zh": "庇护程序可能会拖上好几个月。",
+  "use": {
+   "col": [
+    [
+     "ein Asylverfahren einleiten",
+     "启动庇护程序"
+    ],
+    [
+     "im Asylverfahren sein",
+     "处于庇护程序中"
+    ]
+   ],
+   "tip": "由 BAMF 办理；结果有 Anerkennung 或 Ablehnung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Asylrecht",
+  "art": "das",
+  "pos": "n",
+  "zh": "庇护权",
+  "ex": [
+   "Das Asylrecht ist in Deutschland im Grundgesetz verankert und geschützt."
+  ],
+  "ex_zh": "庇护权在德国写入基本法并受到保护。",
+  "use": {
+   "col": [
+    [
+     "das Asylrecht einschränken",
+     "限制庇护权"
+    ],
+    [
+     "das Recht auf Asyl",
+     "庇护权利"
+    ]
+   ],
+   "tip": "《基本法》第 16a 条；Asyl 本身是 A2 词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Familiennachzug",
+  "art": "der",
+  "pos": "n",
+  "zh": "家庭团聚",
+  "ex": [
+   "Der Familiennachzug ist in Deutschland an bestimmte Voraussetzungen wie ausreichenden Wohnraum gebunden."
+  ],
+  "ex_zh": "在德国，家庭团聚需要满足一定条件，如足够的住房。",
+  "use": {
+   "col": [
+    [
+     "Familiennachzug beantragen",
+     "申请家庭团聚"
+    ],
+    [
+     "der Familiennachzug zu Flüchtlingen",
+     "难民的家庭团聚"
+    ]
+   ],
+   "tip": "动词 nachziehen；Ehegattennachzug 配偶团聚"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Niederlassungserlaubnis",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Niederlassungserlaubnisse",
+  "zh": "永久居留许可",
+  "ex": [
+   "Nach fünf Jahren kann man unter Umständen eine Niederlassungserlaubnis erhalten."
+  ],
+  "ex_zh": "满五年后，在一定条件下可以获得永久居留许可。",
+  "use": {
+   "col": [
+    [
+     "eine Niederlassungserlaubnis beantragen",
+     "申请永久居留"
+    ],
+    [
+     "im Besitz einer Niederlassungserlaubnis sein",
+     "持有永久居留许可"
+    ]
+   ],
+   "tip": "复数 -erlaubnisse；等同于无期限的居留权"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Völkerrecht",
+  "art": "das",
+  "pos": "n",
+  "zh": "国际法",
+  "ex": [
+   "Der Angriff auf das Nachbarland verstößt klar gegen das Völkerrecht."
+  ],
+  "ex_zh": "对邻国的攻击明显违反国际法。",
+  "use": {
+   "col": [
+    [
+     "gegen das Völkerrecht verstoßen",
+     "违反国际法"
+    ],
+    [
+     "nach dem Völkerrecht",
+     "按国际法"
+    ]
+   ],
+   "tip": "形容词 völkerrechtlich"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Diplomatie",
+  "art": "die",
+  "pos": "n",
+  "zh": "外交；圆滑",
+  "ex": [
+   "Die Krise lässt sich nur durch Diplomatie lösen."
+  ],
+  "ex_zh": "这场危机只能靠外交来解决。",
+  "use": {
+   "col": [
+    [
+     "auf Diplomatie setzen",
+     "寄希望于外交"
+    ],
+    [
+     "mit viel Diplomatie vorgehen",
+     "很有分寸地处理"
+    ]
+   ],
+   "tip": "人叫 der Diplomat；形容词 diplomatisch"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Eskalation",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Eskalationen",
+  "zh": "升级；恶化",
+  "ex": [
+   "Eine weitere Eskalation des Konflikts muss unbedingt verhindert werden."
+  ],
+  "ex_zh": "必须设法阻止冲突进一步升级。",
+  "use": {
+   "col": [
+    [
+     "zur Eskalation führen",
+     "导致升级"
+    ],
+    [
+     "eine Eskalation vermeiden",
+     "避免升级"
+    ]
+   ],
+   "tip": "动词 eskalieren；反义 Deeskalation"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Annexion",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Annexionen",
+  "zh": "吞并；强占",
+  "ex": [
+   "Die Annexion der Region wurde von den Vereinten Nationen verurteilt."
+  ],
+  "ex_zh": "联合国谴责了对该地区的吞并。",
+  "use": {
+   "col": [
+    [
+     "die Annexion verurteilen",
+     "谴责吞并"
+    ],
+    [
+     "eine völkerrechtswidrige Annexion",
+     "违反国际法的吞并"
+    ]
+   ],
+   "tip": "动词 annektieren"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Besatzung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Besatzungen",
+  "zh": "占领；（飞机、船舶）机组",
+  "ex": [
+   "Die Bevölkerung litt jahrelang unter der Besatzung und der Willkür der Soldaten."
+  ],
+  "ex_zh": "民众多年来受到占领和士兵专断的折磨。",
+  "use": {
+   "senses": [
+    "占领",
+    "机组、船员"
+   ],
+   "col": [
+    [
+     "unter Besatzung leben",
+     "生活在占领之下"
+    ],
+    [
+     "die Besatzungsmacht",
+     "占领国"
+    ]
+   ],
+   "tip": "也指飞机或船的全体乘务人员"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Völkermord",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Völkermorde",
+  "zh": "种族灭绝",
+  "ex": [
+   "Der Völkermord wurde von einem internationalen Tribunal untersucht."
+  ],
+  "ex_zh": "国际法庭调查了这场种族灭绝。",
+  "use": {
+   "col": [
+    [
+     "einen Völkermord begehen",
+     "实施种族灭绝"
+    ],
+    [
+     "den Völkermord anerkennen",
+     "承认种族灭绝"
+    ]
+   ],
+   "tip": "等同于 Genozid（外来词）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Kriegsverbrechen",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Kriegsverbrechen",
+  "zh": "战争罪行",
+  "ex": [
+   "Dem General werden vor dem Internationalen Strafgerichtshof Kriegsverbrechen vorgeworfen."
+  ],
+  "ex_zh": "这位将军在国际刑事法院被指控犯有战争罪行。",
+  "use": {
+   "col": [
+    [
+     "Kriegsverbrechen begehen",
+     "犯下战争罪"
+    ],
+    [
+     "wegen Kriegsverbrechen angeklagt",
+     "因战争罪被起诉"
+    ]
+   ],
+   "tip": "由国际刑事法院 (IStGH) 追究"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Embargo",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Embargos",
+  "zh": "禁运",
+  "ex": [
+   "Die Vereinten Nationen verhängten ein Embargo gegen das Land."
+  ],
+  "ex_zh": "联合国对该国实施了禁运。",
+  "use": {
+   "col": [
+    [
+     "ein Embargo verhängen",
+     "实行禁运"
+    ],
+    [
+     "ein Embargo aufheben",
+     "解除禁运"
+    ]
+   ],
+   "tip": "复数 die Embargos；常与 Sanktionen 一起出现"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Abrüstung",
+  "art": "die",
+  "pos": "n",
+  "zh": "裁军",
+  "ex": [
+   "Die Staaten verhandeln über die Abrüstung ihrer Atomwaffen."
+  ],
+  "ex_zh": "各国正在就削减核武器进行谈判。",
+  "use": {
+   "col": [
+    [
+     "Abrüstungsverhandlungen",
+     "裁军谈判"
+    ],
+    [
+     "die nukleare Abrüstung",
+     "核裁军"
+    ]
+   ],
+   "tip": "反义 Aufrüstung（扩军）；动词 abrüsten"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Einmischung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Einmischungen",
+  "zh": "干涉；介入",
+  "ex": [
+   "Die Regierung wies jede Einmischung von außen zurück."
+  ],
+  "ex_zh": "政府拒绝任何外来干涉。",
+  "gov": "Einmischung in + Akk.",
+  "use": {
+   "col": [
+    [
+     "eine Einmischung in innere Angelegenheiten",
+     "对内政的干涉"
+    ],
+    [
+     "Einmischung zurückweisen",
+     "拒绝干涉"
+    ]
+   ],
+   "tip": "动词 sich einmischen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Staatsoberhaupt",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Staatsoberhäupter",
+  "zh": "国家元首",
+  "ex": [
+   "Das Staatsoberhaupt eröffnete die Konferenz mit einer kurzen Rede."
+  ],
+  "ex_zh": "国家元首以简短的讲话开启了会议。",
+  "use": {
+   "col": [
+    [
+     "das Staatsoberhaupt empfangen",
+     "接待国家元首"
+    ],
+    [
+     "das Staatsoberhaupt wählen",
+     "选举国家元首"
+    ]
+   ],
+   "tip": "德国的国家元首是 Bundespräsident；政府首脑是 Kanzler"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Amtszeit",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Amtszeiten",
+  "zh": "任期",
+  "ex": [
+   "Die Amtszeit des Präsidenten ist auf zwei Perioden begrenzt."
+  ],
+  "ex_zh": "总统的任期被限制为两届。",
+  "use": {
+   "col": [
+    [
+     "während seiner Amtszeit",
+     "在其任期内"
+    ],
+    [
+     "die Amtszeit verlängern",
+     "延长任期"
+    ]
+   ],
+   "tip": "一届叫 Legislaturperiode（议会）或 Wahlperiode"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Putsch",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Putsche",
+  "zh": "政变",
+  "ex": [
+   "Das Militär versuchte, durch einen Putsch die Regierung zu stürzen."
+  ],
+  "ex_zh": "军队试图通过政变推翻政府。",
+  "use": {
+   "col": [
+    [
+     "einen Putsch versuchen",
+     "企图发动政变"
+    ],
+    [
+     "einen Putsch niederschlagen",
+     "镇压政变"
+    ]
+   ],
+   "tip": "也说 Staatsstreich；Putschist 政变者"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Machtmissbrauch",
+  "art": "der",
+  "pos": "n",
+  "zh": "滥用职权",
+  "ex": [
+   "Dem Beamten wurde vorgeworfen, seine Stellung durch Machtmissbrauch ausgenutzt zu haben."
+  ],
+  "ex_zh": "这名官员被指控滥用权力利用自己的职位。",
+  "use": {
+   "col": [
+    [
+     "Machtmissbrauch betreiben",
+     "滥用权力"
+    ],
+    [
+     "vor Machtmissbrauch schützen",
+     "防止滥用权力"
+    ]
+   ],
+   "tip": "Amtsmissbrauch 专指公务人员滥用职权"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Willkür",
+  "art": "die",
+  "pos": "n",
+  "zh": "专断；任意",
+  "ex": [
+   "Die Bürger waren der Willkür der Behörden ausgeliefert."
+  ],
+  "ex_zh": "公民受制于当局的专断。",
+  "use": {
+   "col": [
+    [
+     "der Willkür ausgeliefert sein",
+     "任凭专断摆布"
+    ],
+    [
+     "staatliche Willkür",
+     "国家专断"
+    ]
+   ],
+   "tip": "形容词 willkürlich；Willkürherrschaft 专制统治"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Regime",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Regime",
+  "zh": "政权（多为贬义）",
+  "ex": [
+   "Das Regime ließ regimekritische Journalisten ohne Anklage verhaften und verhören."
+  ],
+  "ex_zh": "该政权未经起诉就逮捕并审讯批评政权的记者。",
+  "use": {
+   "col": [
+    [
+     "das Regime stürzen",
+     "推翻政权"
+    ],
+    [
+     "ein autoritäres Regime",
+     "威权政权"
+    ]
+   ],
+   "tip": "[reˈʒiːm]；复数 die Regime"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Rechtsextremismus",
+  "art": "der",
+  "pos": "n",
+  "zh": "右翼极端主义",
+  "ex": [
+   "Der Verfassungsschutz warnt vor wachsendem Rechtsextremismus im Internet."
+  ],
+  "ex_zh": "宪法保卫局警告网络上日益增长的右翼极端主义。",
+  "use": {
+   "col": [
+    [
+     "gegen Rechtsextremismus vorgehen",
+     "打击右翼极端主义"
+    ],
+    [
+     "Rechtsextremismus bekämpfen",
+     "对抗右翼极端主义"
+    ]
+   ],
+   "tip": "形容词 rechtsextrem；对应 Linksextremismus"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Gleichstellung",
+  "art": "die",
+  "pos": "n",
+  "zh": "平等对待；性别平等",
+  "ex": [
+   "Die Gleichstellung von Frauen im Beruf ist noch nicht erreicht."
+  ],
+  "ex_zh": "职场中女性的平等地位还没有实现。",
+  "use": {
+   "col": [
+    [
+     "die Gleichstellungsbeauftragte",
+     "平等事务专员"
+    ],
+    [
+     "für Gleichstellung eintreten",
+     "主张平等"
+    ]
+   ],
+   "tip": "强调实际落实；Gleichberechtigung 强调法律权利"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Behördengang",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Behördengänge",
+  "zh": "去政府部门办事",
+  "ex": [
+   "Der Umzug in eine andere Stadt brachte viele Behördengänge mit sich."
+  ],
+  "ex_zh": "搬到另一个城市带来了许多跑政府部门的事务。",
+  "use": {
+   "col": [
+    [
+     "Behördengänge erledigen",
+     "办理政府部门事务"
+    ],
+    [
+     "einen Behördengang machen",
+     "去政府部门办事"
+    ]
+   ],
+   "tip": "复数有变音 -gänge"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Privatisierung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Privatisierungen",
+  "zh": "私有化",
+  "ex": [
+   "Die geplante Privatisierung der Wasserversorgung ist in der Stadt politisch stark umstritten."
+  ],
+  "ex_zh": "计划中的供水私有化在这座城市政治上争议很大。",
+  "use": {
+   "col": [
+    [
+     "die Privatisierung öffentlicher Unternehmen",
+     "国有企业私有化"
+    ],
+    [
+     "gegen die Privatisierung protestieren",
+     "抗议私有化"
+    ]
+   ],
+   "tip": "反义 Verstaatlichung；动词 privatisieren"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Vertreibung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Vertreibungen",
+  "zh": "驱逐；被迫流离",
+  "ex": [
+   "Die Vertreibung der Bevölkerung wurde als Verbrechen eingestuft."
+  ],
+  "ex_zh": "对居民的驱逐被定性为犯罪。",
+  "use": {
+   "col": [
+    [
+     "Flucht und Vertreibung",
+     "逃亡与被驱逐"
+    ],
+    [
+     "die Vertreibung aus der Heimat",
+     "被逐出家乡"
+    ]
+   ],
+   "tip": "动词 vertreiben；二战后的德裔被驱逐也用这个词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Verhältnismäßigkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "相称性；比例原则",
+  "ex": [
+   "Die Maßnahme muss dem Grundsatz der Verhältnismäßigkeit entsprechen."
+  ],
+  "ex_zh": "该措施必须符合比例原则。",
+  "use": {
+   "col": [
+    [
+     "der Grundsatz der Verhältnismäßigkeit",
+     "比例原则"
+    ],
+    [
+     "die Verhältnismäßigkeit prüfen",
+     "审查相称性"
+    ]
+   ],
+   "tip": "形容词 verhältnismäßig；法治国家的核心原则"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Rechtssicherheit",
+  "art": "die",
+  "pos": "n",
+  "zh": "法律确定性",
+  "ex": [
+   "Unklare Gesetze gefährden die Rechtssicherheit für Unternehmen und für Privatpersonen."
+  ],
+  "ex_zh": "含糊不清的法律危及企业和个人的法律确定性。",
+  "use": {
+   "col": [
+    [
+     "Rechtssicherheit schaffen",
+     "创造法律确定性"
+    ],
+    [
+     "für Rechtssicherheit sorgen",
+     "保障法律确定性"
+    ]
+   ],
+   "tip": "与 Rechtsstaat 紧密相关"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Rechtsanspruch",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Rechtsansprüche",
+  "zh": "法定权利；法律请求权",
+  "ex": [
+   "Eltern haben ab dem ersten Geburtstag einen Rechtsanspruch auf einen Kitaplatz."
+  ],
+  "ex_zh": "孩子满一岁起，父母有获得幼儿园名额的法定权利。",
+  "gov": "Rechtsanspruch auf + Akk.",
+  "use": {
+   "col": [
+    [
+     "einen Rechtsanspruch haben",
+     "享有法定权利"
+    ],
+    [
+     "einen Rechtsanspruch geltend machen",
+     "主张法定权利"
+    ]
+   ],
+   "tip": "复数有变音；Anspruch 是一般的「权利、要求」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "legitimieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "legitimiert",
+  "forms": "legitimiert, legitimierte, hat legitimiert",
+  "zh": "使合法化；使正当",
+  "ex": [
+   "Eine Wahl allein legitimiert noch nicht jede Entscheidung der Regierung."
+  ],
+  "ex_zh": "仅靠一次选举并不能使政府的每项决定都正当。",
+  "use": {
+   "col": [
+    [
+     "eine Entscheidung legitimieren",
+     "使决定正当化"
+    ],
+    [
+     "demokratisch legitimiert sein",
+     "具有民主正当性"
+    ]
+   ],
+   "tip": "名词 die Legitimation；sich legitimieren 指证明身份"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ratifizieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ratifiziert",
+  "forms": "ratifiziert, ratifizierte, hat ratifiziert",
+  "zh": "批准（条约）",
+  "ex": [
+   "Das Parlament hat das Abkommen noch nicht ratifiziert."
+  ],
+  "ex_zh": "议会还没有批准这项协定。",
+  "use": {
+   "col": [
+    [
+     "einen Vertrag ratifizieren",
+     "批准条约"
+    ],
+    [
+     "ein Abkommen ratifizieren",
+     "批准协定"
+    ]
+   ],
+   "tip": "先 unterzeichnen 签署，再 ratifizieren 批准"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "erlassen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "erlassen",
+  "forms": "erlässt, erließ, hat erlassen",
+  "zh": "颁布；免除",
+  "ex": [
+   "Die Regierung erließ eine Verordnung zum Schutz der Verbraucher."
+  ],
+  "ex_zh": "政府颁布了一项保护消费者的条例。",
+  "use": {
+   "senses": [
+    "颁布（法令）",
+    "免除（债务、刑罚）"
+   ],
+   "col": [
+    [
+     "ein Gesetz erlassen",
+     "颁布法律"
+    ],
+    [
+     "jemandem eine Strafe erlassen",
+     "免除某人的刑罚"
+    ]
+   ],
+   "tip": "名词 der Erlass（法令；免除）；不可分"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "unterbinden",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "unterbunden",
+  "forms": "unterbindet, unterband, hat unterbunden",
+  "zh": "制止；阻止",
+  "ex": [
+   "Die Behörden wollen den illegalen Handel konsequent unterbinden."
+  ],
+  "ex_zh": "主管部门想坚决制止非法交易。",
+  "use": {
+   "col": [
+    [
+     "einen Missbrauch unterbinden",
+     "制止滥用"
+    ],
+    [
+     "den Kontakt unterbinden",
+     "阻断联系"
+    ]
+   ],
+   "tip": "不可分动词，重音在 -bin-；近义 verhindern"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ahnden",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "geahndet",
+  "forms": "ahndet, ahndete, hat geahndet",
+  "zh": "惩处；处罚",
+  "ex": [
+   "Verstöße gegen die Maskenpflicht wurden mit Bußgeldern geahndet."
+  ],
+  "ex_zh": "违反口罩规定的行为被处以罚款。",
+  "use": {
+   "col": [
+    [
+     "einen Verstoß ahnden",
+     "处罚违规"
+    ],
+    [
+     "streng ahnden",
+     "严厉惩处"
+    ]
+   ],
+   "tip": "书面语；常见于被动态"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sanktionieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "sanktioniert",
+  "forms": "sanktioniert, sanktionierte, hat sanktioniert",
+  "zh": "制裁；处罚；批准",
+  "ex": [
+   "Die EU sanktioniert Firmen, die gegen die Embargos verstoßen."
+  ],
+  "ex_zh": "欧盟制裁违反禁运的公司。",
+  "use": {
+   "senses": [
+    "制裁、处罚",
+    "批准、认可"
+   ],
+   "col": [
+    [
+     "ein Land sanktionieren",
+     "制裁某国"
+    ],
+    [
+     "ein Verhalten sanktionieren",
+     "处罚某种行为"
+    ]
+   ],
+   "tip": "名词 die Sanktion；也有「批准」的旧义"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "belangen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "belangt",
+  "forms": "belangt, belangte, hat belangt",
+  "zh": "追究（责任）；起诉",
+  "ex": [
+   "Der Verursacher kann für den Schaden rechtlich belangt werden."
+  ],
+  "ex_zh": "肇事者可以被依法追究损害责任。",
+  "use": {
+   "col": [
+    [
+     "rechtlich belangen",
+     "依法追究"
+    ],
+    [
+     "zur Verantwortung ziehen",
+     "追究责任"
+    ]
+   ],
+   "tip": "书面语，常用被动态；不可分"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "anfechten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "angefochten",
+  "forms": "ficht an, focht an, hat angefochten",
+  "zh": "对……提出异议；撤销（合同、选举）",
+  "ex": [
+   "Er will die Entscheidung der Behörde vor Gericht anfechten."
+  ],
+  "ex_zh": "他想在法院对主管部门的决定提出异议。",
+  "use": {
+   "col": [
+    [
+     "ein Testament anfechten",
+     "对遗嘱提出异议"
+    ],
+    [
+     "einen Beschluss anfechten",
+     "对决议提出异议"
+    ]
+   ],
+   "tip": "可分动词；形容词 anfechtbar；名词 die Anfechtung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "einstufen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingestuft",
+  "forms": "stuft ein, stufte ein, hat eingestuft",
+  "zh": "归类；定级",
+  "ex": [
+   "Die Behörde stuft die Gruppe als gefährlich ein."
+  ],
+  "ex_zh": "主管部门把该团体归为危险组织。",
+  "use": {
+   "col": [
+    [
+     "als gefährlich einstufen",
+     "归为危险"
+    ],
+    [
+     "in eine Steuerklasse einstufen",
+     "划入某税级"
+    ]
+   ],
+   "tip": "可分动词；名词 die Einstufung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "beanstanden",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "beanstandet",
+  "forms": "beanstandet, beanstandete, hat beanstandet",
+  "zh": "提出异议；投诉（缺陷）",
+  "ex": [
+   "Der Prüfer beanstandete mehrere Mängel in den Unterlagen."
+  ],
+  "ex_zh": "审查员指出了材料中的几处缺陷。",
+  "use": {
+   "col": [
+    [
+     "einen Mangel beanstanden",
+     "指出缺陷"
+    ],
+    [
+     "die Rechnung beanstanden",
+     "对账单提出异议"
+    ]
+   ],
+   "tip": "名词 die Beanstandung；不可分"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ausschöpfen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ausgeschöpft",
+  "forms": "schöpft aus, schöpfte aus, hat ausgeschöpft",
+  "zh": "用尽；充分利用",
+  "ex": [
+   "Er hat vor dem Gang nach Karlsruhe alle rechtlichen Möglichkeiten ausgeschöpft."
+  ],
+  "ex_zh": "在去卡尔斯鲁厄之前，他已用尽所有法律手段。",
+  "use": {
+   "col": [
+    [
+     "alle Mittel ausschöpfen",
+     "用尽所有手段"
+    ],
+    [
+     "das Potenzial ausschöpfen",
+     "发挥全部潜力"
+    ]
+   ],
+   "tip": "可分动词；名词 die Ausschöpfung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich berufen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "berufen",
+  "forms": "beruft sich, berief sich, hat sich berufen",
+  "zh": "援引；以……为依据",
+  "ex": [
+   "Der Anwalt berief sich auf einen Formfehler im Verfahren."
+  ],
+  "ex_zh": "律师援引了程序中的一个形式错误。",
+  "gov": "sich berufen auf + Akk.",
+  "use": {
+   "col": [
+    [
+     "sich auf ein Gesetz berufen",
+     "援引法律"
+    ],
+    [
+     "sich auf die Meinungsfreiheit berufen",
+     "援引言论自由"
+    ]
+   ],
+   "tip": "不可分动词；jemanden berufen 则是「任命」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verjähren",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "verjährt",
+  "forms": "verjährt, verjährte, ist verjährt",
+  "zh": "超过时效",
+  "ex": [
+   "Die Forderung ist nach drei Jahren verjährt und kann nicht mehr eingeklagt werden."
+  ],
+  "ex_zh": "该债权三年后已过时效，不能再通过诉讼追讨。",
+  "use": {
+   "col": [
+    [
+     "verjährt sein",
+     "已过时效"
+    ],
+    [
+     "nicht verjähren",
+     "不受时效限制"
+    ]
+   ],
+   "tip": "名词 die Verjährung；多用现在时或完成时"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "inhaftieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "inhaftiert",
+  "forms": "inhaftiert, inhaftierte, hat inhaftiert",
+  "zh": "关押；监禁",
+  "ex": [
+   "Mehrere Journalisten wurden ohne Anklage und ohne Anwalt monatelang inhaftiert."
+  ],
+  "ex_zh": "几名记者在没有起诉、没有律师的情况下被关押了数月。",
+  "use": {
+   "col": [
+    [
+     "jemanden inhaftieren",
+     "关押某人"
+    ],
+    [
+     "in Haft nehmen",
+     "拘押"
+    ]
+   ],
+   "tip": "名词 die Inhaftierung；Inhaftierte 被关押者"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "hinterziehen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "hinterzogen",
+  "forms": "hinterzieht, hinterzog, hat hinterzogen",
+  "zh": "偷漏（税款）",
+  "ex": [
+   "Er hat über Jahre Steuern in Millionenhöhe hinterzogen."
+  ],
+  "ex_zh": "他多年来偷逃了数百万的税款。",
+  "use": {
+   "col": [
+    [
+     "Steuern hinterziehen",
+     "逃税"
+    ],
+    [
+     "Geld hinterziehen",
+     "侵吞钱款"
+    ]
+   ],
+   "tip": "名词 die Hinterziehung；主要与 Steuern 搭配"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "bestechen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bestochen",
+  "forms": "besticht, bestach, hat bestochen",
+  "zh": "贿赂；收买",
+  "ex": [
+   "Der Unternehmer soll mehrere Beamte bestochen haben, um den Auftrag zu bekommen."
+  ],
+  "ex_zh": "据称这名企业家贿赂了几名官员以拿到订单。",
+  "use": {
+   "senses": [
+    "行贿、收买",
+    "（外观、品质）令人折服"
+   ],
+   "col": [
+    [
+     "einen Beamten bestechen",
+     "贿赂官员"
+    ],
+    [
+     "sich nicht bestechen lassen",
+     "不受贿"
+    ]
+   ],
+   "tip": "名词 die Bestechung；形容词 bestechlich"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "unterschlagen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "unterschlagen",
+  "forms": "unterschlägt, unterschlug, hat unterschlagen",
+  "zh": "侵吞；隐瞒",
+  "ex": [
+   "Der Kassierer soll über Jahre Vereinsgelder unterschlagen haben."
+  ],
+  "ex_zh": "据称出纳多年来侵吞了协会的资金。",
+  "use": {
+   "col": [
+    [
+     "Geld unterschlagen",
+     "侵吞钱款"
+    ],
+    [
+     "Informationen unterschlagen",
+     "隐瞒信息"
+    ]
+   ],
+   "tip": "名词 die Unterschlagung；不可分，重音在 -schlag-"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "vertuschen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "vertuscht",
+  "forms": "vertuscht, vertuschte, hat vertuscht",
+  "zh": "掩盖；隐瞒",
+  "ex": [
+   "Das Unternehmen versuchte monatelang, den Skandal vor der Öffentlichkeit zu vertuschen."
+  ],
+  "ex_zh": "公司数月来试图向公众掩盖这起丑闻。",
+  "use": {
+   "col": [
+    [
+     "einen Skandal vertuschen",
+     "掩盖丑闻"
+    ],
+    [
+     "die Wahrheit vertuschen",
+     "掩盖真相"
+    ]
+   ],
+   "tip": "名词 die Vertuschung；近义 verschleiern"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "aufdecken",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "aufgedeckt",
+  "forms": "deckt auf, deckte auf, hat aufgedeckt",
+  "zh": "揭露；查明",
+  "ex": [
+   "Investigative Journalisten deckten einen großen Korruptionsskandal im Rathaus auf."
+  ],
+  "ex_zh": "调查记者揭露了市政厅里的一桩大型腐败丑闻。",
+  "use": {
+   "col": [
+    [
+     "einen Skandal aufdecken",
+     "揭露丑闻"
+    ],
+    [
+     "einen Betrug aufdecken",
+     "查出诈骗"
+    ]
+   ],
+   "tip": "可分动词；名词 die Aufdeckung；近义 enthüllen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "enthüllen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "enthüllt",
+  "forms": "enthüllt, enthüllte, hat enthüllt",
+  "zh": "揭露；披露；揭幕",
+  "ex": [
+   "Eine Zeitung enthüllte die geheimen Absprachen der Konzerne."
+  ],
+  "ex_zh": "一家报纸披露了这些企业的秘密串通。",
+  "use": {
+   "col": [
+    [
+     "einen Skandal enthüllen",
+     "揭露丑闻"
+    ],
+    [
+     "ein Denkmal enthüllen",
+     "为纪念碑揭幕"
+    ]
+   ],
+   "tip": "名词 die Enthüllung；不可分"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "beschwichtigen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "beschwichtigt",
+  "forms": "beschwichtigt, beschwichtigte, hat beschwichtigt",
+  "zh": "安抚；平息",
+  "ex": [
+   "Der Sprecher versuchte, die aufgebrachten Demonstranten zu beschwichtigen."
+  ],
+  "ex_zh": "发言人试图安抚愤怒的示威者。",
+  "use": {
+   "col": [
+    [
+     "die Gemüter beschwichtigen",
+     "平息情绪"
+    ],
+    [
+     "beschwichtigend einwirken",
+     "起安抚作用"
+    ]
+   ],
+   "tip": "名词 die Beschwichtigung；不可分"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "polarisieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "polarisiert",
+  "forms": "polarisiert, polarisierte, hat polarisiert",
+  "zh": "使两极分化",
+  "ex": [
+   "Das Thema polarisiert die Gesellschaft seit Jahren und spaltet sogar Familien."
+  ],
+  "ex_zh": "这个话题多年来使社会两极分化，甚至使家庭产生分歧。",
+  "use": {
+   "col": [
+    [
+     "die Meinung polarisieren",
+     "使观点两极分化"
+    ],
+    [
+     "stark polarisieren",
+     "强烈引起两极分化"
+    ]
+   ],
+   "tip": "名词 die Polarisierung；也可不带宾语使用"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "mobilisieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "mobilisiert",
+  "forms": "mobilisiert, mobilisierte, hat mobilisiert",
+  "zh": "动员；调动",
+  "ex": [
+   "Die Partei will bei der Wahl ihre Anhänger stärker mobilisieren."
+  ],
+  "ex_zh": "该党想在选举中更强力地动员支持者。",
+  "use": {
+   "col": [
+    [
+     "Wähler mobilisieren",
+     "动员选民"
+    ],
+    [
+     "Kräfte mobilisieren",
+     "调动力量"
+    ]
+   ],
+   "tip": "名词 die Mobilisierung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "instrumentalisieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "instrumentalisiert",
+  "forms": "instrumentalisiert, instrumentalisierte, hat instrumentalisiert",
+  "zh": "利用……作工具",
+  "ex": [
+   "Die Partei instrumentalisiert die Angst vor Kriminalität für ihre Zwecke."
+  ],
+  "ex_zh": "该党利用对犯罪的恐惧来达到自己的目的。",
+  "use": {
+   "col": [
+    [
+     "ein Thema instrumentalisieren",
+     "把某话题当作工具"
+    ],
+    [
+     "sich instrumentalisieren lassen",
+     "被人利用"
+    ]
+   ],
+   "tip": "名词 die Instrumentalisierung；带批评色彩"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ausgrenzen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ausgegrenzt",
+  "forms": "grenzt aus, grenzte aus, hat ausgegrenzt",
+  "zh": "排斥；孤立",
+  "ex": [
+   "Niemand sollte wegen seiner Herkunft oder Religion ausgegrenzt werden."
+  ],
+  "ex_zh": "任何人都不应因出身或宗教而受到排斥。",
+  "use": {
+   "col": [
+    [
+     "jemanden ausgrenzen",
+     "排斥某人"
+    ],
+    [
+     "sich ausgegrenzt fühlen",
+     "觉得被排斥"
+    ]
+   ],
+   "tip": "可分动词；名词 die Ausgrenzung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "stigmatisieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "stigmatisiert",
+  "forms": "stigmatisiert, stigmatisierte, hat stigmatisiert",
+  "zh": "污名化",
+  "ex": [
+   "Die Debatte über Kriminalität darf keine ganze Gruppe pauschal stigmatisieren."
+  ],
+  "ex_zh": "关于犯罪的讨论不应该把整个群体一概污名化。",
+  "use": {
+   "col": [
+    [
+     "Menschen stigmatisieren",
+     "使人被污名化"
+    ],
+    [
+     "als kriminell stigmatisiert werden",
+     "被污名化为罪犯"
+    ]
+   ],
+   "tip": "名词 die Stigmatisierung / das Stigma"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "einbürgern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingebürgert",
+  "forms": "bürgert ein, bürgerte ein, hat eingebürgert",
+  "zh": "使入籍",
+  "ex": [
+   "Nach acht Jahren Aufenthalt kann man sich in Deutschland einbürgern lassen."
+  ],
+  "ex_zh": "在德国居住八年后，可以申请入籍。",
+  "use": {
+   "col": [
+    [
+     "sich einbürgern lassen",
+     "申请入籍"
+    ],
+    [
+     "eingebürgert werden",
+     "被批准入籍"
+    ]
+   ],
+   "tip": "可分动词；名词 die Einbürgerung；反义 ausbürgern"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich abschotten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgeschottet",
+  "forms": "schottet sich ab, schottete sich ab, hat sich abgeschottet",
+  "zh": "封闭自己；隔绝",
+  "ex": [
+   "Das Land schottet sich zunehmend vom Ausland ab."
+  ],
+  "ex_zh": "该国越来越与外界隔绝。",
+  "gov": "sich abschotten gegen + Akk. / von + Dat.",
+  "use": {
+   "col": [
+    [
+     "sich von der Außenwelt abschotten",
+     "与外界隔绝"
+    ],
+    [
+     "Grenzen abschotten",
+     "封锁边境"
+    ]
+   ],
+   "tip": "可分动词；名词 die Abschottung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "vertreiben",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "vertrieben",
+  "forms": "vertreibt, vertrieb, hat vertrieben",
+  "zh": "驱逐；赶走；销售",
+  "ex": [
+   "Tausende Familien wurden während des Krieges aus ihren Dörfern vertrieben."
+  ],
+  "ex_zh": "战争期间，数千个家庭被赶出了自己的村庄。",
+  "use": {
+   "senses": [
+    "驱逐",
+    "销售（商品）"
+   ],
+   "col": [
+    [
+     "aus der Heimat vertreiben",
+     "逐出家乡"
+    ],
+    [
+     "eine Ware vertreiben",
+     "销售商品"
+    ]
+   ],
+   "tip": "名词 die Vertreibung；商业上也指「销售」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verfolgen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verfolgt",
+  "forms": "verfolgt, verfolgte, hat verfolgt",
+  "zh": "迫害；追踪；追求",
+  "ex": [
+   "Wegen ihrer Religion wurden sie im Heimatland verfolgt."
+  ],
+  "ex_zh": "因为宗教信仰，他们在本国遭到迫害。",
+  "use": {
+   "senses": [
+    "迫害",
+    "追踪",
+    "追求（目标）"
+   ],
+   "col": [
+    [
+     "politisch verfolgt werden",
+     "遭到政治迫害"
+    ],
+    [
+     "ein Ziel verfolgen",
+     "追求目标"
+    ]
+   ],
+   "tip": "名词 die Verfolgung；politisch Verfolgte 政治迫害受害者"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "annektieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "annektiert",
+  "forms": "annektiert, annektierte, hat annektiert",
+  "zh": "吞并",
+  "ex": [
+   "Das Land annektierte das Gebiet im Jahr 2014."
+  ],
+  "ex_zh": "该国在 2014 年吞并了这一地区。",
+  "use": {
+   "col": [
+    [
+     "ein Gebiet annektieren",
+     "吞并领土"
+    ],
+    [
+     "völkerrechtswidrig annektieren",
+     "违反国际法地吞并"
+    ]
+   ],
+   "tip": "名词 die Annexion"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "intervenieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "interveniert",
+  "forms": "interveniert, intervenierte, hat interveniert",
+  "zh": "介入；干预",
+  "ex": [
+   "Die Vereinten Nationen intervenierten, um das Blutvergießen zu beenden."
+  ],
+  "ex_zh": "联合国介入以结束流血冲突。",
+  "gov": "intervenieren bei + Dat.",
+  "use": {
+   "col": [
+    [
+     "militärisch intervenieren",
+     "军事干预"
+    ],
+    [
+     "bei der Regierung intervenieren",
+     "向政府交涉"
+    ]
+   ],
+   "tip": "名词 die Intervention"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "eskalieren",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "eskaliert",
+  "forms": "eskaliert, eskalierte, ist eskaliert",
+  "zh": "升级；恶化",
+  "ex": [
+   "Der Streit zwischen den beiden Nachbarländern ist am Wochenende erneut eskaliert."
+  ],
+  "ex_zh": "两个邻国之间的争端在周末再次升级。",
+  "use": {
+   "col": [
+    [
+     "zu eskalieren drohen",
+     "有升级的危险"
+    ],
+    [
+     "die Lage eskaliert",
+     "局势恶化"
+    ]
+   ],
+   "tip": "也可及物；反义 deeskalieren；名词 die Eskalation"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "entschärfen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "entschärft",
+  "forms": "entschärft, entschärfte, hat entschärft",
+  "zh": "缓和；使降温；拆除",
+  "ex": [
+   "Die Regierung versuchte, die angespannte Lage zu entschärfen."
+  ],
+  "ex_zh": "政府试图缓和紧张的局势。",
+  "use": {
+   "senses": [
+    "缓和（局势）",
+    "拆除（炸弹）"
+   ],
+   "col": [
+    [
+     "einen Konflikt entschärfen",
+     "缓和冲突"
+    ],
+    [
+     "eine Bombe entschärfen",
+     "拆除炸弹"
+    ]
+   ],
+   "tip": "不可分动词；字面义「使锋芒变钝」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "zurückweisen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "zurückgewiesen",
+  "forms": "weist zurück, wies zurück, hat zurückgewiesen",
+  "zh": "驳回；拒绝；否认",
+  "ex": [
+   "Das Gericht wies die Klage als unbegründet zurück."
+  ],
+  "ex_zh": "法院以无理由为由驳回了起诉。",
+  "use": {
+   "senses": [
+    "驳回",
+    "否认（指责）",
+    "遣返（边境）"
+   ],
+   "col": [
+    [
+     "einen Antrag zurückweisen",
+     "驳回申请"
+    ],
+    [
+     "einen Vorwurf zurückweisen",
+     "否认指责"
+    ]
+   ],
+   "tip": "可分动词；名词 die Zurückweisung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "stattgeben",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "stattgegeben",
+  "forms": "gibt statt, gab statt, hat stattgegeben",
+  "zh": "批准；准予",
+  "ex": [
+   "Das Gericht gab dem Antrag der Verteidigung statt."
+  ],
+  "ex_zh": "法院批准了辩方的申请。",
+  "gov": "stattgeben + Dat.",
+  "use": {
+   "col": [
+    [
+     "einer Klage stattgeben",
+     "支持起诉"
+    ],
+    [
+     "einem Antrag stattgeben",
+     "批准申请"
+    ]
+   ],
+   "tip": "可分动词，跟 Dat.；反义 abweisen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "bekräftigen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bekräftigt",
+  "forms": "bekräftigt, bekräftigte, hat bekräftigt",
+  "zh": "重申；确认",
+  "ex": [
+   "Der Minister bekräftigte, dass die Regierung an ihren Plänen festhalte."
+  ],
+  "ex_zh": "部长重申，政府将坚持自己的计划。",
+  "use": {
+   "col": [
+    [
+     "seine Haltung bekräftigen",
+     "重申立场"
+    ],
+    [
+     "eine Aussage bekräftigen",
+     "确认声明"
+    ]
+   ],
+   "tip": "名词 die Bekräftigung；近义 bestätigen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "dementieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "dementiert",
+  "forms": "dementiert, dementierte, hat dementiert",
+  "zh": "否认；辟谣",
+  "ex": [
+   "Der Sprecher dementierte die Berichte über einen Rücktritt."
+  ],
+  "ex_zh": "发言人否认了关于辞职的报道。",
+  "use": {
+   "col": [
+    [
+     "einen Bericht dementieren",
+     "否认报道"
+    ],
+    [
+     "scharf dementieren",
+     "断然否认"
+    ]
+   ],
+   "tip": "名词 das Dementi；不可分"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich distanzieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "distanziert",
+  "forms": "distanziert sich, distanzierte sich, hat sich distanziert",
+  "zh": "划清界限；保持距离",
+  "ex": [
+   "Die Partei distanzierte sich deutlich von den radikalen Äußerungen."
+  ],
+  "ex_zh": "该党明确与这些激进言论划清界限。",
+  "gov": "sich distanzieren von + Dat.",
+  "use": {
+   "col": [
+    [
+     "sich von Gewalt distanzieren",
+     "与暴力划清界限"
+    ],
+    [
+     "sich öffentlich distanzieren",
+     "公开撇清"
+    ]
+   ],
+   "tip": "名词 die Distanzierung；形容词 distanziert 冷淡的"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "anprangern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "angeprangert",
+  "forms": "prangert an, prangerte an, hat angeprangert",
+  "zh": "公开谴责；揭发",
+  "ex": [
+   "Menschenrechtler prangern seit Jahren die schlechten Haftbedingungen in dem Land an."
+  ],
+  "ex_zh": "人权人士多年来公开谴责该国恶劣的羁押条件。",
+  "use": {
+   "col": [
+    [
+     "Missstände anprangern",
+     "揭露弊端"
+    ],
+    [
+     "öffentlich anprangern",
+     "公开谴责"
+    ]
+   ],
+   "tip": "可分动词；Pranger 原指示众的刑柱"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "plädieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "plädiert",
+  "forms": "plädiert, plädierte, hat plädiert",
+  "zh": "主张；（法庭上）作辩护",
+  "ex": [
+   "Die Verteidigung plädierte nach der Beweisaufnahme auf Freispruch für ihren Mandanten."
+  ],
+  "ex_zh": "质证结束后，辩方请求判决当事人无罪。",
+  "gov": "plädieren für / auf + Akk.",
+  "use": {
+   "col": [
+    [
+     "für etwas plädieren",
+     "主张某事"
+    ],
+    [
+     "auf schuldig plädieren",
+     "作有罪答辩"
+    ]
+   ],
+   "tip": "名词 das Plädoyer；不可分"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "appellieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "appelliert",
+  "forms": "appelliert, appellierte, hat appelliert",
+  "zh": "呼吁；诉诸",
+  "ex": [
+   "Der Präsident appellierte an die Bürger, Ruhe zu bewahren."
+  ],
+  "ex_zh": "总统呼吁公民保持冷静。",
+  "gov": "appellieren an + Akk.",
+  "use": {
+   "col": [
+    [
+     "an die Vernunft appellieren",
+     "诉诸理性"
+    ],
+    [
+     "an alle Beteiligten appellieren",
+     "呼吁所有相关方"
+    ]
+   ],
+   "tip": "名词 der Appell"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "einschreiten",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "eingeschritten",
+  "forms": "schreitet ein, schritt ein, ist eingeschritten",
+  "zh": "介入；采取措施",
+  "ex": [
+   "Die Polizei musste gestern Abend bei der Schlägerei vor dem Club einschreiten."
+  ],
+  "ex_zh": "昨天晚上，警察不得不对俱乐部门前的斗殴采取行动。",
+  "gov": "einschreiten gegen + Akk.",
+  "use": {
+   "col": [
+    [
+     "gegen etwas einschreiten",
+     "对某事采取措施"
+    ],
+    [
+     "rechtzeitig einschreiten",
+     "及时干预"
+    ]
+   ],
+   "tip": "可分动词，助动词用 sein；比 eingreifen 更正式"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "unterliegen",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "unterlegen",
+  "forms": "unterliegt, unterlag, ist unterlegen",
+  "zh": "受……约束；败诉；输给",
+  "ex": [
+   "Alle Mitarbeiter dieser Behörde unterliegen einer strengen Schweigepflicht."
+  ],
+  "ex_zh": "这个机构的所有员工都受严格保密义务的约束。",
+  "gov": "unterliegen + Dat.",
+  "use": {
+   "senses": [
+    "受……约束",
+    "败诉、落败"
+   ],
+   "col": [
+    [
+     "der Schweigepflicht unterliegen",
+     "受保密义务约束"
+    ],
+    [
+     "im Prozess unterliegen",
+     "败诉"
+    ]
+   ],
+   "tip": "跟 Dat.，助动词 sein；反义 obsiegen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verfassungswidrig",
+  "pos": "adj",
+  "zh": "违宪的",
+  "ex": [
+   "Die Richter hielten die Regelung für verfassungswidrig, weil sie die Pressefreiheit verletzt."
+  ],
+  "ex_zh": "法官们认为该规定违宪，因为它侵犯了新闻自由。",
+  "use": {
+   "col": [
+    [
+     "für verfassungswidrig erklären",
+     "宣布违宪"
+    ],
+    [
+     "eine verfassungswidrige Partei",
+     "违宪的政党"
+    ]
+   ],
+   "tip": "反义 verfassungsgemäß"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "rechtsstaatlich",
+  "pos": "adj",
+  "zh": "法治的；依法的",
+  "ex": [
+   "Ein rechtsstaatliches Verfahren muss jedem Angeklagten unabhängig von der Tat zustehen."
+  ],
+  "ex_zh": "无论罪行如何，每个被告都应享有符合法治的程序。",
+  "use": {
+   "col": [
+    [
+     "rechtsstaatliche Grundsätze",
+     "法治原则"
+    ],
+    [
+     "rechtsstaatlich handeln",
+     "依法行事"
+    ]
+   ],
+   "tip": "名词 der Rechtsstaat"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "rechtskräftig",
+  "pos": "adj",
+  "zh": "已生效的（判决）",
+  "ex": [
+   "Das Urteil gegen den Politiker ist seit gestern rechtskräftig und nicht mehr anfechtbar."
+  ],
+  "ex_zh": "对这位政客的判决自昨天起生效，不能再被质疑。",
+  "use": {
+   "col": [
+    [
+     "rechtskräftig verurteilt",
+     "被生效判决定罪"
+    ],
+    [
+     "ein rechtskräftiges Urteil",
+     "生效的判决"
+    ]
+   ],
+   "tip": "名词 die Rechtskraft；指不能再上诉"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "rechtswidrig",
+  "pos": "adj",
+  "zh": "违法的",
+  "ex": [
+   "Die Durchsuchung war rechtswidrig, weil kein Beschluss vorlag."
+  ],
+  "ex_zh": "搜查是违法的，因为没有批准文书。",
+  "use": {
+   "col": [
+    [
+     "rechtswidrig handeln",
+     "违法行事"
+    ],
+    [
+     "für rechtswidrig erklären",
+     "宣布违法"
+    ]
+   ],
+   "tip": "反义 rechtmäßig；近义 widerrechtlich"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "rechtmäßig",
+  "pos": "adj",
+  "zh": "合法的；正当的",
+  "ex": [
+   "Laut Grundbuch ist er der rechtmäßige Besitzer des Grundstücks am Stadtrand."
+  ],
+  "ex_zh": "根据土地登记簿，他是城郊那块土地的合法所有人。",
+  "use": {
+   "col": [
+    [
+     "rechtmäßig handeln",
+     "合法行事"
+    ],
+    [
+     "der rechtmäßige Erbe",
+     "合法继承人"
+    ]
+   ],
+   "tip": "反义 rechtswidrig；比 legal 更偏「有法律依据」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ordnungsgemäß",
+  "pos": "adj",
+  "zh": "依规定的；合规的",
+  "ex": [
+   "Die Unterlagen wurden ordnungsgemäß und fristgerecht beim zuständigen Amt eingereicht."
+  ],
+  "ex_zh": "材料已按规定并按期递交给主管部门。",
+  "use": {
+   "col": [
+    [
+     "ordnungsgemäß ausgefüllt",
+     "按规定填写"
+    ],
+    [
+     "ordnungsgemäß angemeldet",
+     "按规定登记"
+    ]
+   ],
+   "tip": "官方用语；近义 vorschriftsmäßig"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "strafrechtlich",
+  "pos": "adj",
+  "zh": "刑法上的",
+  "ex": [
+   "Der Vorfall hat keine strafrechtlichen Folgen für ihn."
+  ],
+  "ex_zh": "这起事件对他没有刑事后果。",
+  "use": {
+   "col": [
+    [
+     "strafrechtlich verfolgt werden",
+     "被追究刑事责任"
+    ],
+    [
+     "strafrechtliche Konsequenzen",
+     "刑事后果"
+    ]
+   ],
+   "tip": "名词 das Strafrecht；对应 zivilrechtlich 民法上的"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "zivilrechtlich",
+  "pos": "adj",
+  "zh": "民法上的",
+  "ex": [
+   "Neben dem Strafverfahren droht ihm auch ein zivilrechtlicher Prozess."
+  ],
+  "ex_zh": "除刑事程序外，他还面临民事诉讼。",
+  "use": {
+   "col": [
+    [
+     "zivilrechtlich haften",
+     "承担民事责任"
+    ],
+    [
+     "zivilrechtliche Ansprüche",
+     "民事请求权"
+    ]
+   ],
+   "tip": "名词 das Zivilrecht"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "föderal",
+  "pos": "adj",
+  "zh": "联邦制的",
+  "ex": [
+   "Das föderale System verteilt die Macht auf Bund und Länder."
+  ],
+  "ex_zh": "联邦制体系把权力分配给联邦和各州。",
+  "use": {
+   "col": [
+    [
+     "ein föderaler Staat",
+     "联邦制国家"
+    ],
+    [
+     "föderal organisiert",
+     "以联邦制组织"
+    ]
+   ],
+   "tip": "名词 der Föderalismus；对应 zentralistisch"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "überparteilich",
+  "pos": "adj",
+  "zh": "超越党派的",
+  "ex": [
+   "Die Initiative versteht sich als überparteilich und unabhängig."
+  ],
+  "ex_zh": "这个倡议组织自认为超越党派、保持独立。",
+  "use": {
+   "col": [
+    [
+     "eine überparteiliche Lösung",
+     "超党派的解决方案"
+    ],
+    [
+     "überparteilich arbeiten",
+     "超越党派工作"
+    ]
+   ],
+   "tip": "近义 parteiübergreifend；不属于任何党派"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "parteiübergreifend",
+  "pos": "adj",
+  "zh": "跨党派的",
+  "ex": [
+   "Der Antrag zur Förderung der Pflege wurde im Bundestag parteiübergreifend unterstützt."
+  ],
+  "ex_zh": "促进护理的提案在联邦议院获得了跨党派支持。",
+  "use": {
+   "col": [
+    [
+     "parteiübergreifend einig sein",
+     "各党派一致"
+    ],
+    [
+     "ein parteiübergreifender Konsens",
+     "跨党派共识"
+    ]
+   ],
+   "tip": "强调多个党派共同参与"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "populistisch",
+  "pos": "adj",
+  "zh": "民粹主义的",
+  "ex": [
+   "Die populistische Rhetorik der Partei verschärfte die Debatte."
+  ],
+  "ex_zh": "该党的民粹主义言论使争论更加尖锐。",
+  "use": {
+   "col": [
+    [
+     "populistische Parolen",
+     "民粹口号"
+    ],
+    [
+     "populistisch argumentieren",
+     "以民粹方式论证"
+    ]
+   ],
+   "tip": "名词 der Populismus"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "repressiv",
+  "pos": "adj",
+  "zh": "压制性的",
+  "ex": [
+   "Das Regime reagierte mit repressiven Maßnahmen auf die Proteste."
+  ],
+  "ex_zh": "政权以压制性措施回应了抗议。",
+  "use": {
+   "col": [
+    [
+     "repressive Maßnahmen",
+     "压制措施"
+    ],
+    [
+     "ein repressiver Staat",
+     "压制性国家"
+    ]
+   ],
+   "tip": "名词 die Repression；近义 unterdrückend"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "willkürlich",
+  "pos": "adj",
+  "zh": "任意的；专断的",
+  "ex": [
+   "Die Verhaftungen erfolgten völlig willkürlich und ohne einen richterlichen Haftbefehl."
+  ],
+  "ex_zh": "逮捕完全是任意的，没有法官签发的逮捕令。",
+  "use": {
+   "col": [
+    [
+     "willkürlich entscheiden",
+     "任意决定"
+    ],
+    [
+     "eine willkürliche Auswahl",
+     "随意选择"
+    ]
+   ],
+   "tip": "名词 die Willkür；中性义「随机的」，政治上带贬义"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "autoritär",
+  "pos": "adj",
+  "zh": "威权的；专制的",
+  "ex": [
+   "Das autoritäre Regime schränkte die Pressefreiheit stark ein."
+  ],
+  "ex_zh": "威权政权严重限制了新闻自由。",
+  "use": {
+   "col": [
+    [
+     "autoritär regieren",
+     "专制统治"
+    ],
+    [
+     "ein autoritärer Führungsstil",
+     "专制的领导风格"
+    ]
+   ],
+   "tip": "名词 die Autorität；重音在 -tär"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "souverän",
+  "pos": "adj",
+  "zh": "主权的；从容的",
+  "ex": [
+   "Die Insel wurde nach langen Verhandlungen ein souveräner Staat."
+  ],
+  "ex_zh": "该岛经过长时间谈判成为主权国家。",
+  "use": {
+   "col": [
+    [
+     "ein souveräner Staat",
+     "主权国家"
+    ],
+    [
+     "souverän reagieren",
+     "从容应对"
+    ]
+   ],
+   "tip": "名词 die Souveränität；日常义也是「泰然自若」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "legitim",
+  "pos": "adj",
+  "zh": "合法的；正当的",
+  "ex": [
+   "Die Regierung beruft sich auf ein legitimes Mandat der Wähler."
+  ],
+  "ex_zh": "政府援引选民给予的正当授权。",
+  "use": {
+   "col": [
+    [
+     "ein legitimes Interesse",
+     "正当利益"
+    ],
+    [
+     "durchaus legitim",
+     "完全正当"
+    ]
+   ],
+   "tip": "名词 die Legitimität；比 legal 更强调正当"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "haltlos",
+  "pos": "adj",
+  "zh": "站不住脚的",
+  "ex": [
+   "Die Vorwürfe gegen den Minister sind völlig haltlos."
+  ],
+  "ex_zh": "对部长的指控完全站不住脚。",
+  "use": {
+   "col": [
+    [
+     "haltlose Vorwürfe",
+     "毫无根据的指控"
+    ],
+    [
+     "als haltlos zurückweisen",
+     "斥为毫无根据"
+    ]
+   ],
+   "tip": "近义 unbegründet；反义 stichhaltig"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "stichhaltig",
+  "pos": "adj",
+  "zh": "有说服力的；站得住脚的",
+  "ex": [
+   "Die Staatsanwaltschaft konnte vor Gericht keine stichhaltigen Beweise gegen ihn vorlegen."
+  ],
+  "ex_zh": "检察院在法庭上没能拿出对他不利的站得住脚的证据。",
+  "use": {
+   "col": [
+    [
+     "ein stichhaltiges Argument",
+     "有说服力的论据"
+    ],
+    [
+     "nicht stichhaltig",
+     "站不住脚"
+    ]
+   ],
+   "tip": "常与 Beweis、Argument、Grund 搭配"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "gemeinnützig",
+  "pos": "adj",
+  "zh": "公益的",
+  "ex": [
+   "Der Verein ist als gemeinnützig anerkannt und zahlt keine Körperschaftsteuer."
+  ],
+  "ex_zh": "该协会被认定为公益组织，不缴纳公司所得税。",
+  "use": {
+   "col": [
+    [
+     "ein gemeinnütziger Verein",
+     "公益协会"
+    ],
+    [
+     "gemeinnützig arbeiten",
+     "从事公益工作"
+    ]
+   ],
+   "tip": "名词 die Gemeinnützigkeit；gGmbH 是公益有限公司"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ehrenamtlich",
+  "pos": "adj",
+  "zh": "志愿的；义务的",
+  "ex": [
+   "Viele Feuerwehren in Deutschland arbeiten ehrenamtlich und rücken auch nachts aus."
+  ],
+  "ex_zh": "德国许多消防队是志愿工作的，夜里也会出动。",
+  "use": {
+   "col": [
+    [
+     "ehrenamtlich tätig sein",
+     "担任志愿工作"
+    ],
+    [
+     "ein ehrenamtlicher Helfer",
+     "志愿者"
+    ]
+   ],
+   "tip": "名词 das Ehrenamt；不领酬劳，只可有少量补贴"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "undurchsichtig",
+  "pos": "adj",
+  "zh": "不透明的；难以看透的",
+  "ex": [
+   "Die Vergabe der Aufträge war undurchsichtig und führte zu Misstrauen."
+  ],
+  "ex_zh": "合同的授予不透明，引起了猜疑。",
+  "use": {
+   "col": [
+    [
+     "undurchsichtige Geschäfte",
+     "不透明的交易"
+    ],
+    [
+     "ein undurchsichtiges Verfahren",
+     "不透明的程序"
+    ]
+   ],
+   "tip": "反义 transparent；字面义「看不透」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "korrupt",
+  "pos": "adj",
+  "zh": "腐败的",
+  "ex": [
+   "Die korrupte Verwaltung verlangte Geld für jede Genehmigung."
+  ],
+  "ex_zh": "腐败的行政部门每批一个许可都要钱。",
+  "use": {
+   "col": [
+    [
+     "ein korrupter Beamter",
+     "腐败的官员"
+    ],
+    [
+     "ein korruptes System",
+     "腐败的体制"
+    ]
+   ],
+   "tip": "名词 die Korruption"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "bilateral",
+  "pos": "adj",
+  "zh": "双边的",
+  "ex": [
+   "Beide Länder führen bilaterale Gespräche über die Zusammenarbeit."
+  ],
+  "ex_zh": "两国就合作举行双边会谈。",
+  "use": {
+   "col": [
+    [
+     "bilaterale Beziehungen",
+     "双边关系"
+    ],
+    [
+     "ein bilaterales Abkommen",
+     "双边协定"
+    ]
+   ],
+   "tip": "对应 multilateral 多边的"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "multilateral",
+  "pos": "adj",
+  "zh": "多边的",
+  "ex": [
+   "Das Problem lässt sich nur durch multilaterale Zusammenarbeit lösen."
+  ],
+  "ex_zh": "这个问题只能通过多边合作来解决。",
+  "use": {
+   "col": [
+    [
+     "multilaterale Verhandlungen",
+     "多边谈判"
+    ],
+    [
+     "eine multilaterale Lösung",
+     "多边解决方案"
+    ]
+   ],
+   "tip": "名词 der Multilateralismus；对应 bilateral"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "humanitär",
+  "pos": "adj",
+  "zh": "人道主义的",
+  "ex": [
+   "Die Vereinten Nationen leisten humanitäre Hilfe für die Flüchtlinge."
+  ],
+  "ex_zh": "联合国为难民提供人道主义援助。",
+  "use": {
+   "col": [
+    [
+     "humanitäre Hilfe",
+     "人道主义援助"
+    ],
+    [
+     "eine humanitäre Katastrophe",
+     "人道主义灾难"
+    ]
+   ],
+   "tip": "名词 die Humanität（人道）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "schutzbedürftig",
+  "pos": "adj",
+  "zh": "需要保护的",
+  "ex": [
+   "Besonders schutzbedürftige Personen erhalten Vorrang bei der Unterbringung."
+  ],
+  "ex_zh": "特别需要保护的人在安置时享有优先。",
+  "use": {
+   "col": [
+    [
+     "besonders schutzbedürftig",
+     "特别需要保护"
+    ],
+    [
+     "schutzbedürftige Gruppen",
+     "需要保护的群体"
+    ]
+   ],
+   "tip": "名词 die Schutzbedürftigkeit；官方用语"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ausreisepflichtig",
+  "pos": "adj",
+  "zh": "有义务离境的",
+  "ex": [
+   "Nach der Ablehnung seines Antrags ist er ausreisepflichtig."
+  ],
+  "ex_zh": "申请被拒绝后，他有义务离境。",
+  "use": {
+   "col": [
+    [
+     "ausreisepflichtig sein",
+     "有义务离境"
+    ],
+    [
+     "eine ausreisepflichtige Person",
+     "有义务离境者"
+    ]
+   ],
+   "tip": "名词 die Ausreisepflicht；官方用语，不等于已被遣返"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "staatenlos",
+  "pos": "adj",
+  "zh": "无国籍的",
+  "ex": [
+   "Das Kind wurde staatenlos geboren, weil keiner der Staaten es anerkannte."
+  ],
+  "ex_zh": "这个孩子生来无国籍，因为没有任何国家承认他。",
+  "use": {
+   "col": [
+    [
+     "staatenlos sein",
+     "没有国籍"
+    ],
+    [
+     "ein Staatenloser",
+     "无国籍者"
+    ]
+   ],
+   "tip": "名词 die Staatenlosigkeit"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "konservativ",
+  "pos": "adj",
+  "zh": "保守的",
+  "ex": [
+   "Die Partei vertritt in der Familienpolitik traditionell eher konservative Werte."
+  ],
+  "ex_zh": "该党在家庭政策上历来奉行较为保守的价值观。",
+  "use": {
+   "col": [
+    [
+     "konservative Ansichten",
+     "保守观点"
+    ],
+    [
+     "konservativ eingestellt sein",
+     "持保守立场"
+    ]
+   ],
+   "tip": "反义 progressiv；名词 der Konservatismus"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "progressiv",
+  "pos": "adj",
+  "zh": "进步的",
+  "ex": [
+   "Die progressive Regierung führte das Wahlrecht ab 16 ein."
+  ],
+  "ex_zh": "进步派政府引入了16岁选举权。",
+  "use": {
+   "col": [
+    [
+     "progressive Politik",
+     "进步政策"
+    ],
+    [
+     "progressiv denken",
+     "思想进步"
+    ]
+   ],
+   "tip": "反义 konservativ；也指医学上的「渐进性的」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "unparteiisch",
+  "pos": "adj",
+  "zh": "公正的；不偏袒的",
+  "ex": [
+   "Ein Richter muss in jedem Verfahren unparteiisch und ohne Vorurteile entscheiden."
+  ],
+  "ex_zh": "法官在每个案件中都必须公正、不带偏见地裁决。",
+  "use": {
+   "col": [
+    [
+     "unparteiisch bleiben",
+     "保持公正"
+    ],
+    [
+     "ein unparteiischer Vermittler",
+     "中立的调解人"
+    ]
+   ],
+   "tip": "近义 neutral、objektiv"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "zur Rechenschaft ziehen",
+  "pos": "phr",
+  "zh": "追究责任",
+  "ex": [
+   "Die Verantwortlichen müssen für den Skandal zur Rechenschaft gezogen werden."
+  ],
+  "ex_zh": "对丑闻负责的人必须被追究责任。",
+  "use": {
+   "col": [
+    [
+     "Rechenschaft ablegen",
+     "作出交代"
+    ],
+    [
+     "jemanden zur Verantwortung ziehen",
+     "追究某人的责任"
+    ]
+   ],
+   "tip": "名词 die Rechenschaft；常用被动态"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "außer Kraft setzen",
+  "pos": "phr",
+  "zh": "使失效；废止",
+  "ex": [
+   "Das Parlament setzte das alte Gesetz außer Kraft."
+  ],
+  "ex_zh": "议会废止了旧的法律。",
+  "use": {
+   "col": [
+    [
+     "außer Kraft treten",
+     "失效"
+    ],
+    [
+     "Regeln außer Kraft setzen",
+     "使规则失效"
+    ]
+   ],
+   "tip": "反义 in Kraft setzen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "geltend machen",
+  "pos": "phr",
+  "zh": "主张；提出（权利、理由）",
+  "ex": [
+   "Er machte seinen Anspruch auf Schadensersatz vor Gericht geltend."
+  ],
+  "ex_zh": "他在法庭上主张了损害赔偿的权利。",
+  "use": {
+   "col": [
+    [
+     "Ansprüche geltend machen",
+     "主张权利"
+    ],
+    [
+     "Bedenken geltend machen",
+     "提出顾虑"
+    ]
+   ],
+   "tip": "geltend 不变形；税务：Kosten geltend machen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "in die Pflicht nehmen",
+  "pos": "phr",
+  "zh": "要求担起责任",
+  "ex": [
+   "Die Regierung will die Konzerne stärker in die Pflicht nehmen."
+  ],
+  "ex_zh": "政府想让大企业担起更多责任。",
+  "use": {
+   "col": [
+    [
+     "in die Pflicht genommen werden",
+     "被要求负责"
+    ],
+    [
+     "in der Pflicht stehen",
+     "负有责任"
+    ]
+   ],
+   "tip": "较正式；字面义「把某人置于义务之中」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Rechnung tragen",
+  "pos": "phr",
+  "zh": "顾及；考虑到",
+  "ex": [
+   "Das neue Gesetz trägt den veränderten Lebensumständen Rechnung."
+  ],
+  "ex_zh": "新法律考虑到了生活环境的变化。",
+  "gov": "Rechnung tragen + Dat.",
+  "use": {
+   "col": [
+    [
+     "den Bedürfnissen Rechnung tragen",
+     "顾及需求"
+    ],
+    [
+     "der Realität Rechnung tragen",
+     "顾及现实"
+    ]
+   ],
+   "tip": "固定搭配，跟 Dat.；正式用语"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "die Weichen stellen",
+  "pos": "phr",
+  "zh": "为……定调；铺路",
+  "ex": [
+   "Mit diesem Beschluss stellt die Regierung die Weichen für die Energiewende."
+  ],
+  "ex_zh": "政府凭这项决议为能源转型铺路。",
+  "use": {
+   "col": [
+    [
+     "die Weichen für die Zukunft stellen",
+     "为未来铺路"
+    ],
+    [
+     "die Weichen neu stellen",
+     "重新定方向"
+    ]
+   ],
+   "tip": "来自铁路：扳道岔；常用于政治与经济"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Farbe bekennen",
+  "pos": "phr",
+  "zh": "亮明立场",
+  "ex": [
+   "Die Partei muss jetzt Farbe bekennen und sagen, wie sie die Reform finanzieren will."
+  ],
+  "ex_zh": "该党现在必须亮明立场，说明想如何为改革提供资金。",
+  "use": {
+   "col": [
+    [
+     "endlich Farbe bekennen",
+     "终于表明态度"
+    ],
+    [
+     "zu etwas Farbe bekennen",
+     "对某事表明态度"
+    ]
+   ],
+   "tip": "口语和报纸常用的习语"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "von Amts wegen",
+  "pos": "phr",
+  "zh": "依职权；官方主动",
+  "ex": [
+   "Die Behörde prüft den Fall von Amts wegen."
+  ],
+  "ex_zh": "主管部门依职权审查该案件。",
+  "use": {
+   "col": [
+    [
+     "von Amts wegen eingeleitet",
+     "依职权启动"
+    ],
+    [
+     "von Amts wegen zuständig",
+     "依职权管辖"
+    ]
+   ],
+   "tip": "官方用语：不需要有人申请，官方自己行动"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "seitens",
+  "pos": "prep",
+  "zh": "由……方面（+Gen.）",
+  "ex": [
+   "Seitens der Behörde gibt es keine Einwände gegen den Bau."
+  ],
+  "ex_zh": "主管部门方面对建设没有异议。",
+  "gov": "seitens + Gen.",
+  "use": {
+   "col": [
+    [
+     "seitens der Regierung",
+     "政府方面"
+    ],
+    [
+     "seitens des Vermieters",
+     "房东方面"
+    ]
+   ],
+   "tip": "书面语介词，跟 Gen.；口语用 von … aus"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "binnen",
+  "pos": "prep",
+  "zh": "在……之内（+Gen./Dat.）",
+  "ex": [
+   "Binnen einer Woche müssen Sie den Bescheid beantworten."
+  ],
+  "ex_zh": "您必须在一周之内答复这份通知书。",
+  "gov": "binnen + Gen./Dat.",
+  "use": {
+   "col": [
+    [
+     "binnen weniger Tage",
+     "几天之内"
+    ],
+    [
+     "binnen kurzer Zeit",
+     "短时间内"
+    ]
+   ],
+   "tip": "书面语介词；口语用 innerhalb；跟 Gen. 或 Dat."
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "mangels",
+  "pos": "prep",
+  "zh": "因缺乏（+Gen.）",
+  "ex": [
+   "Die Klage wurde mangels Beweisen vom Gericht abgewiesen."
+  ],
+  "ex_zh": "法院因缺乏证据驳回了起诉。",
+  "gov": "mangels + Gen.",
+  "use": {
+   "col": [
+    [
+     "mangels Beweisen",
+     "因缺乏证据"
+    ],
+    [
+     "mangels Interesse",
+     "因缺乏兴趣"
+    ]
+   ],
+   "tip": "书面语介词，后面名词常不带冠词，可用 Dat."
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "zwecks",
+  "pos": "prep",
+  "zh": "为了（+Gen.）",
+  "ex": [
+   "Die Polizei hat das Haus zwecks Beweissicherung durchsucht."
+  ],
+  "ex_zh": "警方为了保全证据搜查了那座房子。",
+  "gov": "zwecks + Gen.",
+  "use": {
+   "col": [
+    [
+     "zwecks Klärung",
+     "为了澄清"
+    ],
+    [
+     "zwecks Überprüfung",
+     "为了检查"
+    ]
+   ],
+   "tip": "官方用语；口语用 zum Zweck von 或 um … zu"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "gemäß",
+  "pos": "prep",
+  "zh": "按照；根据（+Dat.）",
+  "ex": [
+   "Gemäß den gesetzlichen Vorgaben müssen die Daten gelöscht werden."
+  ],
+  "ex_zh": "按照法律规定，这些数据必须删除。",
+  "gov": "gemäß + Dat.",
+  "use": {
+   "col": [
+    [
+     "gemäß Paragraf 5",
+     "根据第五条"
+    ],
+    [
+     "dem Gesetz gemäß",
+     "依照法律"
+    ]
+   ],
+   "tip": "书面语介词，跟 Dat.，可前置或后置"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "bezüglich",
+  "pos": "prep",
+  "zh": "关于（+Gen.）",
+  "ex": [
+   "Bezüglich Ihres Antrags haben wir noch einige Fragen."
+  ],
+  "ex_zh": "关于您的申请，我们还有几个问题。",
+  "gov": "bezüglich + Gen.",
+  "use": {
+   "col": [
+    [
+     "bezüglich der Frist",
+     "关于期限"
+    ],
+    [
+     "Ihre Anfrage bezüglich der Miete",
+     "您关于房租的询问"
+    ]
+   ],
+   "tip": "公文里常见的介词；口语用 wegen 或 zu"
+  }
+ }
+]

@@ -1,0 +1,8309 @@
+[
+ {
+  "lv": "B2",
+  "lemma": "Ungleichheit",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Ungleichheiten",
+  "zh": "不平等",
+  "ex": [
+   "Die soziale Ungleichheit hat in den letzten Jahren zugenommen."
+  ],
+  "ex_zh": "近年来社会不平等加剧了。",
+  "use": {
+   "col": [
+    [
+     "soziale Ungleichheit",
+     "社会不平等"
+    ],
+    [
+     "Ungleichheit abbauen",
+     "减少不平等"
+    ]
+   ],
+   "tip": "反义词 Gleichheit；形容词 ungleich"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Toleranz",
+  "art": "die",
+  "pos": "n",
+  "zh": "宽容；包容",
+  "ex": [
+   "Toleranz gegenüber anderen Meinungen ist die Basis einer offenen Gesellschaft."
+  ],
+  "ex_zh": "对不同意见的宽容是开放社会的基础。",
+  "gov": "Toleranz gegenüber + Dat.",
+  "use": {
+   "col": [
+    [
+     "Toleranz zeigen",
+     "表现出宽容"
+    ],
+    [
+     "religiöse Toleranz",
+     "宗教宽容"
+    ]
+   ],
+   "tip": "反义词 Intoleranz；形容词 tolerant"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Sozialhilfe",
+  "art": "die",
+  "pos": "n",
+  "zh": "社会救济",
+  "ex": [
+   "Nach dem Verlust seiner Arbeit lebte er eine Zeit lang von Sozialhilfe."
+  ],
+  "ex_zh": "失业后他有一段时间靠社会救济生活。",
+  "use": {
+   "col": [
+    [
+     "Sozialhilfe beantragen",
+     "申请社会救济"
+    ],
+    [
+     "auf Sozialhilfe angewiesen sein",
+     "必须依靠社会救济"
+    ]
+   ],
+   "tip": "现行制度中常说 Bürgergeld 或 Grundsicherung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Ehrenamt",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Ehrenämter",
+  "zh": "志愿职务；荣誉职务",
+  "ex": [
+   "Neben dem Beruf übernimmt sie ein Ehrenamt im Sportverein."
+  ],
+  "ex_zh": "她工作之余在体育俱乐部担任志愿职务。",
+  "use": {
+   "col": [
+    [
+     "ein Ehrenamt ausüben",
+     "担任志愿职务"
+    ],
+    [
+     "im Ehrenamt tätig sein",
+     "做志愿者"
+    ]
+   ],
+   "tip": "形容词 ehrenamtlich；无报酬，不是 Minijob"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zusammenhalt",
+  "art": "der",
+  "pos": "n",
+  "zh": "凝聚力；团结",
+  "ex": [
+   "Der gesellschaftliche Zusammenhalt wird durch die Krise auf die Probe gestellt."
+  ],
+  "ex_zh": "这场危机考验着社会的凝聚力。",
+  "use": {
+   "col": [
+    [
+     "den Zusammenhalt stärken",
+     "增强凝聚力"
+    ],
+    [
+     "Zusammenhalt in der Familie",
+     "家庭内部的团结"
+    ]
+   ],
+   "tip": "动词 zusammenhalten；没有复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Norm",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Normen",
+  "zh": "规范；标准",
+  "ex": [
+   "Soziale Normen verändern sich im Laufe der Zeit."
+  ],
+  "ex_zh": "社会规范会随时间而变化。",
+  "use": {
+   "col": [
+    [
+     "gesellschaftliche Normen",
+     "社会规范"
+    ],
+    [
+     "gegen die Norm verstoßen",
+     "违反规范"
+    ]
+   ],
+   "tip": "DIN-Norm 也叫 Norm；形容词 normal 已学"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Brauch",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Bräuche",
+  "zh": "习俗",
+  "ex": [
+   "In meiner Heimat gibt es viele alte Bräuche zum Neujahrsfest."
+  ],
+  "ex_zh": "在我的家乡，新年有许多古老的习俗。",
+  "use": {
+   "col": [
+    [
+     "alte Bräuche pflegen",
+     "保持古老习俗"
+    ],
+    [
+     "Sitten und Bräuche",
+     "风俗习惯"
+    ]
+   ],
+   "tip": "Brauch 复数变音：Bräuche；同族 Brauchtum"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Sitte",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Sitten",
+  "zh": "风俗；礼仪",
+  "ex": [
+   "In jedem Land gelten andere Sitten, deshalb sollte man sich vorher informieren."
+  ],
+  "ex_zh": "每个国家的风俗都不同，所以最好事先了解一下。",
+  "use": {
+   "col": [
+    [
+     "andere Länder, andere Sitten",
+     "入乡随俗"
+    ],
+    [
+     "gegen die guten Sitten verstoßen",
+     "违背良俗"
+    ]
+   ],
+   "tip": "常用复数；Sitte 偏习惯与礼仪，Brauch 偏节庆仪式"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Umgangsformen (Pl.)",
+  "art": "die",
+  "pos": "n",
+  "zh": "礼貌；待人接物的方式",
+  "ex": [
+   "Gute Umgangsformen sind im Berufsleben und bei Vorstellungsgesprächen besonders wichtig."
+  ],
+  "ex_zh": "良好的礼仪在职场和面试中尤其重要。",
+  "use": {
+   "col": [
+    [
+     "gute Umgangsformen haben",
+     "举止有礼"
+    ],
+    [
+     "die Umgangsformen lernen",
+     "学习礼仪"
+    ]
+   ],
+   "tip": "只有复数；同族 Umgang"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Höflichkeit",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Höflichkeiten",
+  "zh": "礼貌",
+  "ex": [
+   "Aus Höflichkeit bot er der älteren Dame seinen Platz an."
+  ],
+  "ex_zh": "出于礼貌，他把座位让给了那位年长的女士。",
+  "use": {
+   "col": [
+    [
+     "aus Höflichkeit",
+     "出于礼貌"
+    ],
+    [
+     "die Höflichkeit wahren",
+     "保持礼貌"
+    ]
+   ],
+   "tip": "形容词 höflich；反义 Unhöflichkeit"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Ehrlichkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "诚实",
+  "ex": [
+   "Ehrlichkeit ist die Grundlage jeder guten Beziehung, auch im Berufsleben."
+  ],
+  "ex_zh": "诚实是任何良好关系的基础，在职场中也一样。",
+  "use": {
+   "col": [
+    [
+     "in aller Ehrlichkeit",
+     "说实话"
+    ],
+    [
+     "Ehrlichkeit schätzen",
+     "看重诚实"
+    ]
+   ],
+   "tip": "形容词 ehrlich；反义 Unehrlichkeit"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Ehre",
+  "art": "die",
+  "pos": "n",
+  "zh": "荣誉；尊严",
+  "ex": [
+   "Es ist mir eine Ehre, Sie heute begrüßen zu dürfen."
+  ],
+  "ex_zh": "今天能欢迎您，是我的荣幸。",
+  "use": {
+   "col": [
+    [
+     "zu Ehren von",
+     "为纪念…"
+    ],
+    [
+     "jemandem die Ehre erweisen",
+     "给某人面子"
+    ]
+   ],
+   "tip": "同族 ehren、Ehrenamt、ehrlich"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Ungerechtigkeit",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Ungerechtigkeiten",
+  "zh": "不公正",
+  "ex": [
+   "Die Ungerechtigkeit bei der Bezahlung macht viele Kollegen wütend."
+  ],
+  "ex_zh": "薪酬上的不公正让很多同事很愤怒。",
+  "use": {
+   "col": [
+    [
+     "eine himmelschreiende Ungerechtigkeit",
+     "令人愤慨的不公"
+    ],
+    [
+     "gegen Ungerechtigkeit kämpfen",
+     "反对不公"
+    ]
+   ],
+   "tip": "形容词 ungerecht"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Spannung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Spannungen",
+  "zh": "紧张；矛盾",
+  "ex": [
+   "Zwischen den Generationen kommt es manchmal zu Spannungen."
+  ],
+  "ex_zh": "代际之间有时会出现矛盾。",
+  "use": {
+   "col": [
+    [
+     "Spannungen abbauen",
+     "缓和紧张关系"
+    ],
+    [
+     "eine angespannte Lage",
+     "紧张的局势"
+    ]
+   ],
+   "tip": "也有「悬念；电压」的意思"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Auseinandersetzung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Auseinandersetzungen",
+  "zh": "争论；探讨；冲突",
+  "ex": [
+   "Die Auseinandersetzung mit dem Thema hat mir viel gebracht."
+  ],
+  "ex_zh": "深入研究这个话题让我收获很多。",
+  "gov": "die Auseinandersetzung mit + Dat.",
+  "use": {
+   "col": [
+    [
+     "eine heftige Auseinandersetzung",
+     "激烈的争论"
+    ],
+    [
+     "sich auf eine Auseinandersetzung einlassen",
+     "卷入争论"
+    ]
+   ],
+   "tip": "sich auseinandersetzen mit 的名词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Sorgerecht",
+  "art": "das",
+  "pos": "n",
+  "zh": "监护权",
+  "ex": [
+   "Nach der Scheidung bekam die Mutter das alleinige Sorgerecht."
+  ],
+  "ex_zh": "离婚后母亲得到了单独监护权。",
+  "use": {
+   "col": [
+    [
+     "das gemeinsame Sorgerecht",
+     "共同监护权"
+    ],
+    [
+     "das Sorgerecht beantragen",
+     "申请监护权"
+    ]
+   ],
+   "tip": "Sorge + Recht；法律用语"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Unterhalt",
+  "art": "der",
+  "pos": "n",
+  "zh": "抚养费；赡养费；生活费",
+  "ex": [
+   "Er zahlt monatlich Unterhalt für seine beiden Kinder."
+  ],
+  "ex_zh": "他每月为两个孩子支付抚养费。",
+  "use": {
+   "col": [
+    [
+     "Unterhalt zahlen",
+     "支付抚养费"
+    ],
+    [
+     "Anspruch auf Unterhalt",
+     "有权要求抚养费"
+    ]
+   ],
+   "tip": "动词 unterhalten 在此义项即「供养」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Alleinerziehende",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Alleinerziehenden",
+  "zh": "单亲家长",
+  "ex": [
+   "Alleinerziehende haben oft Probleme, Beruf und Kinder zu vereinbaren."
+  ],
+  "ex_zh": "单亲家长常常难以兼顾工作和孩子。",
+  "use": {
+   "col": [
+    [
+     "eine Alleinerziehende unterstützen",
+     "支持单亲妈妈"
+    ],
+    [
+     "Alleinerziehende mit zwei Kindern",
+     "带两个孩子的单亲家长"
+    ]
+   ],
+   "tip": "形容词变格名词：eine Alleinerziehende / ein Alle"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Elterngeld",
+  "art": "das",
+  "pos": "n",
+  "zh": "父母津贴",
+  "ex": [
+   "Während der Elternzeit bekommen junge Eltern Elterngeld vom Staat."
+  ],
+  "ex_zh": "育儿假期间，年轻父母可以从国家领取父母津贴。",
+  "use": {
+   "col": [
+    [
+     "Elterngeld beantragen",
+     "申请父母津贴"
+    ],
+    [
+     "Anspruch auf Elterngeld",
+     "有权领取父母津贴"
+    ]
+   ],
+   "tip": "不要和 Kindergeld 混淆；Kindergeld 是每月儿童津贴"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kinderbetreuung",
+  "art": "die",
+  "pos": "n",
+  "zh": "儿童看护",
+  "ex": [
+   "Die Stadt will die Kinderbetreuung für unter Dreijährige ausbauen."
+  ],
+  "ex_zh": "市政府想扩充三岁以下儿童的看护服务。",
+  "use": {
+   "col": [
+    [
+     "die Kinderbetreuung organisieren",
+     "安排孩子的看护"
+    ],
+    [
+     "ein Platz in der Kinderbetreuung",
+     "一个看护名额"
+    ]
+   ],
+   "tip": "同族 Betreuung 已学；Kita 是常见场所"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Rollenbild",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Rollenbilder",
+  "zh": "角色观念",
+  "ex": [
+   "Alte Rollenbilder prägen immer noch die Berufswahl vieler junger Menschen."
+  ],
+  "ex_zh": "传统的性别角色观念仍然影响着许多年轻人的职业选择。",
+  "use": {
+   "col": [
+    [
+     "traditionelle Rollenbilder",
+     "传统角色观念"
+    ],
+    [
+     "ein Rollenbild hinterfragen",
+     "反思某种角色观念"
+    ]
+   ],
+   "tip": "常和 Geschlecht 一起出现：Geschlechterrollen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Rollenverteilung",
+  "art": "die",
+  "pos": "n",
+  "zh": "角色分工",
+  "ex": [
+   "In vielen Familien hat sich die traditionelle Rollenverteilung geändert."
+  ],
+  "ex_zh": "在许多家庭里，传统的角色分工已经改变。",
+  "use": {
+   "col": [
+    [
+     "die traditionelle Rollenverteilung",
+     "传统分工"
+    ],
+    [
+     "eine faire Rollenverteilung",
+     "公平的分工"
+    ]
+   ],
+   "tip": "多指家务和工作的分工"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Frauenquote",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Frauenquoten",
+  "zh": "女性配额",
+  "ex": [
+   "Die Frauenquote soll mehr Frauen in Führungspositionen bringen."
+  ],
+  "ex_zh": "女性配额制应当让更多女性进入领导岗位。",
+  "use": {
+   "col": [
+    [
+     "die Frauenquote einführen",
+     "推行女性配额"
+    ],
+    [
+     "eine gesetzliche Frauenquote",
+     "法定女性配额"
+    ]
+   ],
+   "tip": "同族 Quote；争论性话题"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Verwandtschaft",
+  "art": "die",
+  "pos": "n",
+  "zh": "亲属；亲缘关系",
+  "ex": [
+   "Zur Hochzeit kam die ganze Verwandtschaft aus den umliegenden Dörfern angereist."
+  ],
+  "ex_zh": "整个亲族都从周边的村子赶来参加婚礼。",
+  "use": {
+   "col": [
+    [
+     "die nahe Verwandtschaft",
+     "近亲"
+    ],
+    [
+     "mit jemandem verwandt sein",
+     "和某人有亲戚关系"
+    ]
+   ],
+   "tip": "集合名词，一般无复数；比 Verwandte 更笼统"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Schwiegereltern (Pl.)",
+  "art": "die",
+  "pos": "n",
+  "zh": "公婆；岳父母",
+  "ex": [
+   "Meine Schwiegereltern wohnen im selben Ort und helfen uns oft bei den Kindern."
+  ],
+  "ex_zh": "我的公婆住在同一个地方，常常帮我们带孩子。",
+  "use": {
+   "col": [
+    [
+     "bei den Schwiegereltern wohnen",
+     "住在公婆（岳父母）家"
+    ],
+    [
+     "sich mit den Schwiegereltern verstehen",
+     "和公婆相处融洽"
+    ]
+   ],
+   "tip": "单数：Schwiegermutter、Schwiegervater"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Lebensgefährte",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Lebensgefährten",
+  "zh": "同居伴侣",
+  "ex": [
+   "Sie lebt seit drei Jahren mit ihrem Lebensgefährten zusammen."
+  ],
+  "ex_zh": "她和她的伴侣已经同居三年了。",
+  "use": {
+   "col": [
+    [
+     "mit dem Lebensgefährten zusammenleben",
+     "与伴侣同居"
+    ],
+    [
+     "die Lebensgefährtin",
+     "女性伴侣"
+    ]
+   ],
+   "tip": "阴性 Lebensgefährtin；不一定结婚"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Patchworkfamilie",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Patchworkfamilien",
+  "zh": "重组家庭",
+  "ex": [
+   "In einer Patchworkfamilie wachsen Kinder aus früheren Beziehungen zusammen auf."
+  ],
+  "ex_zh": "在重组家庭里，来自以前关系的孩子一起长大。",
+  "use": {
+   "col": [
+    [
+     "in einer Patchworkfamilie leben",
+     "生活在重组家庭"
+    ],
+    [
+     "eine moderne Patchworkfamilie",
+     "现代重组家庭"
+    ]
+   ],
+   "tip": "音 [pɛtʃwœːk]；也说 Stieffamilie"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Single",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Singles",
+  "zh": "单身者",
+  "ex": [
+   "Immer mehr Menschen in Großstädten leben als Single."
+  ],
+  "ex_zh": "越来越多的大城市居民单身生活。",
+  "use": {
+   "col": [
+    [
+     "als Single leben",
+     "单身生活"
+    ],
+    [
+     "ein Single-Haushalt",
+     "单人户"
+    ]
+   ],
+   "tip": "发音 [ˈsɪŋɡl̩]；一般不分阴阳性"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Vorbild",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Vorbilder",
+  "zh": "榜样",
+  "ex": [
+   "Meine Großmutter war immer ein Vorbild für mich."
+  ],
+  "ex_zh": "我的祖母一直是我的榜样。",
+  "gov": "Vorbild für + Akk.",
+  "use": {
+   "col": [
+    [
+     "ein gutes Vorbild sein",
+     "是个好榜样"
+    ],
+    [
+     "sich jemanden zum Vorbild nehmen",
+     "以某人为榜样"
+    ]
+   ],
+   "tip": "Vorbild für + Akk."
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Außenseiter",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Außenseiter",
+  "zh": "边缘人；局外人",
+  "ex": [
+   "In der Schule war er lange ein Außenseiter."
+  ],
+  "ex_zh": "在学校里他长期是个边缘人。",
+  "use": {
+   "col": [
+    [
+     "ein Außenseiter sein",
+     "是局外人"
+    ],
+    [
+     "sich als Außenseiter fühlen",
+     "觉得自己是局外人"
+    ]
+   ],
+   "tip": "阴性 Außenseiterin"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zivilcourage",
+  "art": "die",
+  "pos": "n",
+  "zh": "见义勇为的勇气；公民勇气",
+  "ex": [
+   "Zivilcourage zeigt, wer bei einem Streit in der U-Bahn nicht einfach wegschaut."
+  ],
+  "ex_zh": "在地铁里有人吵架时不会袖手旁观的人，才是有公民勇气。",
+  "use": {
+   "col": [
+    [
+     "Zivilcourage zeigen",
+     "表现出勇气"
+    ],
+    [
+     "Zivilcourage beweisen",
+     "证明自己有勇气"
+    ]
+   ],
+   "tip": "读作 [ziviˈkuraːʒə]，源自法语；没有复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Glaube",
+  "art": "der",
+  "pos": "n",
+  "zh": "信仰；相信",
+  "ex": [
+   "Sein Glaube gibt ihm in schweren Zeiten Halt."
+  ],
+  "ex_zh": "他的信仰在艰难时期给他支撑。",
+  "gov": "Glaube an + Akk.",
+  "use": {
+   "col": [
+    [
+     "der christliche Glaube",
+     "基督教信仰"
+    ],
+    [
+     "der Glaube an Gott",
+     "对上帝的信仰"
+    ]
+   ],
+   "tip": "动词 glauben 已学；Glaube an + Akk."
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Christ",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Christen",
+  "zh": "基督徒",
+  "ex": [
+   "Die meisten Christen in Deutschland sind katholisch oder evangelisch."
+  ],
+  "ex_zh": "德国的大多数基督徒是天主教徒或新教徒。",
+  "use": {
+   "col": [
+    [
+     "ein gläubiger Christ",
+     "虔诚的基督徒"
+    ],
+    [
+     "Christen und Muslime",
+     "基督徒和穆斯林"
+    ]
+   ],
+   "tip": "阴性 Christin；弱变化 den Christen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Muslim",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Muslime",
+  "zh": "穆斯林",
+  "ex": [
+   "Viele Muslime fasten im Monat Ramadan von Sonnenaufgang bis Sonnenuntergang."
+  ],
+  "ex_zh": "许多穆斯林在斋月里从日出到日落禁食。",
+  "use": {
+   "col": [
+    [
+     "ein gläubiger Muslim",
+     "虔诚的穆斯林"
+    ],
+    [
+     "Muslime in Deutschland",
+     "德国的穆斯林"
+    ]
+   ],
+   "tip": "阴性 Muslimin；形容词 muslimisch；宗教 der Islam"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Moschee",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Moscheen",
+  "zh": "清真寺",
+  "ex": [
+   "In unserer Stadt wurde eine neue Moschee eröffnet."
+  ],
+  "ex_zh": "我们城市新开了一座清真寺。",
+  "use": {
+   "col": [
+    [
+     "eine Moschee besuchen",
+     "参观清真寺"
+    ],
+    [
+     "in die Moschee gehen",
+     "去清真寺"
+    ]
+   ],
+   "tip": "读作 [mɔˈʃeːə]；犹太教的是 Synagoge"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Synagoge",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Synagogen",
+  "zh": "犹太教堂",
+  "ex": [
+   "Die Synagoge wurde nach dem Krieg wieder aufgebaut."
+  ],
+  "ex_zh": "犹太教堂在战后被重建。",
+  "use": {
+   "col": [
+    [
+     "eine Synagoge besuchen",
+     "参观犹太教堂"
+    ],
+    [
+     "die Gemeinde der Synagoge",
+     "犹太教堂的教区"
+    ]
+   ],
+   "tip": "对应的宗教：das Judentum"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gottesdienst",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Gottesdienste",
+  "zh": "礼拜；弥撒",
+  "ex": [
+   "Am Sonntagmorgen besuchen wir manchmal gemeinsam mit den Großeltern den Gottesdienst."
+  ],
+  "ex_zh": "星期天早上，我们有时和祖父母一起去做礼拜。",
+  "use": {
+   "col": [
+    [
+     "einen Gottesdienst besuchen",
+     "参加礼拜"
+    ],
+    [
+     "zum Gottesdienst gehen",
+     "去做礼拜"
+    ]
+   ],
+   "tip": "Gottes + Dienst；天主教称 Messe"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gebet",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Gebete",
+  "zh": "祈祷",
+  "ex": [
+   "Vor dem Essen sprach die Familie ein kurzes Gebet."
+  ],
+  "ex_zh": "饭前这家人做了一个简短的祷告。",
+  "use": {
+   "col": [
+    [
+     "ein Gebet sprechen",
+     "做祈祷"
+    ],
+    [
+     "im stillen Gebet",
+     "默默祈祷"
+    ]
+   ],
+   "tip": "动词 beten；同族 bitten"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Taufe",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Taufen",
+  "zh": "洗礼",
+  "ex": [
+   "Die Taufe des Babys findet am Sonntag in der Kirche statt."
+  ],
+  "ex_zh": "婴儿的洗礼在周日教堂举行。",
+  "use": {
+   "col": [
+    [
+     "zur Taufe gehen",
+     "参加洗礼"
+    ],
+    [
+     "ein Kind zur Taufe tragen",
+     "抱孩子去受洗"
+    ]
+   ],
+   "tip": "动词 taufen；Taufpate = 教父/教母"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Konfession",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Konfessionen",
+  "zh": "教派；宗教信仰",
+  "ex": [
+   "Auf dem Formular muss man auch seine Konfession angeben, falls man einer Kirche angehört."
+  ],
+  "ex_zh": "如果属于某个教会，在表格上还要填写教派。",
+  "use": {
+   "col": [
+    [
+     "ohne Konfession",
+     "无宗教信仰"
+    ],
+    [
+     "die evangelische Konfession",
+     "新教"
+    ]
+   ],
+   "tip": "德国表格里常有 Konfession 一栏；Kirchensteuer 取决于此"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kirchensteuer",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Kirchensteuern",
+  "zh": "教会税",
+  "ex": [
+   "Wer aus der Kirche austritt, muss keine Kirchensteuer mehr zahlen."
+  ],
+  "ex_zh": "退出教会的人就不用再交教会税了。",
+  "use": {
+   "col": [
+    [
+     "Kirchensteuer zahlen",
+     "交教会税"
+    ],
+    [
+     "aus der Kirche austreten",
+     "退出教会"
+    ]
+   ],
+   "tip": "德国特色：教会成员从工资税里按比例缴纳"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Pfarrer",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Pfarrer",
+  "zh": "牧师；神父",
+  "ex": [
+   "Der Pfarrer begrüßte die Gemeinde vor dem Gottesdienst."
+  ],
+  "ex_zh": "牧师在礼拜前向教区信众致意。",
+  "use": {
+   "col": [
+    [
+     "zum Pfarrer gehen",
+     "找牧师"
+    ],
+    [
+     "der evangelische Pfarrer",
+     "新教牧师"
+    ]
+   ],
+   "tip": "阴性 Pfarrerin；天主教常说 Priester"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Friedhof",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Friedhöfe",
+  "zh": "墓地",
+  "ex": [
+   "Jedes Jahr besuchen wir das Grab meines Großvaters auf dem Friedhof."
+  ],
+  "ex_zh": "每年我们都去墓地看爷爷的墓。",
+  "use": {
+   "col": [
+    [
+     "auf dem Friedhof",
+     "在墓地"
+    ],
+    [
+     "ein Grab auf dem Friedhof pflegen",
+     "打理墓地的墓"
+    ]
+   ],
+   "tip": "Fried = 平和；不要写成 Freihof"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Beerdigung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Beerdigungen",
+  "zh": "葬礼；下葬",
+  "ex": [
+   "Zur Beerdigung des Bürgermeisters kamen mehr als tausend Menschen aus der ganzen Region."
+  ],
+  "ex_zh": "全地区有一千多人来参加市长的葬礼。",
+  "use": {
+   "col": [
+    [
+     "an der Beerdigung teilnehmen",
+     "参加葬礼"
+    ],
+    [
+     "zu einer Beerdigung gehen",
+     "去参加葬礼"
+    ]
+   ],
+   "tip": "动词 beerdigen；比 Bestattung 口语"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Trauer",
+  "art": "die",
+  "pos": "n",
+  "zh": "悲痛；哀悼",
+  "ex": [
+   "Die Familie trägt tiefe Trauer um den verstorbenen Vater."
+  ],
+  "ex_zh": "全家人为去世的父亲深感悲痛。",
+  "gov": "Trauer um + Akk.",
+  "use": {
+   "col": [
+    [
+     "tiefe Trauer empfinden",
+     "深感悲痛"
+    ],
+    [
+     "in Trauer sein",
+     "在服丧"
+    ]
+   ],
+   "tip": "动词 trauern；Trauer um + Akk."
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Testament",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Testamente",
+  "zh": "遗嘱",
+  "ex": [
+   "Im Testament hat sie ihr Haus den Enkeln vermacht."
+  ],
+  "ex_zh": "她在遗嘱里把房子留给了孙辈。",
+  "use": {
+   "col": [
+    [
+     "ein Testament machen",
+     "立遗嘱"
+    ],
+    [
+     "im Testament erwähnen",
+     "在遗嘱中提及"
+    ]
+   ],
+   "tip": "Altes Testament / Neues Testament 指《圣经》"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Erbschaft",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Erbschaften",
+  "zh": "遗产",
+  "ex": [
+   "Mit der Erbschaft konnte sie ihre Schulden bezahlen."
+  ],
+  "ex_zh": "她用遗产还清了债务。",
+  "use": {
+   "col": [
+    [
+     "eine Erbschaft antreten",
+     "继承遗产"
+    ],
+    [
+     "die Erbschaft ausschlagen",
+     "放弃继承"
+    ]
+   ],
+   "tip": "动词 erben"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Migrationshintergrund",
+  "art": "der",
+  "pos": "n",
+  "zh": "移民背景",
+  "ex": [
+   "Jeder vierte Einwohner in Deutschland hat einen Migrationshintergrund."
+  ],
+  "ex_zh": "德国每四个居民中就有一个有移民背景。",
+  "use": {
+   "col": [
+    [
+     "Menschen mit Migrationshintergrund",
+     "有移民背景的人"
+    ],
+    [
+     "einen Migrationshintergrund haben",
+     "有移民背景"
+    ]
+   ],
+   "tip": "官方统计用词；本人或父母至少一方非出生即德国国籍"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Mittelschicht",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Mittelschichten",
+  "zh": "中产阶层",
+  "ex": [
+   "Die Mittelschicht leidet besonders unter den hohen Mieten."
+  ],
+  "ex_zh": "中产阶层尤其受高房租之苦。",
+  "use": {
+   "col": [
+    [
+     "zur Mittelschicht gehören",
+     "属于中产阶层"
+    ],
+    [
+     "die obere Mittelschicht",
+     "中上阶层"
+    ]
+   ],
+   "tip": "Schicht 也是「班次；层」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Lebensstandard",
+  "art": "der",
+  "pos": "n",
+  "zh": "生活水平",
+  "ex": [
+   "Der Lebensstandard in Nordeuropa gehört zu den höchsten der Welt, auch wenn alles teuer ist."
+  ],
+  "ex_zh": "北欧的生活水平是世界上最高的之一，尽管一切都很贵。",
+  "use": {
+   "col": [
+    [
+     "den Lebensstandard halten",
+     "保持生活水平"
+    ],
+    [
+     "ein hoher Lebensstandard",
+     "高生活水平"
+    ]
+   ],
+   "tip": "与 Lebensqualität 不同：前者偏物质，后者偏整体感受"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Lebensqualität",
+  "art": "die",
+  "pos": "n",
+  "zh": "生活质量",
+  "ex": [
+   "Die Lebensqualität in der Stadt hängt stark von der Luft ab."
+  ],
+  "ex_zh": "城市的生活质量很大程度上取决于空气质量。",
+  "use": {
+   "col": [
+    [
+     "die Lebensqualität verbessern",
+     "提高生活质量"
+    ],
+    [
+     "hohe Lebensqualität",
+     "高生活质量"
+    ]
+   ],
+   "tip": "没有复数；Qualität 的重音在 -tät"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Lebensunterhalt",
+  "art": "der",
+  "pos": "n",
+  "zh": "生计；生活费",
+  "ex": [
+   "Neben dem Studium verdient sie sich ihren Lebensunterhalt als Aushilfe in einem Café."
+  ],
+  "ex_zh": "读书之余，她在咖啡馆做兼职来维持生计。",
+  "use": {
+   "col": [
+    [
+     "seinen Lebensunterhalt verdienen",
+     "养活自己"
+    ],
+    [
+     "für den Lebensunterhalt sorgen",
+     "负责生计"
+    ]
+   ],
+   "tip": "没有复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Existenz",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Existenzen",
+  "zh": "生存；生计",
+  "ex": [
+   "Mit dem Minijob kann er sich keine Existenz aufbauen."
+  ],
+  "ex_zh": "靠这份迷你工作，他无法建立稳定的生活。",
+  "use": {
+   "col": [
+    [
+     "sich eine Existenz aufbauen",
+     "打下生活基础"
+    ],
+    [
+     "Existenzangst haben",
+     "担心生计"
+    ]
+   ],
+   "tip": "也有「存在」之义；动词 existieren"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Abstieg",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Abstiege",
+  "zh": "没落；下降",
+  "ex": [
+   "Viele Menschen in der Mittelschicht fürchten den sozialen Abstieg nach einer Entlassung."
+  ],
+  "ex_zh": "许多中产阶层的人担心被解雇后社会地位下滑。",
+  "use": {
+   "col": [
+    [
+     "der soziale Abstieg",
+     "社会地位下滑"
+    ],
+    [
+     "vom Abstieg bedroht sein",
+     "面临下滑"
+    ]
+   ],
+   "tip": "动词 absteigen；足球里指「降级」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Einsamkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "孤独",
+  "ex": [
+   "Gerade in großen Städten leiden viele ältere Menschen unter Einsamkeit, weil sie kaum Kontakte haben."
+  ],
+  "ex_zh": "尤其在大城市，许多老人因几乎没有联系而饱受孤独之苦。",
+  "use": {
+   "col": [
+    [
+     "unter Einsamkeit leiden",
+     "忍受孤独"
+    ],
+    [
+     "die Einsamkeit überwinden",
+     "克服孤独"
+    ]
+   ],
+   "tip": "形容词 einsam；与 Alleinsein 不同"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Freundeskreis",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Freundeskreise",
+  "zh": "朋友圈",
+  "ex": [
+   "In einer neuen Stadt muss man sich erst einen Freundeskreis aufbauen."
+  ],
+  "ex_zh": "在一座新城市里，要先建立自己的朋友圈。",
+  "use": {
+   "col": [
+    [
+     "ein großer Freundeskreis",
+     "朋友圈很大"
+    ],
+    [
+     "im engsten Freundeskreis",
+     "在亲密朋友之间"
+    ]
+   ],
+   "tip": "相近：Bekanntenkreis（熟人圈）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Clique",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Cliquen",
+  "zh": "小团体；一伙朋友",
+  "ex": [
+   "Er gehört seit der Schulzeit zu derselben Clique."
+  ],
+  "ex_zh": "从上学起他就属于同一个小圈子。",
+  "use": {
+   "col": [
+    [
+     "zu einer Clique gehören",
+     "属于一个小圈子"
+    ],
+    [
+     "eine feste Clique haben",
+     "有固定的小圈子"
+    ]
+   ],
+   "tip": "读 [ˈklɪkə]；青少年用语"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Eifersucht",
+  "art": "die",
+  "pos": "n",
+  "zh": "嫉妒；吃醋",
+  "ex": [
+   "Seine ständige Eifersucht hat die Beziehung nach und nach zerstört."
+  ],
+  "ex_zh": "他无休止的嫉妒一点点毁掉了这段关系。",
+  "use": {
+   "col": [
+    [
+     "vor Eifersucht verrückt werden",
+     "嫉妒得发狂"
+    ],
+    [
+     "aus Eifersucht",
+     "出于嫉妒"
+    ]
+   ],
+   "tip": "形容词 eifersüchtig"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Misstrauen",
+  "art": "das",
+  "pos": "n",
+  "zh": "不信任；怀疑",
+  "ex": [
+   "Das Misstrauen gegenüber Fremden ist hier noch groß."
+  ],
+  "ex_zh": "这里对陌生人的不信任仍然很强。",
+  "gov": "Misstrauen gegenüber + Dat.",
+  "use": {
+   "col": [
+    [
+     "Misstrauen gegenüber jemandem haben",
+     "不信任某人"
+    ],
+    [
+     "Misstrauen wecken",
+     "引起怀疑"
+    ]
+   ],
+   "tip": "动词 misstrauen + Dat.；形容词 misstrauisch"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Treue",
+  "art": "die",
+  "pos": "n",
+  "zh": "忠诚；忠贞",
+  "ex": [
+   "In einer Ehe spielt Treue für die meisten Menschen eine große Rolle."
+  ],
+  "ex_zh": "对大多数人来说，婚姻中的忠诚非常重要。",
+  "use": {
+   "col": [
+    [
+     "eheliche Treue",
+     "婚姻忠诚"
+    ],
+    [
+     "jemandem die Treue halten",
+     "对某人保持忠诚"
+    ]
+   ],
+   "tip": "形容词 treu；反义 Untreue"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Liebeskummer",
+  "art": "der",
+  "pos": "n",
+  "zh": "相思之苦；失恋之痛",
+  "ex": [
+   "Mit Liebeskummer kann man nachts nicht schlafen und tagsüber kaum arbeiten."
+  ],
+  "ex_zh": "失恋的人晚上睡不着，白天也几乎没法工作。",
+  "use": {
+   "col": [
+    [
+     "Liebeskummer haben",
+     "为情所困"
+    ],
+    [
+     "vor Liebeskummer leiden",
+     "受失恋之苦"
+    ]
+   ],
+   "tip": "只有单数；Kummer 本身是「忧愁」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Sympathie",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Sympathien",
+  "zh": "好感",
+  "ex": [
+   "Schon beim ersten Treffen habe ich spontan Sympathie für meine neue Kollegin empfunden."
+  ],
+  "ex_zh": "第一次见面时我就对新同事自然而然地有了好感。",
+  "gov": "Sympathie für + Akk.",
+  "use": {
+   "col": [
+    [
+     "Sympathie für jemanden empfinden",
+     "对某人有好感"
+    ],
+    [
+     "Sympathien gewinnen",
+     "赢得好感"
+    ]
+   ],
+   "tip": "形容词 sympathisch；反义 Antipathie"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Abhängigkeit",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Abhängigkeiten",
+  "zh": "依赖；依靠",
+  "ex": [
+   "Die finanzielle Abhängigkeit vom Partner macht es vielen Frauen schwer, sich zu trennen."
+  ],
+  "ex_zh": "对伴侣在经济上的依赖，使许多女性很难分开。",
+  "gov": "Abhängigkeit von + Dat.",
+  "use": {
+   "col": [
+    [
+     "in Abhängigkeit geraten",
+     "陷入依赖"
+    ],
+    [
+     "die Abhängigkeit von jemandem",
+     "对某人的依赖"
+    ]
+   ],
+   "tip": "形容词 abhängig；也指「上瘾」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Unabhängigkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "独立；自主",
+  "ex": [
+   "Für viele junge Menschen ist die finanzielle Unabhängigkeit sehr wichtig."
+  ],
+  "ex_zh": "对许多年轻人来说，经济上独立非常重要。",
+  "use": {
+   "col": [
+    [
+     "finanzielle Unabhängigkeit",
+     "经济独立"
+    ],
+    [
+     "die Unabhängigkeit erlangen",
+     "获得独立"
+    ]
+   ],
+   "tip": "形容词 unabhängig；国家「独立」也是这个词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Selbstbewusstsein",
+  "art": "das",
+  "pos": "n",
+  "zh": "自信",
+  "ex": [
+   "Ein gutes Elternhaus stärkt das Selbstbewusstsein der Kinder."
+  ],
+  "ex_zh": "良好的家庭环境增强孩子的自信。",
+  "use": {
+   "col": [
+    [
+     "ein gesundes Selbstbewusstsein",
+     "健康的自信"
+    ],
+    [
+     "das Selbstbewusstsein stärken",
+     "增强自信"
+    ]
+   ],
+   "tip": "形容词 selbstbewusst；注意 bewusst 的 ss"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Ruhestand",
+  "art": "der",
+  "pos": "n",
+  "zh": "退休",
+  "ex": [
+   "Mein Vater geht im nächsten Jahr in den Ruhestand."
+  ],
+  "ex_zh": "我父亲明年退休。",
+  "use": {
+   "col": [
+    [
+     "in den Ruhestand gehen",
+     "退休"
+    ],
+    [
+     "im Ruhestand sein",
+     "已退休"
+    ]
+   ],
+   "tip": "比 Rente 更中性；公务员也用 Pension"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Pflegeheim",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Pflegeheime",
+  "zh": "护理院",
+  "ex": [
+   "Ihre Großmutter lebt seit zwei Jahren in einem Pflegeheim."
+  ],
+  "ex_zh": "她的祖母两年来住在护理院。",
+  "use": {
+   "col": [
+    [
+     "ins Pflegeheim kommen",
+     "进护理院"
+    ],
+    [
+     "ein Platz im Pflegeheim",
+     "护理院的位置"
+    ]
+   ],
+   "tip": "Pflege + Heim；Altenheim 住的人相对自理"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Pflegekraft",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Pflegekräfte",
+  "zh": "护理人员",
+  "ex": [
+   "Wegen des Personalmangels sucht das Krankenhaus dringend neue Pflegekräfte aus dem Ausland."
+  ],
+  "ex_zh": "由于人手不足，医院急需从国外招聘新的护理人员。",
+  "use": {
+   "col": [
+    [
+     "Pflegekräfte einstellen",
+     "招聘护理人员"
+    ],
+    [
+     "eine ausgebildete Pflegekraft",
+     "受过培训的护理人员"
+    ]
+   ],
+   "tip": "不分男女；缺工是长期话题"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Pflegeversicherung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Pflegeversicherungen",
+  "zh": "护理保险",
+  "ex": [
+   "Die Pflegeversicherung übernimmt einen Teil der Kosten für das Pflegeheim."
+  ],
+  "ex_zh": "护理保险承担护理院的一部分费用。",
+  "use": {
+   "col": [
+    [
+     "in die Pflegeversicherung einzahlen",
+     "缴纳护理保险"
+    ],
+    [
+     "Leistungen der Pflegeversicherung",
+     "护理保险的给付"
+    ]
+   ],
+   "tip": "德国五大社会保险之一"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Lebenserwartung",
+  "art": "die",
+  "pos": "n",
+  "zh": "预期寿命",
+  "ex": [
+   "Die Lebenserwartung ist in den letzten hundert Jahren stark gestiegen."
+  ],
+  "ex_zh": "预期寿命在过去一百年里大幅上升。",
+  "use": {
+   "col": [
+    [
+     "die durchschnittliche Lebenserwartung",
+     "平均预期寿命"
+    ],
+    [
+     "eine hohe Lebenserwartung",
+     "较高的预期寿命"
+    ]
+   ],
+   "tip": "没有复数；统计用语"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Pubertät",
+  "art": "die",
+  "pos": "n",
+  "zh": "青春期",
+  "ex": [
+   "In der Pubertät streiten Jugendliche oft mit ihren Eltern."
+  ],
+  "ex_zh": "青春期里少年常和父母争吵。",
+  "use": {
+   "col": [
+    [
+     "in der Pubertät sein",
+     "处于青春期"
+    ],
+    [
+     "die Pubertät durchmachen",
+     "经历青春期"
+    ]
+   ],
+   "tip": "口语常说 Teenager；形容词 pubertär"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Engagement",
+  "art": "das",
+  "pos": "n",
+  "zh": "投入；热忱；志愿参与",
+  "ex": [
+   "Ohne das Engagement vieler Freiwilliger gäbe es dieses Fest nicht."
+  ],
+  "ex_zh": "没有许多志愿者的投入，就不会有这个节日。",
+  "use": {
+   "col": [
+    [
+     "bürgerschaftliches Engagement",
+     "公民参与"
+    ],
+    [
+     "ehrenamtliches Engagement",
+     "志愿参与"
+    ]
+   ],
+   "tip": "读 [ãɡaʒəˈmã:]；动词 sich engagieren"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Freiwillige",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Freiwilligen",
+  "zh": "志愿者",
+  "ex": [
+   "Hunderte Freiwillige halfen nach dem Hochwasser beim Aufräumen."
+  ],
+  "ex_zh": "洪水过后，数百名志愿者帮忙清理。",
+  "use": {
+   "col": [
+    [
+     "Freiwillige suchen",
+     "招募志愿者"
+    ],
+    [
+     "als Freiwilliger arbeiten",
+     "做志愿者"
+    ]
+   ],
+   "tip": "形容词变格名词：ein Freiwilliger / eine Freiwill"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Initiative",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Initiativen",
+  "zh": "倡议；主动精神；公民团体",
+  "ex": [
+   "Auf Initiative der Eltern wurde ein neuer Spielplatz gebaut."
+  ],
+  "ex_zh": "在家长们的倡议下，修建了一个新的游乐场。",
+  "use": {
+   "col": [
+    [
+     "die Initiative ergreifen",
+     "主动出手"
+    ],
+    [
+     "auf Initiative von",
+     "应…的倡议"
+    ]
+   ],
+   "tip": "发音 [initsiaˈtiːvə]；Bürgerinitiative 见 C1"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Hilfsorganisation",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Hilfsorganisationen",
+  "zh": "救援组织",
+  "ex": [
+   "Mehrere internationale Hilfsorganisationen schicken nach dem Erdbeben Lebensmittel und Medikamente in die Region."
+  ],
+  "ex_zh": "地震之后，几个国际救援组织向该地区运送食品和药品。",
+  "use": {
+   "col": [
+    [
+     "eine internationale Hilfsorganisation",
+     "国际救援组织"
+    ],
+    [
+     "für eine Hilfsorganisation arbeiten",
+     "为救援组织工作"
+    ]
+   ],
+   "tip": "相近：Wohlfahrtsverband、NGO"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Stiftung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Stiftungen",
+  "zh": "基金会",
+  "ex": [
+   "Die Stiftung vergibt jedes Jahr Stipendien an begabte Studierende aus ärmeren Familien."
+  ],
+  "ex_zh": "这家基金会每年向来自较贫困家庭的优秀大学生发放奖学金。",
+  "use": {
+   "col": [
+    [
+     "eine Stiftung gründen",
+     "设立基金会"
+    ],
+    [
+     "ein Stipendium der Stiftung",
+     "基金会的奖学金"
+    ]
+   ],
+   "tip": "动词 stiften；Stiftung Warentest 是德国的商品测评机构"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Selbsthilfegruppe",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Selbsthilfegruppen",
+  "zh": "互助小组",
+  "ex": [
+   "Er besucht eine Selbsthilfegruppe für Menschen mit Suchtproblemen."
+  ],
+  "ex_zh": "他参加了一个面向成瘾者的互助小组。",
+  "use": {
+   "col": [
+    [
+     "eine Selbsthilfegruppe gründen",
+     "成立互助小组"
+    ],
+    [
+     "in einer Selbsthilfegruppe sein",
+     "参加互助小组"
+    ]
+   ],
+   "tip": "由有同样问题的人自己组织"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Beratungsstelle",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Beratungsstellen",
+  "zh": "咨询机构",
+  "ex": [
+   "Bei Geldsorgen kann man sich an eine Schuldnerberatungsstelle wenden."
+  ],
+  "ex_zh": "有钱的烦恼时可以去找债务咨询处。",
+  "use": {
+   "col": [
+    [
+     "eine Beratungsstelle aufsuchen",
+     "去咨询机构"
+    ],
+    [
+     "eine kostenlose Beratungsstelle",
+     "免费咨询处"
+    ]
+   ],
+   "tip": "Beratung 已学；常见：Familienberatungsstelle"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich verloben",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verlobt",
+  "forms": "verlobt sich, verlobte sich, hat sich verlobt",
+  "zh": "订婚",
+  "ex": [
+   "Die beiden haben sich im Sommer am Strand verlobt und wollen nächstes Jahr heiraten."
+  ],
+  "ex_zh": "他们两人夏天在海滩上订了婚，打算明年结婚。",
+  "gov": "sich verloben mit + Dat.",
+  "use": {
+   "col": [
+    [
+     "sich heimlich verloben",
+     "偷偷订婚"
+    ],
+    [
+     "sich mit jemandem verloben",
+     "和某人订婚"
+    ]
+   ],
+   "tip": "名词 die Verlobung；verlobt sein 表示「已订婚」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich versöhnen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "versöhnt",
+  "forms": "versöhnt sich, versöhnte sich, hat sich versöhnt",
+  "zh": "和好；和解",
+  "ex": [
+   "Nach dem Streit haben sich die Brüder schnell wieder versöhnt."
+  ],
+  "ex_zh": "吵架之后兄弟俩很快又和好了。",
+  "gov": "sich versöhnen mit + Dat.",
+  "use": {
+   "col": [
+    [
+     "sich wieder versöhnen",
+     "重归于好"
+    ],
+    [
+     "sich mit der Familie versöhnen",
+     "和家人和解"
+    ]
+   ],
+   "tip": "名词 die Versöhnung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich vertragen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "vertragen",
+  "forms": "verträgt sich, vertrug sich, hat sich vertragen",
+  "zh": "和睦相处",
+  "ex": [
+   "Die Geschwister vertragen sich meistens gut, nur beim Computerspielen gibt es manchmal Streit."
+  ],
+  "ex_zh": "兄弟姐妹多半相处融洽，只有玩电脑游戏时偶尔会吵架。",
+  "gov": "sich vertragen mit + Dat.",
+  "use": {
+   "col": [
+    [
+     "sich gut vertragen",
+     "相处得好"
+    ],
+    [
+     "sich wieder vertragen",
+     "重归于好"
+    ]
+   ],
+   "tip": "sich vertragen mit 表示和人相处"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "zusammenleben",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "zusammengelebt",
+  "forms": "lebt zusammen, lebte zusammen, hat zusammengelebt",
+  "zh": "共同生活",
+  "ex": [
+   "In unserem Haus leben drei Generationen unter einem Dach zusammen, und das funktioniert gut."
+  ],
+  "ex_zh": "我们家里三代人住在一个屋檐下，相处得很好。",
+  "use": {
+   "col": [
+    [
+     "mit jemandem zusammenleben",
+     "和某人同住"
+    ],
+    [
+     "friedlich zusammenleben",
+     "和平共处"
+    ]
+   ],
+   "tip": "可分动词；名词 das Zusammenleben"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "aufwachsen",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "aufgewachsen",
+  "forms": "wächst auf, wuchs auf, ist aufgewachsen",
+  "zh": "成长；长大",
+  "ex": [
+   "Ich bin in einer kleinen Stadt in China aufgewachsen."
+  ],
+  "ex_zh": "我在中国的一座小城市长大。",
+  "use": {
+   "col": [
+    [
+     "auf dem Land aufwachsen",
+     "在乡村长大"
+    ],
+    [
+     "behütet aufwachsen",
+     "在呵护中长大"
+    ]
+   ],
+   "tip": "助动词用 sein；可分动词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "großziehen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "großgezogen",
+  "forms": "zieht groß, zog groß, hat großgezogen",
+  "zh": "抚养长大",
+  "ex": [
+   "Sie hat ihre drei Kinder nach der Scheidung ganz allein großgezogen."
+  ],
+  "ex_zh": "离婚后，她独自把三个孩子拉扯大。",
+  "use": {
+   "col": [
+    [
+     "Kinder großziehen",
+     "把孩子养大"
+    ],
+    [
+     "ein Tier großziehen",
+     "把动物养大"
+    ]
+   ],
+   "tip": "可分动词；比 erziehen 更强调「养大」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "versorgen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "versorgt",
+  "forms": "versorgt, versorgte, hat versorgt",
+  "zh": "照料；供给",
+  "ex": [
+   "Nach der Operation muss sie ihre Familie noch allein mit Essen versorgen."
+  ],
+  "ex_zh": "手术之后，她仍得独自为家人准备吃的。",
+  "gov": "versorgen mit + Dat.",
+  "use": {
+   "col": [
+    [
+     "jemanden mit etwas versorgen",
+     "向某人提供某物"
+    ],
+    [
+     "eine Wunde versorgen",
+     "处理伤口"
+    ]
+   ],
+   "tip": "名词 die Versorgung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich engagieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "engagiert",
+  "forms": "engagiert sich, engagierte sich, hat sich engagiert",
+  "zh": "投身；积极参与",
+  "ex": [
+   "Sie engagiert sich seit Jahren in einem Verein für Flüchtlinge."
+  ],
+  "ex_zh": "她多年来在一个帮助难民的协会里积极投入。",
+  "gov": "sich engagieren für + Akk.",
+  "use": {
+   "col": [
+    [
+     "sich politisch engagieren",
+     "投身政治"
+    ],
+    [
+     "sich ehrenamtlich engagieren",
+     "做志愿工作"
+    ]
+   ],
+   "tip": "名词 das Engagement；形容词 engagiert"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "respektieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "respektiert",
+  "forms": "respektiert, respektierte, hat respektiert",
+  "zh": "尊重",
+  "ex": [
+   "Auch wenn wir nicht einverstanden sind, sollten wir die Entscheidung unserer Eltern respektieren."
+  ],
+  "ex_zh": "即使我们不同意，也应该尊重父母的决定。",
+  "use": {
+   "col": [
+    [
+     "die Meinung anderer respektieren",
+     "尊重他人的意见"
+    ],
+    [
+     "sich gegenseitig respektieren",
+     "互相尊重"
+    ]
+   ],
+   "tip": "名词 der Respekt；不可分动词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich anpassen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "angepasst",
+  "forms": "passt sich an, passte sich an, hat sich angepasst",
+  "zh": "适应；调整",
+  "ex": [
+   "Es dauert, bis man sich an eine neue Kultur angepasst hat."
+  ],
+  "ex_zh": "要适应一种新文化需要时间。",
+  "gov": "sich anpassen an + Akk.",
+  "use": {
+   "col": [
+    [
+     "sich den Verhältnissen anpassen",
+     "适应环境"
+    ],
+    [
+     "sich an die Regeln anpassen",
+     "遵守规则"
+    ]
+   ],
+   "tip": "名词 die Anpassung；可分动词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich einleben",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingelebt",
+  "forms": "lebt sich ein, lebte sich ein, hat sich eingelebt",
+  "zh": "适应新环境",
+  "ex": [
+   "Mein Bruder hat sich in der neuen Stadt erstaunlich schnell eingelebt und Freunde gefunden."
+  ],
+  "ex_zh": "我哥哥在新城市适应得出奇地快，还交到了朋友。",
+  "gov": "sich einleben in + Dat.",
+  "use": {
+   "col": [
+    [
+     "sich gut einleben",
+     "适应得很好"
+    ],
+    [
+     "sich in einer neuen Stadt einleben",
+     "适应新城市"
+    ]
+   ],
+   "tip": "可分动词；比 sich anpassen 更口语、更指日常生活的适应"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "trauern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "getrauert",
+  "forms": "trauert, trauerte, hat getrauert",
+  "zh": "哀悼；悲伤",
+  "ex": [
+   "Sie trauert noch immer um ihren verstorbenen Mann."
+  ],
+  "ex_zh": "她仍在为去世的丈夫悲伤。",
+  "gov": "trauern um + Akk.",
+  "use": {
+   "col": [
+    [
+     "um jemanden trauern",
+     "哀悼某人"
+    ],
+    [
+     "um einen Verlust trauern",
+     "为损失悲伤"
+    ]
+   ],
+   "tip": "名词 die Trauer；trauern um + Akk."
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "beten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gebetet",
+  "forms": "betet, betete, hat gebetet",
+  "zh": "祈祷",
+  "ex": [
+   "In schweren Zeiten beten viele Menschen, auch wenn sie sonst nicht oft zur Kirche gehen."
+  ],
+  "ex_zh": "在艰难时期，许多人会祈祷，即使他们平时不常去教堂。",
+  "gov": "beten zu + Dat. / für + Akk.",
+  "use": {
+   "col": [
+    [
+     "zu Gott beten",
+     "向上帝祈祷"
+    ],
+    [
+     "für jemanden beten",
+     "为某人祈祷"
+    ]
+   ],
+   "tip": "名词 das Gebet；注意 betet 中的 e"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "taufen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "getauft",
+  "forms": "tauft, taufte, hat getauft",
+  "zh": "施洗；命名",
+  "ex": [
+   "Das Kind wurde in der kleinen Dorfkirche von einem jungen Pfarrer getauft."
+  ],
+  "ex_zh": "孩子在小村子的教堂里由一位年轻牧师施了洗。",
+  "use": {
+   "col": [
+    [
+     "ein Kind taufen lassen",
+     "给孩子施洗"
+    ],
+    [
+     "auf den Namen Anna getauft werden",
+     "受洗取名安娜"
+    ]
+   ],
+   "tip": "名词 die Taufe；不要和 tauchen 混淆"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "beerdigen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "beerdigt",
+  "forms": "beerdigt, beerdigte, hat beerdigt",
+  "zh": "安葬",
+  "ex": [
+   "Der Großvater wurde nach einer kurzen Trauerfeier auf dem Dorffriedhof beerdigt."
+  ],
+  "ex_zh": "祖父在简短的追悼仪式之后被安葬在村里的墓地。",
+  "use": {
+   "col": [
+    [
+     "jemanden beerdigen",
+     "安葬某人"
+    ],
+    [
+     "beerdigt werden",
+     "被安葬"
+    ]
+   ],
+   "tip": "名词 die Beerdigung；同义 bestatten（更书面）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "erben",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "geerbt",
+  "forms": "erbt, erbte, hat geerbt",
+  "zh": "继承",
+  "ex": [
+   "Von meiner Tante habe ich ein kleines Haus geerbt."
+  ],
+  "ex_zh": "我从姑姑那里继承了一栋小房子。",
+  "gov": "erben von + Dat.",
+  "use": {
+   "col": [
+    [
+     "ein Vermögen erben",
+     "继承财产"
+    ],
+    [
+     "etwas von jemandem erben",
+     "从某人那里继承某物"
+    ]
+   ],
+   "tip": "名词 der Erbe、die Erbschaft"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "zusammenhalten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "zusammengehalten",
+  "forms": "hält zusammen, hielt zusammen, hat zusammengehalten",
+  "zh": "团结一致",
+  "ex": [
+   "In schweren Zeiten muss eine Familie zusammenhalten und sich gegenseitig unterstützen."
+  ],
+  "ex_zh": "在艰难时期，一家人要团结一致、互相扶持。",
+  "use": {
+   "col": [
+    [
+     "fest zusammenhalten",
+     "紧密团结"
+    ],
+    [
+     "wie Pech und Schwefel zusammenhalten",
+     "形影不离"
+    ]
+   ],
+   "tip": "名词 der Zusammenhalt；可分动词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "obdachlos",
+  "pos": "adj",
+  "zh": "无家可归的",
+  "ex": [
+   "Nach dem Brand war die Familie plötzlich obdachlos."
+  ],
+  "ex_zh": "大火之后，这家人突然无家可归。",
+  "use": {
+   "col": [
+    [
+     "obdachlos werden",
+     "沦落到无家可归"
+    ],
+    [
+     "obdachlose Menschen",
+     "无家可归的人"
+    ]
+   ],
+   "tip": "名词 die Obdachlosigkeit、der Obdachlose"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "benachteiligt",
+  "pos": "adj",
+  "zh": "处于不利地位的",
+  "ex": [
+   "Sozial benachteiligte Kinder brauchen schon im Kindergarten eine besondere Förderung durch den Staat."
+  ],
+  "ex_zh": "社会处境不利的孩子从幼儿园起就需要国家的特别扶持。",
+  "use": {
+   "col": [
+    [
+     "sozial benachteiligt",
+     "社会地位处于劣势"
+    ],
+    [
+     "sich benachteiligt fühlen",
+     "觉得受到了不公平对待"
+    ]
+   ],
+   "tip": "由动词 benachteiligen 的第二分词转成"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "gleichgültig",
+  "pos": "adj",
+  "zh": "冷漠的；无所谓的",
+  "ex": [
+   "Er blieb gegenüber dem Leid seiner Nachbarn völlig gleichgültig und half niemandem."
+  ],
+  "ex_zh": "他对邻居的痛苦完全冷漠，没有帮助任何人。",
+  "gov": "gleichgültig gegenüber + Dat.",
+  "use": {
+   "col": [
+    [
+     "jemandem gleichgültig sein",
+     "对某人来说无所谓"
+    ],
+    [
+     "gleichgültig gegenüber allem",
+     "对一切漠不关心"
+    ]
+   ],
+   "tip": "名词 die Gleichgültigkeit；注意和 gleich 的区别"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "liberal",
+  "pos": "adj",
+  "zh": "自由开放的；自由主义的",
+  "ex": [
+   "Die Stadt ist für ihre liberale Haltung bekannt."
+  ],
+  "ex_zh": "这座城市以开放的态度著称。",
+  "use": {
+   "col": [
+    [
+     "liberale Werte",
+     "自由主义价值观"
+    ],
+    [
+     "eine liberale Erziehung",
+     "宽松开放的教育"
+    ]
+   ],
+   "tip": "名词 der Liberalismus；德国政党 FDP 属自由派"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "religiös",
+  "pos": "adj",
+  "zh": "宗教的；虔诚的",
+  "ex": [
+   "Er stammt aus einer streng religiösen Familie und geht jeden Sonntag in die Kirche."
+  ],
+  "ex_zh": "他出身于一个严格信教的家庭，每个星期天都去教堂。",
+  "use": {
+   "col": [
+    [
+     "religiöse Gefühle",
+     "宗教感情"
+    ],
+    [
+     "eine religiöse Erziehung",
+     "宗教教育"
+    ]
+   ],
+   "tip": "名词 die Religion 已学"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "gläubig",
+  "pos": "adj",
+  "zh": "虔诚的；有信仰的",
+  "ex": [
+   "Meine Oma ist sehr gläubig und geht jeden Sonntag in die Kirche."
+  ],
+  "ex_zh": "我奶奶非常虔诚，每个星期天都去教堂。",
+  "use": {
+   "col": [
+    [
+     "ein gläubiger Mensch",
+     "有信仰的人"
+    ],
+    [
+     "streng gläubig",
+     "信仰严格"
+    ]
+   ],
+   "tip": "名词 der Gläubige；动词 glauben"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "christlich",
+  "pos": "adj",
+  "zh": "基督教的",
+  "ex": [
+   "Weihnachten ist ursprünglich ein christliches Fest, das heute aber fast alle Deutschen feiern."
+  ],
+  "ex_zh": "圣诞节本来是基督教节日，但如今几乎所有德国人都过。",
+  "use": {
+   "col": [
+    [
+     "das christliche Abendland",
+     "基督教的西方"
+    ],
+    [
+     "christliche Werte",
+     "基督教价值观"
+    ]
+   ],
+   "tip": "名词 das Christentum、der Christ"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "muslimisch",
+  "pos": "adj",
+  "zh": "穆斯林的；伊斯兰的",
+  "ex": [
+   "Viele muslimische Familien feiern am Ende des Ramadan gemeinsam das große Zuckerfest."
+  ],
+  "ex_zh": "许多穆斯林家庭在斋月结束时一起庆祝盛大的开斋节。",
+  "use": {
+   "col": [
+    [
+     "eine muslimische Familie",
+     "穆斯林家庭"
+    ],
+    [
+     "muslimisch aufwachsen",
+     "在穆斯林家庭长大"
+    ]
+   ],
+   "tip": "名词 der Muslim、der Islam"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "gesellschaftlich",
+  "pos": "adj",
+  "zh": "社会的",
+  "ex": [
+   "Der gesellschaftliche Wandel verändert auch die Rollenverteilung in den Familien."
+  ],
+  "ex_zh": "社会变迁也在改变家庭里的角色分工。",
+  "use": {
+   "col": [
+    [
+     "gesellschaftliche Verantwortung",
+     "社会责任"
+    ],
+    [
+     "gesellschaftlich anerkannt",
+     "得到社会认可"
+    ]
+   ],
+   "tip": "名词 die Gesellschaft；比 sozial 更偏「整个社会」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "zwischenmenschlich",
+  "pos": "adj",
+  "zh": "人与人之间的",
+  "ex": [
+   "Gute zwischenmenschliche Beziehungen sind wichtig für die Gesundheit."
+  ],
+  "ex_zh": "良好的人际关系对健康很重要。",
+  "use": {
+   "col": [
+    [
+     "zwischenmenschliche Beziehungen",
+     "人际关系"
+    ],
+    [
+     "zwischenmenschliche Kontakte",
+     "人际交往"
+    ]
+   ],
+   "tip": "一般只作定语"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "familiär",
+  "pos": "adj",
+  "zh": "家庭的；亲切随意的",
+  "ex": [
+   "Aus familiären Gründen kann sie nicht an dem Treffen teilnehmen."
+  ],
+  "ex_zh": "由于家庭原因，她不能参加这次会议。",
+  "use": {
+   "col": [
+    [
+     "familiäre Probleme",
+     "家庭问题"
+    ],
+    [
+     "eine familiäre Atmosphäre",
+     "亲切随意的氛围"
+    ]
+   ],
+   "tip": "与 familiar 无关；familiär 有两层义：家庭的、亲切的"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verwitwet",
+  "pos": "adj",
+  "zh": "丧偶的",
+  "ex": [
+   "Meine Großmutter ist seit zehn Jahren verwitwet und lebt jetzt allein im Haus."
+  ],
+  "ex_zh": "我祖母丧偶已有十年，现在独自住在这栋房子里。",
+  "use": {
+   "col": [
+    [
+     "verwitwet sein",
+     "丧偶"
+    ],
+    [
+     "eine verwitwete Frau",
+     "一位寡妇"
+    ]
+   ],
+   "tip": "表格里 Familienstand 的选项之一"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "alleinerziehend",
+  "pos": "adj",
+  "zh": "独自抚养孩子的",
+  "ex": [
+   "Sie ist alleinerziehend, arbeitet in Teilzeit und organisiert den Alltag mit ihren Kindern allein."
+  ],
+  "ex_zh": "她独自抚养孩子，做兼职，一个人安排日常生活。",
+  "use": {
+   "col": [
+    [
+     "alleinerziehende Mütter",
+     "单亲妈妈"
+    ],
+    [
+     "alleinerziehend sein",
+     "是单亲家长"
+    ]
+   ],
+   "tip": "名词 Alleinerziehende"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "kinderlos",
+  "pos": "adj",
+  "zh": "无子女的",
+  "ex": [
+   "Das Ehepaar bleibt bewusst kinderlos, weil beide ihre Karriere in den Mittelpunkt stellen."
+  ],
+  "ex_zh": "这对夫妻有意不要孩子，因为两人都把事业放在首位。",
+  "use": {
+   "col": [
+    [
+     "ein kinderloses Paar",
+     "没有孩子的伴侣"
+    ],
+    [
+     "kinderlos bleiben",
+     "一直没有孩子"
+    ]
+   ],
+   "tip": "-los 表示「没有」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "minderjährig",
+  "pos": "adj",
+  "zh": "未成年的",
+  "ex": [
+   "Für minderjährige Kinder müssen die Eltern den Vertrag unterschreiben."
+  ],
+  "ex_zh": "未成年的孩子要由父母签合同。",
+  "use": {
+   "col": [
+    [
+     "ein minderjähriges Kind",
+     "未成年的孩子"
+    ],
+    [
+     "noch minderjährig sein",
+     "尚未成年"
+    ]
+   ],
+   "tip": "反义 volljährig；名词 Minderjährige"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "volljährig",
+  "pos": "adj",
+  "zh": "成年的",
+  "ex": [
+   "Mit 18 Jahren wird man in Deutschland volljährig."
+  ],
+  "ex_zh": "在德国，人满 18 岁就成年。",
+  "use": {
+   "col": [
+    [
+     "volljährig werden",
+     "成年"
+    ],
+    [
+     "erst volljährig",
+     "刚刚成年"
+    ]
+   ],
+   "tip": "反义 minderjährig；名词 die Volljährigkeit"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "anständig",
+  "pos": "adj",
+  "zh": "正派的；像样的",
+  "ex": [
+   "Er ist ein anständiger Mensch und hilft immer."
+  ],
+  "ex_zh": "他是个正派的人，总是乐于帮忙。",
+  "use": {
+   "col": [
+    [
+     "sich anständig benehmen",
+     "举止得体"
+    ],
+    [
+     "ein anständiger Lohn",
+     "像样的工资"
+    ]
+   ],
+   "tip": "名词 der Anstand"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "rücksichtsvoll",
+  "pos": "adj",
+  "zh": "体贴的；考虑周到的",
+  "ex": [
+   "Sei bitte rücksichtsvoll und stell die Musik leiser."
+  ],
+  "ex_zh": "请体谅一下，把音乐调小声点。",
+  "use": {
+   "col": [
+    [
+     "sich rücksichtsvoll verhalten",
+     "体谅他人地行事"
+    ],
+    [
+     "ein rücksichtsvoller Nachbar",
+     "体贴的邻居"
+    ]
+   ],
+   "tip": "反义 rücksichtslos；名词 die Rücksicht"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "respektvoll",
+  "pos": "adj",
+  "zh": "尊敬的；有礼貌的",
+  "ex": [
+   "Wir wünschen uns einen respektvollen Umgang miteinander, auch wenn wir verschiedene Meinungen haben."
+  ],
+  "ex_zh": "我们希望即使意见不同，也能互相尊重地相处。",
+  "use": {
+   "col": [
+    [
+     "respektvoll miteinander umgehen",
+     "相互尊重地相处"
+    ],
+    [
+     "ein respektvoller Ton",
+     "尊重的语气"
+    ]
+   ],
+   "tip": "名词 der Respekt；反义 respektlos"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "großzügig",
+  "pos": "adj",
+  "zh": "慷慨的；宽敞的",
+  "ex": [
+   "Sie hat großzügig für das Kinderheim gespendet, ohne dass es jemand erfahren sollte."
+  ],
+  "ex_zh": "她向儿童之家慷慨捐款，并不想让任何人知道。",
+  "use": {
+   "col": [
+    [
+     "großzügig sein",
+     "慷慨"
+    ],
+    [
+     "eine großzügige Wohnung",
+     "宽敞的房子"
+    ]
+   ],
+   "tip": "反义 geizig；也可指「宽宏大量」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "bescheiden",
+  "pos": "adj",
+  "zh": "谦虚的；朴素的",
+  "ex": [
+   "Er lebt sehr bescheiden, obwohl er viel Geld hat."
+  ],
+  "ex_zh": "尽管很有钱，他的生活仍很朴素。",
+  "use": {
+   "col": [
+    [
+     "bescheiden leben",
+     "朴素地生活"
+    ],
+    [
+     "bescheiden bleiben",
+     "保持谦虚"
+    ]
+   ],
+   "tip": "名词 die Bescheidenheit；不要和 Bescheid 混淆"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "neidisch",
+  "pos": "adj",
+  "zh": "嫉妒的",
+  "ex": [
+   "Sei nicht neidisch auf den Erfolg deiner Freunde."
+  ],
+  "ex_zh": "不要嫉妒你朋友的成功。",
+  "gov": "neidisch auf + Akk.",
+  "use": {
+   "col": [
+    [
+     "neidisch sein auf",
+     "嫉妒…"
+    ],
+    [
+     "jemanden neidisch machen",
+     "让某人眼红"
+    ]
+   ],
+   "tip": "名词 der Neid；neidisch auf + Akk."
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "eifersüchtig",
+  "pos": "adj",
+  "zh": "吃醋的；嫉妒的",
+  "ex": [
+   "Er ist eifersüchtig auf jeden, mit dem sie spricht."
+  ],
+  "ex_zh": "他对每一个和她说话的人都吃醋。",
+  "gov": "eifersüchtig auf + Akk.",
+  "use": {
+   "col": [
+    [
+     "eifersüchtig sein auf",
+     "对…吃醋"
+    ],
+    [
+     "eifersüchtig machen",
+     "让…吃醋"
+    ]
+   ],
+   "tip": "名词 die Eifersucht；-süchtig 来自 Sucht"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "moralisch",
+  "pos": "adj",
+  "zh": "道德的",
+  "ex": [
+   "Es ist moralisch nicht richtig, andere zu betrügen."
+  ],
+  "ex_zh": "欺骗别人在道德上是不对的。",
+  "use": {
+   "col": [
+    [
+     "moralisch verwerflich",
+     "道德上应受谴责"
+    ],
+    [
+     "eine moralische Pflicht",
+     "道德义务"
+    ]
+   ],
+   "tip": "名词 die Moral；ethisch 更偏理论与专业"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "vorbildlich",
+  "pos": "adj",
+  "zh": "模范的；楷模般的",
+  "ex": [
+   "Sie verhält sich gegenüber ihren Kollegen immer vorbildlich und hilft allen bei Problemen."
+  ],
+  "ex_zh": "她对同事总是堪称楷模，遇到问题就帮助所有人。",
+  "use": {
+   "col": [
+    [
+     "vorbildlich handeln",
+     "做出榜样般的行为"
+    ],
+    [
+     "ein vorbildliches Verhalten",
+     "模范行为"
+    ]
+   ],
+   "tip": "名词 das Vorbild；有时带讽刺意味"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "ungerecht",
+  "pos": "adj",
+  "zh": "不公正的",
+  "ex": [
+   "Ich finde es ungerecht, dass Frauen oft weniger verdienen."
+  ],
+  "ex_zh": "我觉得女性常常挣得更少是不公平的。",
+  "use": {
+   "col": [
+    [
+     "ungerecht behandelt werden",
+     "受到不公正对待"
+    ],
+    [
+     "ein ungerechtes Urteil",
+     "不公正的判决"
+    ]
+   ],
+   "tip": "反义 gerecht；名词 die Ungerechtigkeit"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "altmodisch",
+  "pos": "adj",
+  "zh": "过时的；守旧的",
+  "ex": [
+   "Meine Großeltern haben ziemlich altmodische Ansichten über Ehe und Erziehung."
+  ],
+  "ex_zh": "我的祖父母对婚姻和教育有相当守旧的看法。",
+  "use": {
+   "col": [
+    [
+     "altmodisch aussehen",
+     "看起来过时"
+    ],
+    [
+     "altmodische Ansichten",
+     "守旧的观点"
+    ]
+   ],
+   "tip": "反义 modern；比 veraltet 更口语"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "emanzipiert",
+  "pos": "adj",
+  "zh": "获得解放的；有独立意识的",
+  "ex": [
+   "Sie ist eine selbstbewusste, emanzipierte Frau und lässt sich nichts vorschreiben."
+  ],
+  "ex_zh": "她是一位自信、有独立意识的女性，不容别人对她指手画脚。",
+  "use": {
+   "col": [
+    [
+     "eine emanzipierte Frau",
+     "独立的女性"
+    ],
+    [
+     "emanzipiert leben",
+     "独立地生活"
+    ]
+   ],
+   "tip": "名词 die Emanzipation；动词 sich emanzipieren"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "für jemanden da sein",
+  "pos": "phr",
+  "zh": "为某人在身边；随时帮忙",
+  "ex": [
+   "Wenn du Probleme hast, bin ich immer für dich da."
+  ],
+  "ex_zh": "你有困难的时候，我随时都在。",
+  "use": {
+   "col": [
+    [
+     "für die Familie da sein",
+     "陪伴家人"
+    ],
+    [
+     "immer füreinander da sein",
+     "彼此永远陪伴"
+    ]
+   ],
+   "tip": "可以换人称：Ich bin für dich da."
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "jemanden im Stich lassen",
+  "pos": "phr",
+  "zh": "丢下某人不管",
+  "ex": [
+   "Man darf Freunde in der Not nicht im Stich lassen."
+  ],
+  "ex_zh": "在困难时不能抛弃朋友。",
+  "use": {
+   "col": [
+    [
+     "im Stich gelassen werden",
+     "被抛弃"
+    ],
+    [
+     "sich im Stich gelassen fühlen",
+     "觉得被抛弃"
+    ]
+   ],
+   "tip": "im Stich 固定不变；p2 im Stich gelassen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "auf eigenen Füßen stehen",
+  "pos": "phr",
+  "zh": "自立；独立生活",
+  "ex": [
+   "Mit 25 wollte er endlich auf eigenen Füßen stehen."
+  ],
+  "ex_zh": "二十五岁时他终于想自立了。",
+  "use": {
+   "col": [
+    [
+     "auf eigenen Füßen stehen",
+     "独立生活"
+    ],
+    [
+     "lernen, auf eigenen Füßen zu stehen",
+     "学会自立"
+    ]
+   ],
+   "tip": "比喻义；也可说 selbstständig sein"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "zu kurz kommen",
+  "pos": "phr",
+  "zh": "吃亏；被忽略",
+  "ex": [
+   "In einer großen Familie kommt jedes Kind manchmal zu kurz."
+  ],
+  "ex_zh": "在大家庭里，每个孩子有时都会被忽略。",
+  "use": {
+   "col": [
+    [
+     "bei der Verteilung zu kurz kommen",
+     "在分配中吃亏"
+    ],
+    [
+     "sich zu kurz gekommen fühlen",
+     "觉得自己吃亏了"
+    ]
+   ],
+   "tip": "助动词 kommen 用 sein：ist zu kurz gekommen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "auf jemanden angewiesen sein",
+  "pos": "phr",
+  "zh": "依赖某人",
+  "ex": [
+   "Ältere Menschen sind oft auf die Hilfe ihrer Kinder angewiesen."
+  ],
+  "ex_zh": "老人常常要依赖子女的帮助。",
+  "gov": "auf + Akk.",
+  "use": {
+   "col": [
+    [
+     "auf Hilfe angewiesen sein",
+     "需要帮助"
+    ],
+    [
+     "aufeinander angewiesen sein",
+     "彼此依赖"
+    ]
+   ],
+   "tip": "angewiesen 为形容词用法；auf + Akk."
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "unter einem Dach leben",
+  "pos": "phr",
+  "zh": "同住一个屋檐下",
+  "ex": [
+   "Bei uns leben drei Generationen unter einem Dach, und das funktioniert erstaunlich gut."
+  ],
+  "ex_zh": "我们家里三代人同住一个屋檐下，而且出奇地融洽。",
+  "use": {
+   "col": [
+    [
+     "unter einem Dach wohnen",
+     "住在同一屋檐下"
+    ],
+    [
+     "unter einem Dach arbeiten",
+     "在同一屋檐下工作"
+    ]
+   ],
+   "tip": "固定搭配；Dach 前用 einem（Dat.）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "zur Welt kommen",
+  "pos": "phr",
+  "zh": "出生",
+  "ex": [
+   "Ihr Sohn ist am frühen Morgen zur Welt gekommen."
+  ],
+  "ex_zh": "她的儿子在清晨出生。",
+  "use": {
+   "col": [
+    [
+     "gesund zur Welt kommen",
+     "健康出生"
+    ],
+    [
+     "ein Kind zur Welt bringen",
+     "生下一个孩子"
+    ]
+   ],
+   "tip": "助动词 sein；及物说法：zur Welt bringen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Altersarmut",
+  "art": "die",
+  "pos": "n",
+  "zh": "老年贫困",
+  "ex": [
+   "Die Altersarmut betrifft vor allem Frauen mit unterbrochenen Erwerbsbiografien."
+  ],
+  "ex_zh": "老年贫困主要影响工作经历中断的女性。",
+  "use": {
+   "col": [
+    [
+     "von Altersarmut betroffen sein",
+     "受老年贫困影响"
+    ],
+    [
+     "Altersarmut vorbeugen",
+     "预防老年贫困"
+    ]
+   ],
+   "tip": "Alters- + Armut；常和 Rentenniveau 一起讨论"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Existenzminimum",
+  "art": "das",
+  "pos": "n",
+  "zh": "最低生活保障",
+  "ex": [
+   "Das Existenzminimum darf vom Staat nicht besteuert werden."
+  ],
+  "ex_zh": "国家不得对最低生活保障部分征税。",
+  "use": {
+   "col": [
+    [
+     "am Existenzminimum leben",
+     "生活在最低生活水平线上"
+    ],
+    [
+     "das steuerfreie Existenzminimum",
+     "免税的最低生活费"
+    ]
+   ],
+   "tip": "法律与社会政策用语；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Armutsgrenze",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Armutsgrenzen",
+  "zh": "贫困线",
+  "ex": [
+   "Etwa jedes sechste Kind lebt in Deutschland an der Armutsgrenze."
+  ],
+  "ex_zh": "在德国大约每六个孩子中就有一个生活在贫困线边缘。",
+  "use": {
+   "col": [
+    [
+     "an der Armutsgrenze leben",
+     "生活在贫困线上"
+    ],
+    [
+     "unterhalb der Armutsgrenze",
+     "低于贫困线"
+    ]
+   ],
+   "tip": "统计上常指收入中位数的 60%"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Teufelskreis",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Teufelskreise",
+  "zh": "恶性循环",
+  "ex": [
+   "Schlechte Bildung führt zu Armut, und Armut verhindert Bildung: ein Teufelskreis."
+  ],
+  "ex_zh": "教育差导致贫困，贫困又阻碍教育：这是个恶性循环。",
+  "use": {
+   "col": [
+    [
+     "im Teufelskreis stecken",
+     "陷入恶性循环"
+    ],
+    [
+     "den Teufelskreis durchbrechen",
+     "打破恶性循环"
+    ]
+   ],
+   "tip": "比喻用法；也说 Teufelskreislauf"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Allgemeinheit",
+  "art": "die",
+  "pos": "n",
+  "zh": "公众；大众",
+  "ex": [
+   "Die Kosten für die Sanierung der Brücke trägt am Ende die Allgemeinheit."
+  ],
+  "ex_zh": "桥梁修缮的费用最后由全体公众承担。",
+  "use": {
+   "col": [
+    [
+     "im Interesse der Allgemeinheit",
+     "符合公众利益"
+    ],
+    [
+     "der Allgemeinheit zugutekommen",
+     "造福大众"
+    ]
+   ],
+   "tip": "形容词 allgemein 已学；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Fremdenfeindlichkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "仇外",
+  "ex": [
+   "Die Landesregierung will mit einem neuen Programm entschieden gegen Fremdenfeindlichkeit vorgehen."
+  ],
+  "ex_zh": "州政府想通过一个新项目坚决打击仇外情绪。",
+  "use": {
+   "col": [
+    [
+     "gegen Fremdenfeindlichkeit vorgehen",
+     "打击仇外情绪"
+    ],
+    [
+     "Fremdenfeindlichkeit schüren",
+     "煽动仇外"
+    ]
+   ],
+   "tip": "形容词 fremdenfeindlich"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Willkommenskultur",
+  "art": "die",
+  "pos": "n",
+  "zh": "欢迎文化",
+  "ex": [
+   "Eine echte Willkommenskultur erleichtert Fachkräften den Start in Deutschland."
+  ],
+  "ex_zh": "真正的欢迎文化让专业人才更容易在德国起步。",
+  "use": {
+   "col": [
+    [
+     "eine Willkommenskultur schaffen",
+     "营造欢迎文化"
+    ],
+    [
+     "Willkommenskultur leben",
+     "践行欢迎文化"
+    ]
+   ],
+   "tip": "2015 年后成为常用词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Mehrsprachigkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "多语能力",
+  "ex": [
+   "Mehrsprachigkeit gilt in der globalisierten Arbeitswelt als großer Vorteil."
+  ],
+  "ex_zh": "在全球化的职场中，多语能力被视为很大的优势。",
+  "use": {
+   "col": [
+    [
+     "Mehrsprachigkeit fördern",
+     "鼓励多语教育"
+    ],
+    [
+     "in Mehrsprachigkeit aufwachsen",
+     "在多语环境中成长"
+    ]
+   ],
+   "tip": "形容词 mehrsprachig；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Zugehörigkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "归属；隶属",
+  "ex": [
+   "Die gemeinsame Sprache stärkt das Gefühl der Zugehörigkeit."
+  ],
+  "ex_zh": "共同的语言增强归属感。",
+  "gov": "Zugehörigkeit zu + Dat.",
+  "use": {
+   "col": [
+    [
+     "ein Gefühl der Zugehörigkeit",
+     "归属感"
+    ],
+    [
+     "die Zugehörigkeit zu einer Gruppe",
+     "对某个群体的隶属"
+    ]
+   ],
+   "tip": "动词 zugehören；Zugehörigkeit zu + Dat."
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Identität",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Identitäten",
+  "zh": "身份认同；身份",
+  "ex": [
+   "Viele Kinder von Einwanderern ringen lange mit ihrer kulturellen Identität."
+  ],
+  "ex_zh": "许多移民的孩子长期在文化认同上挣扎。",
+  "use": {
+   "col": [
+    [
+     "die eigene Identität finden",
+     "找到自我认同"
+    ],
+    [
+     "kulturelle Identität",
+     "文化认同"
+    ]
+   ],
+   "tip": "形容词 identisch；im Pass 也指身份"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Demografie",
+  "art": "die",
+  "pos": "n",
+  "zh": "人口统计；人口结构",
+  "ex": [
+   "Die Demografie stellt das Rentensystem vor große Probleme."
+  ],
+  "ex_zh": "人口结构给养老金制度带来巨大问题。",
+  "use": {
+   "col": [
+    [
+     "demografischer Wandel",
+     "人口结构变化"
+    ],
+    [
+     "die Demografie beeinflusst die Wirtschaft",
+     "人口结构影响经济"
+    ]
+   ],
+   "tip": "也写 Demographie；形容词 demografisch"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Geburtenrate",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Geburtenraten",
+  "zh": "出生率",
+  "ex": [
+   "Die niedrige Geburtenrate verschärft in Deutschland den Fachkräftemangel in vielen Branchen."
+  ],
+  "ex_zh": "低出生率加剧了德国许多行业的专业人才短缺。",
+  "use": {
+   "col": [
+    [
+     "die Geburtenrate sinkt",
+     "出生率下降"
+    ],
+    [
+     "eine niedrige Geburtenrate",
+     "低出生率"
+    ]
+   ],
+   "tip": "对应「死亡率」是 die Sterberate"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Generationenvertrag",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Generationenverträge",
+  "zh": "代际契约",
+  "ex": [
+   "Der Generationenvertrag ist das Prinzip der gesetzlichen Rente."
+  ],
+  "ex_zh": "代际契约是法定养老金的原则。",
+  "use": {
+   "col": [
+    [
+     "der Generationenvertrag gerät ins Wanken",
+     "代际契约动摇"
+    ],
+    [
+     "den Generationenvertrag aufkündigen",
+     "撕毁代际契约"
+    ]
+   ],
+   "tip": "在职一代的缴费养活当前的退休者"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Wertewandel",
+  "art": "der",
+  "pos": "n",
+  "zh": "价值观变迁",
+  "ex": [
+   "Der Wertewandel zeigt sich vor allem bei jüngeren Generationen."
+  ],
+  "ex_zh": "价值观的变迁在年轻几代人身上尤其明显。",
+  "use": {
+   "col": [
+    [
+     "ein gesellschaftlicher Wertewandel",
+     "社会价值观变迁"
+    ],
+    [
+     "im Wertewandel begriffen sein",
+     "处于价值观变迁中"
+    ]
+   ],
+   "tip": "社会学词汇；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Leistungsgesellschaft",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Leistungsgesellschaften",
+  "zh": "绩效社会",
+  "ex": [
+   "In der Leistungsgesellschaft zählt oft nur der Erfolg."
+  ],
+  "ex_zh": "在绩效社会里，往往只有成功才算数。",
+  "use": {
+   "col": [
+    [
+     "in einer Leistungsgesellschaft leben",
+     "生活在绩效社会"
+    ],
+    [
+     "gegen die Leistungsgesellschaft protestieren",
+     "抗议绩效社会"
+    ]
+   ],
+   "tip": "-gesellschaft 类复合词：Konsumgesellschaft、We"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Zweiklassengesellschaft",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Zweiklassengesellschaften",
+  "zh": "两极分化的社会",
+  "ex": [
+   "Kritiker sprechen von einer Zweiklassengesellschaft, weil Privatpatienten schneller einen Arzttermin bekommen."
+  ],
+  "ex_zh": "批评者说这是个两级社会，因为私人保险患者更快约到医生。",
+  "use": {
+   "col": [
+    [
+     "in einer Zweiklassengesellschaft leben",
+     "生活在两极分化的社会"
+    ],
+    [
+     "keine Zweiklassengesellschaft wollen",
+     "不想要两极分化的社会"
+    ]
+   ],
+   "tip": "德国常用于医疗和教育话题"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Individualisierung",
+  "art": "die",
+  "pos": "n",
+  "zh": "个体化",
+  "ex": [
+   "Die Individualisierung führt dazu, dass traditionelle Bindungen schwächer werden."
+  ],
+  "ex_zh": "个体化使传统的纽带变弱。",
+  "use": {
+   "col": [
+    [
+     "zunehmende Individualisierung",
+     "日益加剧的个体化"
+    ],
+    [
+     "Individualisierung der Gesellschaft",
+     "社会的个体化"
+    ]
+   ],
+   "tip": "动词 individualisieren；社会学关键词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Vereinsamung",
+  "art": "die",
+  "pos": "n",
+  "zh": "孤立；孤独化",
+  "ex": [
+   "Die Vereinsamung älterer Menschen nimmt in den Städten zu."
+  ],
+  "ex_zh": "城市里老年人的孤独化现象在增加。",
+  "use": {
+   "col": [
+    [
+     "der Vereinsamung vorbeugen",
+     "预防孤独化"
+    ],
+    [
+     "von Vereinsamung bedroht sein",
+     "面临孤独化的威胁"
+    ]
+   ],
+   "tip": "动词 vereinsamen；比 Einsamkeit 更强调「过程」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Anonymität",
+  "art": "die",
+  "pos": "n",
+  "zh": "匿名；陌生感",
+  "ex": [
+   "Viele schätzen die Anonymität der Großstadt, andere leiden darunter."
+  ],
+  "ex_zh": "许多人喜欢大城市的匿名感，也有人为此苦恼。",
+  "use": {
+   "col": [
+    [
+     "in der Anonymität der Großstadt",
+     "在大城市的匿名状态中"
+    ],
+    [
+     "die Anonymität wahren",
+     "保持匿名"
+    ]
+   ],
+   "tip": "形容词 anonym"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Selbstbestimmung",
+  "art": "die",
+  "pos": "n",
+  "zh": "自主决定",
+  "ex": [
+   "Das Recht auf Selbstbestimmung gilt auch für Menschen mit Behinderung."
+  ],
+  "ex_zh": "自主决定的权利也适用于残障人士。",
+  "use": {
+   "col": [
+    [
+     "das Recht auf Selbstbestimmung",
+     "自主决定权"
+    ],
+    [
+     "sexuelle Selbstbestimmung",
+     "性自主权"
+    ]
+   ],
+   "tip": "形容词 selbstbestimmt；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Selbstverwirklichung",
+  "art": "die",
+  "pos": "n",
+  "zh": "自我实现",
+  "ex": [
+   "Für viele junge Menschen zählt heute die Selbstverwirklichung mehr als Sicherheit."
+  ],
+  "ex_zh": "如今对很多年轻人来说，自我实现比安稳更重要。",
+  "use": {
+   "col": [
+    [
+     "nach Selbstverwirklichung streben",
+     "追求自我实现"
+    ],
+    [
+     "Selbstverwirklichung im Beruf",
+     "在职业中自我实现"
+    ]
+   ],
+   "tip": "动词 sich verwirklichen；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Selbstwertgefühl",
+  "art": "das",
+  "pos": "n",
+  "zh": "自尊；自我价值感",
+  "ex": [
+   "Ständige Kritik kann das Selbstwertgefühl eines Kindes dauerhaft schädigen."
+  ],
+  "ex_zh": "不断的批评可能长期损害孩子的自尊。",
+  "use": {
+   "col": [
+    [
+     "ein geringes Selbstwertgefühl",
+     "较低的自尊"
+    ],
+    [
+     "das Selbstwertgefühl stärken",
+     "增强自尊"
+    ]
+   ],
+   "tip": "与 Selbstbewusstsein（自信）略有不同"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Zuneigung",
+  "art": "die",
+  "pos": "n",
+  "zh": "好感；喜爱",
+  "ex": [
+   "Sie begegnete ihrem neuen Kollegen von Anfang an mit aufrichtiger Zuneigung."
+  ],
+  "ex_zh": "她从一开始就以真诚的喜爱对待这位新同事。",
+  "gov": "Zuneigung zu + Dat.",
+  "use": {
+   "col": [
+    [
+     "echte Zuneigung",
+     "真挚的喜爱"
+    ],
+    [
+     "Zuneigung zu jemandem empfinden",
+     "对某人有好感"
+    ]
+   ],
+   "tip": "动词 zuneigen；Zuneigung zu + Dat."
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Fürsorge",
+  "art": "die",
+  "pos": "n",
+  "zh": "关怀；照料",
+  "ex": [
+   "Kleine Kinder brauchen in den ersten Lebensjahren viel Fürsorge und Geborgenheit."
+  ],
+  "ex_zh": "小孩子在最初几年里需要很多关怀和安全感。",
+  "gov": "Fürsorge für + Akk.",
+  "use": {
+   "col": [
+    [
+     "elterliche Fürsorge",
+     "父母的照顾"
+    ],
+    [
+     "die Fürsorge für Bedürftige",
+     "对困难者的救助"
+    ]
+   ],
+   "tip": "形容词 fürsorglich；旧时 Fürsorge 也指「社会救济」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Geborgenheit",
+  "art": "die",
+  "pos": "n",
+  "zh": "安全感；被呵护的感觉",
+  "ex": [
+   "In der Familie fand er die Geborgenheit, die er so lange vermisst hatte."
+  ],
+  "ex_zh": "他在家庭里找到了久违的安全感。",
+  "use": {
+   "col": [
+    [
+     "ein Gefühl der Geborgenheit",
+     "被呵护的感觉"
+    ],
+    [
+     "Geborgenheit finden",
+     "找到归属与安全"
+    ]
+   ],
+   "tip": "形容词 geborgen；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Nächstenliebe",
+  "art": "die",
+  "pos": "n",
+  "zh": "博爱；爱邻人",
+  "ex": [
+   "Christliche Nächstenliebe zeigt sich in der Hilfe für Schwache."
+  ],
+  "ex_zh": "基督教的博爱体现在对弱者的帮助中。",
+  "use": {
+   "col": [
+    [
+     "aus Nächstenliebe handeln",
+     "出于博爱行事"
+    ],
+    [
+     "tätige Nächstenliebe",
+     "行动上的博爱"
+    ]
+   ],
+   "tip": "来自《圣经》；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Mitgefühl",
+  "art": "das",
+  "pos": "n",
+  "zh": "同情；怜悯",
+  "ex": [
+   "Die Nachricht erfüllte viele Menschen mit tiefem Mitgefühl."
+  ],
+  "ex_zh": "这则消息使许多人深感同情。",
+  "use": {
+   "col": [
+    [
+     "Mitgefühl zeigen",
+     "表示同情"
+    ],
+    [
+     "kein Mitgefühl haben",
+     "毫无同情心"
+    ]
+   ],
+   "tip": "与 Mitleid 近义；Mitgefühl 更中性"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Empathie",
+  "art": "die",
+  "pos": "n",
+  "zh": "同理心",
+  "ex": [
+   "Gute Führungskräfte zeichnen sich nicht nur durch Fachwissen, sondern auch durch Empathie aus."
+  ],
+  "ex_zh": "优秀的管理者不仅凭专业知识，也凭同理心见长。",
+  "use": {
+   "col": [
+    [
+     "Empathie zeigen",
+     "表现出同理心"
+    ],
+    [
+     "mit Empathie zuhören",
+     "带着同理心倾听"
+    ]
+   ],
+   "tip": "形容词 empathisch；职场软技能常用词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Wohltätigkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "慈善",
+  "ex": [
+   "Er spendet nicht aus Eigennutz, sondern aus reiner Wohltätigkeit und möchte nicht genannt werden."
+  ],
+  "ex_zh": "他捐款不是为了私利，而是出于纯粹的慈善，也不想被提名。",
+  "use": {
+   "col": [
+    [
+     "aus Wohltätigkeit",
+     "出于慈善"
+    ],
+    [
+     "eine Veranstaltung zugunsten der Wohltätigkeit",
+     "慈善活动"
+    ]
+   ],
+   "tip": "形容词 wohltätig"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Hilfsbereitschaft",
+  "art": "die",
+  "pos": "n",
+  "zh": "乐于助人",
+  "ex": [
+   "Nach dem Hochwasser war die Hilfsbereitschaft der Nachbarn und Freunde überwältigend."
+  ],
+  "ex_zh": "洪水过后，邻居和朋友们的热心帮助令人感动。",
+  "use": {
+   "col": [
+    [
+     "große Hilfsbereitschaft zeigen",
+     "表现出极大的乐于助人"
+    ],
+    [
+     "auf Hilfsbereitschaft stoßen",
+     "得到热心帮助"
+    ]
+   ],
+   "tip": "形容词 hilfsbereit；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Pflichtbewusstsein",
+  "art": "das",
+  "pos": "n",
+  "zh": "责任感",
+  "ex": [
+   "Ihr Pflichtbewusstsein hat sie auch in schweren Zeiten durchhalten lassen."
+  ],
+  "ex_zh": "她的责任感让她即使在困难时期也坚持下来。",
+  "use": {
+   "col": [
+    [
+     "ein ausgeprägtes Pflichtbewusstsein",
+     "强烈的责任感"
+    ],
+    [
+     "aus Pflichtbewusstsein",
+     "出于责任感"
+    ]
+   ],
+   "tip": "形容词 pflichtbewusst；Pflicht 已学"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Ethik",
+  "art": "die",
+  "pos": "n",
+  "zh": "伦理；道德规范",
+  "ex": [
+   "Die Ethik der Wissenschaft wird zunehmend öffentlich diskutiert."
+  ],
+  "ex_zh": "科学伦理越来越受到公开讨论。",
+  "use": {
+   "col": [
+    [
+     "die Ethik des Berufs",
+     "职业伦理"
+    ],
+    [
+     "in der Ethik unterrichten",
+     "讲授伦理学"
+    ]
+   ],
+   "tip": "形容词 ethisch；Ethikrat = 德国伦理委员会"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Anstand",
+  "art": "der",
+  "pos": "n",
+  "zh": "体面；礼节",
+  "ex": [
+   "Er hatte nicht einmal den Anstand, sich zu entschuldigen."
+  ],
+  "ex_zh": "他甚至连道歉的体面都没有。",
+  "use": {
+   "col": [
+    [
+     "den Anstand wahren",
+     "保持体面"
+    ],
+    [
+     "keinen Anstand haben",
+     "没有礼貌"
+    ]
+   ],
+   "tip": "形容词 anständig；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Würde",
+  "art": "die",
+  "pos": "n",
+  "zh": "尊严",
+  "ex": [
+   "Die Würde des Menschen ist unantastbar, so steht es im ersten Artikel des Grundgesetzes."
+  ],
+  "ex_zh": "人的尊严不可侵犯，这写在基本法第一条里。",
+  "use": {
+   "col": [
+    [
+     "die Würde wahren",
+     "维护尊严"
+    ],
+    [
+     "in Würde altern",
+     "有尊严地老去"
+    ]
+   ],
+   "tip": "基本法第 1 条首句；形容词 würdevoll、würdig"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Menschenwürde",
+  "art": "die",
+  "pos": "n",
+  "zh": "人的尊严",
+  "ex": [
+   "Auch niedrige Löhne dürfen die Menschenwürde der Beschäftigten nicht verletzen."
+  ],
+  "ex_zh": "即使工资低，也不得侵犯员工的人的尊严。",
+  "use": {
+   "col": [
+    [
+     "die Menschenwürde achten",
+     "尊重人的尊严"
+    ],
+    [
+     "ein menschenwürdiges Leben",
+     "有尊严的生活"
+    ]
+   ],
+   "tip": "基本法第 1 条核心概念"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Weltanschauung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Weltanschauungen",
+  "zh": "世界观",
+  "ex": [
+   "Religion und Weltanschauung sind durch das Grundgesetz geschützt."
+  ],
+  "ex_zh": "宗教与世界观受基本法保护。",
+  "use": {
+   "col": [
+    [
+     "eine politische Weltanschauung",
+     "政治世界观"
+    ],
+    [
+     "eine religiöse Weltanschauung",
+     "宗教世界观"
+    ]
+   ],
+   "tip": "与 Weltbild 近义；Weltanschauung 更常用于法律语境"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Glaubensgemeinschaft",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Glaubensgemeinschaften",
+  "zh": "宗教团体",
+  "ex": [
+   "Mehrere Glaubensgemeinschaften luden zu einem gemeinsamen Friedensgebet ein."
+  ],
+  "ex_zh": "几个宗教团体邀请大家共同参加和平祈祷。",
+  "use": {
+   "col": [
+    [
+     "einer Glaubensgemeinschaft angehören",
+     "属于某个宗教团体"
+    ],
+    [
+     "eine religiöse Glaubensgemeinschaft",
+     "宗教团体"
+    ]
+   ],
+   "tip": "比 Kirche 范围更广，不限基督教"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Aberglaube",
+  "art": "der",
+  "pos": "n",
+  "zh": "迷信",
+  "ex": [
+   "Der Aberglaube, dass Freitag der 13. Unglück bringt, ist weit verbreitet."
+  ],
+  "ex_zh": "认为 13 号星期五会带来厄运的迷信流传甚广。",
+  "use": {
+   "col": [
+    [
+     "ein alter Aberglaube",
+     "古老的迷信"
+    ],
+    [
+     "Aberglaube verbreiten",
+     "传播迷信"
+    ]
+   ],
+   "tip": "形容词 abergläubisch；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Spaltung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Spaltungen",
+  "zh": "分裂；割裂",
+  "ex": [
+   "Die Debatte hat zu einer tiefen Spaltung der Gesellschaft geführt."
+  ],
+  "ex_zh": "这场辩论导致了社会的深度分裂。",
+  "use": {
+   "col": [
+    [
+     "die Spaltung der Gesellschaft",
+     "社会的分裂"
+    ],
+    [
+     "eine Spaltung vertiefen",
+     "加深分裂"
+    ]
+   ],
+   "tip": "动词 spalten；也有「细胞分裂」义"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Inklusion",
+  "art": "die",
+  "pos": "n",
+  "zh": "融合；包容",
+  "ex": [
+   "Inklusion bedeutet, dass alle Kinder gemeinsam lernen können."
+  ],
+  "ex_zh": "融合教育意味着所有孩子都能一起学习。",
+  "use": {
+   "col": [
+    [
+     "schulische Inklusion",
+     "学校里的融合教育"
+    ],
+    [
+     "Inklusion fördern",
+     "促进融合"
+    ]
+   ],
+   "tip": "形容词 inklusiv；与 Integration 区别：前者「本就在其中」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Barrierefreiheit",
+  "art": "die",
+  "pos": "n",
+  "zh": "无障碍",
+  "ex": [
+   "Bei öffentlichen Gebäuden muss auf Barrierefreiheit geachtet werden."
+  ],
+  "ex_zh": "公共建筑要注意无障碍设计。",
+  "use": {
+   "col": [
+    [
+     "Barrierefreiheit gewährleisten",
+     "保障无障碍"
+    ],
+    [
+     "digitale Barrierefreiheit",
+     "数字无障碍"
+    ]
+   ],
+   "tip": "形容词 barrierefrei"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Behinderung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Behinderungen",
+  "zh": "残障；阻碍",
+  "ex": [
+   "Menschen mit Behinderung haben Anspruch auf Unterstützung am Arbeitsplatz."
+  ],
+  "ex_zh": "残障人士有权在工作场所得到支持。",
+  "use": {
+   "col": [
+    [
+     "Menschen mit Behinderung",
+     "残障人士"
+    ],
+    [
+     "eine geistige Behinderung",
+     "智力障碍"
+    ]
+   ],
+   "tip": "动词 behindern"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Lohnlücke",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Lohnlücken",
+  "zh": "工资差距（尤指性别）",
+  "ex": [
+   "Die Lohnlücke zwischen Frauen und Männern beträgt in Deutschland immer noch mehr als zehn Prozent."
+  ],
+  "ex_zh": "在德国，男女之间的工资差距仍然超过百分之十。",
+  "use": {
+   "col": [
+    [
+     "die Lohnlücke schließen",
+     "缩小工资差距"
+    ],
+    [
+     "die geschlechtsspezifische Lohnlücke",
+     "性别工资差距"
+    ]
+   ],
+   "tip": "也说 Gender-Pay-Gap；Lohngefälle 更泛指"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Stereotyp",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Stereotype",
+  "zh": "刻板印象",
+  "ex": [
+   "Werbung verstärkt oft Stereotype über Frauen und Männer."
+  ],
+  "ex_zh": "广告常常强化对男女的刻板印象。",
+  "use": {
+   "col": [
+    [
+     "Stereotype abbauen",
+     "消除刻板印象"
+    ],
+    [
+     "in Stereotypen denken",
+     "用刻板印象思考"
+    ]
+   ],
+   "tip": "形容词 stereotyp；Klischee 更口语"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Klischee",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Klischees",
+  "zh": "陈词滥调；刻板印象",
+  "ex": [
+   "Das Klischee vom pünktlichen Deutschen stimmt nicht immer."
+  ],
+  "ex_zh": "「德国人准时」的刻板印象并不总是对的。",
+  "use": {
+   "col": [
+    [
+     "ein Klischee bedienen",
+     "迎合刻板印象"
+    ],
+    [
+     "mit Klischees spielen",
+     "玩弄刻板印象"
+    ]
+   ],
+   "tip": "读 [kliˈʃeː]；形容词 klischeehaft"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Doppelbelastung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Doppelbelastungen",
+  "zh": "双重负担",
+  "ex": [
+   "Berufstätige Mütter leiden oft unter der Doppelbelastung von Job und Haushalt."
+  ],
+  "ex_zh": "职场妈妈常常因工作和家务的双重负担而受累。",
+  "use": {
+   "col": [
+    [
+     "unter einer Doppelbelastung leiden",
+     "承受双重负担"
+    ],
+    [
+     "die Doppelbelastung von Beruf und Familie",
+     "工作与家庭的双重负担"
+    ]
+   ],
+   "tip": "Doppel- 加名词：Doppelleben"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Erziehungsstil",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Erziehungsstile",
+  "zh": "教养方式",
+  "ex": [
+   "Der autoritäre Erziehungsstil gilt heute in den meisten Familien als überholt."
+  ],
+  "ex_zh": "专制式的教养方式如今在大多数家庭里被认为已过时。",
+  "use": {
+   "col": [
+    [
+     "ein liberaler Erziehungsstil",
+     "开明的教养方式"
+    ],
+    [
+     "den Erziehungsstil ändern",
+     "改变教养方式"
+    ]
+   ],
+   "tip": "Erziehung 已学；常见：autoritär、antiautoritär"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Generationenkonflikt",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Generationenkonflikte",
+  "zh": "代际冲突",
+  "ex": [
+   "Beim Thema Klimaschutz zeigt sich zwischen Jung und Alt ein deutlicher Generationenkonflikt."
+  ],
+  "ex_zh": "在气候保护议题上，老少之间显现出明显的代际冲突。",
+  "use": {
+   "col": [
+    [
+     "ein Generationenkonflikt entsteht",
+     "出现代际冲突"
+    ],
+    [
+     "einen Generationenkonflikt lösen",
+     "化解代际冲突"
+    ]
+   ],
+   "tip": "Generation + Konflikt 都是已学词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Vorfahren (Pl.)",
+  "art": "die",
+  "pos": "n",
+  "zh": "祖先",
+  "ex": [
+   "Seine Vorfahren stammen aus Polen und kamen im 19. Jahrhundert nach Deutschland."
+  ],
+  "ex_zh": "他的祖先来自波兰，十九世纪来到德国。",
+  "use": {
+   "col": [
+    [
+     "die Vorfahren zurückverfolgen",
+     "追溯祖先"
+    ],
+    [
+     "von den Vorfahren stammen",
+     "源于祖先"
+    ]
+   ],
+   "tip": "常用复数；单数 der Vorfahr；反义 Nachkommen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Nachkommen (Pl.)",
+  "art": "die",
+  "pos": "n",
+  "zh": "后代",
+  "ex": [
+   "Das Erbe sollte an die Nachkommen weitergegeben werden."
+  ],
+  "ex_zh": "这份遗产应当传给后代。",
+  "use": {
+   "col": [
+    [
+     "Nachkommen haben",
+     "有后代"
+    ],
+    [
+     "die direkten Nachkommen",
+     "直系后代"
+    ]
+   ],
+   "tip": "常用复数；反义 Vorfahren"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Adoption",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Adoptionen",
+  "zh": "收养",
+  "ex": [
+   "Das Paar entschied sich nach langem Warten für eine Adoption."
+  ],
+  "ex_zh": "这对夫妻在漫长等待之后决定收养孩子。",
+  "use": {
+   "col": [
+    [
+     "Adoption beantragen",
+     "申请收养"
+    ],
+    [
+     "ein Kind zur Adoption freigeben",
+     "让孩子被收养"
+    ]
+   ],
+   "tip": "动词 adoptieren；Adoptivkind = 养子女"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Pflegefamilie",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Pflegefamilien",
+  "zh": "寄养家庭",
+  "ex": [
+   "Das Mädchen wuchs nach dem Tod der Mutter in einer liebevollen Pflegefamilie auf."
+  ],
+  "ex_zh": "母亲去世后，这个女孩在一个充满爱的寄养家庭里长大。",
+  "use": {
+   "col": [
+    [
+     "in einer Pflegefamilie leben",
+     "生活在寄养家庭"
+    ],
+    [
+     "in eine Pflegefamilie kommen",
+     "被安置到寄养家庭"
+    ]
+   ],
+   "tip": "Pflege + Familie；不同于 Adoption：法律关系不同"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Waise",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Waisen",
+  "zh": "孤儿",
+  "ex": [
+   "Nach dem Unfall seiner Eltern blieb er als Waise zurück."
+  ],
+  "ex_zh": "父母出事后，他成了孤儿。",
+  "use": {
+   "col": [
+    [
+     "zur Waise werden",
+     "成为孤儿"
+    ],
+    [
+     "eine Vollwaise",
+     "双亲都去世的孤儿"
+    ]
+   ],
+   "tip": "Waisenhaus = 孤儿院；Waise 为阴性，指男孩也用 die"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Eheschließung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Eheschließungen",
+  "zh": "结婚；缔结婚姻",
+  "ex": [
+   "Die Zahl der Eheschließungen ist in den letzten Jahrzehnten gesunken."
+  ],
+  "ex_zh": "结婚的数量在过去几十年里下降了。",
+  "use": {
+   "col": [
+    [
+     "standesamtliche Eheschließung",
+     "民政登记结婚"
+    ],
+    [
+     "eine Eheschließung anmelden",
+     "登记结婚"
+    ]
+   ],
+   "tip": "比 Heirat 更正式；动词 heiraten 已学"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Bestattung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Bestattungen",
+  "zh": "安葬；殡葬",
+  "ex": [
+   "Die Bestattung fand im engsten Familienkreis auf einem kleinen Friedhof statt."
+  ],
+  "ex_zh": "殡葬仪式在最亲近的家人范围内于一个小墓地举行。",
+  "use": {
+   "col": [
+    [
+     "eine Bestattung organisieren",
+     "操办丧事"
+    ],
+    [
+     "Bestattungsunternehmen",
+     "殡葬公司"
+    ]
+   ],
+   "tip": "比 Beerdigung 更正式；动词 bestatten"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Unterdrückung",
+  "art": "die",
+  "pos": "n",
+  "zh": "压迫",
+  "ex": [
+   "Viele Frauen kämpften jahrzehntelang gegen die Unterdrückung durch das Patriarchat."
+  ],
+  "ex_zh": "许多女性几十年来与父权制的压迫作斗争。",
+  "use": {
+   "col": [
+    [
+     "Unterdrückung erleben",
+     "遭受压迫"
+    ],
+    [
+     "Widerstand gegen Unterdrückung",
+     "对压迫的抵抗"
+    ]
+   ],
+   "tip": "动词 unterdrücken；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Ausbeutung",
+  "art": "die",
+  "pos": "n",
+  "zh": "剥削",
+  "ex": [
+   "Die Gewerkschaft kämpft seit Jahren gegen die Ausbeutung von Saisonarbeitern in der Landwirtschaft."
+  ],
+  "ex_zh": "工会多年来一直在反对对农业季节工的剥削。",
+  "use": {
+   "col": [
+    [
+     "die Ausbeutung von Kindern",
+     "对儿童的剥削"
+    ],
+    [
+     "Ausbeutung verhindern",
+     "防止剥削"
+    ]
+   ],
+   "tip": "动词 ausbeuten；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Überschuldung",
+  "art": "die",
+  "pos": "n",
+  "zh": "债务过重",
+  "ex": [
+   "Viele junge Erwachsene sind durch Handyverträge und Kredite von Überschuldung bedroht."
+  ],
+  "ex_zh": "许多年轻成年人因手机合同和贷款而面临债务过重的威胁。",
+  "use": {
+   "col": [
+    [
+     "Überschuldung vermeiden",
+     "避免债务过重"
+    ],
+    [
+     "Überschuldung droht",
+     "面临债务过重"
+    ]
+   ],
+   "tip": "动词 überschulden；Schuldnerberatung 可以帮忙"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Obdachlosigkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "无家可归",
+  "ex": [
+   "Die Obdachlosigkeit hat in den letzten Jahren in vielen deutschen Großstädten zugenommen."
+  ],
+  "ex_zh": "近年来在德国许多大城市，无家可归的现象增加了。",
+  "use": {
+   "col": [
+    [
+     "von Obdachlosigkeit bedroht sein",
+     "面临无家可归"
+    ],
+    [
+     "Obdachlosigkeit bekämpfen",
+     "消除无家可归"
+    ]
+   ],
+   "tip": "形容词 obdachlos、名词 der Obdachlose"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich solidarisieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "solidarisiert",
+  "forms": "solidarisiert sich, solidarisierte sich, hat sich solidarisiert",
+  "zh": "声援；表示团结",
+  "ex": [
+   "Viele Studierende solidarisierten sich mit den streikenden Beschäftigten."
+  ],
+  "ex_zh": "许多大学生声援罢工的员工。",
+  "gov": "sich solidarisieren mit + Dat.",
+  "use": {
+   "col": [
+    [
+     "sich mit jemandem solidarisieren",
+     "声援某人"
+    ],
+    [
+     "sich öffentlich solidarisieren",
+     "公开表示声援"
+    ]
+   ],
+   "tip": "名词 die Solidarität；形容词 solidarisch"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "tolerieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "toleriert",
+  "forms": "toleriert, tolerierte, hat toleriert",
+  "zh": "容忍；宽容对待",
+  "ex": [
+   "Mobbing darf an unserer Schule nicht toleriert werden."
+  ],
+  "ex_zh": "我们学校不能容忍欺凌。",
+  "use": {
+   "col": [
+    [
+     "ein Verhalten tolerieren",
+     "容忍某种行为"
+    ],
+    [
+     "Andersdenkende tolerieren",
+     "包容持不同意见者"
+    ]
+   ],
+   "tip": "名词 die Toleranz；比 akzeptieren 弱：只是「忍受」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "marginalisieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "marginalisiert",
+  "forms": "marginalisiert, marginalisierte, hat marginalisiert",
+  "zh": "使边缘化",
+  "ex": [
+   "Eine solche Politik marginalisiert Menschen ohne festen Wohnsitz und nimmt ihnen jede Perspektive."
+  ],
+  "ex_zh": "这样的政策使没有固定住所的人边缘化，夺走了他们的一切前景。",
+  "use": {
+   "col": [
+    [
+     "gesellschaftlich marginalisiert sein",
+     "在社会上被边缘化"
+    ],
+    [
+     "Minderheiten marginalisieren",
+     "使少数群体边缘化"
+    ]
+   ],
+   "tip": "形容词 marginalisiert"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verarmen",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "verarmt",
+  "forms": "verarmt, verarmte, ist verarmt",
+  "zh": "沦为贫困",
+  "ex": [
+   "Nach dem Krieg verarmten viele Familien innerhalb weniger Jahre."
+  ],
+  "ex_zh": "战后许多家庭在几年内陷入贫困。",
+  "use": {
+   "col": [
+    [
+     "völlig verarmen",
+     "彻底沦为贫困"
+    ],
+    [
+     "verarmte Familien",
+     "陷入贫困的家庭"
+    ]
+   ],
+   "tip": "助动词 sein；形容词 verarmt"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "vereinsamen",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "vereinsamt",
+  "forms": "vereinsamt, vereinsamte, ist vereinsamt",
+  "zh": "变得孤独",
+  "ex": [
+   "Nach dem Tod seiner Frau vereinsamte er zusehends."
+  ],
+  "ex_zh": "妻子去世后，他日渐孤独。",
+  "use": {
+   "col": [
+    [
+     "im Alter vereinsamen",
+     "在晚年陷入孤独"
+    ],
+    [
+     "völlig vereinsamt sein",
+     "完全孤立"
+    ]
+   ],
+   "tip": "助动词 sein；名词 die Vereinsamung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich assimilieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "assimiliert",
+  "forms": "assimiliert sich, assimilierte sich, hat sich assimiliert",
+  "zh": "同化",
+  "ex": [
+   "Manche Einwanderer assimilierten sich vollständig und gaben ihre Sprache auf."
+  ],
+  "ex_zh": "有些移民完全同化，放弃了自己的语言。",
+  "gov": "sich assimilieren an + Akk.",
+  "use": {
+   "col": [
+    [
+     "sich kulturell assimilieren",
+     "在文化上被同化"
+    ],
+    [
+     "sich an die Mehrheit assimilieren",
+     "同化于多数群体"
+    ]
+   ],
+   "tip": "名词 die Assimilation"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich emanzipieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "emanzipiert",
+  "forms": "emanzipiert sich, emanzipierte sich, hat sich emanzipiert",
+  "zh": "摆脱束缚获得独立",
+  "ex": [
+   "Im 20. Jahrhundert emanzipierten sich die Frauen zunehmend vom traditionellen Rollenbild."
+  ],
+  "ex_zh": "二十世纪里，女性逐渐摆脱了传统角色观念。",
+  "gov": "sich emanzipieren von + Dat.",
+  "use": {
+   "col": [
+    [
+     "sich von Vorurteilen emanzipieren",
+     "摆脱偏见"
+    ],
+    [
+     "sich wirtschaftlich emanzipieren",
+     "在经济上获得独立"
+    ]
+   ],
+   "tip": "名词 die Emanzipation；形容词 emanzipiert"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verachten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verachtet",
+  "forms": "verachtet, verachtete, hat verachtet",
+  "zh": "鄙视",
+  "ex": [
+   "Er verachtet Menschen, die sich auf Kosten anderer bereichern."
+  ],
+  "ex_zh": "他鄙视那些靠损害别人而发财的人。",
+  "use": {
+   "col": [
+    [
+     "jemanden zutiefst verachten",
+     "打心底里鄙视某人"
+    ],
+    [
+     "Geld verachten",
+     "鄙视金钱"
+    ]
+   ],
+   "tip": "名词 die Verachtung；不可分动词；形容词 verächtlich"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "gedenken",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gedacht",
+  "forms": "gedenkt, gedachte, hat gedacht",
+  "zh": "纪念；缅怀",
+  "ex": [
+   "Am Volkstrauertag gedenkt man der Opfer von Krieg und Gewalt."
+  ],
+  "ex_zh": "在国殇日人们缅怀战争与暴力的受害者。",
+  "gov": "gedenken + Gen.",
+  "use": {
+   "col": [
+    [
+     "der Opfer gedenken",
+     "缅怀受害者"
+    ],
+    [
+     "in Stille gedenken",
+     "默哀"
+    ]
+   ],
+   "tip": "支配二格；名词 das Gedenken"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "vererben",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "vererbt",
+  "forms": "vererbt, vererbte, hat vererbt",
+  "zh": "遗赠；遗传",
+  "ex": [
+   "Sie vererbte ihr gesamtes Vermögen an eine Stiftung für kranke Kinder."
+  ],
+  "ex_zh": "她把全部财产遗赠给了一家救助患病儿童的基金会。",
+  "gov": "jemandem etwas vererben",
+  "use": {
+   "col": [
+    [
+     "jemandem etwas vererben",
+     "把某物遗赠给某人"
+    ],
+    [
+     "vererbt werden",
+     "被遗传"
+    ]
+   ],
+   "tip": "名词 die Vererbung；erben 是继承，vererben 是遗赠"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "adoptieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "adoptiert",
+  "forms": "adoptiert, adoptierte, hat adoptiert",
+  "zh": "收养",
+  "ex": [
+   "Das Ehepaar hat zwei Kinder aus dem Ausland adoptiert."
+  ],
+  "ex_zh": "这对夫妻从国外收养了两个孩子。",
+  "use": {
+   "col": [
+    [
+     "ein Kind adoptieren",
+     "收养一个孩子"
+    ],
+    [
+     "adoptiert werden",
+     "被收养"
+    ]
+   ],
+   "tip": "名词 die Adoption；Adoptivkind"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich abnabeln",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgenabelt",
+  "forms": "nabelt sich ab, nabelte sich ab, hat sich abgenabelt",
+  "zh": "（精神上）脱离父母独立",
+  "ex": [
+   "Mit Anfang zwanzig nabelte er sich von seinen Eltern ab."
+  ],
+  "ex_zh": "二十出头时，他从精神上摆脱了父母。",
+  "gov": "sich abnabeln von + Dat.",
+  "use": {
+   "col": [
+    [
+     "sich vom Elternhaus abnabeln",
+     "脱离父母家"
+    ],
+    [
+     "sich emotional abnabeln",
+     "在情感上脱离"
+    ]
+   ],
+   "tip": "口语、比喻；本义是「剪断脐带」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "bevormunden",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bevormundet",
+  "forms": "bevormundet, bevormundete, hat bevormundet",
+  "zh": "限制自主；包办",
+  "ex": [
+   "Viele Jugendliche fühlen sich von ihren Eltern bevormundet."
+  ],
+  "ex_zh": "许多青少年觉得被父母包办一切。",
+  "use": {
+   "col": [
+    [
+     "sich bevormundet fühlen",
+     "觉得被管得太多"
+    ],
+    [
+     "die Bürger bevormunden",
+     "替公民做主"
+    ]
+   ],
+   "tip": "名词 die Bevormundung；形容词 mündig 是反义"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich auflehnen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "aufgelehnt",
+  "forms": "lehnt sich auf, lehnte sich auf, hat sich aufgelehnt",
+  "zh": "反抗；造反",
+  "ex": [
+   "Die Jugendlichen lehnten sich gegen die strengen Regeln auf."
+  ],
+  "ex_zh": "少年们对严格的规定表示反抗。",
+  "gov": "sich auflehnen gegen + Akk.",
+  "use": {
+   "col": [
+    [
+     "sich gegen die Eltern auflehnen",
+     "反抗父母"
+    ],
+    [
+     "sich gegen Unrecht auflehnen",
+     "反抗不公"
+    ]
+   ],
+   "tip": "可分动词；名词 die Auflehnung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "rebellieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "rebelliert",
+  "forms": "rebelliert, rebellierte, hat rebelliert",
+  "zh": "反叛",
+  "ex": [
+   "In der Pubertät rebellieren viele Jugendliche gegen ihre Eltern."
+  ],
+  "ex_zh": "很多青少年在青春期反叛父母。",
+  "gov": "rebellieren gegen + Akk.",
+  "use": {
+   "col": [
+    [
+     "gegen die Autorität rebellieren",
+     "反抗权威"
+    ],
+    [
+     "gegen das System rebellieren",
+     "反抗体制"
+    ]
+   ],
+   "tip": "名词 der Rebell、die Rebellion"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich fügen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gefügt",
+  "forms": "fügt sich, fügte sich, hat sich gefügt",
+  "zh": "屈从；顺从",
+  "ex": [
+   "Schließlich fügte er sich dem Willen der Familie."
+  ],
+  "ex_zh": "最终他屈从于家人的意愿。",
+  "gov": "sich fügen + Dat.",
+  "use": {
+   "col": [
+    [
+     "sich dem Schicksal fügen",
+     "听天由命"
+    ],
+    [
+     "sich den Regeln fügen",
+     "服从规则"
+    ]
+   ],
+   "tip": "支配三格；名词 die Fügung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "missbilligen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "missbilligt",
+  "forms": "missbilligt, missbilligte, hat missbilligt",
+  "zh": "不赞成；不认可",
+  "ex": [
+   "Die Eltern missbilligten seine Entscheidung, die Stadt zu verlassen."
+  ],
+  "ex_zh": "父母不赞成他离开这座城市的决定。",
+  "use": {
+   "col": [
+    [
+     "ein Verhalten missbilligen",
+     "不赞成某种行为"
+    ],
+    [
+     "missbilligend den Kopf schütteln",
+     "不赞成地摇头"
+    ]
+   ],
+   "tip": "反义 billigen；不可分动词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "gutheißen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gutgeheißen",
+  "forms": "heißt gut, hieß gut, hat gutgeheißen",
+  "zh": "赞同；认可",
+  "ex": [
+   "Ich kann es nicht gutheißen, dass Kinder so viel Zeit am Handy verbringen."
+  ],
+  "ex_zh": "我无法赞同孩子们花这么多时间玩手机。",
+  "use": {
+   "col": [
+    [
+     "ein Vorgehen gutheißen",
+     "赞同某种做法"
+    ],
+    [
+     "etwas nicht gutheißen",
+     "不赞成某事"
+    ]
+   ],
+   "tip": "可分动词；多用于否定句"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ächten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "geächtet",
+  "forms": "ächtet, ächtete, hat geächtet",
+  "zh": "排斥；明令禁止",
+  "ex": [
+   "Gewalt in der Erziehung ist in Deutschland gesetzlich geächtet."
+  ],
+  "ex_zh": "在德国，教育中的暴力受到法律禁止。",
+  "use": {
+   "col": [
+    [
+     "gesellschaftlich geächtet sein",
+     "受到社会排斥"
+    ],
+    [
+     "Gewalt ächten",
+     "摒弃暴力"
+    ]
+   ],
+   "tip": "名词 die Ächtung；书面语"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "tabuisieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "tabuisiert",
+  "forms": "tabuisiert, tabuisierte, hat tabuisiert",
+  "zh": "视为禁忌",
+  "ex": [
+   "Das Thema Altersarmut wurde in der Gesellschaft lange Zeit tabuisiert und kaum besprochen."
+  ],
+  "ex_zh": "老年贫困这个话题在社会上长期被视为禁忌，几乎无人谈论。",
+  "use": {
+   "col": [
+    [
+     "ein Thema tabuisieren",
+     "把某话题当作禁忌"
+    ],
+    [
+     "tabuisiert werden",
+     "被当作禁忌"
+    ]
+   ],
+   "tip": "名词 das Tabu；反义 enttabuisieren"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich bekennen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bekannt",
+  "forms": "bekennt sich, bekannte sich, hat sich bekannt",
+  "zh": "公开承认；信奉",
+  "ex": [
+   "Er bekannte sich öffentlich zu seinem Glauben, obwohl das für ihn gefährlich war."
+  ],
+  "ex_zh": "他公开承认自己的信仰，尽管这对他很危险。",
+  "gov": "sich bekennen zu + Dat.",
+  "use": {
+   "col": [
+    [
+     "sich zu einer Religion bekennen",
+     "信奉某种宗教"
+    ],
+    [
+     "sich schuldig bekennen",
+     "认罪"
+    ]
+   ],
+   "tip": "名词 das Bekenntnis；不可分动词，p2 bekannt"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "konvertieren",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "konvertiert",
+  "forms": "konvertiert, konvertierte, ist konvertiert",
+  "zh": "改宗；转换",
+  "ex": [
+   "Sie konvertierte vor der Hochzeit zum Islam, weil ihr Mann Muslim ist."
+  ],
+  "ex_zh": "她在婚礼前改信了伊斯兰教，因为她丈夫是穆斯林。",
+  "gov": "konvertieren zu + Dat.",
+  "use": {
+   "col": [
+    [
+     "zum Christentum konvertieren",
+     "改信基督教"
+    ],
+    [
+     "eine Datei konvertieren",
+     "转换文件"
+    ]
+   ],
+   "tip": "助动词 sein（改宗）；转换文件时用 hat"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich zusammenschließen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "zusammengeschlossen",
+  "forms": "schließt sich zusammen, schloss sich zusammen, hat sich zusammengeschlossen",
+  "zh": "联合；结成团体",
+  "ex": [
+   "Mehrere Initiativen schlossen sich zu einem Bündnis zusammen."
+  ],
+  "ex_zh": "几个团体联合成了一个联盟。",
+  "gov": "sich zusammenschließen zu + Dat.",
+  "use": {
+   "col": [
+    [
+     "sich zu einem Verein zusammenschließen",
+     "联合成一个协会"
+    ],
+    [
+     "sich zusammenschließen mit",
+     "与…联合"
+    ]
+   ],
+   "tip": "名词 der Zusammenschluss；可分动词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich vernetzen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "vernetzt",
+  "forms": "vernetzt sich, vernetzte sich, hat sich vernetzt",
+  "zh": "建立联系网络",
+  "ex": [
+   "Junge Gründerinnen vernetzen sich auf Veranstaltungen und online."
+  ],
+  "ex_zh": "年轻的女创业者在活动上和线上相互建立联系。",
+  "use": {
+   "col": [
+    [
+     "sich beruflich vernetzen",
+     "建立职业人脉"
+    ],
+    [
+     "eng vernetzt sein",
+     "联系紧密"
+    ]
+   ],
+   "tip": "名词 das Netzwerk；形容词 vernetzt"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "gleichstellen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gleichgestellt",
+  "forms": "stellt gleich, stellte gleich, hat gleichgestellt",
+  "zh": "使平等；同等对待",
+  "ex": [
+   "Das Gesetz stellt eingetragene Lebenspartner mit Ehepartnern gleich."
+  ],
+  "ex_zh": "这部法律让登记的生活伴侣与配偶享有同等地位。",
+  "use": {
+   "col": [
+    [
+     "jemanden jemandem gleichstellen",
+     "使某人与某人同等"
+    ],
+    [
+     "rechtlich gleichgestellt sein",
+     "在法律上平等"
+    ]
+   ],
+   "tip": "名词 die Gleichstellung；可分动词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "umverteilen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "umverteilt",
+  "forms": "verteilt um, verteilte um, hat umverteilt",
+  "zh": "重新分配",
+  "ex": [
+   "Die Steuerpolitik soll Einkommen von reicheren zu ärmeren Haushalten umverteilen."
+  ],
+  "ex_zh": "税收政策应当把收入从较富裕的家庭重新分配给较贫困的家庭。",
+  "use": {
+   "col": [
+    [
+     "Vermögen umverteilen",
+     "重新分配财产"
+    ],
+    [
+     "Aufgaben umverteilen",
+     "重新分配任务"
+    ]
+   ],
+   "tip": "可分动词；名词 die Umverteilung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "spalten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gespalten",
+  "forms": "spaltet, spaltete, hat gespalten",
+  "zh": "分裂；使分化",
+  "ex": [
+   "Die Debatte über die Einwanderung spaltet die Gesellschaft, selbst innerhalb vieler Familien."
+  ],
+  "ex_zh": "关于移民的辩论使社会分裂，甚至在许多家庭内部也是如此。",
+  "use": {
+   "col": [
+    [
+     "die Gesellschaft spalten",
+     "使社会分裂"
+    ],
+    [
+     "gespalten sein",
+     "意见分歧"
+    ]
+   ],
+   "tip": "p2 既可 gespalten 也可 gespaltet"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich radikalisieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "radikalisiert",
+  "forms": "radikalisiert sich, radikalisierte sich, hat sich radikalisiert",
+  "zh": "变得激进；极端化",
+  "ex": [
+   "Einzelne Jugendliche radikalisieren sich im Internet, ohne dass ihre Eltern es merken."
+  ],
+  "ex_zh": "个别青少年在网上变得极端，而父母却毫无察觉。",
+  "use": {
+   "col": [
+    [
+     "sich politisch radikalisieren",
+     "在政治上变得激进"
+    ],
+    [
+     "radikalisiert werden",
+     "被极端化"
+    ]
+   ],
+   "tip": "名词 die Radikalisierung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "entmündigen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "entmündigt",
+  "forms": "entmündigt, entmündigte, hat entmündigt",
+  "zh": "剥夺自主权",
+  "ex": [
+   "Mit zu vielen Vorschriften entmündigt der Staat seine Bürger."
+  ],
+  "ex_zh": "国家以过多的规定剥夺了公民的自主权。",
+  "use": {
+   "col": [
+    [
+     "sich entmündigt fühlen",
+     "觉得被剥夺了自主权"
+    ],
+    [
+     "Bürger entmündigen",
+     "剥夺公民的自主决定权"
+    ]
+   ],
+   "tip": "形容词 mündig；法律上也指「宣告无行为能力」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "demütigen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gedemütigt",
+  "forms": "demütigt, demütigte, hat gedemütigt",
+  "zh": "羞辱",
+  "ex": [
+   "Die Schüler demütigten ihren Mitschüler vor der ganzen Klasse."
+  ],
+  "ex_zh": "学生们在全班面前羞辱了他们的同学。",
+  "use": {
+   "col": [
+    [
+     "sich gedemütigt fühlen",
+     "觉得受到羞辱"
+    ],
+    [
+     "jemanden öffentlich demütigen",
+     "公开羞辱某人"
+    ]
+   ],
+   "tip": "名词 die Demütigung；比 beleidigen 更伤人格"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "kränken",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gekränkt",
+  "forms": "kränkt, kränkte, hat gekränkt",
+  "zh": "伤害感情",
+  "ex": [
+   "Seine abfällige Bemerkung über ihre Herkunft hat sie tief gekränkt."
+  ],
+  "ex_zh": "他对她出身的轻蔑评论深深伤害了她。",
+  "use": {
+   "col": [
+    [
+     "jemanden kränken",
+     "伤害某人的感情"
+    ],
+    [
+     "sich gekränkt fühlen",
+     "觉得受了伤害"
+    ]
+   ],
+   "tip": "名词 die Kränkung；形容词 gekränkt"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verleumden",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verleumdet",
+  "forms": "verleumdet, verleumdete, hat verleumdet",
+  "zh": "诽谤",
+  "ex": [
+   "Er wurde von seinen Nachbarn verleumdet und verlor seine Stelle."
+  ],
+  "ex_zh": "他受到邻居的诽谤并失去了工作。",
+  "use": {
+   "col": [
+    [
+     "jemanden verleumden",
+     "诽谤某人"
+    ],
+    [
+     "öffentlich verleumdet werden",
+     "被公开诽谤"
+    ]
+   ],
+   "tip": "名词 die Verleumdung；是犯罪行为"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "anfeinden",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "angefeindet",
+  "forms": "feindet an, feindete an, hat angefeindet",
+  "zh": "敌视；攻击",
+  "ex": [
+   "Menschen, die sich für Flüchtlinge einsetzen, werden manchmal angefeindet."
+  ],
+  "ex_zh": "为难民发声的人有时会遭到敌视。",
+  "use": {
+   "col": [
+    [
+     "angefeindet werden",
+     "遭到敌视"
+    ],
+    [
+     "jemanden offen anfeinden",
+     "公开敌视某人"
+    ]
+   ],
+   "tip": "名词 die Anfeindung；可分动词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "bloßstellen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bloßgestellt",
+  "forms": "stellt bloß, stellte bloß, hat bloßgestellt",
+  "zh": "使出丑；揭露",
+  "ex": [
+   "Man sollte niemanden vor der ganzen Gruppe bloßstellen, auch wenn er einen Fehler gemacht hat."
+  ],
+  "ex_zh": "即使有人犯了错，也不应当在整个团体面前让他出丑。",
+  "use": {
+   "col": [
+    [
+     "jemanden bloßstellen",
+     "让某人出丑"
+    ],
+    [
+     "sich bloßstellen",
+     "出丑"
+    ]
+   ],
+   "tip": "可分动词；名词 die Bloßstellung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verspotten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verspottet",
+  "forms": "verspottet, verspottete, hat verspottet",
+  "zh": "嘲笑",
+  "ex": [
+   "In der Schule wurde er wegen seines Dialekts verspottet."
+  ],
+  "ex_zh": "在学校里他因为口音而被嘲笑。",
+  "use": {
+   "col": [
+    [
+     "jemanden verspotten",
+     "嘲笑某人"
+    ],
+    [
+     "verspottet werden",
+     "被嘲笑"
+    ]
+   ],
+   "tip": "名词 der Spott；不可分动词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "bedürfen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bedurft",
+  "forms": "bedarf, bedurfte, hat bedurft",
+  "zh": "需要",
+  "ex": [
+   "Dieses sensible Thema bedarf einer sachlichen und gut vorbereiteten Diskussion."
+  ],
+  "ex_zh": "这个敏感话题需要一场理性且准备充分的讨论。",
+  "gov": "bedürfen + Gen.",
+  "use": {
+   "col": [
+    [
+     "der Hilfe bedürfen",
+     "需要帮助"
+    ],
+    [
+     "einer Erklärung bedürfen",
+     "需要解释"
+    ]
+   ],
+   "tip": "支配二格；书面语，口语多用 brauchen；名词 das Bedürfnis"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "hilfsbedürftig",
+  "pos": "adj",
+  "zh": "需要帮助的",
+  "ex": [
+   "Hilfsbedürftige Menschen finden in dieser Beratungsstelle schnell einen kompetenten Ansprechpartner."
+  ],
+  "ex_zh": "需要帮助的人在这家咨询处很快就能找到专业的联系人。",
+  "use": {
+   "col": [
+    [
+     "hilfsbedürftig sein",
+     "需要帮助"
+    ],
+    [
+     "hilfsbedürftige Senioren",
+     "需要照顾的老人"
+    ]
+   ],
+   "tip": "比 bedürftig 更强调「需要别人的帮助」，不一定是钱"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verarmt",
+  "pos": "adj",
+  "zh": "陷入贫困的",
+  "ex": [
+   "Der verarmte Adel musste nach dem Krieg viele seiner Schlösser verkaufen."
+  ],
+  "ex_zh": "没落的贵族在战后不得不卖掉许多城堡。",
+  "use": {
+   "col": [
+    [
+     "eine verarmte Familie",
+     "沦为贫困的家庭"
+    ],
+    [
+     "verarmte Regionen",
+     "贫困地区"
+    ]
+   ],
+   "tip": "由动词 verarmen 转成；书面语"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "wohltätig",
+  "pos": "adj",
+  "zh": "慈善的",
+  "ex": [
+   "Mit dem Konzert sammelte der Chor Geld für einen wohltätigen Zweck."
+  ],
+  "ex_zh": "合唱团通过这场音乐会为一个慈善目的筹款。",
+  "use": {
+   "col": [
+    [
+     "für einen wohltätigen Zweck",
+     "为慈善目的"
+    ],
+    [
+     "eine wohltätige Stiftung",
+     "慈善基金会"
+    ]
+   ],
+   "tip": "名词 die Wohltätigkeit"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "privilegiert",
+  "pos": "adj",
+  "zh": "享有特权的；处境优越的",
+  "ex": [
+   "Wer in einer privilegierten Familie aufwächst, hat bessere Bildungschancen."
+  ],
+  "ex_zh": "在优越家庭中长大的人有更好的受教育机会。",
+  "use": {
+   "col": [
+    [
+     "privilegiert sein",
+     "享有特权"
+    ],
+    [
+     "die privilegierte Schicht",
+     "享有特权的阶层"
+    ]
+   ],
+   "tip": "名词 das Privileg；反义 benachteiligt"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "marginalisiert",
+  "pos": "adj",
+  "zh": "被边缘化的",
+  "ex": [
+   "Marginalisierte Gruppen werden in politischen Debatten selten gehört."
+  ],
+  "ex_zh": "被边缘化的群体在政治辩论中很少被听到。",
+  "use": {
+   "col": [
+    [
+     "marginalisierte Gruppen",
+     "被边缘化的群体"
+    ],
+    [
+     "sich marginalisiert fühlen",
+     "觉得被边缘化"
+    ]
+   ],
+   "tip": "由动词 marginalisieren 转成；社会学用语"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verwahrlost",
+  "pos": "adj",
+  "zh": "缺乏照料的；荒废的",
+  "ex": [
+   "Die Polizei fand ein verwahrlostes Kind in der Wohnung."
+  ],
+  "ex_zh": "警察在屋里发现了一个缺乏照料的孩子。",
+  "use": {
+   "col": [
+    [
+     "ein verwahrlostes Haus",
+     "荒废的房子"
+    ],
+    [
+     "verwahrlost wirken",
+     "显得邋遢颓废"
+    ]
+   ],
+   "tip": "名词 die Verwahrlosung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "engstirnig",
+  "pos": "adj",
+  "zh": "思想狭隘的",
+  "ex": [
+   "Seine engstirnigen Ansichten sorgten in der Familie oft für Streit."
+  ],
+  "ex_zh": "他狭隘的观点常常在家里引起争吵。",
+  "use": {
+   "col": [
+    [
+     "engstirnig denken",
+     "思想狭隘"
+    ],
+    [
+     "ein engstirniger Mensch",
+     "思想狭隘的人"
+    ]
+   ],
+   "tip": "反义 weltoffen；Stirn + eng"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "intolerant",
+  "pos": "adj",
+  "zh": "不宽容的",
+  "ex": [
+   "Er reagiert intolerant auf jede Kritik an seiner Religion."
+  ],
+  "ex_zh": "他对任何批评他的宗教的言论都毫不宽容。",
+  "gov": "intolerant gegenüber + Dat.",
+  "use": {
+   "col": [
+    [
+     "intolerant gegenüber anderen",
+     "对他人不宽容"
+    ],
+    [
+     "intolerant sein",
+     "不宽容"
+    ]
+   ],
+   "tip": "名词 die Intoleranz；反义 tolerant"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "fremdenfeindlich",
+  "pos": "adj",
+  "zh": "仇外的",
+  "ex": [
+   "Die Polizei ermittelt wegen eines fremdenfeindlichen Angriffs auf eine Flüchtlingsunterkunft im Osten."
+  ],
+  "ex_zh": "警方正在调查东部一处难民住所遭到的仇外袭击。",
+  "use": {
+   "col": [
+    [
+     "fremdenfeindliche Parolen",
+     "仇外口号"
+    ],
+    [
+     "fremdenfeindlich motiviert",
+     "出于仇外动机"
+    ]
+   ],
+   "tip": "名词 die Fremdenfeindlichkeit"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "rassistisch",
+  "pos": "adj",
+  "zh": "种族主义的",
+  "ex": [
+   "Rassistische Äußerungen sind in Deutschland strafbar, wenn sie zum Hass aufstacheln."
+  ],
+  "ex_zh": "在德国，煽动仇恨的种族主义言论是可罚的。",
+  "use": {
+   "col": [
+    [
+     "rassistische Beleidigungen",
+     "种族主义侮辱"
+    ],
+    [
+     "rassistisch motiviert",
+     "出于种族主义动机"
+    ]
+   ],
+   "tip": "名词 der Rassismus；Rassist 为人称"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "patriarchalisch",
+  "pos": "adj",
+  "zh": "父权制的；家长式的",
+  "ex": [
+   "In patriarchalischen Familien trifft meist der Vater alle wichtigen Entscheidungen."
+  ],
+  "ex_zh": "在父权制的家庭里，重要决定通常由父亲做出。",
+  "use": {
+   "col": [
+    [
+     "patriarchalische Strukturen",
+     "父权制结构"
+    ],
+    [
+     "patriarchalisch geprägt",
+     "受父权制影响"
+    ]
+   ],
+   "tip": "名词 das Patriarchat"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ethisch",
+  "pos": "adj",
+  "zh": "伦理的；道德上的",
+  "ex": [
+   "Bei der Forschung an Menschen müssen die Wissenschaftler strenge ethische Grundsätze beachten."
+  ],
+  "ex_zh": "在对人的研究中，科学家必须遵守严格的伦理原则。",
+  "use": {
+   "col": [
+    [
+     "ethische Fragen",
+     "伦理问题"
+    ],
+    [
+     "ethisch vertretbar",
+     "在伦理上可接受"
+    ]
+   ],
+   "tip": "名词 die Ethik；比 moralisch 更偏理论与专业规范"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "würdevoll",
+  "pos": "adj",
+  "zh": "庄重的；有尊严的",
+  "ex": [
+   "Die Trauerfeier verlief ruhig und würdevoll, und alle Gäste waren sehr bewegt."
+  ],
+  "ex_zh": "追悼仪式安静而庄重地进行，所有来宾都很感动。",
+  "use": {
+   "col": [
+    [
+     "würdevoll auftreten",
+     "举止庄重"
+    ],
+    [
+     "ein würdevoller Abschied",
+     "庄重的告别"
+    ]
+   ],
+   "tip": "名词 die Würde；反义 würdelos"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verpönt",
+  "pos": "adj",
+  "zh": "被唾弃的；不被接受的",
+  "ex": [
+   "Mobbing ist in unserem Betrieb streng verpönt und wird nicht geduldet."
+  ],
+  "ex_zh": "我们公司严禁欺凌行为，也不会容忍。",
+  "use": {
+   "col": [
+    [
+     "gesellschaftlich verpönt sein",
+     "在社会上不被接受"
+    ],
+    [
+     "streng verpönt",
+     "严厉禁止"
+    ]
+   ],
+   "tip": "多作表语，没有比较级；书面语"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "gängig",
+  "pos": "adj",
+  "zh": "常见的；流行的",
+  "ex": [
+   "Solche Rollenbilder sind in der älteren Generation noch gängig."
+  ],
+  "ex_zh": "这样的角色观念在老一辈中仍然很常见。",
+  "use": {
+   "col": [
+    [
+     "ein gängiger Begriff",
+     "一个常用的概念"
+    ],
+    [
+     "gängige Praxis",
+     "通行做法"
+    ]
+   ],
+   "tip": "比 üblich 更偏「流行、通用」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "herkömmlich",
+  "pos": "adj",
+  "zh": "传统的；惯常的",
+  "ex": [
+   "Das herkömmliche Familienmodell wird von vielen jungen Menschen infrage gestellt."
+  ],
+  "ex_zh": "传统的家庭模式受到许多年轻人的质疑。",
+  "use": {
+   "col": [
+    [
+     "herkömmliche Methoden",
+     "传统方法"
+    ],
+    [
+     "im herkömmlichen Sinne",
+     "按传统意义"
+    ]
+   ],
+   "tip": "名词 die Herkunft；比 traditionell 更中性、不含情感"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "zeitgemäß",
+  "pos": "adj",
+  "zh": "符合时代的",
+  "ex": [
+   "Viele Unternehmen suchen nach zeitgemäßen Modellen für die Kinderbetreuung."
+  ],
+  "ex_zh": "许多公司在寻找符合时代的儿童看护模式。",
+  "use": {
+   "col": [
+    [
+     "nicht mehr zeitgemäß sein",
+     "已不合时宜"
+    ],
+    [
+     "zeitgemäße Rollenbilder",
+     "符合时代的角色观念"
+    ]
+   ],
+   "tip": "反义 überholt、veraltet"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "überholt",
+  "pos": "adj",
+  "zh": "过时的",
+  "ex": [
+   "Dieses Rollenverständnis von Mann und Frau ist heute längst überholt."
+  ],
+  "ex_zh": "这种对男女角色的理解如今早已过时。",
+  "use": {
+   "col": [
+    [
+     "längst überholt sein",
+     "早已过时"
+    ],
+    [
+     "eine überholte Ansicht",
+     "过时的观点"
+    ]
+   ],
+   "tip": "überholen 的第二分词转成形容词；重音在 -holt"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "mündig",
+  "pos": "adj",
+  "zh": "成熟的；有独立判断能力的",
+  "ex": [
+   "Mündige Bürger informieren sich aus verschiedenen Quellen und bilden sich dann ihre eigene Meinung."
+  ],
+  "ex_zh": "有独立判断力的公民会从不同来源获取信息，然后形成自己的看法。",
+  "use": {
+   "col": [
+    [
+     "ein mündiger Bürger",
+     "有独立判断能力的公民"
+    ],
+    [
+     "mündig werden",
+     "成年"
+    ]
+   ],
+   "tip": "名词 die Mündigkeit；动词 entmündigen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "pflegebedürftig",
+  "pos": "adj",
+  "zh": "需要护理的",
+  "ex": [
+   "Immer mehr ältere Menschen werden pflegebedürftig, und es fehlen Plätze in den Heimen."
+  ],
+  "ex_zh": "越来越多的老人需要护理，而护理院里的床位不够。",
+  "use": {
+   "col": [
+    [
+     "pflegebedürftig sein",
+     "需要护理"
+    ],
+    [
+     "pflegebedürftige Angehörige",
+     "需要护理的亲属"
+    ]
+   ],
+   "tip": "名词 die Pflegebedürftigkeit"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "kinderreich",
+  "pos": "adj",
+  "zh": "子女众多的",
+  "ex": [
+   "Kinderreiche Familien haben in manchen Städten Anspruch auf zusätzliche finanzielle Unterstützung."
+  ],
+  "ex_zh": "在一些城市，多子女家庭有权获得额外的经济支持。",
+  "use": {
+   "col": [
+    [
+     "eine kinderreiche Familie",
+     "多子女家庭"
+    ],
+    [
+     "kinderreiche Haushalte",
+     "多子女户"
+    ]
+   ],
+   "tip": "-reich 表示「很多」；反义 kinderlos"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "demografisch",
+  "pos": "adj",
+  "zh": "人口结构的",
+  "ex": [
+   "Die demografische Entwicklung stellt das Rentensystem auf die Probe."
+  ],
+  "ex_zh": "人口结构的发展考验着养老金制度。",
+  "use": {
+   "col": [
+    [
+     "der demografische Wandel",
+     "人口结构变化"
+    ],
+    [
+     "demografisch bedingt",
+     "由人口结构造成"
+    ]
+   ],
+   "tip": "名词 die Demografie；也写 demographisch"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "multikulturell",
+  "pos": "adj",
+  "zh": "多元文化的",
+  "ex": [
+   "Berlin ist eine multikulturelle Stadt mit Menschen aus über 190 Ländern."
+  ],
+  "ex_zh": "柏林是一座多元文化的城市，居民来自 190 多个国家。",
+  "use": {
+   "col": [
+    [
+     "eine multikulturelle Gesellschaft",
+     "多元文化社会"
+    ],
+    [
+     "multikulturell geprägt",
+     "具有多元文化特色"
+    ]
+   ],
+   "tip": "名词 die Multikulturalität"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "atheistisch",
+  "pos": "adj",
+  "zh": "无神论的",
+  "ex": [
+   "Seine Eltern erzogen ihn atheistisch, und er ging nie in die Kirche."
+  ],
+  "ex_zh": "他的父母以无神论的方式教育他，他从没去过教堂。",
+  "use": {
+   "col": [
+    [
+     "atheistisch aufwachsen",
+     "在无神论家庭长大"
+    ],
+    [
+     "eine atheistische Weltanschauung",
+     "无神论世界观"
+    ]
+   ],
+   "tip": "名词 der Atheist、der Atheismus"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "säkular",
+  "pos": "adj",
+  "zh": "世俗的",
+  "ex": [
+   "Der deutsche Staat versteht sich als säkular und weltanschaulich neutral."
+  ],
+  "ex_zh": "德国国家自视为世俗的且在世界观上中立。",
+  "use": {
+   "col": [
+    [
+     "ein säkularer Staat",
+     "世俗国家"
+    ],
+    [
+     "säkular denken",
+     "以世俗方式思考"
+    ]
+   ],
+   "tip": "名词 die Säkularisierung；与 weltlich 近义"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "scheinheilig",
+  "pos": "adj",
+  "zh": "伪善的",
+  "ex": [
+   "Ich finde es scheinheilig, öffentlich Toleranz zu predigen und privat zu urteilen."
+  ],
+  "ex_zh": "我觉得在公开场合宣扬宽容、私下却评判别人是伪善的。",
+  "use": {
+   "col": [
+    [
+     "scheinheilig handeln",
+     "虚伪地行事"
+    ],
+    [
+     "eine scheinheilige Frage",
+     "明知故问"
+    ]
+   ],
+   "tip": "名词 die Scheinheiligkeit；近义 heuchlerisch"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "aufgeschlossen",
+  "pos": "adj",
+  "zh": "开朗的；乐于接受新事物的",
+  "ex": [
+   "Meine Nachbarn sind sehr aufgeschlossen gegenüber anderen Kulturen."
+  ],
+  "ex_zh": "我的邻居们对其他文化持非常开放的态度。",
+  "gov": "aufgeschlossen für + Akk.",
+  "use": {
+   "col": [
+    [
+     "aufgeschlossen sein für",
+     "对…持开放态度"
+    ],
+    [
+     "ein aufgeschlossener Mensch",
+     "思想开明的人"
+    ]
+   ],
+   "tip": "aufgeschlossen für / gegenüber"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "nachtragend",
+  "pos": "adj",
+  "zh": "记仇的",
+  "ex": [
+   "Sie ist überhaupt nicht nachtragend und verzeiht ihren Freunden meist sehr schnell."
+  ],
+  "ex_zh": "她一点也不记仇，通常很快就原谅朋友。",
+  "use": {
+   "col": [
+    [
+     "nachtragend sein",
+     "记仇"
+    ],
+    [
+     "nicht nachtragend",
+     "不记仇"
+    ]
+   ],
+   "tip": "由 nachtragen（记恨）而来"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "nachsichtig",
+  "pos": "adj",
+  "zh": "宽容的；体谅的",
+  "ex": [
+   "Die Lehrerin war mit den Schülern sehr nachsichtig."
+  ],
+  "ex_zh": "老师对学生们十分宽容。",
+  "gov": "nachsichtig mit + Dat.",
+  "use": {
+   "col": [
+    [
+     "nachsichtig sein mit",
+     "对…宽容"
+    ],
+    [
+     "jemanden nachsichtig behandeln",
+     "宽容地对待某人"
+    ]
+   ],
+   "tip": "名词 die Nachsicht；mit + Dat."
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "selbstlos",
+  "pos": "adj",
+  "zh": "无私的",
+  "ex": [
+   "Sie pflegte ihre kranke Mutter selbstlos über viele Jahre."
+  ],
+  "ex_zh": "她多年来无私地照顾生病的母亲。",
+  "use": {
+   "col": [
+    [
+     "selbstlos helfen",
+     "无私地帮助"
+    ],
+    [
+     "eine selbstlose Tat",
+     "无私的行为"
+    ]
+   ],
+   "tip": "名词 die Selbstlosigkeit；反义 egoistisch"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "egoistisch",
+  "pos": "adj",
+  "zh": "自私的",
+  "ex": [
+   "Egoistisches Verhalten schadet auf Dauer jeder Beziehung, egal ob privat oder im Beruf."
+  ],
+  "ex_zh": "自私的行为长期来看会伤害任何关系，无论是私人的还是工作中的。",
+  "use": {
+   "col": [
+    [
+     "egoistisch handeln",
+     "自私地行事"
+    ],
+    [
+     "ein egoistischer Mensch",
+     "自私的人"
+    ]
+   ],
+   "tip": "名词 der Egoismus、der Egoist"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "rücksichtslos",
+  "pos": "adj",
+  "zh": "不顾及他人的",
+  "ex": [
+   "Er fuhr rücksichtslos durch die Spielstraße und gefährdete dabei mehrere spielende Kinder."
+  ],
+  "ex_zh": "他毫无顾忌地驶过游戏街，危及了几个正在玩耍的孩子。",
+  "use": {
+   "col": [
+    [
+     "rücksichtslos handeln",
+     "不顾他人地行事"
+    ],
+    [
+     "ein rücksichtsloser Egoist",
+     "不顾他人的自私者"
+    ]
+   ],
+   "tip": "反义 rücksichtsvoll"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "pflichtbewusst",
+  "pos": "adj",
+  "zh": "有责任感的",
+  "ex": [
+   "Sie ist eine pflichtbewusste Kollegin und erledigt alles zuverlässig."
+  ],
+  "ex_zh": "她是个有责任感的同事，所有事情都办得可靠。",
+  "use": {
+   "col": [
+    [
+     "pflichtbewusst handeln",
+     "有责任感地行事"
+    ],
+    [
+     "ein pflichtbewusster Mensch",
+     "有责任感的人"
+    ]
+   ],
+   "tip": "名词 das Pflichtbewusstsein"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "aufopferungsvoll",
+  "pos": "adj",
+  "zh": "无私奉献的",
+  "ex": [
+   "Ihre aufopferungsvolle Pflege hat der ganzen Familie in der schweren Zeit sehr geholfen."
+  ],
+  "ex_zh": "她无私奉献的护理在艰难时期对整个家庭帮助很大。",
+  "use": {
+   "col": [
+    [
+     "aufopferungsvoll pflegen",
+     "无私奉献地护理"
+    ],
+    [
+     "eine aufopferungsvolle Mutter",
+     "不惜牺牲的母亲"
+    ]
+   ],
+   "tip": "sich aufopfern 的名词 die Aufopferung；书面"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "fürsorglich",
+  "pos": "adj",
+  "zh": "关怀备至的",
+  "ex": [
+   "Er ist ein fürsorglicher Vater und kümmert sich liebevoll um seine Kinder."
+  ],
+  "ex_zh": "他是个体贴入微的父亲，充满爱心地照顾孩子。",
+  "use": {
+   "col": [
+    [
+     "fürsorglich sein",
+     "体贴关怀"
+    ],
+    [
+     "sich fürsorglich kümmern um",
+     "体贴地照顾"
+    ]
+   ],
+   "tip": "名词 die Fürsorge；比 liebevoll 更强调「照料」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "zerrüttet",
+  "pos": "adj",
+  "zh": "破裂的；混乱的",
+  "ex": [
+   "Die zerrüttete Ehe wurde nach drei Jahren geschieden."
+  ],
+  "ex_zh": "破裂的婚姻在三年后以离婚告终。",
+  "use": {
+   "col": [
+    [
+     "eine zerrüttete Ehe",
+     "破裂的婚姻"
+    ],
+    [
+     "zerrüttete Familienverhältnisse",
+     "混乱的家庭关系"
+    ]
+   ],
+   "tip": "动词 zerrütten"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "entfremdet",
+  "pos": "adj",
+  "zh": "疏远的；陌生化的",
+  "ex": [
+   "Die Geschwister waren einander nach Jahren der Trennung entfremdet."
+  ],
+  "ex_zh": "多年分离之后，兄弟姐妹彼此变得疏远。",
+  "use": {
+   "col": [
+    [
+     "einander entfremdet sein",
+     "彼此疏远"
+    ],
+    [
+     "sich entfremdet fühlen",
+     "感到疏离"
+    ]
+   ],
+   "tip": "动词 sich entfremden；名词 die Entfremdung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ins Abseits geraten",
+  "pos": "phr",
+  "zh": "被边缘化",
+  "ex": [
+   "Wer keine Arbeit findet, gerät schnell ins Abseits."
+  ],
+  "ex_zh": "找不到工作的人很快就会被边缘化。",
+  "use": {
+   "col": [
+    [
+     "ins soziale Abseits geraten",
+     "陷入社会边缘"
+    ],
+    [
+     "jemanden ins Abseits stellen",
+     "把某人推到一边"
+    ]
+   ],
+   "tip": "助动词 sein：ist ins Abseits geraten"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "am Rande der Gesellschaft stehen",
+  "pos": "phr",
+  "zh": "处于社会边缘",
+  "ex": [
+   "Menschen ohne Wohnung und Arbeit stehen oft am Rande der Gesellschaft und werden kaum wahrgenommen."
+  ],
+  "ex_zh": "没有住所和工作的人常常处于社会边缘，几乎不被注意。",
+  "use": {
+   "col": [
+    [
+     "am Rande der Gesellschaft leben",
+     "生活在社会边缘"
+    ],
+    [
+     "an den Rand gedrängt werden",
+     "被挤到边缘"
+    ]
+   ],
+   "tip": "固定搭配；Rand 用 Dat. am Rande"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "auf der Strecke bleiben",
+  "pos": "phr",
+  "zh": "被落下；被牺牲",
+  "ex": [
+   "In der Leistungsgesellschaft bleiben die Schwächeren oft auf der Strecke."
+  ],
+  "ex_zh": "在绩效社会里，弱者常常被落下。",
+  "use": {
+   "col": [
+    [
+     "auf der Strecke bleiben",
+     "被落下、被牺牲"
+    ],
+    [
+     "die Familie bleibt auf der Strecke",
+     "家庭被牺牲"
+    ]
+   ],
+   "tip": "助动词 sein；口语、比喻"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "jemandem unter die Arme greifen",
+  "pos": "phr",
+  "zh": "帮某人一把",
+  "ex": [
+   "Als er in Not geriet, griffen ihm seine Freunde unter die Arme."
+  ],
+  "ex_zh": "他陷入困境时，朋友们帮了他一把。",
+  "use": {
+   "col": [
+    [
+     "jemandem finanziell unter die Arme greifen",
+     "在经济上帮某人一把"
+    ],
+    [
+     "einander unter die Arme greifen",
+     "互相帮忙"
+    ]
+   ],
+   "tip": "口语；greifen 的过去式 griff"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "das Gesicht wahren",
+  "pos": "phr",
+  "zh": "保全面子",
+  "ex": [
+   "Um das Gesicht zu wahren, tat er so, als sei nichts geschehen."
+  ],
+  "ex_zh": "为了保全面子，他装作什么都没发生。",
+  "use": {
+   "col": [
+    [
+     "das Gesicht verlieren",
+     "丢脸"
+    ],
+    [
+     "das Gesicht wahren",
+     "保住面子"
+    ]
+   ],
+   "tip": "动词 wahren 书面；不要说 Gesicht behalten"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "in jemandes Fußstapfen treten",
+  "pos": "phr",
+  "zh": "追随某人的脚步",
+  "ex": [
+   "Sie trat in die Fußstapfen ihrer Mutter und wurde Ärztin."
+  ],
+  "ex_zh": "她追随母亲的脚步，成为了医生。",
+  "use": {
+   "col": [
+    [
+     "in die Fußstapfen des Vaters treten",
+     "子承父业"
+    ],
+    [
+     "in große Fußstapfen treten",
+     "步大人物后尘"
+    ]
+   ],
+   "tip": "助动词 sein；固定表达"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "von der Hand in den Mund leben",
+  "pos": "phr",
+  "zh": "过着勉强糊口的日子",
+  "ex": [
+   "Viele Rentner müssen von der Hand in den Mund leben."
+  ],
+  "ex_zh": "许多领养老金的人只能勉强糊口。",
+  "use": {
+   "col": [
+    [
+     "von der Hand in den Mund leben",
+     "勉强度日"
+    ],
+    [
+     "kaum genug zum Leben haben",
+     "几乎不够生活"
+    ]
+   ],
+   "tip": "固定习语；与 über die Runden kommen 意思接近"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "am Existenzminimum leben",
+  "pos": "phr",
+  "zh": "生活在最低生活水平线上",
+  "ex": [
+   "Viele Alleinerziehende mit mehreren Kindern leben trotz Arbeit am Existenzminimum."
+  ],
+  "ex_zh": "许多带着几个孩子的单亲家长虽然工作，仍生活在最低生活水平线上。",
+  "use": {
+   "col": [
+    [
+     "am Existenzminimum leben",
+     "在最低生活水平线上"
+    ],
+    [
+     "am Existenzminimum kratzen",
+     "勉强接近生存线"
+    ]
+   ],
+   "tip": "Existenzminimum 见另一词条"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "unter die Haube kommen",
+  "pos": "phr",
+  "zh": "结婚（口语）",
+  "ex": [
+   "Sie wollte unbedingt noch vor dreißig unter die Haube kommen."
+  ],
+  "ex_zh": "她无论如何想在三十岁前结婚。",
+  "use": {
+   "col": [
+    [
+     "endlich unter die Haube kommen",
+     "终于结婚"
+    ],
+    [
+     "jemanden unter die Haube bringen",
+     "把某人嫁出去"
+    ]
+   ],
+   "tip": "口语、略带戏谑；助动词 sein"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ein Auge zudrücken",
+  "pos": "phr",
+  "zh": "睁一只眼闭一只眼",
+  "ex": [
+   "Der Lehrer drückte bei der kleinen Lüge ein Auge zu."
+  ],
+  "ex_zh": "老师对这个小谎睁一只眼闭一只眼。",
+  "use": {
+   "col": [
+    [
+     "bei etwas ein Auge zudrücken",
+     "对某事网开一面"
+    ],
+    [
+     "beide Augen zudrücken",
+     "完全放过"
+    ]
+   ],
+   "tip": "口语习语；zudrücken 为可分动词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "die Schere zwischen Arm und Reich",
+  "pos": "phr",
+  "zh": "贫富差距",
+  "ex": [
+   "Die Schere zwischen Arm und Reich geht immer weiter auseinander."
+  ],
+  "ex_zh": "贫富差距越拉越大。",
+  "use": {
+   "col": [
+    [
+     "die Schere öffnet sich",
+     "差距拉大"
+    ],
+    [
+     "die Schere schließen",
+     "缩小差距"
+    ]
+   ],
+   "tip": "名词 die Schere 已学；报纸社论常见比喻"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Ehepartner",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Ehepartner",
+  "zh": "配偶",
+  "ex": [
+   "Beide Ehepartner müssen den Antrag auf Familiennachzug persönlich unterschreiben."
+  ],
+  "ex_zh": "夫妻双方都必须亲自签署家庭团聚申请。",
+  "use": {
+   "col": [
+    [
+     "der Ehepartner / die Ehepartnerin",
+     "丈夫、妻子"
+    ],
+    [
+     "mit dem Ehepartner zusammenleben",
+     "与配偶同住"
+    ]
+   ],
+   "tip": "阴性 Ehepartnerin；表格里常见"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Familienmitglied",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Familienmitglieder",
+  "zh": "家庭成员",
+  "ex": [
+   "Zu den Feiertagen kommen alle Familienmitglieder im Haus der Großeltern zusammen."
+  ],
+  "ex_zh": "节假日里所有家庭成员都聚集在祖父母家。",
+  "use": {
+   "col": [
+    [
+     "ein Familienmitglied pflegen",
+     "照顾一位家人"
+    ],
+    [
+     "Familienmitglieder besuchen",
+     "探望家人"
+    ]
+   ],
+   "tip": "Mitglied + Familie；复数仍是 -glieder"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Großfamilie",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Großfamilien",
+  "zh": "大家庭",
+  "ex": [
+   "In einer Großfamilie helfen sich die Generationen gegenseitig im Alltag."
+  ],
+  "ex_zh": "在大家庭里，几代人在日常生活中互相帮助。",
+  "use": {
+   "col": [
+    [
+     "in einer Großfamilie aufwachsen",
+     "在大家庭里长大"
+    ],
+    [
+     "eine Großfamilie ernähren",
+     "养活一个大家庭"
+    ]
+   ],
+   "tip": "反义 Kleinfamilie"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Einzelkind",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Einzelkinder",
+  "zh": "独生子女",
+  "ex": [
+   "Als Einzelkind hatte sie nie jemanden, mit dem sie sich streiten konnte."
+  ],
+  "ex_zh": "作为独生子女，她从没有可以一起吵架的人。",
+  "use": {
+   "col": [
+    [
+     "ein Einzelkind sein",
+     "是独生子女"
+    ],
+    [
+     "als Einzelkind aufwachsen",
+     "作为独生子女长大"
+    ]
+   ],
+   "tip": "Einzel + Kind；注意 Kind 变为 Einzelkinder"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zwillinge (Pl.)",
+  "art": "die",
+  "pos": "n",
+  "zh": "双胞胎",
+  "ex": [
+   "Meine Nachbarin hat Zwillinge bekommen, einen Jungen und ein Mädchen."
+  ],
+  "ex_zh": "我的邻居生了双胞胎，一个男孩和一个女孩。",
+  "use": {
+   "col": [
+    [
+     "eineiige Zwillinge",
+     "同卵双胞胎"
+    ],
+    [
+     "zweieiige Zwillinge",
+     "异卵双胞胎"
+    ]
+   ],
+   "tip": "单数 der Zwilling 少用；也说 Zwillingsbruder"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Enkelkind",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Enkelkinder",
+  "zh": "孙辈",
+  "ex": [
+   "Die Großeltern verbringen jedes Wochenende mit ihren Enkelkindern."
+  ],
+  "ex_zh": "祖父母每个周末都和孙辈们在一起。",
+  "use": {
+   "col": [
+    [
+     "ein Enkelkind bekommen",
+     "抱上孙子（孙女）"
+    ],
+    [
+     "Enkel und Enkelinnen",
+     "孙子孙女"
+    ]
+   ],
+   "tip": "简称 der Enkel / die Enkelin"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Schwager",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Schwäger",
+  "zh": "姐（妹）夫；内兄（弟）",
+  "ex": [
+   "Mein Schwager hilft mir oft beim Umzug und beim Renovieren."
+  ],
+  "ex_zh": "我的姐夫经常帮我搬家和装修。",
+  "use": {
+   "col": [
+    [
+     "mein Schwager und meine Schwägerin",
+     "我的姐夫和嫂子"
+    ],
+    [
+     "Schwager werden",
+     "成为姐夫"
+    ]
+   ],
+   "tip": "复数变音：Schwäger；阴性 Schwägerin"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Stiefmutter",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Stiefmütter",
+  "zh": "继母",
+  "ex": [
+   "Seine Stiefmutter hat ihn von klein auf wie ein eigenes Kind behandelt."
+  ],
+  "ex_zh": "他的继母从小就把他当亲生孩子对待。",
+  "use": {
+   "col": [
+    [
+     "mit der Stiefmutter auskommen",
+     "与继母相处"
+    ],
+    [
+     "Stiefvater und Stiefmutter",
+     "继父与继母"
+    ]
+   ],
+   "tip": "Stief- 加亲属名：Stiefvater、Stiefkind；复数变音"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Patenkind",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Patenkinder",
+  "zh": "教子；教女",
+  "ex": [
+   "Zu Weihnachten schenkt sie ihrem Patenkind immer ein Buch."
+  ],
+  "ex_zh": "圣诞节她总是送给教子一本书。",
+  "use": {
+   "col": [
+    [
+     "ein Patenkind haben",
+     "有一个教子（女）"
+    ],
+    [
+     "Patenonkel / Patentante",
+     "教父、教母"
+    ]
+   ],
+   "tip": "Pate / Patin 是长辈，Patenkind 是受洗的孩子"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Jugendamt",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Jugendämter",
+  "zh": "青少年福利局",
+  "ex": [
+   "Das Jugendamt prüft, ob das Wohl des Kindes in der Familie gesichert ist."
+  ],
+  "ex_zh": "青少年福利局审查孩子的福祉在家中是否有保障。",
+  "use": {
+   "col": [
+    [
+     "sich ans Jugendamt wenden",
+     "向青少年福利局求助"
+    ],
+    [
+     "das Jugendamt einschalten",
+     "请青少年福利局介入"
+    ]
+   ],
+   "tip": "管儿童保护、监护、托育等；德国特有机构"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Krippe",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Krippen",
+  "zh": "托儿所（三岁以下）",
+  "ex": [
+   "Viele Eltern suchen schon vor der Geburt einen Platz in einer Krippe."
+  ],
+  "ex_zh": "许多父母在孩子出生前就开始寻找托儿所的名额。",
+  "use": {
+   "col": [
+    [
+     "einen Krippenplatz bekommen",
+     "拿到托儿所名额"
+    ],
+    [
+     "das Kind in die Krippe bringen",
+     "送孩子去托儿所"
+    ]
+   ],
+   "tip": "三岁以下；三岁以上才是 Kindergarten；也有「圣诞马槽」义"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kulturschock",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Kulturschocks",
+  "zh": "文化冲击",
+  "ex": [
+   "Nach der Ankunft in Deutschland hatte sie zuerst einen kleinen Kulturschock."
+  ],
+  "ex_zh": "抵达德国后，她起初有一点文化冲击。",
+  "use": {
+   "col": [
+    [
+     "einen Kulturschock erleben",
+     "经历文化冲击"
+    ],
+    [
+     "einen Kulturschock überwinden",
+     "克服文化冲击"
+    ]
+   ],
+   "tip": "Kultur + Schock；复数也可 Kulturschocks"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Sprachbarriere",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Sprachbarrieren",
+  "zh": "语言障碍",
+  "ex": [
+   "Die Sprachbarriere macht den Behördengang für viele Zugewanderte schwierig."
+  ],
+  "ex_zh": "语言障碍使许多外来者去办事机构很困难。",
+  "use": {
+   "col": [
+    [
+     "eine Sprachbarriere überwinden",
+     "克服语言障碍"
+    ],
+    [
+     "an der Sprachbarriere scheitern",
+     "因语言障碍而受挫"
+    ]
+   ],
+   "tip": "Barriere 重音在 -ri-，读 [baˈri̯eːrə]"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gruppenzwang",
+  "art": "der",
+  "pos": "n",
+  "zh": "群体压力",
+  "ex": [
+   "Aus Gruppenzwang hat er mit dem Rauchen angefangen, obwohl er es nicht wollte."
+  ],
+  "ex_zh": "出于群体压力，他开始抽烟，虽然并不想抽。",
+  "use": {
+   "col": [
+    [
+     "unter Gruppenzwang stehen",
+     "处于群体压力之下"
+    ],
+    [
+     "dem Gruppenzwang nachgeben",
+     "屈服于群体压力"
+    ]
+   ],
+   "tip": "Gruppe + Zwang；青少年话题常见"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Statussymbol",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Statussymbole",
+  "zh": "身份象征",
+  "ex": [
+   "Für manche Menschen ist ein teures Auto ein wichtiges Statussymbol."
+  ],
+  "ex_zh": "对有些人来说，一辆昂贵的汽车是重要的身份象征。",
+  "use": {
+   "col": [
+    [
+     "ein Statussymbol besitzen",
+     "拥有身份象征"
+    ],
+    [
+     "als Statussymbol gelten",
+     "被视为身份象征"
+    ]
+   ],
+   "tip": "Status 读 [ˈʃtaːtʊs]"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Neid",
+  "art": "der",
+  "pos": "n",
+  "zh": "嫉妒",
+  "ex": [
+   "Der Neid auf den Erfolg der Kollegen vergiftete die Stimmung im Team."
+  ],
+  "ex_zh": "对同事成功的嫉妒毒害了团队的氛围。",
+  "use": {
+   "col": [
+    [
+     "vor Neid platzen",
+     "嫉妒得要死"
+    ],
+    [
+     "blass vor Neid",
+     "嫉妒得脸色发白"
+    ]
+   ],
+   "tip": "形容词 neidisch；没有复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Versöhnung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Versöhnungen",
+  "zh": "和解",
+  "ex": [
+   "Nach Jahren des Streits kam es endlich zur Versöhnung zwischen den Brüdern."
+  ],
+  "ex_zh": "经过多年的争吵，兄弟俩终于和解了。",
+  "use": {
+   "col": [
+    [
+     "zur Versöhnung kommen",
+     "达成和解"
+    ],
+    [
+     "eine Versöhnung herbeiführen",
+     "促成和解"
+    ]
+   ],
+   "tip": "动词 sich versöhnen；Versöhnungsgeste"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kindererziehung",
+  "art": "die",
+  "pos": "n",
+  "zh": "育儿；子女教育",
+  "ex": [
+   "Über die richtige Kindererziehung streiten sich die Eltern oft."
+  ],
+  "ex_zh": "父母常常为正确的育儿方式争吵。",
+  "use": {
+   "col": [
+    [
+     "moderne Kindererziehung",
+     "现代育儿"
+    ],
+    [
+     "in Fragen der Kindererziehung",
+     "在子女教育问题上"
+    ]
+   ],
+   "tip": "Kinder + Erziehung（连接成分 -er-）；没有复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Lebensabschnitt",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Lebensabschnitte",
+  "zh": "人生阶段",
+  "ex": [
+   "Mit dem Studium beginnt für viele Menschen ein neuer Lebensabschnitt."
+  ],
+  "ex_zh": "对许多人来说，上大学意味着一个新的人生阶段开始。",
+  "use": {
+   "col": [
+    [
+     "ein neuer Lebensabschnitt",
+     "新的人生阶段"
+    ],
+    [
+     "einen Lebensabschnitt abschließen",
+     "结束一个人生阶段"
+    ]
+   ],
+   "tip": "相近 Lebensphase"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Lebensweise",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Lebensweisen",
+  "zh": "生活方式",
+  "ex": [
+   "Eine gesunde Lebensweise mit viel Bewegung ist wichtig für das Alter."
+  ],
+  "ex_zh": "多运动的健康生活方式对晚年很重要。",
+  "use": {
+   "col": [
+    [
+     "eine nachhaltige Lebensweise",
+     "可持续的生活方式"
+    ],
+    [
+     "eine andere Lebensweise haben",
+     "有不同的生活方式"
+    ]
+   ],
+   "tip": "与 Lebensstil 近义；Weise 为阴性"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Lebensgemeinschaft",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Lebensgemeinschaften",
+  "zh": "共同生活的伴侣关系",
+  "ex": [
+   "Die nichteheliche Lebensgemeinschaft ist in Deutschland weit verbreitet."
+  ],
+  "ex_zh": "非婚同居的伴侣关系在德国很普遍。",
+  "use": {
+   "col": [
+    [
+     "eine eheähnliche Lebensgemeinschaft",
+     "类似婚姻的同居关系"
+    ],
+    [
+     "in einer Lebensgemeinschaft leben",
+     "过共同生活"
+    ]
+   ],
+   "tip": "法律用语；也指 Gemeinschaft des Lebens"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Lebenspartner",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Lebenspartner",
+  "zh": "生活伴侣",
+  "ex": [
+   "Mein Lebenspartner und ich wollen nächstes Jahr gemeinsam in eine größere Wohnung ziehen."
+  ],
+  "ex_zh": "我和我的生活伴侣想明年一起搬进更大的房子。",
+  "use": {
+   "col": [
+    [
+     "eingetragener Lebenspartner",
+     "登记的生活伴侣"
+    ],
+    [
+     "mit dem Lebenspartner zusammenleben",
+     "与伴侣同居"
+    ]
+   ],
+   "tip": "阴性 Lebenspartnerin；比 Lebensgefährte 更法律化"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Heiratsantrag",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Heiratsanträge",
+  "zh": "求婚",
+  "ex": [
+   "Er hat ihr an ihrem Geburtstag einen Heiratsantrag gemacht."
+  ],
+  "ex_zh": "他在她生日那天向她求婚。",
+  "use": {
+   "col": [
+    [
+     "einen Heiratsantrag machen",
+     "求婚"
+    ],
+    [
+     "einen Heiratsantrag annehmen",
+     "接受求婚"
+    ]
+   ],
+   "tip": "Heirat + Antrag；动词搭配用 machen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Trauzeuge",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Trauzeugen",
+  "zh": "婚礼证婚人",
+  "ex": [
+   "Mein bester Freund war bei der Hochzeit mein Trauzeuge."
+  ],
+  "ex_zh": "我最好的朋友在婚礼上做我的证婚人。",
+  "use": {
+   "col": [
+    [
+     "Trauzeuge sein",
+     "担任证婚人"
+    ],
+    [
+     "Trauzeugin",
+     "女证婚人"
+    ]
+   ],
+   "tip": "德国民政登记时需要证婚人；阴性 Trauzeugin"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Flitterwochen (Pl.)",
+  "art": "die",
+  "pos": "n",
+  "zh": "蜜月",
+  "ex": [
+   "Ihre Flitterwochen verbrachten sie zwei Wochen lang auf einer griechischen Insel."
+  ],
+  "ex_zh": "他们在一座希腊小岛上度过了两周蜜月。",
+  "use": {
+   "col": [
+    [
+     "in die Flitterwochen fahren",
+     "去度蜜月"
+    ],
+    [
+     "die Flitterwochen genießen",
+     "享受蜜月"
+    ]
+   ],
+   "tip": "只有复数；口语也说 Honeymoon"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Bekanntschaft",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Bekanntschaften",
+  "zh": "相识；熟人",
+  "ex": [
+   "Auf der Reise machte er die Bekanntschaft einer netten Familie aus Spanien."
+  ],
+  "ex_zh": "旅行中他结识了一户来自西班牙的好人家。",
+  "use": {
+   "col": [
+    [
+     "Bekanntschaft machen mit",
+     "结识…"
+    ],
+    [
+     "eine flüchtige Bekanntschaft",
+     "泛泛之交"
+    ]
+   ],
+   "tip": "比 Freundschaft 浅；Bekannte 是熟人"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kumpel",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Kumpel",
+  "zh": "哥们；伙伴",
+  "ex": [
+   "Mit meinen Kumpels gehe ich jeden Freitag zum Fußballspielen."
+  ],
+  "ex_zh": "我每个星期五都和哥们儿去踢球。",
+  "use": {
+   "col": [
+    [
+     "ein guter Kumpel",
+     "好哥们"
+    ],
+    [
+     "mit den Kumpels weggehen",
+     "和哥们儿出去玩"
+    ]
+   ],
+   "tip": "口语；也指「矿工」；复数不变"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Nachbarschaftshilfe",
+  "art": "die",
+  "pos": "n",
+  "zh": "邻里互助",
+  "ex": [
+   "Dank der Nachbarschaftshilfe kann sie auch im Alter in ihrer Wohnung bleiben."
+  ],
+  "ex_zh": "多亏邻里互助，她到老了也能留在自己家里。",
+  "use": {
+   "col": [
+    [
+     "Nachbarschaftshilfe leisten",
+     "提供邻里互助"
+    ],
+    [
+     "Nachbarschaftshilfe organisieren",
+     "组织邻里互助"
+    ]
+   ],
+   "tip": "没有复数；老人和疫情期间常见"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Altenpflege",
+  "art": "die",
+  "pos": "n",
+  "zh": "养老护理",
+  "ex": [
+   "Die Altenpflege ist ein Beruf mit großer Verantwortung und vielen Zukunftsperspektiven."
+  ],
+  "ex_zh": "养老护理是一个责任重大且前景广阔的职业。",
+  "use": {
+   "col": [
+    [
+     "in der Altenpflege arbeiten",
+     "从事养老护理"
+    ],
+    [
+     "Altenpfleger / Altenpflegerin",
+     "养老护理员"
+    ]
+   ],
+   "tip": "Alten- + Pflege；没有复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kloster",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Klöster",
+  "zh": "修道院",
+  "ex": [
+   "Das alte Kloster auf dem Berg ist heute ein beliebtes Ausflugsziel."
+  ],
+  "ex_zh": "山上那座古老的修道院如今是受欢迎的游览目的地。",
+  "use": {
+   "col": [
+    [
+     "ins Kloster gehen",
+     "进修道院"
+    ],
+    [
+     "im Kloster leben",
+     "住在修道院"
+    ]
+   ],
+   "tip": "复数变音；Mönch / Nonne 住在 Kloster"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Bibel",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Bibeln",
+  "zh": "《圣经》",
+  "ex": [
+   "Er liest jeden Abend einige Seiten in der Bibel."
+  ],
+  "ex_zh": "他每天晚上读几页《圣经》。",
+  "use": {
+   "col": [
+    [
+     "in der Bibel stehen",
+     "写在《圣经》里"
+    ],
+    [
+     "die Bibel lesen",
+     "读《圣经》"
+    ]
+   ],
+   "tip": "形容词 biblisch；伊斯兰教的经典是 der Koran"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Seele",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Seelen",
+  "zh": "灵魂；心灵",
+  "ex": [
+   "Die Musik tut meiner Seele gut und hilft mir beim Entspannen."
+  ],
+  "ex_zh": "音乐对我的心灵有益，帮我放松。",
+  "use": {
+   "col": [
+    [
+     "jemandem aus der Seele sprechen",
+     "说出某人的心声"
+    ],
+    [
+     "mit Leib und Seele",
+     "全身心地"
+    ]
+   ],
+   "tip": "形容词 seelisch；Seele 单数变格不加 n"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Religionsunterricht",
+  "art": "der",
+  "pos": "n",
+  "zh": "宗教课",
+  "ex": [
+   "In vielen Bundesländern können Kinder zwischen Religions- und Ethikunterricht wählen."
+  ],
+  "ex_zh": "在许多联邦州，孩子们可以在宗教课和伦理课之间选择。",
+  "use": {
+   "col": [
+    [
+     "am Religionsunterricht teilnehmen",
+     "上宗教课"
+    ],
+    [
+     "vom Religionsunterricht abgemeldet sein",
+     "免修宗教课"
+    ]
+   ],
+   "tip": "各联邦州规定不同；Religion 已学"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kopftuch",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Kopftücher",
+  "zh": "头巾",
+  "ex": [
+   "Über das Kopftuch im Beruf wird in Deutschland immer wieder diskutiert."
+  ],
+  "ex_zh": "在德国，人们一再讨论职场中戴头巾的问题。",
+  "use": {
+   "col": [
+    [
+     "ein Kopftuch tragen",
+     "戴头巾"
+    ],
+    [
+     "das Kopftuchverbot",
+     "头巾禁令"
+    ]
+   ],
+   "tip": "Kopf + Tuch；复数变音"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Religionsfreiheit",
+  "art": "die",
+  "pos": "n",
+  "zh": "宗教自由",
+  "ex": [
+   "Die Religionsfreiheit ist im Grundgesetz ausdrücklich geschützt und gilt für alle Menschen."
+  ],
+  "ex_zh": "宗教自由在基本法中受到明确保护，适用于所有人。",
+  "use": {
+   "col": [
+    [
+     "die Religionsfreiheit garantieren",
+     "保障宗教自由"
+    ],
+    [
+     "die Religionsfreiheit einschränken",
+     "限制宗教自由"
+    ]
+   ],
+   "tip": "基本法第 4 条；没有复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Trauerfeier",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Trauerfeiern",
+  "zh": "追悼仪式",
+  "ex": [
+   "Zur Trauerfeier kamen Freunde und Verwandte aus ganz Deutschland."
+  ],
+  "ex_zh": "朋友和亲戚从德国各地赶来参加追悼仪式。",
+  "use": {
+   "col": [
+    [
+     "an der Trauerfeier teilnehmen",
+     "参加追悼仪式"
+    ],
+    [
+     "eine Trauerfeier abhalten",
+     "举行追悼仪式"
+    ]
+   ],
+   "tip": "Trauer + Feier；Trauerkarte 是慰问卡"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Grab",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Gräber",
+  "zh": "墓",
+  "ex": [
+   "Jedes Jahr legt sie Blumen auf das Grab ihres Vaters."
+  ],
+  "ex_zh": "每年她都在父亲的墓前献花。",
+  "use": {
+   "col": [
+    [
+     "ein Grab besuchen",
+     "扫墓"
+    ],
+    [
+     "am Grab stehen",
+     "站在墓旁"
+    ]
+   ],
+   "tip": "复数变音：Gräber；动词 graben 是「挖」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Sarg",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Särge",
+  "zh": "棺材",
+  "ex": [
+   "Der Sarg wurde von sechs Männern aus der Kirche getragen."
+  ],
+  "ex_zh": "棺材由六个男人从教堂里抬出。",
+  "use": {
+   "col": [
+    [
+     "einen Sarg tragen",
+     "抬棺材"
+    ],
+    [
+     "im Sarg liegen",
+     "躺在棺材里"
+    ]
+   ],
+   "tip": "复数变音：Särge"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Todesfall",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Todesfälle",
+  "zh": "死亡事件；丧事",
+  "ex": [
+   "Wegen eines Todesfalls in der Familie ist er heute nicht im Büro."
+  ],
+  "ex_zh": "由于家中有丧事，他今天不在办公室。",
+  "use": {
+   "col": [
+    [
+     "ein Todesfall in der Familie",
+     "家里有丧事"
+    ],
+    [
+     "im Todesfall",
+     "一旦死亡"
+    ]
+   ],
+   "tip": "职场请假说法：Wegen eines Todesfalls"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Witwe",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Witwen",
+  "zh": "寡妇",
+  "ex": [
+   "Die Witwe lebt von einer kleinen Rente und der Unterstützung ihrer Kinder."
+  ],
+  "ex_zh": "这位寡妇靠一点养老金和子女的帮助生活。",
+  "use": {
+   "col": [
+    [
+     "Witwe werden",
+     "成为寡妇"
+    ],
+    [
+     "eine junge Witwe",
+     "年轻的寡妇"
+    ]
+   ],
+   "tip": "男性 der Witwer；形容词 verwitwet"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "zusammenziehen",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "zusammengezogen",
+  "forms": "zieht zusammen, zog zusammen, ist zusammengezogen",
+  "zh": "搬到一起住",
+  "ex": [
+   "Nach zwei Jahren Beziehung sind die beiden endlich zusammengezogen."
+  ],
+  "ex_zh": "交往两年后，两人终于搬到一起住了。",
+  "use": {
+   "col": [
+    [
+     "mit dem Partner zusammenziehen",
+     "与伴侣同居"
+    ],
+    [
+     "in eine gemeinsame Wohnung zusammenziehen",
+     "搬进共同的住所"
+    ]
+   ],
+   "tip": "可分动词；助动词 sein"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich anvertrauen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "anvertraut",
+  "forms": "vertraut sich an, vertraute sich an, hat sich anvertraut",
+  "zh": "向…倾诉；把…托付给",
+  "ex": [
+   "Das Mädchen vertraute sich ihrer Lehrerin an und erzählte von den Problemen."
+  ],
+  "ex_zh": "女孩向老师倾诉，讲述了自己的问题。",
+  "gov": "sich jemandem anvertrauen",
+  "use": {
+   "col": [
+    [
+     "sich jemandem anvertrauen",
+     "向某人倾诉"
+    ],
+    [
+     "jemandem ein Kind anvertrauen",
+     "把孩子托付给某人"
+    ]
+   ],
+   "tip": "支配三格；p2 anvertraut（不加 ge-）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verheimlichen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verheimlicht",
+  "forms": "verheimlicht, verheimlichte, hat verheimlicht",
+  "zh": "隐瞒",
+  "ex": [
+   "Er hat seiner Familie lange verheimlicht, dass er seinen Job verloren hatte."
+  ],
+  "ex_zh": "他长期向家人隐瞒自己失业的事。",
+  "gov": "etwas vor jemandem verheimlichen",
+  "use": {
+   "col": [
+    [
+     "etwas vor jemandem verheimlichen",
+     "向某人隐瞒某事"
+    ],
+    [
+     "nichts zu verheimlichen haben",
+     "没什么需要隐瞒"
+    ]
+   ],
+   "tip": "不可分动词；近义 verschweigen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verschweigen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verschwiegen",
+  "forms": "verschweigt, verschwieg, hat verschwiegen",
+  "zh": "隐瞒不说",
+  "ex": [
+   "Sie verschwieg ihren Eltern, dass sie die Prüfung nicht bestanden hatte."
+  ],
+  "ex_zh": "她没有告诉父母自己没通过考试。",
+  "gov": "jemandem etwas verschweigen",
+  "use": {
+   "col": [
+    [
+     "jemandem etwas verschweigen",
+     "对某人隐瞒某事"
+    ],
+    [
+     "die Wahrheit verschweigen",
+     "隐瞒真相"
+    ]
+   ],
+   "tip": "与 verheimlichen 不同：更偏「不说出来」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "gestehen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gestanden",
+  "forms": "gesteht, gestand, hat gestanden",
+  "zh": "承认；坦白",
+  "ex": [
+   "Er gestand seiner Frau, dass er das Geld verspielt hatte."
+  ],
+  "ex_zh": "他向妻子坦白自己把钱输光了。",
+  "gov": "jemandem etwas gestehen",
+  "use": {
+   "col": [
+    [
+     "einen Fehler gestehen",
+     "承认错误"
+    ],
+    [
+     "die Wahrheit gestehen",
+     "坦白真相"
+    ]
+   ],
+   "tip": "名词 das Geständnis"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "beneiden",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "beneidet",
+  "forms": "beneidet, beneidete, hat beneidet",
+  "zh": "羡慕；嫉妒",
+  "ex": [
+   "Viele beneiden ihn um sein ruhiges Leben auf dem Land."
+  ],
+  "ex_zh": "很多人羡慕他在乡下的平静生活。",
+  "gov": "jemanden um etwas beneiden",
+  "use": {
+   "col": [
+    [
+     "jemanden um etwas beneiden",
+     "羡慕某人的某物"
+    ],
+    [
+     "nicht zu beneiden sein",
+     "让人不羡慕"
+    ]
+   ],
+   "tip": "名词 der Neid；beneiden um + Akk."
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "fasten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gefastet",
+  "forms": "fastet, fastete, hat gefastet",
+  "zh": "斋戒；禁食",
+  "ex": [
+   "Im Ramadan fasten gläubige Muslime von Sonnenaufgang bis Sonnenuntergang."
+  ],
+  "ex_zh": "斋月里虔诚的穆斯林从日出到日落禁食。",
+  "use": {
+   "col": [
+    [
+     "im Ramadan fasten",
+     "斋月禁食"
+    ],
+    [
+     "vor Ostern fasten",
+     "复活节前斋戒"
+    ]
+   ],
+   "tip": "名词 die Fastenzeit；也指减肥式禁食"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "überleben",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "überlebt",
+  "forms": "überlebt, überlebte, hat überlebt",
+  "zh": "幸存；活得比…久",
+  "ex": [
+   "Er überlebte den schweren Unfall nur mit viel Glück."
+  ],
+  "ex_zh": "他在这场严重事故中侥幸活了下来。",
+  "use": {
+   "col": [
+    [
+     "einen Unfall überleben",
+     "在事故中幸存"
+    ],
+    [
+     "jemanden um viele Jahre überleben",
+     "比某人多活很多年"
+    ]
+   ],
+   "tip": "名词 der Überlebende；不可分动词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "umkommen",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "umgekommen",
+  "forms": "kommt um, kam um, ist umgekommen",
+  "zh": "遇难；丧生",
+  "ex": [
+   "Bei dem Brand sind drei Menschen umgekommen und viele verletzt worden."
+  ],
+  "ex_zh": "火灾中有三人丧生，多人受伤。",
+  "use": {
+   "col": [
+    [
+     "bei einem Unfall umkommen",
+     "在事故中丧生"
+    ],
+    [
+     "ums Leben kommen",
+     "丧生"
+    ]
+   ],
+   "tip": "可分动词；助动词 sein；书面常说 ums Leben kommen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verlobt",
+  "pos": "adj",
+  "zh": "已订婚的",
+  "ex": [
+   "Die beiden sind seit einem halben Jahr verlobt und planen die Hochzeit."
+  ],
+  "ex_zh": "两人订婚已有半年，正在筹备婚礼。",
+  "use": {
+   "col": [
+    [
+     "verlobt sein",
+     "已订婚"
+    ],
+    [
+     "mit jemandem verlobt sein",
+     "与某人订婚"
+    ]
+   ],
+   "tip": "名词 der / die Verlobte、die Verlobung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "untreu",
+  "pos": "adj",
+  "zh": "不忠的",
+  "ex": [
+   "Er war seiner Frau untreu und verließ dadurch die Familie."
+  ],
+  "ex_zh": "他对妻子不忠，因此离开了家庭。",
+  "use": {
+   "col": [
+    [
+     "jemandem untreu sein",
+     "对某人不忠"
+    ],
+    [
+     "untreu werden",
+     "变得不忠"
+    ]
+   ],
+   "tip": "名词 die Untreue；反义 treu"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "aufrichtig",
+  "pos": "adj",
+  "zh": "真诚的",
+  "ex": [
+   "Ich möchte mich aufrichtig bei Ihnen für die Hilfe bedanken."
+  ],
+  "ex_zh": "我想真诚地为您的帮助向您道谢。",
+  "use": {
+   "col": [
+    [
+     "aufrichtig sein",
+     "真诚"
+    ],
+    [
+     "aufrichtiges Mitgefühl",
+     "真诚的同情"
+    ]
+   ],
+   "tip": "名词 die Aufrichtigkeit；近义 ehrlich"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "gutmütig",
+  "pos": "adj",
+  "zh": "心地善良的；脾气好的",
+  "ex": [
+   "Der gutmütige Nachbar hilft immer, wenn jemand Hilfe braucht."
+  ],
+  "ex_zh": "心地善良的邻居总是在有人需要帮助时伸出援手。",
+  "use": {
+   "col": [
+    [
+     "ein gutmütiger Mensch",
+     "心地善良的人"
+    ],
+    [
+     "gutmütig lächeln",
+     "和善地微笑"
+    ]
+   ],
+   "tip": "名词 die Gutmütigkeit；有时略带「太好说话」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "geizig",
+  "pos": "adj",
+  "zh": "吝啬的",
+  "ex": [
+   "Mein Onkel ist so geizig, dass er sogar bei Geschenken spart."
+  ],
+  "ex_zh": "我叔叔吝啬到连礼物都要省。",
+  "use": {
+   "col": [
+    [
+     "geizig sein",
+     "吝啬"
+    ],
+    [
+     "geizig mit etwas sein",
+     "对某物很吝啬"
+    ]
+   ],
+   "tip": "名词 der Geiz；反义 großzügig"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "kinderfreundlich",
+  "pos": "adj",
+  "zh": "对儿童友好的",
+  "ex": [
+   "Die Stadt will kinderfreundlicher werden und baut mehr Spielplätze und Radwege."
+  ],
+  "ex_zh": "这座城市想变得更对儿童友好，所以建了更多游乐场和自行车道。",
+  "use": {
+   "col": [
+    [
+     "ein kinderfreundliches Restaurant",
+     "对儿童友好的餐厅"
+    ],
+    [
+     "kinderfreundlich gestaltet",
+     "为儿童设计"
+    ]
+   ],
+   "tip": "-freundlich 加名词：familienfreundlich、umwel"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "familienfreundlich",
+  "pos": "adj",
+  "zh": "对家庭友好的",
+  "ex": [
+   "Unsere Firma bietet familienfreundliche Arbeitszeiten und Home-Office für Eltern an."
+  ],
+  "ex_zh": "我们公司为父母提供对家庭友好的工作时间和居家办公。",
+  "use": {
+   "col": [
+    [
+     "ein familienfreundlicher Arbeitgeber",
+     "对家庭友好的雇主"
+    ],
+    [
+     "familienfreundlich gestalten",
+     "设计得对家庭友好"
+    ]
+   ],
+   "tip": "职场招聘里常见"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "jugendlich",
+  "pos": "adj",
+  "zh": "青少年的；年轻的",
+  "ex": [
+   "Der jugendliche Täter wurde zu gemeinnütziger Arbeit verurteilt."
+  ],
+  "ex_zh": "这名未成年的作案者被判处公益劳动。",
+  "use": {
+   "col": [
+    [
+     "jugendliche Straftäter",
+     "未成年犯罪者"
+    ],
+    [
+     "jugendlicher Leichtsinn",
+     "年轻人的轻率"
+    ]
+   ],
+   "tip": "名词 die Jugend；形容词 jung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "kindisch",
+  "pos": "adj",
+  "zh": "幼稚的",
+  "ex": [
+   "Sein kindisches Verhalten auf der Feier war allen Gästen peinlich."
+  ],
+  "ex_zh": "他在派对上幼稚的行为让所有宾客感到尴尬。",
+  "use": {
+   "col": [
+    [
+     "sich kindisch benehmen",
+     "举止幼稚"
+    ],
+    [
+     "kindisch sein",
+     "幼稚"
+    ]
+   ],
+   "tip": "有贬义；kindlich 是中性的「孩子般的」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "überfordert",
+  "pos": "adj",
+  "zh": "不堪重负的",
+  "ex": [
+   "Viele junge Eltern fühlen sich mit Beruf und Kindern völlig überfordert."
+  ],
+  "ex_zh": "许多年轻父母觉得兼顾工作和孩子让人不堪重负。",
+  "gov": "überfordert mit + Dat.",
+  "use": {
+   "col": [
+    [
+     "sich überfordert fühlen",
+     "觉得难以承受"
+    ],
+    [
+     "mit etwas überfordert sein",
+     "对某事力不从心"
+    ]
+   ],
+   "tip": "动词 überfordern；名词 die Überforderung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "kirchlich",
+  "pos": "adj",
+  "zh": "教会的",
+  "ex": [
+   "Sie haben sich im kleinen Kreis kirchlich trauen lassen."
+  ],
+  "ex_zh": "他们在小范围内举行了教堂婚礼。",
+  "use": {
+   "col": [
+    [
+     "eine kirchliche Trauung",
+     "教堂婚礼"
+    ],
+    [
+     "kirchliche Feiertage",
+     "教会节日"
+    ]
+   ],
+   "tip": "名词 die Kirche；对应 standesamtlich"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "evangelisch",
+  "pos": "adj",
+  "zh": "新教的",
+  "ex": [
+   "Die Hälfte der Dorfbewohner ist evangelisch, die andere Hälfte katholisch."
+  ],
+  "ex_zh": "村里一半的居民是新教徒，另一半是天主教徒。",
+  "use": {
+   "col": [
+    [
+     "evangelisch getauft sein",
+     "受过新教洗礼"
+    ],
+    [
+     "die evangelische Kirche",
+     "新教教会"
+    ]
+   ],
+   "tip": "德国两大教派：evangelisch 与 katholisch；不是「福音派」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "katholisch",
+  "pos": "adj",
+  "zh": "天主教的",
+  "ex": [
+   "Er wuchs in einer streng katholischen Familie in Bayern auf."
+  ],
+  "ex_zh": "他在巴伐利亚一个严格的天主教家庭长大。",
+  "use": {
+   "col": [
+    [
+     "katholisch sein",
+     "是天主教徒"
+    ],
+    [
+     "die katholische Kirche",
+     "天主教教会"
+    ]
+   ],
+   "tip": "名词 der Katholik；反义 evangelisch"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "heilig",
+  "pos": "adj",
+  "zh": "神圣的",
+  "ex": [
+   "Für Muslime ist Mekka die heiligste Stadt der Welt."
+  ],
+  "ex_zh": "对穆斯林来说，麦加是世界上最神圣的城市。",
+  "use": {
+   "col": [
+    [
+     "ein heiliger Ort",
+     "圣地"
+    ],
+    [
+     "Heiligabend",
+     "平安夜"
+    ]
+   ],
+   "tip": "名词 der Heilige、die Heiligkeit"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verstorben",
+  "pos": "adj",
+  "zh": "已故的",
+  "ex": [
+   "Der verstorbene Vater hinterließ der Familie ein kleines Haus."
+  ],
+  "ex_zh": "已故的父亲给家人留下了一栋小房子。",
+  "use": {
+   "col": [
+    [
+     "der Verstorbene",
+     "逝者"
+    ],
+    [
+     "verstorben sein",
+     "已去世"
+    ]
+   ],
+   "tip": "sterben 的第二分词转成形容词；比 tot 更委婉"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "mehrsprachig",
+  "pos": "adj",
+  "zh": "多语的",
+  "ex": [
+   "Viele Kinder von Einwanderern wachsen mehrsprachig auf und sprechen drei Sprachen."
+  ],
+  "ex_zh": "许多移民的孩子在多语环境中长大，会说三种语言。",
+  "use": {
+   "col": [
+    [
+     "mehrsprachig aufwachsen",
+     "在多语环境中成长"
+    ],
+    [
+     "eine mehrsprachige Familie",
+     "多语家庭"
+    ]
+   ],
+   "tip": "名词 die Mehrsprachigkeit"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "einheimisch",
+  "pos": "adj",
+  "zh": "本地的；本国的",
+  "ex": [
+   "Die einheimische Bevölkerung freut sich über den neuen Wochenmarkt."
+  ],
+  "ex_zh": "当地居民对新的周末集市很高兴。",
+  "use": {
+   "col": [
+    [
+     "die einheimische Bevölkerung",
+     "本地居民"
+    ],
+    [
+     "einheimische Produkte",
+     "本地产品"
+    ]
+   ],
+   "tip": "名词 der Einheimische；反义 fremd"
+  }
+ }
+]

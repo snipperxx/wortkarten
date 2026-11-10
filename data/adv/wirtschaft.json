@@ -1,0 +1,8913 @@
+[
+ {
+  "lv": "B2",
+  "lemma": "Lastschrift",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Lastschriften",
+  "zh": "银行直接扣款",
+  "ex": [
+   "Die Miete wird jeden Monat per Lastschrift abgebucht."
+  ],
+  "ex_zh": "房租每个月通过银行扣款自动划走。",
+  "use": {
+   "col": [
+    [
+     "per Lastschrift zahlen",
+     "用直接扣款支付"
+    ],
+    [
+     "eine Lastschrift zurückgeben",
+     "退回一笔扣款"
+    ]
+   ],
+   "tip": "常与 SEPA-Lastschriftmandat（扣款授权）连用"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Dauerauftrag",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Daueraufträge",
+  "zh": "定期转账（常设转账指令）",
+  "ex": [
+   "Ich habe für die Miete einen Dauerauftrag eingerichtet."
+  ],
+  "ex_zh": "我为房租设置了定期转账。",
+  "use": {
+   "col": [
+    [
+     "einen Dauerauftrag einrichten",
+     "设置定期转账"
+    ],
+    [
+     "den Dauerauftrag kündigen",
+     "取消定期转账"
+    ]
+   ],
+   "tip": "金额固定、日期固定；Lastschrift 则由收款方发起"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kontostand",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Kontostände",
+  "zh": "账户余额",
+  "ex": [
+   "Vor dem Einkauf prüfe ich kurz meinen Kontostand in der App."
+  ],
+  "ex_zh": "购物前我先在 App 里看一下账户余额。",
+  "use": {
+   "col": [
+    [
+     "den Kontostand abfragen",
+     "查询账户余额"
+    ],
+    [
+     "ein negativer Kontostand",
+     "账户透支（余额为负）"
+    ]
+   ],
+   "tip": "同义：Guthaben（正余额）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kontoauszug",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Kontoauszüge",
+  "zh": "银行对账单",
+  "ex": [
+   "Für den Antrag brauche ich die Kontoauszüge der letzten drei Monate."
+  ],
+  "ex_zh": "办这个申请我需要最近三个月的银行对账单。",
+  "use": {
+   "col": [
+    [
+     "einen Kontoauszug ausdrucken",
+     "打印对账单"
+    ],
+    [
+     "Kontoauszüge vorlegen",
+     "出示对账单"
+    ]
+   ],
+   "tip": "办签证、租房、贷款时常被要求提供"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Sparkonto",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Sparkonten",
+  "zh": "储蓄账户",
+  "ex": [
+   "Auf dem Sparkonto bekomme ich leider kaum Zinsen."
+  ],
+  "ex_zh": "储蓄账户上的利息遗憾地几乎没有。",
+  "use": {
+   "col": [
+    [
+     "ein Sparkonto eröffnen",
+     "开设储蓄账户"
+    ],
+    [
+     "Geld aufs Sparkonto legen",
+     "把钱存进储蓄账户"
+    ]
+   ],
+   "tip": "和 Girokonto（活期账户）相对；Tagesgeldkonto 为随取随用的高息账户"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Ersparnis",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Ersparnisse",
+  "zh": "积蓄；节省的钱",
+  "ex": [
+   "Er hat seine gesamten Ersparnisse in das Studium investiert."
+  ],
+  "ex_zh": "他把全部积蓄都投进了学业。",
+  "use": {
+   "col": [
+    [
+     "seine Ersparnisse aufbrauchen",
+     "花光积蓄"
+    ],
+    [
+     "eine Ersparnis von 200 Euro",
+     "节省200欧元"
+    ]
+   ],
+   "tip": "作“积蓄”时多用复数；单数指节省下来的金额或时间"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Vermögen",
+  "art": "das",
+  "pos": "n",
+  "zh": "财产；资产；大笔钱",
+  "ex": [
+   "Sie hat im Laufe der Jahre ein beachtliches Vermögen aufgebaut."
+  ],
+  "ex_zh": "多年来她积累了一笔可观的财富。",
+  "use": {
+   "col": [
+    [
+     "ein Vermögen verdienen",
+     "赚大钱"
+    ],
+    [
+     "das Vermögen verwalten",
+     "管理财产"
+    ]
+   ],
+   "tip": "口语 ein Vermögen kosten = 贵得离谱"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Verbraucher",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Verbraucher",
+  "zh": "消费者",
+  "ex": [
+   "Die Verbraucher beschweren sich über die gestiegenen Preise."
+  ],
+  "ex_zh": "消费者抱怨价格上涨。",
+  "use": {
+   "col": [
+    [
+     "den Verbraucher schützen",
+     "保护消费者"
+    ],
+    [
+     "Verbraucher informieren",
+     "告知消费者"
+    ]
+   ],
+   "tip": "阴性 die Verbraucherin；Verbraucherschutz 消费者保护"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Lieferant",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Lieferanten",
+  "zh": "供应商；送货人",
+  "ex": [
+   "Unser Lieferant hat sich bei der Lieferung leider verspätet."
+  ],
+  "ex_zh": "我们的供应商这次送货遗憾地晚了。",
+  "use": {
+   "col": [
+    [
+     "einen neuen Lieferanten suchen",
+     "找新供应商"
+    ],
+    [
+     "mit dem Lieferanten verhandeln",
+     "和供应商谈判"
+    ]
+   ],
+   "tip": "n-Deklination：den/dem/des Lieferanten；阴性 die Lieferantin"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Bestellung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Bestellungen",
+  "zh": "订单；订购",
+  "ex": [
+   "Ich möchte meine Bestellung gerne stornieren."
+  ],
+  "ex_zh": "我想取消我的订单。",
+  "use": {
+   "col": [
+    [
+     "eine Bestellung aufgeben",
+     "下订单"
+    ],
+    [
+     "die Bestellung bestätigen",
+     "确认订单"
+    ]
+   ],
+   "tip": "动词 bestellen；Bestellnummer 订单号"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Reklamation",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Reklamationen",
+  "zh": "投诉；退换要求（质量问题）",
+  "ex": [
+   "Meine Reklamation wurde vom Kundenservice sofort bearbeitet."
+  ],
+  "ex_zh": "客服立刻处理了我的投诉。",
+  "use": {
+   "col": [
+    [
+     "eine Reklamation einreichen",
+     "提出投诉"
+    ],
+    [
+     "eine Reklamation bearbeiten",
+     "处理投诉"
+    ]
+   ],
+   "tip": "动词 reklamieren；针对有问题的商品，不是一般的抱怨 Beschwerde"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Rückgabe",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Rückgaben",
+  "zh": "退还；退货；归还",
+  "ex": [
+   "Die Rückgabe der Ware ist innerhalb von 14 Tagen möglich."
+  ],
+  "ex_zh": "商品可在14天内退货。",
+  "use": {
+   "col": [
+    [
+     "die Rückgabe der Kaution",
+     "退还押金"
+    ],
+    [
+     "ein Rückgaberecht",
+     "退货权"
+    ]
+   ],
+   "tip": "动词 zurückgeben；常见于网购条款"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gewährleistung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Gewährleistungen",
+  "zh": "法定质保；瑕疵担保",
+  "ex": [
+   "Die gesetzliche Gewährleistung beträgt bei neuen Geräten zwei Jahre."
+  ],
+  "ex_zh": "新设备的法定质保期是两年。",
+  "use": {
+   "col": [
+    [
+     "Gewährleistung geltend machen",
+     "主张质保权利"
+    ],
+    [
+     "die Gewährleistung ausschließen",
+     "排除质保"
+    ]
+   ],
+   "tip": "法定的，卖家负责；Garantie 是厂家自愿给的，别混"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Widerruf",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Widerrufe",
+  "zh": "撤销；撤回（订单、合同）",
+  "ex": [
+   "Der Widerruf des Vertrags muss schriftlich erfolgen."
+  ],
+  "ex_zh": "撤销合同必须以书面形式进行。",
+  "use": {
+   "col": [
+    [
+     "den Widerruf erklären",
+     "声明撤销"
+    ],
+    [
+     "das Widerrufsrecht",
+     "撤销权"
+    ]
+   ],
+   "tip": "动词 widerrufen；网购通常有14天 Widerrufsfrist"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zuschuss",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Zuschüsse",
+  "zh": "补贴；津贴",
+  "ex": [
+   "Die Firma gibt mir einen Zuschuss zum Deutschlandticket."
+  ],
+  "ex_zh": "公司给我德国通票补贴。",
+  "use": {
+   "col": [
+    [
+     "einen Zuschuss beantragen",
+     "申请补贴"
+    ],
+    [
+     "ein Zuschuss zu den Kosten",
+     "费用补贴"
+    ]
+   ],
+   "tip": "Zuschuss zu + Dat.；不用还；Zuschuss 的复数带变音"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Wohngeld",
+  "art": "das",
+  "pos": "n",
+  "zh": "住房补贴",
+  "ex": [
+   "Wer wenig verdient, kann Wohngeld beim Amt beantragen."
+  ],
+  "ex_zh": "收入低的人可以向主管部门申请住房补贴。",
+  "use": {
+   "col": [
+    [
+     "Wohngeld beantragen",
+     "申请住房补贴"
+    ],
+    [
+     "Anspruch auf Wohngeld",
+     "有权获得住房补贴"
+    ]
+   ],
+   "tip": "只有单数；类似的还有 Kindergeld、Arbeitslosengeld"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kindergeld",
+  "art": "das",
+  "pos": "n",
+  "zh": "儿童津贴",
+  "ex": [
+   "Eltern bekommen für jedes Kind monatlich Kindergeld vom Staat."
+  ],
+  "ex_zh": "父母每个月为每个孩子从国家领取儿童津贴。",
+  "use": {
+   "col": [
+    [
+     "Kindergeld beziehen",
+     "领取儿童津贴"
+    ],
+    [
+     "Anspruch auf Kindergeld",
+     "有权领取儿童津贴"
+    ]
+   ],
+   "tip": "由 Familienkasse 发放；beziehen 表示“领取”"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Arbeitslosengeld",
+  "art": "das",
+  "pos": "n",
+  "zh": "失业金",
+  "ex": [
+   "Nach der Kündigung hat er sechs Monate lang Arbeitslosengeld bezogen."
+  ],
+  "ex_zh": "被解雇后，他领了六个月的失业金。",
+  "use": {
+   "col": [
+    [
+     "Arbeitslosengeld beantragen",
+     "申请失业金"
+    ],
+    [
+     "Arbeitslosengeld beziehen",
+     "领取失业金"
+    ]
+   ],
+   "tip": "俗称 ALG I；长期失业后是 Bürgergeld"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Steuerbescheid",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Steuerbescheide",
+  "zh": "税务通知书",
+  "ex": [
+   "Der Steuerbescheid ist heute mit der Post gekommen."
+  ],
+  "ex_zh": "税务通知书今天寄到了。",
+  "use": {
+   "col": [
+    [
+     "einen Steuerbescheid erhalten",
+     "收到税务通知书"
+    ],
+    [
+     "gegen den Steuerbescheid Einspruch einlegen",
+     "对税务通知书提出异议"
+    ]
+   ],
+   "tip": "Finanzamt 根据报税结果寄出；可以在一个月内 Einspruch"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Steuersatz",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Steuersätze",
+  "zh": "税率",
+  "ex": [
+   "Der Steuersatz richtet sich nach der Höhe des Einkommens."
+  ],
+  "ex_zh": "税率取决于收入的高低。",
+  "use": {
+   "col": [
+    [
+     "ein hoher Steuersatz",
+     "高税率"
+    ],
+    [
+     "der ermäßigte Steuersatz",
+     "优惠税率"
+    ]
+   ],
+   "tip": "Mehrwertsteuer 有19%和7%两档"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Freibetrag",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Freibeträge",
+  "zh": "免税额",
+  "ex": [
+   "Der Grundfreibetrag sorgt dafür, dass niedrige Einkommen nicht besteuert werden."
+  ],
+  "ex_zh": "基本免税额使得低收入不用纳税。",
+  "use": {
+   "col": [
+    [
+     "einen Freibetrag beantragen",
+     "申请免税额"
+    ],
+    [
+     "der steuerliche Freibetrag",
+     "税收免税额"
+    ]
+   ],
+   "tip": "和 Steuerklasse（税级）一起出现在工资单里"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Abgabe",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Abgaben",
+  "zh": "缴纳；税费；提交",
+  "ex": [
+   "Neben den Steuern müssen Arbeitnehmer auch Sozialabgaben zahlen."
+  ],
+  "ex_zh": "除了税，雇员还要缴纳社保费用。",
+  "use": {
+   "senses": [
+    "税费、缴款",
+    "提交、交付"
+   ],
+   "col": [
+    [
+     "Steuern und Abgaben",
+     "税费"
+    ],
+    [
+     "die Abgabe der Steuererklärung",
+     "提交报税表"
+    ]
+   ],
+   "tip": "Sozialabgaben 社保缴费；Abgabe 另有“交作业、提交”义"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Steuerberater",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Steuerberater",
+  "zh": "税务顾问",
+  "ex": [
+   "Weil meine Steuer kompliziert ist, gehe ich zu einem Steuerberater."
+  ],
+  "ex_zh": "因为我的税务情况复杂，我去找税务顾问。",
+  "use": {
+   "col": [
+    [
+     "einen Steuerberater beauftragen",
+     "委托税务顾问"
+    ],
+    [
+     "zum Steuerberater gehen",
+     "去找税务顾问"
+    ]
+   ],
+   "tip": "阴性 die Steuerberaterin；免费替代：Lohnsteuerhilfeverein"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Haftpflichtversicherung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Haftpflichtversicherungen",
+  "zh": "责任险",
+  "ex": [
+   "Eine private Haftpflichtversicherung gehört zu den wichtigsten Versicherungen."
+  ],
+  "ex_zh": "私人责任险是最重要的保险之一。",
+  "use": {
+   "col": [
+    [
+     "eine Haftpflichtversicherung abschließen",
+     "购买责任险"
+    ],
+    [
+     "die Haftpflichtversicherung zahlt",
+     "责任险赔付"
+    ]
+   ],
+   "tip": "赔偿你给别人造成的损害；缩写 Haftpflicht"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Versicherungsschutz",
+  "art": "der",
+  "pos": "n",
+  "zh": "保险保障；承保范围",
+  "ex": [
+   "Mit dieser Police besteht weltweiter Versicherungsschutz."
+  ],
+  "ex_zh": "这份保单在全球范围内提供保障。",
+  "use": {
+   "col": [
+    [
+     "Versicherungsschutz haben",
+     "有保险保障"
+    ],
+    [
+     "der Versicherungsschutz endet",
+     "保障终止"
+    ]
+   ],
+   "tip": "没有复数；Schutz 单独也可用"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Entschädigung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Entschädigungen",
+  "zh": "赔偿；补偿",
+  "ex": [
+   "Wegen der Verspätung hat die Airline ihm eine Entschädigung gezahlt."
+  ],
+  "ex_zh": "因为晚点，航空公司向他支付了赔偿。",
+  "use": {
+   "col": [
+    [
+     "eine Entschädigung fordern",
+     "要求赔偿"
+    ],
+    [
+     "Anspruch auf Entschädigung",
+     "有权获得赔偿"
+    ]
+   ],
+   "tip": "动词 entschädigen；和 Schadenersatz 近义，但更偏补偿"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Haftung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Haftungen",
+  "zh": "责任（法律上的）",
+  "ex": [
+   "Für Schäden durch eigenes Verschulden übernimmt der Verein keine Haftung."
+  ],
+  "ex_zh": "对因自身过错造成的损害，协会不承担责任。",
+  "use": {
+   "col": [
+    [
+     "die Haftung übernehmen",
+     "承担责任"
+    ],
+    [
+     "die Haftung ausschließen",
+     "排除责任"
+    ]
+   ],
+   "tip": "动词 haften für + Akk.；常见于合同条款"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Darlehen",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Darlehen",
+  "zh": "贷款；借款",
+  "ex": [
+   "Für den Hauskauf haben sie ein Darlehen bei der Bank aufgenommen."
+  ],
+  "ex_zh": "为了买房，他们向银行申请了一笔贷款。",
+  "use": {
+   "col": [
+    [
+     "ein Darlehen aufnehmen",
+     "贷款"
+    ],
+    [
+     "ein Darlehen zurückzahlen",
+     "偿还贷款"
+    ]
+   ],
+   "tip": "比 Kredit 更书面；Privatdarlehen 个人借款"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Rate",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Raten",
+  "zh": "分期付款的一期；比率",
+  "ex": [
+   "Ich zahle den Laptop in zwölf monatlichen Raten ab."
+  ],
+  "ex_zh": "我分十二个月分期付这台笔记本电脑。",
+  "use": {
+   "col": [
+    [
+     "in Raten zahlen",
+     "分期付款"
+    ],
+    [
+     "die monatliche Rate",
+     "每月还款额"
+    ]
+   ],
+   "tip": "Ratenzahlung 分期付款；也指“比率”如 Arbeitslosenrate"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Finanzierung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Finanzierungen",
+  "zh": "融资；资金筹措；分期付款方案",
+  "ex": [
+   "Die Finanzierung des Projekts ist noch nicht gesichert."
+  ],
+  "ex_zh": "这个项目的资金还没有着落。",
+  "use": {
+   "col": [
+    [
+     "die Finanzierung sichern",
+     "保证资金来源"
+    ],
+    [
+     "eine Finanzierung anbieten",
+     "提供分期方案"
+    ]
+   ],
+   "tip": "动词 finanzieren（已有）；Gesamtfinanzierung 总融资"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Geldanlage",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Geldanlagen",
+  "zh": "投资；理财",
+  "ex": [
+   "Viele junge Leute suchen eine sichere Geldanlage mit guter Rendite."
+  ],
+  "ex_zh": "很多年轻人在找收益好又安全的理财方式。",
+  "use": {
+   "col": [
+    [
+     "eine sichere Geldanlage",
+     "稳妥的理财方式"
+    ],
+    [
+     "Geld anlegen",
+     "投资、理财"
+    ]
+   ],
+   "tip": "动词 Geld anlegen；Kapitalanlage 更书面"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Aktie",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Aktien",
+  "zh": "股票",
+  "ex": [
+   "Er hat vor einem Jahr Aktien eines deutschen Autoherstellers gekauft."
+  ],
+  "ex_zh": "他一年前买了一家德国汽车制造商的股票。",
+  "use": {
+   "col": [
+    [
+     "Aktien kaufen",
+     "买股票"
+    ],
+    [
+     "die Aktie steigt",
+     "股价上涨"
+    ]
+   ],
+   "tip": "Aktiengesellschaft（AG）股份公司；Aktionär 股东"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Börse",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Börsen",
+  "zh": "证券交易所；股市",
+  "ex": [
+   "An der Börse sind die Kurse heute stark gefallen."
+  ],
+  "ex_zh": "今天股市行情大幅下跌。",
+  "use": {
+   "col": [
+    [
+     "an der Börse handeln",
+     "在交易所交易"
+    ],
+    [
+     "an die Börse gehen",
+     "上市"
+    ]
+   ],
+   "tip": "Frankfurter Börse 法兰克福证交所；Börsengang 上市"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Währung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Währungen",
+  "zh": "货币",
+  "ex": [
+   "In der Schweiz bezahlt man mit einer anderen Währung als in Deutschland."
+  ],
+  "ex_zh": "在瑞士使用的货币和德国不同。",
+  "use": {
+   "col": [
+    [
+     "eine stabile Währung",
+     "稳定的货币"
+    ],
+    [
+     "die Landeswährung",
+     "本国货币"
+    ]
+   ],
+   "tip": "Euro 是欧元区共同货币 die gemeinsame Währung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Wechselkurs",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Wechselkurse",
+  "zh": "汇率",
+  "ex": [
+   "Beim Geldumtausch achte ich immer auf den Wechselkurs."
+  ],
+  "ex_zh": "换钱时我总是留意汇率。",
+  "use": {
+   "col": [
+    [
+     "der aktuelle Wechselkurs",
+     "当前汇率"
+    ],
+    [
+     "zum günstigen Wechselkurs",
+     "按有利的汇率"
+    ]
+   ],
+   "tip": "常与 Gebühr 一起；动词 wechseln"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gutschein",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Gutscheine",
+  "zh": "代金券；优惠券",
+  "ex": [
+   "Zu meinem Geburtstag habe ich einen Gutschein für ein Restaurant bekommen."
+  ],
+  "ex_zh": "生日时我收到一张餐厅代金券。",
+  "use": {
+   "col": [
+    [
+     "einen Gutschein einlösen",
+     "使用代金券"
+    ],
+    [
+     "ein Gutschein über 50 Euro",
+     "50欧元的代金券"
+    ]
+   ],
+   "tip": "einlösen 是固定搭配；Geschenkgutschein 礼品券"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gutschrift",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Gutschriften",
+  "zh": "退款入账；贷记",
+  "ex": [
+   "Die Gutschrift erscheint in zwei Tagen auf Ihrem Konto."
+  ],
+  "ex_zh": "这笔退款两天后会出现在您的账户里。",
+  "use": {
+   "col": [
+    [
+     "eine Gutschrift erhalten",
+     "收到退款入账"
+    ],
+    [
+     "eine Gutschrift ausstellen",
+     "开具退款凭证"
+    ]
+   ],
+   "tip": "和 Lastschrift 相反；也有商店的“货款抵用额”"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Erstattung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Erstattungen",
+  "zh": "退还；报销",
+  "ex": [
+   "Die Erstattung der Fahrtkosten dauert in der Regel zwei Wochen."
+  ],
+  "ex_zh": "交通费报销通常需要两周。",
+  "use": {
+   "col": [
+    [
+     "die Erstattung beantragen",
+     "申请报销"
+    ],
+    [
+     "Anspruch auf Erstattung",
+     "有权获得退款"
+    ]
+   ],
+   "tip": "动词 erstatten；Kostenerstattung 费用报销；Rückerstattung 退款"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Stornierung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Stornierungen",
+  "zh": "取消（订单、预订）",
+  "ex": [
+   "Die Stornierung des Fluges ist bis 24 Stunden vorher kostenlos."
+  ],
+  "ex_zh": "航班可在24小时前免费取消。",
+  "use": {
+   "col": [
+    [
+     "die Stornierung der Buchung",
+     "取消预订"
+    ],
+    [
+     "Stornierungsgebühren",
+     "取消费"
+    ]
+   ],
+   "tip": "动词 stornieren"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Laufzeit",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Laufzeiten",
+  "zh": "有效期；期限；存续期",
+  "ex": [
+   "Der Vertrag hat eine Laufzeit von zwei Jahren."
+  ],
+  "ex_zh": "这份合同有效期为两年。",
+  "use": {
+   "col": [
+    [
+     "die Laufzeit verlängern",
+     "延长期限"
+    ],
+    [
+     "eine kurze Laufzeit",
+     "短期限"
+    ]
+   ],
+   "tip": "合同、贷款、手机套餐常见"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Vereinbarung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Vereinbarungen",
+  "zh": "约定；协议",
+  "ex": [
+   "Wir haben eine schriftliche Vereinbarung über die Rückzahlung getroffen."
+  ],
+  "ex_zh": "我们就还款事宜签了书面协议。",
+  "use": {
+   "col": [
+    [
+     "eine Vereinbarung treffen",
+     "达成协议"
+    ],
+    [
+     "laut Vereinbarung",
+     "根据约定"
+    ]
+   ],
+   "tip": "动词 vereinbaren（已有）；比 Vertrag 不那么正式"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Mitgliedschaft",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Mitgliedschaften",
+  "zh": "会员资格；成员身份",
+  "ex": [
+   "Meine Mitgliedschaft im Fitnessstudio läuft noch bis Dezember."
+  ],
+  "ex_zh": "我的健身房会员资格到十二月为止。",
+  "use": {
+   "col": [
+    [
+     "die Mitgliedschaft kündigen",
+     "取消会员"
+    ],
+    [
+     "eine Mitgliedschaft beantragen",
+     "申请入会"
+    ]
+   ],
+   "tip": "Mitglied + Schaft；Mitgliedsbeitrag 会费"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Filiale",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Filialen",
+  "zh": "分店；分行",
+  "ex": [
+   "Die nächste Filiale meiner Bank ist drei Kilometer entfernt."
+  ],
+  "ex_zh": "我的银行最近的分行在三公里外。",
+  "use": {
+   "col": [
+    [
+     "eine Filiale eröffnen",
+     "开设分店"
+    ],
+    [
+     "die Filiale schließen",
+     "关闭分店"
+    ]
+   ],
+   "tip": "银行、连锁店、邮局的分支机构；Zentrale 为总部"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Schnäppchen",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Schnäppchen",
+  "zh": "便宜货；特价品",
+  "ex": [
+   "Auf dem Flohmarkt habe ich ein echtes Schnäppchen gemacht."
+  ],
+  "ex_zh": "我在跳蚤市场淘到一件真正的便宜货。",
+  "use": {
+   "col": [
+    [
+     "ein Schnäppchen machen",
+     "捡到便宜"
+    ],
+    [
+     "Schnäppchenjäger",
+     "捡便宜的人"
+    ]
+   ],
+   "tip": "口语；常用 ein Schnäppchen machen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Pfand",
+  "art": "das",
+  "pos": "n",
+  "zh": "押金（瓶、罐等）；抵押物",
+  "ex": [
+   "Auf diese Flaschen zahlt man 25 Cent Pfand."
+  ],
+  "ex_zh": "这些瓶子要付25分的押金。",
+  "use": {
+   "col": [
+    [
+     "Pfand zurückgeben",
+     "退瓶子取押金"
+    ],
+    [
+     "Pfand zahlen",
+     "付押金"
+    ]
+   ],
+   "tip": "Pfandflasche 押金瓶；Kaution 是租房、租车的大额押金"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kassenbon",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Kassenbons",
+  "zh": "购物小票",
+  "ex": [
+   "Ohne Kassenbon nimmt der Laden den Pullover nicht zurück."
+  ],
+  "ex_zh": "没有购物小票，商店不给退这件毛衣。",
+  "use": {
+   "col": [
+    [
+     "den Kassenbon aufbewahren",
+     "保存小票"
+    ],
+    [
+     "gegen Vorlage des Kassenbons",
+     "凭小票"
+    ]
+   ],
+   "tip": "也可写 Kassenbeleg；Quittung 更正式"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Preisvergleich",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Preisvergleiche",
+  "zh": "比价",
+  "ex": [
+   "Vor dem Kauf mache ich immer einen Preisvergleich im Internet."
+  ],
+  "ex_zh": "买东西前我总是先在网上比价。",
+  "use": {
+   "col": [
+    [
+     "einen Preisvergleich machen",
+     "比价"
+    ],
+    [
+     "Preisvergleich online",
+     "在线比价"
+    ]
+   ],
+   "tip": "Vergleichsportal 比价网站"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zahlungsmittel",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Zahlungsmittel",
+  "zh": "支付手段",
+  "ex": [
+   "Bargeld ist nicht mehr das einzige Zahlungsmittel im Alltag."
+  ],
+  "ex_zh": "现金不再是日常生活中唯一的支付手段。",
+  "use": {
+   "col": [
+    [
+     "ein gesetzliches Zahlungsmittel",
+     "法定货币"
+    ],
+    [
+     "bargeldlose Zahlungsmittel",
+     "无现金支付手段"
+    ]
+   ],
+   "tip": "gesetzliches Zahlungsmittel = 法定货币，如欧元"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Nachzahlung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Nachzahlungen",
+  "zh": "补缴；补付",
+  "ex": [
+   "Aus der Nebenkostenabrechnung ergibt sich eine Nachzahlung von 300 Euro."
+  ],
+  "ex_zh": "根据杂费结算，需要补缴300欧元。",
+  "use": {
+   "col": [
+    [
+     "eine Nachzahlung leisten",
+     "补缴"
+    ],
+    [
+     "mit einer Nachzahlung rechnen",
+     "预计需要补缴"
+    ]
+   ],
+   "tip": "反义：Rückerstattung / Guthaben；租房杂费结算常见"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Rückzahlung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Rückzahlungen",
+  "zh": "偿还；退款",
+  "ex": [
+   "Die Rückzahlung des Kredits erfolgt in monatlichen Raten."
+  ],
+  "ex_zh": "贷款按月分期偿还。",
+  "use": {
+   "col": [
+    [
+     "die Rückzahlung fordern",
+     "要求偿还"
+    ],
+    [
+     "die Rückzahlung der Schulden",
+     "偿还债务"
+    ]
+   ],
+   "tip": "动词 zurückzahlen；Tilgung 是偿还本金"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Selbstbeteiligung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Selbstbeteiligungen",
+  "zh": "自付额（保险）",
+  "ex": [
+   "Bei der Kaskoversicherung habe ich eine Selbstbeteiligung von 300 Euro."
+  ],
+  "ex_zh": "我的车损险有300欧元自付额。",
+  "use": {
+   "col": [
+    [
+     "eine Selbstbeteiligung vereinbaren",
+     "约定自付额"
+    ],
+    [
+     "ohne Selbstbeteiligung",
+     "无自付额"
+    ]
+   ],
+   "tip": "自付额越高，保费越低"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zuzahlung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Zuzahlungen",
+  "zh": "自付部分；个人负担费用",
+  "ex": [
+   "Für das Medikament muss ich fünf Euro Zuzahlung leisten."
+  ],
+  "ex_zh": "这种药我要自付五欧元。",
+  "use": {
+   "col": [
+    [
+     "eine Zuzahlung leisten",
+     "自付一部分"
+    ],
+    [
+     "von der Zuzahlung befreit",
+     "免自付"
+    ]
+   ],
+   "tip": "医保里常见：Zuzahlung zu Medikamenten"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Inflation",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Inflationen",
+  "zh": "通货膨胀",
+  "ex": [
+   "Wegen der hohen Inflation sind die Lebensmittel deutlich teurer geworden."
+  ],
+  "ex_zh": "由于通胀很高，食品明显涨价了。",
+  "use": {
+   "col": [
+    [
+     "die Inflation bekämpfen",
+     "对抗通胀"
+    ],
+    [
+     "die Inflationsrate",
+     "通胀率"
+    ]
+   ],
+   "tip": "复数几乎不用；形容词 inflationär"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Konjunktur",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Konjunkturen",
+  "zh": "经济形势；景气",
+  "ex": [
+   "Die Konjunktur in Deutschland hat sich im letzten Quartal abgeschwächt."
+  ],
+  "ex_zh": "德国经济在上个季度走弱了。",
+  "use": {
+   "col": [
+    [
+     "die Konjunktur anregen",
+     "刺激经济"
+    ],
+    [
+     "eine schwache Konjunktur",
+     "经济疲软"
+    ]
+   ],
+   "tip": "整个经济的景气周期；常见于新闻"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Wachstum",
+  "art": "das",
+  "pos": "n",
+  "zh": "增长；成长",
+  "ex": [
+   "Die Wirtschaft verzeichnete im vergangenen Jahr ein Wachstum von zwei Prozent."
+  ],
+  "ex_zh": "经济在去年实现了2%的增长。",
+  "use": {
+   "col": [
+    [
+     "ein starkes Wachstum",
+     "强劲增长"
+    ],
+    [
+     "das Wirtschaftswachstum",
+     "经济增长"
+    ]
+   ],
+   "tip": "动词 wachsen（ist 完成）；没有复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Konkurrent",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Konkurrenten",
+  "zh": "竞争者；对手",
+  "ex": [
+   "Unser größter Konkurrent hat gestern ein neues Modell vorgestellt."
+  ],
+  "ex_zh": "我们最大的竞争对手昨天发布了新款。",
+  "use": {
+   "col": [
+    [
+     "ein ernster Konkurrent",
+     "强劲的对手"
+    ],
+    [
+     "sich gegen Konkurrenten durchsetzen",
+     "战胜对手"
+    ]
+   ],
+   "tip": "n-Deklination：den Konkurrenten；阴性 die Konkurrentin"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Branche",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Branchen",
+  "zh": "行业",
+  "ex": [
+   "In der IT-Branche werden gut ausgebildete Fachkräfte dringend gesucht."
+  ],
+  "ex_zh": "IT行业迫切需要受过良好培训的专业人才。",
+  "use": {
+   "col": [
+    [
+     "in der Branche arbeiten",
+     "在这个行业工作"
+    ],
+    [
+     "die Branche wechseln",
+     "换行业"
+    ]
+   ],
+   "tip": "发音 [ˈbrãːʃə]；Branchenkenntnis 行业经验"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Umsatz",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Umsätze",
+  "zh": "营业额；销售额",
+  "ex": [
+   "Der Umsatz des Unternehmens ist im letzten Jahr um zehn Prozent gestiegen."
+  ],
+  "ex_zh": "公司的营业额去年增长了10%。",
+  "use": {
+   "col": [
+    [
+     "den Umsatz steigern",
+     "提高销售额"
+    ],
+    [
+     "Umsatz machen",
+     "做出营业额"
+    ]
+   ],
+   "tip": "Umsatz ≠ Gewinn：Umsatz 是总收入，Gewinn 是利润"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Herstellung",
+  "art": "die",
+  "pos": "n",
+  "zh": "制造；生产",
+  "ex": [
+   "Die Herstellung der Teile ist inzwischen nach Asien verlagert worden."
+  ],
+  "ex_zh": "这些零件的生产已经转移到亚洲了。",
+  "use": {
+   "col": [
+    [
+     "die Herstellung von Waren",
+     "商品的制造"
+    ],
+    [
+     "die Herstellungskosten",
+     "制造成本"
+    ]
+   ],
+   "tip": "动词 herstellen；比 Produktion 更偏手工、制造环节"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Verbrauch",
+  "art": "der",
+  "pos": "n",
+  "zh": "消耗；消费量",
+  "ex": [
+   "Der Verbrauch an Strom ist im Winter besonders hoch."
+  ],
+  "ex_zh": "冬天的用电量特别高。",
+  "use": {
+   "col": [
+    [
+     "der Energieverbrauch",
+     "能源消耗"
+    ],
+    [
+     "den Verbrauch senken",
+     "降低消耗"
+    ]
+   ],
+   "tip": "动词 verbrauchen（已有）；Verbraucher 为消费者"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Preiserhöhung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Preiserhöhungen",
+  "zh": "涨价",
+  "ex": [
+   "Der Anbieter hat zum Jahreswechsel eine Preiserhöhung angekündigt."
+  ],
+  "ex_zh": "供应商宣布年初要涨价。",
+  "use": {
+   "col": [
+    [
+     "eine Preiserhöhung ankündigen",
+     "宣布涨价"
+    ],
+    [
+     "wegen der Preiserhöhung kündigen",
+     "因涨价而解约"
+    ]
+   ],
+   "tip": "反义 Preissenkung；Preisanstieg 涨幅"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Lebenshaltungskosten (Pl.)",
+  "art": "die",
+  "pos": "n",
+  "zh": "生活开支",
+  "ex": [
+   "In München sind die Lebenshaltungskosten für Studierende besonders hoch."
+  ],
+  "ex_zh": "在慕尼黑，学生的生活开支特别高。",
+  "use": {
+   "col": [
+    [
+     "hohe Lebenshaltungskosten",
+     "高生活成本"
+    ],
+    [
+     "die Lebenshaltungskosten decken",
+     "负担生活开支"
+    ]
+   ],
+   "tip": "只有复数；包括房租、饮食、交通等日常开支"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Mindestlohn",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Mindestlöhne",
+  "zh": "最低工资",
+  "ex": [
+   "Der gesetzliche Mindestlohn gilt auch für Minijobs."
+  ],
+  "ex_zh": "法定最低工资也适用于迷你工作。",
+  "use": {
+   "col": [
+    [
+     "den Mindestlohn erhöhen",
+     "提高最低工资"
+    ],
+    [
+     "unter dem Mindestlohn bezahlt werden",
+     "工资低于最低工资"
+    ]
+   ],
+   "tip": "Mindestlohn 以小时计；复数 Mindestlöhne"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "AGB",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die AGB",
+  "zh": "通用商业条款",
+  "ex": [
+   "Wer die AGB nicht liest, übersieht oft wichtige Klauseln."
+  ],
+  "ex_zh": "不读通用条款的人往往会漏掉重要条款。",
+  "use": {
+   "col": [
+    [
+     "die AGB akzeptieren",
+     "接受通用条款"
+    ],
+    [
+     "laut den AGB",
+     "根据通用条款"
+    ]
+   ],
+   "tip": "全称 Allgemeine Geschäftsbedingungen；通常用复数 die AGB"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Klausel",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Klauseln",
+  "zh": "条款",
+  "ex": [
+   "In dem Vertrag steht eine Klausel, die mich benachteiligt."
+  ],
+  "ex_zh": "合同里有一条对我不利的条款。",
+  "use": {
+   "col": [
+    [
+     "eine Klausel streichen",
+     "删掉一条条款"
+    ],
+    [
+     "das Kleingedruckte",
+     "小字部分"
+    ]
+   ],
+   "tip": "Vertragsklausel；Kleingedruckte 指合同的小字条款"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Vertragspartner",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Vertragspartner",
+  "zh": "合同方；合同当事人",
+  "ex": [
+   "Beide Vertragspartner müssen den Vertrag unterschreiben."
+  ],
+  "ex_zh": "合同双方都必须在合同上签字。",
+  "use": {
+   "col": [
+    [
+     "der Vertragspartner",
+     "合同对方"
+    ],
+    [
+     "einen Vertragspartner finden",
+     "找到合同方"
+    ]
+   ],
+   "tip": "阴性 die Vertragspartnerin"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Spende",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Spenden",
+  "zh": "捐款；捐赠",
+  "ex": [
+   "Der Verein finanziert sich ausschließlich durch Spenden."
+  ],
+  "ex_zh": "这个协会完全靠捐款维持。",
+  "use": {
+   "col": [
+    [
+     "eine Spende überweisen",
+     "转账捐款"
+    ],
+    [
+     "um Spenden bitten",
+     "呼吁捐款"
+    ]
+   ],
+   "tip": "动词 spenden；Spender 捐赠者"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Armut",
+  "art": "die",
+  "pos": "n",
+  "zh": "贫困",
+  "ex": [
+   "Immer mehr Familien sind in Deutschland von Armut bedroht."
+  ],
+  "ex_zh": "德国越来越多的家庭面临贫困威胁。",
+  "use": {
+   "col": [
+    [
+     "von Armut bedroht",
+     "面临贫困威胁"
+    ],
+    [
+     "die Armutsgrenze",
+     "贫困线"
+    ]
+   ],
+   "tip": "形容词 arm；反义 Reichtum；没有复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Wohlstand",
+  "art": "der",
+  "pos": "n",
+  "zh": "富裕；繁荣",
+  "ex": [
+   "Der Wohlstand eines Landes hängt auch von der Bildung ab."
+  ],
+  "ex_zh": "一个国家的富裕程度也取决于教育。",
+  "use": {
+   "col": [
+    [
+     "im Wohlstand leben",
+     "生活富裕"
+    ],
+    [
+     "der gesellschaftliche Wohlstand",
+     "社会繁荣"
+    ]
+   ],
+   "tip": "没有复数；偏社会整体富足，不仅是个人有钱"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Reichtum",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Reichtümer",
+  "zh": "财富；富有",
+  "ex": [
+   "Reichtum allein macht nicht glücklich."
+  ],
+  "ex_zh": "光有财富并不会让人幸福。",
+  "use": {
+   "col": [
+    [
+     "zu Reichtum kommen",
+     "发财"
+    ],
+    [
+     "natürliche Reichtümer",
+     "自然资源"
+    ]
+   ],
+   "tip": "形容词 reich；单数为主，复数 Reichtümer 指财宝、资源"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Betrug",
+  "art": "der",
+  "pos": "n",
+  "zh": "欺诈；诈骗",
+  "ex": [
+   "Bei dem Online-Verkauf handelte es sich um einen Betrug."
+  ],
+  "ex_zh": "那次网上销售是一场骗局。",
+  "use": {
+   "col": [
+    [
+     "Betrug begehen",
+     "实施诈骗"
+    ],
+    [
+     "Opfer eines Betrugs werden",
+     "成为诈骗受害者"
+    ]
+   ],
+   "tip": "动词 betrügen；Betrüger 骗子；没有复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Verbraucherzentrale",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Verbraucherzentralen",
+  "zh": "消费者咨询中心",
+  "ex": [
+   "Die Verbraucherzentrale berät kostenlos bei Problemen mit Verträgen."
+  ],
+  "ex_zh": "消费者中心免费为合同问题提供咨询。",
+  "use": {
+   "col": [
+    [
+     "sich bei der Verbraucherzentrale beraten lassen",
+     "去消费者中心咨询"
+    ],
+    [
+     "die Verbraucherzentrale NRW",
+     "北威州消费者中心"
+    ]
+   ],
+   "tip": "德国处理消费纠纷的常见机构，咨询通常收少量费用或免费"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zahlungsart",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Zahlungsarten",
+  "zh": "支付方式",
+  "ex": [
+   "Im Online-Shop können Sie zwischen mehreren Zahlungsarten wählen."
+  ],
+  "ex_zh": "在网店里您可以在几种支付方式之间选择。",
+  "use": {
+   "col": [
+    [
+     "die Zahlungsart wählen",
+     "选择支付方式"
+    ],
+    [
+     "verschiedene Zahlungsarten",
+     "多种支付方式"
+    ]
+   ],
+   "tip": "同义 Zahlungsweise；Kauf auf Rechnung 为货到后付款"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "abbuchen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgebucht",
+  "forms": "bucht ab, buchte ab, hat abgebucht",
+  "zh": "（从账户）扣款",
+  "ex": [
+   "Das Fitnessstudio hat den Beitrag wieder zweimal von meinem Konto abgebucht."
+  ],
+  "ex_zh": "健身房又从我的账户上把会费扣了两次。",
+  "use": {
+   "col": [
+    [
+     "vom Konto abbuchen",
+     "从账户扣款"
+    ],
+    [
+     "den Betrag abbuchen lassen",
+     "让银行扣款"
+    ]
+   ],
+   "tip": "可分动词；对应名词 Abbuchung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "einlösen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingelöst",
+  "forms": "löst ein, löste ein, hat eingelöst",
+  "zh": "兑现；兑换；使用（券）",
+  "ex": [
+   "Den Gutschein kannst du nur in der Filiale einlösen."
+  ],
+  "ex_zh": "这张代金券你只能在门店使用。",
+  "use": {
+   "col": [
+    [
+     "einen Gutschein einlösen",
+     "使用代金券"
+    ],
+    [
+     "einen Scheck einlösen",
+     "兑现支票"
+    ]
+   ],
+   "tip": "可分动词；也有“兑现承诺”：ein Versprechen einlösen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "anlegen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "angelegt",
+  "forms": "legt an, legte an, hat angelegt",
+  "zh": "投资；存入；建立",
+  "ex": [
+   "Er hat sein Erspartes in Aktien angelegt."
+  ],
+  "ex_zh": "他把积蓄投资到股票里了。",
+  "gov": "Geld in + Dat./Akk. anlegen",
+  "use": {
+   "senses": [
+    "（钱）投资",
+    "创建（账户、档案）"
+   ],
+   "col": [
+    [
+     "Geld anlegen",
+     "把钱用来投资"
+    ],
+    [
+     "ein Konto anlegen",
+     "建立账户"
+    ]
+   ],
+   "tip": "可分动词；Geld in etw. anlegen；也指“建档、创建”"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "investieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "investiert",
+  "forms": "investiert, investierte, hat investiert",
+  "zh": "投资；投入",
+  "ex": [
+   "Die Firma investiert viel Geld in neue Technologien."
+  ],
+  "ex_zh": "公司在新技术上投入大量资金。",
+  "gov": "investieren in + Akk.",
+  "use": {
+   "col": [
+    [
+     "in etwas investieren",
+     "投资某事"
+    ],
+    [
+     "Zeit in etwas investieren",
+     "在某事上投入时间"
+    ]
+   ],
+   "tip": "名词 die Investition；Investor 投资人"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "erstatten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "erstattet",
+  "forms": "erstattet, erstattete, hat erstattet",
+  "zh": "退还；报销",
+  "ex": [
+   "Die Firma erstattet mir die Reisekosten innerhalb von zwei Wochen."
+  ],
+  "ex_zh": "公司会在两周内给我报销差旅费。",
+  "gov": "jdm. etwas erstatten",
+  "use": {
+   "col": [
+    [
+     "Kosten erstatten",
+     "退还费用"
+    ],
+    [
+     "Anzeige erstatten",
+     "报案"
+    ]
+   ],
+   "tip": "不可分动词；Anzeige erstatten = 报警"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "reklamieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "reklamiert",
+  "forms": "reklamiert, reklamierte, hat reklamiert",
+  "zh": "投诉（商品有问题）；提出异议",
+  "ex": [
+   "Ich habe die defekte Ware sofort beim Verkäufer reklamiert."
+  ],
+  "ex_zh": "我立刻向卖家投诉了这件有缺陷的商品。",
+  "use": {
+   "col": [
+    [
+     "einen Mangel reklamieren",
+     "就缺陷提出投诉"
+    ],
+    [
+     "beim Händler reklamieren",
+     "向商家投诉"
+    ]
+   ],
+   "tip": "不可分动词；名词 die Reklamation"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "stornieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "storniert",
+  "forms": "storniert, stornierte, hat storniert",
+  "zh": "取消（订单、预订）",
+  "ex": [
+   "Wir mussten den Flug leider kurzfristig stornieren."
+  ],
+  "ex_zh": "很遗憾，我们不得不临时取消航班。",
+  "use": {
+   "col": [
+    [
+     "eine Buchung stornieren",
+     "取消预订"
+    ],
+    [
+     "eine Bestellung stornieren",
+     "取消订单"
+    ]
+   ],
+   "tip": "不可分动词；名词 die Stornierung / 缩略 Storno"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "widerrufen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "widerrufen",
+  "forms": "widerruft, widerrief, hat widerrufen",
+  "zh": "撤销；撤回",
+  "ex": [
+   "Innerhalb von 14 Tagen kann man den Vertrag ohne Angabe von Gründen widerrufen."
+  ],
+  "ex_zh": "14天内可以无需说明理由撤销合同。",
+  "use": {
+   "col": [
+    [
+     "einen Vertrag widerrufen",
+     "撤销合同"
+    ],
+    [
+     "eine Aussage widerrufen",
+     "收回说法"
+    ]
+   ],
+   "tip": "不可分动词，强变化；名词 der Widerruf"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "exportieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "exportiert",
+  "forms": "exportiert, exportierte, hat exportiert",
+  "zh": "出口",
+  "ex": [
+   "Deutschland exportiert viele Maschinen in die ganze Welt."
+  ],
+  "ex_zh": "德国向全世界出口大量机械。",
+  "use": {
+   "col": [
+    [
+     "Waren exportieren",
+     "出口商品"
+    ],
+    [
+     "ins Ausland exportieren",
+     "出口到国外"
+    ]
+   ],
+   "tip": "IT 里也有“导出数据”的意思；反义 importieren"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "importieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "importiert",
+  "forms": "importiert, importierte, hat importiert",
+  "zh": "进口；导入",
+  "ex": [
+   "Das Land importiert fast die gesamte Energie aus dem Ausland."
+  ],
+  "ex_zh": "这个国家几乎所有能源都从国外进口。",
+  "use": {
+   "col": [
+    [
+     "Waren importieren",
+     "进口商品"
+    ],
+    [
+     "Daten importieren",
+     "导入数据"
+    ]
+   ],
+   "tip": "IT 里表示“导入数据”；名词 der Import"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verhandeln",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verhandelt",
+  "forms": "verhandelt, verhandelte, hat verhandelt",
+  "zh": "谈判；磋商",
+  "ex": [
+   "Wir haben lange über den Preis verhandelt, aber keine Einigung erzielt."
+  ],
+  "ex_zh": "我们就价格谈了很久，但没有达成一致。",
+  "gov": "verhandeln über + Akk. / mit + Dat.",
+  "use": {
+   "col": [
+    [
+     "über den Preis verhandeln",
+     "就价格谈判"
+    ],
+    [
+     "mit dem Arbeitgeber verhandeln",
+     "与雇主谈判"
+    ]
+   ],
+   "tip": "名词 die Verhandlung；法庭上指“审理”（Fall wird verhandelt）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "unterzeichnen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "unterzeichnet",
+  "forms": "unterzeichnet, unterzeichnete, hat unterzeichnet",
+  "zh": "签署",
+  "ex": [
+   "Beide Parteien haben den Vertrag am Freitag unterzeichnet."
+  ],
+  "ex_zh": "双方在周五签署了合同。",
+  "use": {
+   "col": [
+    [
+     "einen Vertrag unterzeichnen",
+     "签署合同"
+    ],
+    [
+     "ein Abkommen unterzeichnen",
+     "签署协议"
+    ]
+   ],
+   "tip": "比 unterschreiben 更正式，多用于条约、合同"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "haften",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gehaftet",
+  "forms": "haftet, haftete, hat gehaftet",
+  "zh": "承担责任；负赔偿责任",
+  "ex": [
+   "Eltern haften nicht immer für die Schäden ihrer Kinder."
+  ],
+  "ex_zh": "父母并不总是要为孩子造成的损失负责。",
+  "gov": "haften für + Akk.",
+  "use": {
+   "col": [
+    [
+     "für einen Schaden haften",
+     "对损害负责"
+    ],
+    [
+     "persönlich haften",
+     "承担个人责任"
+    ]
+   ],
+   "tip": "名词 die Haftung；另有“粘住”义 an etw. haften"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich verschulden",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verschuldet",
+  "forms": "verschuldet sich, verschuldete sich, hat sich verschuldet",
+  "zh": "负债；欠债",
+  "ex": [
+   "Viele junge Leute verschulden sich schon beim ersten Handyvertrag."
+  ],
+  "ex_zh": "很多年轻人在办第一份手机合同时就已经负债了。",
+  "use": {
+   "col": [
+    [
+     "sich hoch verschulden",
+     "负下高额债务"
+    ],
+    [
+     "stark verschuldet sein",
+     "负债累累"
+    ]
+   ],
+   "tip": "形容词 verschuldet；名词 die Verschuldung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "einsparen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingespart",
+  "forms": "spart ein, sparte ein, hat eingespart",
+  "zh": "节省；省下",
+  "ex": [
+   "Durch den Umstieg auf Ökostrom konnten wir viel Geld einsparen."
+  ],
+  "ex_zh": "改用绿色电力后，我们省下了不少钱。",
+  "use": {
+   "col": [
+    [
+     "Kosten einsparen",
+     "节省成本"
+    ],
+    [
+     "Energie einsparen",
+     "节能"
+    ]
+   ],
+   "tip": "比 sparen 更强调省下具体的量；名词 die Einsparung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "abziehen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgezogen",
+  "forms": "zieht ab, zog ab, hat abgezogen",
+  "zh": "扣除；减去",
+  "ex": [
+   "Vom Bruttogehalt werden noch Steuern und Sozialabgaben abgezogen."
+  ],
+  "ex_zh": "税前工资里还要扣除税和社保。",
+  "use": {
+   "col": [
+    [
+     "von der Steuer abziehen",
+     "从应纳税额中扣除"
+    ],
+    [
+     "Geld abziehen",
+     "扣钱"
+    ]
+   ],
+   "tip": "可分动词；名词 der Abzug"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "zurückzahlen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "zurückgezahlt",
+  "forms": "zahlt zurück, zahlte zurück, hat zurückgezahlt",
+  "zh": "偿还；归还（钱）",
+  "ex": [
+   "Ich zahle dir das Geld nächste Woche zurück."
+  ],
+  "ex_zh": "我下周把钱还给你。",
+  "use": {
+   "col": [
+    [
+     "ein Darlehen zurückzahlen",
+     "偿还贷款"
+    ],
+    [
+     "die Schulden zurückzahlen",
+     "还清债务"
+    ]
+   ],
+   "tip": "可分动词；名词 die Rückzahlung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "abzahlen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgezahlt",
+  "forms": "zahlt ab, zahlte ab, hat abgezahlt",
+  "zh": "分期还清；还清",
+  "ex": [
+   "Er zahlt seit Jahren das Haus ab."
+  ],
+  "ex_zh": "他多年来一直在分期还房子的钱。",
+  "use": {
+   "col": [
+    [
+     "einen Kredit abzahlen",
+     "还清贷款"
+    ],
+    [
+     "in Raten abzahlen",
+     "分期付清"
+    ]
+   ],
+   "tip": "可分动词；侧重一笔一笔还"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "spenden",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gespendet",
+  "forms": "spendet, spendete, hat gespendet",
+  "zh": "捐款；捐赠",
+  "ex": [
+   "Viele Menschen haben für die Opfer der Flut gespendet."
+  ],
+  "ex_zh": "很多人为洪灾受害者捐了款。",
+  "use": {
+   "col": [
+    [
+     "Geld spenden",
+     "捐钱"
+    ],
+    [
+     "Blut spenden",
+     "献血"
+    ]
+   ],
+   "tip": "名词 die Spende / der Spender"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "senken",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gesenkt",
+  "forms": "senkt, senkte, hat gesenkt",
+  "zh": "降低；削减",
+  "ex": [
+   "Die Zentralbank hat die Zinsen überraschend gesenkt."
+  ],
+  "ex_zh": "央行出人意料地降低了利率。",
+  "use": {
+   "col": [
+    [
+     "die Preise senken",
+     "降价"
+    ],
+    [
+     "Kosten senken",
+     "降低成本"
+    ]
+   ],
+   "tip": "反义 erhöhen / anheben；sich senken 则是“下降”"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "anheben",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "angehoben",
+  "forms": "hebt an, hob an, hat angehoben",
+  "zh": "提高（价格、标准）；抬起",
+  "ex": [
+   "Die Regierung will den Mindestlohn schrittweise anheben."
+  ],
+  "ex_zh": "政府想逐步提高最低工资。",
+  "use": {
+   "col": [
+    [
+     "den Mindestlohn anheben",
+     "提高最低工资"
+    ],
+    [
+     "das Niveau anheben",
+     "提高水平"
+    ]
+   ],
+   "tip": "可分动词；比 erhöhen 更书面，常用于官方"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "kürzen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gekürzt",
+  "forms": "kürzt, kürzte, hat gekürzt",
+  "zh": "削减；缩短",
+  "ex": [
+   "Wegen der Krise wurden die Gehälter um fünf Prozent gekürzt."
+  ],
+  "ex_zh": "由于危机，工资被削减了5%。",
+  "use": {
+   "col": [
+    [
+     "das Budget kürzen",
+     "削减预算"
+    ],
+    [
+     "Leistungen kürzen",
+     "减少福利"
+    ]
+   ],
+   "tip": "形容词 kurz；名词 die Kürzung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "absetzen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgesetzt",
+  "forms": "setzt ab, setzte ab, hat abgesetzt",
+  "zh": "（从税中）扣除；卖出；放下",
+  "ex": [
+   "Die Kosten für den Computer kann ich bei der Steuer absetzen."
+  ],
+  "ex_zh": "这台电脑的费用我可以在报税时抵扣。",
+  "use": {
+   "senses": [
+    "（税前）扣除",
+    "销售出去",
+    "放下、撤职"
+   ],
+   "col": [
+    [
+     "von der Steuer absetzen",
+     "税前扣除"
+    ],
+    [
+     "Waren absetzen",
+     "销售商品"
+    ]
+   ],
+   "tip": "名词 der Absatz（销售）；absetzbar 可抵扣的"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "abrechnen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgerechnet",
+  "forms": "rechnet ab, rechnete ab, hat abgerechnet",
+  "zh": "结算；报销；清算",
+  "ex": [
+   "Die Reisekosten rechne ich am Monatsende mit dem Arbeitgeber ab."
+  ],
+  "ex_zh": "差旅费我在月底和雇主结算。",
+  "use": {
+   "col": [
+    [
+     "die Kosten abrechnen",
+     "结算费用"
+    ],
+    [
+     "mit jemandem abrechnen",
+     "与某人清算"
+    ]
+   ],
+   "tip": "名词 die Abrechnung（结算单）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "mahnen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gemahnt",
+  "forms": "mahnt, mahnte, hat gemahnt",
+  "zh": "催促；警告；催款",
+  "ex": [
+   "Der Vermieter hat mich bereits zweimal gemahnt, die Miete zu zahlen."
+  ],
+  "ex_zh": "房东已经两次催我交房租了。",
+  "use": {
+   "col": [
+    [
+     "jemanden mahnen",
+     "催某人付款"
+    ],
+    [
+     "zur Vorsicht mahnen",
+     "提醒注意"
+    ]
+   ],
+   "tip": "名词 die Mahnung；mahnen zu + Dat. 提醒做某事"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "beliefern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "beliefert",
+  "forms": "beliefert, belieferte, hat beliefert",
+  "zh": "向……供货",
+  "ex": [
+   "Das Unternehmen beliefert mehrere Supermarktketten mit frischem Gemüse."
+  ],
+  "ex_zh": "这家公司向几家连锁超市供应新鲜蔬菜。",
+  "use": {
+   "col": [
+    [
+     "Kunden beliefern",
+     "给客户供货"
+    ],
+    [
+     "beliefert werden",
+     "获得供货"
+    ]
+   ],
+   "tip": "不可分动词；jdn. mit etw. beliefern"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "werben",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "geworben",
+  "forms": "wirbt, warb, hat geworben",
+  "zh": "做广告；招揽；争取",
+  "ex": [
+   "Die Firma wirbt im Fernsehen für ihr neues Produkt."
+  ],
+  "ex_zh": "公司在电视上为新产品做广告。",
+  "gov": "werben für + Akk. / um + Akk.",
+  "use": {
+   "col": [
+    [
+     "für ein Produkt werben",
+     "为产品做广告"
+    ],
+    [
+     "um Kunden werben",
+     "争取客户"
+    ]
+   ],
+   "tip": "强变化；名词 die Werbung；Werbespot 广告片"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich verteuern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verteuert",
+  "forms": "verteuert sich, verteuerte sich, hat sich verteuert",
+  "zh": "变贵；涨价",
+  "ex": [
+   "Durch die Zölle verteuern sich importierte Waren erheblich."
+  ],
+  "ex_zh": "关税使进口商品大幅涨价。",
+  "use": {
+   "col": [
+    [
+     "sich deutlich verteuern",
+     "明显涨价"
+    ],
+    [
+     "etwas verteuern",
+     "使某物变贵"
+    ]
+   ],
+   "tip": "反义 sich verbilligen；名词 die Verteuerung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "aufkommen",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "aufgekommen",
+  "forms": "kommt auf, kam auf, ist aufgekommen",
+  "zh": "承担（费用）；出现",
+  "ex": [
+   "Die Versicherung kommt für den Schaden auf."
+  ],
+  "ex_zh": "保险公司承担这笔损失。",
+  "gov": "aufkommen für + Akk.",
+  "use": {
+   "senses": [
+    "承担（费用）",
+    "出现、产生"
+   ],
+   "col": [
+    [
+     "für die Kosten aufkommen",
+     "承担费用"
+    ],
+    [
+     "Zweifel kommen auf",
+     "产生疑虑"
+    ]
+   ],
+   "tip": "可分动词；名词 das Aufkommen（税收收入）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "begleichen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "beglichen",
+  "forms": "begleicht, beglich, hat beglichen",
+  "zh": "结清；偿付",
+  "ex": [
+   "Bitte begleichen Sie die offene Rechnung bis zum 15. des Monats."
+  ],
+  "ex_zh": "请在本月15日前结清未付账单。",
+  "use": {
+   "col": [
+    [
+     "eine Rechnung begleichen",
+     "结清账单"
+    ],
+    [
+     "Schulden begleichen",
+     "还清债务"
+    ]
+   ],
+   "tip": "书面语，比 bezahlen 正式；不可分动词，强变化"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "anfordern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "angefordert",
+  "forms": "fordert an, forderte an, hat angefordert",
+  "zh": "申请；索取；调用",
+  "ex": [
+   "Für die Steuererklärung musste ich eine Bescheinigung bei der Bank anfordern."
+  ],
+  "ex_zh": "为了报税，我得向银行申请一份证明。",
+  "use": {
+   "col": [
+    [
+     "Unterlagen anfordern",
+     "索要材料"
+    ],
+    [
+     "ein Angebot anfordern",
+     "索取报价"
+    ]
+   ],
+   "tip": "可分动词；名词 die Anforderung 要求"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "einreichen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingereicht",
+  "forms": "reicht ein, reichte ein, hat eingereicht",
+  "zh": "提交（文件、申请）",
+  "ex": [
+   "Die Steuererklärung muss bis Ende Juli beim Finanzamt eingereicht werden."
+  ],
+  "ex_zh": "报税表必须在七月底前交到税务局。",
+  "use": {
+   "col": [
+    [
+     "einen Antrag einreichen",
+     "提交申请"
+    ],
+    [
+     "Klage einreichen",
+     "提起诉讼"
+    ]
+   ],
+   "tip": "可分动词；比 abgeben 更正式"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich rentieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "rentiert",
+  "forms": "rentiert sich, rentierte sich, hat sich rentiert",
+  "zh": "划算；有回报",
+  "ex": [
+   "Der Kauf einer Solaranlage rentiert sich nach etwa zehn Jahren."
+  ],
+  "ex_zh": "购买太阳能设备大约十年后就回本了。",
+  "use": {
+   "col": [
+    [
+     "sich finanziell rentieren",
+     "在经济上划算"
+    ],
+    [
+     "Das rentiert sich nicht.",
+     "这不划算。"
+    ]
+   ],
+   "tip": "类似 sich lohnen；形容词 rentabel 有盈利的"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "kalkulieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "kalkuliert",
+  "forms": "kalkuliert, kalkulierte, hat kalkuliert",
+  "zh": "核算；估算",
+  "ex": [
+   "Wir haben die Kosten für das Projekt mit 50.000 Euro kalkuliert."
+  ],
+  "ex_zh": "我们把这个项目的成本核算为5万欧元。",
+  "use": {
+   "col": [
+    [
+     "die Kosten kalkulieren",
+     "核算成本"
+    ],
+    [
+     "knapp kalkuliert",
+     "估算得很紧"
+    ]
+   ],
+   "tip": "名词 die Kalkulation；kalkulieren mit + Dat. 把……考虑在内"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "kassieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "kassiert",
+  "forms": "kassiert, kassierte, hat kassiert",
+  "zh": "收款；收取",
+  "ex": [
+   "Der Schaffner kassiert die Fahrkarten im Zug."
+  ],
+  "ex_zh": "列车员在车上收票款。",
+  "use": {
+   "col": [
+    [
+     "Geld kassieren",
+     "收钱"
+    ],
+    [
+     "eine Strafe kassieren",
+     "被罚款（口语）"
+    ]
+   ],
+   "tip": "口语里也表示“挨罚”“获得”；名词 die Kasse"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "nachweisen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "nachgewiesen",
+  "forms": "weist nach, wies nach, hat nachgewiesen",
+  "zh": "证明；出示证明",
+  "ex": [
+   "Für das Visum muss ich ein ausreichendes Einkommen nachweisen."
+  ],
+  "ex_zh": "办签证我必须证明有足够的收入。",
+  "use": {
+   "col": [
+    [
+     "ein Einkommen nachweisen",
+     "证明收入"
+    ],
+    [
+     "einen Schaden nachweisen",
+     "证明损失"
+    ]
+   ],
+   "tip": "可分动词；名词 der Nachweis；比 beweisen 更偏提供文件"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "versteuern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "versteuert",
+  "forms": "versteuert, versteuerte, hat versteuert",
+  "zh": "缴税；交所得税",
+  "ex": [
+   "Dieser Gewinn muss versteuert werden."
+  ],
+  "ex_zh": "这笔利润必须缴税。",
+  "use": {
+   "col": [
+    [
+     "Einkommen versteuern",
+     "就收入纳税"
+    ],
+    [
+     "versteuertes Einkommen",
+     "税后收入"
+    ]
+   ],
+   "tip": "不可分动词；名词 die Versteuerung；besteuern 是国家征税"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "in Anspruch nehmen",
+  "pos": "phr",
+  "aux": "hat",
+  "p2": "in Anspruch genommen",
+  "forms": "nimmt in Anspruch, nahm in Anspruch, hat in Anspruch genommen",
+  "zh": "使用；享受（服务、权利）",
+  "ex": [
+   "Viele Studierende nehmen das Beratungsangebot der Hochschule in Anspruch."
+  ],
+  "ex_zh": "很多学生使用学校的咨询服务。",
+  "use": {
+   "col": [
+    [
+     "Leistungen in Anspruch nehmen",
+     "享受服务"
+    ],
+    [
+     "Hilfe in Anspruch nehmen",
+     "寻求帮助"
+    ]
+   ],
+   "tip": "可当“占用”（Zeit in Anspruch nehmen）；名词 der Anspruch"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "IBAN",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die IBANs",
+  "zh": "国际银行账号",
+  "ex": [
+   "Bitte geben Sie auf dem Formular Ihre IBAN und Ihren Namen an."
+  ],
+  "ex_zh": "请在表格上填写您的IBAN和姓名。",
+  "use": {
+   "col": [
+    [
+     "die IBAN angeben",
+     "填写IBAN"
+    ],
+    [
+     "eine falsche IBAN",
+     "错误的IBAN"
+    ]
+   ],
+   "tip": "德国IBAN以 DE 开头，共22位；常搭配 BIC"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Dispo",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Dispos",
+  "zh": "透支额度（口语）",
+  "ex": [
+   "Mein Konto ist im Dispo, deshalb muss ich Zinsen zahlen."
+  ],
+  "ex_zh": "我的账户透支了，所以要付利息。",
+  "use": {
+   "col": [
+    [
+     "im Dispo sein",
+     "账户透支"
+    ],
+    [
+     "den Dispo ausreizen",
+     "用满透支额度"
+    ]
+   ],
+   "tip": "全称 Dispositionskredit / Dispokredit，利率往往很高"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kontoinhaber",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Kontoinhaber",
+  "zh": "账户持有人",
+  "ex": [
+   "Der Kontoinhaber muss die Überweisung persönlich freigeben."
+  ],
+  "ex_zh": "账户持有人必须亲自授权这笔转账。",
+  "use": {
+   "col": [
+    [
+     "der Kontoinhaber",
+     "账户持有人"
+    ],
+    [
+     "auf den Namen des Kontoinhabers",
+     "以账户持有人名义"
+    ]
+   ],
+   "tip": "阴性 die Kontoinhaberin；填转账表时的一栏"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Schufa",
+  "art": "die",
+  "pos": "n",
+  "zh": "（德国）征信机构",
+  "ex": [
+   "Ohne positive Schufa-Auskunft bekommt man kaum eine Wohnung."
+  ],
+  "ex_zh": "没有良好的征信记录几乎租不到房。",
+  "use": {
+   "col": [
+    [
+     "eine Schufa-Auskunft einholen",
+     "查询征信报告"
+    ],
+    [
+     "ein negativer Schufa-Eintrag",
+     "不良征信记录"
+    ]
+   ],
+   "tip": "租房、办手机合同、贷款都常要求 Schufa-Auskunft"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zahlungseingang",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Zahlungseingänge",
+  "zh": "款项到账",
+  "ex": [
+   "Nach Zahlungseingang versenden wir die Ware sofort."
+  ],
+  "ex_zh": "收到款项后我们立即发货。",
+  "use": {
+   "col": [
+    [
+     "nach Zahlungseingang",
+     "款到之后"
+    ],
+    [
+     "den Zahlungseingang prüfen",
+     "核对到账"
+    ]
+   ],
+   "tip": "反义 Zahlungsausgang；Vorkasse 情形下常见"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Vorkasse",
+  "art": "die",
+  "pos": "n",
+  "zh": "预付款；先付款",
+  "ex": [
+   "In diesem Shop ist nur Zahlung per Vorkasse möglich."
+  ],
+  "ex_zh": "这家网店只能先付款。",
+  "use": {
+   "col": [
+    [
+     "per Vorkasse zahlen",
+     "先付款"
+    ],
+    [
+     "gegen Vorkasse liefern",
+     "预付后发货"
+    ]
+   ],
+   "tip": "反义：Kauf auf Rechnung（后付款）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Nachnahme",
+  "art": "die",
+  "pos": "n",
+  "zh": "货到付款",
+  "ex": [
+   "Das Paket kommt per Nachnahme, ich muss also beim Empfang zahlen."
+  ],
+  "ex_zh": "这个包裹是货到付款，所以收货时我得付钱。",
+  "use": {
+   "col": [
+    [
+     "per Nachnahme senden",
+     "货到付款寄送"
+    ],
+    [
+     "Nachnahmegebühr",
+     "货到付款费"
+    ]
+   ],
+   "tip": "邮包收货时付款，要收额外手续费"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Sperrung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Sperrungen",
+  "zh": "冻结；封锁",
+  "ex": [
+   "Nach dem Diebstahl habe ich die Sperrung meiner Bankkarte veranlasst."
+  ],
+  "ex_zh": "被盗后我申请冻结了银行卡。",
+  "use": {
+   "col": [
+    [
+     "die Sperrung der Karte",
+     "银行卡挂失"
+    ],
+    [
+     "eine Sperrung veranlassen",
+     "办理冻结"
+    ]
+   ],
+   "tip": "动词 sperren；道路“封路”也用这个词；银行卡挂失电话 116 116"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kundenservice",
+  "art": "der",
+  "pos": "n",
+  "zh": "客户服务",
+  "ex": [
+   "Der Kundenservice hat mein Problem innerhalb eines Tages gelöst."
+  ],
+  "ex_zh": "客服在一天之内解决了我的问题。",
+  "use": {
+   "col": [
+    [
+     "den Kundenservice kontaktieren",
+     "联系客服"
+    ],
+    [
+     "beim Kundenservice anrufen",
+     "打电话给客服"
+    ]
+   ],
+   "tip": "也可说 die Kundenbetreuung；Hotline 客服热线"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Preis-Leistungs-Verhältnis",
+  "art": "das",
+  "pos": "n",
+  "zh": "性价比",
+  "ex": [
+   "Das Preis-Leistungs-Verhältnis dieses Handys ist wirklich gut."
+  ],
+  "ex_zh": "这款手机的性价比真的很高。",
+  "use": {
+   "col": [
+    [
+     "ein gutes Preis-Leistungs-Verhältnis",
+     "性价比高"
+    ],
+    [
+     "das Preis-Leistungs-Verhältnis vergleichen",
+     "比较性价比"
+    ]
+   ],
+   "tip": "没有复数；Verhältnis 本是“比例”"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Ausverkauf",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Ausverkäufe",
+  "zh": "清仓大甩卖",
+  "ex": [
+   "Beim Ausverkauf gibt es Winterjacken zum halben Preis."
+  ],
+  "ex_zh": "清仓甩卖时冬季外套半价。",
+  "use": {
+   "col": [
+    [
+     "im Ausverkauf kaufen",
+     "在清仓时购买"
+    ],
+    [
+     "beim Ausverkauf zuschlagen",
+     "趁清仓下手"
+    ]
+   ],
+   "tip": "形容词 ausverkauft 指“卖光了”；Schlussverkauf 为季末打折"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gebrauchtwagen",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Gebrauchtwagen",
+  "zh": "二手车",
+  "ex": [
+   "Als Student habe ich mir einen günstigen Gebrauchtwagen gekauft."
+  ],
+  "ex_zh": "读书时我买了一辆便宜的二手车。",
+  "use": {
+   "col": [
+    [
+     "einen Gebrauchtwagen kaufen",
+     "买二手车"
+    ],
+    [
+     "ein Gebrauchtwagenhändler",
+     "二手车商"
+    ]
+   ],
+   "tip": "反义 Neuwagen；买二手车时要检查 TÜV"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Nettogehalt",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Nettogehälter",
+  "zh": "税后工资",
+  "ex": [
+   "Mein Nettogehalt liegt etwa 600 Euro unter dem Bruttogehalt."
+  ],
+  "ex_zh": "我的税后工资比税前工资低大约600欧元。",
+  "use": {
+   "col": [
+    [
+     "das Nettogehalt berechnen",
+     "计算税后工资"
+    ],
+    [
+     "Netto vom Brutto",
+     "税后收入"
+    ]
+   ],
+   "tip": "反义 Bruttogehalt；口语常说 netto / brutto"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Lohnsteuer",
+  "art": "die",
+  "pos": "n",
+  "zh": "工资税",
+  "ex": [
+   "Die Lohnsteuer wird direkt vom Arbeitgeber an das Finanzamt abgeführt."
+  ],
+  "ex_zh": "工资税由雇主直接上缴给税务局。",
+  "use": {
+   "col": [
+    [
+     "die Lohnsteuer abführen",
+     "代扣并上缴工资税"
+    ],
+    [
+     "die Lohnsteuerkarte",
+     "工资税卡（旧称）"
+    ]
+   ],
+   "tip": "Lohnsteuerklasse 决定扣税多少；Einkommensteuer 是总体所得税"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Steuerklasse",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Steuerklassen",
+  "zh": "税级",
+  "ex": [
+   "Verheiratete können oft durch einen Wechsel der Steuerklasse Geld sparen."
+  ],
+  "ex_zh": "已婚的人往往可以通过换税级来省钱。",
+  "use": {
+   "col": [
+    [
+     "die Steuerklasse wechseln",
+     "更换税级"
+    ],
+    [
+     "in Steuerklasse 1 sein",
+     "属于税级1"
+    ]
+   ],
+   "tip": "德国分税级1–6；单身通常是税级1"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Sozialversicherung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Sozialversicherungen",
+  "zh": "社会保险",
+  "ex": [
+   "Arbeitnehmer zahlen Beiträge zur Sozialversicherung direkt vom Gehalt."
+  ],
+  "ex_zh": "雇员的社会保险费直接从工资里扣。",
+  "use": {
+   "col": [
+    [
+     "Beiträge zur Sozialversicherung",
+     "社保缴费"
+    ],
+    [
+     "sozialversicherungspflichtig",
+     "需缴纳社保的"
+    ]
+   ],
+   "tip": "包括医疗、护理、养老、失业、工伤保险"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Rentenversicherung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Rentenversicherungen",
+  "zh": "养老保险",
+  "ex": [
+   "Jeder Arbeitnehmer zahlt automatisch in die gesetzliche Rentenversicherung ein."
+  ],
+  "ex_zh": "每个雇员都会自动缴纳法定养老保险。",
+  "use": {
+   "col": [
+    [
+     "in die Rentenversicherung einzahlen",
+     "缴纳养老保险"
+    ],
+    [
+     "die gesetzliche Rentenversicherung",
+     "法定养老保险"
+    ]
+   ],
+   "tip": "Rente 已有；Deutsche Rentenversicherung 为管理机构"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Arbeitslosenversicherung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Arbeitslosenversicherungen",
+  "zh": "失业保险",
+  "ex": [
+   "Wer in die Arbeitslosenversicherung eingezahlt hat, bekommt im Notfall Arbeitslosengeld."
+  ],
+  "ex_zh": "缴纳过失业保险的人，遇到失业时可以领取失业金。",
+  "use": {
+   "col": [
+    [
+     "in die Arbeitslosenversicherung einzahlen",
+     "缴纳失业保险"
+    ],
+    [
+     "die Beiträge zur Arbeitslosenversicherung",
+     "失业保险费"
+    ]
+   ],
+   "tip": "社会保险的一部分，和 Arbeitslosengeld 配套"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Police",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Policen",
+  "zh": "保险单",
+  "ex": [
+   "Die Police enthält alle Bedingungen und die Höhe der Versicherungssumme."
+  ],
+  "ex_zh": "保单上有全部条款和保险金额。",
+  "use": {
+   "col": [
+    [
+     "eine Police abschließen",
+     "投保"
+    ],
+    [
+     "die Police kündigen",
+     "退保"
+    ]
+   ],
+   "tip": "也叫 Versicherungspolice；注意读音 [poˈliːsə]"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Altersvorsorge",
+  "art": "die",
+  "pos": "n",
+  "zh": "养老储备",
+  "ex": [
+   "Eine private Altersvorsorge wird für junge Berufstätige immer wichtiger."
+  ],
+  "ex_zh": "私人养老储备对年轻上班族越来越重要。",
+  "use": {
+   "col": [
+    [
+     "für das Alter vorsorgen",
+     "为老年做准备"
+    ],
+    [
+     "die private Altersvorsorge",
+     "私人养老储备"
+    ]
+   ],
+   "tip": "没有复数；动词 vorsorgen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Rücklage",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Rücklagen",
+  "zh": "储备金；应急金",
+  "ex": [
+   "Man sollte immer eine finanzielle Rücklage für Notfälle haben."
+  ],
+  "ex_zh": "人应该总是留一笔应急资金。",
+  "use": {
+   "col": [
+    [
+     "Rücklagen bilden",
+     "建立储备金"
+    ],
+    [
+     "auf Rücklagen zurückgreifen",
+     "动用储备金"
+    ]
+   ],
+   "tip": "同义 Reserve；常用复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Mieterhöhung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Mieterhöhungen",
+  "zh": "涨租",
+  "ex": [
+   "Der Vermieter hat uns schriftlich eine Mieterhöhung angekündigt."
+  ],
+  "ex_zh": "房东书面通知我们要涨租。",
+  "use": {
+   "col": [
+    [
+     "eine Mieterhöhung ankündigen",
+     "通知涨租"
+    ],
+    [
+     "einer Mieterhöhung zustimmen",
+     "同意涨租"
+    ]
+   ],
+   "tip": "涨租有法律限制，不能随意；Mietspiegel 是租金参考表"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Nebenkostenabrechnung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Nebenkostenabrechnungen",
+  "zh": "杂费结算单",
+  "ex": [
+   "Die Nebenkostenabrechnung kommt meist im Frühjahr für das Vorjahr."
+  ],
+  "ex_zh": "杂费结算单通常在春天寄来，结算上一年的费用。",
+  "use": {
+   "col": [
+    [
+     "die Nebenkostenabrechnung prüfen",
+     "审查杂费结算单"
+    ],
+    [
+     "eine Nachzahlung laut Abrechnung",
+     "按结算单需补缴"
+    ]
+   ],
+   "tip": "房东每年需出具；有错可在一年内提出异议"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zahlungserinnerung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Zahlungserinnerungen",
+  "zh": "付款提醒",
+  "ex": [
+   "Ich habe eine Zahlungserinnerung bekommen, weil ich die Rechnung vergessen hatte."
+  ],
+  "ex_zh": "因为我忘了付那张账单，收到了付款提醒。",
+  "use": {
+   "col": [
+    [
+     "eine Zahlungserinnerung erhalten",
+     "收到付款提醒"
+    ],
+    [
+     "auf die Zahlungserinnerung reagieren",
+     "回应付款提醒"
+    ]
+   ],
+   "tip": "比 Mahnung 轻，通常没有手续费"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kundenkarte",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Kundenkarten",
+  "zh": "会员卡；客户卡",
+  "ex": [
+   "Mit der Kundenkarte sammelt man bei jedem Einkauf Punkte."
+  ],
+  "ex_zh": "用会员卡每次购物都能累积积分。",
+  "use": {
+   "col": [
+    [
+     "eine Kundenkarte beantragen",
+     "申请会员卡"
+    ],
+    [
+     "Punkte auf der Kundenkarte",
+     "会员卡积分"
+    ]
+   ],
+   "tip": "也称 Bonuskarte；用卡会留下购物数据"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Warenkorb",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Warenkörbe",
+  "zh": "购物车",
+  "ex": [
+   "Ich habe das Buch in den Warenkorb gelegt, aber noch nicht bestellt."
+  ],
+  "ex_zh": "我把这本书放进了购物车，但还没下单。",
+  "use": {
+   "col": [
+    [
+     "in den Warenkorb legen",
+     "加入购物车"
+    ],
+    [
+     "den Warenkorb leeren",
+     "清空购物车"
+    ]
+   ],
+   "tip": "网购术语；Einkaufswagen 是超市的购物推车"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Verkaufspreis",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Verkaufspreise",
+  "zh": "售价",
+  "ex": [
+   "Der Verkaufspreis liegt deutlich über dem Einkaufspreis."
+  ],
+  "ex_zh": "售价明显高于进价。",
+  "use": {
+   "col": [
+    [
+     "den Verkaufspreis festlegen",
+     "确定售价"
+    ],
+    [
+     "der empfohlene Verkaufspreis",
+     "建议零售价"
+    ]
+   ],
+   "tip": "反义 Einkaufspreis；UVP 为建议零售价"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Unkosten",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Unkosten",
+  "zh": "额外开销；费用（口语）",
+  "ex": [
+   "Die Unkosten für die Reparatur musste ich selbst tragen."
+  ],
+  "ex_zh": "修理的额外开销得我自己承担。",
+  "use": {
+   "col": [
+    [
+     "sich in Unkosten stürzen",
+     "破费"
+    ],
+    [
+     "die Unkosten tragen",
+     "承担费用"
+    ]
+   ],
+   "tip": "常用复数；比 Kosten 更口语，指额外的、不预期的开销"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gesamtpreis",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Gesamtpreise",
+  "zh": "总价",
+  "ex": [
+   "Der Gesamtpreis enthält die Mehrwertsteuer und die Versandkosten."
+  ],
+  "ex_zh": "总价包含增值税和运费。",
+  "use": {
+   "col": [
+    [
+     "der Gesamtpreis inklusive Steuer",
+     "含税总价"
+    ],
+    [
+     "den Gesamtpreis berechnen",
+     "计算总价"
+    ]
+   ],
+   "tip": "Einzelpreis 为单价"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Versandkosten",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Versandkosten",
+  "zh": "运费；邮寄费",
+  "ex": [
+   "Ab einem Bestellwert von 50 Euro entfallen die Versandkosten."
+  ],
+  "ex_zh": "订单满50欧元免运费。",
+  "use": {
+   "col": [
+    [
+     "die Versandkosten übernehmen",
+     "承担运费"
+    ],
+    [
+     "zuzüglich Versandkosten",
+     "另加运费"
+    ]
+   ],
+   "tip": "只用复数；Porto 为邮资"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Mehrwert",
+  "art": "der",
+  "pos": "n",
+  "zh": "附加值；增值",
+  "ex": [
+   "Die neue Funktion bietet den Nutzern einen echten Mehrwert."
+  ],
+  "ex_zh": "这项新功能为用户带来了真正的附加价值。",
+  "use": {
+   "col": [
+    [
+     "einen Mehrwert bieten",
+     "带来附加价值"
+    ],
+    [
+     "ohne Mehrwert",
+     "没有附加价值"
+    ]
+   ],
+   "tip": "Mehrwertsteuer 是增值税，别和 Mehrwert 混淆"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "wirtschaftlich",
+  "pos": "adj",
+  "zh": "经济上的；划算的；节约的",
+  "ex": [
+   "Die Firma befindet sich in einer wirtschaftlich schwierigen Lage."
+  ],
+  "ex_zh": "这家公司处于经济上困难的境地。",
+  "use": {
+   "senses": [
+    "经济的",
+    "节约的、划算的"
+   ],
+   "col": [
+    [
+     "wirtschaftlich denken",
+     "从经济角度思考"
+    ],
+    [
+     "ein wirtschaftliches Auto",
+     "省油划算的车"
+    ]
+   ],
+   "tip": "名词 die Wirtschaft；ökonomisch 更学术；Wirtschaftlichkeit 经济性"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "kostspielig",
+  "pos": "adj",
+  "zh": "花钱多的；昂贵的",
+  "ex": [
+   "Die Reparatur der Heizung war ziemlich kostspielig."
+  ],
+  "ex_zh": "暖气的维修相当花钱。",
+  "use": {
+   "col": [
+    [
+     "ein kostspieliges Hobby",
+     "烧钱的爱好"
+    ],
+    [
+     "kostspielig sein",
+     "很费钱"
+    ]
+   ],
+   "tip": "比 teuer 更书面；同义 aufwendig"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "erschwinglich",
+  "pos": "adj",
+  "zh": "负担得起的；价格合理的",
+  "ex": [
+   "Bezahlbarer und erschwinglicher Wohnraum fehlt in vielen Großstädten."
+  ],
+  "ex_zh": "许多大城市缺少价格合理、负担得起的住房。",
+  "use": {
+   "col": [
+    [
+     "erschwingliche Preise",
+     "可承受的价格"
+    ],
+    [
+     "für alle erschwinglich",
+     "人人都买得起"
+    ]
+   ],
+   "tip": "动词 sich leisten 对应；近义 bezahlbar"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "kostenpflichtig",
+  "pos": "adj",
+  "zh": "收费的",
+  "ex": [
+   "Der Zugang zum Archiv ist leider kostenpflichtig."
+  ],
+  "ex_zh": "遗憾的是，进入这个档案库要收费。",
+  "use": {
+   "col": [
+    [
+     "kostenpflichtig sein",
+     "需要付费"
+    ],
+    [
+     "ein kostenpflichtiger Dienst",
+     "付费服务"
+    ]
+   ],
+   "tip": "反义 kostenlos / gratis；-pflichtig 表示“有……义务的”"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "gebührenfrei",
+  "pos": "adj",
+  "zh": "免手续费的；不收费的",
+  "ex": [
+   "Die Hotline ist rund um die Uhr gebührenfrei erreichbar."
+  ],
+  "ex_zh": "热线全天免费拨打。",
+  "use": {
+   "col": [
+    [
+     "gebührenfrei telefonieren",
+     "免费通话"
+    ],
+    [
+     "ein gebührenfreies Konto",
+     "免手续费账户"
+    ]
+   ],
+   "tip": "名词 die Gebühr；同义 kostenlos，但更官方"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "steuerpflichtig",
+  "pos": "adj",
+  "zh": "有纳税义务的；应纳税的",
+  "ex": [
+   "Dieser Nebenverdienst ist grundsätzlich steuerpflichtig."
+  ],
+  "ex_zh": "这笔副业收入原则上要缴税。",
+  "use": {
+   "col": [
+    [
+     "steuerpflichtig sein",
+     "有纳税义务"
+    ],
+    [
+     "steuerpflichtiges Einkommen",
+     "应税收入"
+    ]
+   ],
+   "tip": "反义 steuerfrei；Steuerpflichtige(r) 为纳税人"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "steuerfrei",
+  "pos": "adj",
+  "zh": "免税的",
+  "ex": [
+   "Bis zu einer bestimmten Grenze bleibt der Verdienst steuerfrei."
+  ],
+  "ex_zh": "收入在一定额度内是免税的。",
+  "use": {
+   "col": [
+    [
+     "steuerfrei bleiben",
+     "保持免税"
+    ],
+    [
+     "ein steuerfreier Betrag",
+     "免税额"
+    ]
+   ],
+   "tip": "反义 steuerpflichtig；Duty-free 说 zollfrei"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "netto",
+  "pos": "adv",
+  "zh": "净额的；税后的",
+  "ex": [
+   "Von 3.000 Euro brutto bleiben mir ungefähr 2.000 Euro netto."
+  ],
+  "ex_zh": "3000欧元税前的收入，我大约剩2000欧元税后。",
+  "use": {
+   "col": [
+    [
+     "netto verdienen",
+     "税后收入"
+    ],
+    [
+     "netto 2.000 Euro",
+     "净额2000欧元"
+    ]
+   ],
+   "tip": "反义 brutto；也可作名词 Nettogewicht 净重"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "brutto",
+  "pos": "adv",
+  "zh": "毛额的；税前的",
+  "ex": [
+   "Mein Gehalt beträgt 3.500 Euro brutto im Monat."
+  ],
+  "ex_zh": "我的月薪是税前3500欧元。",
+  "use": {
+   "col": [
+    [
+     "brutto verdienen",
+     "税前收入"
+    ],
+    [
+     "Brutto für Netto",
+     "税前当税后"
+    ]
+   ],
+   "tip": "反义 netto；Bruttogewicht 毛重"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verbindlich",
+  "pos": "adj",
+  "zh": "有约束力的；具有法律效力的",
+  "ex": [
+   "Die Bestellung ist ab dem Klick auf den Button verbindlich."
+  ],
+  "ex_zh": "点击按钮后订单就具有约束力了。",
+  "use": {
+   "col": [
+    [
+     "eine verbindliche Zusage",
+     "确定的承诺"
+    ],
+    [
+     "verbindlich buchen",
+     "确定预订"
+    ]
+   ],
+   "tip": "反义 unverbindlich；名词 die Verbindlichkeit"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "unverbindlich",
+  "pos": "adj",
+  "zh": "不具约束力的；无承诺的",
+  "ex": [
+   "Wir senden Ihnen gern ein unverbindliches Angebot zu."
+  ],
+  "ex_zh": "我们很乐意寄给您一份无约束力的报价。",
+  "use": {
+   "col": [
+    [
+     "ein unverbindliches Angebot",
+     "无约束报价"
+    ],
+    [
+     "unverbindlich anfragen",
+     "不作承诺地询问"
+    ]
+   ],
+   "tip": "广告里常见“unverbindliche Preisempfehlung”（建议零售价）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "kündbar",
+  "pos": "adj",
+  "zh": "可解除的；可终止的",
+  "ex": [
+   "Der Vertrag ist erst nach zwölf Monaten kündbar."
+  ],
+  "ex_zh": "这份合同要满十二个月后才能解约。",
+  "use": {
+   "col": [
+    [
+     "jederzeit kündbar",
+     "随时可解约"
+    ],
+    [
+     "kurzfristig kündbar",
+     "可短期解约"
+    ]
+   ],
+   "tip": "反义 unkündbar；动词 kündigen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "vertraglich",
+  "pos": "adj",
+  "zh": "合同上的；合同规定的",
+  "ex": [
+   "Wir sind vertraglich zu monatlichen Zahlungen verpflichtet."
+  ],
+  "ex_zh": "我们按合同有义务每月付款。",
+  "use": {
+   "col": [
+    [
+     "vertraglich vereinbart",
+     "合同约定"
+    ],
+    [
+     "vertraglich geregelt",
+     "合同规定"
+    ]
+   ],
+   "tip": "副词和形容词同形；名词 der Vertrag"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "überteuert",
+  "pos": "adj",
+  "zh": "价格过高的；贵得离谱的",
+  "ex": [
+   "Die Getränke im Stadion sind mir viel zu überteuert."
+  ],
+  "ex_zh": "球场里的饮料对我来说贵得离谱。",
+  "use": {
+   "col": [
+    [
+     "völlig überteuert",
+     "价格高得离谱"
+    ],
+    [
+     "überteuerte Preise",
+     "过高的价格"
+    ]
+   ],
+   "tip": "口语常说 Wucherpreise；反义 preiswert"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "gewerblich",
+  "pos": "adj",
+  "zh": "营业的；商业的",
+  "ex": [
+   "Für gewerbliche Zwecke gelten andere Regeln als für Privatpersonen."
+  ],
+  "ex_zh": "商业用途适用的规则不同于私人。",
+  "use": {
+   "col": [
+    [
+     "gewerblich nutzen",
+     "用于商业用途"
+    ],
+    [
+     "ein gewerblicher Händler",
+     "商业卖家"
+    ]
+   ],
+   "tip": "名词 das Gewerbe；反义 privat；常见于网上卖家身份"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "geschäftlich",
+  "pos": "adj",
+  "zh": "商务的；业务上的",
+  "ex": [
+   "Er ist diese Woche geschäftlich in Frankfurt unterwegs."
+  ],
+  "ex_zh": "他这周在法兰克福出差。",
+  "use": {
+   "col": [
+    [
+     "geschäftlich reisen",
+     "出差"
+    ],
+    [
+     "geschäftliche Termine",
+     "商务约会"
+    ]
+   ],
+   "tip": "反义 privat；名词 das Geschäft"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "bargeldlos",
+  "pos": "adj",
+  "zh": "无现金的",
+  "ex": [
+   "Immer mehr Supermärkte bieten bargeldloses Bezahlen an."
+  ],
+  "ex_zh": "越来越多的超市提供无现金支付。",
+  "use": {
+   "col": [
+    [
+     "bargeldlos bezahlen",
+     "无现金支付"
+    ],
+    [
+     "bargeldloser Zahlungsverkehr",
+     "无现金支付体系"
+    ]
+   ],
+   "tip": "反义 bar；Bargeld 已有"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "mangelhaft",
+  "pos": "adj",
+  "zh": "有缺陷的；不合格的",
+  "ex": [
+   "Die gelieferte Ware war leider mangelhaft."
+  ],
+  "ex_zh": "送来的货遗憾地有缺陷。",
+  "use": {
+   "col": [
+    [
+     "mangelhafte Qualität",
+     "质量不合格"
+    ],
+    [
+     "mangelhaft verarbeitet",
+     "做工有缺陷"
+    ]
+   ],
+   "tip": "成绩单里 mangelhaft = 5分（不及格）；名词 der Mangel"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "pleite",
+  "pos": "adj",
+  "zh": "破产的；没钱的（口语）",
+  "ex": [
+   "Nach dem Urlaub bin ich total pleite."
+  ],
+  "ex_zh": "度假回来后我一分钱也没了。",
+  "use": {
+   "col": [
+    [
+     "pleite sein",
+     "没钱了"
+    ],
+    [
+     "pleitegehen",
+     "破产"
+    ]
+   ],
+   "tip": "口语；名词 die Pleite；商业上用 insolvent 更正式"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "lukrativ",
+  "pos": "adj",
+  "zh": "赚钱的；有利可图的",
+  "ex": [
+   "Das Angebot der Firma klingt finanziell sehr lukrativ."
+  ],
+  "ex_zh": "这家公司的报价从财务上看很诱人。",
+  "use": {
+   "col": [
+    [
+     "ein lukratives Geschäft",
+     "赚钱的买卖"
+    ],
+    [
+     "lukrative Angebote",
+     "有利可图的报价"
+    ]
+   ],
+   "tip": "近义 einträglich；强调“能赚大钱”"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "rentabel",
+  "pos": "adj",
+  "zh": "有利可图的；有盈利的",
+  "ex": [
+   "Der Betrieb ist erst seit letztem Jahr rentabel."
+  ],
+  "ex_zh": "这家企业从去年起才开始盈利。",
+  "use": {
+   "col": [
+    [
+     "rentabel arbeiten",
+     "盈利经营"
+    ],
+    [
+     "ein rentables Geschäft",
+     "能盈利的生意"
+    ]
+   ],
+   "tip": "名词 die Rentabilität；动词 sich rentieren"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "hochwertig",
+  "pos": "adj",
+  "zh": "高品质的；价值高的",
+  "ex": [
+   "Wir verwenden nur hochwertige Materialien für unsere Möbel."
+  ],
+  "ex_zh": "我们的家具只使用高品质的材料。",
+  "use": {
+   "col": [
+    [
+     "hochwertige Produkte",
+     "优质产品"
+    ],
+    [
+     "hochwertig verarbeitet",
+     "做工精良"
+    ]
+   ],
+   "tip": "反义 minderwertig"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "vorrätig",
+  "pos": "adj",
+  "zh": "有现货的；有库存的",
+  "ex": [
+   "Dieses Modell ist leider derzeit nicht vorrätig."
+  ],
+  "ex_zh": "这个型号目前遗憾地没有现货。",
+  "use": {
+   "col": [
+    [
+     "nicht mehr vorrätig",
+     "已无库存"
+    ],
+    [
+     "auf Lager",
+     "有货"
+    ]
+   ],
+   "tip": "Vorrat 库存；ausverkauft 则是“卖完了”"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "ausverkauft",
+  "pos": "adj",
+  "zh": "售罄的；卖光的",
+  "ex": [
+   "Die Konzertkarten waren innerhalb von Minuten ausverkauft."
+  ],
+  "ex_zh": "音乐会门票几分钟内就售罄了。",
+  "use": {
+   "col": [
+    [
+     "restlos ausverkauft",
+     "全部售罄"
+    ],
+    [
+     "vor ausverkauftem Haus",
+     "面对满座的观众"
+    ]
+   ],
+   "tip": "动词 ausverkaufen；也可用于演出“满座”"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "zahlungsfähig",
+  "pos": "adj",
+  "zh": "有偿付能力的",
+  "ex": [
+   "Die Bank prüft, ob der Antragsteller zahlungsfähig ist."
+  ],
+  "ex_zh": "银行审查申请人是否有偿付能力。",
+  "use": {
+   "col": [
+    [
+     "zahlungsfähig sein",
+     "有支付能力"
+    ],
+    [
+     "ein zahlungsfähiger Kunde",
+     "有支付能力的客户"
+    ]
+   ],
+   "tip": "反义 zahlungsunfähig；名词 die Zahlungsfähigkeit"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verschuldet",
+  "pos": "adj",
+  "zh": "负债的",
+  "ex": [
+   "Viele Privathaushalte sind stark verschuldet."
+  ],
+  "ex_zh": "许多家庭负债很重。",
+  "use": {
+   "col": [
+    [
+     "hoch verschuldet",
+     "高负债"
+    ],
+    [
+     "überschuldet",
+     "资不抵债"
+    ]
+   ],
+   "tip": "动词 sich verschulden；名词 Schulden"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "exklusive",
+  "pos": "prep",
+  "zh": "不含……（+ Gen.）",
+  "ex": [
+   "Die Preise gelten exklusive Mehrwertsteuer."
+  ],
+  "ex_zh": "价格不含增值税。",
+  "gov": "exklusive + Gen.",
+  "use": {
+   "col": [
+    [
+     "exklusive Versandkosten",
+     "不含运费"
+    ],
+    [
+     "exklusive Getränke",
+     "不含饮料"
+    ]
+   ],
+   "tip": "反义 inklusive；缩写 exkl.；另有“独家、高端”义"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "zuzüglich",
+  "pos": "prep",
+  "zh": "另加（+ Gen.）",
+  "ex": [
+   "Der Preis beträgt 99 Euro zuzüglich Versandkosten."
+  ],
+  "ex_zh": "价格是99欧元，另加运费。",
+  "gov": "zuzüglich + Gen.",
+  "use": {
+   "col": [
+    [
+     "zuzüglich Mehrwertsteuer",
+     "另加增值税"
+    ],
+    [
+     "zuzüglich der Gebühren",
+     "另加费用"
+    ]
+   ],
+   "tip": "缩写 zzgl.；反义 abzüglich（扣除）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "in bar",
+  "pos": "phr",
+  "zh": "用现金",
+  "ex": [
+   "Bei kleinen Beträgen zahle ich meistens in bar."
+  ],
+  "ex_zh": "金额小的时候我大多用现金付。",
+  "use": {
+   "col": [
+    [
+     "in bar bezahlen",
+     "用现金付款"
+    ],
+    [
+     "nur in bar",
+     "只收现金"
+    ]
+   ],
+   "tip": "和 bargeldlos 相反；同义 bar bezahlen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "auf Rechnung",
+  "pos": "phr",
+  "zh": "记账；先收货后付款",
+  "ex": [
+   "Bei diesem Online-Shop kann man auch auf Rechnung bestellen."
+  ],
+  "ex_zh": "这家网店也可以先收货后付款。",
+  "use": {
+   "col": [
+    [
+     "auf Rechnung kaufen",
+     "先买后付"
+    ],
+    [
+     "auf Rechnung bestellen",
+     "后付款订购"
+    ]
+   ],
+   "tip": "也指“由……承担”：auf eigene Rechnung（自负盈亏）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "in Rechnung stellen",
+  "pos": "phr",
+  "zh": "开账单；记入账单",
+  "ex": [
+   "Die Werkstatt hat mir die Arbeitszeit extra in Rechnung gestellt."
+  ],
+  "ex_zh": "修理厂把工时费单独记入账单向我收费。",
+  "use": {
+   "col": [
+    [
+     "etwas in Rechnung stellen",
+     "把某物计入账单"
+    ],
+    [
+     "Kosten in Rechnung stellen",
+     "收取费用"
+    ]
+   ],
+   "tip": "jdm. etw. in Rechnung stellen；正式用语"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "über die Runden kommen",
+  "pos": "phr",
+  "zh": "勉强维持生计",
+  "ex": [
+   "Mit seinem kleinen Gehalt kommt er gerade so über die Runden."
+  ],
+  "ex_zh": "他的那点工资只够勉强过日子。",
+  "use": {
+   "col": [
+    [
+     "gerade so über die Runden kommen",
+     "勉强维持"
+    ],
+    [
+     "kaum über die Runden kommen",
+     "几乎维持不下去"
+    ]
+   ],
+   "tip": "口语；出处是拳击回合"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Schulden machen",
+  "pos": "phr",
+  "zh": "借债；欠债",
+  "ex": [
+   "Seine Eltern haben nie Schulden gemacht."
+  ],
+  "ex_zh": "他的父母从没负过债。",
+  "use": {
+   "col": [
+    [
+     "Schulden machen",
+     "借债"
+    ],
+    [
+     "Schulden abbauen",
+     "还债"
+    ]
+   ],
+   "tip": "Schulden 已有；常与 abbauen、tilgen 搭配"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "das Konto überziehen",
+  "pos": "phr",
+  "zh": "账户透支",
+  "ex": [
+   "Ich musste mein Konto leider überziehen, weil das Gehalt später kam."
+  ],
+  "ex_zh": "工资晚到，我遗憾地只能透支账户。",
+  "use": {
+   "col": [
+    [
+     "das Konto überziehen",
+     "透支"
+    ],
+    [
+     "Überziehungszinsen zahlen",
+     "付透支利息"
+    ]
+   ],
+   "tip": "名词 die Überziehung；Dispo 为额度"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "in die roten Zahlen geraten",
+  "pos": "phr",
+  "zh": "陷入亏损",
+  "ex": [
+   "Das junge Unternehmen ist durch die hohen Kosten in die roten Zahlen geraten."
+  ],
+  "ex_zh": "高昂的成本使这家年轻公司陷入亏损。",
+  "use": {
+   "col": [
+    [
+     "in den roten Zahlen sein",
+     "处于亏损"
+    ],
+    [
+     "schwarze Zahlen schreiben",
+     "实现盈利"
+    ]
+   ],
+   "tip": "反义 schwarze Zahlen schreiben；账本用红、黑色标记亏盈"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "zu Lasten gehen",
+  "pos": "phr",
+  "zh": "由……承担；损害……",
+  "ex": [
+   "Die höheren Kosten gehen zu Lasten der Verbraucher."
+  ],
+  "ex_zh": "更高的成本要由消费者来承担。",
+  "gov": "zu Lasten + Gen.",
+  "use": {
+   "col": [
+    [
+     "zu Lasten des Kunden gehen",
+     "由客户承担"
+    ],
+    [
+     "auf Kosten von",
+     "以……为代价"
+    ]
+   ],
+   "tip": "也写 zulasten；较书面"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "im Voraus",
+  "pos": "phr",
+  "zh": "预先；提前",
+  "ex": [
+   "Die Miete muss jeweils im Voraus bezahlt werden."
+  ],
+  "ex_zh": "租金必须每次预先支付。",
+  "use": {
+   "col": [
+    [
+     "im Voraus bezahlen",
+     "提前付款"
+    ],
+    [
+     "im Voraus planen",
+     "提前计划"
+    ]
+   ],
+   "tip": "也可写 vorab；注意是大写 Voraus"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "ins Geld gehen",
+  "pos": "phr",
+  "zh": "花很多钱；费用高昂",
+  "ex": [
+   "Regelmäßige Reparaturen können ganz schön ins Geld gehen."
+  ],
+  "ex_zh": "经常修理会花不少钱。",
+  "use": {
+   "col": [
+    [
+     "ganz schön ins Geld gehen",
+     "非常花钱"
+    ],
+    [
+     "auf Dauer ins Geld gehen",
+     "长期下来花费很大"
+    ]
+   ],
+   "tip": "口语，感叹费用高"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "den Gürtel enger schnallen",
+  "pos": "phr",
+  "zh": "勒紧裤带；节衣缩食",
+  "ex": [
+   "In der Krise mussten viele Familien den Gürtel enger schnallen."
+  ],
+  "ex_zh": "危机期间很多家庭不得不勒紧裤带。",
+  "use": {
+   "col": [
+    [
+     "den Gürtel enger schnallen",
+     "勒紧裤带"
+    ],
+    [
+     "sich einschränken",
+     "节制开销"
+    ]
+   ],
+   "tip": "字面是“把腰带系紧”；与经济紧缩有关"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Bilanz",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Bilanzen",
+  "zh": "资产负债表；总结；成绩",
+  "ex": [
+   "Die Bilanz des Unternehmens fiel im vergangenen Geschäftsjahr positiv aus."
+  ],
+  "ex_zh": "公司上个财年的资产负债表结果为正。",
+  "use": {
+   "senses": [
+    "资产负债表",
+    "总结、成果"
+   ],
+   "col": [
+    [
+     "eine Bilanz ziehen",
+     "作总结"
+    ],
+    [
+     "eine positive Bilanz",
+     "良好的业绩"
+    ]
+   ],
+   "tip": "财务上是“资产负债表”，口语里也表示对某事的“总结、结果”"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Etat",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Etats",
+  "zh": "预算；经费",
+  "ex": [
+   "Der Etat für die Forschung wurde im nächsten Jahr um zehn Prozent gekürzt."
+  ],
+  "ex_zh": "明年的科研经费被削减了10%。",
+  "use": {
+   "col": [
+    [
+     "den Etat kürzen",
+     "削减预算"
+    ],
+    [
+     "der Etat für Bildung",
+     "教育预算"
+    ]
+   ],
+   "tip": "发音 [eˈtaː]；比 Budget 更偏政府、机构的预算；同义 Haushalt"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Rendite",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Renditen",
+  "zh": "收益率；回报率",
+  "ex": [
+   "Die Rendite dieser Anleihe liegt bei etwa drei Prozent pro Jahr."
+  ],
+  "ex_zh": "这只债券的年收益率约为3%。",
+  "use": {
+   "col": [
+    [
+     "eine hohe Rendite erzielen",
+     "获得高收益"
+    ],
+    [
+     "die Rendite sinkt",
+     "收益率下降"
+    ]
+   ],
+   "tip": "高 Rendite 通常伴随高风险；Zinsen 是存款的利息"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Dividende",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Dividenden",
+  "zh": "股息；红利",
+  "ex": [
+   "Das Unternehmen schüttet jedes Jahr eine Dividende an die Aktionäre aus."
+  ],
+  "ex_zh": "公司每年都向股东发放股息。",
+  "use": {
+   "col": [
+    [
+     "eine Dividende ausschütten",
+     "发放股息"
+    ],
+    [
+     "die Dividende erhöhen",
+     "提高股息"
+    ]
+   ],
+   "tip": "来自 Gewinn；Aktionär 股东"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Kaufkraft",
+  "art": "die",
+  "pos": "n",
+  "zh": "购买力",
+  "ex": [
+   "Durch die Inflation sinkt die Kaufkraft der Verbraucher spürbar."
+  ],
+  "ex_zh": "通货膨胀使消费者的购买力明显下降。",
+  "use": {
+   "col": [
+    [
+     "die Kaufkraft stärken",
+     "增强购买力"
+    ],
+    [
+     "an Kaufkraft verlieren",
+     "购买力下降"
+    ]
+   ],
+   "tip": "没有复数；reale Kaufkraft 指扣除通胀后的购买力"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Marktanteil",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Marktanteile",
+  "zh": "市场份额",
+  "ex": [
+   "Das Unternehmen konnte seinen Marktanteil in Europa deutlich ausbauen."
+  ],
+  "ex_zh": "公司在欧洲明显扩大了市场份额。",
+  "use": {
+   "col": [
+    [
+     "Marktanteile gewinnen",
+     "赢得市场份额"
+    ],
+    [
+     "einen hohen Marktanteil haben",
+     "市场占有率高"
+    ]
+   ],
+   "tip": "Marktführer 为市场领导者"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Verschuldung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Verschuldungen",
+  "zh": "负债；债务状况",
+  "ex": [
+   "Die hohe Verschuldung des Staates schränkt den finanziellen Spielraum ein."
+  ],
+  "ex_zh": "国家的高额负债限制了财政空间。",
+  "use": {
+   "col": [
+    [
+     "die Staatsverschuldung",
+     "国家债务"
+    ],
+    [
+     "die Verschuldung abbauen",
+     "降低负债"
+    ]
+   ],
+   "tip": "动词 sich verschulden；Überschuldung 为资不抵债"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Insolvenz",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Insolvenzen",
+  "zh": "破产；无力偿债",
+  "ex": [
+   "Der Hersteller musste nach monatelangen Verlusten Insolvenz anmelden."
+  ],
+  "ex_zh": "该厂商在连续数月亏损后不得不申请破产。",
+  "use": {
+   "col": [
+    [
+     "Insolvenz anmelden",
+     "申请破产"
+    ],
+    [
+     "kurz vor der Insolvenz stehen",
+     "濒临破产"
+    ]
+   ],
+   "tip": "形容词 insolvent；也说 Konkurs / Pleite（更口语）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Pfändung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Pfändungen",
+  "zh": "扣押（财产、工资）",
+  "ex": [
+   "Bei offenen Schulden droht eine Pfändung des Gehalts."
+  ],
+  "ex_zh": "欠债不还的话，工资可能被扣押。",
+  "use": {
+   "col": [
+    [
+     "eine Pfändung androhen",
+     "威胁扣押"
+    ],
+    [
+     "gegen eine Pfändung vorgehen",
+     "对扣押采取措施"
+    ]
+   ],
+   "tip": "动词 pfänden；Pfändungsfreigrenze 为不可扣押的最低收入"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Steuerhinterziehung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Steuerhinterziehungen",
+  "zh": "逃税",
+  "ex": [
+   "Wegen Steuerhinterziehung wurde der Geschäftsmann zu einer Geldstrafe verurteilt."
+  ],
+  "ex_zh": "该商人因逃税被判处罚金。",
+  "use": {
+   "col": [
+    [
+     "Steuerhinterziehung begehen",
+     "逃税"
+    ],
+    [
+     "des Verdachts auf Steuerhinterziehung",
+     "涉嫌逃税"
+    ]
+   ],
+   "tip": "违法；合法节税是 Steuervermeidung 或 Steueroptimierung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Bürgschaft",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Bürgschaften",
+  "zh": "担保；保证",
+  "ex": [
+   "Für den Kredit musste ihre Mutter eine Bürgschaft übernehmen."
+  ],
+  "ex_zh": "为了这笔贷款，她母亲得提供担保。",
+  "use": {
+   "col": [
+    [
+     "eine Bürgschaft übernehmen",
+     "担任担保人"
+    ],
+    [
+     "für etwas bürgen",
+     "为某事担保"
+    ]
+   ],
+   "tip": "动词 bürgen；Bürge 担保人（n-Deklination）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Tilgung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Tilgungen",
+  "zh": "偿还（本金）；清偿",
+  "ex": [
+   "Bei dem Darlehen beträgt die monatliche Tilgung 300 Euro."
+  ],
+  "ex_zh": "这笔贷款每月偿还本金300欧元。",
+  "use": {
+   "col": [
+    [
+     "die Tilgung des Kredits",
+     "贷款偿还"
+    ],
+    [
+     "außerplanmäßige Tilgung",
+     "额外提前还款"
+    ]
+   ],
+   "tip": "动词 tilgen；Zinsen 是利息，Tilgung 是还本金"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Hypothek",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Hypotheken",
+  "zh": "抵押贷款；抵押权",
+  "ex": [
+   "Die Bank hat das Haus mit einer Hypothek belastet."
+  ],
+  "ex_zh": "银行在这套房子上设定了抵押。",
+  "use": {
+   "col": [
+    [
+     "eine Hypothek aufnehmen",
+     "申请抵押贷款"
+    ],
+    [
+     "mit einer Hypothek belastet",
+     "设有抵押的"
+    ]
+   ],
+   "tip": "也比喻“沉重的负担”：eine Hypothek für die Zukunft"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Zinssatz",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Zinssätze",
+  "zh": "利率",
+  "ex": [
+   "Der Zinssatz für Baukredite ist in den letzten Monaten stark gestiegen."
+  ],
+  "ex_zh": "房贷利率最近几个月大幅上升。",
+  "use": {
+   "col": [
+    [
+     "ein günstiger Zinssatz",
+     "优惠利率"
+    ],
+    [
+     "einen festen Zinssatz vereinbaren",
+     "约定固定利率"
+    ]
+   ],
+   "tip": "Zinsen（已有）为利息；Leitzins 为基准利率"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Leitzins",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Leitzinsen",
+  "zh": "基准利率",
+  "ex": [
+   "Die Zentralbank hat den Leitzins erneut angehoben."
+  ],
+  "ex_zh": "央行再次上调了基准利率。",
+  "use": {
+   "col": [
+    [
+     "den Leitzins senken",
+     "降低基准利率"
+    ],
+    [
+     "eine Anhebung des Leitzinses",
+     "上调基准利率"
+    ]
+   ],
+   "tip": "由 Zentralbank（EZB）决定；是央行对商业银行的利率"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Rezession",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Rezessionen",
+  "zh": "经济衰退",
+  "ex": [
+   "Viele Experten befürchten, dass das Land in eine Rezession rutscht."
+  ],
+  "ex_zh": "许多专家担心这个国家会陷入衰退。",
+  "use": {
+   "col": [
+    [
+     "in eine Rezession geraten",
+     "陷入衰退"
+    ],
+    [
+     "eine Rezession überwinden",
+     "走出衰退"
+    ]
+   ],
+   "tip": "连续两个季度负增长常被视为技术性衰退"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Subvention",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Subventionen",
+  "zh": "补贴（国家给企业的）",
+  "ex": [
+   "Die Landwirte erhalten jedes Jahr hohe Subventionen von der EU."
+  ],
+  "ex_zh": "农户每年从欧盟获得高额补贴。",
+  "use": {
+   "col": [
+    [
+     "Subventionen kürzen",
+     "削减补贴"
+    ],
+    [
+     "staatliche Subventionen",
+     "国家补贴"
+    ]
+   ],
+   "tip": "动词 subventionieren；Zuschuss 更宽泛"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Schuldenbremse",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Schuldenbremsen",
+  "zh": "债务刹车（财政规则）",
+  "ex": [
+   "Die Schuldenbremse begrenzt die Neuverschuldung des Staates."
+  ],
+  "ex_zh": "债务刹车限制国家的新增举债。",
+  "use": {
+   "col": [
+    [
+     "die Schuldenbremse lockern",
+     "放宽债务刹车"
+    ],
+    [
+     "die Schuldenbremse einhalten",
+     "遵守债务刹车"
+    ]
+   ],
+   "tip": "写入德国基本法的规则，政治新闻常见"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Gläubiger",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Gläubiger",
+  "zh": "债权人",
+  "ex": [
+   "Die Gläubiger forderten die sofortige Rückzahlung der Schulden."
+  ],
+  "ex_zh": "债权人要求立即偿还债务。",
+  "use": {
+   "col": [
+    [
+     "die Gläubiger befriedigen",
+     "清偿债权人"
+    ],
+    [
+     "sich mit den Gläubigern einigen",
+     "与债权人达成一致"
+    ]
+   ],
+   "tip": "反义 der Schuldner；阴性 die Gläubigerin"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Schuldner",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Schuldner",
+  "zh": "债务人",
+  "ex": [
+   "Der Schuldner konnte die offene Summe nicht mehr begleichen."
+  ],
+  "ex_zh": "债务人再也无法偿还所欠金额。",
+  "use": {
+   "col": [
+    [
+     "ein säumiger Schuldner",
+     "拖欠的债务人"
+    ],
+    [
+     "den Schuldner mahnen",
+     "催债务人还款"
+    ]
+   ],
+   "tip": "反义 der Gläubiger；阴性 die Schuldnerin"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Konkurs",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Konkurse",
+  "zh": "破产",
+  "ex": [
+   "Die Firma ging im vergangenen Jahr in Konkurs."
+  ],
+  "ex_zh": "这家公司去年破产了。",
+  "use": {
+   "col": [
+    [
+     "in Konkurs gehen",
+     "破产"
+    ],
+    [
+     "Konkurs anmelden",
+     "申请破产"
+    ]
+   ],
+   "tip": "在德国法律中已改称 Insolvenz；口语仍常用"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Wertschöpfung",
+  "art": "die",
+  "pos": "n",
+  "zh": "增值；价值创造",
+  "ex": [
+   "Die Wertschöpfung findet zunehmend im Dienstleistungssektor statt."
+  ],
+  "ex_zh": "价值创造越来越多地发生在服务业。",
+  "use": {
+   "col": [
+    [
+     "die Wertschöpfungskette",
+     "价值链"
+    ],
+    [
+     "zur Wertschöpfung beitragen",
+     "为价值创造作贡献"
+    ]
+   ],
+   "tip": "学术/报道常用；BWL 概念"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Lieferkette",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Lieferketten",
+  "zh": "供应链",
+  "ex": [
+   "Durch die Krise sind viele globale Lieferketten unterbrochen worden."
+  ],
+  "ex_zh": "这场危机使许多全球供应链中断。",
+  "use": {
+   "col": [
+    [
+     "die Lieferkette unterbrechen",
+     "中断供应链"
+    ],
+    [
+     "globale Lieferketten",
+     "全球供应链"
+    ]
+   ],
+   "tip": "新闻热词；das Lieferkettengesetz 供应链法"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Globalisierung",
+  "art": "die",
+  "pos": "n",
+  "zh": "全球化",
+  "ex": [
+   "Die Globalisierung hat die Wirtschaft und den Arbeitsmarkt stark verändert."
+  ],
+  "ex_zh": "全球化极大地改变了经济和劳动力市场。",
+  "use": {
+   "col": [
+    [
+     "die Folgen der Globalisierung",
+     "全球化的后果"
+    ],
+    [
+     "im Zuge der Globalisierung",
+     "随着全球化"
+    ]
+   ],
+   "tip": "没有复数；形容词 global"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Freihandel",
+  "art": "der",
+  "pos": "n",
+  "zh": "自由贸易",
+  "ex": [
+   "Das Freihandelsabkommen soll Zölle zwischen den Ländern abschaffen."
+  ],
+  "ex_zh": "自由贸易协定旨在取消两国间的关税。",
+  "use": {
+   "col": [
+    [
+     "das Freihandelsabkommen",
+     "自由贸易协定"
+    ],
+    [
+     "für den Freihandel eintreten",
+     "主张自由贸易"
+    ]
+   ],
+   "tip": "反义 Protektionismus；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Protektionismus",
+  "art": "der",
+  "pos": "n",
+  "zh": "保护主义",
+  "ex": [
+   "Zölle auf Importe gelten als typisches Mittel des Protektionismus."
+  ],
+  "ex_zh": "进口关税被视为保护主义的典型手段。",
+  "use": {
+   "col": [
+    [
+     "Protektionismus betreiben",
+     "搞保护主义"
+    ],
+    [
+     "gegen Protektionismus kämpfen",
+     "反对保护主义"
+    ]
+   ],
+   "tip": "没有复数；形容词 protektionistisch"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Monopol",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Monopole",
+  "zh": "垄断",
+  "ex": [
+   "Das Unternehmen hat auf dem Markt praktisch ein Monopol."
+  ],
+  "ex_zh": "这家公司在市场上几乎形成垄断。",
+  "use": {
+   "col": [
+    [
+     "ein Monopol haben",
+     "拥有垄断地位"
+    ],
+    [
+     "das Monopol brechen",
+     "打破垄断"
+    ]
+   ],
+   "tip": "Monopolstellung 垄断地位；Kartell 为企业间的价格联盟"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Kartell",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Kartelle",
+  "zh": "卡特尔；价格同盟",
+  "ex": [
+   "Das Bundeskartellamt ermittelt gegen ein mutmaßliches Kartell der Zementhersteller."
+  ],
+  "ex_zh": "联邦卡特尔局正在调查水泥制造商涉嫌的价格同盟。",
+  "use": {
+   "col": [
+    [
+     "ein Kartell bilden",
+     "组成卡特尔"
+    ],
+    [
+     "das Kartellamt",
+     "卡特尔局"
+    ]
+   ],
+   "tip": "多个企业秘密约定价格，违法；Preisabsprache 价格串通"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Fusion",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Fusionen",
+  "zh": "合并（企业）",
+  "ex": [
+   "Nach der Fusion der beiden Banken wurden hunderte Stellen gestrichen."
+  ],
+  "ex_zh": "两家银行合并后，数百个岗位被裁掉。",
+  "use": {
+   "col": [
+    [
+     "eine Fusion planen",
+     "计划合并"
+    ],
+    [
+     "die Fusion genehmigen",
+     "批准合并"
+    ]
+   ],
+   "tip": "动词 fusionieren；Übernahme 则是被收购"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Übernahme",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Übernahmen",
+  "zh": "收购；接管；承担",
+  "ex": [
+   "Die Übernahme des Konkurrenten wurde vom Kartellamt genehmigt."
+  ],
+  "ex_zh": "对竞争对手的收购获得了卡特尔局批准。",
+  "use": {
+   "senses": [
+    "收购、接管",
+    "承担（费用、责任）"
+   ],
+   "col": [
+    [
+     "die feindliche Übernahme",
+     "恶意收购"
+    ],
+    [
+     "die Übernahme der Kosten",
+     "承担费用"
+    ]
+   ],
+   "tip": "动词 übernehmen；既指收购公司，也指“承担费用、责任”"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Beteiligung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Beteiligungen",
+  "zh": "参股；参与",
+  "ex": [
+   "Der Staat hält eine Beteiligung von 15 Prozent an dem Konzern."
+  ],
+  "ex_zh": "国家持有该集团15%的股份。",
+  "gov": "die Beteiligung an + Dat.",
+  "use": {
+   "col": [
+    [
+     "eine Beteiligung an einer Firma",
+     "对公司的参股"
+    ],
+    [
+     "die Beteiligung am Gewinn",
+     "利润分成"
+    ]
+   ],
+   "tip": "动词 sich beteiligen an；不只用于投资，也指“参与”"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Aktionär",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Aktionäre",
+  "zh": "股东",
+  "ex": [
+   "Auf der Hauptversammlung stimmen die Aktionäre über die Dividende ab."
+  ],
+  "ex_zh": "股东在股东大会上就股息进行表决。",
+  "use": {
+   "col": [
+    [
+     "die Aktionäre informieren",
+     "通知股东"
+    ],
+    [
+     "der Hauptaktionär",
+     "大股东"
+    ]
+   ],
+   "tip": "阴性 die Aktionärin；Aktie 股票"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Anleger",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Anleger",
+  "zh": "投资者",
+  "ex": [
+   "Viele Anleger verloren bei dem Börsencrash große Summen."
+  ],
+  "ex_zh": "许多投资者在股灾中损失巨款。",
+  "use": {
+   "col": [
+    [
+     "private Anleger",
+     "散户投资者"
+    ],
+    [
+     "Anleger schützen",
+     "保护投资者"
+    ]
+   ],
+   "tip": "阴性 die Anlegerin；anlegen 的名词形式"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Wertpapier",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Wertpapiere",
+  "zh": "有价证券",
+  "ex": [
+   "Aktien und Anleihen gehören zu den klassischen Wertpapieren."
+  ],
+  "ex_zh": "股票和债券是典型的有价证券。",
+  "use": {
+   "col": [
+    [
+     "Wertpapiere kaufen",
+     "购买有价证券"
+    ],
+    [
+     "ein Wertpapierdepot",
+     "证券账户"
+    ]
+   ],
+   "tip": "Depot 为证券账户"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Anleihe",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Anleihen",
+  "zh": "债券",
+  "ex": [
+   "Der Staat gibt Anleihen aus, um sich Geld zu leihen."
+  ],
+  "ex_zh": "国家发行债券来借钱。",
+  "use": {
+   "col": [
+    [
+     "eine Anleihe kaufen",
+     "购买债券"
+    ],
+    [
+     "Staatsanleihen",
+     "国债"
+    ]
+   ],
+   "tip": "Aktie 是股权，Anleihe 是债权"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Marktwirtschaft",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Marktwirtschaften",
+  "zh": "市场经济",
+  "ex": [
+   "Die soziale Marktwirtschaft verbindet freien Wettbewerb mit sozialem Ausgleich."
+  ],
+  "ex_zh": "社会市场经济把自由竞争与社会平衡结合起来。",
+  "use": {
+   "col": [
+    [
+     "die soziale Marktwirtschaft",
+     "社会市场经济"
+    ],
+    [
+     "in einer Marktwirtschaft",
+     "在市场经济中"
+    ]
+   ],
+   "tip": "反义 Planwirtschaft；德国的经济秩序"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Volkswirtschaft",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Volkswirtschaften",
+  "zh": "国民经济；经济学",
+  "ex": [
+   "Sie studiert Volkswirtschaft an der Universität Mannheim."
+  ],
+  "ex_zh": "她在曼海姆大学读经济学。",
+  "use": {
+   "col": [
+    [
+     "Volkswirtschaft studieren",
+     "学国民经济学"
+    ],
+    [
+     "die deutsche Volkswirtschaft",
+     "德国国民经济"
+    ]
+   ],
+   "tip": "简称 VWL；Betriebswirtschaft（BWL）为企业管理"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Betriebswirtschaft",
+  "art": "die",
+  "pos": "n",
+  "zh": "企业管理；经营学",
+  "ex": [
+   "Betriebswirtschaft beschäftigt sich mit den Abläufen innerhalb von Unternehmen."
+  ],
+  "ex_zh": "企业管理学研究企业内部的运作流程。",
+  "use": {
+   "col": [
+    [
+     "Betriebswirtschaft studieren",
+     "学企业管理"
+    ],
+    [
+     "Betriebswirtschaftslehre",
+     "经营学（BWL）"
+    ]
+   ],
+   "tip": "缩写 BWL；与 Volkswirtschaft 不同，侧重单个企业"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Wirtschaftsprüfer",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Wirtschaftsprüfer",
+  "zh": "审计师",
+  "ex": [
+   "Der Wirtschaftsprüfer hat den Jahresabschluss ohne Beanstandung testiert."
+  ],
+  "ex_zh": "审计师无异议地出具了年度决算审计意见。",
+  "use": {
+   "col": [
+    [
+     "den Jahresabschluss prüfen",
+     "审计年度报表"
+    ],
+    [
+     "einen Wirtschaftsprüfer beauftragen",
+     "委托审计师"
+    ]
+   ],
+   "tip": "阴性 die Wirtschaftsprüferin；Steuerberater 是税务顾问"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Bruttoinlandsprodukt",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Bruttoinlandsprodukte",
+  "zh": "国内生产总值（GDP）",
+  "ex": [
+   "Das Bruttoinlandsprodukt ist im zweiten Quartal um 0,2 Prozent gesunken."
+  ],
+  "ex_zh": "国内生产总值在第二季度下降了0.2%。",
+  "use": {
+   "col": [
+    [
+     "das Bruttoinlandsprodukt wächst",
+     "GDP增长"
+    ],
+    [
+     "das BIP pro Kopf",
+     "人均GDP"
+    ]
+   ],
+   "tip": "缩写 das BIP；新闻中几乎都写缩写"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Staatsverschuldung",
+  "art": "die",
+  "pos": "n",
+  "zh": "国家债务",
+  "ex": [
+   "Die Staatsverschuldung ist in den letzten Jahren stark gestiegen."
+  ],
+  "ex_zh": "国家债务近年来大幅上升。",
+  "use": {
+   "col": [
+    [
+     "die Staatsverschuldung senken",
+     "降低国债"
+    ],
+    [
+     "eine hohe Staatsverschuldung",
+     "高额国债"
+    ]
+   ],
+   "tip": "没有复数；Haushaltsdefizit 为预算赤字"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Steuerlast",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Steuerlasten",
+  "zh": "税负",
+  "ex": [
+   "Die hohe Steuerlast belastet vor allem die mittleren Einkommen."
+  ],
+  "ex_zh": "高税负主要压在中等收入者身上。",
+  "use": {
+   "col": [
+    [
+     "die Steuerlast senken",
+     "减轻税负"
+    ],
+    [
+     "eine hohe Steuerlast tragen",
+     "承受高税负"
+    ]
+   ],
+   "tip": "Last 为负担；Abgabenlast 包括税与社保"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Sozialleistung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Sozialleistungen",
+  "zh": "社会福利；社保给付",
+  "ex": [
+   "Die Sozialleistungen des Staates werden regelmäßig an die Preise angepasst."
+  ],
+  "ex_zh": "国家的社会福利定期根据物价调整。",
+  "use": {
+   "col": [
+    [
+     "Sozialleistungen beziehen",
+     "领取社会福利"
+    ],
+    [
+     "Sozialleistungen kürzen",
+     "削减福利"
+    ]
+   ],
+   "tip": "Bürgergeld、Wohngeld、Kindergeld 都是 Sozialleistungen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Umverteilung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Umverteilungen",
+  "zh": "再分配",
+  "ex": [
+   "Die Umverteilung von Vermögen ist politisch stark umstritten."
+  ],
+  "ex_zh": "财富再分配在政治上颇有争议。",
+  "use": {
+   "col": [
+    [
+     "die Umverteilung von oben nach unten",
+     "自上而下的再分配"
+    ],
+    [
+     "steuerliche Umverteilung",
+     "税收再分配"
+    ]
+   ],
+   "tip": "动词 umverteilen；政治/经济讨论高频词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Marge",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Margen",
+  "zh": "利润率；差价",
+  "ex": [
+   "Im Einzelhandel sind die Margen oft sehr gering."
+  ],
+  "ex_zh": "零售业的利润率往往很低。",
+  "use": {
+   "col": [
+    [
+     "eine hohe Marge",
+     "高利润率"
+    ],
+    [
+     "die Marge unter Druck setzen",
+     "压缩利润率"
+    ]
+   ],
+   "tip": "发音 [ˈmarʒə]；Gewinnmarge 利润率"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Liquidität",
+  "art": "die",
+  "pos": "n",
+  "zh": "流动资金；偿付能力",
+  "ex": [
+   "Dem Unternehmen fehlt es derzeit an Liquidität."
+  ],
+  "ex_zh": "这家公司目前缺少流动资金。",
+  "use": {
+   "col": [
+    [
+     "Liquidität sichern",
+     "保证流动资金"
+    ],
+    [
+     "Liquiditätsprobleme haben",
+     "有资金流动性问题"
+    ]
+   ],
+   "tip": "形容词 liquide；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Zahlungsunfähigkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "无力支付",
+  "ex": [
+   "Die Zahlungsunfähigkeit der Firma war der Grund für den Insolvenzantrag."
+  ],
+  "ex_zh": "公司无力支付是申请破产的原因。",
+  "use": {
+   "col": [
+    [
+     "drohende Zahlungsunfähigkeit",
+     "面临无力支付"
+    ],
+    [
+     "Zahlungsunfähigkeit anzeigen",
+     "申报无力支付"
+    ]
+   ],
+   "tip": "形容词 zahlungsunfähig；Insolvenz 的前提"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Verbindlichkeit",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Verbindlichkeiten",
+  "zh": "债务；约束力",
+  "ex": [
+   "Die Verbindlichkeiten des Unternehmens belaufen sich auf mehrere Millionen Euro."
+  ],
+  "ex_zh": "该公司的债务达数百万欧元。",
+  "use": {
+   "senses": [
+    "（财务）债务",
+    "约束力、可靠"
+   ],
+   "col": [
+    [
+     "Verbindlichkeiten begleichen",
+     "清偿债务"
+    ],
+    [
+     "Verbindlichkeiten eingehen",
+     "承担债务"
+    ]
+   ],
+   "tip": "会计中是“负债”；形容词 verbindlich 为“有约束力的”"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Abschreibung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Abschreibungen",
+  "zh": "折旧；摊销；冲销",
+  "ex": [
+   "Die Abschreibung der Maschinen verteilt sich auf zehn Jahre."
+  ],
+  "ex_zh": "这些机器的折旧分摊在十年内。",
+  "use": {
+   "col": [
+    [
+     "steuerliche Abschreibung",
+     "税务折旧"
+    ],
+    [
+     "Abschreibungen vornehmen",
+     "计提折旧"
+    ]
+   ],
+   "tip": "动词 abschreiben；该动词也有“抄袭、抄作业”义"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Anschaffung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Anschaffungen",
+  "zh": "购置；采购的东西",
+  "ex": [
+   "Die Anschaffung eines neuen Servers ist im Budget nicht vorgesehen."
+  ],
+  "ex_zh": "预算里没有计划购置新服务器。",
+  "use": {
+   "col": [
+    [
+     "eine größere Anschaffung",
+     "大件购买"
+    ],
+    [
+     "Anschaffungskosten",
+     "购置成本"
+    ]
+   ],
+   "tip": "动词 anschaffen；多指较贵的物品"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Fälligkeit",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Fälligkeiten",
+  "zh": "到期；应付日",
+  "ex": [
+   "Die Fälligkeit der Rate ist am ersten Tag des Monats."
+  ],
+  "ex_zh": "这期还款的到期日是每月一号。",
+  "use": {
+   "col": [
+    [
+     "bei Fälligkeit zahlen",
+     "到期支付"
+    ],
+    [
+     "die Fälligkeit der Rechnung",
+     "账单到期日"
+    ]
+   ],
+   "tip": "形容词 fällig；Fälligkeitsdatum 到期日"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Zahlungsziel",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Zahlungsziele",
+  "zh": "付款期限",
+  "ex": [
+   "Wir gewähren unseren Kunden ein Zahlungsziel von 30 Tagen."
+  ],
+  "ex_zh": "我们给客户30天的付款期限。",
+  "use": {
+   "col": [
+    [
+     "das Zahlungsziel einhalten",
+     "遵守付款期限"
+    ],
+    [
+     "ein Zahlungsziel einräumen",
+     "给予付款期限"
+    ]
+   ],
+   "tip": "发票上常写：Zahlungsziel 14 Tage netto"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Gegenleistung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Gegenleistungen",
+  "zh": "对价；回报（服务、款项）",
+  "ex": [
+   "Als Gegenleistung für die Mitarbeit erhielt er ein kleines Honorar."
+  ],
+  "ex_zh": "作为参与工作的回报，他得到了一小笔酬金。",
+  "use": {
+   "col": [
+    [
+     "als Gegenleistung",
+     "作为回报"
+    ],
+    [
+     "ohne Gegenleistung",
+     "无偿"
+    ]
+   ],
+   "tip": "合同法里指双方各自的给付；Leistung 已有"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Vertragsstrafe",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Vertragsstrafen",
+  "zh": "违约金",
+  "ex": [
+   "Bei verspäteter Lieferung wird eine Vertragsstrafe von fünf Prozent fällig."
+  ],
+  "ex_zh": "延迟交货将产生5%的违约金。",
+  "use": {
+   "col": [
+    [
+     "eine Vertragsstrafe zahlen",
+     "支付违约金"
+    ],
+    [
+     "eine Vertragsstrafe vereinbaren",
+     "约定违约金"
+    ]
+   ],
+   "tip": "也叫 Konventionalstrafe；合同条款常见"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Vertragsbruch",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Vertragsbrüche",
+  "zh": "违约",
+  "ex": [
+   "Das Unternehmen warf dem Lieferanten Vertragsbruch vor."
+  ],
+  "ex_zh": "公司指责供应商违约。",
+  "use": {
+   "col": [
+    [
+     "Vertragsbruch begehen",
+     "违约"
+    ],
+    [
+     "wegen Vertragsbruchs klagen",
+     "因违约起诉"
+    ]
+   ],
+   "tip": "强调违反约定；名词 der Bruch"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Verjährung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Verjährungen",
+  "zh": "时效届满",
+  "ex": [
+   "Nach drei Jahren tritt bei den meisten Forderungen die Verjährung ein."
+  ],
+  "ex_zh": "大多数债权三年后诉讼时效届满。",
+  "use": {
+   "col": [
+    [
+     "Verjährung tritt ein",
+     "时效届满"
+    ],
+    [
+     "die Verjährungsfrist",
+     "诉讼时效期间"
+    ]
+   ],
+   "tip": "动词 verjähren；一般民事债权为3年"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Schadenersatz",
+  "art": "der",
+  "pos": "n",
+  "zh": "损害赔偿",
+  "ex": [
+   "Der Kunde forderte Schadenersatz für die beschädigte Ware."
+  ],
+  "ex_zh": "客户要求赔偿受损商品。",
+  "use": {
+   "col": [
+    [
+     "Schadenersatz fordern",
+     "要求赔偿"
+    ],
+    [
+     "auf Schadenersatz klagen",
+     "起诉要求赔偿"
+    ]
+   ],
+   "tip": "也写 Schadensersatz；没有复数；zahlen / leisten 搭配"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Versicherungsnehmer",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Versicherungsnehmer",
+  "zh": "投保人",
+  "ex": [
+   "Der Versicherungsnehmer muss jede Änderung seiner Adresse mitteilen."
+  ],
+  "ex_zh": "投保人必须告知每次地址变更。",
+  "use": {
+   "col": [
+    [
+     "der Versicherungsnehmer und der Versicherer",
+     "投保人与保险公司"
+    ],
+    [
+     "als Versicherungsnehmer",
+     "作为投保人"
+    ]
+   ],
+   "tip": "阴性 die Versicherungsnehmerin；对方是 der Versicherer"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Versicherungsfall",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Versicherungsfälle",
+  "zh": "保险事故",
+  "ex": [
+   "Im Versicherungsfall muss man die Versicherung unverzüglich informieren."
+  ],
+  "ex_zh": "发生保险事故时，必须立刻通知保险公司。",
+  "use": {
+   "col": [
+    [
+     "im Versicherungsfall",
+     "一旦发生保险事故"
+    ],
+    [
+     "den Versicherungsfall melden",
+     "报案"
+    ]
+   ],
+   "tip": "保险条款常见：Eintritt des Versicherungsfalls"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Prämie",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Prämien",
+  "zh": "保费；奖金",
+  "ex": [
+   "Die Prämie für die Autoversicherung steigt nach einem Unfall."
+  ],
+  "ex_zh": "出事故后汽车保险的保费会上涨。",
+  "use": {
+   "senses": [
+    "（保险）保费",
+    "奖金、奖励"
+   ],
+   "col": [
+    [
+     "eine Prämie zahlen",
+     "缴保费"
+    ],
+    [
+     "eine Prämie für gute Leistungen",
+     "业绩奖金"
+    ]
+   ],
+   "tip": "保费也叫 Versicherungsbeitrag；Prämie 另有奖励义"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Preisdruck",
+  "art": "der",
+  "pos": "n",
+  "zh": "价格压力",
+  "ex": [
+   "Der starke Preisdruck zwingt viele Händler zu Kürzungen bei den Löhnen."
+  ],
+  "ex_zh": "巨大的价格压力迫使许多商家削减工资。",
+  "use": {
+   "col": [
+    [
+     "unter Preisdruck stehen",
+     "面临价格压力"
+    ],
+    [
+     "den Preisdruck erhöhen",
+     "加大价格压力"
+    ]
+   ],
+   "tip": "没有复数；Kostendruck 为成本压力"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Kostendruck",
+  "art": "der",
+  "pos": "n",
+  "zh": "成本压力",
+  "ex": [
+   "Wegen des Kostendrucks verlagern viele Firmen die Produktion ins Ausland."
+  ],
+  "ex_zh": "由于成本压力，许多公司把生产转移到国外。",
+  "use": {
+   "col": [
+    [
+     "unter Kostendruck stehen",
+     "面临成本压力"
+    ],
+    [
+     "den Kostendruck senken",
+     "减轻成本压力"
+    ]
+   ],
+   "tip": "没有复数；常与 Wettbewerbsdruck 一起出现"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Sparmaßnahme",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Sparmaßnahmen",
+  "zh": "节约措施；紧缩措施",
+  "ex": [
+   "Der Konzern kündigte umfangreiche Sparmaßnahmen und Stellenstreichungen an."
+  ],
+  "ex_zh": "该集团宣布了大规模的节约措施和裁员。",
+  "use": {
+   "col": [
+    [
+     "Sparmaßnahmen ergreifen",
+     "采取节约措施"
+    ],
+    [
+     "harte Sparmaßnahmen",
+     "严厉的紧缩措施"
+    ]
+   ],
+   "tip": "政府、企业新闻常用；Sparpaket 为一揽子紧缩方案"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Verbraucherschutz",
+  "art": "der",
+  "pos": "n",
+  "zh": "消费者保护",
+  "ex": [
+   "Der Verbraucherschutz in der EU ist in den letzten Jahren ausgebaut worden."
+  ],
+  "ex_zh": "欧盟的消费者保护近年来得到加强。",
+  "use": {
+   "col": [
+    [
+     "im Interesse des Verbraucherschutzes",
+     "出于消费者保护"
+    ],
+    [
+     "eine Verbraucherschutzorganisation",
+     "消费者保护组织"
+    ]
+   ],
+   "tip": "没有复数；Verbraucherzentrale 是具体机构"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Mogelpackung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Mogelpackungen",
+  "zh": "虚假包装（量少包装大）",
+  "ex": [
+   "Die Chipstüte ist halb leer, das ist eine echte Mogelpackung."
+  ],
+  "ex_zh": "这包薯片有一半是空的，真是虚假包装。",
+  "use": {
+   "col": [
+    [
+     "eine Mogelpackung sein",
+     "是个骗人的包装"
+    ],
+    [
+     "Mogelpackungen aufdecken",
+     "揭露虚假包装"
+    ]
+   ],
+   "tip": "口语感强；比喻“名不副实”"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Lockangebot",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Lockangebote",
+  "zh": "诱饵式促销",
+  "ex": [
+   "Das günstige Lockangebot gilt nur für die ersten drei Monate."
+  ],
+  "ex_zh": "这个便宜的诱饵式优惠只在前三个月有效。",
+  "use": {
+   "col": [
+    [
+     "auf ein Lockangebot hereinfallen",
+     "上了诱饵促销的当"
+    ],
+    [
+     "ein Lockangebot nutzen",
+     "利用促销"
+    ]
+   ],
+   "tip": "手机、电费合同里常见；提示后续恢复原价"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Absatz",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Absätze",
+  "zh": "销量；段落；鞋跟",
+  "ex": [
+   "Der Absatz von Elektroautos ist im letzten Jahr deutlich gestiegen."
+  ],
+  "ex_zh": "电动车的销量去年明显增长。",
+  "use": {
+   "senses": [
+    "销量、销路",
+    "段落",
+    "鞋跟"
+   ],
+   "col": [
+    [
+     "der Absatz steigt",
+     "销量上升"
+    ],
+    [
+     "Absatz finden",
+     "找到销路"
+    ]
+   ],
+   "tip": "经济里是“销售”，复数 Absätze；另有“段落、鞋跟”义"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Vertrieb",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Vertriebe",
+  "zh": "销售；销售部门",
+  "ex": [
+   "Sie arbeitet im Vertrieb eines Softwareunternehmens."
+  ],
+  "ex_zh": "她在一家软件公司的销售部门工作。",
+  "use": {
+   "col": [
+    [
+     "im Vertrieb arbeiten",
+     "在销售部工作"
+    ],
+    [
+     "der Vertrieb von Waren",
+     "商品分销"
+    ]
+   ],
+   "tip": "动词 vertreiben；比 Verkauf 更强调销售体系、渠道"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Zulieferer",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Zulieferer",
+  "zh": "零部件供应商",
+  "ex": [
+   "Viele Zulieferer der Autoindustrie geraten durch die Krise unter Druck."
+  ],
+  "ex_zh": "汽车行业的许多零部件供应商在危机中承压。",
+  "use": {
+   "col": [
+    [
+     "ein Zulieferer der Autoindustrie",
+     "汽车行业供应商"
+    ],
+    [
+     "auf Zulieferer angewiesen sein",
+     "依赖供应商"
+    ]
+   ],
+   "tip": "动词 zuliefern；比 Lieferant 更特指为制造商供货"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Einzelhandel",
+  "art": "der",
+  "pos": "n",
+  "zh": "零售业",
+  "ex": [
+   "Der stationäre Einzelhandel leidet unter der Konkurrenz des Online-Handels."
+  ],
+  "ex_zh": "实体零售业深受网络购物竞争之苦。",
+  "use": {
+   "col": [
+    [
+     "im Einzelhandel arbeiten",
+     "在零售业工作"
+    ],
+    [
+     "der Einzelhandelsverband",
+     "零售业协会"
+    ]
+   ],
+   "tip": "反义 Großhandel（批发）；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Mittelstand",
+  "art": "der",
+  "pos": "n",
+  "zh": "中小企业界",
+  "ex": [
+   "Der deutsche Mittelstand gilt als Rückgrat der Wirtschaft."
+  ],
+  "ex_zh": "德国中小企业被视为经济的支柱。",
+  "use": {
+   "col": [
+    [
+     "mittelständische Unternehmen",
+     "中小企业"
+    ],
+    [
+     "den Mittelstand fördern",
+     "扶持中小企业"
+    ]
+   ],
+   "tip": "也指社会中产；形容词 mittelständisch"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Konzern",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Konzerne",
+  "zh": "企业集团；大公司",
+  "ex": [
+   "Der Konzern beschäftigt weltweit mehr als 100.000 Mitarbeiter."
+  ],
+  "ex_zh": "这家集团在全球雇用10万多名员工。",
+  "use": {
+   "col": [
+    [
+     "ein internationaler Konzern",
+     "跨国集团"
+    ],
+    [
+     "einem Konzern angehören",
+     "隶属于某集团"
+    ]
+   ],
+   "tip": "一般指大型多业务集团；Unternehmen 更泛"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Gesellschafter",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Gesellschafter",
+  "zh": "股东；合伙人（GmbH）",
+  "ex": [
+   "Die Gesellschafter der GmbH haben die Gewinnverteilung beschlossen."
+  ],
+  "ex_zh": "有限责任公司的股东们决定了利润分配。",
+  "use": {
+   "col": [
+    [
+     "ein Gesellschafter der GmbH",
+     "有限公司的股东"
+    ],
+    [
+     "die Gesellschafterversammlung",
+     "股东会"
+    ]
+   ],
+   "tip": "阴性 die Gesellschafterin；GmbH 里的“股东”不叫 Aktionär"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Startkapital",
+  "art": "das",
+  "pos": "n",
+  "zh": "启动资金",
+  "ex": [
+   "Für die Gründung braucht man zumindest ein kleines Startkapital."
+  ],
+  "ex_zh": "创业至少需要一笔小额的启动资金。",
+  "use": {
+   "col": [
+    [
+     "das nötige Startkapital",
+     "必要的启动资金"
+    ],
+    [
+     "Startkapital aufbringen",
+     "筹集启动资金"
+    ]
+   ],
+   "tip": "没有复数；Kapital 为资本"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Investor",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Investoren",
+  "zh": "投资人",
+  "ex": [
+   "Das Start-up sucht noch einen Investor für die nächste Finanzierungsrunde."
+  ],
+  "ex_zh": "这家初创公司还在为下一轮融资寻找投资人。",
+  "use": {
+   "col": [
+    [
+     "einen Investor finden",
+     "找到投资人"
+    ],
+    [
+     "ein privater Investor",
+     "私人投资人"
+    ]
+   ],
+   "tip": "重音在 -ves-tor，复数 Investoren；阴性 die Investorin"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Risikokapital",
+  "art": "das",
+  "pos": "n",
+  "zh": "风险投资",
+  "ex": [
+   "Junge Technologiefirmen finanzieren sich oft durch Risikokapital."
+  ],
+  "ex_zh": "年轻的科技公司往往靠风险投资融资。",
+  "use": {
+   "col": [
+    [
+     "Risikokapital einsammeln",
+     "筹集风险资金"
+    ],
+    [
+     "ein Risikokapitalgeber",
+     "风险投资方"
+    ]
+   ],
+   "tip": "同义 Wagniskapital；英语 venture capital 的对应词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Spekulation",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Spekulationen",
+  "zh": "投机；猜测",
+  "ex": [
+   "Die Spekulation mit Immobilien treibt die Preise weiter nach oben."
+  ],
+  "ex_zh": "房地产投机把价格进一步推高。",
+  "use": {
+   "senses": [
+    "投机",
+    "猜测"
+   ],
+   "col": [
+    [
+     "an der Börse spekulieren",
+     "在股市投机"
+    ],
+    [
+     "wilde Spekulationen",
+     "无端猜测"
+    ]
+   ],
+   "tip": "动词 spekulieren；日常也指“猜测”"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Zentralbank",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Zentralbanken",
+  "zh": "中央银行",
+  "ex": [
+   "Die Europäische Zentralbank hat ihren Sitz in Frankfurt am Main."
+  ],
+  "ex_zh": "欧洲央行总部设在美因河畔法兰克福。",
+  "use": {
+   "col": [
+    [
+     "die Zentralbank greift ein",
+     "央行介入"
+    ],
+    [
+     "Geldpolitik der Zentralbank",
+     "央行货币政策"
+    ]
+   ],
+   "tip": "同义 Notenbank；缩写 EZB"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Kreditwürdigkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "信用资质；资信",
+  "ex": [
+   "Die Kreditwürdigkeit wird von der Bank anhand der Einkommenslage geprüft."
+  ],
+  "ex_zh": "银行根据收入情况审查资信。",
+  "use": {
+   "col": [
+    [
+     "die Kreditwürdigkeit prüfen",
+     "审查资信"
+    ],
+    [
+     "an Kreditwürdigkeit verlieren",
+     "丧失资信"
+    ]
+   ],
+   "tip": "形容词 kreditwürdig；近义 Bonität"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Bonität",
+  "art": "die",
+  "pos": "n",
+  "zh": "资信；偿付能力",
+  "ex": [
+   "Die Bonität des Antragstellers wird bei der Schufa abgefragt."
+  ],
+  "ex_zh": "申请人的资信会向Schufa查询。",
+  "use": {
+   "col": [
+    [
+     "eine gute Bonität haben",
+     "资信良好"
+    ],
+    [
+     "die Bonität prüfen",
+     "审查资信"
+    ]
+   ],
+   "tip": "名词，无复数；对企业与个人都适用"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Geldwäsche",
+  "art": "die",
+  "pos": "n",
+  "zh": "洗钱",
+  "ex": [
+   "Die Bank meldet verdächtige Transaktionen wegen des Verdachts auf Geldwäsche."
+  ],
+  "ex_zh": "银行因涉嫌洗钱上报可疑交易。",
+  "use": {
+   "col": [
+    [
+     "Geldwäsche bekämpfen",
+     "打击洗钱"
+    ],
+    [
+     "des Verdachts auf Geldwäsche",
+     "涉嫌洗钱"
+    ]
+   ],
+   "tip": "没有复数；动词 Geld waschen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Schwarzarbeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "非法用工；黑工",
+  "ex": [
+   "Schwarzarbeit kostet den Staat jedes Jahr Milliarden an Steuern."
+  ],
+  "ex_zh": "黑工每年让国家损失数十亿的税收。",
+  "use": {
+   "col": [
+    [
+     "Schwarzarbeit bekämpfen",
+     "打击黑工"
+    ],
+    [
+     "schwarzarbeiten",
+     "打黑工"
+    ]
+   ],
+   "tip": "没有复数；Schwarzarbeiter 黑工"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Wucher",
+  "art": "der",
+  "pos": "n",
+  "zh": "高利贷；暴利",
+  "ex": [
+   "Dieser Preis grenzt an Wucher."
+  ],
+  "ex_zh": "这个价格近乎暴利。",
+  "use": {
+   "col": [
+    [
+     "Wucherpreise",
+     "暴利价格"
+    ],
+    [
+     "Wucherzinsen",
+     "高利贷利息"
+    ]
+   ],
+   "tip": "没有复数；Wucherer 放高利贷的人"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Schwarzmarkt",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Schwarzmärkte",
+  "zh": "黑市",
+  "ex": [
+   "Auf dem Schwarzmarkt werden gefälschte Tickets zu hohen Preisen verkauft."
+  ],
+  "ex_zh": "黑市上以高价出售假票。",
+  "use": {
+   "col": [
+    [
+     "auf dem Schwarzmarkt",
+     "在黑市上"
+    ],
+    [
+     "Handel auf dem Schwarzmarkt",
+     "黑市交易"
+    ]
+   ],
+   "tip": "复数 Schwarzmärkte 带变音"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Fachkräftemangel",
+  "art": "der",
+  "pos": "n",
+  "zh": "专业人才短缺",
+  "ex": [
+   "Der Fachkräftemangel bremst das Wachstum vieler Branchen."
+  ],
+  "ex_zh": "专业人才短缺拖累了许多行业的增长。",
+  "use": {
+   "col": [
+    [
+     "unter dem Fachkräftemangel leiden",
+     "深受人才短缺之苦"
+    ],
+    [
+     "den Fachkräftemangel bekämpfen",
+     "应对人才短缺"
+    ]
+   ],
+   "tip": "没有复数；Fachkraft 为技术工人、专业人员"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Haushaltsdefizit",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Haushaltsdefizite",
+  "zh": "预算赤字",
+  "ex": [
+   "Das Haushaltsdefizit soll im nächsten Jahr deutlich sinken."
+  ],
+  "ex_zh": "预算赤字明年应明显下降。",
+  "use": {
+   "col": [
+    [
+     "ein Haushaltsdefizit abbauen",
+     "削减预算赤字"
+    ],
+    [
+     "das Haushaltsdefizit steigt",
+     "赤字上升"
+    ]
+   ],
+   "tip": "反义 Haushaltsüberschuss；Defizit 为亏空"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "beziffern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "beziffert",
+  "forms": "beziffert, bezifferte, hat beziffert",
+  "zh": "用数字表示；估算为",
+  "ex": [
+   "Der Schaden wird auf mehrere Millionen Euro beziffert."
+  ],
+  "ex_zh": "损失估计达数百万欧元。",
+  "gov": "beziffern auf + Akk.",
+  "use": {
+   "col": [
+    [
+     "den Schaden beziffern",
+     "估算损失"
+    ],
+    [
+     "sich beziffern lassen",
+     "可以量化"
+    ]
+   ],
+   "tip": "不可分动词；常用被动或 sich auf … beziffern"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich belaufen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "belaufen",
+  "forms": "beläuft sich, belief sich, hat sich belaufen",
+  "zh": "共计；总额达",
+  "ex": [
+   "Die Gesamtkosten belaufen sich auf rund 12.000 Euro."
+  ],
+  "ex_zh": "总费用约达12000欧元。",
+  "gov": "sich belaufen auf + Akk.",
+  "use": {
+   "col": [
+    [
+     "sich auf … belaufen",
+     "总额达……"
+    ],
+    [
+     "die Kosten belaufen sich auf",
+     "费用共计"
+    ]
+   ],
+   "tip": "书面语；后跟 auf + Akk.；强变化"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "veranschlagen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "veranschlagt",
+  "forms": "veranschlagt, veranschlagte, hat veranschlagt",
+  "zh": "估算；列入预算",
+  "ex": [
+   "Für den Umbau wurden zwei Millionen Euro veranschlagt."
+  ],
+  "ex_zh": "改建工程估算为两百万欧元。",
+  "use": {
+   "col": [
+    [
+     "Kosten veranschlagen",
+     "估算费用"
+    ],
+    [
+     "zu niedrig veranschlagt",
+     "估计得过低"
+    ]
+   ],
+   "tip": "不可分动词；名词 der Anschlag（此处不用）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "subventionieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "subventioniert",
+  "forms": "subventioniert, subventionierte, hat subventioniert",
+  "zh": "给予补贴",
+  "ex": [
+   "Der Staat subventioniert den öffentlichen Nahverkehr mit Milliarden."
+  ],
+  "ex_zh": "国家向公共交通提供数十亿补贴。",
+  "use": {
+   "col": [
+    [
+     "stark subventioniert",
+     "被大量补贴的"
+    ],
+    [
+     "die Landwirtschaft subventionieren",
+     "补贴农业"
+    ]
+   ],
+   "tip": "名词 die Subvention"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "besteuern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "besteuert",
+  "forms": "besteuert, besteuerte, hat besteuert",
+  "zh": "征税",
+  "ex": [
+   "Kapitalerträge werden in Deutschland pauschal mit 25 Prozent besteuert."
+  ],
+  "ex_zh": "资本收益在德国按25%统一征税。",
+  "use": {
+   "col": [
+    [
+     "Einkommen besteuern",
+     "对收入征税"
+    ],
+    [
+     "doppelt besteuert",
+     "被重复征税"
+    ]
+   ],
+   "tip": "国家为主语：besteuern；个人则 versteuern；名词 die Besteuerung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "hinterziehen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "hinterzogen",
+  "forms": "hinterzieht, hinterzog, hat hinterzogen",
+  "zh": "偷逃（税款）",
+  "ex": [
+   "Er hat jahrelang Steuern in Höhe von mehreren hunderttausend Euro hinterzogen."
+  ],
+  "ex_zh": "他多年来偷逃了数十万欧元的税款。",
+  "use": {
+   "col": [
+    [
+     "Steuern hinterziehen",
+     "逃税"
+    ],
+    [
+     "hinterzogene Beträge",
+     "逃掉的税额"
+    ]
+   ],
+   "tip": "不可分动词；名词 die Hinterziehung / Steuerhinterziehung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "pfänden",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gepfändet",
+  "forms": "pfändet, pfändete, hat gepfändet",
+  "zh": "扣押；查封",
+  "ex": [
+   "Der Gerichtsvollzieher hat sein Auto gepfändet."
+  ],
+  "ex_zh": "执行员扣押了他的车。",
+  "use": {
+   "col": [
+    [
+     "das Gehalt pfänden",
+     "扣押工资"
+    ],
+    [
+     "ein Konto pfänden",
+     "冻结账户"
+    ]
+   ],
+   "tip": "名词 die Pfändung；Pfand 是押金，不同"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "eintreiben",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingetrieben",
+  "forms": "treibt ein, trieb ein, hat eingetrieben",
+  "zh": "追讨；催收",
+  "ex": [
+   "Ein Inkassounternehmen versucht, die offenen Schulden einzutreiben."
+  ],
+  "ex_zh": "一家催收公司在设法追回欠款。",
+  "use": {
+   "col": [
+    [
+     "Schulden eintreiben",
+     "追债"
+    ],
+    [
+     "Steuern eintreiben",
+     "征收税款"
+    ]
+   ],
+   "tip": "可分动词；名词 die Eintreibung；Inkasso 为催收"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "tilgen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "getilgt",
+  "forms": "tilgt, tilgte, hat getilgt",
+  "zh": "偿还；清偿",
+  "ex": [
+   "Er möchte seine Schulden möglichst schnell tilgen."
+  ],
+  "ex_zh": "他想尽快还清债务。",
+  "use": {
+   "col": [
+    [
+     "ein Darlehen tilgen",
+     "偿还贷款"
+    ],
+    [
+     "Schulden tilgen",
+     "还清债务"
+    ]
+   ],
+   "tip": "名词 die Tilgung；书面语，也指“抹去、消除”"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "bürgen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gebürgt",
+  "forms": "bürgt, bürgte, hat gebürgt",
+  "zh": "担保；保证",
+  "ex": [
+   "Seine Eltern bürgen für das Studienkredit-Darlehen."
+  ],
+  "ex_zh": "他父母为学业贷款提供担保。",
+  "gov": "bürgen für + Akk.",
+  "use": {
+   "col": [
+    [
+     "für jemanden bürgen",
+     "为某人担保"
+    ],
+    [
+     "für die Qualität bürgen",
+     "保证质量"
+    ]
+   ],
+   "tip": "名词 die Bürgschaft / der Bürge"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "veräußern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "veräußert",
+  "forms": "veräußert, veräußerte, hat veräußert",
+  "zh": "出售；转让",
+  "ex": [
+   "Die Gesellschaft musste einen Teil ihrer Immobilien veräußern."
+  ],
+  "ex_zh": "公司不得不出售部分房产。",
+  "use": {
+   "col": [
+    [
+     "Anteile veräußern",
+     "转让股份"
+    ],
+    [
+     "ein Grundstück veräußern",
+     "出售土地"
+    ]
+   ],
+   "tip": "比 verkaufen 更书面，多用于合同、报道；名词 die Veräußerung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "erwerben",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "erworben",
+  "forms": "erwirbt, erwarb, hat erworben",
+  "zh": "购得；获得；取得",
+  "ex": [
+   "Das Unternehmen hat sämtliche Anteile des Mitbewerbers erworben."
+  ],
+  "ex_zh": "公司买下了竞争对手的全部股份。",
+  "use": {
+   "col": [
+    [
+     "Eigentum erwerben",
+     "取得所有权"
+    ],
+    [
+     "Kenntnisse erwerben",
+     "获得知识"
+    ]
+   ],
+   "tip": "强变化；名词 der Erwerb；比 kaufen 书面"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "erzielen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "erzielt",
+  "forms": "erzielt, erzielte, hat erzielt",
+  "zh": "取得；获得（成果、收益）",
+  "ex": [
+   "Der Verkauf hat einen Gewinn von über einer Million Euro erzielt."
+  ],
+  "ex_zh": "这次出售获得了超过一百万欧元的利润。",
+  "use": {
+   "col": [
+    [
+     "einen Gewinn erzielen",
+     "获利"
+    ],
+    [
+     "eine Einigung erzielen",
+     "达成共识"
+    ]
+   ],
+   "tip": "不可分动词；搭配 Gewinn、Ergebnis、Einigung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verbuchen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verbucht",
+  "forms": "verbucht, verbuchte, hat verbucht",
+  "zh": "入账；记录（成绩、成功）",
+  "ex": [
+   "Die Firma konnte im dritten Quartal einen Rekordgewinn verbuchen."
+  ],
+  "ex_zh": "公司在第三季度创下了记录的利润。",
+  "use": {
+   "senses": [
+    "入账、记账",
+    "取得（成功）"
+   ],
+   "col": [
+    [
+     "einen Erfolg verbuchen",
+     "取得成功"
+    ],
+    [
+     "Einnahmen verbuchen",
+     "记入收入"
+    ]
+   ],
+   "tip": "字面是“记账”，比喻“获得、取得”"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verzeichnen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verzeichnet",
+  "forms": "verzeichnet, verzeichnete, hat verzeichnet",
+  "zh": "录得；记载",
+  "ex": [
+   "Die Branche verzeichnet seit Jahren ein stetiges Wachstum."
+  ],
+  "ex_zh": "这个行业多年来持续增长。",
+  "use": {
+   "col": [
+    [
+     "einen Rückgang verzeichnen",
+     "录得下降"
+    ],
+    [
+     "Zuwächse verzeichnen",
+     "录得增长"
+    ]
+   ],
+   "tip": "新闻用语；名词 das Verzeichnis（目录）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "abwerten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgewertet",
+  "forms": "wertet ab, wertete ab, hat abgewertet",
+  "zh": "使贬值；贬低",
+  "ex": [
+   "Die Regierung hat die Landeswährung um zehn Prozent abgewertet."
+  ],
+  "ex_zh": "政府将本国货币贬值了10%。",
+  "use": {
+   "col": [
+    [
+     "eine Währung abwerten",
+     "使货币贬值"
+    ],
+    [
+     "sich abgewertet fühlen",
+     "觉得被贬低"
+    ]
+   ],
+   "tip": "反义 aufwerten；名词 die Abwertung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "aufwerten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "aufgewertet",
+  "forms": "wertet auf, wertete auf, hat aufgewertet",
+  "zh": "使升值；提升价值",
+  "ex": [
+   "Neue Parks und Cafés haben das Viertel deutlich aufgewertet."
+  ],
+  "ex_zh": "新的公园和咖啡馆让这个街区明显增值。",
+  "use": {
+   "col": [
+    [
+     "eine Währung aufwerten",
+     "使货币升值"
+    ],
+    [
+     "ein Viertel aufwerten",
+     "提升街区价值"
+    ]
+   ],
+   "tip": "反义 abwerten；名词 die Aufwertung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "drosseln",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gedrosselt",
+  "forms": "drosselt, drosselte, hat gedrosselt",
+  "zh": "压低；限制（产量、速度）",
+  "ex": [
+   "Wegen der schwachen Nachfrage wurde die Produktion gedrosselt."
+  ],
+  "ex_zh": "由于需求疲软，产量被压低了。",
+  "use": {
+   "col": [
+    [
+     "die Produktion drosseln",
+     "减产"
+    ],
+    [
+     "das Tempo drosseln",
+     "降低速度"
+    ]
+   ],
+   "tip": "可用于网速：die Geschwindigkeit wird gedrosselt"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ankurbeln",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "angekurbelt",
+  "forms": "kurbelt an, kurbelte an, hat angekurbelt",
+  "zh": "刺激；推动（经济）",
+  "ex": [
+   "Mit niedrigen Zinsen will die Zentralbank die Wirtschaft ankurbeln."
+  ],
+  "ex_zh": "央行想通过低利率刺激经济。",
+  "use": {
+   "col": [
+    [
+     "die Wirtschaft ankurbeln",
+     "刺激经济"
+    ],
+    [
+     "den Konsum ankurbeln",
+     "拉动消费"
+    ]
+   ],
+   "tip": "可分动词；字面是“摇动曲柄发动”"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "schrumpfen",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "geschrumpft",
+  "forms": "schrumpft, schrumpfte, ist geschrumpft",
+  "zh": "萎缩；缩小",
+  "ex": [
+   "Die Wirtschaft ist im vergangenen Quartal um ein Prozent geschrumpft."
+  ],
+  "ex_zh": "经济在上个季度萎缩了1%。",
+  "use": {
+   "col": [
+    [
+     "die Wirtschaft schrumpft",
+     "经济萎缩"
+    ],
+    [
+     "ein schrumpfender Markt",
+     "萎缩的市场"
+    ]
+   ],
+   "tip": "反义 wachsen；助动词 sein"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "stagnieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "stagniert",
+  "forms": "stagniert, stagnierte, hat stagniert",
+  "zh": "停滞",
+  "ex": [
+   "Die Löhne stagnieren seit Jahren, während die Preise steigen."
+  ],
+  "ex_zh": "工资多年来停滞不前，而物价在上涨。",
+  "use": {
+   "col": [
+    [
+     "die Entwicklung stagniert",
+     "发展停滞"
+    ],
+    [
+     "auf hohem Niveau stagnieren",
+     "在高位停滞"
+    ]
+   ],
+   "tip": "名词 die Stagnation；发音 [ʃt…] 开头"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "florieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "floriert",
+  "forms": "floriert, florierte, hat floriert",
+  "zh": "兴旺；繁荣",
+  "ex": [
+   "Der Handel zwischen den beiden Ländern floriert."
+  ],
+  "ex_zh": "两国之间的贸易很兴旺。",
+  "use": {
+   "col": [
+    [
+     "Das Geschäft floriert.",
+     "生意兴隆。"
+    ],
+    [
+     "ein florierendes Unternehmen",
+     "兴旺的企业"
+    ]
+   ],
+   "tip": "书面；近义 blühen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "schwanken",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "geschwankt",
+  "forms": "schwankt, schwankte, hat geschwankt",
+  "zh": "波动；摇摆",
+  "ex": [
+   "Die Strompreise schwanken je nach Tageszeit erheblich."
+  ],
+  "ex_zh": "电价随一天中的时段大幅波动。",
+  "use": {
+   "col": [
+    [
+     "stark schwanken",
+     "大幅波动"
+    ],
+    [
+     "zwischen zwei Möglichkeiten schwanken",
+     "在两种可能间摇摆"
+    ]
+   ],
+   "tip": "名词 die Schwankung；表示移动位置时助动词用 sein"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "abwälzen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgewälzt",
+  "forms": "wälzt ab, wälzte ab, hat abgewälzt",
+  "zh": "转嫁（费用、责任）",
+  "ex": [
+   "Der Vermieter wälzt die Kosten auf die Mieter ab."
+  ],
+  "ex_zh": "房东把费用转嫁给租户。",
+  "gov": "abwälzen auf + Akk.",
+  "use": {
+   "col": [
+    [
+     "Kosten auf jemanden abwälzen",
+     "把费用转嫁给某人"
+    ],
+    [
+     "die Verantwortung abwälzen",
+     "推卸责任"
+    ]
+   ],
+   "tip": "可分动词；auf + Akk."
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "umlegen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "umgelegt",
+  "forms": "legt um, legte um, hat umgelegt",
+  "zh": "分摊（费用）；扳动；放倒",
+  "ex": [
+   "Die Kosten für den Aufzug werden auf alle Mieter umgelegt."
+  ],
+  "ex_zh": "电梯的费用分摊给所有租户。",
+  "use": {
+   "senses": [
+    "分摊（费用）",
+    "扳倒、搬动"
+   ],
+   "col": [
+    [
+     "Kosten umlegen",
+     "分摊费用"
+    ],
+    [
+     "einen Schalter umlegen",
+     "扳动开关"
+    ]
+   ],
+   "tip": "可分动词；umlagefähig 为可分摊的；名词 die Umlage 分摊费用"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "stemmen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gestemmt",
+  "forms": "stemmt, stemmte, hat gestemmt",
+  "zh": "承担得起（口语）；举起",
+  "ex": [
+   "Die Kosten für das Studium kann die Familie kaum stemmen."
+  ],
+  "ex_zh": "这个家庭几乎负担不起读书的费用。",
+  "use": {
+   "col": [
+    [
+     "die Kosten stemmen",
+     "扛下费用"
+    ],
+    [
+     "Gewichte stemmen",
+     "举重"
+    ]
+   ],
+   "tip": "“扛得住费用”是口语用法，字面是“用力举起”"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "aufstocken",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "aufgestockt",
+  "forms": "stockt auf, stockte auf, hat aufgestockt",
+  "zh": "增加；提高（金额、数量）",
+  "ex": [
+   "Das Unternehmen will das Budget für Forschung um zehn Millionen aufstocken."
+  ],
+  "ex_zh": "公司想把研发预算增加一千万。",
+  "use": {
+   "col": [
+    [
+     "das Gehalt aufstocken",
+     "补足工资"
+    ],
+    [
+     "Personal aufstocken",
+     "增加人手"
+    ]
+   ],
+   "tip": "可分动词；Aufstocker 指领工资后还要领补助的人"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "einfrieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingefroren",
+  "forms": "friert ein, fror ein, hat eingefroren",
+  "zh": "冻结；冷冻",
+  "ex": [
+   "Die Behörden haben das Vermögen der Firma eingefroren."
+  ],
+  "ex_zh": "当局冻结了这家公司的资产。",
+  "use": {
+   "senses": [
+    "冻结（资产、工资）",
+    "冷冻"
+   ],
+   "col": [
+    [
+     "Konten einfrieren",
+     "冻结账户"
+    ],
+    [
+     "Löhne einfrieren",
+     "冻结工资"
+    ]
+   ],
+   "tip": "可分动词；强变化；不及物“结冰”则用 ist eingefroren"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "deckeln",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gedeckelt",
+  "forms": "deckelt, deckelte, hat gedeckelt",
+  "zh": "设置上限",
+  "ex": [
+   "Die Regierung will die Mieten in den Großstädten deckeln."
+  ],
+  "ex_zh": "政府想给大城市的房租设上限。",
+  "use": {
+   "col": [
+    [
+     "Preise deckeln",
+     "限定价格上限"
+    ],
+    [
+     "eine Obergrenze festlegen",
+     "设定上限"
+    ]
+   ],
+   "tip": "名词 der Deckel（盖子）→ 引申为“封顶”；口语化的新闻用词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "anfechten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "angefochten",
+  "forms": "ficht an, focht an, hat angefochten",
+  "zh": "对……提出异议；撤销（合同）",
+  "ex": [
+   "Er will die Entscheidung des Finanzamts vor Gericht anfechten."
+  ],
+  "ex_zh": "他想在法庭上对税务局的决定提出异议。",
+  "use": {
+   "col": [
+    [
+     "einen Vertrag anfechten",
+     "撤销合同"
+    ],
+    [
+     "ein Urteil anfechten",
+     "对判决提出异议"
+    ]
+   ],
+   "tip": "强变化；名词 die Anfechtung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "beanstanden",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "beanstandet",
+  "forms": "beanstandet, beanstandete, hat beanstandet",
+  "zh": "提出异议；指出缺陷",
+  "ex": [
+   "Der Kunde beanstandete die verspätete Lieferung bei der Firma."
+  ],
+  "ex_zh": "客户就延迟送货向公司提出异议。",
+  "use": {
+   "col": [
+    [
+     "einen Mangel beanstanden",
+     "对缺陷提出异议"
+    ],
+    [
+     "die Rechnung beanstanden",
+     "对账单提出异议"
+    ]
+   ],
+   "tip": "名词 die Beanstandung；与 reklamieren 近义，更正式"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "einfordern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingefordert",
+  "forms": "fordert ein, forderte ein, hat eingefordert",
+  "zh": "要求兑现；催讨",
+  "ex": [
+   "Er hat sein Recht auf Entschädigung konsequent eingefordert."
+  ],
+  "ex_zh": "他坚决地要求兑现自己获得赔偿的权利。",
+  "use": {
+   "col": [
+    [
+     "Rechte einfordern",
+     "要求兑现权利"
+    ],
+    [
+     "eine Zahlung einfordern",
+     "催讨一笔款项"
+    ]
+   ],
+   "tip": "可分动词；比 fordern 更强调“要求实现”"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "einklagen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingeklagt",
+  "forms": "klagt ein, klagte ein, hat eingeklagt",
+  "zh": "通过诉讼要求",
+  "ex": [
+   "Der Händler hat die ausstehende Summe vor Gericht eingeklagt."
+  ],
+  "ex_zh": "商家通过诉讼追讨未付的金额。",
+  "use": {
+   "col": [
+    [
+     "eine Forderung einklagen",
+     "诉讼追讨债权"
+    ],
+    [
+     "sein Recht einklagen",
+     "起诉争取权利"
+    ]
+   ],
+   "tip": "可分动词；auf + Akk. klagen 也可，意思更一般"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verjähren",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "verjährt",
+  "forms": "verjährt, verjährte, ist verjährt",
+  "zh": "超过诉讼时效",
+  "ex": [
+   "Die Forderung ist nach drei Jahren verjährt."
+  ],
+  "ex_zh": "这笔债权三年后已过诉讼时效。",
+  "use": {
+   "col": [
+    [
+     "verjährt sein",
+     "已过时效"
+    ],
+    [
+     "nicht verjähren",
+     "不受时效限制"
+    ]
+   ],
+   "tip": "名词 die Verjährung；助动词 sein；形容词 verjährt"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich bereichern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bereichert",
+  "forms": "bereichert sich, bereicherte sich, hat sich bereichert",
+  "zh": "牟取私利；中饱私囊",
+  "ex": [
+   "Der Geschäftsführer hat sich auf Kosten der Mitarbeiter bereichert."
+  ],
+  "ex_zh": "经理以员工为代价中饱私囊。",
+  "gov": "sich bereichern an + Dat.",
+  "use": {
+   "col": [
+    [
+     "sich unrechtmäßig bereichern",
+     "非法牟利"
+    ],
+    [
+     "sich an etwas bereichern",
+     "借某事牟利"
+    ]
+   ],
+   "tip": "贬义；不反身的 bereichern 是“丰富”，如 das Leben bereichern"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "veruntreuen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "veruntreut",
+  "forms": "veruntreut, veruntreute, hat veruntreut",
+  "zh": "侵吞；挪用公款",
+  "ex": [
+   "Der Buchhalter soll über Jahre hinweg Geld der Firma veruntreut haben."
+  ],
+  "ex_zh": "会计被指多年来侵吞了公司的钱。",
+  "use": {
+   "col": [
+    [
+     "Gelder veruntreuen",
+     "侵吞资金"
+    ],
+    [
+     "Spendengelder veruntreuen",
+     "挪用捐款"
+    ]
+   ],
+   "tip": "名词 die Veruntreuung；treu（忠诚）→ 背叛信任"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "unterschlagen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "unterschlagen",
+  "forms": "unterschlägt, unterschlug, hat unterschlagen",
+  "zh": "侵占；隐瞒",
+  "ex": [
+   "Sie hat Geld aus der Kasse unterschlagen."
+  ],
+  "ex_zh": "她从收银台里侵占了钱。",
+  "use": {
+   "col": [
+    [
+     "Geld unterschlagen",
+     "侵占钱款"
+    ],
+    [
+     "Beweise unterschlagen",
+     "隐匿证据"
+    ]
+   ],
+   "tip": "强变化；名词 die Unterschlagung；不可分动词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "fälschen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gefälscht",
+  "forms": "fälscht, fälschte, hat gefälscht",
+  "zh": "伪造；篡改",
+  "ex": [
+   "Er wurde angeklagt, weil er Unterschriften auf dem Vertrag gefälscht hatte."
+  ],
+  "ex_zh": "他因伪造合同上的签名而被起诉。",
+  "use": {
+   "col": [
+    [
+     "Dokumente fälschen",
+     "伪造文件"
+    ],
+    [
+     "Geld fälschen",
+     "制造假币"
+    ]
+   ],
+   "tip": "名词 die Fälschung；Fälscher 伪造者"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "privatisieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "privatisiert",
+  "forms": "privatisiert, privatisierte, hat privatisiert",
+  "zh": "私有化",
+  "ex": [
+   "In den 1990er Jahren wurden viele staatliche Betriebe privatisiert."
+  ],
+  "ex_zh": "1990年代很多国有企业被私有化。",
+  "use": {
+   "col": [
+    [
+     "ein Unternehmen privatisieren",
+     "使企业私有化"
+    ],
+    [
+     "die Privatisierung der Bahn",
+     "铁路私有化"
+    ]
+   ],
+   "tip": "反义 verstaatlichen；名词 die Privatisierung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verstaatlichen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verstaatlicht",
+  "forms": "verstaatlicht, verstaatlichte, hat verstaatlicht",
+  "zh": "国有化",
+  "ex": [
+   "Während der Krise wurde die Bank vom Staat verstaatlicht."
+  ],
+  "ex_zh": "危机期间，这家银行被国家国有化了。",
+  "use": {
+   "col": [
+    [
+     "eine Bank verstaatlichen",
+     "使银行国有化"
+    ],
+    [
+     "verstaatlichte Industrie",
+     "国有化的工业"
+    ]
+   ],
+   "tip": "反义 privatisieren；名词 die Verstaatlichung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "fusionieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "fusioniert",
+  "forms": "fusioniert, fusionierte, hat fusioniert",
+  "zh": "合并",
+  "ex": [
+   "Die beiden Banken fusionierten zu einem der größten Geldhäuser Europas."
+  ],
+  "ex_zh": "两家银行合并成欧洲最大的金融机构之一。",
+  "use": {
+   "col": [
+    [
+     "mit einem Konkurrenten fusionieren",
+     "与竞争对手合并"
+    ],
+    [
+     "zu einem Konzern fusionieren",
+     "合并成集团"
+    ]
+   ],
+   "tip": "助动词 haben/sein 均可；名词 die Fusion"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "abwandern",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "abgewandert",
+  "forms": "wandert ab, wanderte ab, ist abgewandert",
+  "zh": "外迁；流失",
+  "ex": [
+   "Viele Unternehmen sind wegen der hohen Energiepreise ins Ausland abgewandert."
+  ],
+  "ex_zh": "很多企业因能源价格高而迁往国外。",
+  "use": {
+   "col": [
+    [
+     "ins Ausland abwandern",
+     "迁往国外"
+    ],
+    [
+     "Kunden wandern ab",
+     "客户流失"
+    ]
+   ],
+   "tip": "可分动词；名词 die Abwanderung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "auslagern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ausgelagert",
+  "forms": "lagert aus, lagerte aus, hat ausgelagert",
+  "zh": "外包；迁出",
+  "ex": [
+   "Die Firma hat ihren Kundenservice an ein externes Unternehmen ausgelagert."
+  ],
+  "ex_zh": "公司把客服外包给了一家外部企业。",
+  "use": {
+   "col": [
+    [
+     "Aufgaben auslagern",
+     "外包任务"
+    ],
+    [
+     "in ein anderes Land auslagern",
+     "转移到别国"
+    ]
+   ],
+   "tip": "可分动词；名词 das Outsourcing / die Auslagerung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verlagern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verlagert",
+  "forms": "verlagert, verlagerte, hat verlagert",
+  "zh": "转移；迁移",
+  "ex": [
+   "Der Konzern verlagert die Produktion nach Osteuropa."
+  ],
+  "ex_zh": "这家集团把生产转移到东欧。",
+  "use": {
+   "col": [
+    [
+     "die Produktion verlagern",
+     "转移生产"
+    ],
+    [
+     "den Schwerpunkt verlagern",
+     "转移重心"
+    ]
+   ],
+   "tip": "不可分动词；名词 die Verlagerung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "rationalisieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "rationalisiert",
+  "forms": "rationalisiert, rationalisierte, hat rationalisiert",
+  "zh": "合理化；精简（提高效率）",
+  "ex": [
+   "Durch Automatisierung soll die Produktion weiter rationalisiert werden."
+  ],
+  "ex_zh": "通过自动化，生产应进一步精简。",
+  "use": {
+   "col": [
+    [
+     "Abläufe rationalisieren",
+     "优化流程"
+    ],
+    [
+     "Arbeitsplätze wegrationalisieren",
+     "裁撤岗位"
+    ]
+   ],
+   "tip": "名词 die Rationalisierung；常暗含裁员"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "expandieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "expandiert",
+  "forms": "expandiert, expandierte, hat expandiert",
+  "zh": "扩张；扩展",
+  "ex": [
+   "Der Online-Händler expandiert derzeit in mehrere europäische Länder."
+  ],
+  "ex_zh": "这家网络零售商目前正向多个欧洲国家扩张。",
+  "use": {
+   "col": [
+    [
+     "ins Ausland expandieren",
+     "向海外扩张"
+    ],
+    [
+     "ein expandierender Markt",
+     "扩张中的市场"
+    ]
+   ],
+   "tip": "名词 die Expansion；助动词 haben/sein 均可"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sanieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "saniert",
+  "forms": "saniert, sanierte, hat saniert",
+  "zh": "整顿（企业）；翻修",
+  "ex": [
+   "Der neue Vorstand soll das verschuldete Unternehmen sanieren."
+  ],
+  "ex_zh": "新董事会要整顿这家负债的企业。",
+  "use": {
+   "senses": [
+    "重整（企业、财政）",
+    "翻修（建筑）"
+   ],
+   "col": [
+    [
+     "ein Unternehmen sanieren",
+     "重整企业"
+    ],
+    [
+     "ein Gebäude sanieren",
+     "翻修建筑"
+    ]
+   ],
+   "tip": "名词 die Sanierung；也用于房屋翻新"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "entlasten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "entlastet",
+  "forms": "entlastet, entlastete, hat entlastet",
+  "zh": "减轻负担；减税",
+  "ex": [
+   "Die neue Regelung soll vor allem Familien finanziell entlasten."
+  ],
+  "ex_zh": "新规定主要是为了在经济上减轻家庭负担。",
+  "use": {
+   "col": [
+    [
+     "den Haushalt entlasten",
+     "减轻家庭支出"
+    ],
+    [
+     "steuerlich entlasten",
+     "税收上减负"
+    ]
+   ],
+   "tip": "反义 belasten；名词 die Entlastung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "bezuschussen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bezuschusst",
+  "forms": "bezuschusst, bezuschusste, hat bezuschusst",
+  "zh": "给予补贴",
+  "ex": [
+   "Die Stadt bezuschusst den Kauf von Lastenrädern mit bis zu 1.000 Euro."
+  ],
+  "ex_zh": "市里为购买货运自行车补贴最多1000欧元。",
+  "use": {
+   "col": [
+    [
+     "bezuschusst werden",
+     "获得补贴"
+    ],
+    [
+     "Kosten bezuschussen",
+     "补贴费用"
+    ]
+   ],
+   "tip": "名词 der Zuschuss；不可分动词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "abfedern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgefedert",
+  "forms": "federt ab, federte ab, hat abgefedert",
+  "zh": "缓冲；减轻冲击",
+  "ex": [
+   "Staatliche Hilfen sollen die Folgen der Krise für Familien abfedern."
+  ],
+  "ex_zh": "国家援助应缓解危机对家庭的冲击。",
+  "use": {
+   "col": [
+    [
+     "Folgen abfedern",
+     "缓解后果"
+    ],
+    [
+     "einen Preisanstieg abfedern",
+     "缓冲涨价"
+    ]
+   ],
+   "tip": "可分动词；Feder 弹簧→减震"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "vergüten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "vergütet",
+  "forms": "vergütet, vergütete, hat vergütet",
+  "zh": "支付报酬；补偿",
+  "ex": [
+   "Überstunden werden bei uns entweder vergütet oder durch Freizeit ausgeglichen."
+  ],
+  "ex_zh": "加班在我们这里要么付薪，要么调休。",
+  "use": {
+   "col": [
+    [
+     "Leistungen vergüten",
+     "支付劳务报酬"
+    ],
+    [
+     "angemessen vergütet",
+     "获得合理报酬"
+    ]
+   ],
+   "tip": "名词 die Vergütung；比 bezahlen 书面，用于合同"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "entrichten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "entrichtet",
+  "forms": "entrichtet, entrichtete, hat entrichtet",
+  "zh": "缴纳（费用、税款）",
+  "ex": [
+   "Die Gebühr muss bis zum Monatsende entrichtet werden."
+  ],
+  "ex_zh": "费用必须在月底前缴纳。",
+  "use": {
+   "col": [
+    [
+     "eine Gebühr entrichten",
+     "缴纳费用"
+    ],
+    [
+     "Steuern entrichten",
+     "缴税"
+    ]
+   ],
+   "tip": "官方书面语；名词 die Entrichtung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "abführen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgeführt",
+  "forms": "führt ab, führte ab, hat abgeführt",
+  "zh": "上缴；代扣代缴",
+  "ex": [
+   "Der Arbeitgeber führt die Sozialabgaben direkt an die Kassen ab."
+  ],
+  "ex_zh": "雇主把社保费用直接上缴给相关机构。",
+  "use": {
+   "col": [
+    [
+     "Steuern abführen",
+     "上缴税款"
+    ],
+    [
+     "Beiträge abführen",
+     "缴纳保费"
+    ]
+   ],
+   "tip": "可分动词；也指“带走（嫌疑人）”"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verrechnen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verrechnet",
+  "forms": "verrechnet, verrechnete, hat verrechnet",
+  "zh": "抵扣；结算；算错",
+  "ex": [
+   "Die Gutschrift wird mit der nächsten Rechnung verrechnet."
+  ],
+  "ex_zh": "这笔退款会与下一张账单抵扣。",
+  "use": {
+   "senses": [
+    "抵扣、冲抵",
+    "sich verrechnen：算错"
+   ],
+   "col": [
+    [
+     "mit etwas verrechnen",
+     "与某物抵扣"
+    ],
+    [
+     "sich verrechnen",
+     "算错"
+    ]
+   ],
+   "tip": "sich verrechnen = 算错；jdm. etw. verrechnen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "einbehalten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "einbehalten",
+  "forms": "behält ein, behielt ein, hat einbehalten",
+  "zh": "扣留；代扣",
+  "ex": [
+   "Die Bank hat eine Gebühr von dem überwiesenen Betrag einbehalten."
+  ],
+  "ex_zh": "银行从转账金额里扣了一笔手续费。",
+  "use": {
+   "col": [
+    [
+     "Steuern einbehalten",
+     "代扣税款"
+    ],
+    [
+     "die Kaution einbehalten",
+     "扣留押金"
+    ]
+   ],
+   "tip": "强变化；可分动词；同义 abziehen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "hinterlegen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "hinterlegt",
+  "forms": "hinterlegt, hinterlegte, hat hinterlegt",
+  "zh": "存放；寄存；缴存（押金）",
+  "ex": [
+   "Er hat eine Kaution in Höhe von drei Monatsmieten hinterlegt."
+  ],
+  "ex_zh": "他缴存了相当于三个月租金的押金。",
+  "use": {
+   "col": [
+    [
+     "eine Kaution hinterlegen",
+     "缴存押金"
+    ],
+    [
+     "beim Notar hinterlegen",
+     "存放于公证处"
+    ]
+   ],
+   "tip": "不可分动词；名词 die Hinterlegung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "insolvent",
+  "pos": "adj",
+  "zh": "破产的；无力偿债的",
+  "ex": [
+   "Der Zulieferer ist insolvent und kann seine Rechnungen nicht mehr bezahlen."
+  ],
+  "ex_zh": "这家供应商已经破产，再也付不起账单。",
+  "use": {
+   "col": [
+    [
+     "insolvent sein",
+     "无力偿债"
+    ],
+    [
+     "ein insolventes Unternehmen",
+     "破产的企业"
+    ]
+   ],
+   "tip": "名词 die Insolvenz；比 pleite 正式"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "zahlungsunfähig",
+  "pos": "adj",
+  "zh": "无力支付的",
+  "ex": [
+   "Die Firma ist zahlungsunfähig und muss Insolvenz anmelden."
+  ],
+  "ex_zh": "公司已无力支付，必须申请破产。",
+  "use": {
+   "col": [
+    [
+     "zahlungsunfähig werden",
+     "陷入无力支付"
+    ],
+    [
+     "sich zahlungsunfähig erklären",
+     "宣布无力支付"
+    ]
+   ],
+   "tip": "反义 zahlungsfähig；名词 die Zahlungsunfähigkeit"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "finanzkräftig",
+  "pos": "adj",
+  "zh": "资金雄厚的",
+  "ex": [
+   "Für das Projekt wurde ein finanzkräftiger Partner gesucht."
+  ],
+  "ex_zh": "这个项目在寻找资金雄厚的合作伙伴。",
+  "use": {
+   "col": [
+    [
+     "ein finanzkräftiger Investor",
+     "资金雄厚的投资人"
+    ],
+    [
+     "finanzkräftig sein",
+     "财力雄厚"
+    ]
+   ],
+   "tip": "同义 kapitalstark；反义 finanzschwach"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "kreditwürdig",
+  "pos": "adj",
+  "zh": "有信誉的；有资格贷款的",
+  "ex": [
+   "Ohne festes Einkommen gilt man bei den Banken kaum als kreditwürdig."
+  ],
+  "ex_zh": "没有固定收入，在银行眼里几乎没有贷款资格。",
+  "use": {
+   "col": [
+    [
+     "kreditwürdig sein",
+     "有资格贷款"
+    ],
+    [
+     "nicht kreditwürdig",
+     "资信不足"
+    ]
+   ],
+   "tip": "名词 die Kreditwürdigkeit"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "kostendeckend",
+  "pos": "adj",
+  "zh": "能收回成本的",
+  "ex": [
+   "Die Gebühren sind so kalkuliert, dass sie kostendeckend sind."
+  ],
+  "ex_zh": "费用是按能收回成本来计算的。",
+  "use": {
+   "col": [
+    [
+     "kostendeckend arbeiten",
+     "保本经营"
+    ],
+    [
+     "nicht kostendeckend",
+     "无法保本"
+    ]
+   ],
+   "tip": "字面“覆盖成本”；超出则 gewinnbringend"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "rückläufig",
+  "pos": "adj",
+  "zh": "下降的；回落的",
+  "ex": [
+   "Die Zahl der Neuzulassungen ist seit Monaten rückläufig."
+  ],
+  "ex_zh": "新车注册数量已连续数月下降。",
+  "use": {
+   "col": [
+    [
+     "rückläufig sein",
+     "呈下降趋势"
+    ],
+    [
+     "eine rückläufige Entwicklung",
+     "下降的趋势"
+    ]
+   ],
+   "tip": "反义 steigend；新闻用词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "krisenfest",
+  "pos": "adj",
+  "zh": "抗危机的；稳健的",
+  "ex": [
+   "Gesundheitsberufe gelten als besonders krisenfest."
+  ],
+  "ex_zh": "医疗职业被认为特别抗危机。",
+  "use": {
+   "col": [
+    [
+     "ein krisenfester Arbeitsplatz",
+     "稳定的工作"
+    ],
+    [
+     "krisenfest sein",
+     "能抗危机"
+    ]
+   ],
+   "tip": "同义 krisensicher；-fest 表示“抗……的”"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "einträglich",
+  "pos": "adj",
+  "zh": "有利可图的；收益高的",
+  "ex": [
+   "Der Handel mit seltenen Metallen ist ein äußerst einträgliches Geschäft."
+  ],
+  "ex_zh": "稀有金属贸易是一门利润极高的生意。",
+  "use": {
+   "col": [
+    [
+     "ein einträgliches Geschäft",
+     "有利可图的生意"
+    ],
+    [
+     "einträglich sein",
+     "有收益"
+    ]
+   ],
+   "tip": "比 lukrativ 稍旧；书面"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "defizitär",
+  "pos": "adj",
+  "zh": "亏损的；有赤字的",
+  "ex": [
+   "Der Betrieb arbeitet seit Jahren defizitär."
+  ],
+  "ex_zh": "该企业多年来一直亏损经营。",
+  "use": {
+   "col": [
+    [
+     "defizitär arbeiten",
+     "亏损经营"
+    ],
+    [
+     "ein defizitärer Haushalt",
+     "赤字预算"
+    ]
+   ],
+   "tip": "名词 das Defizit；反义 gewinnbringend"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "überschuldet",
+  "pos": "adj",
+  "zh": "资不抵债的；负债过重的",
+  "ex": [
+   "Immer mehr private Haushalte sind überschuldet."
+  ],
+  "ex_zh": "越来越多的家庭负债过重。",
+  "use": {
+   "col": [
+    [
+     "überschuldet sein",
+     "资不抵债"
+    ],
+    [
+     "überschuldete Haushalte",
+     "负债家庭"
+    ]
+   ],
+   "tip": "名词 die Überschuldung；比 verschuldet 更严重"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "unentgeltlich",
+  "pos": "adj",
+  "zh": "无偿的；免费的",
+  "ex": [
+   "Die Beratung wird unentgeltlich von Ehrenamtlichen durchgeführt."
+  ],
+  "ex_zh": "咨询由志愿者无偿提供。",
+  "use": {
+   "col": [
+    [
+     "unentgeltlich arbeiten",
+     "无偿工作"
+    ],
+    [
+     "eine unentgeltliche Leistung",
+     "无偿服务"
+    ]
+   ],
+   "tip": "书面；反义 entgeltlich；名词 das Entgelt 报酬"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "vermögend",
+  "pos": "adj",
+  "zh": "有财产的；富有的",
+  "ex": [
+   "Vermögende Familien zahlen oft höhere Steuern auf ihr Vermögen."
+  ],
+  "ex_zh": "富有的家庭常常要为财产缴更多的税。",
+  "use": {
+   "col": [
+    [
+     "eine vermögende Familie",
+     "富裕家庭"
+    ],
+    [
+     "vermögend sein",
+     "有资产"
+    ]
+   ],
+   "tip": "名词 das Vermögen；同义 wohlhabend"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "wohlhabend",
+  "pos": "adj",
+  "zh": "富裕的；小康的",
+  "ex": [
+   "Er stammt aus einer wohlhabenden Familie im Süden Deutschlands."
+  ],
+  "ex_zh": "他出身于德国南部一个富裕的家庭。",
+  "use": {
+   "col": [
+    [
+     "ein wohlhabendes Land",
+     "富裕的国家"
+    ],
+    [
+     "wohlhabend werden",
+     "致富"
+    ]
+   ],
+   "tip": "名词 der Wohlstand；比 reich 稍书面"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "bedürftig",
+  "pos": "adj",
+  "zh": "贫困的；需要帮助的",
+  "ex": [
+   "Die Stadt unterstützt bedürftige Familien mit Lebensmittelgutscheinen."
+  ],
+  "ex_zh": "市里用食品券资助有需要的家庭。",
+  "use": {
+   "col": [
+    [
+     "bedürftige Menschen",
+     "需要救助的人"
+    ],
+    [
+     "hilfsbedürftig",
+     "需要帮助的"
+    ]
+   ],
+   "tip": "名词 die Bedürftigkeit；官方用语"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "mittellos",
+  "pos": "adj",
+  "zh": "身无分文的；贫困的",
+  "ex": [
+   "Nach dem Verlust seiner Arbeit stand er plötzlich mittellos da."
+  ],
+  "ex_zh": "失去工作后，他一下子变得身无分文。",
+  "use": {
+   "col": [
+    [
+     "mittellos sein",
+     "身无分文"
+    ],
+    [
+     "völlig mittellos",
+     "一贫如洗"
+    ]
+   ],
+   "tip": "-los 没有；Mittel 此处指“资金”"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "marktüblich",
+  "pos": "adj",
+  "zh": "市场通行的；行情价的",
+  "ex": [
+   "Das Gehalt entspricht dem marktüblichen Niveau in der Branche."
+  ],
+  "ex_zh": "这个薪水符合行业的市场水平。",
+  "use": {
+   "col": [
+    [
+     "marktübliche Preise",
+     "市场通行价格"
+    ],
+    [
+     "marktüblich bezahlt",
+     "按市场水平付酬"
+    ]
+   ],
+   "tip": "类似 ortsüblich（当地通行）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "kostenintensiv",
+  "pos": "adj",
+  "zh": "成本高昂的",
+  "ex": [
+   "Der Ausbau der Infrastruktur ist äußerst kostenintensiv."
+  ],
+  "ex_zh": "基础设施的扩建成本极高。",
+  "use": {
+   "col": [
+    [
+     "kostenintensiv sein",
+     "成本高"
+    ],
+    [
+     "ein kostenintensives Verfahren",
+     "成本高的方法"
+    ]
+   ],
+   "tip": "类似 aufwendig / teuer，更偏商业语体"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "wettbewerbsfähig",
+  "pos": "adj",
+  "zh": "有竞争力的",
+  "ex": [
+   "Um wettbewerbsfähig zu bleiben, muss das Unternehmen seine Kosten senken."
+  ],
+  "ex_zh": "为了保持竞争力，公司必须降低成本。",
+  "use": {
+   "col": [
+    [
+     "wettbewerbsfähig bleiben",
+     "保持竞争力"
+    ],
+    [
+     "wettbewerbsfähige Preise",
+     "有竞争力的价格"
+    ]
+   ],
+   "tip": "名词 die Wettbewerbsfähigkeit"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ausstehend",
+  "pos": "adj",
+  "zh": "未付的；尚未到来的",
+  "ex": [
+   "Bitte begleichen Sie den ausstehenden Betrag innerhalb von sieben Tagen."
+  ],
+  "ex_zh": "请在七天内结清未付款项。",
+  "use": {
+   "col": [
+    [
+     "ausstehende Zahlungen",
+     "未付款项"
+    ],
+    [
+     "noch ausstehend",
+     "尚未完成"
+    ]
+   ],
+   "tip": "动词 ausstehen；常用于账单、答复"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "anteilig",
+  "pos": "adj",
+  "zh": "按比例的；分摊的",
+  "ex": [
+   "Die Heizkosten werden anteilig auf alle Mieter verteilt."
+  ],
+  "ex_zh": "暖气费按比例分摊给所有租户。",
+  "use": {
+   "col": [
+    [
+     "anteilig zahlen",
+     "按比例付款"
+    ],
+    [
+     "anteilige Kosten",
+     "分摊费用"
+    ]
+   ],
+   "tip": "名词 der Anteil；副词用法更常见"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "kulant",
+  "pos": "adj",
+  "zh": "通融的；大方的（商家、服务）",
+  "ex": [
+   "Der Händler zeigte sich kulant und tauschte das Gerät ohne Aufpreis um."
+  ],
+  "ex_zh": "商家很通融，免费给换了设备。",
+  "use": {
+   "col": [
+    [
+     "sich kulant zeigen",
+     "表现得通融"
+    ],
+    [
+     "kulante Rückgabe",
+     "宽松的退货政策"
+    ]
+   ],
+   "tip": "名词 die Kulanz；超出法定义务的好意"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "steuerlich",
+  "pos": "adj",
+  "zh": "税务的；税收上的",
+  "ex": [
+   "Aus steuerlicher Sicht lohnt sich die Anschaffung erst im nächsten Jahr."
+  ],
+  "ex_zh": "从税务角度看，这笔购置要到明年才划算。",
+  "use": {
+   "col": [
+    [
+     "steuerliche Vorteile",
+     "税收优惠"
+    ],
+    [
+     "steuerlich absetzbar",
+     "可税前抵扣"
+    ]
+   ],
+   "tip": "名词 die Steuer；与 steuer-（steuerfrei）不同"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "konjunkturell",
+  "pos": "adj",
+  "zh": "景气的；经济周期的",
+  "ex": [
+   "Die konjunkturelle Lage verschlechtert sich seit dem Frühjahr."
+  ],
+  "ex_zh": "自春季以来，经济形势在恶化。",
+  "use": {
+   "col": [
+    [
+     "konjunkturell bedingt",
+     "因经济周期导致"
+    ],
+    [
+     "die konjunkturelle Entwicklung",
+     "景气发展"
+    ]
+   ],
+   "tip": "名词 die Konjunktur；新闻、经济类书面词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "volkswirtschaftlich",
+  "pos": "adj",
+  "zh": "国民经济的；宏观经济的",
+  "ex": [
+   "Der volkswirtschaftliche Schaden durch den Streik ist enorm."
+  ],
+  "ex_zh": "罢工造成的宏观经济损失巨大。",
+  "use": {
+   "col": [
+    [
+     "volkswirtschaftlicher Schaden",
+     "国民经济损失"
+    ],
+    [
+     "volkswirtschaftlich sinnvoll",
+     "宏观经济上合理"
+    ]
+   ],
+   "tip": "对应 betriebswirtschaftlich（企业层面）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "betriebswirtschaftlich",
+  "pos": "adj",
+  "zh": "企业管理的；经营上的",
+  "ex": [
+   "Aus betriebswirtschaftlicher Sicht ist das Projekt nicht sinnvoll."
+  ],
+  "ex_zh": "从企业经营角度看，这个项目不合理。",
+  "use": {
+   "col": [
+    [
+     "betriebswirtschaftlich denken",
+     "从经营角度思考"
+    ],
+    [
+     "betriebswirtschaftliche Kennzahlen",
+     "经营指标"
+    ]
+   ],
+   "tip": "对应 volkswirtschaftlich；名词 die Betriebswirtschaft"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "in Verzug geraten",
+  "pos": "phr",
+  "zh": "陷入拖欠；延误",
+  "ex": [
+   "Wer die Miete mehrfach nicht zahlt, gerät schnell in Verzug."
+  ],
+  "ex_zh": "多次不付房租的人很快就拖欠了。",
+  "use": {
+   "col": [
+    [
+     "im Verzug sein",
+     "处于拖欠中"
+    ],
+    [
+     "Verzugszinsen",
+     "逾期利息"
+    ]
+   ],
+   "tip": "名词 der Verzug；法律术语“迟延”；Gefahr ist im Verzug 为“情况紧急”"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "zu Buche schlagen",
+  "pos": "phr",
+  "zh": "在账上占重要份额；影响显著",
+  "ex": [
+   "Die gestiegenen Energiepreise schlagen bei den Betriebskosten stark zu Buche."
+  ],
+  "ex_zh": "能源价格上涨对运营成本影响很大。",
+  "use": {
+   "col": [
+    [
+     "stark zu Buche schlagen",
+     "影响很大"
+    ],
+    [
+     "mit 20 Prozent zu Buche schlagen",
+     "占20%"
+    ]
+   ],
+   "tip": "Buch 指账本；常配 stark / deutlich"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "zur Kasse bitten",
+  "pos": "phr",
+  "zh": "要求付钱；让……掏钱",
+  "ex": [
+   "Bei der Bahnreform werden vor allem die Pendler zur Kasse gebeten."
+  ],
+  "ex_zh": "铁路改革主要是让通勤者掏钱。",
+  "use": {
+   "col": [
+    [
+     "jemanden zur Kasse bitten",
+     "让某人付钱"
+    ],
+    [
+     "zur Kasse gebeten werden",
+     "被要求掏钱"
+    ]
+   ],
+   "tip": "带点讽刺的新闻语；字面“请到收银台”"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Gewinn abwerfen",
+  "pos": "phr",
+  "zh": "带来利润",
+  "ex": [
+   "Das neue Geschäftsfeld wirft bereits im ersten Jahr Gewinn ab."
+  ],
+  "ex_zh": "这个新业务在第一年就带来了利润。",
+  "use": {
+   "col": [
+    [
+     "Gewinn abwerfen",
+     "带来盈利"
+    ],
+    [
+     "Rendite abwerfen",
+     "产生收益"
+    ]
+   ],
+   "tip": "abwerfen: wirft ab, warf ab, hat abgeworfen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Verluste einfahren",
+  "pos": "phr",
+  "zh": "出现亏损",
+  "ex": [
+   "Der Autohersteller fuhr im letzten Quartal hohe Verluste ein."
+  ],
+  "ex_zh": "这家汽车制造商上个季度出现巨额亏损。",
+  "use": {
+   "col": [
+    [
+     "Verluste einfahren",
+     "亏损"
+    ],
+    [
+     "Gewinne einfahren",
+     "赚到利润"
+    ]
+   ],
+   "tip": "einfahren: fährt ein, fuhr ein, hat eingefahren；口语化经济新闻"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "geltend machen",
+  "pos": "phr",
+  "zh": "主张（权利）；提出（要求）",
+  "ex": [
+   "Sie kann die Kosten für das Arbeitszimmer steuerlich geltend machen."
+  ],
+  "ex_zh": "她可以在税务上主张这间工作室的费用。",
+  "use": {
+   "col": [
+    [
+     "Ansprüche geltend machen",
+     "主张权利"
+    ],
+    [
+     "Gründe geltend machen",
+     "提出理由"
+    ]
+   ],
+   "tip": "geltend machen: macht geltend, machte geltend, hat geltend gemacht"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "über seine Verhältnisse leben",
+  "pos": "phr",
+  "zh": "入不敷出地生活；超支消费",
+  "ex": [
+   "Wer ständig über seine Verhältnisse lebt, gerät irgendwann in Schulden."
+  ],
+  "ex_zh": "总是入不敷出的人迟早会负债。",
+  "use": {
+   "col": [
+    [
+     "über die Verhältnisse leben",
+     "入不敷出"
+    ],
+    [
+     "in bescheidenen Verhältnissen leben",
+     "生活简朴"
+    ]
+   ],
+   "tip": "Verhältnisse 此处指“经济条件”"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "auf Pump",
+  "pos": "phr",
+  "zh": "借钱；赊账（口语）",
+  "ex": [
+   "Viele junge Leute kaufen ihre Smartphones heute auf Pump."
+  ],
+  "ex_zh": "今天很多年轻人赊账买智能手机。",
+  "use": {
+   "col": [
+    [
+     "auf Pump leben",
+     "借钱度日"
+    ],
+    [
+     "auf Pump kaufen",
+     "赊账买"
+    ]
+   ],
+   "tip": "口语，带贬义；同义 auf Kredit"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "unter dem Strich",
+  "pos": "phr",
+  "zh": "归根结底；算下来",
+  "ex": [
+   "Unter dem Strich bleiben mir nach allen Abzügen nur 1.800 Euro."
+  ],
+  "ex_zh": "算下来，所有扣除之后我只剩1800欧元。",
+  "use": {
+   "col": [
+    [
+     "unter dem Strich",
+     "总的来看"
+    ],
+    [
+     "unterm Strich",
+     "（口语）算下来"
+    ]
+   ],
+   "tip": "字面“账单底线之下”；总结时的常用说法"
+  }
+ }
+]

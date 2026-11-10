@@ -1,0 +1,10166 @@
+[
+ {
+  "lv": "B2",
+  "lemma": "Rücksprache halten",
+  "pos": "phr",
+  "zh": "与……商量；请示",
+  "ex": [
+   "Bevor ich zusage, muss ich noch Rücksprache mit meinem Chef halten."
+  ],
+  "ex_zh": "在答应之前，我还得先请示我的老板。",
+  "gov": "Rücksprache halten mit + Dat.",
+  "use": {
+   "col": [
+    [
+     "mit jemandem Rücksprache halten",
+     "与某人商量"
+    ],
+    [
+     "nach Rücksprache",
+     "经商量后"
+    ]
+   ],
+   "tip": "名词 die Rücksprache；商务常用，比 fragen 更正式"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Stellung nehmen",
+  "pos": "phr",
+  "zh": "表态；发表意见",
+  "ex": [
+   "Der Betriebsrat nahm zu den Plänen der Geschäftsleitung Stellung."
+  ],
+  "ex_zh": "职工代表会就管理层的计划发表了意见。",
+  "gov": "Stellung nehmen zu + Dat.",
+  "use": {
+   "col": [
+    [
+     "zu einem Vorschlag Stellung nehmen",
+     "对建议发表意见"
+    ],
+    [
+     "schriftlich Stellung nehmen",
+     "书面表态"
+    ]
+   ],
+   "tip": "名词 die Stellungnahme；正式场合常见"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "in Anspruch nehmen",
+  "pos": "phr",
+  "zh": "利用；占用；要求享受",
+  "ex": [
+   "Viele Beschäftigte nehmen die Elternzeit in Anspruch."
+  ],
+  "ex_zh": "许多员工享受了育儿假。",
+  "use": {
+   "col": [
+    [
+     "Leistungen in Anspruch nehmen",
+     "享受服务/待遇"
+    ],
+    [
+     "Zeit in Anspruch nehmen",
+     "占用时间"
+    ]
+   ],
+   "tip": "名词 der Anspruch；书面常用，比 benutzen 正式"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "an einem Strang ziehen",
+  "pos": "phr",
+  "zh": "齐心协力",
+  "ex": [
+   "Wenn wir alle an einem Strang ziehen, schaffen wir die Deadline."
+  ],
+  "ex_zh": "只要我们齐心协力，就能赶上截止日期。",
+  "use": {
+   "col": [
+    [
+     "alle ziehen an einem Strang",
+     "大家齐心协力"
+    ],
+    [
+     "an einem Strang ziehen",
+     "目标一致、同心协力"
+    ]
+   ],
+   "tip": "口语惯用语；直译“拉同一根绳子”"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Verantwortung tragen",
+  "pos": "phr",
+  "zh": "承担责任",
+  "ex": [
+   "Als Projektleiter trägt er die Verantwortung für das Budget."
+  ],
+  "ex_zh": "作为项目负责人，他要为预算负责。",
+  "gov": "Verantwortung tragen für + Akk.",
+  "use": {
+   "col": [
+    [
+     "die Verantwortung tragen",
+     "承担责任"
+    ],
+    [
+     "Verantwortung für etwas tragen",
+     "对某事负责"
+    ]
+   ],
+   "tip": "同义 Verantwortung übernehmen；tragen 强调“持续承担”"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "in Rente gehen",
+  "pos": "phr",
+  "zh": "退休",
+  "ex": [
+   "Mein Kollege geht nächstes Jahr in Rente."
+  ],
+  "ex_zh": "我同事明年退休。",
+  "use": {
+   "col": [
+    [
+     "in Rente gehen",
+     "退休"
+    ],
+    [
+     "in den Ruhestand gehen",
+     "进入退休状态"
+    ]
+   ],
+   "tip": "名词 die Rente；Ruhestand 更书面；公务员用 in Pension gehen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Hand in Hand arbeiten",
+  "pos": "phr",
+  "zh": "密切配合",
+  "ex": [
+   "Die Abteilungen arbeiten bei diesem Projekt Hand in Hand."
+  ],
+  "ex_zh": "各部门在这个项目中密切配合。",
+  "use": {
+   "col": [
+    [
+     "Hand in Hand gehen",
+     "相辅相成"
+    ],
+    [
+     "Hand in Hand arbeiten",
+     "通力合作"
+    ]
+   ],
+   "tip": "口语和书面都常用"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "unter Zeitdruck stehen",
+  "pos": "phr",
+  "zh": "时间紧迫",
+  "ex": [
+   "Wir stehen unter großem Zeitdruck, weil der Kunde schon morgen liefern will."
+  ],
+  "ex_zh": "我们时间非常紧，因为客户明天就要货。",
+  "use": {
+   "col": [
+    [
+     "unter Zeitdruck arbeiten",
+     "在时间压力下工作"
+    ],
+    [
+     "unter Druck stehen",
+     "处于压力下"
+    ]
+   ],
+   "tip": "名词 der Zeitdruck；同义 in Zeitnot sein"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "im Rückstand sein",
+  "pos": "phr",
+  "zh": "落后；拖欠",
+  "ex": [
+   "Wir sind mit der Dokumentation leider im Rückstand."
+  ],
+  "ex_zh": "我们在文档方面很遗憾落后了。",
+  "gov": "im Rückstand sein mit + Dat.",
+  "use": {
+   "col": [
+    [
+     "im Rückstand sein",
+     "落后"
+    ],
+    [
+     "mit der Zahlung im Rückstand sein",
+     "拖欠付款"
+    ]
+   ],
+   "tip": "名词 der Rückstand；反义 im Zeitplan sein"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Belegschaft",
+  "art": "die",
+  "pl_full": "die Belegschaften",
+  "pos": "n",
+  "zh": "全体员工；职工",
+  "ex": [
+   "Die gesamte Belegschaft wurde über die Umstrukturierung informiert."
+  ],
+  "ex_zh": "全体员工都被告知了重组的事。",
+  "use": {
+   "col": [
+    [
+     "die Belegschaft informieren",
+     "通知全体员工"
+    ],
+    [
+     "die Belegschaft abbauen",
+     "裁员"
+    ]
+   ],
+   "tip": "集合名词，指一家公司的所有员工；比 Mitarbeiter 更整体"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Führungskraft",
+  "art": "die",
+  "pl_full": "die Führungskräfte",
+  "pos": "n",
+  "zh": "管理人员；领导者",
+  "ex": [
+   "Als Führungskraft trägt sie die Verantwortung für zwanzig Mitarbeiter."
+  ],
+  "ex_zh": "作为管理人员，她要为二十名员工负责。",
+  "use": {
+   "col": [
+    [
+     "eine Führungskraft einstellen",
+     "聘用一名管理人员"
+    ],
+    [
+     "die obere Führungskraft",
+     "高层管理者"
+    ]
+   ],
+   "tip": "阴性名词，男女都用；同族词 führen、Führung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Geschäftsführer",
+  "art": "der",
+  "pl_full": "die Geschäftsführer",
+  "pos": "n",
+  "zh": "总经理；执行董事",
+  "ex": [
+   "Der Geschäftsführer hat die neue Strategie vorgestellt."
+  ],
+  "ex_zh": "总经理介绍了新的战略。",
+  "use": {
+   "col": [
+    [
+     "zum Geschäftsführer ernannt werden",
+     "被任命为总经理"
+    ],
+    [
+     "der geschäftsführende Gesellschafter",
+     "执行董事股东"
+    ]
+   ],
+   "tip": "GmbH 的负责人；女性是 die Geschäftsführerin"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Vorstand",
+  "art": "der",
+  "pl_full": "die Vorstände",
+  "pos": "n",
+  "zh": "董事会；理事会",
+  "ex": [
+   "Der Vorstand hat gestern über die Fusion entschieden."
+  ],
+  "ex_zh": "董事会昨天就合并作出了决定。",
+  "use": {
+   "col": [
+    [
+     "im Vorstand sitzen",
+     "在董事会任职"
+    ],
+    [
+     "der Vorstand tagt",
+     "董事会开会"
+    ]
+   ],
+   "tip": "AG 的管理层；监督它的是 der Aufsichtsrat；也指协会的理事会"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Aufsichtsrat",
+  "art": "der",
+  "pl_full": "die Aufsichtsräte",
+  "pos": "n",
+  "zh": "监事会",
+  "ex": [
+   "Der Aufsichtsrat überwacht die Arbeit des Vorstands."
+  ],
+  "ex_zh": "监事会监督董事会的工作。",
+  "use": {
+   "col": [
+    [
+     "im Aufsichtsrat sitzen",
+     "是监事会成员"
+    ],
+    [
+     "den Aufsichtsrat einberufen",
+     "召集监事会"
+    ]
+   ],
+   "tip": "和 Vorstand 分开，前者监督、后者经营"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Konzern",
+  "art": "der",
+  "pl_full": "die Konzerne",
+  "pos": "n",
+  "zh": "集团；康采恩",
+  "ex": [
+   "Der Konzern beschäftigt weltweit über 100 000 Menschen."
+  ],
+  "ex_zh": "这个集团在全球雇用十万多人。",
+  "use": {
+   "col": [
+    [
+     "ein internationaler Konzern",
+     "跨国集团"
+    ],
+    [
+     "zu einem Konzern gehören",
+     "隶属于某集团"
+    ]
+   ],
+   "tip": "比 Firma、Unternehmen 大，由多家子公司组成"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Niederlassung",
+  "art": "die",
+  "pl_full": "die Niederlassungen",
+  "pos": "n",
+  "zh": "分公司；分支机构",
+  "ex": [
+   "Unsere Niederlassung in München sucht dringend neue Entwickler."
+  ],
+  "ex_zh": "我们慕尼黑的分公司急需新的开发人员。",
+  "use": {
+   "col": [
+    [
+     "eine Niederlassung eröffnen",
+     "开设分公司"
+    ],
+    [
+     "die Niederlassung leiten",
+     "主管分公司"
+    ]
+   ],
+   "tip": "同义词 Zweigstelle、Filiale（多指零售）；总部是 die Zentrale"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zentrale",
+  "art": "die",
+  "pl_full": "die Zentralen",
+  "pos": "n",
+  "zh": "总部；总机",
+  "ex": [
+   "Die Zentrale des Unternehmens befindet sich in Frankfurt."
+  ],
+  "ex_zh": "公司总部在法兰克福。",
+  "use": {
+   "col": [
+    [
+     "in der Zentrale anrufen",
+     "打电话到总部/总机"
+    ],
+    [
+     "die Zentrale verlegen",
+     "迁移总部"
+    ]
+   ],
+   "tip": "也可以指电话总机；形容词 zentral"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zweigstelle",
+  "art": "die",
+  "pl_full": "die Zweigstellen",
+  "pos": "n",
+  "zh": "分部；分支机构",
+  "ex": [
+   "Die Bank schließt mehrere Zweigstellen auf dem Land."
+  ],
+  "ex_zh": "这家银行要关闭乡下的几个分支机构。",
+  "use": {
+   "col": [
+    [
+     "eine Zweigstelle schließen",
+     "关闭分支机构"
+    ],
+    [
+     "die Zweigstelle der Behörde",
+     "机关的分支办事处"
+    ]
+   ],
+   "tip": "银行、机关常用；公司用 Niederlassung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Tagesordnung",
+  "art": "die",
+  "pl_full": "die Tagesordnungen",
+  "pos": "n",
+  "zh": "议程",
+  "ex": [
+   "Wir haben das Thema auf die Tagesordnung gesetzt."
+  ],
+  "ex_zh": "我们把这个议题列入了议程。",
+  "use": {
+   "col": [
+    [
+     "auf der Tagesordnung stehen",
+     "列在议程上"
+    ],
+    [
+     "die Tagesordnung abarbeiten",
+     "逐项完成议程"
+    ]
+   ],
+   "tip": "缩写 TOP（Tagesordnungspunkt）；“日常事务”是 Tagesgeschäft"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Protokoll",
+  "art": "das",
+  "pl_full": "die Protokolle",
+  "pos": "n",
+  "zh": "会议记录；协议；议定书",
+  "ex": [
+   "Wer schreibt heute das Protokoll der Sitzung?"
+  ],
+  "ex_zh": "今天谁来写会议记录？",
+  "use": {
+   "col": [
+    [
+     "das Protokoll führen",
+     "做记录"
+    ],
+    [
+     "etwas zu Protokoll geben",
+     "作为记录陈述"
+    ]
+   ],
+   "tip": "也指 IT 里的“协议”（Netzwerkprotokoll）；警察笔录也用 Protokoll"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Sitzung",
+  "art": "die",
+  "pl_full": "die Sitzungen",
+  "pos": "n",
+  "zh": "会议；会期",
+  "ex": [
+   "Die Sitzung wurde auf nächste Woche verschoben."
+  ],
+  "ex_zh": "会议被推迟到下周。",
+  "use": {
+   "col": [
+    [
+     "eine Sitzung einberufen",
+     "召集会议"
+    ],
+    [
+     "an einer Sitzung teilnehmen",
+     "出席会议"
+    ]
+   ],
+   "tip": "比 Besprechung 更正式（董事会、委员会）；动词 tagen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zeitplan",
+  "art": "der",
+  "pl_full": "die Zeitpläne",
+  "pos": "n",
+  "zh": "时间表；进度计划",
+  "ex": [
+   "Wenn nichts Unerwartetes passiert, liegen wir mit dem Projekt noch gut im Zeitplan."
+  ],
+  "ex_zh": "只要没有意外，我们的项目进度还算顺利。",
+  "use": {
+   "col": [
+    [
+     "den Zeitplan einhalten",
+     "遵守进度"
+    ],
+    [
+     "im Zeitplan hinterherhinken",
+     "落后于进度"
+    ]
+   ],
+   "tip": "项目管理常用；im Zeitplan 是固定说法"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Meilenstein",
+  "art": "der",
+  "pl_full": "die Meilensteine",
+  "pos": "n",
+  "zh": "里程碑",
+  "ex": [
+   "Mit dem ersten Prototyp haben wir einen wichtigen Meilenstein erreicht."
+  ],
+  "ex_zh": "有了第一个原型，我们达到了一个重要的里程碑。",
+  "use": {
+   "col": [
+    [
+     "einen Meilenstein erreichen",
+     "达成里程碑"
+    ],
+    [
+     "ein Meilenstein in der Geschichte",
+     "历史上的里程碑"
+    ]
+   ],
+   "tip": "项目管理常用，也可指重大突破"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Budget",
+  "art": "das",
+  "pl_full": "die Budgets",
+  "pos": "n",
+  "zh": "预算",
+  "ex": [
+   "Das Budget für das Projekt wurde um zehn Prozent gekürzt."
+  ],
+  "ex_zh": "这个项目的预算被削减了百分之十。",
+  "use": {
+   "col": [
+    [
+     "das Budget überschreiten",
+     "超出预算"
+    ],
+    [
+     "im Budget bleiben",
+     "不超预算"
+    ]
+   ],
+   "tip": "读 [bʏˈdʒeː]；同义词 Etat；预算计划是 die Budgetplanung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kostenvoranschlag",
+  "art": "der",
+  "pl_full": "die Kostenvoranschläge",
+  "pos": "n",
+  "zh": "费用估算；报价单",
+  "ex": [
+   "Bitte erstellen Sie uns einen Kostenvoranschlag für die Renovierung."
+  ],
+  "ex_zh": "请给我们做一份装修的费用估算。",
+  "use": {
+   "col": [
+    [
+     "einen Kostenvoranschlag einholen",
+     "索取估价单"
+    ],
+    [
+     "ein unverbindlicher Kostenvoranschlag",
+     "不具约束力的估价"
+    ]
+   ],
+   "tip": "和 Angebot 不同，Kostenvoranschlag 通常只是估价"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Lieferant",
+  "art": "der",
+  "pl_full": "die Lieferanten",
+  "pos": "n",
+  "zh": "供货商",
+  "ex": [
+   "Wir haben den Lieferanten gewechselt, weil er ständig zu spät lieferte."
+  ],
+  "ex_zh": "我们换了供货商，因为他总是迟交货。",
+  "use": {
+   "col": [
+    [
+     "einen Lieferanten auswählen",
+     "选择供货商"
+    ],
+    [
+     "Lieferanten beliefern uns",
+     "供货商给我们供货"
+    ]
+   ],
+   "tip": "女性 die Lieferantin；动词 liefern、名词 die Lieferung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kundschaft",
+  "art": "die",
+  "pos": "n",
+  "zh": "客户群；顾客",
+  "ex": [
+   "Unsere Kundschaft schätzt vor allem den schnellen Service."
+  ],
+  "ex_zh": "我们的客户最看重快速的服务。",
+  "use": {
+   "col": [
+    [
+     "die Kundschaft bedienen",
+     "接待顾客"
+    ],
+    [
+     "die treue Kundschaft",
+     "老顾客"
+    ]
+   ],
+   "tip": "集合名词，单数；单个客户是 Kunde"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Auftraggeber",
+  "art": "der",
+  "pl_full": "die Auftraggeber",
+  "pos": "n",
+  "zh": "委托方；甲方",
+  "ex": [
+   "Der Auftraggeber hat die Anforderungen noch einmal geändert."
+  ],
+  "ex_zh": "委托方又一次修改了需求。",
+  "use": {
+   "col": [
+    [
+     "mit dem Auftraggeber sprechen",
+     "和委托方沟通"
+    ],
+    [
+     "der öffentliche Auftraggeber",
+     "公共部门委托方"
+    ]
+   ],
+   "tip": "接受任务的人是 der Auftragnehmer；女性 die Auftraggeberin"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Vereinbarung",
+  "art": "die",
+  "pl_full": "die Vereinbarungen",
+  "pos": "n",
+  "zh": "协议；约定",
+  "ex": [
+   "Laut unserer Vereinbarung beginnt die Arbeit am 1. März."
+  ],
+  "ex_zh": "根据我们的协议，工作从三月一日开始。",
+  "use": {
+   "col": [
+    [
+     "eine Vereinbarung treffen",
+     "达成协议"
+    ],
+    [
+     "sich an die Vereinbarung halten",
+     "遵守协议"
+    ]
+   ],
+   "tip": "动词 vereinbaren；口头也可，比 Vertrag 不那么正式"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zugeständnis",
+  "art": "das",
+  "pl_full": "die Zugeständnisse",
+  "pos": "n",
+  "zh": "让步",
+  "ex": [
+   "Um den Streik zu beenden, musste die Firma der Gewerkschaft einige Zugeständnisse machen."
+  ],
+  "ex_zh": "为了结束罢工，公司不得不对工会做出一些让步。",
+  "use": {
+   "col": [
+    [
+     "Zugeständnisse machen",
+     "做出让步"
+    ],
+    [
+     "ein Zugeständnis an die Gewerkschaft",
+     "对工会的让步"
+    ]
+   ],
+   "tip": "常用复数；动词 zugestehen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Aufstieg",
+  "art": "der",
+  "pl_full": "die Aufstiege",
+  "pos": "n",
+  "zh": "晋升；上升",
+  "ex": [
+   "Gute Aufstiegschancen waren mir bei der Jobsuche wichtig."
+  ],
+  "ex_zh": "找工作时，良好的晋升机会对我很重要。",
+  "use": {
+   "col": [
+    [
+     "der berufliche Aufstieg",
+     "职业晋升"
+    ],
+    [
+     "der Aufstieg zur Führungskraft",
+     "升为管理人员"
+    ]
+   ],
+   "tip": "反义词 Abstieg；常说 Aufstiegschancen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Schulung",
+  "art": "die",
+  "pl_full": "die Schulungen",
+  "pos": "n",
+  "zh": "培训；讲习",
+  "ex": [
+   "Alle neuen Mitarbeiter müssen an der Schulung zur Datensicherheit teilnehmen."
+  ],
+  "ex_zh": "所有新员工都必须参加数据安全培训。",
+  "use": {
+   "col": [
+    [
+     "eine Schulung durchführen",
+     "举办培训"
+    ],
+    [
+     "eine interne Schulung",
+     "内部培训"
+    ]
+   ],
+   "tip": "动词 schulen；常用于 IT 工具和安全规章"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Einarbeitung",
+  "art": "die",
+  "pl_full": "die Einarbeitungen",
+  "pos": "n",
+  "zh": "熟悉工作；上岗培训",
+  "ex": [
+   "Die Einarbeitung dauert in der Regel vier Wochen."
+  ],
+  "ex_zh": "熟悉工作一般要四周。",
+  "use": {
+   "col": [
+    [
+     "die Einarbeitung neuer Kollegen",
+     "新同事的上岗指导"
+    ],
+    [
+     "Einarbeitungszeit",
+     "适应期"
+    ]
+   ],
+   "tip": "动词 sich einarbeiten；常和 Probezeit 一起出现"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Bewerber",
+  "art": "der",
+  "pl_full": "die Bewerber",
+  "pos": "n",
+  "zh": "应聘者；申请人",
+  "ex": [
+   "Es gab über hundert Bewerber auf die ausgeschriebene Stelle."
+  ],
+  "ex_zh": "这个公开招聘的岗位有一百多名应聘者。",
+  "use": {
+   "col": [
+    [
+     "einen Bewerber einladen",
+     "邀请应聘者"
+    ],
+    [
+     "der passende Bewerber",
+     "合适的应聘者"
+    ]
+   ],
+   "tip": "女性 die Bewerberin；动词 sich bewerben"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Einstellung",
+  "art": "die",
+  "pl_full": "die Einstellungen",
+  "pos": "n",
+  "zh": "录用；态度；设置",
+  "ex": [
+   "Die Einstellung neuer Mitarbeiter ist vorerst gestoppt."
+  ],
+  "ex_zh": "新员工的录用暂时被叫停了。",
+  "use": {
+   "senses": [
+    "录用；聘用",
+    "态度；看法",
+    "设置；调整"
+   ],
+   "col": [
+    [
+     "die Einstellung zur Arbeit",
+     "对工作的态度"
+    ],
+    [
+     "die Einstellungen ändern",
+     "更改设置"
+    ]
+   ],
+   "tip": "动词 einstellen；注意三个义项，复数 Einstellungen 常指软件设置"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Abfindung",
+  "art": "die",
+  "pl_full": "die Abfindungen",
+  "pos": "n",
+  "zh": "离职补偿金",
+  "ex": [
+   "Bei der Kündigung bekam er eine Abfindung von sechs Monatsgehältern."
+  ],
+  "ex_zh": "解雇时他拿到了六个月工资的补偿金。",
+  "use": {
+   "col": [
+    [
+     "eine Abfindung zahlen",
+     "支付补偿金"
+    ],
+    [
+     "Anspruch auf eine Abfindung haben",
+     "有权获得补偿金"
+    ]
+   ],
+   "tip": "裁员或双方解约时常见；动词 abfinden"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Arbeitslosengeld",
+  "art": "das",
+  "pos": "n",
+  "zh": "失业金",
+  "ex": [
+   "Wer seine Stelle verliert, kann Arbeitslosengeld beantragen."
+  ],
+  "ex_zh": "失去工作的人可以申请失业金。",
+  "use": {
+   "col": [
+    [
+     "Arbeitslosengeld beziehen",
+     "领取失业金"
+    ],
+    [
+     "Arbeitslosengeld beantragen",
+     "申请失业金"
+    ]
+   ],
+   "tip": "向 Agentur für Arbeit 申请；Bürgergeld 是另一种福利"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Tarifvertrag",
+  "art": "der",
+  "pl_full": "die Tarifverträge",
+  "pos": "n",
+  "zh": "集体合同；工资协议",
+  "ex": [
+   "In diesem Betrieb gilt ein Tarifvertrag der Gewerkschaft IG Metall."
+  ],
+  "ex_zh": "这家企业适用金属工会的集体合同。",
+  "use": {
+   "col": [
+    [
+     "nach Tarifvertrag bezahlt werden",
+     "按集体合同发薪"
+    ],
+    [
+     "einen Tarifvertrag aushandeln",
+     "谈判集体合同"
+    ]
+   ],
+   "tip": "由工会与雇主协会签订；形容词 tariflich"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Mindestlohn",
+  "art": "der",
+  "pl_full": "die Mindestlöhne",
+  "pos": "n",
+  "zh": "最低工资",
+  "ex": [
+   "Viele Studierende in Nebenjobs verdienen nur knapp über dem gesetzlichen Mindestlohn."
+  ],
+  "ex_zh": "许多做兼职的学生收入只比法定最低工资高一点。",
+  "use": {
+   "col": [
+    [
+     "den Mindestlohn zahlen",
+     "支付最低工资"
+    ],
+    [
+     "unter dem Mindestlohn liegen",
+     "低于最低工资"
+    ]
+   ],
+   "tip": "按小时计算；由最低工资委员会定期调整"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gehaltserhöhung",
+  "art": "die",
+  "pl_full": "die Gehaltserhöhungen",
+  "pos": "n",
+  "zh": "加薪",
+  "ex": [
+   "Ich habe meinen Chef um eine Gehaltserhöhung gebeten."
+  ],
+  "ex_zh": "我请求老板给我加薪。",
+  "use": {
+   "col": [
+    [
+     "eine Gehaltserhöhung fordern",
+     "要求加薪"
+    ],
+    [
+     "eine Gehaltserhöhung bekommen",
+     "得到加薪"
+    ]
+   ],
+   "tip": "工资 Lohn 对应 Lohnerhöhung；动词 erhöhen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gehaltsverhandlung",
+  "art": "die",
+  "pl_full": "die Gehaltsverhandlungen",
+  "pos": "n",
+  "zh": "薪资谈判",
+  "ex": [
+   "Für die Gehaltsverhandlung solltest du dich gut vorbereiten."
+  ],
+  "ex_zh": "你应该为薪资谈判好好做准备。",
+  "use": {
+   "col": [
+    [
+     "eine Gehaltsverhandlung führen",
+     "进行薪资谈判"
+    ],
+    [
+     "in die Gehaltsverhandlung gehen",
+     "进入薪资谈判"
+    ]
+   ],
+   "tip": "整体薪资用 Gehalt，月薪；年薪用 Jahresgehalt"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Prämie",
+  "art": "die",
+  "pl_full": "die Prämien",
+  "pos": "n",
+  "zh": "奖金；保险费",
+  "ex": [
+   "Für das erfolgreiche Projekt erhielt das Team eine Prämie."
+  ],
+  "ex_zh": "因为项目成功，团队获得了一笔奖金。",
+  "use": {
+   "senses": [
+    "奖金",
+    "保险费"
+   ],
+   "col": [
+    [
+     "eine Prämie auszahlen",
+     "发放奖金"
+    ],
+    [
+     "die Versicherungsprämie",
+     "保险费"
+    ]
+   ],
+   "tip": "读 [ˈpreːmiə]；奖金与保险费两义靠语境区分"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zulage",
+  "art": "die",
+  "pl_full": "die Zulagen",
+  "pos": "n",
+  "zh": "补贴；津贴",
+  "ex": [
+   "Für Arbeit an Sonn- und Feiertagen bekommen die Angestellten eine zusätzliche Zulage."
+  ],
+  "ex_zh": "在周日和节假日工作的员工会得到额外的津贴。",
+  "use": {
+   "col": [
+    [
+     "eine Zulage erhalten",
+     "获得津贴"
+    ],
+    [
+     "die Schichtzulage",
+     "轮班津贴"
+    ]
+   ],
+   "tip": "附加在基本工资之上的钱；动词 zulegen 意思不同"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Urlaubsanspruch",
+  "art": "der",
+  "pl_full": "die Urlaubsansprüche",
+  "pos": "n",
+  "zh": "休假权利；年假天数",
+  "ex": [
+   "Mein Urlaubsanspruch beträgt 30 Tage pro Jahr."
+  ],
+  "ex_zh": "我每年有三十天的年假。",
+  "use": {
+   "col": [
+    [
+     "den Urlaubsanspruch geltend machen",
+     "主张休假权利"
+    ],
+    [
+     "der gesetzliche Urlaubsanspruch",
+     "法定年假"
+    ]
+   ],
+   "tip": "法定最低 20 天（5 天工作周），多数合同更多"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Krankmeldung",
+  "art": "die",
+  "pl_full": "die Krankmeldungen",
+  "pos": "n",
+  "zh": "病假通知",
+  "ex": [
+   "Die Krankmeldung muss spätestens am dritten Tag beim Arbeitgeber sein."
+  ],
+  "ex_zh": "病假证明最迟第三天必须交到雇主手里。",
+  "use": {
+   "col": [
+    [
+     "eine Krankmeldung abgeben",
+     "提交病假通知"
+    ],
+    [
+     "sich krankmelden",
+     "请病假"
+    ]
+   ],
+   "tip": "口头告知是 sich krankmelden，书面证明是 Krankschreibung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zuständigkeit",
+  "art": "die",
+  "pl_full": "die Zuständigkeiten",
+  "pos": "n",
+  "zh": "职责范围；管辖权",
+  "ex": [
+   "Diese Frage fällt nicht in meine Zuständigkeit."
+  ],
+  "ex_zh": "这个问题不属于我的职责范围。",
+  "use": {
+   "col": [
+    [
+     "in die Zuständigkeit fallen",
+     "属于职责范围"
+    ],
+    [
+     "die Zuständigkeiten klären",
+     "明确分工"
+    ]
+   ],
+   "tip": "形容词 zuständig；复数常表示“分工”"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Verantwortungsbereich",
+  "art": "der",
+  "pl_full": "die Verantwortungsbereiche",
+  "pos": "n",
+  "zh": "职责范围",
+  "ex": [
+   "Die Qualitätssicherung der gesamten Software liegt in seinem Verantwortungsbereich."
+  ],
+  "ex_zh": "整个软件的质量保证都属于他的职责范围。",
+  "use": {
+   "col": [
+    [
+     "im Verantwortungsbereich liegen",
+     "属于职责范围"
+    ],
+    [
+     "den Verantwortungsbereich erweitern",
+     "扩大职责范围"
+    ]
+   ],
+   "tip": "Bereich + Verantwortung 的复合词；同义 Zuständigkeitsbereich"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Arbeitsablauf",
+  "art": "der",
+  "pl_full": "die Arbeitsabläufe",
+  "pos": "n",
+  "zh": "工作流程",
+  "ex": [
+   "Wir wollen die Arbeitsabläufe im Büro effizienter gestalten."
+  ],
+  "ex_zh": "我们想让办公室的工作流程更高效。",
+  "use": {
+   "col": [
+    [
+     "die Arbeitsabläufe optimieren",
+     "优化工作流程"
+    ],
+    [
+     "einen Arbeitsablauf stören",
+     "打乱工作流程"
+    ]
+   ],
+   "tip": "英语 workflow 的德语对应；动词 ablaufen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Arbeitsbelastung",
+  "art": "die",
+  "pl_full": "die Arbeitsbelastungen",
+  "pos": "n",
+  "zh": "工作负担",
+  "ex": [
+   "Die hohe Arbeitsbelastung führt bei vielen zu Stress."
+  ],
+  "ex_zh": "繁重的工作负担使许多人感到压力。",
+  "use": {
+   "col": [
+    [
+     "die Arbeitsbelastung reduzieren",
+     "减轻工作负担"
+    ],
+    [
+     "unter hoher Arbeitsbelastung stehen",
+     "工作负担很重"
+    ]
+   ],
+   "tip": "同族词 belasten、Belastung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Betriebsklima",
+  "art": "das",
+  "pos": "n",
+  "zh": "工作氛围；企业气氛",
+  "ex": [
+   "Ein gutes Betriebsklima ist mir wichtiger als ein hohes Gehalt."
+  ],
+  "ex_zh": "良好的工作氛围对我来说比高薪更重要。",
+  "use": {
+   "col": [
+    [
+     "ein angenehmes Betriebsklima",
+     "愉快的工作氛围"
+    ],
+    [
+     "das Betriebsklima verbessern",
+     "改善工作氛围"
+    ]
+   ],
+   "tip": "也说 Arbeitsklima、Arbeitsatmosphäre；没有复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zielvorgabe",
+  "art": "die",
+  "pl_full": "die Zielvorgaben",
+  "pos": "n",
+  "zh": "目标指标；既定目标",
+  "ex": [
+   "Die Zielvorgaben für das nächste Quartal sind sehr ehrgeizig."
+  ],
+  "ex_zh": "下个季度的目标指标非常有野心。",
+  "use": {
+   "col": [
+    [
+     "Zielvorgaben erfüllen",
+     "完成目标指标"
+    ],
+    [
+     "Zielvorgaben festlegen",
+     "设定目标"
+    ]
+   ],
+   "tip": "同族词 Ziel、vorgeben；管理语境常见"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Leistungsdruck",
+  "art": "der",
+  "pos": "n",
+  "zh": "业绩压力；成绩压力",
+  "ex": [
+   "Der ständige Leistungsdruck macht viele Beschäftigte krank."
+  ],
+  "ex_zh": "持续的业绩压力使许多员工生病。",
+  "use": {
+   "col": [
+    [
+     "unter Leistungsdruck stehen",
+     "承受业绩压力"
+    ],
+    [
+     "dem Leistungsdruck standhalten",
+     "承受得住业绩压力"
+    ]
+   ],
+   "tip": "没有复数；Leistung + Druck"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Marktanteil",
+  "art": "der",
+  "pl_full": "die Marktanteile",
+  "pos": "n",
+  "zh": "市场份额",
+  "ex": [
+   "Das Unternehmen konnte seinen Marktanteil deutlich steigern."
+  ],
+  "ex_zh": "这家公司显著提高了自己的市场份额。",
+  "use": {
+   "col": [
+    [
+     "Marktanteile gewinnen",
+     "赢得市场份额"
+    ],
+    [
+     "einen Marktanteil von 20 Prozent haben",
+     "占有 20% 的市场份额"
+    ]
+   ],
+   "tip": "Markt + Anteil；常用复数 Marktanteile"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Umsatz",
+  "art": "der",
+  "pl_full": "die Umsätze",
+  "pos": "n",
+  "zh": "营业额；销售额",
+  "ex": [
+   "Der Umsatz ist im letzten Jahr um fünf Prozent gestiegen."
+  ],
+  "ex_zh": "去年的营业额增长了百分之五。",
+  "use": {
+   "col": [
+    [
+     "den Umsatz steigern",
+     "提高销售额"
+    ],
+    [
+     "einen Umsatz von zwei Millionen erzielen",
+     "实现两百万的营业额"
+    ]
+   ],
+   "tip": "不是利润！利润是 Gewinn；Umsatz 是总销售额"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Bilanz",
+  "art": "die",
+  "pl_full": "die Bilanzen",
+  "pos": "n",
+  "zh": "资产负债表；总结",
+  "ex": [
+   "Die Bilanz des Unternehmens fällt für das vergangene Jahr positiv aus."
+  ],
+  "ex_zh": "这家公司去年的账目结果是正面的。",
+  "use": {
+   "col": [
+    [
+     "die Bilanz ziehen",
+     "作总结"
+    ],
+    [
+     "eine positive Bilanz",
+     "良好的总结/结果"
+    ]
+   ],
+   "tip": "Bilanz ziehen 也可用于生活中的“盘点总结”"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Existenzgründung",
+  "art": "die",
+  "pl_full": "die Existenzgründungen",
+  "pos": "n",
+  "zh": "创业；开业",
+  "ex": [
+   "Für die Existenzgründung kann man staatliche Förderung bekommen."
+  ],
+  "ex_zh": "创业可以得到国家的扶持。",
+  "use": {
+   "col": [
+    [
+     "eine Existenzgründung planen",
+     "筹划创业"
+    ],
+    [
+     "Zuschüsse für Existenzgründer",
+     "创业者补贴"
+    ]
+   ],
+   "tip": "创业者是 der Existenzgründer；也说 Gründung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Selbstständigkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "自雇；个体经营",
+  "ex": [
+   "Nach drei Jahren im Betrieb wagte sie den Schritt in die Selbstständigkeit."
+  ],
+  "ex_zh": "在公司干了三年后，她迈出了自己创业的一步。",
+  "use": {
+   "col": [
+    [
+     "sich in die Selbstständigkeit wagen",
+     "尝试自己创业"
+    ],
+    [
+     "in die Selbstständigkeit gehen",
+     "走上自雇之路"
+    ]
+   ],
+   "tip": "形容词 selbstständig；也可写 Selbständigkeit"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Freiberufler",
+  "art": "der",
+  "pl_full": "die Freiberufler",
+  "pos": "n",
+  "zh": "自由职业者",
+  "ex": [
+   "Als Freiberufler arbeitet er für mehrere Firmen gleichzeitig."
+  ],
+  "ex_zh": "作为自由职业者，他同时为几家公司工作。",
+  "use": {
+   "col": [
+    [
+     "als Freiberufler tätig sein",
+     "以自由职业者身份工作"
+    ],
+    [
+     "der Freiberufler und Gewerbetreibende",
+     "自由职业者与个体工商户"
+    ]
+   ],
+   "tip": "女性 die Freiberuflerin；报税时跟 Gewerbe 有区别"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Branche",
+  "art": "die",
+  "pl_full": "die Branchen",
+  "pos": "n",
+  "zh": "行业",
+  "ex": [
+   "Er hat zehn Jahre Erfahrung in der Automobilbranche."
+  ],
+  "ex_zh": "他在汽车行业有十年的经验。",
+  "use": {
+   "col": [
+    [
+     "in der Branche tätig sein",
+     "在该行业工作"
+    ],
+    [
+     "die Branche wechseln",
+     "换行业"
+    ]
+   ],
+   "tip": "读 [ˈbrãːʃə]；复合词 Branchenkenntnis"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Dienstleistung",
+  "art": "die",
+  "pl_full": "die Dienstleistungen",
+  "pos": "n",
+  "zh": "服务；服务业务",
+  "ex": [
+   "Das Unternehmen bietet verschiedene Dienstleistungen rund um IT an."
+  ],
+  "ex_zh": "这家公司提供各种与 IT 相关的服务。",
+  "use": {
+   "col": [
+    [
+     "Dienstleistungen anbieten",
+     "提供服务"
+    ],
+    [
+     "der Dienstleistungssektor",
+     "服务业"
+    ]
+   ],
+   "tip": "对立：Produkt/Ware；工作用语 Dienstleister = 服务商"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fertigung",
+  "art": "die",
+  "pl_full": "die Fertigungen",
+  "pos": "n",
+  "zh": "生产；制造",
+  "ex": [
+   "Die Fertigung der Bauteile wurde ins Ausland verlagert."
+  ],
+  "ex_zh": "零部件的生产被转移到了国外。",
+  "use": {
+   "col": [
+    [
+     "in der Fertigung arbeiten",
+     "在生产部门工作"
+    ],
+    [
+     "die Fertigung automatisieren",
+     "使生产自动化"
+    ]
+   ],
+   "tip": "同义 Produktion；动词 fertigen；偏工业制造"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Vertrieb",
+  "art": "der",
+  "pos": "n",
+  "zh": "销售；销售部门",
+  "ex": [
+   "Er arbeitet im Vertrieb und betreut große Firmenkunden."
+  ],
+  "ex_zh": "他在销售部门工作，负责大客户。",
+  "use": {
+   "col": [
+    [
+     "im Vertrieb arbeiten",
+     "在销售部门工作"
+    ],
+    [
+     "den Vertrieb übernehmen",
+     "负责销售"
+    ]
+   ],
+   "tip": "动词 vertreiben；英语 sales 的对应；Verkauf 较零售"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Buchhaltung",
+  "art": "die",
+  "pos": "n",
+  "zh": "会计；财务部",
+  "ex": [
+   "Die Buchhaltung prüft alle Rechnungen vor der Zahlung."
+  ],
+  "ex_zh": "财务部在付款前审核所有发票。",
+  "use": {
+   "col": [
+    [
+     "in der Buchhaltung arbeiten",
+     "在财务部工作"
+    ],
+    [
+     "die Buchhaltung machen",
+     "做账"
+    ]
+   ],
+   "tip": "做账的人 der Buchhalter；动词 buchen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Personalabteilung",
+  "art": "die",
+  "pl_full": "die Personalabteilungen",
+  "pos": "n",
+  "zh": "人事部",
+  "ex": [
+   "Bitte reichen Sie Ihre Unterlagen bei der Personalabteilung ein."
+  ],
+  "ex_zh": "请把您的材料交给人事部。",
+  "use": {
+   "col": [
+    [
+     "die Personalabteilung kontaktieren",
+     "联系人事部"
+    ],
+    [
+     "in der Personalabteilung arbeiten",
+     "在人事部工作"
+    ]
+   ],
+   "tip": "简称 HR；Personal 指“员工”（集合）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Geschäftsreise",
+  "art": "die",
+  "pl_full": "die Geschäftsreisen",
+  "pos": "n",
+  "zh": "出差",
+  "ex": [
+   "Wegen der vielen Geschäftsreisen bin ich selten zu Hause."
+  ],
+  "ex_zh": "由于经常出差，我很少在家。",
+  "use": {
+   "col": [
+    [
+     "auf Geschäftsreise sein",
+     "在出差中"
+    ],
+    [
+     "eine Geschäftsreise buchen",
+     "订出差行程"
+    ]
+   ],
+   "tip": "同义 Dienstreise（尤指公务员或公司内部）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Spesen (Pl.)",
+  "art": "die",
+  "pos": "n",
+  "zh": "差旅费；业务开支",
+  "ex": [
+   "Die Spesen werden dir von der Firma erstattet."
+  ],
+  "ex_zh": "这些开支公司会给你报销。",
+  "use": {
+   "col": [
+    [
+     "Spesen abrechnen",
+     "报销费用"
+    ],
+    [
+     "Spesen erstatten",
+     "报销差旅费"
+    ]
+   ],
+   "tip": "几乎只用复数 (Pl.)；单数 Spese 几乎不用"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Dienstwagen",
+  "art": "der",
+  "pl_full": "die Dienstwagen",
+  "pos": "n",
+  "zh": "公务用车；公司配车",
+  "ex": [
+   "Zu meinem Vertrag gehört ein Dienstwagen, den ich auch privat nutzen darf."
+  ],
+  "ex_zh": "我的合同里包含一辆公司配车，我也可以私用。",
+  "use": {
+   "col": [
+    [
+     "einen Dienstwagen fahren",
+     "开公司配车"
+    ],
+    [
+     "der Dienstwagen als Gehaltsbestandteil",
+     "作为薪酬一部分的公司车"
+    ]
+   ],
+   "tip": "私用要交税（1%-Regelung）；同义词 Firmenwagen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Aufgabenbereich",
+  "art": "der",
+  "pl_full": "die Aufgabenbereiche",
+  "pos": "n",
+  "zh": "职责范围；工作范围",
+  "ex": [
+   "Mein Aufgabenbereich umfasst die Planung und Durchführung von Schulungen."
+  ],
+  "ex_zh": "我的职责范围包括培训的规划和实施。",
+  "use": {
+   "col": [
+    [
+     "den Aufgabenbereich erweitern",
+     "扩大职责范围"
+    ],
+    [
+     "zum Aufgabenbereich gehören",
+     "属于职责范围"
+    ]
+   ],
+   "tip": "招聘广告常见；同义 Tätigkeitsbereich"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Stellenbeschreibung",
+  "art": "die",
+  "pl_full": "die Stellenbeschreibungen",
+  "pos": "n",
+  "zh": "岗位说明",
+  "ex": [
+   "In der Stellenbeschreibung steht, welche Aufgaben ich übernehmen soll."
+  ],
+  "ex_zh": "岗位说明里写着我应该承担哪些任务。",
+  "use": {
+   "col": [
+    [
+     "eine Stellenbeschreibung verfassen",
+     "撰写岗位说明"
+    ],
+    [
+     "der Stellenbeschreibung entsprechen",
+     "符合岗位说明"
+    ]
+   ],
+   "tip": "和 Stellenanzeige 不同：Beschreibung 是内部文件"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Projektleiter",
+  "art": "der",
+  "pl_full": "die Projektleiter",
+  "pos": "n",
+  "zh": "项目负责人",
+  "ex": [
+   "Der Projektleiter koordiniert die Zusammenarbeit zwischen den Abteilungen."
+  ],
+  "ex_zh": "项目负责人协调各部门之间的合作。",
+  "use": {
+   "col": [
+    [
+     "zum Projektleiter ernannt werden",
+     "被任命为项目负责人"
+    ],
+    [
+     "der Projektleiter und sein Team",
+     "项目负责人及其团队"
+    ]
+   ],
+   "tip": "女性 die Projektleiterin；也有 Projektmanager"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Abschlussbericht",
+  "art": "der",
+  "pl_full": "die Abschlussberichte",
+  "pos": "n",
+  "zh": "结题报告；总结报告",
+  "ex": [
+   "Bis Freitag muss der Abschlussbericht beim Auftraggeber sein."
+  ],
+  "ex_zh": "最迟周五结题报告必须交到委托方手里。",
+  "use": {
+   "col": [
+    [
+     "den Abschlussbericht verfassen",
+     "撰写结题报告"
+    ],
+    [
+     "den Abschlussbericht abgeben",
+     "提交结题报告"
+    ]
+   ],
+   "tip": "项目结束时的文件；中期报告是 Zwischenbericht"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Auslastung",
+  "art": "die",
+  "pos": "n",
+  "zh": "利用率；满负荷程度",
+  "ex": [
+   "Die Auslastung unserer Server liegt bei neunzig Prozent."
+  ],
+  "ex_zh": "我们服务器的负载率为百分之九十。",
+  "use": {
+   "col": [
+    [
+     "die Auslastung erhöhen",
+     "提高利用率"
+    ],
+    [
+     "volle Auslastung",
+     "满负荷"
+    ]
+   ],
+   "tip": "动词 auslasten；产能、设备、人员都能用"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Engpass",
+  "art": "der",
+  "pl_full": "die Engpässe",
+  "pos": "n",
+  "zh": "瓶颈；紧缺",
+  "ex": [
+   "Wegen des Engpasses bei den Chips verzögert sich die Produktion."
+  ],
+  "ex_zh": "由于芯片紧缺，生产被拖延了。",
+  "use": {
+   "col": [
+    [
+     "einen Engpass überwinden",
+     "度过紧缺"
+    ],
+    [
+     "ein personeller Engpass",
+     "人员紧缺"
+    ]
+   ],
+   "tip": "原义“窄路”；常说 Lieferengpass、Personalengpass"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Anfrage",
+  "art": "die",
+  "pl_full": "die Anfragen",
+  "pos": "n",
+  "zh": "询问；询价",
+  "ex": [
+   "Wir haben Ihre Anfrage erhalten und melden uns bald."
+  ],
+  "ex_zh": "我们已收到您的咨询，很快回复您。",
+  "use": {
+   "col": [
+    [
+     "eine Anfrage stellen",
+     "提出询问"
+    ],
+    [
+     "auf Anfrage",
+     "根据要求"
+    ]
+   ],
+   "tip": "动词 anfragen；商业信函中的询价"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Terminvereinbarung",
+  "art": "die",
+  "pl_full": "die Terminvereinbarungen",
+  "pos": "n",
+  "zh": "预约；约定时间",
+  "ex": [
+   "Bitte nehmen Sie nur nach Terminvereinbarung Kontakt mit uns auf."
+  ],
+  "ex_zh": "请仅在预约后与我们联系。",
+  "use": {
+   "col": [
+    [
+     "nach Terminvereinbarung",
+     "需预约"
+    ],
+    [
+     "eine Terminvereinbarung treffen",
+     "约定时间"
+    ]
+   ],
+   "tip": "“nach Vereinbarung” 常见于告示；动词 vereinbaren"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Befugnis",
+  "art": "die",
+  "pl_full": "die Befugnisse",
+  "pos": "n",
+  "zh": "权限；职权",
+  "ex": [
+   "Er hat die Befugnis, Verträge im Namen der Firma zu unterschreiben."
+  ],
+  "ex_zh": "他有权以公司名义签署合同。",
+  "use": {
+   "col": [
+    [
+     "die Befugnis erteilen",
+     "授予权限"
+    ],
+    [
+     "seine Befugnisse überschreiten",
+     "越权"
+    ]
+   ],
+   "tip": "形容词 befugt；复数常见；非“许可证”"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Vollmacht",
+  "art": "die",
+  "pl_full": "die Vollmachten",
+  "pos": "n",
+  "zh": "授权书；代理权",
+  "ex": [
+   "Ohne Vollmacht darf er den Vertrag nicht unterschreiben."
+  ],
+  "ex_zh": "没有授权，他不能签这份合同。",
+  "use": {
+   "col": [
+    [
+     "eine Vollmacht erteilen",
+     "出具授权"
+    ],
+    [
+     "mit Vollmacht handeln",
+     "凭授权行事"
+    ]
+   ],
+   "tip": "书面授权文件也叫 Vollmacht；办事处也用"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Berufseinsteiger",
+  "art": "der",
+  "pl_full": "die Berufseinsteiger",
+  "pos": "n",
+  "zh": "职场新人；刚入行的人",
+  "ex": [
+   "Als Berufseinsteiger bekommt man oft nur einen befristeten Vertrag."
+  ],
+  "ex_zh": "作为职场新人，常常只能拿到定期合同。",
+  "use": {
+   "col": [
+    [
+     "Berufseinsteiger gesucht",
+     "招聘应届/新人"
+    ],
+    [
+     "der Berufseinstieg",
+     "踏入职场"
+    ]
+   ],
+   "tip": "女性 die Berufseinsteigerin；同义 Berufsanfänger"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Quereinsteiger",
+  "art": "der",
+  "pl_full": "die Quereinsteiger",
+  "pos": "n",
+  "zh": "跨行进入者；转行者",
+  "ex": [
+   "Viele Quereinsteiger arbeiten heute erfolgreich in der IT-Branche."
+  ],
+  "ex_zh": "如今许多转行的人在 IT 行业里发展得不错。",
+  "use": {
+   "col": [
+    [
+     "als Quereinsteiger beginnen",
+     "作为转行者入职"
+    ],
+    [
+     "der Quereinstieg",
+     "转行"
+    ]
+   ],
+   "tip": "女性 die Quereinsteigerin；Quer = 横向"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fachkraft",
+  "art": "die",
+  "pl_full": "die Fachkräfte",
+  "pos": "n",
+  "zh": "专业人员；熟练工",
+  "ex": [
+   "Die Wirtschaft sucht dringend qualifizierte Fachkräfte aus dem Ausland."
+  ],
+  "ex_zh": "经济界急需来自国外的专业人才。",
+  "use": {
+   "col": [
+    [
+     "eine ausgebildete Fachkraft",
+     "受过培训的专业人员"
+    ],
+    [
+     "Fachkräfte anwerben",
+     "招募专业人才"
+    ]
+   ],
+   "tip": "阴性名词，男女都用；名词 der Fachkräftemangel = 专业人才短缺"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fachkräftemangel",
+  "art": "der",
+  "pos": "n",
+  "zh": "专业人才短缺",
+  "ex": [
+   "Der Fachkräftemangel betrifft inzwischen fast alle Branchen."
+  ],
+  "ex_zh": "专业人才短缺现在几乎影响所有行业。",
+  "use": {
+   "col": [
+    [
+     "unter dem Fachkräftemangel leiden",
+     "受专业人才短缺之苦"
+    ],
+    [
+     "dem Fachkräftemangel entgegenwirken",
+     "应对人才短缺"
+    ]
+   ],
+   "tip": "新闻里的高频词；通常不用复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Arbeitsbedingungen (Pl.)",
+  "art": "die",
+  "pos": "n",
+  "zh": "劳动条件；工作条件",
+  "ex": [
+   "Die Gewerkschaft fordert bessere Arbeitsbedingungen für alle Beschäftigten."
+  ],
+  "ex_zh": "工会要求为所有员工改善劳动条件。",
+  "use": {
+   "col": [
+    [
+     "unter schlechten Arbeitsbedingungen",
+     "在恶劣的工作条件下"
+    ],
+    [
+     "die Arbeitsbedingungen verbessern",
+     "改善工作条件"
+    ]
+   ],
+   "tip": "通常用复数 (Pl.)"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Arbeitsverhältnis",
+  "art": "das",
+  "pl_full": "die Arbeitsverhältnisse",
+  "pos": "n",
+  "zh": "劳动关系；雇佣关系",
+  "ex": [
+   "Das Arbeitsverhältnis endet zum Ende des Monats."
+  ],
+  "ex_zh": "劳动关系在月底终止。",
+  "use": {
+   "col": [
+    [
+     "ein Arbeitsverhältnis begründen",
+     "建立雇佣关系"
+    ],
+    [
+     "das Arbeitsverhältnis beenden",
+     "终止雇佣关系"
+    ]
+   ],
+   "tip": "比 Arbeitsvertrag 更宽泛；法律术语"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Beschäftigte",
+  "art": "der",
+  "pl_full": "die Beschäftigten",
+  "pos": "n",
+  "zh": "雇员；就业者",
+  "ex": [
+   "Die Beschäftigten im Einzelhandel streiken für höhere Löhne."
+  ],
+  "ex_zh": "零售业的雇员为提高工资而罢工。",
+  "use": {
+   "col": [
+    [
+     "die Beschäftigten informieren",
+     "通知雇员"
+    ],
+    [
+     "die Zahl der Beschäftigten",
+     "就业人数"
+    ]
+   ],
+   "tip": "形容词变化：der Beschäftigte / ein Beschäftigter / die Beschäftigte；Angestellte 类似"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gehaltsabrechnung",
+  "art": "die",
+  "pl_full": "die Gehaltsabrechnungen",
+  "pos": "n",
+  "zh": "工资单",
+  "ex": [
+   "Auf der Gehaltsabrechnung sind alle Abzüge aufgelistet."
+  ],
+  "ex_zh": "工资单上列出了所有扣款。",
+  "use": {
+   "col": [
+    [
+     "die Gehaltsabrechnung prüfen",
+     "核对工资单"
+    ],
+    [
+     "eine Gehaltsabrechnung erstellen",
+     "制作工资单"
+    ]
+   ],
+   "tip": "也叫 Lohnabrechnung、Gehaltszettel（口语）；办居留/租房时常要求"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Sozialversicherung",
+  "art": "die",
+  "pl_full": "die Sozialversicherungen",
+  "pos": "n",
+  "zh": "社会保险",
+  "ex": [
+   "Die Beiträge zur Sozialversicherung werden direkt vom Gehalt abgezogen."
+  ],
+  "ex_zh": "社会保险的缴费直接从工资里扣除。",
+  "use": {
+   "col": [
+    [
+     "Sozialversicherung zahlen",
+     "缴纳社保"
+    ],
+    [
+     "die gesetzliche Sozialversicherung",
+     "法定社会保险"
+    ]
+   ],
+   "tip": "包括养老、医疗、失业、护理、工伤五项；社保号 Sozialversicherungsnummer"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Elternzeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "育儿假",
+  "ex": [
+   "Mein Kollege geht für sechs Monate in Elternzeit."
+  ],
+  "ex_zh": "我的同事要休六个月育儿假。",
+  "use": {
+   "col": [
+    [
+     "in Elternzeit gehen",
+     "休育儿假"
+    ],
+    [
+     "Elternzeit beantragen",
+     "申请育儿假"
+    ]
+   ],
+   "tip": "育儿假期间的补贴是 Elterngeld；父母都可以休"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kurzarbeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "缩短工时；短时工作",
+  "ex": [
+   "Wegen der schlechten Auftragslage hat die Firma Kurzarbeit angemeldet."
+  ],
+  "ex_zh": "由于订单不佳，公司申请了缩短工时。",
+  "use": {
+   "col": [
+    [
+     "in Kurzarbeit sein",
+     "处于缩短工时中"
+    ],
+    [
+     "Kurzarbeit anmelden",
+     "申请缩短工时"
+    ]
+   ],
+   "tip": "员工减少工作时间，国家补贴一部分工资：Kurzarbeitergeld"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Schicht",
+  "art": "die",
+  "pl_full": "die Schichten",
+  "pos": "n",
+  "zh": "班次；一层",
+  "ex": [
+   "Ich arbeite diese Woche in der Nachtschicht."
+  ],
+  "ex_zh": "这周我上夜班。",
+  "use": {
+   "senses": [
+    "班次",
+    "层；一层"
+   ],
+   "col": [
+    [
+     "in Schichten arbeiten",
+     "倒班工作"
+    ],
+    [
+     "die Frühschicht",
+     "早班"
+    ]
+   ],
+   "tip": "Schichtdienst、Schichtarbeit；另有“层”义（Schicht Lack）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Bereitschaftsdienst",
+  "art": "der",
+  "pl_full": "die Bereitschaftsdienste",
+  "pos": "n",
+  "zh": "待命值班",
+  "ex": [
+   "Heute Nacht habe ich Bereitschaftsdienst und muss erreichbar sein."
+  ],
+  "ex_zh": "今晚我值待命班，必须随时能联系上。",
+  "use": {
+   "col": [
+    [
+     "Bereitschaftsdienst haben",
+     "值待命班"
+    ],
+    [
+     "im Bereitschaftsdienst sein",
+     "在待命中"
+    ]
+   ],
+   "tip": "IT 运维里常见；类似口语 Rufbereitschaft"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Dienstplan",
+  "art": "der",
+  "pl_full": "die Dienstpläne",
+  "pos": "n",
+  "zh": "排班表",
+  "ex": [
+   "Der neue Dienstplan hängt am schwarzen Brett."
+  ],
+  "ex_zh": "新的排班表贴在公告栏上。",
+  "use": {
+   "col": [
+    [
+     "den Dienstplan erstellen",
+     "制定排班表"
+    ],
+    [
+     "im Dienstplan stehen",
+     "在排班表上"
+    ]
+   ],
+   "tip": "医院、餐厅、零售业常用；Plan der Dienste"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zeiterfassung",
+  "art": "die",
+  "pos": "n",
+  "zh": "考勤；工时记录",
+  "ex": [
+   "Die Zeiterfassung ist in Deutschland für viele Betriebe Pflicht."
+  ],
+  "ex_zh": "在德国，很多企业必须做工时记录。",
+  "use": {
+   "col": [
+    [
+     "elektronische Zeiterfassung",
+     "电子考勤"
+    ],
+    [
+     "die Zeiterfassung führen",
+     "做工时记录"
+    ]
+   ],
+   "tip": "法律上的义务；员工填写 Stundenzettel"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Betriebsvereinbarung",
+  "art": "die",
+  "pl_full": "die Betriebsvereinbarungen",
+  "pos": "n",
+  "zh": "企业协议（与职工代表会）",
+  "ex": [
+   "Das Homeoffice ist in einer Betriebsvereinbarung geregelt."
+  ],
+  "ex_zh": "居家办公在一份企业协议中作了规定。",
+  "use": {
+   "col": [
+    [
+     "eine Betriebsvereinbarung abschließen",
+     "签订企业协议"
+    ],
+    [
+     "laut Betriebsvereinbarung",
+     "根据企业协议"
+    ]
+   ],
+   "tip": "雇主与 Betriebsrat 签订；不同于 Tarifvertrag"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kündigungsschutz",
+  "art": "der",
+  "pos": "n",
+  "zh": "解雇保护",
+  "ex": [
+   "Nach sechs Monaten greift in der Regel der Kündigungsschutz."
+  ],
+  "ex_zh": "通常六个月后解雇保护开始生效。",
+  "use": {
+   "col": [
+    [
+     "besonderer Kündigungsschutz",
+     "特殊解雇保护"
+    ],
+    [
+     "Kündigungsschutz genießen",
+     "享有解雇保护"
+    ]
+   ],
+   "tip": "孕妇、残障人士等受特殊保护；法律：Kündigungsschutzgesetz"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Abmahnung",
+  "art": "die",
+  "pl_full": "die Abmahnungen",
+  "pos": "n",
+  "zh": "警告函；书面警告",
+  "ex": [
+   "Nach mehreren Verspätungen bekam er eine Abmahnung."
+  ],
+  "ex_zh": "多次迟到后，他收到了一份书面警告。",
+  "use": {
+   "col": [
+    [
+     "eine Abmahnung erhalten",
+     "收到警告函"
+    ],
+    [
+     "jemandem eine Abmahnung erteilen",
+     "给某人书面警告"
+    ]
+   ],
+   "tip": "解雇前的警告；动词 abmahnen；也指对侵权的法律警告函"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Arbeitsgericht",
+  "art": "das",
+  "pl_full": "die Arbeitsgerichte",
+  "pos": "n",
+  "zh": "劳动法庭",
+  "ex": [
+   "Er hat gegen die Kündigung beim Arbeitsgericht geklagt."
+  ],
+  "ex_zh": "他向劳动法庭起诉了这次解雇。",
+  "use": {
+   "col": [
+    [
+     "vor dem Arbeitsgericht klagen",
+     "在劳动法庭起诉"
+    ],
+    [
+     "das Arbeitsgericht entscheidet",
+     "劳动法庭裁决"
+    ]
+   ],
+   "tip": "起诉时限很短（三周）：Kündigungsschutzklage"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Mitbestimmung",
+  "art": "die",
+  "pos": "n",
+  "zh": "共同决定权；职工参与",
+  "ex": [
+   "In großen Unternehmen sichert die Mitbestimmung den Beschäftigten ein Mitspracherecht."
+  ],
+  "ex_zh": "在大企业里，共同决定权保证员工有发言权。",
+  "use": {
+   "col": [
+    [
+     "betriebliche Mitbestimmung",
+     "企业内的共同决定"
+    ],
+    [
+     "die Mitbestimmung der Arbeitnehmer",
+     "员工的共同决定权"
+    ]
+   ],
+   "tip": "德国劳资关系的特色；动词 mitbestimmen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gesellschafter",
+  "art": "der",
+  "pl_full": "die Gesellschafter",
+  "pos": "n",
+  "zh": "股东；合伙人",
+  "ex": [
+   "Die Gesellschafter haben die Geschäftsführung neu gewählt."
+  ],
+  "ex_zh": "股东们重新选了管理层。",
+  "use": {
+   "col": [
+    [
+     "Gesellschafter einer GmbH",
+     "有限责任公司的股东"
+    ],
+    [
+     "die Gesellschafterversammlung",
+     "股东会"
+    ]
+   ],
+   "tip": "GmbH 里用 Gesellschafter，AG 里用 Aktionär；女性 die Gesellschafterin"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Aktie",
+  "art": "die",
+  "pl_full": "die Aktien",
+  "pos": "n",
+  "zh": "股票",
+  "ex": [
+   "Er hat einige Aktien eines Autokonzerns gekauft."
+  ],
+  "ex_zh": "他买了一家汽车集团的一些股票。",
+  "use": {
+   "col": [
+    [
+     "Aktien kaufen",
+     "买股票"
+    ],
+    [
+     "die Aktie steigt",
+     "股价上涨"
+    ]
+   ],
+   "tip": "持股人 der Aktionär；股价 der Aktienkurs"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fusion",
+  "art": "die",
+  "pl_full": "die Fusionen",
+  "pos": "n",
+  "zh": "合并",
+  "ex": [
+   "Die Fusion der beiden Banken wurde im Frühjahr beschlossen."
+  ],
+  "ex_zh": "这两家银行的合并在春天被决定了。",
+  "use": {
+   "col": [
+    [
+     "eine Fusion planen",
+     "计划合并"
+    ],
+    [
+     "mit einem Konkurrenten fusionieren",
+     "与竞争对手合并"
+    ]
+   ],
+   "tip": "动词 fusionieren；Fusion 是两家合一，Übernahme 是一方吞并"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Insolvenz",
+  "art": "die",
+  "pl_full": "die Insolvenzen",
+  "pos": "n",
+  "zh": "破产；无力偿债",
+  "ex": [
+   "Das Unternehmen musste im letzten Jahr Insolvenz anmelden."
+  ],
+  "ex_zh": "这家公司去年不得不申请破产。",
+  "use": {
+   "col": [
+    [
+     "Insolvenz anmelden",
+     "申请破产"
+    ],
+    [
+     "kurz vor der Insolvenz stehen",
+     "濒临破产"
+    ]
+   ],
+   "tip": "同义 Pleite（口语）、Bankrott；形容词 insolvent"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Pleite",
+  "art": "die",
+  "pl_full": "die Pleiten",
+  "pos": "n",
+  "zh": "破产；失败",
+  "ex": [
+   "Die Firma ist pleite und muss schließen."
+  ],
+  "ex_zh": "这家公司破产了，必须关门。",
+  "use": {
+   "col": [
+    [
+     "pleite gehen",
+     "破产"
+    ],
+    [
+     "eine Pleite erleben",
+     "遭遇惨败"
+    ]
+   ],
+   "tip": "口语；pleite sein = 身无分文，也可用于个人"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Umstrukturierung",
+  "art": "die",
+  "pl_full": "die Umstrukturierungen",
+  "pos": "n",
+  "zh": "重组；改组",
+  "ex": [
+   "Im Zuge der Umstrukturierung fallen 200 Stellen weg."
+  ],
+  "ex_zh": "在重组过程中，有两百个岗位将被取消。",
+  "use": {
+   "col": [
+    [
+     "eine Umstrukturierung durchführen",
+     "进行重组"
+    ],
+    [
+     "Umstrukturierung des Unternehmens",
+     "公司重组"
+    ]
+   ],
+   "tip": "动词 umstrukturieren；常引起裁员"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Stellenabbau",
+  "art": "der",
+  "pos": "n",
+  "zh": "裁员；削减岗位",
+  "ex": [
+   "Der Konzern kündigte einen Stellenabbau von zehn Prozent an."
+  ],
+  "ex_zh": "集团宣布削减百分之十的岗位。",
+  "use": {
+   "col": [
+    [
+     "Stellen abbauen",
+     "削减岗位"
+    ],
+    [
+     "einen Stellenabbau ankündigen",
+     "宣布裁员"
+    ]
+   ],
+   "tip": "没有复数；反义 Stellenaufbau"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Produktivität",
+  "art": "die",
+  "pos": "n",
+  "zh": "生产率；效率",
+  "ex": [
+   "Durch neue Software ist die Produktivität deutlich gestiegen."
+  ],
+  "ex_zh": "新软件使生产效率明显提高。",
+  "use": {
+   "col": [
+    [
+     "die Produktivität steigern",
+     "提高生产率"
+    ],
+    [
+     "die Arbeitsproduktivität",
+     "劳动生产率"
+    ]
+   ],
+   "tip": "形容词 produktiv；经济新闻里常见"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Lieferkette",
+  "art": "die",
+  "pl_full": "die Lieferketten",
+  "pos": "n",
+  "zh": "供应链",
+  "ex": [
+   "Die Pandemie hat die globalen Lieferketten stark gestört."
+  ],
+  "ex_zh": "疫情严重扰乱了全球供应链。",
+  "use": {
+   "col": [
+    [
+     "Lieferketten unterbrechen",
+     "使供应链中断"
+    ],
+    [
+     "das Lieferkettengesetz",
+     "供应链法"
+    ]
+   ],
+   "tip": "德国有“Lieferkettengesetz”；英语 supply chain"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kennzahl",
+  "art": "die",
+  "pl_full": "die Kennzahlen",
+  "pos": "n",
+  "zh": "指标；关键数据",
+  "ex": [
+   "Die wichtigsten Kennzahlen des Unternehmens werden jeden Monat dem Vorstand vorgelegt."
+  ],
+  "ex_zh": "公司最重要的指标每月都会提交给董事会。",
+  "use": {
+   "col": [
+    [
+     "finanzielle Kennzahlen",
+     "财务指标"
+    ],
+    [
+     "Kennzahlen erheben",
+     "采集指标"
+    ]
+   ],
+   "tip": "英语 KPI 的德语说法；复数常见"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Geschäftsmodell",
+  "art": "das",
+  "pl_full": "die Geschäftsmodelle",
+  "pos": "n",
+  "zh": "商业模式",
+  "ex": [
+   "Das Geschäftsmodell der Firma beruht auf Abonnements."
+  ],
+  "ex_zh": "这家公司的商业模式基于订阅。",
+  "use": {
+   "col": [
+    [
+     "ein neues Geschäftsmodell entwickeln",
+     "开发新的商业模式"
+    ],
+    [
+     "ein tragfähiges Geschäftsmodell",
+     "可持续的商业模式"
+    ]
+   ],
+   "tip": "创业话题常用"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Geschäftsjahr",
+  "art": "das",
+  "pl_full": "die Geschäftsjahre",
+  "pos": "n",
+  "zh": "财政年度；营业年度",
+  "ex": [
+   "Das Geschäftsjahr endet bei uns am 30. September."
+  ],
+  "ex_zh": "我们的财政年度在九月三十日结束。",
+  "use": {
+   "col": [
+    [
+     "im abgelaufenen Geschäftsjahr",
+     "在刚结束的财年"
+    ],
+    [
+     "das Geschäftsjahr abschließen",
+     "结束财年"
+    ]
+   ],
+   "tip": "不一定等于日历年；Geschäftsbericht = 年报"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Quartal",
+  "art": "das",
+  "pl_full": "die Quartale",
+  "pos": "n",
+  "zh": "季度",
+  "ex": [
+   "Im dritten Quartal ist der Gewinn deutlich gesunken."
+  ],
+  "ex_zh": "第三季度的利润大幅下降。",
+  "use": {
+   "col": [
+    [
+     "im zweiten Quartal",
+     "在第二季度"
+    ],
+    [
+     "Quartalszahlen veröffentlichen",
+     "发布季报"
+    ]
+   ],
+   "tip": "Q1–Q4 也这么读；形容词 vierteljährlich"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gewerbe",
+  "art": "das",
+  "pl_full": "die Gewerbe",
+  "pos": "n",
+  "zh": "营业；工商业",
+  "ex": [
+   "Er hat ein Gewerbe angemeldet, um nebenbei Webseiten zu bauen."
+  ],
+  "ex_zh": "他注册了个体工商户，好副业做网站。",
+  "use": {
+   "col": [
+    [
+     "ein Gewerbe anmelden",
+     "注册营业"
+    ],
+    [
+     "das Gewerbeamt",
+     "工商登记处"
+    ]
+   ],
+   "tip": "Freiberufler 不需要 Gewerbeanmeldung；Gewerbeschein = 营业执照"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Mittelstand",
+  "art": "der",
+  "pos": "n",
+  "zh": "中小企业（阶层）",
+  "ex": [
+   "Der deutsche Mittelstand gilt als Rückgrat der Wirtschaft."
+  ],
+  "ex_zh": "德国的中小企业被视为经济的脊梁。",
+  "use": {
+   "col": [
+    [
+     "mittelständische Unternehmen",
+     "中小企业"
+    ],
+    [
+     "im Mittelstand arbeiten",
+     "在中小企业工作"
+    ]
+   ],
+   "tip": "形容词 mittelständisch；德国经济的关键词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Standort",
+  "art": "der",
+  "pl_full": "die Standorte",
+  "pos": "n",
+  "zh": "地点；厂址",
+  "ex": [
+   "Der Konzern verlegt die Produktion an einen günstigeren Standort."
+  ],
+  "ex_zh": "集团把生产迁到成本更低的地点。",
+  "use": {
+   "col": [
+    [
+     "der Wirtschaftsstandort",
+     "经济区位"
+    ],
+    [
+     "Standorte schließen",
+     "关闭据点"
+    ]
+   ],
+   "tip": "Standort Deutschland 是经济讨论里的固定说法"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Mitbewerber",
+  "art": "der",
+  "pl_full": "die Mitbewerber",
+  "pos": "n",
+  "zh": "竞争者",
+  "ex": [
+   "Unsere Mitbewerber bieten ähnliche Produkte günstiger an."
+  ],
+  "ex_zh": "我们的竞争者以更低价提供类似产品。",
+  "use": {
+   "col": [
+    [
+     "die Mitbewerber beobachten",
+     "关注竞争者"
+    ],
+    [
+     "sich von Mitbewerbern abheben",
+     "与竞争者拉开差距"
+    ]
+   ],
+   "tip": "同义 Konkurrent；也有“共同申请人”义"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zulieferer",
+  "art": "der",
+  "pl_full": "die Zulieferer",
+  "pos": "n",
+  "zh": "配套供应商",
+  "ex": [
+   "Viele Zulieferer sind direkt von den Autoherstellern abhängig."
+  ],
+  "ex_zh": "许多配套供应商直接依赖汽车厂商。",
+  "use": {
+   "col": [
+    [
+     "ein Zulieferer der Autoindustrie",
+     "汽车业的配套供应商"
+    ],
+    [
+     "Zulieferer beliefern Hersteller",
+     "供应商给制造商供货"
+    ]
+   ],
+   "tip": "和 Lieferant 比，Zulieferer 特指为制造商提供零部件"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Auftragslage",
+  "art": "die",
+  "pos": "n",
+  "zh": "订单情况",
+  "ex": [
+   "Die Auftragslage ist im Moment sehr gut."
+  ],
+  "ex_zh": "目前订单情况非常好。",
+  "use": {
+   "col": [
+    [
+     "die Auftragslage verbessert sich",
+     "订单情况好转"
+    ],
+    [
+     "wegen der schlechten Auftragslage",
+     "因为订单不好"
+    ]
+   ],
+   "tip": "几乎只用单数；Auftrag + Lage"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zahlungsfrist",
+  "art": "die",
+  "pl_full": "die Zahlungsfristen",
+  "pos": "n",
+  "zh": "付款期限",
+  "ex": [
+   "Laut Rechnung beträgt die Zahlungsfrist vierzehn Tage ab Erhalt der Ware."
+  ],
+  "ex_zh": "根据发票，付款期限为收货后十四天。",
+  "use": {
+   "col": [
+    [
+     "die Zahlungsfrist einhalten",
+     "遵守付款期限"
+    ],
+    [
+     "eine Zahlungsfrist setzen",
+     "设定付款期限"
+    ]
+   ],
+   "tip": "逾期会收到 Mahnung；Zahlungsziel 近义"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Reklamation",
+  "art": "die",
+  "pl_full": "die Reklamationen",
+  "pos": "n",
+  "zh": "投诉；退换要求",
+  "ex": [
+   "Bei Reklamationen wenden Sie sich bitte an den Kundendienst."
+  ],
+  "ex_zh": "如有投诉，请联系客服部。",
+  "use": {
+   "col": [
+    [
+     "eine Reklamation einreichen",
+     "提出投诉/退换"
+    ],
+    [
+     "Reklamationen bearbeiten",
+     "处理投诉"
+    ]
+   ],
+   "tip": "动词 reklamieren；针对商品或服务的缺陷"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Beschwerde",
+  "art": "die",
+  "pl_full": "die Beschwerden",
+  "pos": "n",
+  "zh": "投诉；抱怨",
+  "ex": [
+   "Der Kunde hat sich schriftlich über die Verspätung beschwert."
+  ],
+  "ex_zh": "客户就延误书面投诉了。",
+  "use": {
+   "senses": [
+    "投诉",
+    "（复数）病痛"
+   ],
+   "col": [
+    [
+     "eine Beschwerde einreichen",
+     "提出投诉"
+    ],
+    [
+     "Beschwerden entgegennehmen",
+     "受理投诉"
+    ]
+   ],
+   "tip": "动词 sich beschweren；另有“病痛”义（Beschwerden），指身体不适"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Großraumbüro",
+  "art": "das",
+  "pl_full": "die Großraumbüros",
+  "pos": "n",
+  "zh": "开放式办公室",
+  "ex": [
+   "Im Großraumbüro ist es oft zu laut zum Konzentrieren."
+  ],
+  "ex_zh": "在开放式办公室里，常常吵得无法集中精力。",
+  "use": {
+   "col": [
+    [
+     "im Großraumbüro sitzen",
+     "坐在开放式办公室"
+    ],
+    [
+     "ein Einzelbüro statt Großraumbüro",
+     "单间而非开放式办公室"
+    ]
+   ],
+   "tip": "反义 Einzelbüro"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Mitarbeitergespräch",
+  "art": "das",
+  "pl_full": "die Mitarbeitergespräche",
+  "pos": "n",
+  "zh": "员工面谈",
+  "ex": [
+   "Im jährlichen Mitarbeitergespräch werden die Ziele festgelegt."
+  ],
+  "ex_zh": "在年度员工面谈中确定目标。",
+  "use": {
+   "col": [
+    [
+     "ein Mitarbeitergespräch führen",
+     "进行员工面谈"
+    ],
+    [
+     "das jährliche Mitarbeitergespräch",
+     "年度面谈"
+    ]
+   ],
+   "tip": "与上司的绩效沟通；同义 Personalgespräch"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zwischenzeugnis",
+  "art": "das",
+  "pl_full": "die Zwischenzeugnisse",
+  "pos": "n",
+  "zh": "中期工作证明",
+  "ex": [
+   "Ich habe um ein Zwischenzeugnis gebeten, weil sich mein Vorgesetzter ändert."
+  ],
+  "ex_zh": "因为我的上司要换人，我申请了一份中期工作证明。",
+  "use": {
+   "col": [
+    [
+     "ein Zwischenzeugnis verlangen",
+     "要求出具中期证明"
+    ],
+    [
+     "ein qualifiziertes Zwischenzeugnis",
+     "带评价的中期证明"
+    ]
+   ],
+   "tip": "离职时出的是 Arbeitszeugnis（已在词表）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Referenz",
+  "art": "die",
+  "pl_full": "die Referenzen",
+  "pos": "n",
+  "zh": "推荐人；推荐信；参考",
+  "ex": [
+   "Können Sie mir bitte zwei Referenzen aus Ihrer letzten Stelle nennen?"
+  ],
+  "ex_zh": "能请您说出上一份工作的两位推荐人吗？",
+  "use": {
+   "senses": [
+    "推荐人；推荐信",
+    "参考案例；业绩"
+   ],
+   "col": [
+    [
+     "Referenzen angeben",
+     "提供推荐人"
+    ],
+    [
+     "gute Referenzen haben",
+     "有好的推荐"
+    ]
+   ],
+   "tip": "也指“参考案例”；也是 IT 里的“引用”"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Initiativbewerbung",
+  "art": "die",
+  "pl_full": "die Initiativbewerbungen",
+  "pos": "n",
+  "zh": "主动求职信",
+  "ex": [
+   "Ich habe eine Initiativbewerbung an das Unternehmen geschickt."
+  ],
+  "ex_zh": "我给这家公司发了一封主动求职信。",
+  "use": {
+   "col": [
+    [
+     "eine Initiativbewerbung schicken",
+     "寄出主动求职信"
+    ],
+    [
+     "sich initiativ bewerben",
+     "主动投递"
+    ]
+   ],
+   "tip": "没有对应的招聘广告也可以投；形容词 initiativ"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Ausschreibung",
+  "art": "die",
+  "pl_full": "die Ausschreibungen",
+  "pos": "n",
+  "zh": "公开招标；招聘公告",
+  "ex": [
+   "Die Ausschreibung für den Auftrag läuft noch bis Ende des Monats."
+  ],
+  "ex_zh": "这项工程的招标到月底才截止。",
+  "use": {
+   "senses": [
+    "招标",
+    "职位公开招聘"
+   ],
+   "col": [
+    [
+     "an einer Ausschreibung teilnehmen",
+     "参加招标"
+    ],
+    [
+     "die Ausschreibung gewinnen",
+     "中标"
+    ]
+   ],
+   "tip": "动词 ausschreiben；也指职位公开招聘"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Pflichtenheft",
+  "art": "das",
+  "pl_full": "die Pflichtenhefte",
+  "pos": "n",
+  "zh": "需求规格说明书（实施方案）",
+  "ex": [
+   "Das Pflichtenheft beschreibt, wie die Anforderungen technisch umgesetzt werden."
+  ],
+  "ex_zh": "需求规格说明书描述了如何在技术上实现这些需求。",
+  "use": {
+   "col": [
+    [
+     "ein Pflichtenheft erstellen",
+     "编写规格说明书"
+    ],
+    [
+     "das Lastenheft und das Pflichtenheft",
+     "需求书与规格说明书"
+    ]
+   ],
+   "tip": "Lastenheft = 客户写的“要什么”，Pflichtenheft = 承包方写的“怎么做”"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Projektplanung",
+  "art": "die",
+  "pos": "n",
+  "zh": "项目规划",
+  "ex": [
+   "Die Projektplanung dauerte wegen der vielen Abstimmungen deutlich länger als ursprünglich erwartet."
+  ],
+  "ex_zh": "由于需要多次协调，项目规划比原先预期的耗时长得多。",
+  "use": {
+   "col": [
+    [
+     "in der Projektplanung",
+     "在项目规划中"
+    ],
+    [
+     "die Projektplanung abschließen",
+     "完成项目规划"
+    ]
+   ],
+   "tip": "项目管理常用，通常单数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Teamleiter",
+  "art": "der",
+  "pl_full": "die Teamleiter",
+  "pos": "n",
+  "zh": "团队负责人",
+  "ex": [
+   "Der Teamleiter verteilt die Aufgaben auf alle Entwickler."
+  ],
+  "ex_zh": "团队负责人把任务分配给所有开发人员。",
+  "use": {
+   "col": [
+    [
+     "Teamleiter einer IT-Abteilung",
+     "IT 部门的团队负责人"
+    ],
+    [
+     "zum Teamleiter befördert werden",
+     "晋升为团队负责人"
+    ]
+   ],
+   "tip": "女性 die Teamleiterin；比 Abteilungsleiter 低一级"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Abteilungsleiter",
+  "art": "der",
+  "pl_full": "die Abteilungsleiter",
+  "pos": "n",
+  "zh": "部门经理",
+  "ex": [
+   "Der Abteilungsleiter bespricht die Pläne mit der Geschäftsführung."
+  ],
+  "ex_zh": "部门经理与管理层讨论这些计划。",
+  "use": {
+   "col": [
+    [
+     "Abteilungsleiter für Marketing",
+     "市场部经理"
+    ],
+    [
+     "die Abteilungsleiterin",
+     "女部门经理"
+    ]
+   ],
+   "tip": "Bereichsleiter 级别更高"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Sachbearbeiter",
+  "art": "der",
+  "pl_full": "die Sachbearbeiter",
+  "pos": "n",
+  "zh": "承办人；办事员",
+  "ex": [
+   "Der zuständige Sachbearbeiter wird sich in den nächsten Tagen bei Ihnen melden."
+  ],
+  "ex_zh": "负责的承办人这几天会和您联系。",
+  "use": {
+   "col": [
+    [
+     "der zuständige Sachbearbeiter",
+     "负责的承办人"
+    ],
+    [
+     "Sachbearbeiterin in der Personalabteilung",
+     "人事部的办事员"
+    ]
+   ],
+   "tip": "机关、保险公司、银行常见；女性 die Sachbearbeiterin"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Sekretariat",
+  "art": "das",
+  "pl_full": "die Sekretariate",
+  "pos": "n",
+  "zh": "秘书处；办公室",
+  "ex": [
+   "Bitte geben Sie die Formulare im Sekretariat ab."
+  ],
+  "ex_zh": "请把表格交到办公室。",
+  "use": {
+   "col": [
+    [
+     "im Sekretariat anrufen",
+     "给办公室打电话"
+    ],
+    [
+     "das Sekretariat ist besetzt",
+     "办公室有人"
+    ]
+   ],
+   "tip": "大学、学校、公司里都有；Sekretär/Sekretärin 是个人"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Hierarchie",
+  "art": "die",
+  "pl_full": "die Hierarchien",
+  "pos": "n",
+  "zh": "等级制度；层级",
+  "ex": [
+   "In unserer Firma gibt es kaum Hierarchien."
+  ],
+  "ex_zh": "我们公司几乎没有层级。",
+  "use": {
+   "col": [
+    [
+     "flache Hierarchien",
+     "扁平化的层级"
+    ],
+    [
+     "die Hierarchie einhalten",
+     "遵守层级"
+    ]
+   ],
+   "tip": "形容词 hierarchisch；新创公司常说 flache Hierarchien"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Entscheidungsträger",
+  "art": "der",
+  "pl_full": "die Entscheidungsträger",
+  "pos": "n",
+  "zh": "决策者",
+  "ex": [
+   "Bevor wir das Angebot abgeben, müssen wir die wichtigsten Entscheidungsträger beim Kunden überzeugen."
+  ],
+  "ex_zh": "在提交报价之前，我们必须说服客户方的主要决策者。",
+  "use": {
+   "col": [
+    [
+     "Entscheidungsträger in der Politik",
+     "政界的决策者"
+    ],
+    [
+     "die wichtigen Entscheidungsträger",
+     "重要决策者"
+    ]
+   ],
+   "tip": "女性 die Entscheidungsträgerin；同义 Entscheider"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zielgruppe",
+  "art": "die",
+  "pl_full": "die Zielgruppen",
+  "pos": "n",
+  "zh": "目标群体",
+  "ex": [
+   "Die Werbekampagne richtet sich an eine junge Zielgruppe."
+  ],
+  "ex_zh": "这次广告活动面向年轻的目标群体。",
+  "use": {
+   "col": [
+    [
+     "die Zielgruppe ansprechen",
+     "吸引目标群体"
+    ],
+    [
+     "zur Zielgruppe gehören",
+     "属于目标群体"
+    ]
+   ],
+   "tip": "市场营销常用"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich einarbeiten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingearbeitet",
+  "forms": "arbeitet sich ein, arbeitete sich ein, hat sich eingearbeitet",
+  "zh": "熟悉工作；逐渐上手",
+  "ex": [
+   "Ich muss mich noch in das neue Projekt einarbeiten."
+  ],
+  "ex_zh": "我还得熟悉这个新项目。",
+  "gov": "sich einarbeiten in + Akk.",
+  "use": {
+   "col": [
+    [
+     "sich schnell einarbeiten",
+     "很快上手"
+    ],
+    [
+     "sich in ein Thema einarbeiten",
+     "深入了解某个主题"
+    ]
+   ],
+   "tip": "名词 die Einarbeitung；及物用法 jemanden einarbeiten = 带新人"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "beauftragen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "beauftragt",
+  "forms": "beauftragt, beauftragte, hat beauftragt",
+  "zh": "委托；指派",
+  "ex": [
+   "Die Firma hat eine Agentur mit der Werbekampagne beauftragt."
+  ],
+  "ex_zh": "公司委托一家代理机构做广告活动。",
+  "gov": "beauftragen mit + Dat.",
+  "use": {
+   "col": [
+    [
+     "jemanden mit etwas beauftragen",
+     "委托某人做某事"
+    ],
+    [
+     "einen Anwalt beauftragen",
+     "委托律师"
+    ]
+   ],
+   "tip": "不可分动词；名词 der Auftrag、der Beauftragte"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "delegieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "delegiert",
+  "forms": "delegiert, delegierte, hat delegiert",
+  "zh": "授权；委派；下放任务",
+  "ex": [
+   "Gute Chefs delegieren Aufgaben an ihre Mitarbeiter."
+  ],
+  "ex_zh": "好老板会把任务分派给员工。",
+  "gov": "delegieren an + Akk.",
+  "use": {
+   "col": [
+    [
+     "Aufgaben delegieren",
+     "分派任务"
+    ],
+    [
+     "Verantwortung delegieren",
+     "下放责任"
+    ]
+   ],
+   "tip": "名词 die Delegation、der Delegierte；管理常用"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "koordinieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "koordiniert",
+  "forms": "koordiniert, koordinierte, hat koordiniert",
+  "zh": "协调",
+  "ex": [
+   "Sie koordiniert die Arbeit von fünf Teams."
+  ],
+  "ex_zh": "她协调五个团队的工作。",
+  "use": {
+   "col": [
+    [
+     "Termine koordinieren",
+     "协调日程"
+    ],
+    [
+     "ein Projekt koordinieren",
+     "统筹项目"
+    ]
+   ],
+   "tip": "名词 die Koordination/Koordinierung；Koordinator = 协调人"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verhandeln",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verhandelt",
+  "forms": "verhandelt, verhandelte, hat verhandelt",
+  "zh": "谈判；磋商",
+  "ex": [
+   "Die Gewerkschaft verhandelt mit den Arbeitgebern über höhere Löhne."
+  ],
+  "ex_zh": "工会就提高工资与雇主进行谈判。",
+  "gov": "verhandeln über + Akk.",
+  "use": {
+   "col": [
+    [
+     "über den Preis verhandeln",
+     "就价格进行谈判"
+    ],
+    [
+     "hart verhandeln",
+     "艰难地谈判"
+    ]
+   ],
+   "tip": "+ mit jdm. über + Akk.；名词 die Verhandlung；法庭上也指审理"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "aushandeln",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ausgehandelt",
+  "forms": "handelt aus, handelte aus, hat ausgehandelt",
+  "zh": "谈妥；经谈判达成",
+  "ex": [
+   "Die Tarifparteien haben einen neuen Vertrag ausgehandelt."
+  ],
+  "ex_zh": "双方通过谈判达成了新合同。",
+  "use": {
+   "col": [
+    [
+     "einen Kompromiss aushandeln",
+     "谈出折中方案"
+    ],
+    [
+     "Konditionen aushandeln",
+     "谈妥条件"
+    ]
+   ],
+   "tip": "可分动词；强调“谈判的结果”"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "nachgeben",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "nachgegeben",
+  "forms": "gibt nach, gab nach, hat nachgegeben",
+  "zh": "让步；屈服；塌陷",
+  "ex": [
+   "In der Diskussion wollte keiner der beiden nachgeben."
+  ],
+  "ex_zh": "在讨论中，两人谁也不愿让步。",
+  "gov": "nachgeben + Dat.",
+  "use": {
+   "senses": [
+    "让步；退让",
+    "（物体）松动；塌陷"
+   ],
+   "col": [
+    [
+     "dem Druck nachgeben",
+     "屈服于压力"
+    ],
+    [
+     "der Klügere gibt nach",
+     "聪明人让步"
+    ]
+   ],
+   "tip": "+ Dat.；物体也可“塌陷、松动”（Der Boden gibt nach）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich durchsetzen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "durchgesetzt",
+  "forms": "setzt sich durch, setzte sich durch, hat sich durchgesetzt",
+  "zh": "坚持己见；占上风；得到普及",
+  "ex": [
+   "Sie konnte sich mit ihrem Vorschlag im Team durchsetzen."
+  ],
+  "ex_zh": "她的建议在团队里获得了通过。",
+  "gov": "sich durchsetzen gegen + Akk.",
+  "use": {
+   "col": [
+    [
+     "sich gegen Widerstand durchsetzen",
+     "克服阻力取得成功"
+    ],
+    [
+     "sich auf dem Markt durchsetzen",
+     "在市场上站稳脚跟"
+    ]
+   ],
+   "tip": "也有及物用法 etwas durchsetzen = 贯彻、强制实现"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "befördern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "befördert",
+  "forms": "befördert, beförderte, hat befördert",
+  "zh": "提拔；晋升；运送",
+  "ex": [
+   "Nach zwei erfolgreichen Jahren wurde sie zur Abteilungsleiterin befördert und bekam mehr Verantwortung."
+  ],
+  "ex_zh": "两年出色的工作后，她被提拔为部门主管，责任也更大了。",
+  "use": {
+   "senses": [
+    "提拔；晋升",
+    "运送；运输"
+   ],
+   "col": [
+    [
+     "jemanden befördern",
+     "提拔某人"
+    ],
+    [
+     "Waren befördern",
+     "运输货物"
+    ]
+   ],
+   "tip": "名词 die Beförderung；被动 befördert werden 常用"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "versetzen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "versetzt",
+  "forms": "versetzt, versetzte, hat versetzt",
+  "zh": "调动；调职；使处于",
+  "ex": [
+   "Der Konzern hat ihn in die Filiale nach Hamburg versetzt."
+  ],
+  "ex_zh": "集团把他调到汉堡的分公司。",
+  "use": {
+   "senses": [
+    "调职；调动",
+    "使进入某状态",
+    "放鸽子（口语）"
+   ],
+   "col": [
+    [
+     "jemanden versetzen",
+     "调动某人"
+    ],
+    [
+     "sich in jemanden versetzen",
+     "设身处地为某人着想"
+    ]
+   ],
+   "tip": "名词 die Versetzung；jemanden versetzen 口语还有“放鸽子”义"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "ernennen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ernannt",
+  "forms": "ernennt, ernannte, hat ernannt",
+  "zh": "任命",
+  "ex": [
+   "Der Aufsichtsrat hat ihn zum neuen Vorstandsvorsitzenden ernannt."
+  ],
+  "ex_zh": "监事会任命他为新的董事会主席。",
+  "gov": "ernennen zu + Dat.",
+  "use": {
+   "col": [
+    [
+     "jemanden zum Leiter ernennen",
+     "任命某人为负责人"
+    ],
+    [
+     "zum Ehrenmitglied ernannt werden",
+     "被授予名誉会员"
+    ]
+   ],
+   "tip": "不规则变化 ernennen – ernannte – ernannt；名词 die Ernennung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "abwerben",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgeworben",
+  "forms": "wirbt ab, warb ab, hat abgeworben",
+  "zh": "挖角；挖走",
+  "ex": [
+   "Die Konkurrenz hat drei unserer besten Entwickler abgeworben."
+  ],
+  "ex_zh": "竞争对手挖走了我们三位最好的开发人员。",
+  "use": {
+   "col": [
+    [
+     "Mitarbeiter abwerben",
+     "挖员工"
+    ],
+    [
+     "Kunden abwerben",
+     "拉走客户"
+    ]
+   ],
+   "tip": "不规则变化（werben – warb – geworben）；名词 die Abwerbung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "freistellen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "freigestellt",
+  "forms": "stellt frei, stellte frei, hat freigestellt",
+  "zh": "免除工作；给予自由",
+  "ex": [
+   "Er wurde bis zum Ende der Kündigungsfrist freigestellt."
+  ],
+  "ex_zh": "直到解约期结束，他被免除了工作。",
+  "gov": "freistellen von + Dat.",
+  "use": {
+   "col": [
+    [
+     "von der Arbeit freistellen",
+     "免除工作"
+    ],
+    [
+     "jemanden vom Dienst freistellen",
+     "免除某人的职务"
+    ]
+   ],
+   "tip": "名词 die Freistellung；员工拿工资但不上班"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "ausscheiden",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "ausgeschieden",
+  "forms": "scheidet aus, schied aus, ist ausgeschieden",
+  "zh": "离职；退出；被淘汰",
+  "ex": [
+   "Der Geschäftsführer scheidet zum Jahresende aus dem Unternehmen aus."
+  ],
+  "ex_zh": "总经理将在年底离开公司。",
+  "gov": "ausscheiden aus + Dat.",
+  "use": {
+   "col": [
+    [
+     "aus dem Dienst ausscheiden",
+     "离职"
+    ],
+    [
+     "in der ersten Runde ausscheiden",
+     "第一轮被淘汰"
+    ]
+   ],
+   "tip": "助动词 sein；比 kündigen 更中性、更书面"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich bewähren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bewährt",
+  "forms": "bewährt sich, bewährte sich, hat sich bewährt",
+  "zh": "证明有效；经受住考验",
+  "ex": [
+   "Das neue System hat sich im Alltag bewährt."
+  ],
+  "ex_zh": "新系统在日常使用中证明了它的价值。",
+  "use": {
+   "col": [
+    [
+     "sich in der Praxis bewähren",
+     "在实践中经受住考验"
+    ],
+    [
+     "ein bewährtes Mittel",
+     "行之有效的办法"
+    ]
+   ],
+   "tip": "形容词 bewährt；名词 die Bewährung（也指缓刑）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "überfordern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "überfordert",
+  "forms": "überfordert, überforderte, hat überfordert",
+  "zh": "使负担过重；要求过高",
+  "ex": [
+   "Die neue Aufgabe überfordert mich im Moment."
+  ],
+  "ex_zh": "这项新任务目前让我力不从心。",
+  "use": {
+   "col": [
+    [
+     "sich überfordert fühlen",
+     "感到力不从心"
+    ],
+    [
+     "jemanden überfordern",
+     "对某人要求过高"
+    ]
+   ],
+   "tip": "反义词 unterfordern；名词 die Überforderung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "unterfordern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "unterfordert",
+  "forms": "unterfordert, unterforderte, hat unterfordert",
+  "zh": "要求过低；没有发挥才能",
+  "ex": [
+   "Ich fühle mich in meinem Job unterfordert und suche eine Herausforderung."
+  ],
+  "ex_zh": "我在工作中觉得没有挑战，想找个有挑战的。",
+  "use": {
+   "col": [
+    [
+     "unterfordert sein",
+     "工作太轻松，没有挑战"
+    ],
+    [
+     "Schüler unterfordern",
+     "对学生要求过低"
+    ]
+   ],
+   "tip": "反义词 überfordern；常用被动态/形容词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "entlasten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "entlastet",
+  "forms": "entlastet, entlastete, hat entlastet",
+  "zh": "减轻负担；为……开脱",
+  "ex": [
+   "Neue Kollegen sollen das Team in der stressigen Zeit vor Weihnachten spürbar entlasten."
+  ],
+  "ex_zh": "新同事应当在圣诞前的忙季明显减轻团队的负担。",
+  "use": {
+   "col": [
+    [
+     "das Team entlasten",
+     "减轻团队负担"
+    ],
+    [
+     "den Angeklagten entlasten",
+     "为被告开脱"
+    ]
+   ],
+   "tip": "反义词 belasten；名词 die Entlastung（董事会“解除责任”也用）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "einspringen",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "eingesprungen",
+  "forms": "springt ein, sprang ein, ist eingesprungen",
+  "zh": "临时顶替",
+  "ex": [
+   "Weil meine Kollegin krank war, musste ich für sie einspringen."
+  ],
+  "ex_zh": "因为同事生病了，我不得不顶替她。",
+  "use": {
+   "col": [
+    [
+     "für jemanden einspringen",
+     "临时替某人"
+    ],
+    [
+     "kurzfristig einspringen",
+     "临时顶上"
+    ]
+   ],
+   "tip": "口语常用；助动词 sein；名词 der Einspringer 少见"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "absprechen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgesprochen",
+  "forms": "spricht ab, sprach ab, hat abgesprochen",
+  "zh": "商定；约定",
+  "ex": [
+   "Wir haben die Details der Zusammenarbeit gestern telefonisch miteinander abgesprochen und festgehalten."
+  ],
+  "ex_zh": "我们昨天通过电话商定并记录了合作的细节。",
+  "use": {
+   "col": [
+    [
+     "etwas mit jemandem absprechen",
+     "与某人商量某事"
+    ],
+    [
+     "abgesprochen sein",
+     "说好了"
+    ]
+   ],
+   "tip": "名词 die Absprache；Absprache treffen = 达成约定"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verzögern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verzögert",
+  "forms": "verzögert, verzögerte, hat verzögert",
+  "zh": "拖延；延迟",
+  "ex": [
+   "Lieferprobleme haben den Baubeginn um Wochen verzögert."
+  ],
+  "ex_zh": "供货问题使开工拖延了好几周。",
+  "use": {
+   "col": [
+    [
+     "sich verzögern",
+     "被拖延"
+    ],
+    [
+     "die Entscheidung verzögern",
+     "推迟决定"
+    ]
+   ],
+   "tip": "名词 die Verzögerung；反身用法 sich verzögern = 被延误"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "fertigstellen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "fertiggestellt",
+  "forms": "stellt fertig, stellte fertig, hat fertiggestellt",
+  "zh": "完成；做完",
+  "ex": [
+   "Wir müssen das Projekt bis Ende des Monats fertigstellen."
+  ],
+  "ex_zh": "我们必须在月底前完成这个项目。",
+  "use": {
+   "col": [
+    [
+     "ein Gebäude fertigstellen",
+     "建成一栋楼"
+    ],
+    [
+     "die Dokumentation fertigstellen",
+     "完成文档"
+    ]
+   ],
+   "tip": "名词 die Fertigstellung；比 beenden 强调“做到可交付”"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "auswerten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ausgewertet",
+  "forms": "wertet aus, wertete aus, hat ausgewertet",
+  "zh": "评估；分析（数据）",
+  "ex": [
+   "Die Ergebnisse der Kundenumfrage werden gerade von unserem Team ausgewertet und zusammengefasst."
+  ],
+  "ex_zh": "客户调查的结果正由我们的团队分析整理。",
+  "use": {
+   "col": [
+    [
+     "Daten auswerten",
+     "分析数据"
+    ],
+    [
+     "eine Studie auswerten",
+     "评估一项研究"
+    ]
+   ],
+   "tip": "名词 die Auswertung；Daten 是常见宾语"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "dokumentieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "dokumentiert",
+  "forms": "dokumentiert, dokumentierte, hat dokumentiert",
+  "zh": "记录；书面存档",
+  "ex": [
+   "Alle Änderungen am Code müssen sorgfältig dokumentiert werden, damit andere sie nachvollziehen können."
+  ],
+  "ex_zh": "代码的所有改动都必须仔细记录，方便其他人理解。",
+  "use": {
+   "col": [
+    [
+     "Ergebnisse dokumentieren",
+     "记录结果"
+    ],
+    [
+     "lückenlos dokumentieren",
+     "完整记录"
+    ]
+   ],
+   "tip": "名词 die Dokumentation；IT 里 = 写文档"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "vorantreiben",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "vorangetrieben",
+  "forms": "treibt voran, trieb voran, hat vorangetrieben",
+  "zh": "推进；推动",
+  "ex": [
+   "Sie treibt die Digitalisierung im Unternehmen konsequent voran."
+  ],
+  "ex_zh": "她坚定地推进公司的数字化。",
+  "use": {
+   "col": [
+    [
+     "ein Projekt vorantreiben",
+     "推进项目"
+    ],
+    [
+     "die Entwicklung vorantreiben",
+     "推动发展"
+    ]
+   ],
+   "tip": "可分动词；书面、新闻里常见"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "optimieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "optimiert",
+  "forms": "optimiert, optimierte, hat optimiert",
+  "zh": "优化",
+  "ex": [
+   "Wir wollen mit der neuen Software die Abläufe in der Verwaltung weiter optimieren."
+  ],
+  "ex_zh": "我们想借助新软件进一步优化行政管理的流程。",
+  "use": {
+   "col": [
+    [
+     "Prozesse optimieren",
+     "优化流程"
+    ],
+    [
+     "den Code optimieren",
+     "优化代码"
+    ]
+   ],
+   "tip": "名词 die Optimierung；形容词 optimal"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "kalkulieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "kalkuliert",
+  "forms": "kalkuliert, kalkulierte, hat kalkuliert",
+  "zh": "核算；估算",
+  "ex": [
+   "Wir haben die Kosten für das Projekt mit 50 000 Euro kalkuliert."
+  ],
+  "ex_zh": "我们把项目成本估算为五万欧元。",
+  "use": {
+   "col": [
+    [
+     "Kosten kalkulieren",
+     "核算成本"
+    ],
+    [
+     "ein Risiko einkalkulieren",
+     "把风险算进去"
+    ]
+   ],
+   "tip": "名词 die Kalkulation；einkalkulieren = 考虑在内"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "abrechnen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgerechnet",
+  "forms": "rechnet ab, rechnete ab, hat abgerechnet",
+  "zh": "结算；报销；清算",
+  "ex": [
+   "Die Fahrtkosten kannst du bei der Firma abrechnen."
+  ],
+  "ex_zh": "车费你可以向公司报销。",
+  "use": {
+   "senses": [
+    "结算；报销",
+    "与……算账"
+   ],
+   "col": [
+    [
+     "die Kosten abrechnen",
+     "结算费用"
+    ],
+    [
+     "mit jemandem abrechnen",
+     "和某人清算/算账"
+    ]
+   ],
+   "tip": "名词 die Abrechnung；也指服务员“结账”"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "erstatten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "erstattet",
+  "forms": "erstattet, erstattete, hat erstattet",
+  "zh": "报销；退还",
+  "ex": [
+   "Die Reisekosten werden Ihnen nach Vorlage der Belege vollständig von der Firma erstattet."
+  ],
+  "ex_zh": "出示凭证后，公司会全额报销您的差旅费。",
+  "use": {
+   "col": [
+    [
+     "Kosten erstatten",
+     "退还费用"
+    ],
+    [
+     "Anzeige erstatten",
+     "报案"
+    ]
+   ],
+   "tip": "名词 die Erstattung；Anzeige erstatten = 报警"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "bewilligen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bewilligt",
+  "forms": "bewilligt, bewilligte, hat bewilligt",
+  "zh": "批准（经费等）",
+  "ex": [
+   "Die Stadt hat das Geld für das Projekt bewilligt."
+  ],
+  "ex_zh": "市里批准了这个项目的资金。",
+  "use": {
+   "col": [
+    [
+     "einen Kredit bewilligen",
+     "批准贷款"
+    ],
+    [
+     "Fördergelder bewilligen",
+     "批准资助款"
+    ]
+   ],
+   "tip": "多用于钱、款项；名词 die Bewilligung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "anweisen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "angewiesen",
+  "forms": "weist an, wies an, hat angewiesen",
+  "zh": "指示；吩咐；汇款",
+  "ex": [
+   "Der Vorgesetzte hat ihn angewiesen, die Daten zu löschen."
+  ],
+  "ex_zh": "上司指示他删除这些数据。",
+  "use": {
+   "senses": [
+    "指示；命令",
+    "汇款"
+   ],
+   "col": [
+    [
+     "jemanden anweisen, etwas zu tun",
+     "指示某人做某事"
+    ],
+    [
+     "einen Betrag anweisen",
+     "汇出一笔款"
+    ]
+   ],
+   "tip": "名词 die Anweisung；与 anordnen 近义"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "anordnen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "angeordnet",
+  "forms": "ordnet an, ordnete an, hat angeordnet",
+  "zh": "下令；命令；排列",
+  "ex": [
+   "Wegen der schlechten Auftragslage hat die Geschäftsleitung für den Sommer Kurzarbeit angeordnet."
+  ],
+  "ex_zh": "由于订单不佳，管理层下令夏季实行缩短工时。",
+  "use": {
+   "senses": [
+    "下令",
+    "安排；排列"
+   ],
+   "col": [
+    [
+     "Maßnahmen anordnen",
+     "下令采取措施"
+    ],
+    [
+     "Dinge systematisch anordnen",
+     "有系统地摆放"
+    ]
+   ],
+   "tip": "名词 die Anordnung；比 anweisen 更正式、权威"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "zuweisen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "zugewiesen",
+  "forms": "weist zu, wies zu, hat zugewiesen",
+  "zh": "分配；指定",
+  "ex": [
+   "Dem neuen Mitarbeiter wurde ein Schreibtisch im Großraumbüro zugewiesen."
+  ],
+  "ex_zh": "新员工被分配了开放式办公室里的一张办公桌。",
+  "use": {
+   "col": [
+    [
+     "Aufgaben zuweisen",
+     "分配任务"
+    ],
+    [
+     "einen Platz zuweisen",
+     "指定位置"
+    ]
+   ],
+   "tip": "名词 die Zuweisung；+ Dat. + Akk."
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "weiterleiten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "weitergeleitet",
+  "forms": "leitet weiter, leitete weiter, hat weitergeleitet",
+  "zh": "转交；转发",
+  "ex": [
+   "Ich leite Ihre Anfrage an die zuständige Abteilung weiter."
+  ],
+  "ex_zh": "我把您的咨询转给主管部门。",
+  "use": {
+   "col": [
+    [
+     "eine E-Mail weiterleiten",
+     "转发邮件"
+    ],
+    [
+     "an die Kollegen weiterleiten",
+     "转给同事"
+    ]
+   ],
+   "tip": "可分动词；名词 die Weiterleitung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "benachrichtigen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "benachrichtigt",
+  "forms": "benachrichtigt, benachrichtigte, hat benachrichtigt",
+  "zh": "通知",
+  "ex": [
+   "Wir benachrichtigen Sie, sobald Ihre Bestellung eintrifft."
+  ],
+  "ex_zh": "您的订单一到，我们就通知您。",
+  "use": {
+   "col": [
+    [
+     "jemanden schriftlich benachrichtigen",
+     "书面通知某人"
+    ],
+    [
+     "die Polizei benachrichtigen",
+     "通知警察"
+    ]
+   ],
+   "tip": "名词 die Benachrichtigung（手机推送也叫这个）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "vermitteln",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "vermittelt",
+  "forms": "vermittelt, vermittelte, hat vermittelt",
+  "zh": "介绍；调解；传授",
+  "ex": [
+   "Die Agentur vermittelt qualifizierte Fachkräfte aus dem Ausland an deutsche Unternehmen."
+  ],
+  "ex_zh": "这家机构把国外的合格专业人才介绍给德国企业。",
+  "use": {
+   "senses": [
+    "介绍；促成",
+    "调解",
+    "传授"
+   ],
+   "col": [
+    [
+     "eine Stelle vermitteln",
+     "介绍一份工作"
+    ],
+    [
+     "zwischen den Parteien vermitteln",
+     "在双方之间调解"
+    ]
+   ],
+   "tip": "名词 die Vermittlung；也指“传授知识”（Wissen vermitteln）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "bearbeiten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bearbeitet",
+  "forms": "bearbeitet, bearbeitete, hat bearbeitet",
+  "zh": "处理；加工；编辑",
+  "ex": [
+   "Ihr Antrag wird derzeit bearbeitet, die Bearbeitung dauert in der Regel zwei Wochen."
+  ],
+  "ex_zh": "您的申请正在处理中，处理通常需要两周。",
+  "use": {
+   "col": [
+    [
+     "einen Antrag bearbeiten",
+     "处理申请"
+    ],
+    [
+     "ein Dokument bearbeiten",
+     "编辑文件"
+    ]
+   ],
+   "tip": "名词 die Bearbeitung；Bearbeitungszeit = 处理时间"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "anfordern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "angefordert",
+  "forms": "fordert an, forderte an, hat angefordert",
+  "zh": "索取；申请调用",
+  "ex": [
+   "Bitte fordern Sie die Unterlagen schriftlich an."
+  ],
+  "ex_zh": "请书面索取这些材料。",
+  "use": {
+   "col": [
+    [
+     "Unterlagen anfordern",
+     "索取资料"
+    ],
+    [
+     "Verstärkung anfordern",
+     "请求增援"
+    ]
+   ],
+   "tip": "名词 die Anforderung；与 fordern 不同：anfordern 是“要求提供”"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "bereitstellen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bereitgestellt",
+  "forms": "stellt bereit, stellte bereit, hat bereitgestellt",
+  "zh": "提供；准备好",
+  "ex": [
+   "Das Unternehmen stellt allen Mitarbeitern einen Laptop bereit."
+  ],
+  "ex_zh": "公司为所有员工提供笔记本电脑。",
+  "use": {
+   "col": [
+    [
+     "Mittel bereitstellen",
+     "提供资金"
+    ],
+    [
+     "Ressourcen bereitstellen",
+     "提供资源"
+    ]
+   ],
+   "tip": "名词 die Bereitstellung；也可写 zur Verfügung stellen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "bewältigen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bewältigt",
+  "forms": "bewältigt, bewältigte, hat bewältigt",
+  "zh": "应付；克服；完成",
+  "ex": [
+   "Allein kann ich diese Arbeit nicht mehr bewältigen."
+  ],
+  "ex_zh": "光靠我自己，这些工作我应付不了了。",
+  "use": {
+   "col": [
+    [
+     "eine Aufgabe bewältigen",
+     "完成任务"
+    ],
+    [
+     "eine Krise bewältigen",
+     "度过危机"
+    ]
+   ],
+   "tip": "名词 die Bewältigung；用于较大的困难、任务"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "bewerten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bewertet",
+  "forms": "bewertet, bewertete, hat bewertet",
+  "zh": "评价；评估",
+  "ex": [
+   "Die Leistung der Mitarbeiter wird jährlich bewertet."
+  ],
+  "ex_zh": "员工的工作表现每年评估一次。",
+  "use": {
+   "col": [
+    [
+     "eine Leistung bewerten",
+     "评价业绩"
+    ],
+    [
+     "etwas positiv bewerten",
+     "给予积极评价"
+    ]
+   ],
+   "tip": "名词 die Bewertung；评分、星级也叫这个"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "beurteilen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "beurteilt",
+  "forms": "beurteilt, beurteilte, hat beurteilt",
+  "zh": "判断；评定",
+  "ex": [
+   "Es ist schwer zu beurteilen, ob die Maßnahme erfolgreich war."
+  ],
+  "ex_zh": "很难判断这个措施是否成功。",
+  "use": {
+   "col": [
+    [
+     "eine Situation beurteilen",
+     "判断形势"
+    ],
+    [
+     "einen Mitarbeiter beurteilen",
+     "评定员工"
+    ]
+   ],
+   "tip": "名词 die Beurteilung；比 bewerten 更偏“判断”"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "entlohnen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "entlohnt",
+  "forms": "entlohnt, entlohnte, hat entlohnt",
+  "zh": "付酬；给报酬",
+  "ex": [
+   "In diesem Betrieb werden alle Mitarbeiter nach dem geltenden Tarifvertrag fair entlohnt."
+  ],
+  "ex_zh": "在这家企业里，所有员工都按现行集体合同得到公平的报酬。",
+  "use": {
+   "col": [
+    [
+     "angemessen entlohnt werden",
+     "获得合理报酬"
+    ],
+    [
+     "schlecht entlohnt",
+     "报酬低"
+    ]
+   ],
+   "tip": "名词 die Entlohnung；比 bezahlen 书面"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich krankmelden",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "krankgemeldet",
+  "forms": "meldet sich krank, meldete sich krank, hat sich krankgemeldet",
+  "zh": "请病假；报病假",
+  "ex": [
+   "Ich muss mich leider für morgen krankmelden."
+  ],
+  "ex_zh": "很遗憾我明天要请病假。",
+  "use": {
+   "col": [
+    [
+     "sich telefonisch krankmelden",
+     "电话报病假"
+    ],
+    [
+     "sich beim Chef krankmelden",
+     "向老板报病假"
+    ]
+   ],
+   "tip": "名词 die Krankmeldung；p2 写作 krankgemeldet"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "abmahnen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgemahnt",
+  "forms": "mahnt ab, mahnte ab, hat abgemahnt",
+  "zh": "书面警告",
+  "ex": [
+   "Der Arbeitgeber hat ihn wegen wiederholter Verspätungen abgemahnt."
+  ],
+  "ex_zh": "雇主因他屡次迟到而给了他书面警告。",
+  "use": {
+   "col": [
+    [
+     "einen Mitarbeiter abmahnen",
+     "警告员工"
+    ],
+    [
+     "wegen etwas abgemahnt werden",
+     "因某事被警告"
+    ]
+   ],
+   "tip": "名词 die Abmahnung；与 mahnen（催促）有区别"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "ausschreiben",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ausgeschrieben",
+  "forms": "schreibt aus, schrieb aus, hat ausgeschrieben",
+  "zh": "公开招聘；招标；写全",
+  "ex": [
+   "Die Stelle wurde intern und extern ausgeschrieben."
+  ],
+  "ex_zh": "这个岗位在内部和外部同时公开招聘。",
+  "use": {
+   "senses": [
+    "公开招聘；招标",
+    "写全；不缩写"
+   ],
+   "col": [
+    [
+     "eine Stelle ausschreiben",
+     "公开招聘岗位"
+    ],
+    [
+     "einen Auftrag ausschreiben",
+     "招标"
+    ]
+   ],
+   "tip": "名词 die Ausschreibung；也有“把……完整写出”义"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "einplanen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingeplant",
+  "forms": "plant ein, plante ein, hat eingeplant",
+  "zh": "列入计划；预留",
+  "ex": [
+   "Wir haben genügend Zeit für Tests eingeplant."
+  ],
+  "ex_zh": "我们预留了足够的测试时间。",
+  "use": {
+   "col": [
+    [
+     "Pufferzeit einplanen",
+     "预留缓冲时间"
+    ],
+    [
+     "fest einplanen",
+     "确定列入计划"
+    ]
+   ],
+   "tip": "可分动词；一般接时间、预算、人手"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "terminieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "terminiert",
+  "forms": "terminiert, terminierte, hat terminiert",
+  "zh": "确定时间；定下日期",
+  "ex": [
+   "Wir sollten die Abgabe bis spätestens Mitte Mai terminieren."
+  ],
+  "ex_zh": "我们应该把交付定在最迟五月中旬。",
+  "use": {
+   "col": [
+    [
+     "eine Besprechung terminieren",
+     "定会议时间"
+    ],
+    [
+     "den Abschluss terminieren",
+     "确定截止日"
+    ]
+   ],
+   "tip": "不可分动词；名词 die Terminierung；IT 里 terminieren 也指“终止进程”"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "vertagen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "vertagt",
+  "forms": "vertagt, vertagte, hat vertagt",
+  "zh": "延期；休会",
+  "ex": [
+   "Die Sitzung wurde auf den nächsten Montag vertagt."
+  ],
+  "ex_zh": "会议被推迟到下周一。",
+  "use": {
+   "col": [
+    [
+     "eine Sitzung vertagen",
+     "会议延期"
+    ],
+    [
+     "sich vertagen",
+     "宣布休会"
+    ]
+   ],
+   "tip": "名词 die Vertagung；常见于会议、议会、法庭"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "tagen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "getagt",
+  "forms": "tagt, tagte, hat getagt",
+  "zh": "开会；举行会议",
+  "ex": [
+   "Der Betriebsrat tagt in der Regel jeden zweiten Mittwoch im großen Besprechungsraum."
+  ],
+  "ex_zh": "职工代表会通常每隔一个周三在大会议室开会。",
+  "use": {
+   "col": [
+    [
+     "der Ausschuss tagt",
+     "委员会开会"
+    ],
+    [
+     "bis in die Nacht tagen",
+     "会议开到深夜"
+    ]
+   ],
+   "tip": "名词 die Tagung = 会议、研讨会；es tagt = 天亮（另一义）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "moderieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "moderiert",
+  "forms": "moderiert, moderierte, hat moderiert",
+  "zh": "主持（讨论、节目）；调和",
+  "ex": [
+   "Sie moderiert die Diskussion zwischen den beiden Abteilungen."
+  ],
+  "ex_zh": "她主持两个部门之间的讨论。",
+  "use": {
+   "col": [
+    [
+     "eine Sendung moderieren",
+     "主持节目"
+    ],
+    [
+     "ein Meeting moderieren",
+     "主持会议"
+    ]
+   ],
+   "tip": "名词 die Moderation、der Moderator；Moderator 也主持电视节目"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "protokollieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "protokolliert",
+  "forms": "protokolliert, protokollierte, hat protokolliert",
+  "zh": "做记录；记入笔录",
+  "ex": [
+   "Bitte protokollieren Sie während der Sitzung die wichtigsten Beschlüsse und schicken Sie sie herum."
+  ],
+  "ex_zh": "请在会议期间记录最重要的决议，并发给大家。",
+  "use": {
+   "col": [
+    [
+     "eine Sitzung protokollieren",
+     "记录会议"
+    ],
+    [
+     "Fehler protokollieren",
+     "记录错误（日志）"
+    ]
+   ],
+   "tip": "名词 das Protokoll；IT 中也指“写日志”"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "referieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "referiert",
+  "forms": "referiert, referierte, hat referiert",
+  "zh": "作报告；讲述",
+  "ex": [
+   "Der Professor referierte über neue Entwicklungen in der KI."
+  ],
+  "ex_zh": "教授就人工智能的新发展作了报告。",
+  "use": {
+   "col": [
+    [
+     "über ein Thema referieren",
+     "就某话题作报告"
+    ],
+    [
+     "kurz referieren",
+     "简短介绍"
+    ]
+   ],
+   "tip": "名词 das Referat、der Referent；+ über + Akk."
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "erörtern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "erörtert",
+  "forms": "erörtert, erörterte, hat erörtert",
+  "zh": "探讨；详细讨论",
+  "ex": [
+   "In der Sitzung wurde die Finanzierung ausführlich erörtert."
+  ],
+  "ex_zh": "会议详细讨论了资金问题。",
+  "use": {
+   "col": [
+    [
+     "ein Problem erörtern",
+     "探讨一个问题"
+    ],
+    [
+     "Möglichkeiten erörtern",
+     "探讨各种可能性"
+    ]
+   ],
+   "tip": "名词 die Erörterung（也指议论文）；书面语"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "abwägen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgewogen",
+  "forms": "wägt ab, wog ab, hat abgewogen",
+  "zh": "权衡",
+  "ex": [
+   "Wir müssen Vor- und Nachteile genau abwägen."
+  ],
+  "ex_zh": "我们必须仔细权衡利弊。",
+  "use": {
+   "col": [
+    [
+     "Vor- und Nachteile abwägen",
+     "权衡利弊"
+    ],
+    [
+     "Risiken abwägen",
+     "权衡风险"
+    ]
+   ],
+   "tip": "不规则：abwägen – wog ab – abgewogen；名词 die Abwägung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich überschneiden",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "überschnitten",
+  "forms": "überschneidet sich, überschnitt sich, hat sich überschnitten",
+  "zh": "重叠；冲突（时间）",
+  "ex": [
+   "Leider überschneiden sich die beiden Termine am Donnerstag, ich kann nur zu einem kommen."
+  ],
+  "ex_zh": "遗憾的是周四这两个日程重叠了，我只能参加其中一个。",
+  "use": {
+   "col": [
+    [
+     "sich zeitlich überschneiden",
+     "时间重叠"
+    ],
+    [
+     "Aufgabenbereiche überschneiden sich",
+     "职责范围重叠"
+    ]
+   ],
+   "tip": "名词 die Überschneidung；不可分动词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "abwickeln",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgewickelt",
+  "forms": "wickelt ab, wickelte ab, hat abgewickelt",
+  "zh": "办理；处理完；清算",
+  "ex": [
+   "Die Bestellung wird innerhalb von zwei Tagen abgewickelt."
+  ],
+  "ex_zh": "订单会在两天内处理完毕。",
+  "use": {
+   "col": [
+    [
+     "ein Geschäft abwickeln",
+     "办完一桩交易"
+    ],
+    [
+     "eine Firma abwickeln",
+     "清算公司"
+    ]
+   ],
+   "tip": "名词 die Abwicklung；比 bearbeiten 更强调“走完全流程”"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "unterzeichnen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "unterzeichnet",
+  "forms": "unterzeichnet, unterzeichnete, hat unterzeichnet",
+  "zh": "签署",
+  "ex": [
+   "Beide Parteien haben den Vertrag gestern unterzeichnet."
+  ],
+  "ex_zh": "双方昨天签署了合同。",
+  "use": {
+   "col": [
+    [
+     "einen Vertrag unterzeichnen",
+     "签署合同"
+    ],
+    [
+     "eine Erklärung unterzeichnen",
+     "签署声明"
+    ]
+   ],
+   "tip": "同义 unterschreiben，更正式；名词 die Unterzeichnung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "auslaufen",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "ausgelaufen",
+  "forms": "läuft aus, lief aus, ist ausgelaufen",
+  "zh": "到期；结束；漏出",
+  "ex": [
+   "Mein befristeter Vertrag läuft Ende Juni aus."
+  ],
+  "ex_zh": "我的定期合同六月底到期。",
+  "use": {
+   "senses": [
+    "到期；结束",
+    "（液体）漏出",
+    "（船）出港"
+   ],
+   "col": [
+    [
+     "der Vertrag läuft aus",
+     "合同到期"
+    ],
+    [
+     "ein auslaufendes Modell",
+     "即将停产的型号"
+    ]
+   ],
+   "tip": "助动词 sein；另有“漏出”（Öl läuft aus）和“驶出港口”义"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "haften",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gehaftet",
+  "forms": "haftet, haftete, hat gehaftet",
+  "zh": "承担责任；粘附",
+  "ex": [
+   "Der Geschäftsführer haftet persönlich für Schäden, die er vorsätzlich oder grob fahrlässig verursacht hat."
+  ],
+  "ex_zh": "总经理对其故意或重大过失造成的损失承担个人责任。",
+  "gov": "haften für + Akk.",
+  "use": {
+   "col": [
+    [
+     "für Schäden haften",
+     "对损失负责"
+    ],
+    [
+     "persönlich haften",
+     "承担个人责任"
+    ]
+   ],
+   "tip": "+ für + Akk.；名词 die Haftung；GmbH = 有限责任（beschränkte Haftung）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich verpflichten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verpflichtet",
+  "forms": "verpflichtet sich, verpflichtete sich, hat sich verpflichtet",
+  "zh": "承诺；有义务",
+  "ex": [
+   "Der Auftragnehmer verpflichtet sich, die Daten vertraulich zu behandeln."
+  ],
+  "ex_zh": "承包方承诺对数据保密。",
+  "gov": "sich verpflichten zu + Dat.",
+  "use": {
+   "col": [
+    [
+     "sich vertraglich verpflichten",
+     "合同约定承担义务"
+    ],
+    [
+     "zu etwas verpflichtet sein",
+     "有义务做某事"
+    ]
+   ],
+   "tip": "也有及物用法 jemanden verpflichten = 使某人负有义务；名词 die Verpflichtung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "berechtigen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "berechtigt",
+  "forms": "berechtigt, berechtigte, hat berechtigt",
+  "zh": "使有权；授权",
+  "ex": [
+   "Dieses Ticket berechtigt zum Eintritt in alle Messehallen."
+  ],
+  "ex_zh": "这张票可以进入所有展厅。",
+  "gov": "berechtigen zu + Dat.",
+  "use": {
+   "col": [
+    [
+     "zu etwas berechtigen",
+     "赋予……的权利"
+    ],
+    [
+     "berechtigt sein",
+     "有资格；有权"
+    ]
+   ],
+   "tip": "名词 die Berechtigung；形容词 berechtigt = 正当的；反义 unberechtigt"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "investieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "investiert",
+  "forms": "investiert, investierte, hat investiert",
+  "zh": "投资；投入",
+  "ex": [
+   "Die Firma investiert viel Geld in neue Maschinen."
+  ],
+  "ex_zh": "公司投入大量资金购买新机器。",
+  "gov": "investieren in + Akk.",
+  "use": {
+   "col": [
+    [
+     "in etwas investieren",
+     "投资于某事"
+    ],
+    [
+     "Zeit in etwas investieren",
+     "在某事上投入时间"
+    ]
+   ],
+   "tip": "名词 die Investition、der Investor；+ in + Akk."
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "expandieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "expandiert",
+  "forms": "expandiert, expandierte, hat expandiert",
+  "zh": "扩张；扩大",
+  "ex": [
+   "Das Start-up expandiert jetzt auch nach Asien."
+  ],
+  "ex_zh": "这家初创公司现在也向亚洲扩张。",
+  "use": {
+   "col": [
+    [
+     "ins Ausland expandieren",
+     "向国外扩张"
+    ],
+    [
+     "schnell expandieren",
+     "快速扩张"
+    ]
+   ],
+   "tip": "名词 die Expansion；形容词 expansiv"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "schrumpfen",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "geschrumpft",
+  "forms": "schrumpft, schrumpfte, ist geschrumpft",
+  "zh": "缩小；萎缩",
+  "ex": [
+   "Der Markt für Printmedien schrumpft seit Jahren."
+  ],
+  "ex_zh": "纸媒市场多年来一直在萎缩。",
+  "use": {
+   "col": [
+    [
+     "die Belegschaft schrumpft",
+     "员工人数减少"
+    ],
+    [
+     "ein schrumpfender Markt",
+     "萎缩的市场"
+    ]
+   ],
+   "tip": "助动词 sein；反义 wachsen；名词 die Schrumpfung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "stagnieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "stagniert",
+  "forms": "stagniert, stagnierte, hat stagniert",
+  "zh": "停滞",
+  "ex": [
+   "Die Umsätze des Unternehmens stagnieren seit zwei Jahren, obwohl der Markt insgesamt wächst."
+  ],
+  "ex_zh": "尽管市场整体在增长，这家公司的销售额两年来却停滞不前。",
+  "use": {
+   "col": [
+    [
+     "die Wirtschaft stagniert",
+     "经济停滞"
+    ],
+    [
+     "stagnierende Löhne",
+     "停滞的工资"
+    ]
+   ],
+   "tip": "名词 die Stagnation；经济报道用语"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "fusionieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "fusioniert",
+  "forms": "fusioniert, fusionierte, hat fusioniert",
+  "zh": "合并",
+  "ex": [
+   "Die beiden Banken fusionieren im nächsten Jahr."
+  ],
+  "ex_zh": "这两家银行明年合并。",
+  "use": {
+   "col": [
+    [
+     "mit einem Konkurrenten fusionieren",
+     "和竞争对手合并"
+    ],
+    [
+     "zwei Unternehmen fusionieren",
+     "两家公司合并"
+    ]
+   ],
+   "tip": "名词 die Fusion；也可及物：Firmen fusionieren"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "durchführen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "durchgeführt",
+  "forms": "führt durch, führte durch, hat durchgeführt",
+  "zh": "实施；执行；进行",
+  "ex": [
+   "Wir führen nächste Woche eine Mitarbeiterbefragung durch."
+  ],
+  "ex_zh": "我们下周进行一次员工调查。",
+  "use": {
+   "col": [
+    [
+     "eine Umfrage durchführen",
+     "进行调查"
+    ],
+    [
+     "Tests durchführen",
+     "进行测试"
+    ]
+   ],
+   "tip": "名词 die Durchführung；比 machen 书面得多"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "beschleunigen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "beschleunigt",
+  "forms": "beschleunigt, beschleunigte, hat beschleunigt",
+  "zh": "加快；加速",
+  "ex": [
+   "Mit neuer Software lässt sich die Bearbeitung beschleunigen."
+  ],
+  "ex_zh": "用新软件可以加快处理速度。",
+  "use": {
+   "col": [
+    [
+     "den Prozess beschleunigen",
+     "加快进程"
+    ],
+    [
+     "ein Verfahren beschleunigen",
+     "加快手续"
+    ]
+   ],
+   "tip": "名词 die Beschleunigung；反义 verlangsamen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "qualifiziert",
+  "pos": "adj",
+  "zh": "合格的；有资质的",
+  "ex": [
+   "Wir suchen qualifizierte Fachkräfte für unser Team."
+  ],
+  "ex_zh": "我们为团队寻找有资质的专业人才。",
+  "gov": "qualifiziert für + Akk.",
+  "use": {
+   "col": [
+    [
+     "gut qualifiziert",
+     "资质良好"
+    ],
+    [
+     "für eine Stelle qualifiziert sein",
+     "具备某岗位的资格"
+    ]
+   ],
+   "tip": "动词 sich qualifizieren；名词 die Qualifikation"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "kompetent",
+  "pos": "adj",
+  "zh": "有能力的；内行的",
+  "ex": [
+   "Der Kundenservice war sehr freundlich und kompetent."
+  ],
+  "ex_zh": "客服非常友好又专业。",
+  "use": {
+   "col": [
+    [
+     "eine kompetente Beratung",
+     "专业的咨询"
+    ],
+    [
+     "fachlich kompetent",
+     "业务能力强"
+    ]
+   ],
+   "tip": "名词 die Kompetenz；反义 inkompetent"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "kollegial",
+  "pos": "adj",
+  "zh": "同事间友好的",
+  "ex": [
+   "Das Team ist sehr kollegial und hilfsbereit."
+  ],
+  "ex_zh": "这个团队同事之间很友好，也乐于互助。",
+  "use": {
+   "col": [
+    [
+     "ein kollegiales Verhältnis",
+     "融洽的同事关系"
+    ],
+    [
+     "kollegial zusammenarbeiten",
+     "友好地合作"
+    ]
+   ],
+   "tip": "名词 die Kollegialität；强调互相支持、不拆台"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "termingerecht",
+  "pos": "adj",
+  "zh": "按期的",
+  "ex": [
+   "Wir bestätigen, dass die Lieferung wie vereinbart termingerecht bei Ihnen eintreffen wird."
+  ],
+  "ex_zh": "我们确认，货物将按约定如期送达您处。",
+  "use": {
+   "col": [
+    [
+     "termingerecht liefern",
+     "按期交货"
+    ],
+    [
+     "eine termingerechte Abgabe",
+     "按期提交"
+    ]
+   ],
+   "tip": "同义 fristgerecht、pünktlich；adj./adv. 都可"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "fristgerecht",
+  "pos": "adj",
+  "zh": "在期限内的",
+  "ex": [
+   "Bitte reichen Sie die Unterlagen fristgerecht ein."
+  ],
+  "ex_zh": "请在期限内提交材料。",
+  "use": {
+   "col": [
+    [
+     "fristgerecht kündigen",
+     "在期限内解约"
+    ],
+    [
+     "fristgerecht bezahlen",
+     "按期付款"
+    ]
+   ],
+   "tip": "与 fristlos（立即解约）相对；Frist = 期限"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "fristlos",
+  "pos": "adj",
+  "zh": "立即生效的（不提前通知）",
+  "ex": [
+   "Wegen schwerer Verstöße wurde ihm fristlos gekündigt."
+  ],
+  "ex_zh": "因为严重违规，他被立即解雇。",
+  "use": {
+   "col": [
+    [
+     "fristlos kündigen",
+     "无通知期解约"
+    ],
+    [
+     "die fristlose Kündigung",
+     "即时解雇"
+    ]
+   ],
+   "tip": "必须有重大理由；对应 fristgerecht"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "befristet",
+  "pos": "adj",
+  "zh": "有期限的；定期的",
+  "ex": [
+   "Mein Arbeitsvertrag ist auf zwei Jahre befristet."
+  ],
+  "ex_zh": "我的劳动合同期限为两年。",
+  "use": {
+   "col": [
+    [
+     "ein befristeter Vertrag",
+     "定期合同"
+    ],
+    [
+     "befristet angestellt sein",
+     "被定期聘用"
+    ]
+   ],
+   "tip": "反义词 unbefristet；动词 befristen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "unbefristet",
+  "pos": "adj",
+  "zh": "无期限的",
+  "ex": [
+   "Nach der Probezeit bekam ich einen unbefristeten Vertrag."
+  ],
+  "ex_zh": "试用期后我得到了无固定期限的合同。",
+  "use": {
+   "col": [
+    [
+     "unbefristet beschäftigt sein",
+     "无固定期限地受雇"
+    ],
+    [
+     "ein unbefristetes Arbeitsverhältnis",
+     "无固定期限的雇佣关系"
+    ]
+   ],
+   "tip": "反义词 befristet；相当于“长期合同”"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "hauptberuflich",
+  "pos": "adj",
+  "zh": "以……为主业",
+  "ex": [
+   "Sie arbeitet hauptberuflich als Übersetzerin und unterrichtet nebenbei an der Volkshochschule."
+  ],
+  "ex_zh": "她的主业是翻译，同时在成人学校兼课。",
+  "use": {
+   "col": [
+    [
+     "hauptberuflich tätig sein",
+     "以此为主业"
+    ],
+    [
+     "hauptberuflich und nebenberuflich",
+     "主业与兼职"
+    ]
+   ],
+   "tip": "反义词 nebenberuflich；adj./adv. 都可"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "nebenberuflich",
+  "pos": "adj",
+  "zh": "业余的；兼职的",
+  "ex": [
+   "Er studiert und arbeitet nebenberuflich als Programmierer."
+  ],
+  "ex_zh": "他一边读书，一边兼职做程序员。",
+  "use": {
+   "col": [
+    [
+     "nebenberuflich arbeiten",
+     "兼职工作"
+    ],
+    [
+     "eine nebenberufliche Tätigkeit",
+     "兼职工作"
+    ]
+   ],
+   "tip": "名词 die Nebentätigkeit；常需要告知雇主"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "ehrenamtlich",
+  "pos": "adj",
+  "zh": "义务的；志愿的",
+  "ex": [
+   "Sie engagiert sich ehrenamtlich in der Flüchtlingshilfe."
+  ],
+  "ex_zh": "她志愿参与难民援助。",
+  "use": {
+   "col": [
+    [
+     "ehrenamtlich arbeiten",
+     "做义工"
+    ],
+    [
+     "ein ehrenamtlicher Helfer",
+     "志愿者"
+    ]
+   ],
+   "tip": "名词 das Ehrenamt；不拿报酬的社会职务"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "betrieblich",
+  "pos": "adj",
+  "zh": "企业的；公司内部的",
+  "ex": [
+   "Viele Firmen bieten ihren Angestellten eine betriebliche Altersvorsorge an."
+  ],
+  "ex_zh": "许多公司为员工提供企业养老金。",
+  "use": {
+   "col": [
+    [
+     "die betriebliche Altersvorsorge",
+     "企业养老金"
+    ],
+    [
+     "aus betrieblichen Gründen",
+     "出于企业方面的原因"
+    ]
+   ],
+   "tip": "名词 der Betrieb；与 beruflich 区分：beruflich 指职业，betrieblich 指企业"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verbindlich",
+  "pos": "adj",
+  "zh": "有约束力的；确定的",
+  "ex": [
+   "Bitte geben Sie uns bis Freitag eine verbindliche Antwort."
+  ],
+  "ex_zh": "请在周五前给我们一个确切的答复。",
+  "use": {
+   "col": [
+    [
+     "eine verbindliche Zusage",
+     "确定的答应"
+    ],
+    [
+     "verbindlich buchen",
+     "具约束力地预订"
+    ]
+   ],
+   "tip": "反义 unverbindlich；名词 die Verbindlichkeit（也指债务）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "unverbindlich",
+  "pos": "adj",
+  "zh": "无约束的；不具约束力的",
+  "ex": [
+   "Wir senden Ihnen gern ein unverbindliches Angebot."
+  ],
+  "ex_zh": "我们乐意给您寄一份不具约束力的报价。",
+  "use": {
+   "col": [
+    [
+     "ein unverbindliches Angebot",
+     "无约束力的报价"
+    ],
+    [
+     "unverbindlich anfragen",
+     "不作承诺地咨询"
+    ]
+   ],
+   "tip": "反义 verbindlich；也形容人含糊其辞"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "überflüssig",
+  "pos": "adj",
+  "zh": "多余的；不必要的",
+  "ex": [
+   "Dieses wöchentliche Meeting ist völlig überflüssig, weil sich dort nie etwas Neues ergibt."
+  ],
+  "ex_zh": "这个每周例会完全没必要，因为从来没有什么新内容。",
+  "use": {
+   "col": [
+    [
+     "überflüssig sein",
+     "多余"
+    ],
+    [
+     "überflüssige Arbeit",
+     "多余的工作"
+    ]
+   ],
+   "tip": "同义 unnötig；更书面"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "effizient",
+  "pos": "adj",
+  "zh": "高效的",
+  "ex": [
+   "Mit dieser Methode arbeiten wir wesentlich effizienter."
+  ],
+  "ex_zh": "用这种方法，我们的工作效率高多了。",
+  "use": {
+   "col": [
+    [
+     "effizient arbeiten",
+     "高效工作"
+    ],
+    [
+     "Ressourcen effizient nutzen",
+     "有效利用资源"
+    ]
+   ],
+   "tip": "名词 die Effizienz；effektiv 强调有效，effizient 强调省资源"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "leistungsfähig",
+  "pos": "adj",
+  "zh": "能力强的；性能好的",
+  "ex": [
+   "Der neue Laptop ist deutlich leistungsfähiger als der alte."
+  ],
+  "ex_zh": "新笔记本电脑比旧的性能强多了。",
+  "use": {
+   "col": [
+    [
+     "ein leistungsfähiges System",
+     "性能强大的系统"
+    ],
+    [
+     "leistungsfähige Mitarbeiter",
+     "能干的员工"
+    ]
+   ],
+   "tip": "名词 die Leistungsfähigkeit；可用于人和机器"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "motiviert",
+  "pos": "adj",
+  "zh": "有积极性的",
+  "ex": [
+   "Das Team ist hochmotiviert, weil die Geschäftsleitung die Ideen der Mitarbeiter ernst nimmt."
+  ],
+  "ex_zh": "团队干劲十足，因为管理层认真对待员工的想法。",
+  "use": {
+   "col": [
+    [
+     "hoch motiviert",
+     "干劲十足"
+    ],
+    [
+     "motiviert sein",
+     "有动力"
+    ]
+   ],
+   "tip": "动词 motivieren；名词 die Motivation"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "engagiert",
+  "pos": "adj",
+  "zh": "积极投入的",
+  "ex": [
+   "Er ist ein sehr engagierter Kollege, der auch nach Feierabend noch Fragen beantwortet."
+  ],
+  "ex_zh": "他是一位非常投入的同事，下班后还会回答问题。",
+  "use": {
+   "col": [
+    [
+     "sich engagiert einsetzen",
+     "积极投入"
+    ],
+    [
+     "ein engagierter Mitarbeiter",
+     "积极的员工"
+    ]
+   ],
+   "tip": "读 [ãgaˈʒiːɐt]；动词 sich engagieren"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "ehrgeizig",
+  "pos": "adj",
+  "zh": "有野心的；雄心勃勃的",
+  "ex": [
+   "Er ist ehrgeizig und will in fünf Jahren Abteilungsleiter werden."
+  ],
+  "ex_zh": "他很有野心，想在五年内当上部门主管。",
+  "use": {
+   "col": [
+    [
+     "ehrgeizige Ziele",
+     "雄心勃勃的目标"
+    ],
+    [
+     "ehrgeizig sein",
+     "有上进心"
+    ]
+   ],
+   "tip": "名词 der Ehrgeiz；比 ambitioniert 更口语"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "wirtschaftlich",
+  "pos": "adj",
+  "zh": "经济上的；节省的",
+  "ex": [
+   "Das Projekt ist wirtschaftlich nicht sinnvoll, weil die Kosten den erwarteten Nutzen übersteigen."
+  ],
+  "ex_zh": "这个项目在经济上不合理，因为成本超过了预期收益。",
+  "use": {
+   "col": [
+    [
+     "wirtschaftlich denken",
+     "从经济角度思考"
+    ],
+    [
+     "wirtschaftlich arbeiten",
+     "节约地工作"
+    ]
+   ],
+   "tip": "名词 die Wirtschaft；也指“划算、节省”"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "abwechslungsreich",
+  "pos": "adj",
+  "zh": "丰富多样的",
+  "ex": [
+   "Mein Job ist abwechslungsreich und nie langweilig."
+  ],
+  "ex_zh": "我的工作丰富多样，从不无聊。",
+  "use": {
+   "col": [
+    [
+     "eine abwechslungsreiche Tätigkeit",
+     "多样的工作"
+    ],
+    [
+     "abwechslungsreich gestalten",
+     "使多样化"
+    ]
+   ],
+   "tip": "招聘广告常用；名词 die Abwechslung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "anspruchsvoll",
+  "pos": "adj",
+  "zh": "要求很高的；有挑战的",
+  "ex": [
+   "Die Stelle ist anspruchsvoll, aber sehr spannend."
+  ],
+  "ex_zh": "这个岗位要求高，但非常有意思。",
+  "use": {
+   "col": [
+    [
+     "eine anspruchsvolle Aufgabe",
+     "有难度的任务"
+    ],
+    [
+     "anspruchsvolle Kunden",
+     "挑剔的客户"
+    ]
+   ],
+   "tip": "也指人“要求高、挑剔”"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verantwortungsvoll",
+  "pos": "adj",
+  "zh": "责任重大的；负责任的",
+  "ex": [
+   "Sie hat eine verantwortungsvolle Position in der Firma."
+  ],
+  "ex_zh": "她在公司里有一个责任重大的职位。",
+  "use": {
+   "col": [
+    [
+     "eine verantwortungsvolle Aufgabe",
+     "责任重大的工作"
+    ],
+    [
+     "verantwortungsvoll handeln",
+     "负责任地行事"
+    ]
+   ],
+   "tip": "同族词 Verantwortung、verantwortlich"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "vorübergehend",
+  "pos": "adj",
+  "zh": "暂时的",
+  "ex": [
+   "Der Standort bleibt wegen Renovierungsarbeiten vorübergehend geschlossen, die Kunden werden per E-Mail informiert."
+  ],
+  "ex_zh": "由于装修，这个门店暂时关闭，客户会收到邮件通知。",
+  "use": {
+   "col": [
+    [
+     "vorübergehend geschlossen",
+     "暂时关闭"
+    ],
+    [
+     "eine vorübergehende Lösung",
+     "临时方案"
+    ]
+   ],
+   "tip": "同义 zeitweise、temporär；adj./adv. 都可"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "dauerhaft",
+  "pos": "adj",
+  "zh": "长期的；持久的",
+  "ex": [
+   "Wir suchen eine dauerhafte Lösung für das Problem."
+  ],
+  "ex_zh": "我们要为这个问题找到长久的解决办法。",
+  "use": {
+   "col": [
+    [
+     "dauerhaft beschäftigt sein",
+     "长期受雇"
+    ],
+    [
+     "dauerhaft sparen",
+     "长期节省"
+    ]
+   ],
+   "tip": "反义 vorübergehend；名词 die Dauer"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "anhaltend",
+  "pos": "adj",
+  "zh": "持续的",
+  "ex": [
+   "Der anhaltende Fachkräftemangel bereitet der Wirtschaft Sorgen."
+  ],
+  "ex_zh": "持续的专业人才短缺令经济界担忧。",
+  "use": {
+   "col": [
+    [
+     "anhaltende Probleme",
+     "持续的问题"
+    ],
+    [
+     "anhaltend hohe Preise",
+     "持续的高价"
+    ]
+   ],
+   "tip": "现在分词作形容词；动词 anhalten"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "maßgeblich",
+  "pos": "adj",
+  "zh": "决定性的；重要的",
+  "ex": [
+   "Er war maßgeblich an der Entwicklung des Produkts beteiligt."
+  ],
+  "ex_zh": "他对这款产品的开发起了关键作用。",
+  "gov": "maßgeblich an + Dat. beteiligt",
+  "use": {
+   "col": [
+    [
+     "maßgeblich beteiligt sein",
+     "起了决定性作用"
+    ],
+    [
+     "maßgebliche Faktoren",
+     "关键因素"
+    ]
+   ],
+   "tip": "书面常用；adj./adv. 都可"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "wesentlich",
+  "pos": "adj",
+  "zh": "本质的；重要的；明显地",
+  "ex": [
+   "Die Kosten sind wesentlich höher als erwartet."
+  ],
+  "ex_zh": "成本比预期高得多。",
+  "use": {
+   "col": [
+    [
+     "im Wesentlichen",
+     "基本上"
+    ],
+    [
+     "eine wesentliche Rolle spielen",
+     "起重要作用"
+    ]
+   ],
+   "tip": "名词 das Wesen；wesentlich + 比较级 = 高/低得多"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "erheblich",
+  "pos": "adj",
+  "zh": "相当大的；显著的",
+  "ex": [
+   "Das Projekt hat inzwischen erhebliche Verspätung, weil mehrere Teilaufgaben zu spät fertig wurden."
+  ],
+  "ex_zh": "由于好几项子任务延迟完成，这个项目现在已严重延期。",
+  "use": {
+   "col": [
+    [
+     "erhebliche Kosten",
+     "相当大的费用"
+    ],
+    [
+     "sich erheblich verbessern",
+     "显著改善"
+    ]
+   ],
+   "tip": "偏书面；adj./adv. 都可"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "vorrangig",
+  "pos": "adj",
+  "zh": "优先的",
+  "ex": [
+   "Bei der Planung sind die Sicherheitsfragen vorrangig zu behandeln, alles andere kann später folgen."
+  ],
+  "ex_zh": "规划时安全问题要优先处理，其他的可以以后再说。",
+  "use": {
+   "col": [
+    [
+     "vorrangig behandeln",
+     "优先处理"
+    ],
+    [
+     "eine vorrangige Aufgabe",
+     "首要任务"
+    ]
+   ],
+   "tip": "名词 der Vorrang；adj./adv. 都可"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "zeitnah",
+  "pos": "adj",
+  "zh": "及时的；尽快的",
+  "ex": [
+   "Wir bearbeiten Ihre Anfrage zeitnah und melden uns innerhalb der nächsten Tage bei Ihnen."
+  ],
+  "ex_zh": "我们会尽快处理您的咨询，并在这几天内与您联系。",
+  "use": {
+   "col": [
+    [
+     "zeitnah antworten",
+     "尽快答复"
+    ],
+    [
+     "eine zeitnahe Lösung",
+     "及时的解决办法"
+    ]
+   ],
+   "tip": "商务用语；没有精确时间，大致是“不久后”"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "zunehmend",
+  "pos": "adv",
+  "zh": "日益；越来越",
+  "ex": [
+   "Die Arbeitswelt wird zunehmend digitaler und schneller."
+  ],
+  "ex_zh": "工作世界日益数字化、节奏越来越快。",
+  "use": {
+   "col": [
+    [
+     "zunehmend wichtiger",
+     "越来越重要"
+    ],
+    [
+     "zunehmend schwieriger",
+     "越来越难"
+    ]
+   ],
+   "tip": "现在分词；adj./adv. 都可；动词 zunehmen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "nachträglich",
+  "pos": "adj",
+  "zh": "事后的；追加的",
+  "ex": [
+   "Ich möchte nachträglich noch eine Frage zur Rechnung stellen."
+  ],
+  "ex_zh": "我想事后再问一个关于发票的问题。",
+  "use": {
+   "col": [
+    [
+     "nachträglich ändern",
+     "事后更改"
+    ],
+    [
+     "eine nachträgliche Genehmigung",
+     "事后批准"
+    ]
+   ],
+   "tip": "adj./adv. 都可；常指事后补做"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "gegebenenfalls",
+  "pos": "adv",
+  "zh": "必要时；如有需要",
+  "ex": [
+   "Bitte prüfen Sie die Unterlagen und ergänzen Sie sie gegebenenfalls bis zum Ende der Woche."
+  ],
+  "ex_zh": "请检查材料，必要时在本周末前补充。",
+  "use": {
+   "col": [
+    [
+     "gegebenenfalls anpassen",
+     "必要时调整"
+    ],
+    [
+     "gegebenenfalls kontaktieren",
+     "必要时联系"
+    ]
+   ],
+   "tip": "缩写 ggf.；书面常用"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "diesbezüglich",
+  "pos": "adj",
+  "zh": "这方面的；有关此事的",
+  "ex": [
+   "Bei diesbezüglichen Fragen wenden Sie sich bitte an die Personalabteilung."
+  ],
+  "ex_zh": "有关此事的问题请联系人事部。",
+  "use": {
+   "col": [
+    [
+     "diesbezügliche Anfragen",
+     "这方面的咨询"
+    ],
+    [
+     "diesbezüglich informieren",
+     "就此告知"
+    ]
+   ],
+   "tip": "adj./adv. 都可；公文用语，口语少用"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Fluktuation",
+  "art": "die",
+  "pl_full": "die Fluktuationen",
+  "pos": "n",
+  "zh": "人员流动；流失",
+  "ex": [
+   "Die hohe Fluktuation in der Abteilung kostet das Unternehmen viel Geld."
+  ],
+  "ex_zh": "该部门的高人员流失率使公司损失了很多钱。",
+  "use": {
+   "col": [
+    [
+     "die Fluktuation der Mitarbeiter",
+     "员工流动"
+    ],
+    [
+     "die Fluktuationsrate senken",
+     "降低流失率"
+    ]
+   ],
+   "tip": "人事术语；Personalfluktuation 即员工流失；动词 fluktuieren"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Wertschöpfung",
+  "art": "die",
+  "pl_full": "die Wertschöpfungen",
+  "pos": "n",
+  "zh": "增值；价值创造",
+  "ex": [
+   "Ein großer Teil der Wertschöpfung findet im Ausland statt."
+  ],
+  "ex_zh": "大部分增值是在国外完成的。",
+  "use": {
+   "col": [
+    [
+     "die Wertschöpfungskette",
+     "价值链"
+    ],
+    [
+     "zur Wertschöpfung beitragen",
+     "为价值创造作贡献"
+    ]
+   ],
+   "tip": "经济术语；Wertschöpfungskette 在新闻里很常见"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Wettbewerbsfähigkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "竞争力",
+  "ex": [
+   "Hohe Energiepreise gefährden die Wettbewerbsfähigkeit der Industrie."
+  ],
+  "ex_zh": "高昂的能源价格威胁着工业的竞争力。",
+  "use": {
+   "col": [
+    [
+     "die Wettbewerbsfähigkeit stärken",
+     "增强竞争力"
+    ],
+    [
+     "die internationale Wettbewerbsfähigkeit",
+     "国际竞争力"
+    ]
+   ],
+   "tip": "形容词 wettbewerbsfähig；经济新闻高频词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Unternehmenskultur",
+  "art": "die",
+  "pl_full": "die Unternehmenskulturen",
+  "pos": "n",
+  "zh": "企业文化",
+  "ex": [
+   "Die Unternehmenskultur prägt den Umgang der Mitarbeiter miteinander."
+  ],
+  "ex_zh": "企业文化影响着员工之间的相处方式。",
+  "use": {
+   "col": [
+    [
+     "eine offene Unternehmenskultur",
+     "开放的企业文化"
+    ],
+    [
+     "die Unternehmenskultur verändern",
+     "改变企业文化"
+    ]
+   ],
+   "tip": "同义 Firmenkultur；面试时可以说 Wir legen Wert auf…"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Führungsstil",
+  "art": "der",
+  "pl_full": "die Führungsstile",
+  "pos": "n",
+  "zh": "领导风格",
+  "ex": [
+   "Ihr kooperativer Führungsstil kommt bei den Mitarbeitern gut an."
+  ],
+  "ex_zh": "她合作型的领导风格很受员工欢迎。",
+  "use": {
+   "col": [
+    [
+     "ein autoritärer Führungsstil",
+     "专制的领导风格"
+    ],
+    [
+     "einen Führungsstil pflegen",
+     "保持某种领导风格"
+    ]
+   ],
+   "tip": "常见对比：autoritär – kooperativ – partizipativ"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Weisungsbefugnis",
+  "art": "die",
+  "pl_full": "die Weisungsbefugnisse",
+  "pos": "n",
+  "zh": "指令权",
+  "ex": [
+   "Der Teamleiter hat keine Weisungsbefugnis gegenüber der Personalabteilung."
+  ],
+  "ex_zh": "团队负责人对人事部没有指令权。",
+  "use": {
+   "col": [
+    [
+     "Weisungsbefugnis haben",
+     "有指令权"
+    ],
+    [
+     "die Weisungsbefugnis überschreiten",
+     "越权发号施令"
+    ]
+   ],
+   "tip": "来自 Weisung = 指示；形容词 weisungsberechtigt、weisungsgebunden"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Erwerbstätigkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "就业；有收入的工作",
+  "ex": [
+   "Nach der Elternzeit nahm sie ihre Erwerbstätigkeit in Teilzeit wieder auf."
+  ],
+  "ex_zh": "育儿假结束后，她又开始了兼职工作。",
+  "use": {
+   "col": [
+    [
+     "eine Erwerbstätigkeit aufnehmen",
+     "开始工作"
+    ],
+    [
+     "die Erwerbstätigkeit der Frauen",
+     "女性就业"
+    ]
+   ],
+   "tip": "统计、法律用语；形容词 erwerbstätig，名词 der Erwerbstätige"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Vereinbarkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "兼顾；可协调性",
+  "ex": [
+   "Viele junge Eltern wünschen sich eine bessere Vereinbarkeit von Beruf und Familie."
+  ],
+  "ex_zh": "许多年轻父母希望更好地兼顾事业和家庭。",
+  "use": {
+   "col": [
+    [
+     "die Vereinbarkeit von Beruf und Familie",
+     "工作与家庭的兼顾"
+    ],
+    [
+     "die Vereinbarkeit prüfen",
+     "检验是否相容"
+    ]
+   ],
+   "tip": "固定搭配 Vereinbarkeit von Beruf und Familie；来自 vereinbar"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Anforderungsprofil",
+  "art": "das",
+  "pl_full": "die Anforderungsprofile",
+  "pos": "n",
+  "zh": "岗位要求（概况）",
+  "ex": [
+   "Mein Lebenslauf passt gut zum Anforderungsprofil der Stelle."
+  ],
+  "ex_zh": "我的简历和该岗位的要求很匹配。",
+  "use": {
+   "col": [
+    [
+     "dem Anforderungsprofil entsprechen",
+     "符合岗位要求"
+    ],
+    [
+     "ein Anforderungsprofil erstellen",
+     "制定岗位要求"
+    ]
+   ],
+   "tip": "招聘广告中的 Ihr Profil；与 Stellenbeschreibung 相互补充"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Personalentwicklung",
+  "art": "die",
+  "pos": "n",
+  "zh": "人才培养；人事发展",
+  "ex": [
+   "Die Personalentwicklung bietet regelmäßig interne Seminare an."
+  ],
+  "ex_zh": "人才培养部门定期提供内部研讨课。",
+  "use": {
+   "col": [
+    [
+     "in der Personalentwicklung arbeiten",
+     "在人才培养部门工作"
+    ],
+    [
+     "gezielte Personalentwicklung",
+     "有针对性的人才发展"
+    ]
+   ],
+   "tip": "人事部的分支；类似 Weiterbildung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Personalbedarf",
+  "art": "der",
+  "pos": "n",
+  "zh": "用人需求",
+  "ex": [
+   "Der Personalbedarf im Bereich Softwareentwicklung wird jedes Jahr im Herbst neu geplant."
+  ],
+  "ex_zh": "软件开发方面的用人需求每年秋天重新规划。",
+  "use": {
+   "col": [
+    [
+     "den Personalbedarf decken",
+     "满足用人需求"
+    ],
+    [
+     "der Personalbedarf steigt",
+     "用人需求增加"
+    ]
+   ],
+   "tip": "没有复数；动词 benötigen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Leiharbeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "劳务派遣",
+  "ex": [
+   "Immer mehr Betriebe setzen auf Leiharbeit statt auf feste Stellen."
+  ],
+  "ex_zh": "越来越多的企业使用劳务派遣而不是固定岗位。",
+  "use": {
+   "col": [
+    [
+     "in der Leiharbeit tätig sein",
+     "从事劳务派遣"
+    ],
+    [
+     "die Leiharbeiter",
+     "派遣工"
+    ]
+   ],
+   "tip": "也叫 Zeitarbeit；人员由 Zeitarbeitsfirma 雇用并派到其他公司"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Werkvertrag",
+  "art": "der",
+  "pl_full": "die Werkverträge",
+  "pos": "n",
+  "zh": "承揽合同",
+  "ex": [
+   "Für das Projekt wurde ein Werkvertrag mit einem externen Dienstleister geschlossen."
+  ],
+  "ex_zh": "为这个项目与外部服务商签订了承揽合同。",
+  "use": {
+   "col": [
+    [
+     "einen Werkvertrag abschließen",
+     "签订承揽合同"
+    ],
+    [
+     "Werkvertrag und Dienstvertrag",
+     "承揽合同与服务合同"
+    ]
+   ],
+   "tip": "以“成果”为准，而 Dienstvertrag 以“服务”为准；自由职业者常用"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Scheinselbstständigkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "假自雇",
+  "ex": [
+   "Bei Scheinselbstständigkeit drohen dem Auftraggeber hohe Nachzahlungen."
+  ],
+  "ex_zh": "若属于假自雇，委托方面临高额补缴。",
+  "use": {
+   "col": [
+    [
+     "Scheinselbstständigkeit vermeiden",
+     "避免假自雇"
+    ],
+    [
+     "der Verdacht auf Scheinselbstständigkeit",
+     "假自雇的嫌疑"
+    ]
+   ],
+   "tip": "实际上依赖单一客户、受指令约束的“自由职业”；自由职业者需注意"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Vergütung",
+  "art": "die",
+  "pl_full": "die Vergütungen",
+  "pos": "n",
+  "zh": "报酬；薪酬",
+  "ex": [
+   "Die Vergütung richtet sich nach Qualifikation und Berufserfahrung."
+  ],
+  "ex_zh": "报酬取决于资质和工作经验。",
+  "use": {
+   "col": [
+    [
+     "eine angemessene Vergütung",
+     "合理的报酬"
+    ],
+    [
+     "die Vergütung aushandeln",
+     "谈报酬"
+    ]
+   ],
+   "tip": "动词 vergüten；比 Gehalt 更书面、涵盖奖金等"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Entgelt",
+  "art": "das",
+  "pl_full": "die Entgelte",
+  "pos": "n",
+  "zh": "报酬；工资（法律用语）",
+  "ex": [
+   "Das Entgelt wird jeweils zum Monatsende überwiesen."
+  ],
+  "ex_zh": "报酬在每月底转账。",
+  "use": {
+   "col": [
+    [
+     "das Entgelt zahlen",
+     "支付报酬"
+    ],
+    [
+     "tarifliches Entgelt",
+     "集体合同工资"
+    ]
+   ],
+   "tip": "法律、合同里的“工资”说法；Entgeltfortzahlung = 工资续付"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Lohnnebenkosten (Pl.)",
+  "art": "die",
+  "pos": "n",
+  "zh": "工资附加成本",
+  "ex": [
+   "Die hohen Lohnnebenkosten belasten vor allem kleine Betriebe."
+  ],
+  "ex_zh": "高额的工资附加成本主要拖累小企业。",
+  "use": {
+   "col": [
+    [
+     "die Lohnnebenkosten senken",
+     "降低工资附加成本"
+    ],
+    [
+     "steigende Lohnnebenkosten",
+     "不断上涨的附加成本"
+    ]
+   ],
+   "tip": "社保等雇主费用；通常用复数 (Pl.)"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Lohnfortzahlung",
+  "art": "die",
+  "pos": "n",
+  "zh": "工资续付",
+  "ex": [
+   "Im Krankheitsfall besteht Anspruch auf Lohnfortzahlung für sechs Wochen."
+  ],
+  "ex_zh": "生病时有权获得六周的工资续付。",
+  "use": {
+   "col": [
+    [
+     "Lohnfortzahlung im Krankheitsfall",
+     "病假期间工资续付"
+    ],
+    [
+     "Anspruch auf Lohnfortzahlung",
+     "有权获得工资续付"
+    ]
+   ],
+   "tip": "之后由健康保险付 Krankengeld；法律概念"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Arbeitskampf",
+  "art": "der",
+  "pl_full": "die Arbeitskämpfe",
+  "pos": "n",
+  "zh": "劳资斗争；罢工",
+  "ex": [
+   "Die Verhandlungen scheiterten, und ein Arbeitskampf schien unvermeidlich."
+  ],
+  "ex_zh": "谈判破裂，劳资斗争似乎不可避免。",
+  "use": {
+   "col": [
+    [
+     "einen Arbeitskampf führen",
+     "发起劳资斗争"
+    ],
+    [
+     "der Arbeitskampf endet",
+     "劳资斗争结束"
+    ]
+   ],
+   "tip": "涵盖 Streik（工人）和 Aussperrung（雇主）；更正式"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Warnstreik",
+  "art": "der",
+  "pl_full": "die Warnstreiks",
+  "pos": "n",
+  "zh": "警告性罢工",
+  "ex": [
+   "Die Gewerkschaft rief zu einem Warnstreik im öffentlichen Dienst auf."
+  ],
+  "ex_zh": "工会呼吁公共服务部门举行警告性罢工。",
+  "use": {
+   "col": [
+    [
+     "zum Warnstreik aufrufen",
+     "号召警告性罢工"
+    ],
+    [
+     "Warnstreiks legen den Verkehr lahm",
+     "警告性罢工使交通瘫痪"
+    ]
+   ],
+   "tip": "集体谈判期间的短暂罢工；新闻常见"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Schlichtung",
+  "art": "die",
+  "pl_full": "die Schlichtungen",
+  "pos": "n",
+  "zh": "调解；仲裁",
+  "ex": [
+   "Beide Seiten stimmten einer Schlichtung durch einen neutralen Dritten zu."
+  ],
+  "ex_zh": "双方同意由中立第三方来调解。",
+  "use": {
+   "col": [
+    [
+     "eine Schlichtung anstreben",
+     "争取调解"
+    ],
+    [
+     "das Schlichtungsverfahren",
+     "调解程序"
+    ]
+   ],
+   "tip": "动词 schlichten；Schlichter = 调解人"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Diskriminierung",
+  "art": "die",
+  "pl_full": "die Diskriminierungen",
+  "pos": "n",
+  "zh": "歧视",
+  "ex": [
+   "Das Gesetz schützt Beschäftigte vor Diskriminierung am Arbeitsplatz."
+  ],
+  "ex_zh": "法律保护员工免受职场歧视。",
+  "use": {
+   "col": [
+    [
+     "Diskriminierung am Arbeitsplatz",
+     "职场歧视"
+    ],
+    [
+     "gegen Diskriminierung vorgehen",
+     "打击歧视"
+    ]
+   ],
+   "tip": "动词 diskriminieren；AGG = 一般平等待遇法"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Gleichstellung",
+  "art": "die",
+  "pos": "n",
+  "zh": "平等；同等对待",
+  "ex": [
+   "Die Gleichstellung von Frauen und Männern im Beruf ist noch nicht erreicht."
+  ],
+  "ex_zh": "职场上男女平等尚未实现。",
+  "use": {
+   "col": [
+    [
+     "die Gleichstellung der Geschlechter",
+     "性别平等"
+    ],
+    [
+     "die Gleichstellungsbeauftragte",
+     "平等事务专员"
+    ]
+   ],
+   "tip": "德国企业、大学里常有 Gleichstellungsbeauftragte"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Gehaltsgefälle",
+  "art": "das",
+  "pl_full": "die Gehaltsgefälle",
+  "pos": "n",
+  "zh": "工资差距",
+  "ex": [
+   "Das Gehaltsgefälle zwischen Ost und West besteht bis heute."
+  ],
+  "ex_zh": "东西部之间的工资差距至今仍存在。",
+  "use": {
+   "col": [
+    [
+     "das Gehaltsgefälle zwischen den Geschlechtern",
+     "性别工资差距"
+    ],
+    [
+     "ein deutliches Gehaltsgefälle",
+     "明显的工资差距"
+    ]
+   ],
+   "tip": "同义 Gender-Pay-Gap（外来词）；Gefälle = 落差"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Mobbing",
+  "art": "das",
+  "pos": "n",
+  "zh": "职场霸凌",
+  "ex": [
+   "Wer unter Mobbing leidet, sollte sich an den Betriebsrat wenden."
+  ],
+  "ex_zh": "遭受职场霸凌的人应该找职工代表会。",
+  "use": {
+   "col": [
+    [
+     "Mobbing am Arbeitsplatz",
+     "职场霸凌"
+    ],
+    [
+     "von Mobbing betroffen sein",
+     "遭受霸凌"
+    ]
+   ],
+   "tip": "动词 mobben；施害者 der Mobber；英语借词，已经成为德语词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Überlastung",
+  "art": "die",
+  "pl_full": "die Überlastungen",
+  "pos": "n",
+  "zh": "负荷过重；超负荷",
+  "ex": [
+   "Wegen Überlastung hat sie sich eine Auszeit genommen."
+  ],
+  "ex_zh": "由于工作负荷过重，她请了一段时间休息。",
+  "use": {
+   "col": [
+    [
+     "Überlastung anzeigen",
+     "提出超负荷"
+    ],
+    [
+     "chronische Überlastung",
+     "长期超负荷"
+    ]
+   ],
+   "tip": "动词 überlasten；Überlastungsanzeige = 超负荷通知（医护常见）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Erschöpfung",
+  "art": "die",
+  "pos": "n",
+  "zh": "疲惫；筋疲力尽",
+  "ex": [
+   "Die ständige Erschöpfung deutete auf ein Burn-out hin."
+  ],
+  "ex_zh": "持续的疲惫显示出倦怠症的迹象。",
+  "use": {
+   "col": [
+    [
+     "völlige Erschöpfung",
+     "精疲力竭"
+    ],
+    [
+     "vor Erschöpfung zusammenbrechen",
+     "因疲惫而倒下"
+    ]
+   ],
+   "tip": "动词 erschöpfen；形容词 erschöpft；Burn-out 的症状"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Fehlzeit",
+  "art": "die",
+  "pl_full": "die Fehlzeiten",
+  "pos": "n",
+  "zh": "缺勤时间",
+  "ex": [
+   "Die Fehlzeiten sind in der Pandemie deutlich gestiegen."
+  ],
+  "ex_zh": "疫情期间缺勤情况明显增加。",
+  "use": {
+   "col": [
+    [
+     "hohe Fehlzeiten",
+     "高缺勤率"
+    ],
+    [
+     "Fehlzeiten erfassen",
+     "记录缺勤"
+    ]
+   ],
+   "tip": "多用复数；Krankenstand = 病假率"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Altersteilzeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "老年兼职（提前退休模式）",
+  "ex": [
+   "Mein Vater geht nächstes Jahr in Altersteilzeit."
+  ],
+  "ex_zh": "我父亲明年进入老年兼职模式。",
+  "use": {
+   "col": [
+    [
+     "in Altersteilzeit gehen",
+     "进入老年兼职"
+    ],
+    [
+     "die Altersteilzeit beantragen",
+     "申请老年兼职"
+    ]
+   ],
+   "tip": "临近退休的员工减少工作，雇主补薪；常以“Blockmodell”进行"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Betriebsrente",
+  "art": "die",
+  "pl_full": "die Betriebsrenten",
+  "pos": "n",
+  "zh": "企业养老金",
+  "ex": [
+   "Neben der gesetzlichen Rente erhält er eine kleine Betriebsrente."
+  ],
+  "ex_zh": "除了法定养老金，他还有一小笔企业养老金。",
+  "use": {
+   "col": [
+    [
+     "eine Betriebsrente beziehen",
+     "领取企业养老金"
+    ],
+    [
+     "in die Betriebsrente einzahlen",
+     "缴入企业养老金"
+    ]
+   ],
+   "tip": "又叫 betriebliche Altersvorsorge；三支柱之一"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Nachfolger",
+  "art": "der",
+  "pl_full": "die Nachfolger",
+  "pos": "n",
+  "zh": "继任者",
+  "ex": [
+   "Die Firma sucht noch einen geeigneten Nachfolger für den Gründer."
+  ],
+  "ex_zh": "公司还在为创始人寻找合适的继任者。",
+  "use": {
+   "col": [
+    [
+     "einen Nachfolger finden",
+     "找到继任者"
+    ],
+    [
+     "die Nachfolgeregelung",
+     "接班安排"
+    ]
+   ],
+   "tip": "女性 die Nachfolgerin；动词 nachfolgen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Stellenbesetzung",
+  "art": "die",
+  "pl_full": "die Stellenbesetzungen",
+  "pos": "n",
+  "zh": "岗位补缺；人员配备",
+  "ex": [
+   "Die Stellenbesetzung zieht sich oft über mehrere Monate hin."
+  ],
+  "ex_zh": "岗位补缺常常拖上几个月。",
+  "use": {
+   "col": [
+    [
+     "die Stellenbesetzung verzögert sich",
+     "岗位补缺被拖延"
+    ],
+    [
+     "bei der Stellenbesetzung",
+     "在岗位补缺时"
+    ]
+   ],
+   "tip": "动词 besetzen（Stelle besetzen）；Vakanz = 空缺"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Auswahlverfahren",
+  "art": "das",
+  "pl_full": "die Auswahlverfahren",
+  "pos": "n",
+  "zh": "遴选程序",
+  "ex": [
+   "Im Auswahlverfahren setzte sie sich gegen zwanzig Mitbewerber durch."
+  ],
+  "ex_zh": "在遴选程序中，她胜过了二十位竞争者。",
+  "use": {
+   "col": [
+    [
+     "ein mehrstufiges Auswahlverfahren",
+     "多轮遴选程序"
+    ],
+    [
+     "das Auswahlverfahren durchlaufen",
+     "经历遴选程序"
+    ]
+   ],
+   "tip": "德国的公务员、大企业常有多轮 Auswahlverfahren"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Verschwiegenheit",
+  "art": "die",
+  "pos": "n",
+  "zh": "保密；守口如瓶",
+  "ex": [
+   "Alle Mitarbeiter sind vertraglich zur Verschwiegenheit über interne Angelegenheiten des Unternehmens verpflichtet."
+  ],
+  "ex_zh": "所有员工在合同上都有义务对公司内部事务保密。",
+  "use": {
+   "col": [
+    [
+     "Verschwiegenheit wahren",
+     "保守秘密"
+    ],
+    [
+     "zur Verschwiegenheit verpflichtet sein",
+     "有保密义务"
+    ]
+   ],
+   "tip": "形容词 verschwiegen；Schweigepflicht 近义"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Geheimhaltung",
+  "art": "die",
+  "pos": "n",
+  "zh": "保密；机密",
+  "ex": [
+   "Über die Details wurde strikte Geheimhaltung vereinbart."
+  ],
+  "ex_zh": "关于细节，双方约定严格保密。",
+  "use": {
+   "col": [
+    [
+     "die Geheimhaltung wahren",
+     "保守机密"
+    ],
+    [
+     "unter strengster Geheimhaltung",
+     "在最严格的保密下"
+    ]
+   ],
+   "tip": "商业秘密 Geschäftsgeheimnis；Geheimhaltungsvereinbarung = NDA"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Wettbewerbsverbot",
+  "art": "das",
+  "pl_full": "die Wettbewerbsverbote",
+  "pos": "n",
+  "zh": "竞业禁止",
+  "ex": [
+   "Nach dem Ausscheiden gilt für zwei Jahre ein Wettbewerbsverbot."
+  ],
+  "ex_zh": "离职后两年内有竞业禁止的规定。",
+  "use": {
+   "col": [
+    [
+     "ein Wettbewerbsverbot vereinbaren",
+     "约定竞业禁止"
+    ],
+    [
+     "gegen das Wettbewerbsverbot verstoßen",
+     "违反竞业禁止"
+    ]
+   ],
+   "tip": "离职后需要补偿（Karenzentschädigung）；条款见劳动合同"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Interessenkonflikt",
+  "art": "der",
+  "pl_full": "die Interessenkonflikte",
+  "pos": "n",
+  "zh": "利益冲突",
+  "ex": [
+   "Um Interessenkonflikte zu vermeiden, darf er nicht an der Entscheidung mitwirken."
+  ],
+  "ex_zh": "为了避免利益冲突，他不得参与这项决定。",
+  "use": {
+   "col": [
+    [
+     "in einen Interessenkonflikt geraten",
+     "陷入利益冲突"
+    ],
+    [
+     "Interessenkonflikte offenlegen",
+     "披露利益冲突"
+    ]
+   ],
+   "tip": "合规 (Compliance) 常用词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Sorgfaltspflicht",
+  "art": "die",
+  "pl_full": "die Sorgfaltspflichten",
+  "pos": "n",
+  "zh": "注意义务",
+  "ex": [
+   "Der Geschäftsführer hat seine Sorgfaltspflicht verletzt, weil er die Risiken nicht ausreichend geprüft hat."
+  ],
+  "ex_zh": "总经理没有充分评估风险，违反了注意义务。",
+  "use": {
+   "col": [
+    [
+     "die Sorgfaltspflicht verletzen",
+     "违反注意义务"
+    ],
+    [
+     "der Sorgfaltspflicht nachkommen",
+     "履行注意义务"
+    ]
+   ],
+   "tip": "Sorgfalt + Pflicht；Treuepflicht、Fürsorgepflicht 是另两类义务"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Fürsorgepflicht",
+  "art": "die",
+  "pos": "n",
+  "zh": "照顾义务；保护义务",
+  "ex": [
+   "Der Arbeitgeber hat eine Fürsorgepflicht gegenüber seinen Beschäftigten."
+  ],
+  "ex_zh": "雇主对其雇员负有照顾义务。",
+  "use": {
+   "col": [
+    [
+     "die Fürsorgepflicht verletzen",
+     "违反照顾义务"
+    ],
+    [
+     "der Fürsorgepflicht nachkommen",
+     "履行照顾义务"
+    ]
+   ],
+   "tip": "雇主义务之一；与 Treuepflicht（员工的忠诚义务）对称"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Gewährleistung",
+  "art": "die",
+  "pos": "n",
+  "zh": "保修；质保义务",
+  "ex": [
+   "Die Gewährleistung für das Gerät beträgt zwei Jahre."
+  ],
+  "ex_zh": "这台设备的法定保修期为两年。",
+  "use": {
+   "col": [
+    [
+     "Gewährleistung übernehmen",
+     "承担保修"
+    ],
+    [
+     "Ansprüche aus der Gewährleistung",
+     "基于保修的权利"
+    ]
+   ],
+   "tip": "法定的 Gewährleistung 与自愿的 Garantie 不同；动词 gewährleisten"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Vertragsstrafe",
+  "art": "die",
+  "pl_full": "die Vertragsstrafen",
+  "pos": "n",
+  "zh": "违约金",
+  "ex": [
+   "Bei einem Lieferverzug von mehr als zwei Wochen wird eine Vertragsstrafe fällig."
+  ],
+  "ex_zh": "如果交货延误超过两周，就要支付违约金。",
+  "use": {
+   "col": [
+    [
+     "eine Vertragsstrafe vereinbaren",
+     "约定违约金"
+    ],
+    [
+     "eine Vertragsstrafe zahlen",
+     "支付违约金"
+    ]
+   ],
+   "tip": "同义 Konventionalstrafe；Strafe = 惩罚"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Aufhebungsvertrag",
+  "art": "der",
+  "pl_full": "die Aufhebungsverträge",
+  "pos": "n",
+  "zh": "解除协议；协商解约",
+  "ex": [
+   "Er hat einen Aufhebungsvertrag mit Abfindung unterschrieben."
+  ],
+  "ex_zh": "他签了一份带补偿金的解约协议。",
+  "use": {
+   "col": [
+    [
+     "einen Aufhebungsvertrag unterschreiben",
+     "签解约协议"
+    ],
+    [
+     "einen Aufhebungsvertrag anbieten",
+     "提出协商解约"
+    ]
+   ],
+   "tip": "双方同意终止合同；可能影响失业金（Sperrzeit）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Rahmenvertrag",
+  "art": "der",
+  "pl_full": "die Rahmenverträge",
+  "pos": "n",
+  "zh": "框架合同",
+  "ex": [
+   "Mit dem Lieferanten besteht ein Rahmenvertrag über drei Jahre."
+  ],
+  "ex_zh": "与这个供货商有一份为期三年的框架合同。",
+  "use": {
+   "col": [
+    [
+     "einen Rahmenvertrag abschließen",
+     "签订框架合同"
+    ],
+    [
+     "im Rahmen des Rahmenvertrags",
+     "在框架合同范围内"
+    ]
+   ],
+   "tip": "约定总体条件，具体订单另签；Rahmen = 框架"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Absichtserklärung",
+  "art": "die",
+  "pl_full": "die Absichtserklärungen",
+  "pos": "n",
+  "zh": "意向声明；意向书",
+  "ex": [
+   "Die beiden Firmen unterzeichneten eine Absichtserklärung zur Zusammenarbeit."
+  ],
+  "ex_zh": "两家公司签署了合作意向书。",
+  "use": {
+   "col": [
+    [
+     "eine Absichtserklärung abgeben",
+     "发表意向声明"
+    ],
+    [
+     "eine gemeinsame Absichtserklärung",
+     "联合意向声明"
+    ]
+   ],
+   "tip": "英语 letter of intent；不具有严格约束力"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Verhandlungsposition",
+  "art": "die",
+  "pl_full": "die Verhandlungspositionen",
+  "pos": "n",
+  "zh": "谈判立场；谈判地位",
+  "ex": [
+   "Mit einem zweiten Angebot in der Tasche war meine Verhandlungsposition stärker."
+  ],
+  "ex_zh": "手里有第二份录用，我的谈判地位更强。",
+  "use": {
+   "col": [
+    [
+     "eine starke Verhandlungsposition",
+     "强势的谈判地位"
+    ],
+    [
+     "die Verhandlungsposition schwächen",
+     "削弱谈判地位"
+    ]
+   ],
+   "tip": "薪资谈判时的重点；同族词 Verhandlungsspielraum"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Verhandlungsgeschick",
+  "art": "das",
+  "pos": "n",
+  "zh": "谈判技巧",
+  "ex": [
+   "Dank ihres Verhandlungsgeschicks konnte sie den Preis um zehn Prozent drücken."
+  ],
+  "ex_zh": "凭借她的谈判技巧，价格被压低了百分之十。",
+  "use": {
+   "col": [
+    [
+     "Verhandlungsgeschick beweisen",
+     "展现谈判技巧"
+    ],
+    [
+     "viel Verhandlungsgeschick brauchen",
+     "需要很高的谈判技巧"
+    ]
+   ],
+   "tip": "没有复数；同类词 Durchsetzungsvermögen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Kompromissbereitschaft",
+  "art": "die",
+  "pos": "n",
+  "zh": "妥协的意愿",
+  "ex": [
+   "Ohne Kompromissbereitschaft auf beiden Seiten wird es keine Einigung geben."
+  ],
+  "ex_zh": "如果双方都没有妥协的意愿，就谈不成。",
+  "use": {
+   "col": [
+    [
+     "Kompromissbereitschaft zeigen",
+     "表示愿意妥协"
+    ],
+    [
+     "mangelnde Kompromissbereitschaft",
+     "缺乏妥协意愿"
+    ]
+   ],
+   "tip": "形容词 kompromissbereit；Kompromiss + Bereitschaft"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Durchsetzungsvermögen",
+  "art": "das",
+  "pos": "n",
+  "zh": "说服力；执行力；魄力",
+  "ex": [
+   "Für die Leitung des internationalen Teams braucht man viel Durchsetzungsvermögen und diplomatisches Geschick."
+  ],
+  "ex_zh": "领导国际团队需要很强的魄力和外交手腕。",
+  "use": {
+   "col": [
+    [
+     "Durchsetzungsvermögen zeigen",
+     "展现魄力"
+    ],
+    [
+     "mangelndes Durchsetzungsvermögen",
+     "缺乏魄力"
+    ]
+   ],
+   "tip": "招聘素质词；形容词 durchsetzungsstark"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Eigeninitiative",
+  "art": "die",
+  "pos": "n",
+  "zh": "主动性",
+  "ex": [
+   "Wir erwarten von Ihnen Eigeninitiative und Teamfähigkeit."
+  ],
+  "ex_zh": "我们期待您有主动性和团队合作能力。",
+  "use": {
+   "col": [
+    [
+     "Eigeninitiative zeigen",
+     "表现出主动性"
+    ],
+    [
+     "aus Eigeninitiative",
+     "出于自发"
+    ]
+   ],
+   "tip": "没有复数；Initiative 另有“倡议”义"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Eigenverantwortung",
+  "art": "die",
+  "pos": "n",
+  "zh": "自主负责；自担责任",
+  "ex": [
+   "Unser Team arbeitet in hoher Eigenverantwortung und entscheidet viele fachliche Fragen selbst."
+  ],
+  "ex_zh": "我们的团队高度自主负责，很多专业问题自己决定。",
+  "use": {
+   "col": [
+    [
+     "in Eigenverantwortung handeln",
+     "自己负责地行事"
+    ],
+    [
+     "die Eigenverantwortung stärken",
+     "增强自主责任"
+    ]
+   ],
+   "tip": "形容词 eigenverantwortlich；招聘广告里常见"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Priorisierung",
+  "art": "die",
+  "pl_full": "die Priorisierungen",
+  "pos": "n",
+  "zh": "确定优先级",
+  "ex": [
+   "Bei knappen Ressourcen ist eine klare Priorisierung der Aufgaben nötig."
+  ],
+  "ex_zh": "资源紧张时，需要明确的任务优先级。",
+  "use": {
+   "col": [
+    [
+     "die Priorisierung von Aufgaben",
+     "任务的优先级排序"
+    ],
+    [
+     "eine Priorisierung vornehmen",
+     "进行优先级排序"
+    ]
+   ],
+   "tip": "动词 priorisieren；IT/项目管理常见"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Reibungsverlust",
+  "art": "der",
+  "pl_full": "die Reibungsverluste",
+  "pos": "n",
+  "zh": "摩擦损耗；内耗",
+  "ex": [
+   "Unklare Zuständigkeiten zwischen den Abteilungen führen immer wieder zu unnötigen Reibungsverlusten."
+  ],
+  "ex_zh": "各部门之间职责不清，一再造成不必要的内耗。",
+  "use": {
+   "col": [
+    [
+     "Reibungsverluste vermeiden",
+     "避免内耗"
+    ],
+    [
+     "Reibungsverluste verursachen",
+     "造成内耗"
+    ]
+   ],
+   "tip": "原指物理摩擦损失，管理里比喻部门内耗；常用复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Synergie",
+  "art": "die",
+  "pl_full": "die Synergien",
+  "pos": "n",
+  "zh": "协同效应",
+  "ex": [
+   "Von der Fusion erhofft man sich erhebliche Synergien."
+  ],
+  "ex_zh": "人们期望这次合并带来可观的协同效应。",
+  "use": {
+   "col": [
+    [
+     "Synergien nutzen",
+     "利用协同效应"
+    ],
+    [
+     "Synergieeffekte erzielen",
+     "取得协同效应"
+    ]
+   ],
+   "tip": "也说 Synergieeffekt；形容词 synergetisch"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Kostensenkung",
+  "art": "die",
+  "pl_full": "die Kostensenkungen",
+  "pos": "n",
+  "zh": "降低成本",
+  "ex": [
+   "Die Kostensenkung hat für die Geschäftsleitung im kommenden Geschäftsjahr oberste Priorität."
+  ],
+  "ex_zh": "在下一个财年，降低成本是管理层的头等大事。",
+  "use": {
+   "col": [
+    [
+     "Maßnahmen zur Kostensenkung",
+     "降低成本的措施"
+    ],
+    [
+     "eine Kostensenkung erreichen",
+     "实现降低成本"
+    ]
+   ],
+   "tip": "同义 Kosteneinsparung；反义 Kostensteigerung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Auslagerung",
+  "art": "die",
+  "pl_full": "die Auslagerungen",
+  "pos": "n",
+  "zh": "外包；迁出",
+  "ex": [
+   "Die Auslagerung der IT-Abteilung spart Kosten, kostet aber Know-how."
+  ],
+  "ex_zh": "IT 部门外包能节省成本，却会损失专业知识。",
+  "use": {
+   "col": [
+    [
+     "die Auslagerung von Dienstleistungen",
+     "服务外包"
+    ],
+    [
+     "Auslagerung ins Ausland",
+     "外包到国外"
+    ]
+   ],
+   "tip": "动词 auslagern；英语 outsourcing 的德语说法"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Wissenstransfer",
+  "art": "der",
+  "pos": "n",
+  "zh": "知识转移",
+  "ex": [
+   "Beim Ausscheiden erfahrener Kollegen ist der Wissenstransfer entscheidend."
+  ],
+  "ex_zh": "经验丰富的同事离职时，知识转移至关重要。",
+  "use": {
+   "col": [
+    [
+     "den Wissenstransfer sichern",
+     "确保知识转移"
+    ],
+    [
+     "Wissenstransfer zwischen Hochschule und Wirtschaft",
+     "高校与企业间的知识转移"
+    ]
+   ],
+   "tip": "也用于大学与产业合作；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Qualitätssicherung",
+  "art": "die",
+  "pos": "n",
+  "zh": "质量保证",
+  "ex": [
+   "Die Qualitätssicherung prüft jedes Produkt vor der Auslieferung."
+  ],
+  "ex_zh": "质量保证部门在出货前检验每件产品。",
+  "use": {
+   "col": [
+    [
+     "in der Qualitätssicherung arbeiten",
+     "在质量保证部门工作"
+    ],
+    [
+     "Maßnahmen zur Qualitätssicherung",
+     "质量保证措施"
+    ]
+   ],
+   "tip": "缩写 QS 或 QA（英语）；软件测试也属于这一块"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Nachhaltigkeitsbericht",
+  "art": "der",
+  "pl_full": "die Nachhaltigkeitsberichte",
+  "pos": "n",
+  "zh": "可持续发展报告",
+  "ex": [
+   "Große Konzerne müssen künftig jedes Jahr einen ausführlichen Nachhaltigkeitsbericht veröffentlichen."
+  ],
+  "ex_zh": "大型集团今后必须每年发布详细的可持续发展报告。",
+  "use": {
+   "col": [
+    [
+     "einen Nachhaltigkeitsbericht erstellen",
+     "编制可持续发展报告"
+    ],
+    [
+     "im Nachhaltigkeitsbericht",
+     "在可持续发展报告中"
+    ]
+   ],
+   "tip": "ESG 相关；欧盟规则（CSRD）要求披露"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich etablieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "etabliert",
+  "forms": "etabliert sich, etablierte sich, hat sich etabliert",
+  "zh": "站稳脚跟；确立地位",
+  "ex": [
+   "Das Start-up hat sich innerhalb von drei Jahren auf dem Markt etabliert."
+  ],
+  "ex_zh": "这家初创公司三年内就在市场上站稳了脚跟。",
+  "use": {
+   "col": [
+    [
+     "sich als Marke etablieren",
+     "确立品牌地位"
+    ],
+    [
+     "ein etabliertes Unternehmen",
+     "成熟的企业"
+    ]
+   ],
+   "tip": "名词 die Etablierung；形容词 etabliert"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "auslagern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ausgelagert",
+  "forms": "lagert aus, lagerte aus, hat ausgelagert",
+  "zh": "外包；迁出",
+  "ex": [
+   "Die Firma hat den Kundenservice an einen Dienstleister ausgelagert."
+  ],
+  "ex_zh": "公司把客户服务外包给了一家服务商。",
+  "use": {
+   "col": [
+    [
+     "Aufgaben auslagern",
+     "外包任务"
+    ],
+    [
+     "Daten in die Cloud auslagern",
+     "把数据迁到云端"
+    ]
+   ],
+   "tip": "名词 die Auslagerung；IT 里也指“把数据移走”"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "einsparen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingespart",
+  "forms": "spart ein, sparte ein, hat eingespart",
+  "zh": "节省；削减",
+  "ex": [
+   "Durch die Umstellung konnten wir jährlich 50 000 Euro einsparen."
+  ],
+  "ex_zh": "通过转换，我们每年能节省五万欧元。",
+  "use": {
+   "col": [
+    [
+     "Kosten einsparen",
+     "节约成本"
+    ],
+    [
+     "Stellen einsparen",
+     "削减岗位"
+    ]
+   ],
+   "tip": "名词 die Einsparung；比 sparen 更强调“削减”"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "rationalisieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "rationalisiert",
+  "forms": "rationalisiert, rationalisierte, hat rationalisiert",
+  "zh": "合理化；提高效率",
+  "ex": [
+   "Der Betrieb rationalisiert die Produktion, um Kosten zu senken."
+  ],
+  "ex_zh": "企业使生产合理化以降低成本。",
+  "use": {
+   "col": [
+    [
+     "die Produktion rationalisieren",
+     "使生产合理化"
+    ],
+    [
+     "Arbeitsabläufe rationalisieren",
+     "精简工作流程"
+    ]
+   ],
+   "tip": "名词 die Rationalisierung；常伴随裁员"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "aufstocken",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "aufgestockt",
+  "forms": "stockt auf, stockte auf, hat aufgestockt",
+  "zh": "增加；增补",
+  "ex": [
+   "Wir wollen das Team um zwei Entwickler aufstocken."
+  ],
+  "ex_zh": "我们想给团队增加两名开发人员。",
+  "use": {
+   "col": [
+    [
+     "das Personal aufstocken",
+     "增加人员"
+    ],
+    [
+     "die Stunden aufstocken",
+     "增加工时"
+    ]
+   ],
+   "tip": "名词 die Aufstockung；反义 abbauen、kürzen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "abbauen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgebaut",
+  "forms": "baut ab, baute ab, hat abgebaut",
+  "zh": "削减；拆除；消除",
+  "ex": [
+   "Der Konzern will bis 2028 tausend Stellen abbauen."
+  ],
+  "ex_zh": "集团打算到 2028 年削减一千个岗位。",
+  "use": {
+   "senses": [
+    "削减；裁减",
+    "拆除；消除"
+   ],
+   "col": [
+    [
+     "Stellen abbauen",
+     "削减岗位"
+    ],
+    [
+     "Vorurteile abbauen",
+     "消除偏见"
+    ]
+   ],
+   "tip": "名词 der Abbau；反义 aufbauen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "kürzen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gekürzt",
+  "forms": "kürzt, kürzte, hat gekürzt",
+  "zh": "削减；缩短",
+  "ex": [
+   "Die Regierung hat die Mittel für die Forschung gekürzt."
+  ],
+  "ex_zh": "政府削减了科研经费。",
+  "use": {
+   "col": [
+    [
+     "das Budget kürzen",
+     "削减预算"
+    ],
+    [
+     "einen Text kürzen",
+     "缩减文章"
+    ]
+   ],
+   "tip": "名词 die Kürzung；形容词 kurz"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "anheben",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "angehoben",
+  "forms": "hebt an, hob an, hat angehoben",
+  "zh": "提高；上调",
+  "ex": [
+   "Der gesetzliche Mindestlohn wird zum Jahreswechsel erneut angehoben, das hat die Kommission beschlossen."
+  ],
+  "ex_zh": "委员会决定，法定最低工资在年初再次上调。",
+  "use": {
+   "col": [
+    [
+     "die Löhne anheben",
+     "提高工资"
+    ],
+    [
+     "das Rentenalter anheben",
+     "提高退休年龄"
+    ]
+   ],
+   "tip": "名词 die Anhebung；不规则变化"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "beanstanden",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "beanstandet",
+  "forms": "beanstandet, beanstandete, hat beanstandet",
+  "zh": "提出异议；投诉",
+  "ex": [
+   "Der Kunde beanstandete bei der Abnahme mehrere Mängel an der gelieferten Maschine."
+  ],
+  "ex_zh": "客户在验收时对所交付机器的几处缺陷提出了异议。",
+  "use": {
+   "col": [
+    [
+     "einen Mangel beanstanden",
+     "对缺陷提出异议"
+    ],
+    [
+     "Rechnung beanstanden",
+     "对账单提出异议"
+    ]
+   ],
+   "tip": "名词 die Beanstandung；比 reklamieren 更正式"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "rügen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gerügt",
+  "forms": "rügt, rügte, hat gerügt",
+  "zh": "批评；训斥",
+  "ex": [
+   "Der Vorgesetzte rügte ihn wegen seiner Nachlässigkeit."
+  ],
+  "ex_zh": "上司因为他的马虎而批评了他。",
+  "use": {
+   "col": [
+    [
+     "jemanden öffentlich rügen",
+     "公开批评某人"
+    ],
+    [
+     "einen Missstand rügen",
+     "指责弊端"
+    ]
+   ],
+   "tip": "名词 die Rüge；书面语，比 kritisieren 更严厉"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ausgliedern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ausgegliedert",
+  "forms": "gliedert aus, gliederte aus, hat ausgegliedert",
+  "zh": "分离出去；剥离",
+  "ex": [
+   "Das Unternehmen gliedert die IT-Abteilung in eine eigene Gesellschaft aus."
+  ],
+  "ex_zh": "公司把 IT 部门剥离成一家独立的公司。",
+  "use": {
+   "col": [
+    [
+     "einen Geschäftsbereich ausgliedern",
+     "剥离业务板块"
+    ],
+    [
+     "aus der Firma ausgliedern",
+     "从公司中剥离"
+    ]
+   ],
+   "tip": "名词 die Ausgliederung；反义 eingliedern"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "eingliedern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingegliedert",
+  "forms": "gliedert ein, gliederte ein, hat eingegliedert",
+  "zh": "纳入；使融入",
+  "ex": [
+   "Neue Mitarbeiter werden schrittweise ins Team eingegliedert."
+  ],
+  "ex_zh": "新员工逐步融入团队。",
+  "use": {
+   "col": [
+    [
+     "in den Arbeitsmarkt eingliedern",
+     "纳入劳动市场"
+    ],
+    [
+     "sich eingliedern",
+     "融入"
+    ]
+   ],
+   "tip": "名词 die Eingliederung；Wiedereingliederung = 重返"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "einbinden",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingebunden",
+  "forms": "bindet ein, band ein, hat eingebunden",
+  "zh": "纳入；使参与",
+  "ex": [
+   "Wir möchten alle Beteiligten frühzeitig in die Entscheidung einbinden."
+  ],
+  "ex_zh": "我们希望尽早让所有相关方参与决策。",
+  "gov": "einbinden in + Akk.",
+  "use": {
+   "col": [
+    [
+     "Mitarbeiter einbinden",
+     "让员工参与"
+    ],
+    [
+     "in ein Projekt eingebunden sein",
+     "参与项目"
+    ]
+   ],
+   "tip": "名词 die Einbindung；IT 里也指“嵌入（库、插件）”"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "hinzuziehen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "hinzugezogen",
+  "forms": "zieht hinzu, zog hinzu, hat hinzugezogen",
+  "zh": "请来（咨询）；邀请参加",
+  "ex": [
+   "Bei technischen Fragen sollte man einen Experten hinzuziehen."
+  ],
+  "ex_zh": "遇到技术问题，应当请一位专家来参与。",
+  "use": {
+   "col": [
+    [
+     "einen Sachverständigen hinzuziehen",
+     "请鉴定专家"
+    ],
+    [
+     "externe Berater hinzuziehen",
+     "请外部顾问"
+    ]
+   ],
+   "tip": "书面语；名词 die Hinzuziehung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "konsultieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "konsultiert",
+  "forms": "konsultiert, konsultierte, hat konsultiert",
+  "zh": "咨询；求教",
+  "ex": [
+   "Vor der Entscheidung sollten wir einen Anwalt konsultieren."
+  ],
+  "ex_zh": "做决定之前，我们应该咨询律师。",
+  "use": {
+   "col": [
+    [
+     "einen Experten konsultieren",
+     "请教专家"
+    ],
+    [
+     "den Arzt konsultieren",
+     "就医"
+    ]
+   ],
+   "tip": "名词 die Konsultation；比 fragen 正式"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "bevollmächtigen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bevollmächtigt",
+  "forms": "bevollmächtigt, bevollmächtigte, hat bevollmächtigt",
+  "zh": "授权",
+  "ex": [
+   "Der Geschäftsführer hat seinen Stellvertreter schriftlich bevollmächtigt."
+  ],
+  "ex_zh": "总经理书面授权了他的代理人。",
+  "gov": "bevollmächtigen zu + Dat.",
+  "use": {
+   "col": [
+    [
+     "jemanden bevollmächtigen",
+     "授权某人"
+    ],
+    [
+     "bevollmächtigt sein",
+     "获得授权"
+    ]
+   ],
+   "tip": "名词 die Vollmacht、der Bevollmächtigte；+ zu + Dat."
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "abordnen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgeordnet",
+  "forms": "ordnet ab, ordnete ab, hat abgeordnet",
+  "zh": "派遣；借调",
+  "ex": [
+   "Sie wurde für ein halbes Jahr an das Ministerium abgeordnet."
+  ],
+  "ex_zh": "她被借调到部委半年。",
+  "use": {
+   "col": [
+    [
+     "jemanden abordnen",
+     "派遣某人"
+    ],
+    [
+     "abgeordnet werden",
+     "被借调"
+    ]
+   ],
+   "tip": "名词 die Abordnung；der Abgeordnete = 议员（同词根）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "entsenden",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "entsandt",
+  "forms": "entsendet, entsandte, hat entsandt",
+  "zh": "派遣",
+  "ex": [
+   "Die Firma entsendet Mitarbeiter für zwei Jahre ins Ausland."
+  ],
+  "ex_zh": "公司派员工到国外工作两年。",
+  "use": {
+   "col": [
+    [
+     "Mitarbeiter ins Ausland entsenden",
+     "派员工出国"
+    ],
+    [
+     "entsandte Arbeitnehmer",
+     "外派员工"
+    ]
+   ],
+   "tip": "不规则：entsandte/entsandt（也有规则变化 entsendete）；名词 die Entsendung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "innehaben",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "innegehabt",
+  "forms": "hat inne, hatte inne, hat innegehabt",
+  "zh": "担任；占有（职位）",
+  "ex": [
+   "Sie hat seit zehn Jahren die Leitung der Abteilung inne."
+  ],
+  "ex_zh": "她已担任部门领导十年了。",
+  "use": {
+   "col": [
+    [
+     "eine Position innehaben",
+     "担任某职位"
+    ],
+    [
+     "ein Amt innehaben",
+     "任职"
+    ]
+   ],
+   "tip": "可分动词，p2 写作 innegehabt；书面语"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "bekleiden",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bekleidet",
+  "forms": "bekleidet, bekleidete, hat bekleidet",
+  "zh": "担任（职务）",
+  "ex": [
+   "Er bekleidet seit drei Jahren das Amt des Finanzvorstands in dem Konzern."
+  ],
+  "ex_zh": "他三年来一直在这家集团担任财务董事。",
+  "use": {
+   "col": [
+    [
+     "ein Amt bekleiden",
+     "担任职务"
+    ],
+    [
+     "eine hohe Position bekleiden",
+     "身居高位"
+    ]
+   ],
+   "tip": "书面语；另有“给……穿衣”的旧义"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ausüben",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ausgeübt",
+  "forms": "übt aus, übte aus, hat ausgeübt",
+  "zh": "从事；行使；施加",
+  "ex": [
+   "Er übt den Beruf des Architekten seit 20 Jahren aus."
+  ],
+  "ex_zh": "他从事建筑师这一职业已有二十年。",
+  "use": {
+   "senses": [
+    "从事（职业、活动）",
+    "行使（权利）；施加（压力）"
+   ],
+   "col": [
+    [
+     "einen Beruf ausüben",
+     "从事职业"
+    ],
+    [
+     "Druck auf jemanden ausüben",
+     "向某人施压"
+    ]
+   ],
+   "tip": "名词 die Ausübung；可分动词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ablösen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgelöst",
+  "forms": "löst ab, löste ab, hat abgelöst",
+  "zh": "接替；替换；取代",
+  "ex": [
+   "Im Sommer wird sie ihren Vorgänger als Geschäftsführerin ablösen."
+  ],
+  "ex_zh": "夏天她将接替前任成为总经理。",
+  "use": {
+   "senses": [
+    "接替；替换",
+    "揭下；摆脱",
+    "提前还清"
+   ],
+   "col": [
+    [
+     "jemanden im Amt ablösen",
+     "接替某人的职务"
+    ],
+    [
+     "die Schicht ablösen",
+     "接班"
+    ]
+   ],
+   "tip": "名词 die Ablösung；也指“揭下、还清贷款”"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "nachrücken",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "nachgerückt",
+  "forms": "rückt nach, rückte nach, ist nachgerückt",
+  "zh": "递补；晋升顶替",
+  "ex": [
+   "Als er ausschied, rückte sein Stellvertreter nach."
+  ],
+  "ex_zh": "他离开后，他的副手递补上来。",
+  "use": {
+   "col": [
+    [
+     "auf eine Stelle nachrücken",
+     "递补到某岗位"
+    ],
+    [
+     "nachrückende Mitarbeiter",
+     "后继员工"
+    ]
+   ],
+   "tip": "助动词 sein；常见于议会、公司"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "antreten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "angetreten",
+  "forms": "tritt an, trat an, hat angetreten",
+  "zh": "就任；开始（工作）；出发",
+  "ex": [
+   "Ich werde meine neue Stelle zum 1. März antreten."
+  ],
+  "ex_zh": "我将于三月一日上任新职。",
+  "use": {
+   "senses": [
+    "就任；开始",
+    "（不及物）列队；比赛"
+   ],
+   "col": [
+    [
+     "eine Stelle antreten",
+     "到岗就任"
+    ],
+    [
+     "das Amt antreten",
+     "就职"
+    ]
+   ],
+   "tip": "名词 der Antritt；及物时用 hat；不及物（站队）时用 ist"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "niederlegen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "niedergelegt",
+  "forms": "legt nieder, legte nieder, hat niedergelegt",
+  "zh": "辞去；放下；停止",
+  "ex": [
+   "Der Vorsitzende hat sein Amt aus gesundheitlichen Gründen niedergelegt."
+  ],
+  "ex_zh": "主席因健康原因辞去了职务。",
+  "use": {
+   "col": [
+    [
+     "ein Amt niederlegen",
+     "辞去职务"
+    ],
+    [
+     "die Arbeit niederlegen",
+     "停工"
+    ]
+   ],
+   "tip": "书面；die Arbeit niederlegen = 罢工；名词 die Niederlegung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "zurücktreten",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "zurückgetreten",
+  "forms": "tritt zurück, trat zurück, ist zurückgetreten",
+  "zh": "辞职（高官）；后退",
+  "ex": [
+   "Der Minister ist wegen der Affäre zurückgetreten."
+  ],
+  "ex_zh": "部长因这起丑闻而辞职。",
+  "gov": "zurücktreten von + Dat.",
+  "use": {
+   "col": [
+    [
+     "von einem Amt zurücktreten",
+     "辞去职务"
+    ],
+    [
+     "vom Vertrag zurücktreten",
+     "解除合同"
+    ]
+   ],
+   "tip": "名词 der Rücktritt；用于高官、政客；vom Vertrag zurücktreten = 撤销合同"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "einlenken",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingelenkt",
+  "forms": "lenkt ein, lenkte ein, hat eingelenkt",
+  "zh": "让步；转变立场",
+  "ex": [
+   "Nach langem Streit lenkte die Geschäftsleitung schließlich ein."
+  ],
+  "ex_zh": "经过长时间争吵，管理层最终让步了。",
+  "use": {
+   "col": [
+    [
+     "in der Verhandlung einlenken",
+     "在谈判中让步"
+    ],
+    [
+     "schließlich einlenken",
+     "终于让步"
+    ]
+   ],
+   "tip": "书面语；比 nachgeben 更偏“缓和”"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "einwilligen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingewilligt",
+  "forms": "willigt ein, willigte ein, hat eingewilligt",
+  "zh": "同意；答应",
+  "ex": [
+   "Der Kunde willigte in die Preiserhöhung ein."
+  ],
+  "ex_zh": "客户同意了涨价。",
+  "gov": "einwilligen in + Akk.",
+  "use": {
+   "col": [
+    [
+     "in etwas einwilligen",
+     "同意某事"
+    ],
+    [
+     "in eine Änderung einwilligen",
+     "同意变更"
+    ]
+   ],
+   "tip": "名词 die Einwilligung（法律上的“同意”）；+ in + Akk."
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "einräumen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingeräumt",
+  "forms": "räumt ein, räumte ein, hat eingeräumt",
+  "zh": "承认；让予；腾出",
+  "ex": [
+   "Die Geschäftsführung räumte Fehler im Management ein."
+  ],
+  "ex_zh": "管理层承认了管理上的失误。",
+  "use": {
+   "senses": [
+    "承认",
+    "给予；让出"
+   ],
+   "col": [
+    [
+     "einen Fehler einräumen",
+     "承认错误"
+    ],
+    [
+     "jemandem ein Recht einräumen",
+     "给予某人权利"
+    ]
+   ],
+   "tip": "名词 die Einräumung；承认义很常用"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "zusichern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "zugesichert",
+  "forms": "sichert zu, sicherte zu, hat zugesichert",
+  "zh": "保证；承诺",
+  "ex": [
+   "Der Anbieter hat uns eine Lieferung bis Freitag zugesichert."
+  ],
+  "ex_zh": "供应商向我们保证周五前送到货。",
+  "use": {
+   "col": [
+    [
+     "jemandem etwas zusichern",
+     "向某人保证某事"
+    ],
+    [
+     "Unterstützung zusichern",
+     "承诺支持"
+    ]
+   ],
+   "tip": "名词 die Zusicherung；比 versprechen 正式、有约束力"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "unterbreiten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "unterbreitet",
+  "forms": "unterbreitet, unterbreitete, hat unterbreitet",
+  "zh": "提出（建议、报价）",
+  "ex": [
+   "Wir haben dem Kunden ein neues Angebot unterbreitet."
+  ],
+  "ex_zh": "我们向客户提出了新的报价。",
+  "use": {
+   "col": [
+    [
+     "einen Vorschlag unterbreiten",
+     "提出建议"
+    ],
+    [
+     "ein Angebot unterbreiten",
+     "提交报价"
+    ]
+   ],
+   "tip": "公文用语；口语里用 machen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "besiegeln",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "besiegelt",
+  "forms": "besiegelt, besiegelte, hat besiegelt",
+  "zh": "正式确认；盖章定案",
+  "ex": [
+   "Mit einem Handschlag besiegelten sie den Deal."
+  ],
+  "ex_zh": "他们握手达成了这笔交易。",
+  "use": {
+   "col": [
+    [
+     "einen Vertrag besiegeln",
+     "敲定合同"
+    ],
+    [
+     "das Schicksal besiegeln",
+     "决定命运"
+    ]
+   ],
+   "tip": "原指“盖封印”；比喻“最后敲定”"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "festschreiben",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "festgeschrieben",
+  "forms": "schreibt fest, schrieb fest, hat festgeschrieben",
+  "zh": "白纸黑字确定；固定下来",
+  "ex": [
+   "Die Rechte der Beschäftigten sind im Tarifvertrag festgeschrieben."
+  ],
+  "ex_zh": "员工的权利在集体合同里作了明确规定。",
+  "use": {
+   "col": [
+    [
+     "im Vertrag festschreiben",
+     "写进合同"
+    ],
+    [
+     "Standards festschreiben",
+     "确定标准"
+    ]
+   ],
+   "tip": "名词 die Festschreibung；常用被动或 festgeschrieben sein"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verankern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verankert",
+  "forms": "verankert, verankerte, hat verankert",
+  "zh": "固定；牢固确立",
+  "ex": [
+   "Der Klimaschutz soll im Gesetz verankert werden."
+  ],
+  "ex_zh": "气候保护应被写进法律。",
+  "use": {
+   "col": [
+    [
+     "gesetzlich verankern",
+     "写进法律"
+    ],
+    [
+     "fest verankert sein",
+     "根深蒂固"
+    ]
+   ],
+   "tip": "名词 die Verankerung；Anker = 锚；常见于新闻、政治"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ahnden",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "geahndet",
+  "forms": "ahndet, ahndete, hat geahndet",
+  "zh": "惩处；追究",
+  "ex": [
+   "Verstöße gegen die Arbeitsschutzvorschriften werden mit Bußgeldern geahndet."
+  ],
+  "ex_zh": "违反劳动保护规定将被处以罚款。",
+  "use": {
+   "col": [
+    [
+     "Verstöße ahnden",
+     "惩处违规"
+    ],
+    [
+     "mit einer Geldstrafe ahnden",
+     "处以罚金"
+    ]
+   ],
+   "tip": "书面语；名词 die Ahndung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sanktionieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "sanktioniert",
+  "forms": "sanktioniert, sanktionierte, hat sanktioniert",
+  "zh": "制裁；批准",
+  "ex": [
+   "Das Jobcenter kann Leistungen sanktionieren, wenn Termine verpasst werden."
+  ],
+  "ex_zh": "如果错过预约，职业中心可以削减福利作为惩罚。",
+  "use": {
+   "senses": [
+    "制裁；处罚",
+    "批准；认可"
+   ],
+   "col": [
+    [
+     "ein Fehlverhalten sanktionieren",
+     "惩罚不当行为"
+    ],
+    [
+     "etwas sanktionieren",
+     "批准某事"
+    ]
+   ],
+   "tip": "名词 die Sanktion；有“制裁”和“认可”两个相反义项"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verhängen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verhängt",
+  "forms": "verhängt, verhängte, hat verhängt",
+  "zh": "处以；宣布（处罚）",
+  "ex": [
+   "Die Behörde hat gegen die Firma ein hohes Bußgeld verhängt."
+  ],
+  "ex_zh": "主管部门对这家公司处以高额罚款。",
+  "use": {
+   "col": [
+    [
+     "eine Strafe verhängen",
+     "判处/处以惩罚"
+    ],
+    [
+     "ein Verbot verhängen",
+     "颁布禁令"
+    ]
+   ],
+   "tip": "名词 die Verhängung；后接 gegen + Akk."
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "vorbeugen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "vorgebeugt",
+  "forms": "beugt vor, beugte vor, hat vorgebeugt",
+  "zh": "预防",
+  "ex": [
+   "Regelmäßige Pausen und ausreichend Schlaf beugen Überlastung und Erschöpfung am Arbeitsplatz vor."
+  ],
+  "ex_zh": "定期休息和充足睡眠可以预防工作中的过度劳累。",
+  "gov": "vorbeugen + Dat.",
+  "use": {
+   "col": [
+    [
+     "einer Krankheit vorbeugen",
+     "预防疾病"
+    ],
+    [
+     "Missverständnissen vorbeugen",
+     "避免误会"
+    ]
+   ],
+   "tip": "+ Dat.；形容词 vorbeugend、名词 die Vorbeugung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "blockieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "blockiert",
+  "forms": "blockiert, blockierte, hat blockiert",
+  "zh": "阻挠；封锁；卡住",
+  "ex": [
+   "Die Gegenseite blockiert seit Wochen jede Einigung."
+  ],
+  "ex_zh": "对方几周来阻挠任何达成一致的努力。",
+  "use": {
+   "col": [
+    [
+     "Verhandlungen blockieren",
+     "阻碍谈判"
+    ],
+    [
+     "einen Prozess blockieren",
+     "卡住流程"
+    ]
+   ],
+   "tip": "名词 die Blockade；IT 里也指“资源被占用”"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "lahmlegen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "lahmgelegt",
+  "forms": "legt lahm, legte lahm, hat lahmgelegt",
+  "zh": "使瘫痪",
+  "ex": [
+   "Ein Streik hat den gesamten Flugverkehr lahmgelegt."
+  ],
+  "ex_zh": "罢工使整个航班运行陷入瘫痪。",
+  "use": {
+   "col": [
+    [
+     "den Verkehr lahmlegen",
+     "使交通瘫痪"
+    ],
+    [
+     "Systeme lahmlegen",
+     "使系统瘫痪"
+    ]
+   ],
+   "tip": "p2 写作 lahmgelegt；新闻和 IT 安全报道常见"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "scheitern",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "gescheitert",
+  "forms": "scheitert, scheiterte, ist gescheitert",
+  "zh": "失败；告吹",
+  "ex": [
+   "Die Verhandlungen sind am Widerstand der Gewerkschaft gescheitert."
+  ],
+  "ex_zh": "谈判因工会的反对而告吹。",
+  "gov": "scheitern an + Dat.",
+  "use": {
+   "col": [
+    [
+     "an etwas scheitern",
+     "因某事而失败"
+    ],
+    [
+     "gescheitert sein",
+     "失败了"
+    ]
+   ],
+   "tip": "名词 das Scheitern；助动词 sein"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "bewerkstelligen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bewerkstelligt",
+  "forms": "bewerkstelligt, bewerkstelligte, hat bewerkstelligt",
+  "zh": "办成；设法完成",
+  "ex": [
+   "Wie sollen wir das in zwei Wochen bewerkstelligen?"
+  ],
+  "ex_zh": "我们怎么才能在两周内办成这件事？",
+  "use": {
+   "col": [
+    [
+     "etwas bewerkstelligen",
+     "设法办成某事"
+    ],
+    [
+     "die Umstellung bewerkstelligen",
+     "完成转换"
+    ]
+   ],
+   "tip": "书面语；不可分动词；表示“克服困难办成”"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "handhaben",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gehandhabt",
+  "forms": "handhabt, handhabte, hat gehandhabt",
+  "zh": "处理；运用",
+  "ex": [
+   "Die Regelung wird in den Abteilungen unterschiedlich gehandhabt."
+  ],
+  "ex_zh": "这项规定在各部门的执行方式不同。",
+  "use": {
+   "col": [
+    [
+     "flexibel handhaben",
+     "灵活运用"
+    ],
+    [
+     "eine Regel streng handhaben",
+     "严格执行规则"
+    ]
+   ],
+   "tip": "名词 die Handhabung；形容词 handhabbar"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verwalten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verwaltet",
+  "forms": "verwaltet, verwaltete, hat verwaltet",
+  "zh": "管理；经管",
+  "ex": [
+   "Sie verwaltet die Finanzen der gesamten Abteilung."
+  ],
+  "ex_zh": "她管理整个部门的财务。",
+  "use": {
+   "col": [
+    [
+     "ein Vermögen verwalten",
+     "管理财产"
+    ],
+    [
+     "Daten verwalten",
+     "管理数据"
+    ]
+   ],
+   "tip": "名词 die Verwaltung；偏行政、账目的管理，区别于 leiten"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "vorstehen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "vorgestanden",
+  "forms": "steht vor, stand vor, hat vorgestanden",
+  "zh": "主持；负责领导",
+  "ex": [
+   "Der Professor steht dem Institut seit Jahren vor."
+  ],
+  "ex_zh": "这位教授多年来一直主持这个研究所。",
+  "gov": "vorstehen + Dat.",
+  "use": {
+   "col": [
+    [
+     "einer Abteilung vorstehen",
+     "领导一个部门"
+    ],
+    [
+     "einem Ausschuss vorstehen",
+     "担任委员会主席"
+    ]
+   ],
+   "tip": "+ Dat.；书面语；p2 vorgestanden"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "zurate ziehen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "zurate gezogen",
+  "forms": "zieht zurate, zog zurate, hat zurate gezogen",
+  "zh": "请教；咨询",
+  "ex": [
+   "Bei Zweifeln sollten Sie einen Fachmann zurate ziehen."
+  ],
+  "ex_zh": "有疑问时，您应该请教专业人士。",
+  "use": {
+   "col": [
+    [
+     "einen Experten zurate ziehen",
+     "请教专家"
+    ],
+    [
+     "ein Handbuch zurate ziehen",
+     "查阅手册"
+    ]
+   ],
+   "tip": "也可写作 zu Rate ziehen；书面语，+ Akk."
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "aufwerten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "aufgewertet",
+  "forms": "wertet auf, wertete auf, hat aufgewertet",
+  "zh": "提高价值；升值",
+  "ex": [
+   "Die neue Funktion wertet das Produkt deutlich auf."
+  ],
+  "ex_zh": "新功能显著提升了产品的价值。",
+  "use": {
+   "col": [
+    [
+     "einen Beruf aufwerten",
+     "提升某职业的地位"
+    ],
+    [
+     "eine Währung aufwerten",
+     "使货币升值"
+    ]
+   ],
+   "tip": "名词 die Aufwertung；反义 abwerten"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "würdigen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gewürdigt",
+  "forms": "würdigt, würdigte, hat gewürdigt",
+  "zh": "表彰；认可",
+  "ex": [
+   "Die Firma würdigte sein Engagement mit einer Urkunde."
+  ],
+  "ex_zh": "公司以一份证书表彰了他的投入。",
+  "use": {
+   "col": [
+    [
+     "jemandes Verdienste würdigen",
+     "肯定某人的贡献"
+    ],
+    [
+     "gewürdigt werden",
+     "受到表彰"
+    ]
+   ],
+   "tip": "名词 die Würdigung；书面语"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "branchenübergreifend",
+  "pos": "adj",
+  "zh": "跨行业的",
+  "ex": [
+   "Der Mangel an qualifizierten Fachkräften ist ein branchenübergreifendes Problem, das fast alle Betriebe betrifft."
+  ],
+  "ex_zh": "缺乏合格专业人才是一个跨行业的问题，几乎所有企业都受影响。",
+  "use": {
+   "col": [
+    [
+     "branchenübergreifend tätig sein",
+     "跨行业经营"
+    ],
+    [
+     "eine branchenübergreifende Lösung",
+     "跨行业方案"
+    ]
+   ],
+   "tip": "同类：bereichsübergreifend（跨部门）、fachübergreifend（跨学科）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "bereichsübergreifend",
+  "pos": "adj",
+  "zh": "跨部门的",
+  "ex": [
+   "Das neue Produkt entsteht in einer bereichsübergreifenden Zusammenarbeit von Technik, Vertrieb und Design."
+  ],
+  "ex_zh": "这款新产品是技术、销售和设计跨部门合作的成果。",
+  "use": {
+   "col": [
+    [
+     "bereichsübergreifend arbeiten",
+     "跨部门工作"
+    ],
+    [
+     "bereichsübergreifende Teams",
+     "跨部门团队"
+    ]
+   ],
+   "tip": "übergreifend = 跨越……的；adj./adv. 都可"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "innerbetrieblich",
+  "pos": "adj",
+  "zh": "企业内部的",
+  "ex": [
+   "Die innerbetriebliche Weiterbildung wird von der Firma bezahlt."
+  ],
+  "ex_zh": "企业内部的进修由公司出钱。",
+  "use": {
+   "col": [
+    [
+     "innerbetriebliche Abläufe",
+     "企业内部流程"
+    ],
+    [
+     "innerbetriebliche Kommunikation",
+     "内部沟通"
+    ]
+   ],
+   "tip": "反义 außerbetrieblich、überbetrieblich；Betrieb = 企业"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "übertariflich",
+  "pos": "adj",
+  "zh": "高于集体合同标准的",
+  "ex": [
+   "Die Firma zahlt übertarifliche Gehälter, um Fachkräfte zu gewinnen."
+  ],
+  "ex_zh": "公司付高于集体合同标准的工资来吸引专业人才。",
+  "use": {
+   "col": [
+    [
+     "übertariflich bezahlt werden",
+     "拿高于标准的工资"
+    ],
+    [
+     "eine übertarifliche Zulage",
+     "高于标准的补贴"
+    ]
+   ],
+   "tip": "反义 untertariflich；außertariflich = 不适用集体合同的"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sozialverträglich",
+  "pos": "adj",
+  "zh": "对社会影响小的；缓和冲击的",
+  "ex": [
+   "Der Stellenabbau soll sozialverträglich erfolgen, also ohne betriebsbedingte Kündigungen."
+  ],
+  "ex_zh": "裁员要以缓和社会冲击的方式进行，也就是不因经营原因解雇员工。",
+  "use": {
+   "col": [
+    [
+     "sozialverträglich abbauen",
+     "以缓和冲击的方式削减"
+    ],
+    [
+     "eine sozialverträgliche Lösung",
+     "缓和社会冲击的方案"
+    ]
+   ],
+   "tip": "常见于裁员报道：提前退休、补偿金代替强行解雇"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "arbeitsrechtlich",
+  "pos": "adj",
+  "zh": "劳动法的",
+  "ex": [
+   "Eine fristlose Kündigung hat meist arbeitsrechtliche Folgen."
+  ],
+  "ex_zh": "即时解雇通常会产生劳动法上的后果。",
+  "use": {
+   "col": [
+    [
+     "arbeitsrechtliche Fragen",
+     "劳动法问题"
+    ],
+    [
+     "arbeitsrechtlich zulässig",
+     "劳动法上允许的"
+    ]
+   ],
+   "tip": "名词 das Arbeitsrecht；类似的 steuerrechtlich、vertragsrechtlich"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "wettbewerbsfähig",
+  "pos": "adj",
+  "zh": "有竞争力的",
+  "ex": [
+   "Das Unternehmen bleibt nur mit niedrigeren Kosten wettbewerbsfähig."
+  ],
+  "ex_zh": "只有成本更低，这家企业才能保持竞争力。",
+  "use": {
+   "col": [
+    [
+     "wettbewerbsfähig bleiben",
+     "保持竞争力"
+    ],
+    [
+     "wettbewerbsfähige Preise",
+     "有竞争力的价格"
+    ]
+   ],
+   "tip": "名词 die Wettbewerbsfähigkeit"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "rentabel",
+  "pos": "adj",
+  "zh": "有利可图的",
+  "ex": [
+   "Die neue Produktionslinie ist erst ab 10 000 Stück rentabel."
+  ],
+  "ex_zh": "新的生产线要到一万件以上才有盈利。",
+  "use": {
+   "col": [
+    [
+     "rentabel sein",
+     "有利润"
+    ],
+    [
+     "wirtschaftlich rentabel",
+     "经济上有利可图"
+    ]
+   ],
+   "tip": "名词 die Rentabilität；反义 unrentabel、defizitär"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "defizitär",
+  "pos": "adj",
+  "zh": "亏损的；有赤字的",
+  "ex": [
+   "Der seit Jahren defizitäre Geschäftsbereich soll im nächsten Jahr verkauft werden."
+  ],
+  "ex_zh": "这个多年亏损的业务板块计划明年出售。",
+  "use": {
+   "col": [
+    [
+     "defizitär arbeiten",
+     "亏损经营"
+    ],
+    [
+     "ein defizitärer Haushalt",
+     "有赤字的预算"
+    ]
+   ],
+   "tip": "名词 das Defizit；书面经济用语"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "kostendeckend",
+  "pos": "adj",
+  "zh": "能够抵偿成本的",
+  "ex": [
+   "Der Preis ist so niedrig, dass er nicht kostendeckend ist."
+  ],
+  "ex_zh": "价格这么低，连成本都覆盖不了。",
+  "use": {
+   "col": [
+    [
+     "kostendeckend arbeiten",
+     "保本经营"
+    ],
+    [
+     "nicht kostendeckend",
+     "不足以覆盖成本"
+    ]
+   ],
+   "tip": "Kosten + decken；名词 die Kostendeckung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "praxisnah",
+  "pos": "adj",
+  "zh": "贴近实践的",
+  "ex": [
+   "Die Fortbildung ist sehr praxisnah und sofort umsetzbar."
+  ],
+  "ex_zh": "这个进修课很贴近实际，马上就能用上。",
+  "use": {
+   "col": [
+    [
+     "ein praxisnaher Unterricht",
+     "贴近实践的课程"
+    ],
+    [
+     "praxisnah ausbilden",
+     "贴近实践地培训"
+    ]
+   ],
+   "tip": "同义 praxisorientiert；反义 praxisfern"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "zielführend",
+  "pos": "adj",
+  "zh": "有助于达成目标的",
+  "ex": [
+   "Ein längeres Streitgespräch ist an dieser Stelle nicht zielführend."
+  ],
+  "ex_zh": "这时进行一场更长的争论对达成目标没有帮助。",
+  "use": {
+   "col": [
+    [
+     "nicht zielführend sein",
+     "对目标没有帮助"
+    ],
+    [
+     "ein zielführender Ansatz",
+     "有成效的思路"
+    ]
+   ],
+   "tip": "商务口头语：Das ist nicht zielführend. = 这样没用"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "lösungsorientiert",
+  "pos": "adj",
+  "zh": "以解决问题为导向的",
+  "ex": [
+   "Für das Support-Team suchen wir Mitarbeiter, die freundlich, belastbar und lösungsorientiert denken."
+  ],
+  "ex_zh": "我们为客服团队寻找友好、抗压并且以解决问题为导向的员工。",
+  "use": {
+   "col": [
+    [
+     "lösungsorientiert arbeiten",
+     "以解决问题为导向工作"
+    ],
+    [
+     "ein lösungsorientierter Ansatz",
+     "解决导向的方法"
+    ]
+   ],
+   "tip": "招聘用语；类似 serviceorientiert、kundenorientiert"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "bedarfsgerecht",
+  "pos": "adj",
+  "zh": "符合需求的",
+  "ex": [
+   "Wir bieten bedarfsgerechte Lösungen für jede Unternehmensgröße."
+  ],
+  "ex_zh": "我们为各种规模的企业提供符合需求的方案。",
+  "use": {
+   "col": [
+    [
+     "bedarfsgerecht planen",
+     "按需规划"
+    ],
+    [
+     "ein bedarfsgerechtes Angebot",
+     "符合需求的服务"
+    ]
+   ],
+   "tip": "Bedarf + gerecht；名词 der Bedarf（已在词表中）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "eigenständig",
+  "pos": "adj",
+  "zh": "独立的；自主的",
+  "ex": [
+   "Die Mitarbeiterin arbeitet sehr eigenständig und braucht kaum Anleitung."
+  ],
+  "ex_zh": "这位员工工作很独立，几乎不需要指导。",
+  "use": {
+   "col": [
+    [
+     "eigenständig arbeiten",
+     "独立工作"
+    ],
+    [
+     "eigenständig entscheiden",
+     "自主决定"
+    ]
+   ],
+   "tip": "名词 die Eigenständigkeit；与 selbstständig 近义"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "eigenverantwortlich",
+  "pos": "adj",
+  "zh": "自己负责的",
+  "ex": [
+   "In unserem Unternehmen planen die Teams ihre Projekte weitgehend eigenverantwortlich und ohne ständige Kontrolle."
+  ],
+  "ex_zh": "在我们公司，各团队基本上自主负责地规划项目，没有持续的监控。",
+  "use": {
+   "col": [
+    [
+     "eigenverantwortlich handeln",
+     "自主负责地行事"
+    ],
+    [
+     "eigenverantwortliches Arbeiten",
+     "自主负责的工作"
+    ]
+   ],
+   "tip": "名词 die Eigenverantwortung；招聘广告常见"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "weisungsgebunden",
+  "pos": "adj",
+  "zh": "受指令约束的",
+  "ex": [
+   "Anders als Freiberufler sind Arbeitnehmer weisungsgebunden und müssen sich an die Vorgaben des Arbeitgebers halten."
+  ],
+  "ex_zh": "与自由职业者不同，员工受指令约束，必须遵守雇主的要求。",
+  "use": {
+   "col": [
+    [
+     "weisungsgebunden arbeiten",
+     "在指令约束下工作"
+    ],
+    [
+     "nicht weisungsgebunden sein",
+     "不受指令约束"
+    ]
+   ],
+   "tip": "区分雇员和自雇人员的法律标准；反义 weisungsfrei"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ausschlaggebend",
+  "pos": "adj",
+  "zh": "起决定作用的",
+  "ex": [
+   "Ihre Berufserfahrung war ausschlaggebend für die Einstellung."
+  ],
+  "ex_zh": "她的工作经验是被录用的决定性因素。",
+  "gov": "ausschlaggebend für + Akk.",
+  "use": {
+   "col": [
+    [
+     "ausschlaggebend sein",
+     "起决定作用"
+    ],
+    [
+     "der ausschlaggebende Grund",
+     "决定性原因"
+    ]
+   ],
+   "tip": "+ für + Akk.；动词 den Ausschlag geben"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "zweckmäßig",
+  "pos": "adj",
+  "zh": "适宜的；实用的",
+  "ex": [
+   "Wir brauchen eine zweckmäßige und kostengünstige Lösung."
+  ],
+  "ex_zh": "我们需要一个实用且便宜的解决方案。",
+  "use": {
+   "col": [
+    [
+     "zweckmäßig einrichten",
+     "实用地布置"
+    ],
+    [
+     "es ist zweckmäßig, …",
+     "适宜于……"
+    ]
+   ],
+   "tip": "Zweck + mäßig；同义 sinnvoll、praktisch"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "geringfügig",
+  "pos": "adj",
+  "zh": "轻微的；少量的",
+  "ex": [
+   "Er arbeitet geringfügig als Aushilfe im Supermarkt."
+  ],
+  "ex_zh": "他在超市做临时工，工作量很少。",
+  "use": {
+   "col": [
+    [
+     "geringfügig beschäftigt",
+     "从事低薪/小额就业"
+    ],
+    [
+     "sich geringfügig ändern",
+     "略有改变"
+    ]
+   ],
+   "tip": "geringfügige Beschäftigung = Minijob；程度轻微"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "obligatorisch",
+  "pos": "adj",
+  "zh": "必须的；强制性的",
+  "ex": [
+   "Die Teilnahme an der Schulung ist für alle obligatorisch."
+  ],
+  "ex_zh": "所有人都必须参加这次培训。",
+  "use": {
+   "col": [
+    [
+     "obligatorisch sein",
+     "是必须的"
+    ],
+    [
+     "ein obligatorisches Fach",
+     "必修科目"
+    ]
+   ],
+   "tip": "同义 verpflichtend、Pflicht-；反义 fakultativ"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "fakultativ",
+  "pos": "adj",
+  "zh": "可选的；非强制的",
+  "ex": [
+   "Die Teilnahme an dem zusätzlichen Workshop am Samstag ist fakultativ und wird nicht bewertet."
+  ],
+  "ex_zh": "参加周六的附加工作坊是自愿的，不计入评分。",
+  "use": {
+   "col": [
+    [
+     "ein fakultatives Angebot",
+     "自愿的服务"
+    ],
+    [
+     "fakultativ belegen",
+     "选修"
+    ]
+   ],
+   "tip": "反义 obligatorisch；大学里=选修"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "unabdingbar",
+  "pos": "adj",
+  "zh": "必不可少的；不可或缺的",
+  "ex": [
+   "Gute Sprachkenntnisse sind für diese Stelle unabdingbar."
+  ],
+  "ex_zh": "这个岗位必须有良好的语言能力。",
+  "use": {
+   "col": [
+    [
+     "unabdingbar sein",
+     "必不可少"
+    ],
+    [
+     "eine unabdingbare Voraussetzung",
+     "必不可少的前提"
+    ]
+   ],
+   "tip": "同义 unerlässlich、unverzichtbar；书面"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "unerlässlich",
+  "pos": "adj",
+  "zh": "必不可少的",
+  "ex": [
+   "Für die Verhandlung ist eine gründliche Vorbereitung unerlässlich."
+  ],
+  "ex_zh": "谈判需要认真准备，缺一不可。",
+  "gov": "unerlässlich für + Akk.",
+  "use": {
+   "col": [
+    [
+     "unerlässlich sein",
+     "不可缺少"
+    ],
+    [
+     "unerlässlich für den Erfolg",
+     "对成功必不可少"
+    ]
+   ],
+   "tip": "+ für + Akk.；同义 unabdingbar"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "einschlägig",
+  "pos": "adj",
+  "zh": "相关的；有关的",
+  "ex": [
+   "Wir suchen Bewerber mit mehrjähriger einschlägiger Berufserfahrung im Bereich der Softwareentwicklung."
+  ],
+  "ex_zh": "我们寻找在软件开发领域有多年相关工作经验的应聘者。",
+  "use": {
+   "col": [
+    [
+     "einschlägige Erfahrung",
+     "相关经验"
+    ],
+    [
+     "einschlägig vorbestraft",
+     "有同类前科"
+    ]
+   ],
+   "tip": "招聘广告的高频词；einschlägige Literatur = 相关文献"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "versiert",
+  "pos": "adj",
+  "zh": "精通的；熟练的",
+  "ex": [
+   "Sie ist im Umgang mit Datenbanken sehr versiert."
+  ],
+  "ex_zh": "她对数据库的使用非常熟练。",
+  "gov": "versiert in + Dat.",
+  "use": {
+   "col": [
+    [
+     "versiert sein",
+     "精通"
+    ],
+    [
+     "ein versierter Fachmann",
+     "经验丰富的专家"
+    ]
+   ],
+   "tip": "+ in + Dat.；书面；读 [vɛrˈziːɐt]"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "routiniert",
+  "pos": "adj",
+  "zh": "熟练的；老练的",
+  "ex": [
+   "Der routinierte Moderator führte souverän durch die Veranstaltung."
+  ],
+  "ex_zh": "这位老练的主持人沉稳地主持了活动。",
+  "use": {
+   "col": [
+    [
+     "routiniert arbeiten",
+     "熟练地工作"
+    ],
+    [
+     "ein routinierter Profi",
+     "老练的行家"
+    ]
+   ],
+   "tip": "名词 die Routine；可带负面义“套路化”"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "fundiert",
+  "pos": "adj",
+  "zh": "有扎实基础的",
+  "ex": [
+   "Er verfügt über ein fundiertes Wissen im Bereich Datenschutz."
+  ],
+  "ex_zh": "他在数据保护领域有扎实的知识。",
+  "use": {
+   "col": [
+    [
+     "fundierte Kenntnisse",
+     "扎实的知识"
+    ],
+    [
+     "eine fundierte Analyse",
+     "有根据的分析"
+    ]
+   ],
+   "tip": "名词 das Fundament；常见搭配 fundiertes Wissen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "souverän",
+  "pos": "adj",
+  "zh": "沉着的；从容的",
+  "ex": [
+   "Sie meisterte das Vorstellungsgespräch souverän und beantwortete auch schwierige Fragen ohne Zögern."
+  ],
+  "ex_zh": "她从容地应对了面试，连难题也毫不犹豫地作答。",
+  "use": {
+   "senses": [
+    "沉着自信的",
+    "有主权的"
+   ],
+   "col": [
+    [
+     "souverän auftreten",
+     "沉着地亮相"
+    ],
+    [
+     "souverän reagieren",
+     "从容应对"
+    ]
+   ],
+   "tip": "读 [zuvəˈrɛːn]；还有“有主权的”义"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "besonnen",
+  "pos": "adj",
+  "zh": "沉着冷静的；谨慎的",
+  "ex": [
+   "Der besonnene Chef blieb auch in der Krise ruhig."
+  ],
+  "ex_zh": "这位沉稳的老板在危机中也保持冷静。",
+  "use": {
+   "col": [
+    [
+     "besonnen reagieren",
+     "冷静反应"
+    ],
+    [
+     "ein besonnener Mensch",
+     "沉稳的人"
+    ]
+   ],
+   "tip": "名词 die Besonnenheit；同义 umsichtig"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "umsichtig",
+  "pos": "adj",
+  "zh": "周全的；考虑周到的",
+  "ex": [
+   "Er plant das Projekt sehr umsichtig und denkt auch an mögliche Risiken und Alternativen."
+  ],
+  "ex_zh": "他非常周全地规划这个项目，连可能的风险和备选方案都考虑到了。",
+  "use": {
+   "col": [
+    [
+     "umsichtig handeln",
+     "周全地行事"
+    ],
+    [
+     "ein umsichtiger Planer",
+     "谨慎周全的规划者"
+    ]
+   ],
+   "tip": "名词 die Umsicht；形近 vorsichtig"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "gewissenhaft",
+  "pos": "adj",
+  "zh": "认真负责的",
+  "ex": [
+   "Sie erledigt ihre Aufgaben stets gewissenhaft und prüft jedes Ergebnis noch einmal selbst."
+  ],
+  "ex_zh": "她总是认真负责地完成任务，每个结果都会自己再检查一遍。",
+  "use": {
+   "col": [
+    [
+     "gewissenhaft arbeiten",
+     "认真地工作"
+    ],
+    [
+     "gewissenhaft prüfen",
+     "认真检查"
+    ]
+   ],
+   "tip": "Gewissen + haft；名词 die Gewissenhaftigkeit"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "akribisch",
+  "pos": "adj",
+  "zh": "一丝不苟的",
+  "ex": [
+   "Er dokumentiert jeden einzelnen Arbeitsschritt akribisch, sodass später alles nachvollziehbar bleibt."
+  ],
+  "ex_zh": "他一丝不苟地记录每一个工作步骤，让以后一切都有据可查。",
+  "use": {
+   "col": [
+    [
+     "akribisch genau",
+     "精确到一丝不苟"
+    ],
+    [
+     "akribisch vorbereiten",
+     "一丝不苟地准备"
+    ]
+   ],
+   "tip": "名词 die Akribie；书面，褒义"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "durchsetzungsstark",
+  "pos": "adj",
+  "zh": "有魄力的；强势的",
+  "ex": [
+   "Die neue Chefin ist durchsetzungsstark und entscheidungsfreudig."
+  ],
+  "ex_zh": "新老板很有魄力，善于果断决策。",
+  "use": {
+   "col": [
+    [
+     "durchsetzungsstark auftreten",
+     "强势地表现"
+    ],
+    [
+     "eine durchsetzungsstarke Führungskraft",
+     "有魄力的管理者"
+    ]
+   ],
+   "tip": "名词 das Durchsetzungsvermögen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "entscheidungsfreudig",
+  "pos": "adj",
+  "zh": "善于决断的",
+  "ex": [
+   "Für die Position suchen wir eine entscheidungsfreudige Persönlichkeit."
+  ],
+  "ex_zh": "这个职位我们要找一位善于决断的人。",
+  "use": {
+   "col": [
+    [
+     "entscheidungsfreudig sein",
+     "乐于决断"
+    ],
+    [
+     "wenig entscheidungsfreudig",
+     "不太爱做决定"
+    ]
+   ],
+   "tip": "招聘用语；反义 unentschlossen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "pragmatisch",
+  "pos": "adj",
+  "zh": "务实的",
+  "ex": [
+   "Wir suchen eine pragmatische Lösung, keine perfekte."
+  ],
+  "ex_zh": "我们找的是务实的方案，而不是完美的。",
+  "use": {
+   "col": [
+    [
+     "pragmatisch denken",
+     "务实地思考"
+    ],
+    [
+     "ein pragmatischer Ansatz",
+     "务实的思路"
+    ]
+   ],
+   "tip": "名词 der Pragmatismus；反义 idealistisch"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "strategisch",
+  "pos": "adj",
+  "zh": "战略性的",
+  "ex": [
+   "Die Übernahme ist ein strategischer Schritt für das Unternehmen."
+  ],
+  "ex_zh": "这次收购对公司来说是一个战略性举措。",
+  "use": {
+   "col": [
+    [
+     "strategisch planen",
+     "战略性规划"
+    ],
+    [
+     "von strategischer Bedeutung",
+     "具有战略意义"
+    ]
+   ],
+   "tip": "名词 die Strategie；反义 taktisch、operativ"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "operativ",
+  "pos": "adj",
+  "zh": "执行层面的；运营的",
+  "ex": [
+   "Das operative Geschäft liegt in den Händen des Geschäftsführers."
+  ],
+  "ex_zh": "日常运营业务由总经理负责。",
+  "use": {
+   "senses": [
+    "运营层面的",
+    "手术的"
+   ],
+   "col": [
+    [
+     "das operative Geschäft",
+     "运营业务"
+    ],
+    [
+     "operativ tätig sein",
+     "在业务第一线工作"
+    ]
+   ],
+   "tip": "与 strategisch 相对；也指医学上的“手术的”"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "konzeptionell",
+  "pos": "adj",
+  "zh": "概念性的；方案层面的",
+  "ex": [
+   "Sie ist für die konzeptionelle Planung der Kampagne zuständig."
+  ],
+  "ex_zh": "她负责活动的方案规划。",
+  "use": {
+   "col": [
+    [
+     "konzeptionell arbeiten",
+     "做方案规划"
+    ],
+    [
+     "eine konzeptionelle Schwäche",
+     "方案上的缺陷"
+    ]
+   ],
+   "tip": "名词 das Konzept；招聘常见“konzeptionelle Fähigkeiten”"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "vorbehaltlich",
+  "pos": "prep",
+  "zh": "以……为前提；除非有变",
+  "ex": [
+   "Die Zusage gilt vorbehaltlich der Zustimmung des Aufsichtsrats."
+  ],
+  "ex_zh": "该承诺须经监事会同意后方才生效。",
+  "gov": "vorbehaltlich + Gen.",
+  "use": {
+   "col": [
+    [
+     "vorbehaltlich der Zustimmung",
+     "须经同意"
+    ],
+    [
+     "vorbehaltlich einer Prüfung",
+     "以审核为前提"
+    ]
+   ],
+   "tip": "+ Gen.；公文用语；名词 der Vorbehalt"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "seitens",
+  "pos": "prep",
+  "zh": "由……方面；就……而言",
+  "ex": [
+   "Seitens der Geschäftsleitung gibt es keine Einwände."
+  ],
+  "ex_zh": "管理层方面没有异议。",
+  "use": {
+   "col": [
+    [
+     "seitens der Firma",
+     "公司方面"
+    ],
+    [
+     "seitens des Auftraggebers",
+     "委托方方面"
+    ]
+   ],
+   "tip": "+ Gen.；公文用语；同义 von Seiten"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "zwecks",
+  "pos": "prep",
+  "zh": "为了",
+  "ex": [
+   "Zwecks Terminabsprache melde ich mich noch einmal bei Ihnen."
+  ],
+  "ex_zh": "为了商定日期，我再联系您。",
+  "gov": "zwecks + Gen.",
+  "use": {
+   "col": [
+    [
+     "zwecks Klärung",
+     "为了澄清"
+    ],
+    [
+     "zwecks Rücksprache",
+     "为了商量"
+    ]
+   ],
+   "tip": "+ Gen.；公文用语，口语少用"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "anlässlich",
+  "pos": "prep",
+  "zh": "借……之际；值……之机",
+  "ex": [
+   "Anlässlich des Firmenjubiläums lädt die Geschäftsführung zu einem Empfang ein."
+  ],
+  "ex_zh": "值公司周年纪念之际，管理层邀请大家参加招待会。",
+  "gov": "anlässlich + Gen.",
+  "use": {
+   "col": [
+    [
+     "anlässlich des Jubiläums",
+     "值周年之际"
+    ],
+    [
+     "anlässlich seines Besuchs",
+     "在他来访之际"
+    ]
+   ],
+   "tip": "+ Gen.；名词 der Anlass；书面"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "mangels",
+  "pos": "prep",
+  "zh": "因缺乏",
+  "ex": [
+   "Das Verfahren wurde nach monatelanger Prüfung mangels ausreichender Beweise endgültig eingestellt."
+  ],
+  "ex_zh": "经过几个月的审查，该程序因证据不足被最终终止。",
+  "gov": "mangels + Gen.",
+  "use": {
+   "col": [
+    [
+     "mangels Beweisen",
+     "由于缺乏证据"
+    ],
+    [
+     "mangels Nachfrage",
+     "由于需求不足"
+    ]
+   ],
+   "tip": "+ Gen.（口语用 Dat. 或复数时用 Dat.）；公文用语"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "infolgedessen",
+  "pos": "adv",
+  "zh": "因此；由此",
+  "ex": [
+   "Die Lieferung verzögerte sich, infolgedessen mussten wir die Produktion stoppen."
+  ],
+  "ex_zh": "交货延迟了，因此我们不得不停产。",
+  "use": {
+   "col": [
+    [
+     "infolgedessen entlassen",
+     "因此被解雇"
+    ],
+    [
+     "und infolgedessen",
+     "由此"
+    ]
+   ],
+   "tip": "同义 deshalb、daher，更书面；后接倒装"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Stellung beziehen",
+  "pos": "phr",
+  "zh": "表明立场",
+  "ex": [
+   "Die Geschäftsführung muss zu den Vorwürfen klar Stellung beziehen."
+  ],
+  "ex_zh": "管理层必须对这些指责明确表态。",
+  "gov": "Stellung beziehen zu + Dat.",
+  "use": {
+   "col": [
+    [
+     "klar Stellung beziehen",
+     "明确表态"
+    ],
+    [
+     "zu etwas Stellung beziehen",
+     "就某事表态"
+    ]
+   ],
+   "tip": "同义 Stellung nehmen；Stellung nehmen zu 更常见"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "in die Wege leiten",
+  "pos": "phr",
+  "zh": "着手进行；促成",
+  "ex": [
+   "Die Firma hat bereits erste Schritte zur Umstrukturierung in die Wege geleitet."
+  ],
+  "ex_zh": "公司已经为重组着手迈出了第一步。",
+  "use": {
+   "col": [
+    [
+     "Maßnahmen in die Wege leiten",
+     "着手采取措施"
+    ],
+    [
+     "ein Verfahren in die Wege leiten",
+     "启动程序"
+    ]
+   ],
+   "tip": "固定说法；leiten 在此是“引导”；书面语"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "zur Rechenschaft ziehen",
+  "pos": "phr",
+  "zh": "追究责任",
+  "ex": [
+   "Die Verantwortlichen sollen für den Skandal zur Rechenschaft gezogen werden."
+  ],
+  "ex_zh": "要追究相关责任人在这起丑闻中的责任。",
+  "use": {
+   "col": [
+    [
+     "jemanden zur Rechenschaft ziehen",
+     "追究某人的责任"
+    ],
+    [
+     "Rechenschaft ablegen",
+     "作出交代"
+    ]
+   ],
+   "tip": "名词 die Rechenschaft；新闻用语，常用被动"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "in der Pflicht stehen",
+  "pos": "phr",
+  "zh": "有责任；负有义务",
+  "ex": [
+   "Auch die Arbeitgeber stehen in der Pflicht, für sichere Arbeitsplätze zu sorgen."
+  ],
+  "ex_zh": "雇主也有责任确保工作场所安全。",
+  "use": {
+   "col": [
+    [
+     "in der Pflicht stehen",
+     "有责任"
+    ],
+    [
+     "jemanden in die Pflicht nehmen",
+     "要求某人承担责任"
+    ]
+   ],
+   "tip": "新闻评论常用；in die Pflicht nehmen = 使其负责"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "auf Augenhöhe",
+  "pos": "phr",
+  "zh": "平等地；对等地",
+  "ex": [
+   "Wir verhandeln mit unseren Partnern auf Augenhöhe."
+  ],
+  "ex_zh": "我们与合作伙伴平等地谈判。",
+  "use": {
+   "col": [
+    [
+     "auf Augenhöhe verhandeln",
+     "平等地谈判"
+    ],
+    [
+     "auf Augenhöhe kommunizieren",
+     "对等沟通"
+    ]
+   ],
+   "tip": "Augenhöhe = 视线高度；强调不分高低、互相尊重"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Abstriche machen",
+  "pos": "phr",
+  "zh": "打折扣；做出让步",
+  "ex": [
+   "Bei knappem Budget müssen wir leider Abstriche bei der Qualität machen."
+  ],
+  "ex_zh": "预算紧张，我们遗憾地不得不在质量上打折扣。",
+  "use": {
+   "col": [
+    [
+     "Abstriche machen",
+     "降低要求；打折扣"
+    ],
+    [
+     "bei etwas Abstriche machen",
+     "在某方面作出让步"
+    ]
+   ],
+   "tip": "Abstrich 常用复数；表示降低期望"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ins Gewicht fallen",
+  "pos": "phr",
+  "zh": "举足轻重；有分量",
+  "ex": [
+   "Bei der Auswahl fallen vor allem die Sprachkenntnisse ins Gewicht."
+  ],
+  "ex_zh": "在遴选时，语言能力尤其举足轻重。",
+  "use": {
+   "col": [
+    [
+     "stark ins Gewicht fallen",
+     "非常重要"
+    ],
+    [
+     "nicht ins Gewicht fallen",
+     "无足轻重"
+    ]
+   ],
+   "tip": "书面；常用 kaum / nicht ins Gewicht fallen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "unter Beweis stellen",
+  "pos": "phr",
+  "zh": "证明（能力）",
+  "ex": [
+   "In der Probezeit konnte sie ihr Können unter Beweis stellen."
+  ],
+  "ex_zh": "在试用期里，她证明了自己的能力。",
+  "use": {
+   "col": [
+    [
+     "sein Können unter Beweis stellen",
+     "证明自己的能力"
+    ],
+    [
+     "Teamfähigkeit unter Beweis stellen",
+     "证明团队合作能力"
+    ]
+   ],
+   "tip": "面试、鉴定里常用；比 beweisen 更偏“展示出来”"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "die Weichen stellen",
+  "pos": "phr",
+  "zh": "定下方向；铺平道路",
+  "ex": [
+   "Mit dieser Entscheidung stellt das Unternehmen die Weichen für die nächsten zehn Jahre."
+  ],
+  "ex_zh": "这个决定为公司未来十年定下了方向。",
+  "use": {
+   "col": [
+    [
+     "die Weichen für die Zukunft stellen",
+     "为未来定方向"
+    ],
+    [
+     "die Weichen neu stellen",
+     "重新确定方向"
+    ]
+   ],
+   "tip": "Weiche = 铁路道岔；比喻“方向性决定”"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "in Aussicht stellen",
+  "pos": "phr",
+  "zh": "许诺；表示有可能",
+  "ex": [
+   "Der Chef hat mir eine Beförderung in Aussicht gestellt."
+  ],
+  "ex_zh": "老板向我许诺有望晋升。",
+  "use": {
+   "col": [
+    [
+     "eine Beförderung in Aussicht stellen",
+     "许诺晋升"
+    ],
+    [
+     "in Aussicht stehen",
+     "有希望"
+    ]
+   ],
+   "tip": "in Aussicht haben = 有前景；说话人未必保证兑现"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "auf Herz und Nieren prüfen",
+  "pos": "phr",
+  "zh": "彻底检查",
+  "ex": [
+   "Die Bewerber werden im Assessment-Center auf Herz und Nieren geprüft."
+  ],
+  "ex_zh": "应聘者在评估中心接受彻底考察。",
+  "use": {
+   "col": [
+    [
+     "auf Herz und Nieren prüfen",
+     "彻底检验"
+    ],
+    [
+     "ein Produkt auf Herz und Nieren testen",
+     "彻底测试产品"
+    ]
+   ],
+   "tip": "惯用语；口语和报纸中常用"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "zu Buche schlagen",
+  "pos": "phr",
+  "zh": "在账上显出分量；有影响",
+  "ex": [
+   "Die gestiegenen Energiekosten schlagen stark zu Buche."
+  ],
+  "ex_zh": "上涨的能源成本在账上占了很大分量。",
+  "use": {
+   "col": [
+    [
+     "stark zu Buche schlagen",
+     "分量很重"
+    ],
+    [
+     "mit 20 Prozent zu Buche schlagen",
+     "占账面 20%"
+    ]
+   ],
+   "tip": "Buch = 账簿；经济报道常见"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Konsequenzen ziehen",
+  "pos": "phr",
+  "zh": "采取后果性措施；吸取教训",
+  "ex": [
+   "Nach dem Skandal zog der Vorstand personelle Konsequenzen."
+  ],
+  "ex_zh": "丑闻之后，董事会在人事上采取了处理措施。",
+  "use": {
+   "col": [
+    [
+     "personelle Konsequenzen ziehen",
+     "在人事上作处理"
+    ],
+    [
+     "aus etwas Konsequenzen ziehen",
+     "从某事汲取教训"
+    ]
+   ],
+   "tip": "报纸里常见：Konsequenzen ziehen = 采取行动，如辞职、撤换"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "das Handtuch werfen",
+  "pos": "phr",
+  "zh": "放弃；认输",
+  "ex": [
+   "Nach drei erfolglosen Jahren warf der Gründer das Handtuch."
+  ],
+  "ex_zh": "三年毫无起色后，创始人撒手不干了。",
+  "use": {
+   "col": [
+    [
+     "das Handtuch werfen",
+     "放弃；认输"
+    ],
+    [
+     "nicht das Handtuch werfen",
+     "不放弃"
+    ]
+   ],
+   "tip": "口语惯用语；来自拳击"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Klartext reden",
+  "pos": "phr",
+  "zh": "直截了当地说",
+  "ex": [
+   "In der Besprechung redete der Chef endlich Klartext."
+  ],
+  "ex_zh": "在会议上，老板终于直说了。",
+  "use": {
+   "col": [
+    [
+     "Klartext reden",
+     "把话挑明"
+    ],
+    [
+     "Klartext sprechen",
+     "直言不讳"
+    ]
+   ],
+   "tip": "口语；意思是不再客套、说得清清楚楚"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "über die Runden kommen",
+  "pos": "phr",
+  "zh": "勉强维持生活",
+  "ex": [
+   "Mit dem Gehalt einer Praktikantin kommt man in München kaum über die Runden."
+  ],
+  "ex_zh": "靠实习生的工资，在慕尼黑几乎过不下去。",
+  "use": {
+   "col": [
+    [
+     "gerade so über die Runden kommen",
+     "勉强过得下去"
+    ],
+    [
+     "finanziell über die Runden kommen",
+     "经济上勉强应付"
+    ]
+   ],
+   "tip": "口语惯用语；来自拳击回合"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "die Zügel in der Hand halten",
+  "pos": "phr",
+  "zh": "掌控局面",
+  "ex": [
+   "Auch in der Krise hielt die Geschäftsführerin die Zügel fest in der Hand."
+  ],
+  "ex_zh": "即使在危机中，这位总经理也牢牢掌控局面。",
+  "use": {
+   "col": [
+    [
+     "die Zügel in der Hand halten",
+     "掌控局面"
+    ],
+    [
+     "die Zügel locker lassen",
+     "放松管制"
+    ]
+   ],
+   "tip": "Zügel = 缰绳；惯用语"
+  }
+ }
+]

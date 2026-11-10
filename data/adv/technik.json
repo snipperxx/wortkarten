@@ -1,0 +1,10202 @@
+[
+ {
+  "lv": "B2",
+  "lemma": "Software",
+  "art": "die",
+  "pos": "n",
+  "zh": "软件",
+  "ex": [
+   "Die neue Software spart uns jeden Tag mehrere Stunden Arbeit."
+  ],
+  "ex_zh": "新软件让我们每天节省好几个小时的工作。",
+  "use": {
+   "col": [
+    [
+     "eine Software installieren",
+     "安装软件"
+    ],
+    [
+     "Software entwickeln",
+     "开发软件"
+    ]
+   ],
+   "tip": "通常不用复数；反义词 Hardware"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Hardware",
+  "art": "die",
+  "pos": "n",
+  "zh": "硬件",
+  "ex": [
+   "Die Hardware im Rechenzentrum wird alle fünf Jahre erneuert."
+  ],
+  "ex_zh": "数据中心的硬件每五年更新一次。",
+  "use": {
+   "col": [
+    [
+     "die Hardware austauschen",
+     "更换硬件"
+    ],
+    [
+     "veraltete Hardware",
+     "过时的硬件"
+    ]
+   ],
+   "tip": "通常不用复数；h 要发音"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Quellcode",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Quellcodes",
+  "zh": "源代码",
+  "ex": [
+   "Der Quellcode des Programms ist für alle Entwickler einsehbar."
+  ],
+  "ex_zh": "这个程序的源代码对所有开发者都可查看。",
+  "use": {
+   "col": [
+    [
+     "den Quellcode prüfen",
+     "检查源代码"
+    ],
+    [
+     "der Quellcode ist offen",
+     "源代码是公开的"
+    ]
+   ],
+   "tip": "同义词 Quelltext；开源软件说 quelloffene Software"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fehlermeldung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Fehlermeldungen",
+  "zh": "错误提示；报错信息",
+  "ex": [
+   "Beim Start des Programms erscheint sofort eine Fehlermeldung."
+  ],
+  "ex_zh": "程序一启动就弹出一条错误提示。",
+  "use": {
+   "col": [
+    [
+     "eine Fehlermeldung anzeigen",
+     "显示错误提示"
+    ],
+    [
+     "die Fehlermeldung kopieren",
+     "复制报错信息"
+    ]
+   ],
+   "tip": "Fehler 加 Meldung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Absturz",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Abstürze",
+  "zh": "崩溃；坠落",
+  "ex": [
+   "Nach dem Update kam es zu mehreren Abstürzen der Anwendung."
+  ],
+  "ex_zh": "更新之后应用程序崩溃了好几次。",
+  "use": {
+   "senses": [
+    "（程序、系统）崩溃",
+    "（飞机）坠毁",
+    "（登山）坠落"
+   ],
+   "col": [
+    [
+     "ein Absturz des Systems",
+     "系统崩溃"
+    ],
+    [
+     "zum Absturz führen",
+     "导致崩溃"
+    ]
+   ],
+   "tip": "动词 abstürzen；也指飞机坠毁"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Sicherheitslücke",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Sicherheitslücken",
+  "zh": "安全漏洞",
+  "ex": [
+   "Die Sicherheitslücke wurde erst nach drei Wochen geschlossen."
+  ],
+  "ex_zh": "这个安全漏洞三周后才被修复。",
+  "use": {
+   "col": [
+    [
+     "eine Sicherheitslücke ausnutzen",
+     "利用安全漏洞"
+    ],
+    [
+     "eine Sicherheitslücke schließen",
+     "修补安全漏洞"
+    ]
+   ],
+   "tip": "schließen 在这里是「修补」；同义 Schwachstelle 更专业"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Update",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Updates",
+  "zh": "更新",
+  "ex": [
+   "Das Update behebt mehrere Fehler und verbessert die Stabilität."
+  ],
+  "ex_zh": "这次更新修复了几个错误并提高了稳定性。",
+  "use": {
+   "col": [
+    [
+     "ein Update installieren",
+     "安装更新"
+    ],
+    [
+     "ein Update einspielen",
+     "部署更新"
+    ]
+   ],
+   "tip": "中性 das Update；动词 aktualisieren"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Datensicherung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Datensicherungen",
+  "zh": "数据备份",
+  "ex": [
+   "Eine regelmäßige Datensicherung schützt unser Unternehmen zuverlässig vor dem Verlust wichtiger Daten."
+  ],
+  "ex_zh": "定期的数据备份能可靠地保护我们公司不丢失重要数据。",
+  "use": {
+   "col": [
+    [
+     "eine Datensicherung durchführen",
+     "进行数据备份"
+    ],
+    [
+     "die Datensicherung wiederherstellen",
+     "恢复备份"
+    ]
+   ],
+   "tip": "动词 sichern；备份文件叫 Sicherungskopie"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Verschlüsselung",
+  "art": "die",
+  "pos": "n",
+  "zh": "加密",
+  "ex": [
+   "Die Verschlüsselung schützt die Daten bei der Übertragung."
+  ],
+  "ex_zh": "加密在传输过程中保护数据。",
+  "use": {
+   "col": [
+    [
+     "eine starke Verschlüsselung",
+     "强加密"
+    ],
+    [
+     "Ende-zu-Ende-Verschlüsselung",
+     "端到端加密"
+    ]
+   ],
+   "tip": "动词 verschlüsseln；反义 Entschlüsselung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Datenschutz",
+  "art": "der",
+  "pos": "n",
+  "zh": "数据保护；隐私保护",
+  "ex": [
+   "In Deutschland wird der Datenschutz besonders ernst genommen."
+  ],
+  "ex_zh": "在德国，数据保护被特别认真对待。",
+  "use": {
+   "col": [
+    [
+     "gegen den Datenschutz verstoßen",
+     "违反数据保护规定"
+    ],
+    [
+     "auf den Datenschutz achten",
+     "注意数据保护"
+    ]
+   ],
+   "tip": "和 Datensicherheit（技术上的数据安全）不同；欧盟法规 DSGVO"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Einwilligung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Einwilligungen",
+  "zh": "同意；许可",
+  "ex": [
+   "Für die Speicherung brauchen wir die Einwilligung der Nutzer."
+  ],
+  "ex_zh": "存储这些数据需要得到用户的同意。",
+  "gov": "die Einwilligung in + Akk.",
+  "use": {
+   "col": [
+    [
+     "seine Einwilligung geben",
+     "表示同意"
+    ],
+    [
+     "die Einwilligung widerrufen",
+     "撤回同意"
+    ]
+   ],
+   "tip": "动词 einwilligen in + Akk."
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zugriff",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Zugriffe",
+  "zh": "访问；存取",
+  "ex": [
+   "Nur Administratoren haben Zugriff auf die Produktionsdatenbank, alle anderen sehen nur Kopien."
+  ],
+  "ex_zh": "只有管理员能访问生产数据库，其他人只能看到副本。",
+  "gov": "der Zugriff auf + Akk.",
+  "use": {
+   "col": [
+    [
+     "Zugriff auf Daten haben",
+     "可以访问数据"
+    ],
+    [
+     "den Zugriff verweigern",
+     "拒绝访问"
+    ]
+   ],
+   "tip": "动词 zugreifen；Zugriffsrechte = 访问权限"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Berechtigung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Berechtigungen",
+  "zh": "权限；资格",
+  "ex": [
+   "Ohne die nötige Berechtigung kann ich diesen Ordner nicht öffnen."
+  ],
+  "ex_zh": "没有必要的权限，我打不开这个文件夹。",
+  "use": {
+   "senses": [
+    "（系统）权限",
+    "（做某事的）资格、权利"
+   ],
+   "col": [
+    [
+     "eine Berechtigung erteilen",
+     "授予权限"
+    ],
+    [
+     "die Berechtigung entziehen",
+     "收回权限"
+    ]
+   ],
+   "tip": "形容词 berechtigt；berechtigen = 授权"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Benutzerkonto",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Benutzerkonten",
+  "zh": "用户账户",
+  "ex": [
+   "Ich habe mein Benutzerkonto mit einem zweiten Faktor geschützt."
+  ],
+  "ex_zh": "我给自己的用户账户加了第二重验证。",
+  "use": {
+   "col": [
+    [
+     "ein Benutzerkonto anlegen",
+     "创建用户账户"
+    ],
+    [
+     "das Benutzerkonto löschen",
+     "删除用户账户"
+    ]
+   ],
+   "tip": "也说 Nutzerkonto；Konto单独用时多指银行账户"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Nutzer",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Nutzer",
+  "zh": "用户",
+  "ex": [
+   "Die meisten Nutzer lesen die Nutzungsbedingungen nicht, bevor sie auf Zustimmen klicken."
+  ],
+  "ex_zh": "大多数用户在点击「同意」之前不会阅读使用条款。",
+  "use": {
+   "col": [
+    [
+     "registrierte Nutzer",
+     "注册用户"
+    ],
+    [
+     "aktive Nutzer",
+     "活跃用户"
+    ]
+   ],
+   "tip": "阴性 die Nutzerin"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Plattform",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Plattformen",
+  "zh": "平台",
+  "ex": [
+   "Unsere Plattform wird von über zehntausend Kunden genutzt."
+  ],
+  "ex_zh": "我们的平台有一万多名客户在使用。",
+  "use": {
+   "col": [
+    [
+     "auf einer Plattform arbeiten",
+     "在平台上工作"
+    ],
+    [
+     "eine Plattform betreiben",
+     "运营平台"
+    ]
+   ],
+   "tip": "也指政党的纲领性「平台」，较少用"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Cloud",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Clouds",
+  "zh": "云；云端",
+  "ex": [
+   "Wir haben alle Daten in die Cloud verlagert."
+  ],
+  "ex_zh": "我们把所有数据都迁到了云端。",
+  "use": {
+   "col": [
+    [
+     "in der Cloud speichern",
+     "存在云端"
+    ],
+    [
+     "Dienste aus der Cloud",
+     "云端服务"
+    ]
+   ],
+   "tip": "发音 [klaʊt]，阴性名词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Rechenzentrum",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Rechenzentren",
+  "zh": "数据中心；计算中心",
+  "ex": [
+   "Das neue Rechenzentrum der Stadt verbraucht im Jahr so viel Strom wie ein kleines Dorf."
+  ],
+  "ex_zh": "城里新建的数据中心一年的用电量相当于一个小村庄。",
+  "use": {
+   "col": [
+    [
+     "ein Rechenzentrum betreiben",
+     "运营数据中心"
+    ],
+    [
+     "das Rechenzentrum der Universität",
+     "大学的计算中心"
+    ]
+   ],
+   "tip": "Rechner加 Zentrum；缩写 RZ"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Wartung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Wartungen",
+  "zh": "维护；保养",
+  "ex": [
+   "Die Wartung der Anlage dauert normalerweise zwei Tage."
+  ],
+  "ex_zh": "设备的维护通常需要两天。",
+  "use": {
+   "col": [
+    [
+     "regelmäßige Wartung",
+     "定期维护"
+    ],
+    [
+     "Wartungsarbeiten durchführen",
+     "进行维护作业"
+    ]
+   ],
+   "tip": "动词 warten（维护，和「等待」同形）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Bereitstellung",
+  "art": "die",
+  "pos": "n",
+  "zh": "提供；部署",
+  "ex": [
+   "Die Bereitstellung der neuen Version ist für Freitag geplant."
+  ],
+  "ex_zh": "新版本的部署安排在周五。",
+  "gov": "die Bereitstellung von + Dat.",
+  "use": {
+   "col": [
+    [
+     "die Bereitstellung von Ressourcen",
+     "提供资源"
+    ],
+    [
+     "zur Bereitstellung von Daten",
+     "用于提供数据"
+    ]
+   ],
+   "tip": "动词 bereitstellen；IT 里也指部署"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Programmiersprache",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Programmiersprachen",
+  "zh": "编程语言",
+  "ex": [
+   "Python ist eine der beliebtesten Programmiersprachen, besonders in der Datenanalyse und beim maschinellen Lernen."
+  ],
+  "ex_zh": "Python 是最受欢迎的编程语言之一，尤其在数据分析和机器学习中。",
+  "use": {
+   "col": [
+    [
+     "eine Programmiersprache lernen",
+     "学一门编程语言"
+    ],
+    [
+     "in einer Programmiersprache schreiben",
+     "用某种编程语言编写"
+    ]
+   ],
+   "tip": "Sprache的复合词；动词 programmieren"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Programmierer",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Programmierer",
+  "zh": "程序员",
+  "ex": [
+   "Als Programmierer verbringt er den Tag vor dem Bildschirm."
+  ],
+  "ex_zh": "作为程序员，他一整天都对着屏幕。",
+  "use": {
+   "col": [
+    [
+     "ein erfahrener Programmierer",
+     "经验丰富的程序员"
+    ],
+    [
+     "als Programmierer arbeiten",
+     "当程序员"
+    ]
+   ],
+   "tip": "阴性 die Programmiererin；Entwickler更常用于招聘"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Funktion",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Funktionen",
+  "zh": "功能；函数；职务",
+  "ex": [
+   "Diese Funktion gibt die Summe aller Werte zurück."
+  ],
+  "ex_zh": "这个函数返回所有数值的总和。",
+  "use": {
+   "senses": [
+    "功能",
+    "（编程）函数",
+    "职务、职能"
+   ],
+   "col": [
+    [
+     "eine Funktion aufrufen",
+     "调用函数"
+    ],
+    [
+     "außer Funktion sein",
+     "停止运转"
+    ]
+   ],
+   "tip": "和 funktionieren同族；重音在 -tion"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Variable",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Variablen",
+  "zh": "变量",
+  "ex": [
+   "Die Variable wird am Anfang des Programms deklariert."
+  ],
+  "ex_zh": "变量在程序开头被声明。",
+  "use": {
+   "col": [
+    [
+     "eine Variable definieren",
+     "定义变量"
+    ],
+    [
+     "den Wert einer Variable ändern",
+     "修改变量的值"
+    ]
+   ],
+   "tip": "形容词 variabel 是「可变的」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Algorithmus",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Algorithmen",
+  "zh": "算法",
+  "ex": [
+   "Der Algorithmus sortiert die Ergebnisse nach ihrer Relevanz."
+  ],
+  "ex_zh": "这个算法按相关性对结果排序。",
+  "use": {
+   "col": [
+    [
+     "einen Algorithmus entwickeln",
+     "设计算法"
+    ],
+    [
+     "ein lernender Algorithmus",
+     "学习型算法"
+    ]
+   ],
+   "tip": "复数 Algorithmen，不是 -s"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Datenverarbeitung",
+  "art": "die",
+  "pos": "n",
+  "zh": "数据处理",
+  "ex": [
+   "Die Datenverarbeitung erfolgt ausschließlich auf Servern in Deutschland."
+  ],
+  "ex_zh": "数据处理只在德国的服务器上进行。",
+  "use": {
+   "col": [
+    [
+     "die elektronische Datenverarbeitung",
+     "电子数据处理"
+    ],
+    [
+     "die Datenverarbeitung automatisieren",
+     "使数据处理自动化"
+    ]
+   ],
+   "tip": "缩写 EDV；DSGVO 里的「处理」就是这个词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Auswertung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Auswertungen",
+  "zh": "评估；分析；统计",
+  "ex": [
+   "Die Auswertung der Umfrage dauert noch bis nächste Woche."
+  ],
+  "ex_zh": "问卷的统计分析还要到下周。",
+  "use": {
+   "col": [
+    [
+     "eine Auswertung erstellen",
+     "做出分析报告"
+    ],
+    [
+     "statistische Auswertung",
+     "统计分析"
+    ]
+   ],
+   "tip": "动词 auswerten"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Datensatz",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Datensätze",
+  "zh": "数据集；一条记录",
+  "ex": [
+   "Der Datensatz enthält über eine Million Einträge und muss vor dem Training bereinigt werden."
+  ],
+  "ex_zh": "这个数据集有一百多万条记录，训练前必须先清洗。",
+  "use": {
+   "senses": [
+    "数据库中的一条记录",
+    "数据集"
+   ],
+   "col": [
+    [
+     "einen Datensatz anlegen",
+     "新建一条记录"
+    ],
+    [
+     "einen Datensatz löschen",
+     "删除一条记录"
+    ]
+   ],
+   "tip": "数据库里指一行记录；机器学习里指整个数据集"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Speicher",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Speicher",
+  "zh": "存储器；内存；仓库",
+  "ex": [
+   "Auf dem Handy ist fast kein Speicher mehr frei."
+  ],
+  "ex_zh": "手机上几乎没有剩余存储空间了。",
+  "use": {
+   "senses": [
+    "存储器、存储空间",
+    "（旧）粮仓；阁楼"
+   ],
+   "col": [
+    [
+     "den Speicher freigeben",
+     "释放内存"
+    ],
+    [
+     "der Speicher ist voll",
+     "存储空间满了"
+    ]
+   ],
+   "tip": "动词 speichern；Speicherplatz = 存储空间"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Arbeitsspeicher",
+  "art": "der",
+  "pos": "n",
+  "zh": "内存",
+  "ex": [
+   "Der Arbeitsspeicher reicht für diese Anwendung nicht aus."
+  ],
+  "ex_zh": "这个应用的内存不够用。",
+  "use": {
+   "col": [
+    [
+     "mehr Arbeitsspeicher einbauen",
+     "加装内存"
+    ],
+    [
+     "den Arbeitsspeicher auslasten",
+     "占满内存"
+    ]
+   ],
+   "tip": "和 Festplatte（硬盘）区分"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Sensor",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Sensoren",
+  "zh": "传感器",
+  "ex": [
+   "Ein Sensor misst ständig die Temperatur im Gehäuse und meldet Abweichungen an die Steuerung."
+  ],
+  "ex_zh": "一个传感器持续测量外壳内的温度，并把偏差报告给控制系统。",
+  "use": {
+   "col": [
+    [
+     "ein Sensor erkennt",
+     "传感器检测到"
+    ],
+    [
+     "Daten der Sensoren",
+     "传感器数据"
+    ]
+   ],
+   "tip": "复数 Sensoren，重音移到 -o-"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Roboter",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Roboter",
+  "zh": "机器人",
+  "ex": [
+   "In der Fabrik schweißen Roboter die Karosserien zusammen."
+  ],
+  "ex_zh": "工厂里机器人把车身焊接在一起。",
+  "use": {
+   "col": [
+    [
+     "Roboter einsetzen",
+     "使用机器人"
+    ],
+    [
+     "ein autonomer Roboter",
+     "自主机器人"
+    ]
+   ],
+   "tip": "重音在第一音节；Staubsaugerroboter = 扫地机器人"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Automatisierung",
+  "art": "die",
+  "pos": "n",
+  "zh": "自动化",
+  "ex": [
+   "Die Automatisierung der Tests spart dem Team viel Zeit."
+  ],
+  "ex_zh": "测试的自动化为团队节省了很多时间。",
+  "use": {
+   "col": [
+    [
+     "die Automatisierung vorantreiben",
+     "推进自动化"
+    ],
+    [
+     "zur Automatisierung beitragen",
+     "有助于自动化"
+    ]
+   ],
+   "tip": "动词 automatisieren；形容词 automatisch"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Digitalisierung",
+  "art": "die",
+  "pos": "n",
+  "zh": "数字化",
+  "ex": [
+   "Die Digitalisierung der Verwaltung kommt in Deutschland nur langsam voran."
+  ],
+  "ex_zh": "德国行政管理的数字化进展缓慢。",
+  "use": {
+   "col": [
+    [
+     "die Digitalisierung vorantreiben",
+     "推进数字化"
+    ],
+    [
+     "im Zuge der Digitalisierung",
+     "在数字化的进程中"
+    ]
+   ],
+   "tip": "动词 digitalisieren；德国媒体的热门词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Vernetzung",
+  "art": "die",
+  "pos": "n",
+  "zh": "联网；互联；人脉",
+  "ex": [
+   "Die Vernetzung von Maschinen ist ein Kern von Industrie 4.0."
+  ],
+  "ex_zh": "机器之间的联网是工业 4.0 的核心。",
+  "use": {
+   "senses": [
+    "（设备）联网",
+    "（人与人）建立联系、人脉"
+   ],
+   "col": [
+    [
+     "die Vernetzung der Geräte",
+     "设备互联"
+    ],
+    [
+     "berufliche Vernetzung",
+     "职业人脉"
+    ]
+   ],
+   "tip": "动词 vernetzen；Netzwerk"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "App",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Apps",
+  "zh": "应用程序；手机应用",
+  "ex": [
+   "Mit der App kann ich meine Überweisungen jederzeit prüfen."
+  ],
+  "ex_zh": "我可以用这个应用随时查看自己的转账。",
+  "use": {
+   "col": [
+    [
+     "eine App herunterladen",
+     "下载应用"
+    ],
+    [
+     "die App öffnen",
+     "打开应用"
+    ]
+   ],
+   "tip": "阴性（口语也有人说 das App）；Anwendung更正式"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Bedienung",
+  "art": "die",
+  "pos": "n",
+  "zh": "操作；使用；服务",
+  "ex": [
+   "Die Bedienung des Geräts ist auch für Laien einfach."
+  ],
+  "ex_zh": "这台设备即使外行也很容易操作。",
+  "use": {
+   "senses": [
+    "（设备）操作",
+    "（餐馆）服务、服务员"
+   ],
+   "col": [
+    [
+     "die einfache Bedienung",
+     "操作简单"
+    ],
+    [
+     "Bedienung per Touchscreen",
+     "触摸屏操作"
+    ]
+   ],
+   "tip": "动词 bedienen；Bedienungsanleitung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Benutzerfreundlichkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "易用性；用户友好",
+  "ex": [
+   "Bei der Entwicklung steht die Benutzerfreundlichkeit an erster Stelle."
+  ],
+  "ex_zh": "开发时易用性放在第一位。",
+  "use": {
+   "col": [
+    [
+     "auf Benutzerfreundlichkeit achten",
+     "注重易用性"
+    ],
+    [
+     "zur Benutzerfreundlichkeit beitragen",
+     "提高易用性"
+    ]
+   ],
+   "tip": "形容词 benutzerfreundlich"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Oberfläche",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Oberflächen",
+  "zh": "表面；界面",
+  "ex": [
+   "Die Oberfläche der App wurde im letzten Update komplett überarbeitet und wirkt jetzt viel übersichtlicher."
+  ],
+  "ex_zh": "这个应用的界面在上次更新中被完全重做，现在清晰多了。",
+  "use": {
+   "senses": [
+    "表面",
+    "（软件）界面"
+   ],
+   "col": [
+    [
+     "eine grafische Oberfläche",
+     "图形界面"
+    ],
+    [
+     "die Oberfläche reinigen",
+     "清洁表面"
+    ]
+   ],
+   "tip": "Benutzeroberfläche是它的完整形式"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "WLAN",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die WLANs",
+  "zh": "无线网络",
+  "ex": [
+   "Das WLAN im Büro fällt ständig aus, deshalb arbeite ich oft im Homeoffice."
+  ],
+  "ex_zh": "办公室的无线网络总是掉线，所以我经常在家办公。",
+  "use": {
+   "col": [
+    [
+     "sich ins WLAN einloggen",
+     "连入无线网络"
+    ],
+    [
+     "das WLAN-Passwort",
+     "无线网密码"
+    ]
+   ],
+   "tip": "读作 weh-lan；性别有 das/der 两种，通常 das"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Bandbreite",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Bandbreiten",
+  "zh": "带宽；范围",
+  "ex": [
+   "Bei so vielen Nutzern reicht die Bandbreite nicht mehr aus."
+  ],
+  "ex_zh": "用户这么多，带宽已经不够用了。",
+  "use": {
+   "senses": [
+    "（网络）带宽",
+    "（变动）范围、幅度"
+   ],
+   "col": [
+    [
+     "eine hohe Bandbreite",
+     "高带宽"
+    ],
+    [
+     "die Bandbreite erhöhen",
+     "提高带宽"
+    ]
+   ],
+   "tip": "也指数值、意见的变化范围"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Übertragung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Übertragungen",
+  "zh": "传输；转播",
+  "ex": [
+   "Bei der Übertragung der Datei ist ein Fehler aufgetreten."
+  ],
+  "ex_zh": "文件传输过程中出现了错误。",
+  "use": {
+   "senses": [
+    "（数据）传输",
+    "（电视、广播）转播",
+    "转移、传染"
+   ],
+   "col": [
+    [
+     "die Übertragung von Daten",
+     "数据传输"
+    ],
+    [
+     "eine Live-Übertragung",
+     "直播"
+    ]
+   ],
+   "tip": "动词 übertragen；重音在 -trag-"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Ausfall",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Ausfälle",
+  "zh": "故障；停运；取消",
+  "ex": [
+   "Der Ausfall des Servers legte den ganzen Betrieb lahm."
+  ],
+  "ex_zh": "服务器故障使整个运营陷入瘫痪。",
+  "use": {
+   "col": [
+    [
+     "ein kompletter Ausfall",
+     "彻底瘫痪"
+    ],
+    [
+     "bei Ausfall des Systems",
+     "系统出现故障时"
+    ]
+   ],
+   "tip": "动词 ausfallen；Stromausfall = 停电"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fehlerbehebung",
+  "art": "die",
+  "pos": "n",
+  "zh": "排错；故障排除",
+  "ex": [
+   "Die Fehlerbehebung hat länger gedauert als geplant, weil die Ursache zuerst unklar war."
+  ],
+  "ex_zh": "排错花的时间比计划的长，因为起初原因不明。",
+  "use": {
+   "col": [
+    [
+     "bei der Fehlerbehebung helfen",
+     "协助排错"
+    ],
+    [
+     "die Fehlerbehebung dokumentieren",
+     "记录排错过程"
+    ]
+   ],
+   "tip": "动词 beheben；同义 Fehlerbeseitigung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Dokumentation",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Dokumentationen",
+  "zh": "文档；纪录片",
+  "ex": [
+   "Ohne gute Dokumentation versteht niemand den alten Code."
+  ],
+  "ex_zh": "没有好的文档，没人看得懂旧代码。",
+  "use": {
+   "senses": [
+    "（技术）文档",
+    "纪录片"
+   ],
+   "col": [
+    [
+     "die Dokumentation schreiben",
+     "撰写文档"
+    ],
+    [
+     "technische Dokumentation",
+     "技术文档"
+    ]
+   ],
+   "tip": "动词 dokumentieren；也指电视纪录片"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Prototyp",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Prototypen",
+  "zh": "原型",
+  "ex": [
+   "Wir haben in zwei Wochen einen funktionierenden Prototyp gebaut."
+  ],
+  "ex_zh": "我们在两周内做出了一个可运行的原型。",
+  "use": {
+   "col": [
+    [
+     "einen Prototyp bauen",
+     "制作原型"
+    ],
+    [
+     "den Prototyp testen",
+     "测试原型"
+    ]
+   ],
+   "tip": "重音在第一音节；复数 Prototypen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Version",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Versionen",
+  "zh": "版本",
+  "ex": [
+   "Ich weiß nicht, welche Version der Bibliothek ihr im Projekt verwendet."
+  ],
+  "ex_zh": "我不知道你们项目里用的是这个库的哪个版本。",
+  "use": {
+   "col": [
+    [
+     "die neueste Version",
+     "最新版本"
+    ],
+    [
+     "eine ältere Version",
+     "旧版本"
+    ]
+   ],
+   "tip": "Versionsverwaltung = 版本管理；也指对事件的「说法」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Überwachung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Überwachungen",
+  "zh": "监控；监视",
+  "ex": [
+   "Die Überwachung der Server läuft rund um die Uhr."
+  ],
+  "ex_zh": "服务器的监控全天候运行。",
+  "use": {
+   "senses": [
+    "（系统）监控",
+    "（人）监视"
+   ],
+   "col": [
+    [
+     "die Überwachung der Systeme",
+     "系统监控"
+    ],
+    [
+     "unter Überwachung stehen",
+     "受到监视"
+    ]
+   ],
+   "tip": "动词 überwachen；Videoüberwachung 在德国有争议"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Auslastung",
+  "art": "die",
+  "pos": "n",
+  "zh": "负载；利用率",
+  "ex": [
+   "Die Auslastung der Server liegt derzeit bei neunzig Prozent."
+  ],
+  "ex_zh": "服务器目前的负载约为百分之九十。",
+  "use": {
+   "col": [
+    [
+     "eine hohe Auslastung",
+     "高负载"
+    ],
+    [
+     "die Auslastung steigern",
+     "提高利用率"
+    ]
+   ],
+   "tip": "动词 auslasten；同族词 Last / Belastung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kapazität",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Kapazitäten",
+  "zh": "容量；产能；人力",
+  "ex": [
+   "Unsere Kapazitäten sind bis Ende des Jahres ausgeschöpft."
+  ],
+  "ex_zh": "我们的产能到年底之前已经用满了。",
+  "use": {
+   "senses": [
+    "（存储、生产）容量、产能",
+    "（团队）人手、精力"
+   ],
+   "col": [
+    [
+     "freie Kapazitäten",
+     "空闲产能"
+    ],
+    [
+     "die Kapazität erhöhen",
+     "提高产能"
+    ]
+   ],
+   "tip": "职场里「没有精力、没有人手」常说 keine Kapazitäten"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Effizienz",
+  "art": "die",
+  "pos": "n",
+  "zh": "效率",
+  "ex": [
+   "Durch den Umbau wurde die Effizienz der Anlage deutlich gesteigert."
+  ],
+  "ex_zh": "改造之后设备的效率明显提高了。",
+  "use": {
+   "col": [
+    [
+     "die Effizienz steigern",
+     "提高效率"
+    ],
+    [
+     "mit hoher Effizienz",
+     "高效地"
+    ]
+   ],
+   "tip": "形容词 effizient；和 Wirksamkeit（效力）有别"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Verbrauch",
+  "art": "der",
+  "pos": "n",
+  "zh": "消耗量",
+  "ex": [
+   "Der Verbrauch an Strom ist im letzten Jahr gesunken."
+  ],
+  "ex_zh": "去年的用电量下降了。",
+  "use": {
+   "col": [
+    [
+     "der Stromverbrauch",
+     "用电量"
+    ],
+    [
+     "den Verbrauch senken",
+     "降低消耗"
+    ]
+   ],
+   "tip": "动词 verbrauchen；Energieverbrauch"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Stromversorgung",
+  "art": "die",
+  "pos": "n",
+  "zh": "供电",
+  "ex": [
+   "Bei Ausfall der Stromversorgung springt das Notstromaggregat an."
+  ],
+  "ex_zh": "一旦供电中断，应急发电机就会启动。",
+  "use": {
+   "col": [
+    [
+     "die Stromversorgung sichern",
+     "保障供电"
+    ],
+    [
+     "eine unterbrechungsfreie Stromversorgung",
+     "不间断供电"
+    ]
+   ],
+   "tip": "Strom加 Versorgung；Wasserversorgung 同构"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Solaranlage",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Solaranlagen",
+  "zh": "太阳能设备",
+  "ex": [
+   "Auf dem Dach unserer Firma steht eine große Solaranlage."
+  ],
+  "ex_zh": "我们公司的屋顶上有一套大型太阳能设备。",
+  "use": {
+   "col": [
+    [
+     "eine Solaranlage installieren",
+     "安装太阳能设备"
+    ],
+    [
+     "Strom aus der Solaranlage",
+     "太阳能发的电"
+    ]
+   ],
+   "tip": "Anlage；Photovoltaikanlage 更专业"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Windkraft",
+  "art": "die",
+  "pos": "n",
+  "zh": "风能；风力",
+  "ex": [
+   "Windkraft liefert inzwischen einen großen Teil des deutschen Stroms."
+  ],
+  "ex_zh": "风力现在提供了德国相当大一部分电力。",
+  "use": {
+   "col": [
+    [
+     "Strom aus Windkraft",
+     "风电"
+    ],
+    [
+     "die Windkraft ausbauen",
+     "扩建风电"
+    ]
+   ],
+   "tip": "Windkraftanlage = 风力发电设备；Windrad 是口语"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kernenergie",
+  "art": "die",
+  "pos": "n",
+  "zh": "核能",
+  "ex": [
+   "Deutschland hat die Nutzung der Kernenergie zur Stromerzeugung im Jahr 2023 endgültig beendet."
+  ],
+  "ex_zh": "德国在 2023 年彻底结束了用核能发电。",
+  "use": {
+   "col": [
+    [
+     "aus der Kernenergie aussteigen",
+     "退出核能"
+    ],
+    [
+     "die friedliche Nutzung der Kernenergie",
+     "和平利用核能"
+    ]
+   ],
+   "tip": "同义 Atomenergie；德国 2023 年关闭最后三座核电站"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kohle",
+  "art": "die",
+  "pos": "n",
+  "zh": "煤",
+  "ex": [
+   "Der Ausstieg aus der Kohle soll bis spätestens 2038 abgeschlossen sein."
+  ],
+  "ex_zh": "退出煤炭最迟要在 2038 年完成。",
+  "use": {
+   "senses": [
+    "煤",
+    "（口语）钱"
+   ],
+   "col": [
+    [
+     "Strom aus Kohle",
+     "煤电"
+    ],
+    [
+     "die Kohle abbauen",
+     "开采煤炭"
+    ]
+   ],
+   "tip": "口语里 Kohle 也指「钱」（zu viel Kohle）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Erdgas",
+  "art": "das",
+  "pos": "n",
+  "zh": "天然气",
+  "ex": [
+   "Viele Wohnungen in Deutschland werden immer noch mit Erdgas beheizt, obwohl es teurer geworden ist."
+  ],
+  "ex_zh": "德国许多住宅仍然用天然气取暖，尽管它变贵了。",
+  "use": {
+   "col": [
+    [
+     "mit Erdgas heizen",
+     "用天然气取暖"
+    ],
+    [
+     "der Preis für Erdgas",
+     "天然气价格"
+    ]
+   ],
+   "tip": "Gas；Flüssiggas = 液化气"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Akku",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Akkus",
+  "zh": "电池（可充电）",
+  "ex": [
+   "Der Akku meines Laptops hält nur noch zwei Stunden."
+  ],
+  "ex_zh": "我笔记本电脑的电池只能撑两个小时了。",
+  "use": {
+   "col": [
+    [
+     "den Akku aufladen",
+     "给电池充电"
+    ],
+    [
+     "der Akku ist leer",
+     "电池没电了"
+    ]
+   ],
+   "tip": "可充电；一次性电池叫 Batterie"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Ladestation",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Ladestationen",
+  "zh": "充电站；充电桩",
+  "ex": [
+   "In der Tiefgarage gibt es jetzt drei Ladestationen für E-Autos."
+  ],
+  "ex_zh": "地下车库现在有三个电动车充电桩。",
+  "use": {
+   "col": [
+    [
+     "eine Ladestation nutzen",
+     "使用充电站"
+    ],
+    [
+     "Ladestationen ausbauen",
+     "扩建充电站"
+    ]
+   ],
+   "tip": "动词 laden / aufladen；口语也说 Ladesäule"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Energiewende",
+  "art": "die",
+  "pos": "n",
+  "zh": "能源转型",
+  "ex": [
+   "Die Energiewende erfordert den Ausbau der Stromnetze und viel mehr Speicher für Strom."
+  ],
+  "ex_zh": "能源转型需要扩建电网，也需要多得多的储电设施。",
+  "use": {
+   "col": [
+    [
+     "die Energiewende vorantreiben",
+     "推进能源转型"
+    ],
+    [
+     "die Kosten der Energiewende",
+     "能源转型的成本"
+    ]
+   ],
+   "tip": "德国政治新闻高频词；Wende = 转折"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Stromanbieter",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Stromanbieter",
+  "zh": "电力供应商",
+  "ex": [
+   "Ich habe den Stromanbieter gewechselt und spare jetzt zwanzig Euro im Monat."
+  ],
+  "ex_zh": "我换了电力供应商，现在每月省二十欧元。",
+  "use": {
+   "col": [
+    [
+     "den Stromanbieter wechseln",
+     "更换电力供应商"
+    ],
+    [
+     "ein günstiger Stromanbieter",
+     "便宜的电力供应商"
+    ]
+   ],
+   "tip": "Anbieter；阴性 die Stromanbieterin"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Nachhaltigkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "可持续性",
+  "ex": [
+   "Nachhaltigkeit spielt bei unseren Entscheidungen eine immer größere Rolle."
+  ],
+  "ex_zh": "可持续性在我们的决策中越来越重要。",
+  "use": {
+   "col": [
+    [
+     "auf Nachhaltigkeit achten",
+     "注重可持续性"
+    ],
+    [
+     "ein Bericht zur Nachhaltigkeit",
+     "可持续发展报告"
+    ]
+   ],
+   "tip": "形容词 nachhaltig；原指林业的「持续利用」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Emission",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Emissionen",
+  "zh": "排放",
+  "ex": [
+   "Die Emissionen von Kohlendioxid sollen bis 2030 deutlich sinken."
+  ],
+  "ex_zh": "二氧化碳排放量要在 2030 年前显著下降。",
+  "use": {
+   "col": [
+    [
+     "Emissionen senken",
+     "减少排放"
+    ],
+    [
+     "der Ausstoß von Emissionen",
+     "排放量"
+    ]
+   ],
+   "tip": "多用复数；同义 Ausstoß"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Montage",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Montagen",
+  "zh": "装配；安装",
+  "ex": [
+   "Die Montage des Regals dauert etwa eine Stunde."
+  ],
+  "ex_zh": "装配这个架子大约要一个小时。",
+  "use": {
+   "senses": [
+    "（机器、家具）装配",
+    "在外地安装工作"
+   ],
+   "col": [
+    [
+     "die Montage der Bauteile",
+     "零件装配"
+    ],
+    [
+     "auf Montage sein",
+     "出差去安装"
+    ]
+   ],
+   "tip": "动词 montieren；重音在 -tage，g 发 [ʒ]"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fließband",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Fließbänder",
+  "zh": "流水线",
+  "ex": [
+   "Am Fließband arbeiten die Beschäftigten in drei Schichten."
+  ],
+  "ex_zh": "流水线上的员工分三班倒。",
+  "use": {
+   "col": [
+    [
+     "am Fließband arbeiten",
+     "在流水线上工作"
+    ],
+    [
+     "vom Fließband laufen",
+     "下线"
+    ]
+   ],
+   "tip": "Band 的复数用 Bänder；Fließbandarbeit = 流水线工作"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Maschinenbau",
+  "art": "der",
+  "pos": "n",
+  "zh": "机械制造；机械工程",
+  "ex": [
+   "Der Maschinenbau ist ein wichtiger Wirtschaftszweig in Baden-Württemberg."
+  ],
+  "ex_zh": "机械制造是巴登-符腾堡州的重要经济部门。",
+  "use": {
+   "col": [
+    [
+     "Maschinenbau studieren",
+     "学机械工程"
+    ],
+    [
+     "im Maschinenbau tätig sein",
+     "从事机械制造"
+    ]
+   ],
+   "tip": "没有复数；Maschinenbauingenieur = 机械工程师"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Herstellung",
+  "art": "die",
+  "pos": "n",
+  "zh": "制造；生产",
+  "ex": [
+   "Die Herstellung der einzelnen Bauteile ist sehr aufwendig und kostet viel Energie."
+  ],
+  "ex_zh": "每个零件的制造都很费工夫，还耗费大量能源。",
+  "use": {
+   "col": [
+    [
+     "die Herstellung von Chips",
+     "芯片制造"
+    ],
+    [
+     "bei der Herstellung",
+     "在制造过程中"
+    ]
+   ],
+   "tip": "动词 herstellen；Hersteller"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zulieferer",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Zulieferer",
+  "zh": "供应商（零部件）",
+  "ex": [
+   "Viele Zulieferer der Autoindustrie leiden unter den hohen Energiepreisen."
+  ],
+  "ex_zh": "汽车业的许多零部件供应商受到高能源价格的困扰。",
+  "use": {
+   "col": [
+    [
+     "ein Zulieferer der Autoindustrie",
+     "汽车业零部件供应商"
+    ],
+    [
+     "Zulieferer beliefern",
+     "给供应商供货"
+    ]
+   ],
+   "tip": "动词 zuliefern；比 Lieferant 更强调配套零部件"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Lieferkette",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Lieferketten",
+  "zh": "供应链",
+  "ex": [
+   "Die Lieferketten sind durch die Krise stark gestört worden."
+  ],
+  "ex_zh": "供应链因为这场危机受到了严重干扰。",
+  "use": {
+   "col": [
+    [
+     "die Lieferkette unterbrechen",
+     "中断供应链"
+    ],
+    [
+     "Lieferkettengesetz",
+     "供应链法"
+    ]
+   ],
+   "tip": "Kette = 链；Lieferengpass = 供货瓶颈"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Qualitätssicherung",
+  "art": "die",
+  "pos": "n",
+  "zh": "质量保证",
+  "ex": [
+   "Die Qualitätssicherung prüft jedes Produkt vor der Auslieferung."
+  ],
+  "ex_zh": "质量保证部门在发货前检查每件产品。",
+  "use": {
+   "col": [
+    [
+     "in der Qualitätssicherung arbeiten",
+     "在质量保证部门工作"
+    ],
+    [
+     "die Qualitätssicherung verbessern",
+     "改进质量保证"
+    ]
+   ],
+   "tip": "缩写 QS；软件测试团队也常叫这个"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Ersatzteil",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Ersatzteile",
+  "zh": "备件；替换零件",
+  "ex": [
+   "Für dieses alte Modell gibt es kaum noch Ersatzteile."
+  ],
+  "ex_zh": "这个旧型号几乎没有备件了。",
+  "use": {
+   "col": [
+    [
+     "Ersatzteile bestellen",
+     "订购备件"
+    ],
+    [
+     "ein Ersatzteil einbauen",
+     "装上备件"
+    ]
+   ],
+   "tip": "Ersatz加 Teil"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Konstruktion",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Konstruktionen",
+  "zh": "构造；设计；结构",
+  "ex": [
+   "Die Konstruktion der Brücke wurde nach den ersten Berechnungen mehrfach überarbeitet."
+  ],
+  "ex_zh": "这座桥的设计在最初的计算之后被多次修改。",
+  "use": {
+   "senses": [
+    "（机械、建筑）设计、结构",
+    "（语法）句式"
+   ],
+   "col": [
+    [
+     "eine stabile Konstruktion",
+     "稳固的结构"
+    ],
+    [
+     "die Konstruktion planen",
+     "规划结构"
+    ]
+   ],
+   "tip": "动词 konstruieren；Konstrukteur = 设计工程师"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Verfahren",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Verfahren",
+  "zh": "方法；工艺；诉讼程序",
+  "ex": [
+   "Das Verfahren ist günstiger als die bisherigen Methoden."
+  ],
+  "ex_zh": "这种工艺比以前的方法便宜。",
+  "use": {
+   "senses": [
+    "（技术）方法、工艺",
+    "（法律）诉讼程序"
+   ],
+   "col": [
+    [
+     "ein Verfahren anwenden",
+     "采用某种工艺"
+    ],
+    [
+     "ein Verfahren einleiten",
+     "启动程序"
+    ]
+   ],
+   "tip": "和动词 verfahren 同形；技术上的「方法」比 Methode更具体"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Patent",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Patente",
+  "zh": "专利",
+  "ex": [
+   "Die Firma hat das Patent auf die neue Batterie angemeldet."
+  ],
+  "ex_zh": "公司为这种新电池申请了专利。",
+  "gov": "ein Patent auf + Akk.",
+  "use": {
+   "col": [
+    [
+     "ein Patent anmelden",
+     "申请专利"
+    ],
+    [
+     "ein Patent halten",
+     "持有专利"
+    ]
+   ],
+   "tip": "重音在 -tent；patentieren = 授予专利"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Innovation",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Innovationen",
+  "zh": "创新",
+  "ex": [
+   "Innovationen entstehen oft im Austausch zwischen Forschung und Industrie."
+  ],
+  "ex_zh": "创新常常产生于科研与工业的交流之中。",
+  "use": {
+   "col": [
+    [
+     "technische Innovationen",
+     "技术创新"
+    ],
+    [
+     "Innovationen fördern",
+     "促进创新"
+    ]
+   ],
+   "tip": "形容词 innovativ"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Hacker",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Hacker",
+  "zh": "黑客",
+  "ex": [
+   "Hacker haben die Kundendaten des Unternehmens gestohlen und im Internet zum Verkauf angeboten."
+  ],
+  "ex_zh": "黑客窃取了这家公司的客户数据，并在网上出售。",
+  "use": {
+   "col": [
+    [
+     "von Hackern angegriffen werden",
+     "遭到黑客攻击"
+    ],
+    [
+     "ein ethischer Hacker",
+     "白帽黑客"
+    ]
+   ],
+   "tip": "阴性 die Hackerin；动词 hacken"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Angriff",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Angriffe",
+  "zh": "攻击",
+  "ex": [
+   "Der Angriff auf das Netzwerk wurde rechtzeitig bemerkt."
+  ],
+  "ex_zh": "对网络的攻击被及时发现了。",
+  "gov": "der Angriff auf + Akk.",
+  "use": {
+   "col": [
+    [
+     "einen Angriff abwehren",
+     "抵御攻击"
+    ],
+    [
+     "ein gezielter Angriff",
+     "有针对性的攻击"
+    ]
+   ],
+   "tip": "动词 angreifen；Angriffsfläche = 攻击面"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Cyberangriff",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Cyberangriffe",
+  "zh": "网络攻击",
+  "ex": [
+   "Nach dem Cyberangriff war die Verwaltung tagelang lahmgelegt."
+  ],
+  "ex_zh": "遭到网络攻击后，行政部门瘫痪了好几天。",
+  "use": {
+   "col": [
+    [
+     "Opfer eines Cyberangriffs werden",
+     "成为网络攻击的受害者"
+    ],
+    [
+     "einen Cyberangriff abwehren",
+     "抵御网络攻击"
+    ]
+   ],
+   "tip": "德国新闻常见；Cyber 读 [ˈsaɪbɐ]"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Schadsoftware",
+  "art": "die",
+  "pos": "n",
+  "zh": "恶意软件",
+  "ex": [
+   "Die Schadsoftware wurde über einen E-Mail-Anhang in das Firmennetzwerk eingeschleust."
+  ],
+  "ex_zh": "恶意软件是通过邮件附件被植入公司网络的。",
+  "use": {
+   "col": [
+    [
+     "Schadsoftware verbreiten",
+     "传播恶意软件"
+    ],
+    [
+     "von Schadsoftware befallen sein",
+     "感染了恶意软件"
+    ]
+   ],
+   "tip": "同义 Schadprogramm；Virus是其中一种"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Firewall",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Firewalls",
+  "zh": "防火墙",
+  "ex": [
+   "Die Firewall blockiert alle Verbindungen von außen, die nicht ausdrücklich erlaubt sind."
+  ],
+  "ex_zh": "防火墙拦截所有未被明确允许的外部连接。",
+  "use": {
+   "col": [
+    [
+     "die Firewall konfigurieren",
+     "配置防火墙"
+    ],
+    [
+     "hinter einer Firewall",
+     "在防火墙之后"
+    ]
+   ],
+   "tip": "阴性；读作 [ˈfaɪɐvɔl]"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Datenpanne",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Datenpannen",
+  "zh": "数据泄露事故",
+  "ex": [
+   "Nach der Datenpanne mussten alle Kunden informiert werden."
+  ],
+  "ex_zh": "发生数据泄露事故后，所有客户都必须被告知。",
+  "use": {
+   "col": [
+    [
+     "eine Datenpanne melden",
+     "上报数据泄露事故"
+    ],
+    [
+     "zu einer Datenpanne kommen",
+     "发生数据泄露事故"
+    ]
+   ],
+   "tip": "Panne；严重时说 Datenleck"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Privatsphäre",
+  "art": "die",
+  "pos": "n",
+  "zh": "隐私",
+  "ex": [
+   "Der Schutz der Privatsphäre ist im Internet schwer zu gewährleisten."
+  ],
+  "ex_zh": "在网络上很难保障隐私。",
+  "use": {
+   "col": [
+    [
+     "die Privatsphäre schützen",
+     "保护隐私"
+    ],
+    [
+     "in die Privatsphäre eingreifen",
+     "侵犯隐私"
+    ]
+   ],
+   "tip": "和 Datenschutz 相关；Privatleben = 私人生活"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gesichtserkennung",
+  "art": "die",
+  "pos": "n",
+  "zh": "人脸识别",
+  "ex": [
+   "Der Einsatz von Gesichtserkennung am Bahnhof ist politisch umstritten und rechtlich fraglich."
+  ],
+  "ex_zh": "在火车站使用人脸识别在政治上有争议，法律上也存疑。",
+  "use": {
+   "col": [
+    [
+     "automatische Gesichtserkennung",
+     "自动人脸识别"
+    ],
+    [
+     "Gesichtserkennung einsetzen",
+     "使用人脸识别"
+    ]
+   ],
+   "tip": "Erkennung 来自 erkennen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Spracherkennung",
+  "art": "die",
+  "pos": "n",
+  "zh": "语音识别",
+  "ex": [
+   "Die Spracherkennung versteht Dialekte und leise Stimmen oft nur ziemlich schlecht."
+  ],
+  "ex_zh": "语音识别对方言和小声说话的识别往往相当差。",
+  "use": {
+   "col": [
+    [
+     "die Spracherkennung aktivieren",
+     "开启语音识别"
+    ],
+    [
+     "eine automatische Spracherkennung",
+     "自动语音识别"
+    ]
+   ],
+   "tip": "Sprache加 Erkennung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Chatbot",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Chatbots",
+  "zh": "聊天机器人",
+  "ex": [
+   "Der Chatbot beantwortet einfache Fragen der Kunden rund um die Uhr."
+  ],
+  "ex_zh": "聊天机器人全天候回答客户的简单问题。",
+  "use": {
+   "col": [
+    [
+     "einen Chatbot einsetzen",
+     "使用聊天机器人"
+    ],
+    [
+     "mit dem Chatbot sprechen",
+     "和聊天机器人对话"
+    ]
+   ],
+   "tip": "读作 [ˈtʃɛtbɔt]"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Vorhersage",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Vorhersagen",
+  "zh": "预测",
+  "ex": [
+   "Die Vorhersage des Modells war für die letzten Wochen sehr genau."
+  ],
+  "ex_zh": "模型对最近几周的预测非常准确。",
+  "use": {
+   "col": [
+    [
+     "eine Vorhersage treffen",
+     "做出预测"
+    ],
+    [
+     "die Vorhersage bestätigt sich",
+     "预测应验"
+    ]
+   ],
+   "tip": "动词 vorhersagen；Wettervorhersage"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Prognose",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Prognosen",
+  "zh": "预测；预报",
+  "ex": [
+   "Die Prognose für das nächste Quartal ist optimistisch."
+  ],
+  "ex_zh": "对下个季度的预测很乐观。",
+  "use": {
+   "col": [
+    [
+     "eine Prognose abgeben",
+     "给出预测"
+    ],
+    [
+     "laut Prognose",
+     "根据预测"
+    ]
+   ],
+   "tip": "比 Vorhersage 更正式，常用于经济、医学"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Trainingsdaten (Pl.)",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Trainingsdaten",
+  "zh": "训练数据",
+  "ex": [
+   "Die Qualität der Trainingsdaten bestimmt die Qualität des Modells."
+  ],
+  "ex_zh": "训练数据的质量决定模型的质量。",
+  "use": {
+   "col": [
+    [
+     "mit Trainingsdaten füttern",
+     "喂入训练数据"
+    ],
+    [
+     "saubere Trainingsdaten",
+     "干净的训练数据"
+    ]
+   ],
+   "tip": "只有复数；Training加 Daten"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Arbeitsschutz",
+  "art": "der",
+  "pos": "n",
+  "zh": "劳动保护；工作安全",
+  "ex": [
+   "Im Betrieb gelten strenge Vorschriften zum Arbeitsschutz, vor allem an den Maschinen."
+  ],
+  "ex_zh": "企业里有严格的劳动保护规定，尤其是在机器旁。",
+  "use": {
+   "col": [
+    [
+     "den Arbeitsschutz beachten",
+     "遵守劳动保护规定"
+    ],
+    [
+     "Arbeitsschutz im Betrieb",
+     "企业里的劳动保护"
+    ]
+   ],
+   "tip": "Schutz；Arbeitsschutzgesetz"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Inbetriebnahme",
+  "art": "die",
+  "pos": "n",
+  "zh": "投入运行；调试启用",
+  "ex": [
+   "Die Inbetriebnahme der neuen Anlage ist für März geplant."
+  ],
+  "ex_zh": "新设备计划在三月投入运行。",
+  "use": {
+   "col": [
+    [
+     "die Inbetriebnahme der Anlage",
+     "设备投入运行"
+    ],
+    [
+     "bei der Inbetriebnahme",
+     "在启用时"
+    ]
+   ],
+   "tip": "动词 in Betrieb nehmen；复数少见"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Arbeitsablauf",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Arbeitsabläufe",
+  "zh": "工作流程",
+  "ex": [
+   "Wir haben die Arbeitsabläufe im Team neu organisiert."
+  ],
+  "ex_zh": "我们在团队里重新安排了工作流程。",
+  "use": {
+   "col": [
+    [
+     "Arbeitsabläufe optimieren",
+     "优化工作流程"
+    ],
+    [
+     "einen Arbeitsablauf automatisieren",
+     "使工作流程自动化"
+    ]
+   ],
+   "tip": "Ablauf；Ablauf加 Arbeit"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Aufwand",
+  "art": "der",
+  "pos": "n",
+  "zh": "投入；工作量；开销",
+  "ex": [
+   "Der Aufwand für die Migration wurde stark unterschätzt."
+  ],
+  "ex_zh": "迁移所需的工作量被严重低估了。",
+  "use": {
+   "col": [
+    [
+     "mit großem Aufwand",
+     "费很大功夫"
+    ],
+    [
+     "den Aufwand schätzen",
+     "估算工作量"
+    ]
+   ],
+   "tip": "形容词 aufwendig；Aufwandsschätzung = 工作量估算"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Meilenstein",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Meilensteine",
+  "zh": "里程碑",
+  "ex": [
+   "Mit dem Prototyp haben wir den ersten Meilenstein erreicht."
+  ],
+  "ex_zh": "有了原型，我们达成了第一个里程碑。",
+  "use": {
+   "col": [
+    [
+     "einen Meilenstein erreichen",
+     "达成里程碑"
+    ],
+    [
+     "ein Meilenstein der Technik",
+     "技术上的里程碑"
+    ]
+   ],
+   "tip": "项目管理常用词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Verfügbarkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "可用性；可获得性",
+  "ex": [
+   "Die Verfügbarkeit des Dienstes liegt bei 99,9 Prozent."
+  ],
+  "ex_zh": "这项服务的可用率是 99.9%。",
+  "use": {
+   "col": [
+    [
+     "die Verfügbarkeit sicherstellen",
+     "保证可用性"
+    ],
+    [
+     "eine hohe Verfügbarkeit",
+     "高可用性"
+    ]
+   ],
+   "tip": "形容词 verfügbar；Ausfall 是它的反面"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Abhängigkeit",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Abhängigkeiten",
+  "zh": "依赖；依赖项",
+  "ex": [
+   "Die Abhängigkeit von fossilen Energien soll verringert werden."
+  ],
+  "ex_zh": "要减少对化石能源的依赖。",
+  "gov": "die Abhängigkeit von + Dat.",
+  "use": {
+   "senses": [
+    "依赖、依靠",
+    "（软件）依赖项",
+    "（对毒品等）成瘾"
+   ],
+   "col": [
+    [
+     "in Abhängigkeit von",
+     "取决于"
+    ],
+    [
+     "Abhängigkeiten aktualisieren",
+     "更新依赖项"
+    ]
+   ],
+   "tip": "形容词 abhängig；软件项目里指依赖库"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Anfrage",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Anfragen",
+  "zh": "请求；询问",
+  "ex": [
+   "Der Server kann nur eine begrenzte Zahl von Anfragen gleichzeitig bearbeiten."
+  ],
+  "ex_zh": "服务器只能同时处理有限数量的请求。",
+  "use": {
+   "col": [
+    [
+     "eine Anfrage senden",
+     "发送请求"
+    ],
+    [
+     "auf eine Anfrage antworten",
+     "回复询问"
+    ]
+   ],
+   "tip": "动词 anfragen；也指向公司的书面询价"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Protokoll",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Protokolle",
+  "zh": "日志；会议记录；协议",
+  "ex": [
+   "Im Protokoll steht, wann der Fehler zum ersten Mal aufgetreten ist."
+  ],
+  "ex_zh": "日志里写着错误第一次出现的时间。",
+  "use": {
+   "senses": [
+    "（系统）日志",
+    "会议记录",
+    "（网络）协议"
+   ],
+   "col": [
+    [
+     "Protokoll führen",
+     "做记录"
+    ],
+    [
+     "ins Protokoll schreiben",
+     "写进记录"
+    ]
+   ],
+   "tip": "动词 protokollieren；重音在 -koll"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Konfiguration",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Konfigurationen",
+  "zh": "配置",
+  "ex": [
+   "Eine falsche Konfiguration war die Ursache für den Ausfall."
+  ],
+  "ex_zh": "错误的配置是这次故障的原因。",
+  "use": {
+   "col": [
+    [
+     "die Konfiguration ändern",
+     "修改配置"
+    ],
+    [
+     "eine Konfigurationsdatei",
+     "配置文件"
+    ]
+   ],
+   "tip": "动词 konfigurieren"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Einstellung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Einstellungen",
+  "zh": "设置；态度；录用",
+  "ex": [
+   "Du kannst die Sprache in den Einstellungen ändern."
+  ],
+  "ex_zh": "你可以在设置里更改语言。",
+  "use": {
+   "senses": [
+    "（软件、设备）设置",
+    "态度、看法",
+    "（员工）录用"
+   ],
+   "col": [
+    [
+     "die Einstellungen ändern",
+     "修改设置"
+    ],
+    [
+     "eine positive Einstellung",
+     "积极的态度"
+    ]
+   ],
+   "tip": "动词 einstellen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Aktualisierung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Aktualisierungen",
+  "zh": "更新",
+  "ex": [
+   "Die Aktualisierung der Daten erfolgt automatisch jede Nacht."
+  ],
+  "ex_zh": "数据每晚自动更新。",
+  "use": {
+   "col": [
+    [
+     "eine Aktualisierung durchführen",
+     "执行更新"
+    ],
+    [
+     "automatische Aktualisierung",
+     "自动更新"
+    ]
+   ],
+   "tip": "动词 aktualisieren；口语说 Update"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Installation",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Installationen",
+  "zh": "安装",
+  "ex": [
+   "Die Installation der Software dauert nur wenige Minuten, wenn man die Voraussetzungen erfüllt."
+  ],
+  "ex_zh": "满足前提条件的话，安装这个软件只需要几分钟。",
+  "use": {
+   "col": [
+    [
+     "die Installation starten",
+     "开始安装"
+    ],
+    [
+     "bei der Installation",
+     "在安装时"
+    ]
+   ],
+   "tip": "动词 installieren；也指水电管线安装"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Wiederherstellung",
+  "art": "die",
+  "pos": "n",
+  "zh": "恢复；还原",
+  "ex": [
+   "Die Wiederherstellung der gelöschten Daten war nicht mehr möglich."
+  ],
+  "ex_zh": "已删除的数据无法再恢复了。",
+  "use": {
+   "col": [
+    [
+     "die Wiederherstellung des Systems",
+     "系统恢复"
+    ],
+    [
+     "zur Wiederherstellung",
+     "用于恢复"
+    ]
+   ],
+   "tip": "动词 wiederherstellen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Engpass",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Engpässe",
+  "zh": "瓶颈；紧缺",
+  "ex": [
+   "Bei Halbleitern kam es zu einem Engpass, der die Produktion bremste."
+  ],
+  "ex_zh": "半导体出现了短缺，拖慢了生产。",
+  "use": {
+   "col": [
+    [
+     "ein Engpass bei der Lieferung",
+     "供货紧缺"
+    ],
+    [
+     "Engpässe beseitigen",
+     "消除瓶颈"
+    ]
+   ],
+   "tip": "Lieferengpass = 供货短缺；eng 加 Pass"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Testumgebung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Testumgebungen",
+  "zh": "测试环境",
+  "ex": [
+   "Bitte teste die Änderung zuerst in der Testumgebung."
+  ],
+  "ex_zh": "请先在测试环境里测试这个改动。",
+  "use": {
+   "col": [
+    [
+     "in der Testumgebung prüfen",
+     "在测试环境里检查"
+    ],
+    [
+     "eine Testumgebung aufsetzen",
+     "搭建测试环境"
+    ]
+   ],
+   "tip": "Produktionsumgebung = 生产环境；Umgebung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Richtlinie",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Richtlinien",
+  "zh": "准则；指令",
+  "ex": [
+   "Die Firma hat neue Richtlinien für die Passwortvergabe eingeführt."
+  ],
+  "ex_zh": "公司出台了新的密码设置准则。",
+  "use": {
+   "col": [
+    [
+     "Richtlinien einhalten",
+     "遵守准则"
+    ],
+    [
+     "eine EU-Richtlinie",
+     "欧盟指令"
+    ]
+   ],
+   "tip": "和 Vorschrift（规定）比，Richtlinie 更像指导性标准"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Norm",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Normen",
+  "zh": "标准；规范",
+  "ex": [
+   "Das Produkt entspricht allen relevanten europäischen Normen und darf deshalb verkauft werden."
+  ],
+  "ex_zh": "这个产品符合所有相关的欧洲标准，因此可以销售。",
+  "use": {
+   "col": [
+    [
+     "einer Norm entsprechen",
+     "符合标准"
+    ],
+    [
+     "die DIN-Norm",
+     "德国工业标准"
+    ]
+   ],
+   "tip": "也指社会规范；Standard 更偏事实标准"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zertifizierung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Zertifizierungen",
+  "zh": "认证",
+  "ex": [
+   "Die Zertifizierung nach ISO 27001 hat ein Jahr gedauert."
+  ],
+  "ex_zh": "按 ISO 27001 的认证花了一年。",
+  "use": {
+   "col": [
+    [
+     "eine Zertifizierung erhalten",
+     "获得认证"
+    ],
+    [
+     "die Zertifizierung beantragen",
+     "申请认证"
+    ]
+   ],
+   "tip": "动词 zertifizieren；Zertifikat是证书"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Standard",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Standards",
+  "zh": "标准；常规",
+  "ex": [
+   "Dieser Standard wird inzwischen von allen großen Herstellern unterstützt."
+  ],
+  "ex_zh": "所有大厂商现在都支持这一标准。",
+  "use": {
+   "col": [
+    [
+     "Standard sein",
+     "是标配"
+    ],
+    [
+     "einen Standard setzen",
+     "树立标准"
+    ]
+   ],
+   "tip": "口语：Das ist heute Standard = 现在是标配"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Bereitschaftsdienst",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Bereitschaftsdienste",
+  "zh": "待命值班",
+  "ex": [
+   "In dieser Woche habe ich Bereitschaftsdienst und muss erreichbar sein."
+  ],
+  "ex_zh": "这周我要待命值班，必须随时能联系上。",
+  "use": {
+   "col": [
+    [
+     "Bereitschaftsdienst haben",
+     "待命值班"
+    ],
+    [
+     "im Bereitschaftsdienst",
+     "处于待命状态"
+    ]
+   ],
+   "tip": "IT 运维和医院常见；也说 Rufbereitschaft"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Priorität",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Prioritäten",
+  "zh": "优先级；优先",
+  "ex": [
+   "Dieser Fehler hat höchste Priorität, deshalb arbeiten wir sofort an der Lösung."
+  ],
+  "ex_zh": "这个错误的优先级最高，所以我们马上着手解决。",
+  "use": {
+   "col": [
+    [
+     "Prioritäten setzen",
+     "确定优先顺序"
+    ],
+    [
+     "hohe Priorität haben",
+     "优先级高"
+    ]
+   ],
+   "tip": "重音在 -tät；形容词 prioritär 较书面"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Eingabe",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Eingaben",
+  "zh": "输入",
+  "ex": [
+   "Bei einer falschen Eingabe zeigt das Formular eine Warnung an."
+  ],
+  "ex_zh": "输入错误时，表单会显示警告。",
+  "use": {
+   "col": [
+    [
+     "die Eingabe bestätigen",
+     "确认输入"
+    ],
+    [
+     "die Eingabe prüfen",
+     "检查输入"
+    ]
+   ],
+   "tip": "动词 eingeben；反义 Ausgabe；Eingabefeld = 输入框"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Abfrage",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Abfragen",
+  "zh": "查询",
+  "ex": [
+   "Die Abfrage der Datenbank dauert viel zu lange."
+  ],
+  "ex_zh": "这个数据库查询花的时间太长了。",
+  "use": {
+   "col": [
+    [
+     "eine Abfrage starten",
+     "发起查询"
+    ],
+    [
+     "eine Abfrage optimieren",
+     "优化查询"
+    ]
+   ],
+   "tip": "动词 abfragen；数据库查询就叫 Abfrage"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Aufruf",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Aufrufe",
+  "zh": "调用；呼吁；访问",
+  "ex": [
+   "Jeder Aufruf der Funktion schreibt einen Eintrag ins Protokoll."
+  ],
+  "ex_zh": "每次调用这个函数都会向日志写入一条记录。",
+  "use": {
+   "senses": [
+    "（函数）调用",
+    "（网页）访问次数",
+    "呼吁、号召"
+   ],
+   "col": [
+    [
+     "der Aufruf einer Funktion",
+     "函数调用"
+    ],
+    [
+     "ein Aufruf zum Streik",
+     "罢工号召"
+    ]
+   ],
+   "tip": "动词 aufrufen；网页的「点击量」也叫 Aufrufe"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Parameter",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Parameter",
+  "zh": "参数",
+  "ex": [
+   "Die Funktion erwartet zwei Parameter vom Typ Zahl."
+  ],
+  "ex_zh": "这个函数需要两个数字类型的参数。",
+  "use": {
+   "col": [
+    [
+     "einen Parameter übergeben",
+     "传入参数"
+    ],
+    [
+     "die Parameter anpassen",
+     "调整参数"
+    ]
+   ],
+   "tip": "重音在第二音节 -ra-；复数不变"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Anweisung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Anweisungen",
+  "zh": "指令；语句；指示",
+  "ex": [
+   "Das Programm führt die Anweisungen der Reihe nach aus."
+  ],
+  "ex_zh": "程序按顺序执行这些语句。",
+  "use": {
+   "senses": [
+    "（编程）语句、指令",
+    "（上级的）指示"
+   ],
+   "col": [
+    [
+     "eine Anweisung ausführen",
+     "执行指令"
+    ],
+    [
+     "auf Anweisung des Chefs",
+     "根据领导的指示"
+    ]
+   ],
+   "tip": "动词 anweisen；日常指「命令、指示」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Laufzeit",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Laufzeiten",
+  "zh": "运行时间；期限",
+  "ex": [
+   "Die Laufzeit des Programms beträgt nur wenige Sekunden."
+  ],
+  "ex_zh": "这个程序的运行时间只有几秒钟。",
+  "use": {
+   "senses": [
+    "（程序）运行时间",
+    "（合同）期限"
+   ],
+   "col": [
+    [
+     "die Laufzeit verkürzen",
+     "缩短运行时间"
+    ],
+    [
+     "ein Vertrag mit einer Laufzeit von zwei Jahren",
+     "期限两年的合同"
+    ]
+   ],
+   "tip": "也指合同、贷款的期限"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Stromnetz",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Stromnetze",
+  "zh": "电网",
+  "ex": [
+   "Das Stromnetz muss für die Windenergie ausgebaut werden."
+  ],
+  "ex_zh": "为了风能，电网必须扩建。",
+  "use": {
+   "col": [
+    [
+     "ins Stromnetz einspeisen",
+     "并入电网"
+    ],
+    [
+     "das Stromnetz überlasten",
+     "使电网过载"
+    ]
+   ],
+   "tip": "Strom加 Netz"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Stromausfall",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Stromausfälle",
+  "zh": "停电",
+  "ex": [
+   "Wegen eines Stromausfalls blieb die ganze Straße dunkel."
+  ],
+  "ex_zh": "由于停电，整条街都是黑的。",
+  "use": {
+   "col": [
+    [
+     "bei einem Stromausfall",
+     "停电时"
+    ],
+    [
+     "einen Stromausfall melden",
+     "报告停电"
+    ]
+   ],
+   "tip": "Ausfall 加 Strom；口语也说 Blackout，德语更常用本词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Wärmepumpe",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Wärmepumpen",
+  "zh": "热泵",
+  "ex": [
+   "Viele Hausbesitzer ersetzen ihre alte Heizung durch eine Wärmepumpe."
+  ],
+  "ex_zh": "许多房主用热泵取代旧暖气。",
+  "use": {
+   "col": [
+    [
+     "eine Wärmepumpe einbauen",
+     "安装热泵"
+    ],
+    [
+     "mit einer Wärmepumpe heizen",
+     "用热泵供暖"
+    ]
+   ],
+   "tip": "德国热门话题；Heizung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Rohstoff",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Rohstoffe",
+  "zh": "原材料；资源",
+  "ex": [
+   "Für Batterien werden seltene Rohstoffe wie Lithium benötigt."
+  ],
+  "ex_zh": "制造电池需要锂这样的稀有原材料。",
+  "use": {
+   "col": [
+    [
+     "Rohstoffe importieren",
+     "进口原材料"
+    ],
+    [
+     "nachwachsende Rohstoffe",
+     "可再生原料"
+    ]
+   ],
+   "tip": "Roh（生的）加 Stoff"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zugangsdaten (Pl.)",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Zugangsdaten",
+  "zh": "登录凭据",
+  "ex": [
+   "Die Zugangsdaten dürfen niemals im Quellcode oder in einer öffentlichen Datei stehen."
+  ],
+  "ex_zh": "登录凭据绝对不能出现在源代码或公开文件里。",
+  "use": {
+   "col": [
+    [
+     "Zugangsdaten eingeben",
+     "输入登录凭据"
+    ],
+    [
+     "Zugangsdaten weitergeben",
+     "转交登录凭据"
+    ]
+   ],
+   "tip": "只有复数；同义 Anmeldedaten；Zugang"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Sicherungskopie",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Sicherungskopien",
+  "zh": "备份副本",
+  "ex": [
+   "Vor dem Update sollte man eine Sicherungskopie anlegen."
+  ],
+  "ex_zh": "更新之前应该先做一份备份。",
+  "use": {
+   "col": [
+    [
+     "eine Sicherungskopie erstellen",
+     "创建备份副本"
+    ],
+    [
+     "von der Sicherungskopie wiederherstellen",
+     "从备份恢复"
+    ]
+   ],
+   "tip": "Kopie；Datensicherung 是备份这一过程"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Testfall",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Testfälle",
+  "zh": "测试用例",
+  "ex": [
+   "Für jede neue Funktion schreiben wir mehrere Testfälle."
+  ],
+  "ex_zh": "每个新功能我们都写几个测试用例。",
+  "use": {
+   "col": [
+    [
+     "einen Testfall schreiben",
+     "编写测试用例"
+    ],
+    [
+     "alle Testfälle bestehen",
+     "通过所有测试用例"
+    ]
+   ],
+   "tip": "Fall；也可说 Testszenario"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Anwender",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Anwender",
+  "zh": "使用者；用户",
+  "ex": [
+   "Die Software richtet sich an Anwender ohne Vorkenntnisse."
+  ],
+  "ex_zh": "这款软件面向没有基础的用户。",
+  "use": {
+   "col": [
+    [
+     "der Anwender sieht",
+     "使用者看到"
+    ],
+    [
+     "für Anwender gedacht sein",
+     "面向使用者"
+    ]
+   ],
+   "tip": "阴性 die Anwenderin；强调使用软件的人，与开发者相对"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Speicherplatz",
+  "art": "der",
+  "pos": "n",
+  "zh": "存储空间",
+  "ex": [
+   "Auf der Festplatte ist kaum noch Speicherplatz frei."
+  ],
+  "ex_zh": "硬盘上几乎没有剩余的存储空间了。",
+  "use": {
+   "col": [
+    [
+     "Speicherplatz freigeben",
+     "释放存储空间"
+    ],
+    [
+     "zu wenig Speicherplatz",
+     "存储空间不足"
+    ]
+   ],
+   "tip": "没有复数；Speicher加 Platz"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Mobilfunk",
+  "art": "der",
+  "pos": "n",
+  "zh": "移动通信",
+  "ex": [
+   "Der Mobilfunk deckt auf dem Land noch nicht überall ab."
+  ],
+  "ex_zh": "农村的移动通信还没有全面覆盖。",
+  "use": {
+   "col": [
+    [
+     "das Mobilfunknetz",
+     "移动通信网络"
+    ],
+    [
+     "den Mobilfunk ausbauen",
+     "扩建移动通信"
+    ]
+   ],
+   "tip": "Funk 加 mobil；Mobilfunkanbieter = 运营商"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Funkloch",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Funklöcher",
+  "zh": "信号盲区",
+  "ex": [
+   "Im Zug gibt es auf dieser Strecke ständig Funklöcher."
+  ],
+  "ex_zh": "火车在这段线路上老是遇到信号盲区。",
+  "use": {
+   "col": [
+    [
+     "in ein Funkloch geraten",
+     "进入信号盲区"
+    ],
+    [
+     "Funklöcher schließen",
+     "消除信号盲区"
+    ]
+   ],
+   "tip": "德国人常抱怨的话题；Loch"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Datenträger",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Datenträger",
+  "zh": "存储介质",
+  "ex": [
+   "Der Datenträger wurde vor der Entsorgung vollständig gelöscht."
+  ],
+  "ex_zh": "这块存储介质在报废前被彻底清除了数据。",
+  "use": {
+   "col": [
+    [
+     "einen Datenträger formatieren",
+     "格式化存储介质"
+    ],
+    [
+     "ein externer Datenträger",
+     "外部存储设备"
+    ]
+   ],
+   "tip": "指硬盘、U 盘、光盘等；复数不变"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Betriebssystem",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Betriebssysteme",
+  "zh": "操作系统",
+  "ex": [
+   "Das Betriebssystem muss regelmäßig aktualisiert werden, damit bekannte Sicherheitslücken geschlossen werden."
+  ],
+  "ex_zh": "操作系统必须定期更新，这样已知的安全漏洞才能被修补。",
+  "use": {
+   "col": [
+    [
+     "das Betriebssystem installieren",
+     "安装操作系统"
+    ],
+    [
+     "ein veraltetes Betriebssystem",
+     "过时的操作系统"
+    ]
+   ],
+   "tip": "Betrieb加 System；缩写 OS 很少用，德语说全称"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Browser",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Browser",
+  "zh": "浏览器",
+  "ex": [
+   "Bitte öffnen Sie die Seite in einem aktuellen Browser."
+  ],
+  "ex_zh": "请用较新的浏览器打开这个页面。",
+  "use": {
+   "col": [
+    [
+     "den Browser aktualisieren",
+     "更新浏览器"
+    ],
+    [
+     "den Cache des Browsers leeren",
+     "清空浏览器缓存"
+    ]
+   ],
+   "tip": "读作 [ˈbraʊzɐ]，复数不变"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Suchmaschine",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Suchmaschinen",
+  "zh": "搜索引擎",
+  "ex": [
+   "Viele Nutzer verlassen sich bei der Suche auf eine einzige Suchmaschine."
+  ],
+  "ex_zh": "许多用户搜索时只依赖一个搜索引擎。",
+  "use": {
+   "col": [
+    [
+     "in der Suchmaschine eingeben",
+     "在搜索引擎里输入"
+    ],
+    [
+     "bei der Suchmaschine ganz oben stehen",
+     "在搜索引擎里排名靠前"
+    ]
+   ],
+   "tip": "Maschine"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Anhang",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Anhänge",
+  "zh": "附件；附录",
+  "ex": [
+   "Im Anhang finden Sie die Rechnung als PDF."
+  ],
+  "ex_zh": "附件里是 PDF 格式的发票。",
+  "use": {
+   "col": [
+    [
+     "einen Anhang öffnen",
+     "打开附件"
+    ],
+    [
+     "im Anhang",
+     "附在后面"
+    ]
+   ],
+   "tip": "复数 Anhänge；E-Mail-Anhang；动词 anhängen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Verzeichnis",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Verzeichnisse",
+  "zh": "目录；名录",
+  "ex": [
+   "Speichere die Datei bitte im Verzeichnis „Projekte“, damit alle im Team sie finden."
+  ],
+  "ex_zh": "请把文件存到「Projekte」目录里，这样团队里的人都能找到。",
+  "use": {
+   "senses": [
+    "（文件）目录",
+    "（人名、公司）名录"
+   ],
+   "col": [
+    [
+     "ein Verzeichnis anlegen",
+     "创建目录"
+    ],
+    [
+     "ein Verzeichnis durchsuchen",
+     "搜索目录"
+    ]
+   ],
+   "tip": "文件夹日常说 Ordner；Telefonverzeichnis = 电话簿"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Benutzername",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Benutzernamen",
+  "zh": "用户名",
+  "ex": [
+   "Der Benutzername darf keine Leerzeichen oder Sonderzeichen enthalten, sonst lehnt das Formular ihn ab."
+  ],
+  "ex_zh": "用户名不能含空格或特殊字符，否则表单会拒绝。",
+  "use": {
+   "col": [
+    [
+     "den Benutzernamen eingeben",
+     "输入用户名"
+    ],
+    [
+     "Benutzername und Passwort",
+     "用户名和密码"
+    ]
+   ],
+   "tip": "也写 Nutzername"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Phishing-Mail",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Phishing-Mails",
+  "zh": "钓鱼邮件",
+  "ex": [
+   "Die Phishing-Mail sah täuschend echt aus und stammte angeblich von der Bank."
+  ],
+  "ex_zh": "这封钓鱼邮件看起来逼真，号称是银行发的。",
+  "use": {
+   "col": [
+    [
+     "eine Phishing-Mail erkennen",
+     "识别钓鱼邮件"
+    ],
+    [
+     "auf eine Phishing-Mail hereinfallen",
+     "上钓鱼邮件的当"
+    ]
+   ],
+   "tip": "Phishing 读 [ˈfɪʃɪŋ]；Mail 在德语是阴性"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Elektroauto",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Elektroautos",
+  "zh": "电动汽车",
+  "ex": [
+   "Immer mehr Pendler steigen auf ein Elektroauto um."
+  ],
+  "ex_zh": "越来越多通勤者换成了电动汽车。",
+  "use": {
+   "col": [
+    [
+     "ein Elektroauto laden",
+     "给电动车充电"
+    ],
+    [
+     "ein Elektroauto kaufen",
+     "买电动车"
+    ]
+   ],
+   "tip": "口语也说 E-Auto；Auto"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Antrieb",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Antriebe",
+  "zh": "驱动；动力",
+  "ex": [
+   "Der Antrieb des Fahrzeugs ist komplett elektrisch und verursacht im Betrieb keine Abgase."
+  ],
+  "ex_zh": "这辆车的动力系统完全是电动的，行驶时不产生尾气。",
+  "use": {
+   "senses": [
+    "（机器）驱动",
+    "（人）动力、干劲"
+   ],
+   "col": [
+    [
+     "ein elektrischer Antrieb",
+     "电力驱动"
+    ],
+    [
+     "der Antrieb versagt",
+     "驱动失灵"
+    ]
+   ],
+   "tip": "也指内在的「动力、干劲」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Reichweite",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Reichweiten",
+  "zh": "续航里程；覆盖范围",
+  "ex": [
+   "Die Reichweite des Elektroautos beträgt etwa vierhundert Kilometer."
+  ],
+  "ex_zh": "这辆电动车的续航约四百公里。",
+  "use": {
+   "senses": [
+    "（车辆）续航",
+    "（信号、武器）覆盖范围"
+   ],
+   "col": [
+    [
+     "die Reichweite erhöhen",
+     "提高续航"
+    ],
+    [
+     "außer Reichweite",
+     "够不着"
+    ]
+   ],
+   "tip": "Reich- 来自 reichen；Weite 指距离"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Verbrennungsmotor",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Verbrennungsmotoren",
+  "zh": "内燃机",
+  "ex": [
+   "Ab 2035 sollen in der EU keine neuen Verbrennungsmotoren mehr zugelassen werden."
+  ],
+  "ex_zh": "从 2035 年起，欧盟将不再批准新的内燃机。",
+  "use": {
+   "col": [
+    [
+     "das Aus für den Verbrennungsmotor",
+     "内燃机的终结"
+    ],
+    [
+     "mit Verbrennungsmotor",
+     "装有内燃机的"
+    ]
+   ],
+   "tip": "Motor；复数 Verbrennungsmotoren"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Wasserkraft",
+  "art": "die",
+  "pos": "n",
+  "zh": "水力；水能",
+  "ex": [
+   "Ein Teil des Stroms in Bayern stammt aus Wasserkraft."
+  ],
+  "ex_zh": "巴伐利亚的一部分电力来自水力。",
+  "use": {
+   "col": [
+    [
+     "Strom aus Wasserkraft",
+     "水电"
+    ],
+    [
+     "die Wasserkraft nutzen",
+     "利用水能"
+    ]
+   ],
+   "tip": "Wasserkraftwerk = 水电站"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kernkraftwerk",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Kernkraftwerke",
+  "zh": "核电站",
+  "ex": [
+   "Die letzten drei Kernkraftwerke in Deutschland wurden 2023 abgeschaltet."
+  ],
+  "ex_zh": "德国最后三座核电站在 2023 年被关闭。",
+  "use": {
+   "col": [
+    [
+     "ein Kernkraftwerk abschalten",
+     "关闭核电站"
+    ],
+    [
+     "ein Kernkraftwerk betreiben",
+     "运营核电站"
+    ]
+   ],
+   "tip": "口语也说 Atomkraftwerk（缩写 AKW）；Kraftwerk"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Brennstoff",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Brennstoffe",
+  "zh": "燃料",
+  "ex": [
+   "Fossile Brennstoffe wie Kohle und Öl sollen langfristig durch erneuerbare Energien ersetzt werden."
+  ],
+  "ex_zh": "煤和石油这样的化石燃料要长期被可再生能源取代。",
+  "use": {
+   "col": [
+    [
+     "fossile Brennstoffe",
+     "化石燃料"
+    ],
+    [
+     "Brennstoffe verbrennen",
+     "燃烧燃料"
+    ]
+   ],
+   "tip": "Kraftstoff 指车辆燃料，Brennstoff 指取暖、发电燃料"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fehlerquote",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Fehlerquoten",
+  "zh": "错误率",
+  "ex": [
+   "Die Fehlerquote sank nach der Umstellung auf unter ein Prozent."
+  ],
+  "ex_zh": "改用新系统后，错误率降到了百分之一以下。",
+  "use": {
+   "col": [
+    [
+     "eine niedrige Fehlerquote",
+     "低错误率"
+    ],
+    [
+     "die Fehlerquote senken",
+     "降低错误率"
+    ]
+   ],
+   "tip": "Quote = 比率；Trefferquote = 命中率"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "abstürzen",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "abgestürzt",
+  "forms": "stürzt ab, stürzte ab, ist abgestürzt",
+  "zh": "崩溃；坠落",
+  "ex": [
+   "Das Programm stürzt jedes Mal ab, wenn ich die Datei öffne."
+  ],
+  "ex_zh": "每次我打开这个文件，程序就崩溃。",
+  "use": {
+   "senses": [
+    "（程序）崩溃",
+    "（飞机）坠毁、（人）摔下"
+   ],
+   "col": [
+    [
+     "das System stürzt ab",
+     "系统崩溃"
+    ],
+    [
+     "ein Flugzeug stürzt ab",
+     "飞机坠毁"
+    ]
+   ],
+   "tip": "可分动词；名词 der Absturz；助动词用 sein"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verschlüsseln",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verschlüsselt",
+  "forms": "verschlüsselt, verschlüsselte, hat verschlüsselt",
+  "zh": "加密",
+  "ex": [
+   "Alle Nachrichten werden direkt auf dem Gerät des Absenders verschlüsselt, bevor sie verschickt werden."
+  ],
+  "ex_zh": "所有消息在发送之前，都会直接在发送者的设备上加密。",
+  "use": {
+   "col": [
+    [
+     "Daten verschlüsseln",
+     "加密数据"
+    ],
+    [
+     "eine verschlüsselte Verbindung",
+     "加密连接"
+    ]
+   ],
+   "tip": "不可分动词；反义 entschlüsseln"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "programmieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "programmiert",
+  "forms": "programmiert, programmierte, hat programmiert",
+  "zh": "编程；编写程序",
+  "ex": [
+   "Ich habe die Schnittstelle in nur zwei Tagen programmiert."
+  ],
+  "ex_zh": "我只用两天就把这个接口编写出来了。",
+  "use": {
+   "col": [
+    [
+     "eine App programmieren",
+     "编写应用程序"
+    ],
+    [
+     "in Java programmieren",
+     "用 Java 编程"
+    ]
+   ],
+   "tip": "名词 Programmierer、Programmierung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "implementieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "implementiert",
+  "forms": "implementiert, implementierte, hat implementiert",
+  "zh": "实现；落实",
+  "ex": [
+   "Wir implementieren die neue Funktion im nächsten Sprint."
+  ],
+  "ex_zh": "我们会在下个迭代里实现这个新功能。",
+  "use": {
+   "col": [
+    [
+     "eine Funktion implementieren",
+     "实现一个功能"
+    ],
+    [
+     "ein Verfahren implementieren",
+     "落实一种方法"
+    ]
+   ],
+   "tip": "名词 die Implementierung；重音在 -ie-"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "abrufen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgerufen",
+  "forms": "ruft ab, rief ab, hat abgerufen",
+  "zh": "调取；读取；获取",
+  "ex": [
+   "Die Mitarbeiter können ihre Gehaltsabrechnung jederzeit im Online-Portal der Firma abrufen."
+  ],
+  "ex_zh": "员工可以随时在公司的在线门户里调取自己的工资单。",
+  "use": {
+   "col": [
+    [
+     "Daten abrufen",
+     "调取数据"
+    ],
+    [
+     "eine Nachricht abrufen",
+     "查看消息"
+    ]
+   ],
+   "tip": "可分动词；名词 der Abruf；也可说「自己取回」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "aufrufen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "aufgerufen",
+  "forms": "ruft auf, rief auf, hat aufgerufen",
+  "zh": "调用；打开（页面）；点名",
+  "ex": [
+   "Die Funktion wird im Hauptprogramm genau zweimal aufgerufen, einmal beim Start und einmal am Ende."
+  ],
+  "ex_zh": "这个函数在主程序里恰好被调用两次，一次在开头，一次在结尾。",
+  "use": {
+   "senses": [
+    "（函数）调用",
+    "（网页）打开",
+    "（人）点名；呼吁"
+   ],
+   "col": [
+    [
+     "eine Seite aufrufen",
+     "打开页面"
+    ],
+    [
+     "eine Funktion aufrufen",
+     "调用函数"
+    ]
+   ],
+   "tip": "可分动词；名词 der Aufruf"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "ausführen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ausgeführt",
+  "forms": "führt aus, führte aus, hat ausgeführt",
+  "zh": "执行；运行；实施",
+  "ex": [
+   "Das Skript wird jede Nacht um drei Uhr automatisch auf dem Server ausgeführt."
+  ],
+  "ex_zh": "这个脚本每晚三点在服务器上自动执行。",
+  "use": {
+   "senses": [
+    "（程序、命令）执行",
+    "（工作、计划）实施"
+   ],
+   "col": [
+    [
+     "einen Befehl ausführen",
+     "执行命令"
+    ],
+    [
+     "einen Auftrag ausführen",
+     "完成订单"
+    ]
+   ],
+   "tip": "可分动词；名词 die Ausführung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "einbinden",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingebunden",
+  "forms": "bindet ein, band ein, hat eingebunden",
+  "zh": "集成；嵌入；让……参与",
+  "ex": [
+   "Wir binden die Bibliothek über ein Paket in das Projekt ein."
+  ],
+  "ex_zh": "我们通过一个包把这个库集成到项目里。",
+  "use": {
+   "senses": [
+    "（代码、模块）引入、集成",
+    "让（某人）参与进来"
+   ],
+   "col": [
+    [
+     "eine Bibliothek einbinden",
+     "引入一个库"
+    ],
+    [
+     "das Team einbinden",
+     "让团队参与"
+    ]
+   ],
+   "tip": "可分动词；名词 die Einbindung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "herunterfahren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "heruntergefahren",
+  "forms": "fährt herunter, fuhr herunter, hat heruntergefahren",
+  "zh": "关机；关闭系统；降低运行",
+  "ex": [
+   "Der Server wird nachts heruntergefahren, um Strom zu sparen."
+  ],
+  "ex_zh": "服务器晚上会关机以节省电力。",
+  "use": {
+   "col": [
+    [
+     "den Rechner herunterfahren",
+     "关闭电脑"
+    ],
+    [
+     "die Produktion herunterfahren",
+     "缩减生产"
+    ]
+   ],
+   "tip": "可分动词；反义 hochfahren；作及物动词时助动词用 haben"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "hochfahren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "hochgefahren",
+  "forms": "fährt hoch, fuhr hoch, hat hochgefahren",
+  "zh": "启动；开机；提高运行",
+  "ex": [
+   "Nach der Wartung wird die Anlage langsam wieder hochgefahren."
+  ],
+  "ex_zh": "维护之后，设备会慢慢重新启动。",
+  "use": {
+   "col": [
+    [
+     "das System hochfahren",
+     "启动系统"
+    ],
+    [
+     "die Produktion hochfahren",
+     "提高产量"
+    ]
+   ],
+   "tip": "可分动词；反义 herunterfahren；及物时用 haben"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "aktualisieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "aktualisiert",
+  "forms": "aktualisiert, aktualisierte, hat aktualisiert",
+  "zh": "更新",
+  "ex": [
+   "Bitte aktualisiere die Seite, wenn die Daten nicht stimmen."
+  ],
+  "ex_zh": "如果数据不对，请刷新一下页面。",
+  "use": {
+   "col": [
+    [
+     "die Software aktualisieren",
+     "更新软件"
+    ],
+    [
+     "die Seite aktualisieren",
+     "刷新页面"
+    ]
+   ],
+   "tip": "不可分动词；名词 die Aktualisierung；口语也说 updaten"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "deinstallieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "deinstalliert",
+  "forms": "deinstalliert, deinstallierte, hat deinstalliert",
+  "zh": "卸载",
+  "ex": [
+   "Ich habe die App wieder deinstalliert, weil sie zu viel Speicher brauchte."
+  ],
+  "ex_zh": "我把这个应用卸载了，因为它占的内存太多。",
+  "use": {
+   "col": [
+    [
+     "ein Programm deinstallieren",
+     "卸载程序"
+    ],
+    [
+     "eine App deinstallieren",
+     "卸载应用"
+    ]
+   ],
+   "tip": "反义 installieren；重音在 -ier-"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich einloggen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingeloggt",
+  "forms": "loggt sich ein, loggte sich ein, hat sich eingeloggt",
+  "zh": "登录",
+  "ex": [
+   "Ich kann mich nicht einloggen, weil mein Passwort abgelaufen ist."
+  ],
+  "ex_zh": "我登不上去，因为密码过期了。",
+  "gov": "sich einloggen in + Akk.",
+  "use": {
+   "col": [
+    [
+     "sich im Konto einloggen",
+     "登录账户"
+    ],
+    [
+     "sich mit dem Passwort einloggen",
+     "用密码登录"
+    ]
+   ],
+   "tip": "可分动词；反义 sich ausloggen；也说 sich anmelden"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich ausloggen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ausgeloggt",
+  "forms": "loggt sich aus, loggte sich aus, hat sich ausgeloggt",
+  "zh": "退出登录",
+  "ex": [
+   "Vergiss nicht, dich am Ende des Tages auf dem Firmenlaptop auszuloggen."
+  ],
+  "ex_zh": "别忘了每天结束时在公司笔记本电脑上退出登录。",
+  "use": {
+   "col": [
+    [
+     "sich aus dem Konto ausloggen",
+     "退出账户"
+    ],
+    [
+     "automatisch ausgeloggt werden",
+     "被自动退出登录"
+    ]
+   ],
+   "tip": "可分动词；反义 sich einloggen；也说 sich abmelden"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "konfigurieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "konfiguriert",
+  "forms": "konfiguriert, konfigurierte, hat konfiguriert",
+  "zh": "配置",
+  "ex": [
+   "Der Administrator konfiguriert die Firewall für das neue Netzwerk."
+  ],
+  "ex_zh": "管理员为新网络配置防火墙。",
+  "use": {
+   "col": [
+    [
+     "einen Server konfigurieren",
+     "配置服务器"
+    ],
+    [
+     "falsch konfiguriert sein",
+     "配置错误"
+    ]
+   ],
+   "tip": "名词 die Konfiguration"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "überwachen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "überwacht",
+  "forms": "überwacht, überwachte, hat überwacht",
+  "zh": "监控；监视",
+  "ex": [
+   "Ein kleines Skript überwacht rund um die Uhr den Zustand aller Server im Rechenzentrum."
+  ],
+  "ex_zh": "一个小脚本全天候监控数据中心里所有服务器的状态。",
+  "use": {
+   "col": [
+    [
+     "Systeme überwachen",
+     "监控系统"
+    ],
+    [
+     "den Verkehr überwachen",
+     "监控交通"
+    ]
+   ],
+   "tip": "不可分动词；名词 die Überwachung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "wiederherstellen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "wiederhergestellt",
+  "forms": "stellt wieder her, stellte wieder her, hat wiederhergestellt",
+  "zh": "恢复；还原",
+  "ex": [
+   "Wir konnten die gelöschten Daten aus der Sicherung wiederherstellen."
+  ],
+  "ex_zh": "我们能从备份里恢复被删除的数据。",
+  "use": {
+   "col": [
+    [
+     "Daten wiederherstellen",
+     "恢复数据"
+    ],
+    [
+     "den alten Zustand wiederherstellen",
+     "恢复原状"
+    ]
+   ],
+   "tip": "可分动词；名词 die Wiederherstellung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "übertragen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "übertragen",
+  "forms": "überträgt, übertrug, hat übertragen",
+  "zh": "传输；转播；转移",
+  "ex": [
+   "Die Daten werden verschlüsselt an den Server übertragen."
+  ],
+  "ex_zh": "数据被加密后传输到服务器。",
+  "use": {
+   "senses": [
+    "（数据）传输",
+    "（节目）转播",
+    "转移、传染"
+   ],
+   "col": [
+    [
+     "Daten übertragen",
+     "传输数据"
+    ],
+    [
+     "ein Spiel live übertragen",
+     "直播比赛"
+    ]
+   ],
+   "tip": "不可分动词；名词 die Übertragung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "vernetzen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "vernetzt",
+  "forms": "vernetzt, vernetzte, hat vernetzt",
+  "zh": "联网；使互联",
+  "ex": [
+   "In der modernen Fabrik sind alle Maschinen miteinander vernetzt."
+  ],
+  "ex_zh": "在现代化的工厂里，所有机器都互相联网。",
+  "use": {
+   "col": [
+    [
+     "Geräte vernetzen",
+     "使设备联网"
+    ],
+    [
+     "gut vernetzt sein",
+     "人脉很广"
+    ]
+   ],
+   "tip": "名词 die Vernetzung；形容词 vernetzt"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "digitalisieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "digitalisiert",
+  "forms": "digitalisiert, digitalisierte, hat digitalisiert",
+  "zh": "数字化",
+  "ex": [
+   "Die Stadt will alle Formulare bis Ende des Jahres digitalisieren."
+  ],
+  "ex_zh": "市里想在年底前把所有表格数字化。",
+  "use": {
+   "col": [
+    [
+     "Dokumente digitalisieren",
+     "把文件数字化"
+    ],
+    [
+     "Prozesse digitalisieren",
+     "流程数字化"
+    ]
+   ],
+   "tip": "名词 die Digitalisierung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "automatisieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "automatisiert",
+  "forms": "automatisiert, automatisierte, hat automatisiert",
+  "zh": "自动化",
+  "ex": [
+   "Wir automatisieren die Tests, damit jede Änderung sofort geprüft wird."
+  ],
+  "ex_zh": "我们把测试自动化，这样每次改动都能立刻被检查。",
+  "use": {
+   "col": [
+    [
+     "Abläufe automatisieren",
+     "使流程自动化"
+    ],
+    [
+     "vollständig automatisiert",
+     "完全自动化的"
+    ]
+   ],
+   "tip": "名词 die Automatisierung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "optimieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "optimiert",
+  "forms": "optimiert, optimierte, hat optimiert",
+  "zh": "优化",
+  "ex": [
+   "Mit einem Index lässt sich die Abfrage deutlich optimieren."
+  ],
+  "ex_zh": "加一个索引可以明显优化这个查询。",
+  "use": {
+   "col": [
+    [
+     "den Code optimieren",
+     "优化代码"
+    ],
+    [
+     "Prozesse optimieren",
+     "优化流程"
+    ]
+   ],
+   "tip": "名词 die Optimierung；同族 optimal"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "debuggen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gedebuggt",
+  "forms": "debuggt, debuggte, hat gedebuggt",
+  "zh": "调试",
+  "ex": [
+   "Ich habe den ganzen Nachmittag versucht, den Fehler zu debuggen."
+  ],
+  "ex_zh": "我花了整个下午想调试出这个错误。",
+  "use": {
+   "col": [
+    [
+     "ein Programm debuggen",
+     "调试程序"
+    ],
+    [
+     "Schritt für Schritt debuggen",
+     "一步步调试"
+    ]
+   ],
+   "tip": "口语为主；第二分词 gedebuggt"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verarbeiten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verarbeitet",
+  "forms": "verarbeitet, verarbeitete, hat verarbeitet",
+  "zh": "处理；加工；消化",
+  "ex": [
+   "Der Server verarbeitet pro Sekunde mehrere tausend Anfragen."
+  ],
+  "ex_zh": "服务器每秒处理几千个请求。",
+  "use": {
+   "senses": [
+    "（数据）处理",
+    "（原料）加工",
+    "（经历）消化"
+   ],
+   "col": [
+    [
+     "Daten verarbeiten",
+     "处理数据"
+    ],
+    [
+     "Rohstoffe verarbeiten",
+     "加工原料"
+    ]
+   ],
+   "tip": "名词 die Verarbeitung；也指心理上「消化」经历"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "erfassen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "erfasst",
+  "forms": "erfasst, erfasste, hat erfasst",
+  "zh": "采集；记录；录入；理解",
+  "ex": [
+   "Alle Messwerte werden automatisch in der Datenbank erfasst."
+  ],
+  "ex_zh": "所有测量值都会自动录入数据库。",
+  "use": {
+   "senses": [
+    "（数据）采集、录入",
+    "（意思）理解、领会"
+   ],
+   "col": [
+    [
+     "Daten erfassen",
+     "录入数据"
+    ],
+    [
+     "Messwerte erfassen",
+     "采集测量值"
+    ]
+   ],
+   "tip": "不可分动词；名词 die Erfassung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "auswerten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ausgewertet",
+  "forms": "wertet aus, wertete aus, hat ausgewertet",
+  "zh": "评估；分析；统计",
+  "ex": [
+   "Wir werten die Logdateien jede Woche automatisch aus."
+  ],
+  "ex_zh": "我们每周自动分析日志文件。",
+  "use": {
+   "col": [
+    [
+     "Daten auswerten",
+     "分析数据"
+    ],
+    [
+     "eine Umfrage auswerten",
+     "统计问卷"
+    ]
+   ],
+   "tip": "可分动词；名词 die Auswertung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "erzeugen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "erzeugt",
+  "forms": "erzeugt, erzeugte, hat erzeugt",
+  "zh": "产生；生成；发电",
+  "ex": [
+   "Die Windräder erzeugen genug Strom für die ganze Stadt."
+  ],
+  "ex_zh": "这些风力发电机产生的电足够整座城市使用。",
+  "use": {
+   "col": [
+    [
+     "Strom erzeugen",
+     "发电"
+    ],
+    [
+     "einen Bericht erzeugen",
+     "生成报告"
+    ]
+   ],
+   "tip": "名词 die Erzeugung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "steuern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gesteuert",
+  "forms": "steuert, steuerte, hat gesteuert",
+  "zh": "控制；驾驶；操控",
+  "ex": [
+   "Ein kleiner Computer steuert die gesamte Anlage und reagiert auf die Daten der Sensoren."
+  ],
+  "ex_zh": "一台小型计算机控制整套设备，并根据传感器数据做出反应。",
+  "use": {
+   "col": [
+    [
+     "eine Maschine steuern",
+     "控制机器"
+    ],
+    [
+     "per App steuern",
+     "用应用控制"
+    ]
+   ],
+   "tip": "名词 die Steuerung；注意 Steuer（税）同形"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "betreiben",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "betrieben",
+  "forms": "betreibt, betrieb, hat betrieben",
+  "zh": "运营；运行；从事",
+  "ex": [
+   "Die Stadtwerke betreiben mehrere Solarparks in der Region."
+  ],
+  "ex_zh": "市政公用事业公司在这个地区运营着多个太阳能电站。",
+  "use": {
+   "senses": [
+    "（设备、服务）运营、运行",
+    "（活动）从事"
+   ],
+   "col": [
+    [
+     "eine Anlage betreiben",
+     "运营一套设备"
+    ],
+    [
+     "einen Server betreiben",
+     "运行一台服务器"
+    ]
+   ],
+   "tip": "不可分动词；名词 der Betreiber"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "montieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "montiert",
+  "forms": "montiert, montierte, hat montiert",
+  "zh": "装配；安装",
+  "ex": [
+   "Zwei Techniker montieren die neue Steuerung an der Maschine."
+  ],
+  "ex_zh": "两名技术员把新的控制器装到机器上。",
+  "use": {
+   "col": [
+    [
+     "ein Regal montieren",
+     "安装架子"
+    ],
+    [
+     "Teile montieren",
+     "装配零件"
+    ]
+   ],
+   "tip": "名词 die Montage；反义 demontieren"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "bereitstellen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bereitgestellt",
+  "forms": "stellt bereit, stellte bereit, hat bereitgestellt",
+  "zh": "提供；部署",
+  "ex": [
+   "Die Firma stellt allen Entwicklern einen Laptop bereit."
+  ],
+  "ex_zh": "公司给所有开发者提供一台笔记本电脑。",
+  "use": {
+   "col": [
+    [
+     "Ressourcen bereitstellen",
+     "提供资源"
+    ],
+    [
+     "eine neue Version bereitstellen",
+     "部署新版本"
+    ]
+   ],
+   "tip": "可分动词；名词 die Bereitstellung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "nachrüsten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "nachgerüstet",
+  "forms": "rüstet nach, rüstete nach, hat nachgerüstet",
+  "zh": "加装；补装",
+  "ex": [
+   "Viele Altbauten werden derzeit mit modernen Wärmepumpen nachgerüstet, um Heizkosten zu sparen."
+  ],
+  "ex_zh": "许多老建筑目前都在加装现代热泵，以节省取暖费。",
+  "gov": "nachrüsten mit + Dat.",
+  "use": {
+   "col": [
+    [
+     "ein Gerät nachrüsten",
+     "给设备加装配置"
+    ],
+    [
+     "mit Sensoren nachrüsten",
+     "加装传感器"
+    ]
+   ],
+   "tip": "可分动词；名词 die Nachrüstung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "weiterentwickeln",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "weiterentwickelt",
+  "forms": "entwickelt weiter, entwickelte weiter, hat weiterentwickelt",
+  "zh": "进一步开发；继续发展",
+  "ex": [
+   "Das Team entwickelt die Plattform seit Jahren kontinuierlich weiter."
+  ],
+  "ex_zh": "团队多年来一直在持续开发这个平台。",
+  "use": {
+   "col": [
+    [
+     "ein Produkt weiterentwickeln",
+     "进一步开发产品"
+    ],
+    [
+     "sich weiterentwickeln",
+     "进一步发展"
+    ]
+   ],
+   "tip": "可分动词；名词 die Weiterentwicklung；也可反身使用"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "beschleunigen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "beschleunigt",
+  "forms": "beschleunigt, beschleunigte, hat beschleunigt",
+  "zh": "加快；加速",
+  "ex": [
+   "Ein Cache soll den Zugriff auf die Daten beschleunigen."
+  ],
+  "ex_zh": "缓存要加快对数据的访问。",
+  "use": {
+   "col": [
+    [
+     "einen Prozess beschleunigen",
+     "加快流程"
+    ],
+    [
+     "das Verfahren beschleunigen",
+     "加快程序"
+    ]
+   ],
+   "tip": "名词 die Beschleunigung；形容词 schnell"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "anpassen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "angepasst",
+  "forms": "passt an, passte an, hat angepasst",
+  "zh": "调整；适应",
+  "ex": [
+   "Du kannst die Einstellungen an deine Bedürfnisse anpassen."
+  ],
+  "ex_zh": "你可以根据自己的需要调整设置。",
+  "gov": "anpassen an + Akk.",
+  "use": {
+   "col": [
+    [
+     "Einstellungen anpassen",
+     "调整设置"
+    ],
+    [
+     "sich an Neues anpassen",
+     "适应新事物"
+    ]
+   ],
+   "tip": "可分动词；名词 die Anpassung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verwalten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verwaltet",
+  "forms": "verwaltet, verwaltete, hat verwaltet",
+  "zh": "管理",
+  "ex": [
+   "Die Software verwaltet alle Kundendaten zentral und kontrolliert, wer welche Daten sehen darf."
+  ],
+  "ex_zh": "这款软件集中管理所有客户数据，并控制谁能看到哪些数据。",
+  "use": {
+   "col": [
+    [
+     "Konten verwalten",
+     "管理账户"
+    ],
+    [
+     "Zugriffsrechte verwalten",
+     "管理访问权限"
+    ]
+   ],
+   "tip": "名词 die Verwaltung；Verwalter = 管理员"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "übermitteln",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "übermittelt",
+  "forms": "übermittelt, übermittelte, hat übermittelt",
+  "zh": "传送；转达",
+  "ex": [
+   "Die Messwerte werden jede Minute an die Zentrale übermittelt."
+  ],
+  "ex_zh": "测量值每分钟传送给总部一次。",
+  "use": {
+   "col": [
+    [
+     "Daten übermitteln",
+     "传送数据"
+    ],
+    [
+     "eine Nachricht übermitteln",
+     "转达消息"
+    ]
+   ],
+   "tip": "不可分动词；名词 die Übermittlung；比 schicken更正式"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "weiterleiten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "weitergeleitet",
+  "forms": "leitet weiter, leitete weiter, hat weitergeleitet",
+  "zh": "转发；转交",
+  "ex": [
+   "Bitte leite die Mail an das Support-Team weiter, damit es sich darum kümmert."
+  ],
+  "ex_zh": "请把这封邮件转给支持团队，让他们来处理。",
+  "gov": "weiterleiten an + Akk.",
+  "use": {
+   "col": [
+    [
+     "eine E-Mail weiterleiten",
+     "转发邮件"
+    ],
+    [
+     "Anfragen weiterleiten",
+     "转交请求"
+    ]
+   ],
+   "tip": "可分动词；名词 die Weiterleitung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "zuordnen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "zugeordnet",
+  "forms": "ordnet zu, ordnete zu, hat zugeordnet",
+  "zh": "归类；分配；对应",
+  "ex": [
+   "Jede Kundennummer wird genau einem eindeutigen Schlüssel in der Datenbank zugeordnet."
+  ],
+  "ex_zh": "每个客户编号都恰好对应数据库里的一个唯一键。",
+  "gov": "zuordnen + Dat.",
+  "use": {
+   "col": [
+    [
+     "einer Gruppe zuordnen",
+     "归入某个组"
+    ],
+    [
+     "Daten zuordnen",
+     "给数据归类"
+    ]
+   ],
+   "tip": "可分动词；名词 die Zuordnung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "zugreifen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "zugegriffen",
+  "forms": "greift zu, griff zu, hat zugegriffen",
+  "zh": "访问；存取；动手拿",
+  "ex": [
+   "Mehrere Nutzer greifen gleichzeitig auf die Datei zu."
+  ],
+  "ex_zh": "多个用户同时访问这个文件。",
+  "gov": "zugreifen auf + Akk.",
+  "use": {
+   "col": [
+    [
+     "auf Daten zugreifen",
+     "访问数据"
+    ],
+    [
+     "auf ein Konto zugreifen",
+     "访问账户"
+    ]
+   ],
+   "tip": "可分动词；名词 der Zugriff"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "freischalten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "freigeschaltet",
+  "forms": "schaltet frei, schaltete frei, hat freigeschaltet",
+  "zh": "开通；解锁；激活",
+  "ex": [
+   "Nach der Zahlung wird das Konto innerhalb eines Tages freigeschaltet."
+  ],
+  "ex_zh": "付款之后，账户会在一天内开通。",
+  "use": {
+   "col": [
+    [
+     "ein Konto freischalten",
+     "开通账户"
+    ],
+    [
+     "eine Funktion freischalten",
+     "解锁一个功能"
+    ]
+   ],
+   "tip": "可分动词；名词 die Freischaltung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sperren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gesperrt",
+  "forms": "sperrt, sperrte, hat gesperrt",
+  "zh": "封锁；冻结；禁用",
+  "ex": [
+   "Nach drei falschen Eingaben wird das Konto automatisch gesperrt."
+  ],
+  "ex_zh": "输入错误三次之后，账户会被自动锁定。",
+  "use": {
+   "col": [
+    [
+     "ein Konto sperren",
+     "冻结账户"
+    ],
+    [
+     "eine Straße sperren",
+     "封路"
+    ]
+   ],
+   "tip": "形容词 gesperrt；名词 die Sperre；反义 entsperren"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "blockieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "blockiert",
+  "forms": "blockiert, blockierte, hat blockiert",
+  "zh": "阻塞；拦截；挡住",
+  "ex": [
+   "Die Firewall blockiert den Zugriff aus dem öffentlichen Netz."
+  ],
+  "ex_zh": "防火墙拦截了来自公网的访问。",
+  "use": {
+   "col": [
+    [
+     "einen Port blockieren",
+     "封住一个端口"
+    ],
+    [
+     "den Verkehr blockieren",
+     "堵塞交通"
+    ]
+   ],
+   "tip": "名词 die Blockade / die Blockierung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "aufzeichnen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "aufgezeichnet",
+  "forms": "zeichnet auf, zeichnete auf, hat aufgezeichnet",
+  "zh": "记录；录制",
+  "ex": [
+   "Die Kamera zeichnet alle Bewegungen im Lager auf."
+  ],
+  "ex_zh": "摄像头录下仓库里的所有活动。",
+  "use": {
+   "col": [
+    [
+     "Messwerte aufzeichnen",
+     "记录测量值"
+    ],
+    [
+     "ein Gespräch aufzeichnen",
+     "录下一段对话"
+    ]
+   ],
+   "tip": "可分动词；名词 die Aufzeichnung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "dokumentieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "dokumentiert",
+  "forms": "dokumentiert, dokumentierte, hat dokumentiert",
+  "zh": "记录；写文档",
+  "ex": [
+   "Jede Änderung am System muss lückenlos dokumentiert werden."
+  ],
+  "ex_zh": "对系统的每一处改动都必须完整记录。",
+  "use": {
+   "col": [
+    [
+     "Änderungen dokumentieren",
+     "记录改动"
+    ],
+    [
+     "gut dokumentiert",
+     "文档完备的"
+    ]
+   ],
+   "tip": "名词 die Dokumentation"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "vorhersagen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "vorhergesagt",
+  "forms": "sagt vorher, sagte vorher, hat vorhergesagt",
+  "zh": "预测",
+  "ex": [
+   "Das Modell kann den Stromverbrauch recht genau vorhersagen."
+  ],
+  "ex_zh": "这个模型能比较准确地预测用电量。",
+  "use": {
+   "col": [
+    [
+     "das Wetter vorhersagen",
+     "预测天气"
+    ],
+    [
+     "die Entwicklung vorhersagen",
+     "预测发展"
+    ]
+   ],
+   "tip": "可分动词；名词 die Vorhersage"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "vorbeugen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "vorgebeugt",
+  "forms": "beugt vor, beugte vor, hat vorgebeugt",
+  "zh": "预防",
+  "ex": [
+   "Regelmäßige Updates beugen vielen Sicherheitsproblemen schon im Voraus vor."
+  ],
+  "ex_zh": "定期更新能提前预防许多安全问题。",
+  "gov": "vorbeugen + Dat.",
+  "use": {
+   "col": [
+    [
+     "einer Krankheit vorbeugen",
+     "预防疾病"
+    ],
+    [
+     "Fehlern vorbeugen",
+     "防止出错"
+    ]
+   ],
+   "tip": "可分动词，+ Dat.；形容词 vorbeugend"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "absichern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgesichert",
+  "forms": "sichert ab, sicherte ab, hat abgesichert",
+  "zh": "保护；保障；加固",
+  "ex": [
+   "Der Zugang zum Server ist mit einem zweiten Faktor abgesichert."
+  ],
+  "ex_zh": "访问服务器时用了第二重验证来保护。",
+  "gov": "absichern gegen + Akk.",
+  "use": {
+   "col": [
+    [
+     "ein System absichern",
+     "保护系统"
+    ],
+    [
+     "sich gegen Risiken absichern",
+     "防范风险"
+    ]
+   ],
+   "tip": "可分动词；名词 die Absicherung；sichern更泛"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "abschalten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgeschaltet",
+  "forms": "schaltet ab, schaltete ab, hat abgeschaltet",
+  "zh": "关闭；切断",
+  "ex": [
+   "Die Betreiber haben das alte Kraftwerk vom Netz abgeschaltet."
+  ],
+  "ex_zh": "运营方已经把旧电厂从电网上关闭了。",
+  "use": {
+   "col": [
+    [
+     "ein Gerät abschalten",
+     "关闭设备"
+    ],
+    [
+     "den Strom abschalten",
+     "切断电源"
+    ]
+   ],
+   "tip": "可分动词；名词 die Abschaltung；einschalten的反义"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "anlegen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "angelegt",
+  "forms": "legt an, legte an, hat angelegt",
+  "zh": "创建；建立；投资",
+  "ex": [
+   "Ich habe für das Projekt ein neues Verzeichnis angelegt."
+  ],
+  "ex_zh": "我给这个项目新建了一个目录。",
+  "use": {
+   "senses": [
+    "创建、建立",
+    "（钱）投资",
+    "（船）靠岸"
+   ],
+   "col": [
+    [
+     "ein Konto anlegen",
+     "创建账户"
+    ],
+    [
+     "einen Ordner anlegen",
+     "新建文件夹"
+    ]
+   ],
+   "tip": "可分动词；名词 die Anlage；金融上指「投资」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "umstellen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "umgestellt",
+  "forms": "stellt um, stellte um, hat umgestellt",
+  "zh": "改用；调整；切换",
+  "ex": [
+   "Wir haben das gesamte System auf eine neue Datenbank umgestellt."
+  ],
+  "ex_zh": "我们把整个系统切换到了新的数据库。",
+  "gov": "umstellen auf + Akk.",
+  "use": {
+   "col": [
+    [
+     "auf Ökostrom umstellen",
+     "改用绿电"
+    ],
+    [
+     "sich umstellen",
+     "调整自己、适应"
+    ]
+   ],
+   "tip": "可分动词；名词 die Umstellung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sicherstellen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "sichergestellt",
+  "forms": "stellt sicher, stellte sicher, hat sichergestellt",
+  "zh": "确保；保证；扣押",
+  "ex": [
+   "Wir müssen sicherstellen, dass kein Unbefugter Zugriff hat."
+  ],
+  "ex_zh": "我们必须确保没有未经授权的人能访问。",
+  "use": {
+   "senses": [
+    "确保、保证",
+    "（警方）扣押"
+   ],
+   "col": [
+    [
+     "die Qualität sicherstellen",
+     "保证质量"
+    ],
+    [
+     "sicherstellen, dass …",
+     "确保……"
+    ]
+   ],
+   "tip": "可分动词；名词 die Sicherstellung；警方「扣押」也用"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "einschränken",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingeschränkt",
+  "forms": "schränkt ein, schränkte ein, hat eingeschränkt",
+  "zh": "限制；缩减",
+  "ex": [
+   "Wir müssen den Zugriff auf sensible Daten stärker einschränken."
+  ],
+  "ex_zh": "我们必须更严格地限制对敏感数据的访问。",
+  "use": {
+   "col": [
+    [
+     "den Zugriff einschränken",
+     "限制访问"
+    ],
+    [
+     "eingeschränkt nutzbar",
+     "使用受限"
+    ]
+   ],
+   "tip": "可分动词；名词 die Einschränkung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "simulieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "simuliert",
+  "forms": "simuliert, simulierte, hat simuliert",
+  "zh": "模拟",
+  "ex": [
+   "Mit der Software lässt sich das Verhalten der Anlage simulieren."
+  ],
+  "ex_zh": "用这款软件可以模拟设备的运行情况。",
+  "use": {
+   "col": [
+    [
+     "einen Ausfall simulieren",
+     "模拟故障"
+    ],
+    [
+     "eine Situation simulieren",
+     "模拟某种情形"
+    ]
+   ],
+   "tip": "名词 die Simulation"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "neu starten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "neu gestartet",
+  "forms": "startet neu, startete neu, hat neu gestartet",
+  "zh": "重启",
+  "ex": [
+   "Wenn nichts mehr hilft, starte den Rechner einmal neu."
+  ],
+  "ex_zh": "如果什么办法都不行，就把电脑重启一下。",
+  "use": {
+   "col": [
+    [
+     "den Server neu starten",
+     "重启服务器"
+    ],
+    [
+     "das Gerät neu starten",
+     "重启设备"
+    ]
+   ],
+   "tip": "名词 der Neustart；分写，「neu」是副词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "hacken",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gehackt",
+  "forms": "hackt, hackte, hat gehackt",
+  "zh": "入侵；黑客攻击",
+  "ex": [
+   "Das Konto wurde gehackt, deshalb habe ich das Passwort geändert."
+  ],
+  "ex_zh": "账户被黑了，所以我改了密码。",
+  "use": {
+   "col": [
+    [
+     "ein Konto hacken",
+     "入侵账户"
+    ],
+    [
+     "gehackt werden",
+     "被黑"
+    ]
+   ],
+   "tip": "口语；hacken 作「劈砍」时同形；名词 der Hacker"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "abbrechen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgebrochen",
+  "forms": "bricht ab, brach ab, hat abgebrochen",
+  "zh": "中止；终止；中断",
+  "ex": [
+   "Der Upload wurde nach dreißig Minuten wegen einer Zeitüberschreitung automatisch abgebrochen."
+  ],
+  "ex_zh": "上传在三十分钟后因超时被自动中止了。",
+  "use": {
+   "senses": [
+    "（程序、过程）中止",
+    "（学业、关系）中断"
+   ],
+   "col": [
+    [
+     "einen Vorgang abbrechen",
+     "中止操作"
+    ],
+    [
+     "das Studium abbrechen",
+     "中断学业"
+    ]
+   ],
+   "tip": "可分动词；名词 der Abbruch"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "abfragen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgefragt",
+  "forms": "fragt ab, fragte ab, hat abgefragt",
+  "zh": "查询；考（知识）",
+  "ex": [
+   "Das Skript fragt die Datenbank alle fünf Minuten ab."
+  ],
+  "ex_zh": "这个脚本每五分钟查询一次数据库。",
+  "use": {
+   "senses": [
+    "（数据库）查询",
+    "（知识）考查"
+   ],
+   "col": [
+    [
+     "Daten abfragen",
+     "查询数据"
+    ],
+    [
+     "Vokabeln abfragen",
+     "考单词"
+    ]
+   ],
+   "tip": "可分动词；名词 die Abfrage"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "eingeben",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingegeben",
+  "forms": "gibt ein, gab ein, hat eingegeben",
+  "zh": "输入；录入",
+  "ex": [
+   "Bitte geben Sie Ihre Kundennummer in das Feld ein."
+  ],
+  "ex_zh": "请在这个栏里输入您的客户编号。",
+  "use": {
+   "col": [
+    [
+     "ein Passwort eingeben",
+     "输入密码"
+    ],
+    [
+     "Daten eingeben",
+     "录入数据"
+    ]
+   ],
+   "tip": "可分动词；名词 die Eingabe"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "zurücksetzen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "zurückgesetzt",
+  "forms": "setzt zurück, setzte zurück, hat zurückgesetzt",
+  "zh": "重置；还原",
+  "ex": [
+   "Du kannst das Passwort über den Link in der E-Mail zurücksetzen."
+  ],
+  "ex_zh": "你可以通过邮件里的链接重置密码。",
+  "use": {
+   "col": [
+    [
+     "das Passwort zurücksetzen",
+     "重置密码"
+    ],
+    [
+     "auf die Werkseinstellungen zurücksetzen",
+     "恢复出厂设置"
+    ]
+   ],
+   "tip": "可分动词；名词 das Zurücksetzen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "überschreiben",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "überschrieben",
+  "forms": "überschreibt, überschrieb, hat überschrieben",
+  "zh": "覆盖",
+  "ex": [
+   "Vorsicht, die neue Datei überschreibt die alte Version."
+  ],
+  "ex_zh": "小心，新文件会覆盖旧版本。",
+  "use": {
+   "col": [
+    [
+     "eine Datei überschreiben",
+     "覆盖文件"
+    ],
+    [
+     "Daten überschreiben",
+     "覆盖数据"
+    ]
+   ],
+   "tip": "不可分动词；名词 das Überschreiben；备份时常提醒「不要覆盖」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "kompatibel",
+  "pos": "adj",
+  "zh": "兼容的",
+  "ex": [
+   "Die neue Version ist nicht mit älteren Betriebssystemen kompatibel."
+  ],
+  "ex_zh": "新版本和旧的操作系统不兼容。",
+  "gov": "kompatibel mit + Dat.",
+  "use": {
+   "col": [
+    [
+     "kompatibel mit",
+     "与……兼容"
+    ],
+    [
+     "voll kompatibel",
+     "完全兼容"
+    ]
+   ],
+   "tip": "名词 die Kompatibilität；反义 inkompatibel"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "fehlerhaft",
+  "pos": "adj",
+  "zh": "有错误的；有缺陷的",
+  "ex": [
+   "Das Update enthielt fehlerhafte Daten und musste zurückgezogen werden."
+  ],
+  "ex_zh": "这次更新含有错误数据，只好撤回。",
+  "use": {
+   "col": [
+    [
+     "fehlerhafte Daten",
+     "有错误的数据"
+    ],
+    [
+     "fehlerhaft arbeiten",
+     "运行有误"
+    ]
+   ],
+   "tip": "Fehler+ -haft；反义 fehlerfrei"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "leistungsfähig",
+  "pos": "adj",
+  "zh": "性能强的；能力强的",
+  "ex": [
+   "Für das Training brauchen wir einen deutlich leistungsfähigeren Rechner."
+  ],
+  "ex_zh": "训练需要一台性能强得多的电脑。",
+  "use": {
+   "col": [
+    [
+     "ein leistungsfähiger Prozessor",
+     "高性能处理器"
+    ],
+    [
+     "leistungsfähig sein",
+     "有能力、性能强"
+    ]
+   ],
+   "tip": "名词 die Leistungsfähigkeit；Leistung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "effizient",
+  "pos": "adj",
+  "zh": "高效的",
+  "ex": [
+   "Die neue Methode arbeitet deutlich effizienter als die alte."
+  ],
+  "ex_zh": "新方法比旧方法高效得多。",
+  "use": {
+   "col": [
+    [
+     "effizient arbeiten",
+     "高效工作"
+    ],
+    [
+     "energieeffizient",
+     "节能的"
+    ]
+   ],
+   "tip": "名词 die Effizienz；重音在 -zient"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "erneuerbar",
+  "pos": "adj",
+  "zh": "可再生的",
+  "ex": [
+   "Bis 2030 sollen achtzig Prozent des Stroms aus erneuerbaren Quellen stammen."
+  ],
+  "ex_zh": "到 2030 年，百分之八十的电要来自可再生能源。",
+  "use": {
+   "col": [
+    [
+     "erneuerbare Energien",
+     "可再生能源"
+    ],
+    [
+     "erneuerbare Quellen",
+     "可再生来源"
+    ]
+   ],
+   "tip": "动词 erneuern；常见搭配 erneuerbare Energien，复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "umweltfreundlich",
+  "pos": "adj",
+  "zh": "环保的",
+  "ex": [
+   "Elektrobusse sind auf kurzen Strecken deutlich umweltfreundlicher als vergleichbare Dieselbusse."
+  ],
+  "ex_zh": "短途线路上，电动公交车比同类柴油公交车环保得多。",
+  "use": {
+   "col": [
+    [
+     "umweltfreundlich produzieren",
+     "环保地生产"
+    ],
+    [
+     "ein umweltfreundliches Auto",
+     "环保汽车"
+    ]
+   ],
+   "tip": "Umwelt+ freundlich；反义 umweltschädlich"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "energiesparend",
+  "pos": "adj",
+  "zh": "节能的",
+  "ex": [
+   "Die Firma setzt nur noch energiesparende Geräte ein."
+  ],
+  "ex_zh": "公司只使用节能设备了。",
+  "use": {
+   "col": [
+    [
+     "energiesparende Geräte",
+     "节能设备"
+    ],
+    [
+     "energiesparend heizen",
+     "节能供暖"
+    ]
+   ],
+   "tip": "来自 Energie sparen；另有 energieeffizient"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "anfällig",
+  "pos": "adj",
+  "zh": "易受影响的；易出故障的",
+  "ex": [
+   "Das alte System ist sehr anfällig für Angriffe."
+  ],
+  "ex_zh": "这套旧系统极易遭受攻击。",
+  "gov": "anfällig für + Akk.",
+  "use": {
+   "col": [
+    [
+     "anfällig für Fehler",
+     "容易出错"
+    ],
+    [
+     "störungsanfällig",
+     "易出故障的"
+    ]
+   ],
+   "tip": "名词 die Anfälligkeit；也指人「体质弱、易患病」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verschlüsselt",
+  "pos": "adj",
+  "zh": "加密的",
+  "ex": [
+   "Die Verbindung zum Server ist durchgehend verschlüsselt, auch im internen Netzwerk."
+  ],
+  "ex_zh": "与服务器的连接全程加密，内部网络里也是如此。",
+  "use": {
+   "col": [
+    [
+     "verschlüsselte Daten",
+     "加密数据"
+    ],
+    [
+     "verschlüsselt senden",
+     "加密发送"
+    ]
+   ],
+   "tip": "来自 verschlüsseln 的第二分词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "innovativ",
+  "pos": "adj",
+  "zh": "创新的",
+  "ex": [
+   "Das Start-up entwickelt innovative Lösungen für die Landwirtschaft."
+  ],
+  "ex_zh": "这家初创公司为农业开发创新解决方案。",
+  "use": {
+   "col": [
+    [
+     "ein innovatives Produkt",
+     "创新产品"
+    ],
+    [
+     "innovativ denken",
+     "创新思维"
+    ]
+   ],
+   "tip": "名词 die Innovation；重音在 -tiv"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "veraltet",
+  "pos": "adj",
+  "zh": "过时的",
+  "ex": [
+   "Viele Behörden arbeiten leider noch immer mit veralteter Software und alten Rechnern."
+  ],
+  "ex_zh": "很遗憾，许多机关仍然在用过时的软件和旧电脑。",
+  "use": {
+   "col": [
+    [
+     "veraltete Technik",
+     "过时的技术"
+    ],
+    [
+     "ein veraltetes System",
+     "过时的系统"
+    ]
+   ],
+   "tip": "来自 veralten；同义 überholt；反义 aktuell"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verfügbar",
+  "pos": "adj",
+  "zh": "可用的；可获得的",
+  "ex": [
+   "Das Programm ist ab sofort für alle Betriebssysteme verfügbar."
+  ],
+  "ex_zh": "该程序即日起支持所有操作系统。",
+  "use": {
+   "col": [
+    [
+     "sofort verfügbar",
+     "立即可用"
+    ],
+    [
+     "nicht mehr verfügbar",
+     "已无法获得"
+    ]
+   ],
+   "tip": "名词 die Verfügbarkeit；常用于库存、服务"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "benutzerfreundlich",
+  "pos": "adj",
+  "zh": "易用的；用户友好的",
+  "ex": [
+   "Eine benutzerfreundliche Oberfläche ist uns bei dieser Anwendung besonders wichtig."
+  ],
+  "ex_zh": "对这个应用来说，易用的界面对我们特别重要。",
+  "use": {
+   "col": [
+    [
+     "benutzerfreundlich gestalten",
+     "设计得易用"
+    ],
+    [
+     "eine benutzerfreundliche App",
+     "易用的应用"
+    ]
+   ],
+   "tip": "名词 die Benutzerfreundlichkeit"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "manuell",
+  "pos": "adj",
+  "zh": "手动的",
+  "ex": [
+   "Die Daten müssen bisher manuell in die Tabelle eingetragen werden."
+  ],
+  "ex_zh": "到目前为止，数据都得手动填进表格。",
+  "use": {
+   "col": [
+    [
+     "manuell eingeben",
+     "手动输入"
+    ],
+    [
+     "manuelle Tests",
+     "手动测试"
+    ]
+   ],
+   "tip": "反义 automatisch；重音在 -uell"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "kabellos",
+  "pos": "adj",
+  "zh": "无线的",
+  "ex": [
+   "Die Kopfhörer sind kabellos und lassen sich per Bluetooth verbinden."
+  ],
+  "ex_zh": "这款耳机是无线的，可以通过蓝牙连接。",
+  "use": {
+   "col": [
+    [
+     "kabellos laden",
+     "无线充电"
+    ],
+    [
+     "kabellose Maus",
+     "无线鼠标"
+    ]
+   ],
+   "tip": "Kabel+ -los；同义 drahtlos"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "herkömmlich",
+  "pos": "adj",
+  "zh": "传统的；常规的",
+  "ex": [
+   "Herkömmliche Server brauchen deutlich mehr Strom als moderne Geräte."
+  ],
+  "ex_zh": "传统服务器比现代设备耗电多得多。",
+  "use": {
+   "col": [
+    [
+     "herkömmliche Methoden",
+     "传统方法"
+    ],
+    [
+     "herkömmlich betrieben",
+     "按传统方式运营"
+    ]
+   ],
+   "tip": "同义 konventionell；重音在 -köm-"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "gängig",
+  "pos": "adj",
+  "zh": "常见的；通行的",
+  "ex": [
+   "Python ist in der Datenanalyse eine gängige Programmiersprache."
+  ],
+  "ex_zh": "Python 是数据分析中常见的编程语言。",
+  "use": {
+   "col": [
+    [
+     "gängige Verfahren",
+     "通行的做法"
+    ],
+    [
+     "allgemein gängig",
+     "普遍通行"
+    ]
+   ],
+   "tip": "同义 üblich、verbreitet"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "aufwendig",
+  "pos": "adj",
+  "zh": "费工夫的；成本高的",
+  "ex": [
+   "Die Pflege des alten Systems ist sehr aufwendig und teuer."
+  ],
+  "ex_zh": "维护这套旧系统费工夫又费钱。",
+  "use": {
+   "col": [
+    [
+     "aufwendig gestaltet",
+     "精心制作的"
+    ],
+    [
+     "ein aufwendiges Verfahren",
+     "繁琐的流程"
+    ]
+   ],
+   "tip": "也写 aufwändig；名词 der Aufwand"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "klimaneutral",
+  "pos": "adj",
+  "zh": "碳中和的",
+  "ex": [
+   "Das Unternehmen will seine Produktion bis zum Jahr 2040 vollständig klimaneutral gestalten."
+  ],
+  "ex_zh": "公司想在 2040 年前让生产完全实现碳中和。",
+  "use": {
+   "col": [
+    [
+     "klimaneutral werden",
+     "实现碳中和"
+    ],
+    [
+     "klimaneutrale Produktion",
+     "碳中和生产"
+    ]
+   ],
+   "tip": "neutral 加 Klima"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "autonom",
+  "pos": "adj",
+  "zh": "自主的；自动驾驶的",
+  "ex": [
+   "Autonome Fahrzeuge werden in einigen Städten bereits getestet."
+  ],
+  "ex_zh": "自动驾驶车辆已经在一些城市里测试了。",
+  "use": {
+   "col": [
+    [
+     "autonom fahren",
+     "自动驾驶"
+    ],
+    [
+     "ein autonomes System",
+     "自主系统"
+    ]
+   ],
+   "tip": "名词 die Autonomie；重音在 -nom"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "reibungslos",
+  "pos": "adj",
+  "zh": "顺利的；无故障的",
+  "ex": [
+   "Die Umstellung auf das neue System verlief reibungslos."
+  ],
+  "ex_zh": "切换到新系统的过程很顺利。",
+  "use": {
+   "col": [
+    [
+     "reibungslos funktionieren",
+     "顺利运转"
+    ],
+    [
+     "ein reibungsloser Ablauf",
+     "顺畅的流程"
+    ]
+   ],
+   "tip": "字面「没有摩擦」；反义 holprig"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sensibel",
+  "pos": "adj",
+  "zh": "敏感的",
+  "ex": [
+   "Sensible Daten dürfen nur verschlüsselt gespeichert und nicht per E-Mail verschickt werden."
+  ],
+  "ex_zh": "敏感数据只能加密存储，不能通过邮件发送。",
+  "use": {
+   "col": [
+    [
+     "sensible Daten",
+     "敏感数据"
+    ],
+    [
+     "sensibel reagieren",
+     "反应敏感"
+    ]
+   ],
+   "tip": "也指人「敏感、细腻」；和 sensitiv 区分，后者较专业"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "zeitgemäß",
+  "pos": "adj",
+  "zh": "符合时代的；现代的",
+  "ex": [
+   "Die Verwaltung braucht endlich eine zeitgemäße IT-Ausstattung mit schnellen Rechnern und Netzen."
+  ],
+  "ex_zh": "行政部门终于需要一套配有高速电脑和网络的现代 IT 设备了。",
+  "use": {
+   "col": [
+    [
+     "zeitgemäß sein",
+     "合乎时代"
+    ],
+    [
+     "nicht mehr zeitgemäß",
+     "不合时宜"
+    ]
+   ],
+   "tip": "同义 modern；反义 veraltet"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "unzuverlässig",
+  "pos": "adj",
+  "zh": "不可靠的",
+  "ex": [
+   "Das Netzwerk ist so unzuverlässig, dass wir oft Daten verlieren."
+  ],
+  "ex_zh": "这个网络太不可靠，我们经常丢数据。",
+  "use": {
+   "col": [
+    [
+     "ein unzuverlässiger Dienst",
+     "不可靠的服务"
+    ],
+    [
+     "unzuverlässig arbeiten",
+     "运行不稳定"
+    ]
+   ],
+   "tip": "反义 zuverlässig"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "in Betrieb nehmen",
+  "pos": "phr",
+  "zh": "投入使用；启用",
+  "ex": [
+   "Die neue Maschine wird nächste Woche in Betrieb genommen."
+  ],
+  "ex_zh": "新机器下周投入使用。",
+  "gov": "etwas in Betrieb nehmen",
+  "use": {
+   "col": [
+    [
+     "eine Anlage in Betrieb nehmen",
+     "启用设备"
+    ],
+    [
+     "außer Betrieb sein",
+     "停用、坏了"
+    ]
+   ],
+   "tip": "名词 die Inbetriebnahme；Betrieb"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "in Echtzeit",
+  "pos": "phr",
+  "zh": "实时",
+  "ex": [
+   "Die Messwerte werden in Echtzeit auf dem Bildschirm angezeigt."
+  ],
+  "ex_zh": "测量值实时显示在屏幕上。",
+  "use": {
+   "col": [
+    [
+     "Daten in Echtzeit übertragen",
+     "实时传输数据"
+    ],
+    [
+     "in Echtzeit auswerten",
+     "实时分析"
+    ]
+   ],
+   "tip": "Echtzeit 为阴性名词；形容词 echtzeitfähig"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "rund um die Uhr",
+  "pos": "phr",
+  "zh": "全天候；二十四小时",
+  "ex": [
+   "Der Support ist rund um die Uhr erreichbar."
+  ],
+  "ex_zh": "技术支持全天候都能联系上。",
+  "use": {
+   "col": [
+    [
+     "rund um die Uhr arbeiten",
+     "日夜工作"
+    ],
+    [
+     "rund um die Uhr geöffnet",
+     "全天营业"
+    ]
+   ],
+   "tip": "也说 24/7；Uhr"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "auf dem neuesten Stand",
+  "pos": "phr",
+  "zh": "最新的；掌握最新情况",
+  "ex": [
+   "Die Software muss immer auf dem neuesten Stand sein."
+  ],
+  "ex_zh": "软件必须始终保持最新。",
+  "use": {
+   "col": [
+    [
+     "auf dem neuesten Stand halten",
+     "保持最新"
+    ],
+    [
+     "auf dem Laufenden halten",
+     "随时告知最新情况"
+    ]
+   ],
+   "tip": "der Stand der Technik = 技术水平"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "zur Verfügung stellen",
+  "pos": "phr",
+  "zh": "提供（供使用）",
+  "ex": [
+   "Die Firma stellt jedem Mitarbeiter einen Laptop zur Verfügung."
+  ],
+  "ex_zh": "公司给每位员工提供一台笔记本电脑。",
+  "gov": "jdm. etwas zur Verfügung stellen",
+  "use": {
+   "col": [
+    [
+     "Daten zur Verfügung stellen",
+     "提供数据"
+    ],
+    [
+     "zur Verfügung stehen",
+     "可供使用"
+    ]
+   ],
+   "tip": "名词 die Verfügung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "im Hintergrund laufen",
+  "pos": "phr",
+  "zh": "在后台运行",
+  "ex": [
+   "Die Datensicherung läuft im Hintergrund, während ich weiterarbeite."
+  ],
+  "ex_zh": "我继续工作时，数据备份在后台运行。",
+  "use": {
+   "col": [
+    [
+     "im Hintergrund ablaufen",
+     "在后台进行"
+    ],
+    [
+     "im Hintergrund arbeiten",
+     "在后台工作"
+    ]
+   ],
+   "tip": "Hintergrund 也指背景；laufen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Abhilfe schaffen",
+  "pos": "phr",
+  "zh": "采取补救措施；解决",
+  "ex": [
+   "Das Update soll bei dem Problem Abhilfe schaffen."
+  ],
+  "ex_zh": "这次更新要解决这个问题。",
+  "use": {
+   "col": [
+    [
+     "schnell Abhilfe schaffen",
+     "迅速补救"
+    ],
+    [
+     "dringend Abhilfe brauchen",
+     "急需补救"
+    ]
+   ],
+   "tip": "书面、商务语体；名词 die Abhilfe 没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Skalierbarkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "可扩展性",
+  "ex": [
+   "Die Skalierbarkeit der Architektur war ein entscheidendes Auswahlkriterium."
+  ],
+  "ex_zh": "架构的可扩展性是一个关键的选择标准。",
+  "use": {
+   "col": [
+    [
+     "die Skalierbarkeit sicherstellen",
+     "确保可扩展性"
+    ],
+    [
+     "mangelnde Skalierbarkeit",
+     "可扩展性不足"
+    ]
+   ],
+   "tip": "形容词 skalierbar；动词 skalieren"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Anonymisierung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Anonymisierungen",
+  "zh": "匿名化",
+  "ex": [
+   "Vor der Auswertung erfolgt eine vollständige Anonymisierung der Daten."
+  ],
+  "ex_zh": "分析之前会对数据进行彻底匿名化。",
+  "use": {
+   "col": [
+    [
+     "die Anonymisierung der Daten",
+     "数据匿名化"
+    ],
+    [
+     "zur Anonymisierung",
+     "为了匿名化"
+    ]
+   ],
+   "tip": "动词 anonymisieren"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Pflichtenheft",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Pflichtenhefte",
+  "zh": "需求规格说明书（技术实施方案）",
+  "ex": [
+   "Im Pflichtenheft beschreibt der Auftragnehmer, wie die Anforderungen umgesetzt werden."
+  ],
+  "ex_zh": "在 Pflichtenheft 里，承接方说明如何落实这些需求。",
+  "use": {
+   "col": [
+    [
+     "das Pflichtenheft erstellen",
+     "编写技术规格书"
+    ],
+    [
+     "laut Pflichtenheft",
+     "根据规格说明书"
+    ]
+   ],
+   "tip": "Lastenheft 是客户的需求，Pflichtenheft 是承包方的方案"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Lastenheft",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Lastenhefte",
+  "zh": "需求说明书（客户方）",
+  "ex": [
+   "Der Kunde hat im Lastenheft alle Anforderungen an das System festgehalten."
+  ],
+  "ex_zh": "客户在需求说明书里写下了对系统的所有要求。",
+  "use": {
+   "col": [
+    [
+     "das Lastenheft erstellen",
+     "编写需求说明书"
+    ],
+    [
+     "nach dem Lastenheft",
+     "按照需求说明书"
+    ]
+   ],
+   "tip": "由客户撰写；对应的回应是 Pflichtenheft"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Wirkungsgrad",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Wirkungsgrade",
+  "zh": "效率；能量转化率",
+  "ex": [
+   "Moderne Solarzellen erreichen einen Wirkungsgrad von über zwanzig Prozent."
+  ],
+  "ex_zh": "现代太阳能电池的转化效率超过百分之二十。",
+  "use": {
+   "col": [
+    [
+     "einen hohen Wirkungsgrad haben",
+     "效率高"
+    ],
+    [
+     "den Wirkungsgrad steigern",
+     "提高转化率"
+    ]
+   ],
+   "tip": "物理、工程术语；和 Effizienz相近但指具体比值"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Mustererkennung",
+  "art": "die",
+  "pos": "n",
+  "zh": "模式识别",
+  "ex": [
+   "Die Mustererkennung ermöglicht es, Auffälligkeiten in großen Datenmengen zu finden."
+  ],
+  "ex_zh": "模式识别使人们能在海量数据中发现异常。",
+  "use": {
+   "col": [
+    [
+     "automatische Mustererkennung",
+     "自动模式识别"
+    ],
+    [
+     "Verfahren der Mustererkennung",
+     "模式识别方法"
+    ]
+   ],
+   "tip": "Muster 加 Erkennung；AI 与图像处理领域常用"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Photovoltaik",
+  "art": "die",
+  "pos": "n",
+  "zh": "光伏",
+  "ex": [
+   "Die Photovoltaik trägt inzwischen erheblich zur Stromerzeugung bei."
+  ],
+  "ex_zh": "光伏如今为发电做出了相当大的贡献。",
+  "use": {
+   "col": [
+    [
+     "eine Photovoltaikanlage",
+     "光伏设备"
+    ],
+    [
+     "Strom aus Photovoltaik",
+     "光伏发电"
+    ]
+   ],
+   "tip": "也写 Fotovoltaik；缩写 PV；口语里 Solaranlage更常用"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Fertigung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Fertigungen",
+  "zh": "制造；生产",
+  "ex": [
+   "Die Fertigung wurde in ein Werk nach Tschechien verlagert."
+  ],
+  "ex_zh": "生产被转移到了捷克的一家工厂。",
+  "use": {
+   "col": [
+    [
+     "die Fertigung automatisieren",
+     "使生产自动化"
+    ],
+    [
+     "in der Fertigung arbeiten",
+     "在制造部门工作"
+    ]
+   ],
+   "tip": "动词 fertigen；工业场合比 Herstellung 更常见"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Rechtsgrundlage",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Rechtsgrundlagen",
+  "zh": "法律依据",
+  "ex": [
+   "Für die Speicherung der Daten fehlt die Rechtsgrundlage."
+  ],
+  "ex_zh": "存储这些数据缺少法律依据。",
+  "use": {
+   "col": [
+    [
+     "eine Rechtsgrundlage schaffen",
+     "创造法律依据"
+    ],
+    [
+     "auf einer Rechtsgrundlage beruhen",
+     "以法律依据为基础"
+    ]
+   ],
+   "tip": "DSGVO 里常见；Recht加 Grundlage"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Datenschutzbeauftragte",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Datenschutzbeauftragten",
+  "zh": "数据保护专员",
+  "ex": [
+   "Der Datenschutzbeauftragte prüft, ob das neue Tool zulässig ist."
+  ],
+  "ex_zh": "数据保护专员审查这个新工具是否合规。",
+  "use": {
+   "col": [
+    [
+     "den Datenschutzbeauftragten einbinden",
+     "让数据保护专员参与"
+    ],
+    [
+     "die Datenschutzbeauftragte der Firma",
+     "公司的数据保护专员（女）"
+    ]
+   ],
+   "tip": "按形容词变化：ein Datenschutzbeauftragter"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Nachvollziehbarkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "可追溯；可理解",
+  "ex": [
+   "Für Audits ist die Nachvollziehbarkeit aller Änderungen entscheidend."
+  ],
+  "ex_zh": "对审计来说，所有改动都可追溯是关键。",
+  "use": {
+   "col": [
+    [
+     "die Nachvollziehbarkeit gewährleisten",
+     "保证可追溯性"
+    ],
+    [
+     "mangelnde Nachvollziehbarkeit",
+     "缺乏可追溯性"
+    ]
+   ],
+   "tip": "动词 nachvollziehen；形容词 nachvollziehbar"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Rückverfolgbarkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "可追溯性（溯源）",
+  "ex": [
+   "Die Rückverfolgbarkeit der Bauteile muss bis zum Hersteller möglich sein."
+  ],
+  "ex_zh": "零部件必须能一直追溯到制造商。",
+  "use": {
+   "col": [
+    [
+     "die Rückverfolgbarkeit sicherstellen",
+     "确保可溯源"
+    ],
+    [
+     "lückenlose Rückverfolgbarkeit",
+     "完整溯源"
+    ]
+   ],
+   "tip": "制造业、食品业常用；动词 zurückverfolgen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Wertschöpfung",
+  "art": "die",
+  "pos": "n",
+  "zh": "价值创造；增值",
+  "ex": [
+   "Ein großer Teil der Wertschöpfung findet inzwischen im Softwarebereich statt."
+  ],
+  "ex_zh": "大部分价值创造现在发生在软件领域。",
+  "use": {
+   "col": [
+    [
+     "die Wertschöpfung steigern",
+     "提高增值"
+    ],
+    [
+     "die Wertschöpfungskette",
+     "价值链"
+    ]
+   ],
+   "tip": "经济类书面语；Wert 加 Schöpfung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Produktivität",
+  "art": "die",
+  "pos": "n",
+  "zh": "生产率；生产力",
+  "ex": [
+   "Die Produktivität der Mitarbeiter stieg nach der Einführung der Software."
+  ],
+  "ex_zh": "引入这款软件后，员工的生产率提高了。",
+  "use": {
+   "col": [
+    [
+     "die Produktivität steigern",
+     "提高生产率"
+    ],
+    [
+     "die Produktivität sinkt",
+     "生产率下降"
+    ]
+   ],
+   "tip": "形容词 produktiv；Produktion"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Rationalisierung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Rationalisierungen",
+  "zh": "合理化；精简（降本）",
+  "ex": [
+   "Die Rationalisierung der Produktion führte zum Abbau von Arbeitsplätzen."
+  ],
+  "ex_zh": "生产的合理化精简导致岗位减少。",
+  "use": {
+   "col": [
+    [
+     "Maßnahmen zur Rationalisierung",
+     "精简措施"
+    ],
+    [
+     "durch Rationalisierung",
+     "通过合理化"
+    ]
+   ],
+   "tip": "动词 rationalisieren；常带「裁员」的潜台词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Infrastruktur",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Infrastrukturen",
+  "zh": "基础设施",
+  "ex": [
+   "Die digitale Infrastruktur auf dem Land ist noch lückenhaft."
+  ],
+  "ex_zh": "农村的数字基础设施仍然不完善。",
+  "use": {
+   "col": [
+    [
+     "die Infrastruktur ausbauen",
+     "扩建基础设施"
+    ],
+    [
+     "kritische Infrastruktur",
+     "关键基础设施"
+    ]
+   ],
+   "tip": "IT 里也指服务器、网络等环境"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Versorgungssicherheit",
+  "art": "die",
+  "pos": "n",
+  "zh": "供应安全",
+  "ex": [
+   "Die Versorgungssicherheit mit Gas war im Winter gefährdet."
+  ],
+  "ex_zh": "冬天天然气的供应安全曾受到威胁。",
+  "use": {
+   "col": [
+    [
+     "die Versorgungssicherheit gewährleisten",
+     "保障供应安全"
+    ],
+    [
+     "die Versorgungssicherheit gefährden",
+     "危及供应安全"
+    ]
+   ],
+   "tip": "能源政策核心词；Versorgung 加 Sicherheit"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Netzausbau",
+  "art": "der",
+  "pos": "n",
+  "zh": "电网扩建",
+  "ex": [
+   "Der Netzausbau kommt in Deutschland langsamer voran, als es die Politik geplant hatte."
+  ],
+  "ex_zh": "德国的电网扩建比政界计划的进展更慢。",
+  "use": {
+   "col": [
+    [
+     "den Netzausbau beschleunigen",
+     "加快电网扩建"
+    ],
+    [
+     "Kosten für den Netzausbau",
+     "电网扩建的成本"
+    ]
+   ],
+   "tip": "Netz加 Ausbau；通信网络扩建也可用"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Wasserstoff",
+  "art": "der",
+  "pos": "n",
+  "zh": "氢；氢气",
+  "ex": [
+   "Wasserstoff gilt als wichtiger Energieträger der Zukunft, besonders für die Stahlindustrie."
+  ],
+  "ex_zh": "氢被视为未来重要的能源载体，尤其是对钢铁业。",
+  "use": {
+   "col": [
+    [
+     "grüner Wasserstoff",
+     "绿氢"
+    ],
+    [
+     "mit Wasserstoff betrieben",
+     "以氢为动力"
+    ]
+   ],
+   "tip": "化学符号 H；Wasserstoffauto = 氢能源汽车"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Brennstoffzelle",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Brennstoffzellen",
+  "zh": "燃料电池",
+  "ex": [
+   "Der Stadtbus wird nicht von einem Dieselmotor, sondern von einer Brennstoffzelle angetrieben."
+  ],
+  "ex_zh": "这辆城市公交车不是柴油发动机驱动，而是燃料电池驱动。",
+  "use": {
+   "col": [
+    [
+     "eine Brennstoffzelle einsetzen",
+     "使用燃料电池"
+    ],
+    [
+     "Fahrzeuge mit Brennstoffzelle",
+     "燃料电池汽车"
+    ]
+   ],
+   "tip": "Brennstoff加 Zelle"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Atomausstieg",
+  "art": "der",
+  "pos": "n",
+  "zh": "退出核能",
+  "ex": [
+   "Der Atomausstieg wurde in Deutschland im April 2023 vollendet."
+  ],
+  "ex_zh": "德国在 2023 年 4 月完成了退出核能。",
+  "use": {
+   "col": [
+    [
+     "der Atomausstieg Deutschlands",
+     "德国退出核能"
+    ],
+    [
+     "den Atomausstieg beschließen",
+     "决定退出核能"
+    ]
+   ],
+   "tip": "德国能源政治词；Ausstieg = 退出；对应 Kohleausstieg"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Kohleausstieg",
+  "art": "der",
+  "pos": "n",
+  "zh": "退出煤炭",
+  "ex": [
+   "Der Kohleausstieg soll in Deutschland bis spätestens 2038 erfolgen."
+  ],
+  "ex_zh": "德国要最迟在 2038 年完成退出煤炭。",
+  "use": {
+   "col": [
+    [
+     "den Kohleausstieg beschleunigen",
+     "加快退出煤炭"
+    ],
+    [
+     "der Kohleausstieg bis 2038",
+     "到 2038 年退出煤炭"
+    ]
+   ],
+   "tip": "德国新闻常见；aussteigen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Treibhausgas",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Treibhausgase",
+  "zh": "温室气体",
+  "ex": [
+   "Der Verkehr verursacht einen großen Teil der Treibhausgase."
+  ],
+  "ex_zh": "交通造成了很大一部分温室气体。",
+  "use": {
+   "col": [
+    [
+     "Treibhausgase ausstoßen",
+     "排放温室气体"
+    ],
+    [
+     "Treibhausgase reduzieren",
+     "减少温室气体"
+    ]
+   ],
+   "tip": "Treibhaus 加 Gas；Treibhauseffekt = 温室效应"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Kreislaufwirtschaft",
+  "art": "die",
+  "pos": "n",
+  "zh": "循环经济",
+  "ex": [
+   "Die Kreislaufwirtschaft soll den Verbrauch von Rohstoffen deutlich senken."
+  ],
+  "ex_zh": "循环经济应当显著降低原材料消耗。",
+  "use": {
+   "col": [
+    [
+     "auf Kreislaufwirtschaft setzen",
+     "发展循环经济"
+    ],
+    [
+     "Kreislaufwirtschaftsgesetz",
+     "循环经济法"
+    ]
+   ],
+   "tip": "Kreislauf = 循环；Rohstoff"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Redundanz",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Redundanzen",
+  "zh": "冗余",
+  "ex": [
+   "Zur Sicherheit bauen wir Redundanz in das System ein."
+  ],
+  "ex_zh": "为了安全，我们在系统里加入了冗余。",
+  "use": {
+   "senses": [
+    "（系统）冗余设计",
+    "多余、重复"
+   ],
+   "col": [
+    [
+     "Redundanz schaffen",
+     "建立冗余"
+    ],
+    [
+     "redundante Daten",
+     "冗余数据"
+    ]
+   ],
+   "tip": "形容词 redundant；在 IT 里是正面词，日常语言里指「多余」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Latenz",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Latenzen",
+  "zh": "延迟；时延",
+  "ex": [
+   "Die hohe Latenz im Netzwerk macht Echtzeitanwendungen praktisch unmöglich."
+  ],
+  "ex_zh": "网络里的高延迟使实时应用几乎无法实现。",
+  "use": {
+   "col": [
+    [
+     "eine niedrige Latenz",
+     "低延迟"
+    ],
+    [
+     "die Latenz verringern",
+     "降低延迟"
+    ]
+   ],
+   "tip": "也说 Verzögerung；重音在 -tenz"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Schwachstelle",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Schwachstellen",
+  "zh": "弱点；漏洞",
+  "ex": [
+   "Die Prüfung deckte mehrere Schwachstellen im System auf."
+  ],
+  "ex_zh": "这次检查发现了系统中的几处薄弱环节。",
+  "use": {
+   "senses": [
+    "（系统）漏洞",
+    "（人、计划）弱点"
+   ],
+   "col": [
+    [
+     "eine Schwachstelle beheben",
+     "修补薄弱环节"
+    ],
+    [
+     "Schwachstellen aufdecken",
+     "发现弱点"
+    ]
+   ],
+   "tip": "比 Sicherheitslücke范围更广"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Angriffsfläche",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Angriffsflächen",
+  "zh": "攻击面",
+  "ex": [
+   "Jeder offene Port vergrößert die Angriffsfläche des Systems."
+  ],
+  "ex_zh": "每多一个开放端口，系统的攻击面就更大。",
+  "use": {
+   "col": [
+    [
+     "die Angriffsfläche verringern",
+     "缩小攻击面"
+    ],
+    [
+     "eine große Angriffsfläche bieten",
+     "暴露大量攻击面"
+    ]
+   ],
+   "tip": "Angriff加 Fläche；也比喻「容易被攻击的点」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Datenleck",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Datenlecks",
+  "zh": "数据泄露",
+  "ex": [
+   "Durch das Datenleck waren die Adressen von Millionen Kunden öffentlich."
+  ],
+  "ex_zh": "因为这次数据泄露，几百万客户的地址被公开了。",
+  "use": {
+   "col": [
+    [
+     "ein Datenleck entdecken",
+     "发现数据泄露"
+    ],
+    [
+     "ein Datenleck schließen",
+     "堵住数据泄露"
+    ]
+   ],
+   "tip": "比 Datenpanne更强调数据真的流出；Leck = 漏洞"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Zweckbindung",
+  "art": "die",
+  "pos": "n",
+  "zh": "目的限定",
+  "ex": [
+   "Nach dem Grundsatz der Zweckbindung dürfen Daten nur für den genannten Zweck genutzt werden."
+  ],
+  "ex_zh": "根据目的限定原则，数据只能用于所述目的。",
+  "use": {
+   "col": [
+    [
+     "der Grundsatz der Zweckbindung",
+     "目的限定原则"
+    ],
+    [
+     "gegen die Zweckbindung verstoßen",
+     "违反目的限定"
+    ]
+   ],
+   "tip": "DSGVO 用语；Zweck加 Bindung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Datensparsamkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "数据最小化",
+  "ex": [
+   "Datensparsamkeit bedeutet, nur die wirklich nötigen Daten zu erheben."
+  ],
+  "ex_zh": "数据最小化意味着只收集真正必需的数据。",
+  "use": {
+   "col": [
+    [
+     "das Prinzip der Datensparsamkeit",
+     "数据最小化原则"
+    ],
+    [
+     "auf Datensparsamkeit achten",
+     "注意数据最小化"
+    ]
+   ],
+   "tip": "sparsam 来自 sparen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Auskunftsrecht",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Auskunftsrechte",
+  "zh": "知情权；查询权",
+  "ex": [
+   "Nach der DSGVO haben Betroffene ein Auskunftsrecht über ihre gespeicherten Daten."
+  ],
+  "ex_zh": "根据 DSGVO，当事人有权查询自己被存储的数据。",
+  "use": {
+   "col": [
+    [
+     "das Auskunftsrecht geltend machen",
+     "行使知情权"
+    ],
+    [
+     "von seinem Auskunftsrecht Gebrauch machen",
+     "使用查询权"
+    ]
+   ],
+   "tip": "Auskunft加 Recht；机关 / 公司必须在一个月内答复"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Haftung",
+  "art": "die",
+  "pos": "n",
+  "zh": "责任；赔偿责任",
+  "ex": [
+   "Die Haftung für Datenverluste ist im Vertrag ausgeschlossen."
+  ],
+  "ex_zh": "合同中排除了对数据丢失的责任。",
+  "gov": "die Haftung für + Akk.",
+  "use": {
+   "col": [
+    [
+     "die Haftung übernehmen",
+     "承担责任"
+    ],
+    [
+     "Haftung ausschließen",
+     "排除责任"
+    ]
+   ],
+   "tip": "动词 haften für + Akk.；GmbH = 有限责任公司"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Gewährleistung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Gewährleistungen",
+  "zh": "质保；保证",
+  "ex": [
+   "Auf die Software gewähren wir zwei Jahre Gewährleistung."
+  ],
+  "ex_zh": "这款软件我们提供两年质保。",
+  "use": {
+   "col": [
+    [
+     "Gewährleistung geben",
+     "提供质保"
+    ],
+    [
+     "die Gewährleistung läuft ab",
+     "质保到期"
+    ]
+   ],
+   "tip": "动词 gewährleisten；法律上指卖方的瑕疵担保"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Urheberrecht",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Urheberrechte",
+  "zh": "著作权；版权",
+  "ex": [
+   "Der Code des Projekts ist durch das Urheberrecht geschützt und darf nicht kopiert werden."
+  ],
+  "ex_zh": "这个项目的代码受著作权保护，不得复制。",
+  "use": {
+   "col": [
+    [
+     "das Urheberrecht verletzen",
+     "侵犯著作权"
+    ],
+    [
+     "Urheberrecht beachten",
+     "遵守著作权"
+    ]
+   ],
+   "tip": "Urheber = 作者、创作者；Recht"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Lizenz",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Lizenzen",
+  "zh": "许可；许可证",
+  "ex": [
+   "Die Bibliothek steht unter einer freizügigen Lizenz und darf auch kommerziell genutzt werden."
+  ],
+  "ex_zh": "这个库使用宽松的许可协议，也可以商用。",
+  "use": {
+   "col": [
+    [
+     "eine Lizenz erwerben",
+     "购买许可"
+    ],
+    [
+     "unter einer Lizenz stehen",
+     "在某个许可下发布"
+    ]
+   ],
+   "tip": "动词 lizenzieren；重音在 -zenz"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Halbleiter",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Halbleiter",
+  "zh": "半导体",
+  "ex": [
+   "Die Nachfrage nach Halbleitern ist durch die Elektromobilität stark gestiegen."
+  ],
+  "ex_zh": "电动出行使对半导体的需求大幅上升。",
+  "use": {
+   "col": [
+    [
+     "Halbleiter herstellen",
+     "生产半导体"
+    ],
+    [
+     "der Mangel an Halbleitern",
+     "半导体短缺"
+    ]
+   ],
+   "tip": "新闻中常指芯片；Chip（常用借词）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Prozessor",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Prozessoren",
+  "zh": "处理器",
+  "ex": [
+   "Der Prozessor erreicht unter Last schnell hohe Temperaturen."
+  ],
+  "ex_zh": "处理器在负载下很快就会升到很高的温度。",
+  "use": {
+   "col": [
+    [
+     "ein schneller Prozessor",
+     "快速处理器"
+    ],
+    [
+     "der Prozessor ist ausgelastet",
+     "处理器满载"
+    ]
+   ],
+   "tip": "重音在 -zes-，复数 Prozessoren 重音移到 -so-"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Quantencomputer",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Quantencomputer",
+  "zh": "量子计算机",
+  "ex": [
+   "Quantencomputer könnten in Zukunft bestimmte heutige Verschlüsselungsverfahren gefährden."
+  ],
+  "ex_zh": "量子计算机将来可能威胁到今天的某些加密方法。",
+  "use": {
+   "col": [
+    [
+     "einen Quantencomputer bauen",
+     "制造量子计算机"
+    ],
+    [
+     "auf Quantencomputern berechnen",
+     "用量子计算机计算"
+    ]
+   ],
+   "tip": "Quanten 是 Quant 的复数；Computer"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Blockchain",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Blockchains",
+  "zh": "区块链",
+  "ex": [
+   "Die Blockchain speichert Transaktionen dezentral und fälschungssicher in miteinander verketteten Blöcken."
+  ],
+  "ex_zh": "区块链把交易分散且防伪造地存储在相互链接的区块中。",
+  "use": {
+   "col": [
+    [
+     "auf einer Blockchain speichern",
+     "存在区块链上"
+    ],
+    [
+     "Blockchain-Technologie",
+     "区块链技术"
+    ]
+   ],
+   "tip": "阴性；读作 [ˈblɔkˌtʃeɪn]"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Verzerrung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Verzerrungen",
+  "zh": "偏差；失真",
+  "ex": [
+   "Verzerrungen in den Trainingsdaten führen zu diskriminierenden Ergebnissen."
+  ],
+  "ex_zh": "训练数据里的偏差会导致带歧视的结果。",
+  "use": {
+   "senses": [
+    "（数据、结果）偏差",
+    "（图像、声音）失真"
+   ],
+   "col": [
+    [
+     "eine Verzerrung der Daten",
+     "数据偏差"
+    ],
+    [
+     "Verzerrungen vermeiden",
+     "避免偏差"
+    ]
+   ],
+   "tip": "AI 伦理里指模型的偏见；动词 verzerren"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Erklärbarkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "可解释性",
+  "ex": [
+   "Die Erklärbarkeit von KI-Entscheidungen ist ein wichtiges Forschungsthema."
+  ],
+  "ex_zh": "人工智能决策的可解释性是一个重要的研究课题。",
+  "use": {
+   "col": [
+    [
+     "die Erklärbarkeit verbessern",
+     "提高可解释性"
+    ],
+    [
+     "fehlende Erklärbarkeit",
+     "缺乏可解释性"
+    ]
+   ],
+   "tip": "形容词 erklärbar；与 Nachvollziehbarkeit相近"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Halluzination",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Halluzinationen",
+  "zh": "幻觉（模型编造）",
+  "ex": [
+   "Sprachmodelle neigen zu Halluzinationen und erfinden manchmal Quellen."
+  ],
+  "ex_zh": "语言模型容易出现幻觉，有时会编造来源。",
+  "use": {
+   "senses": [
+    "（AI）模型编造内容",
+    "（医学）幻觉"
+   ],
+   "col": [
+    [
+     "Halluzinationen vermeiden",
+     "避免幻觉"
+    ],
+    [
+     "zu Halluzinationen neigen",
+     "容易产生幻觉"
+    ]
+   ],
+   "tip": "原意是医学里的幻觉；AI 中指模型输出看似可信却不真实的内容"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Datenqualität",
+  "art": "die",
+  "pos": "n",
+  "zh": "数据质量",
+  "ex": [
+   "Ohne gute Datenqualität nützt auch der beste Algorithmus nichts."
+  ],
+  "ex_zh": "没有好的数据质量，再好的算法也没用。",
+  "use": {
+   "col": [
+    [
+     "die Datenqualität sichern",
+     "保证数据质量"
+    ],
+    [
+     "mangelnde Datenqualität",
+     "数据质量差"
+    ]
+   ],
+   "tip": "Qualität加 Daten"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Datenbestand",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Datenbestände",
+  "zh": "数据存量",
+  "ex": [
+   "Der gesamte Datenbestand wird in die neue Datenbank übernommen."
+  ],
+  "ex_zh": "全部存量数据都会转入新数据库。",
+  "use": {
+   "col": [
+    [
+     "den Datenbestand bereinigen",
+     "清理存量数据"
+    ],
+    [
+     "der vorhandene Datenbestand",
+     "现有数据"
+    ]
+   ],
+   "tip": "Bestand = 存量；复数 Datenbestände"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Datenerhebung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Datenerhebungen",
+  "zh": "数据采集；调查",
+  "ex": [
+   "Für die Datenerhebung brauchen wir die Zustimmung der Teilnehmer."
+  ],
+  "ex_zh": "采集数据需要参与者同意。",
+  "use": {
+   "col": [
+    [
+     "die Datenerhebung durchführen",
+     "进行数据采集"
+    ],
+    [
+     "eine anonyme Datenerhebung",
+     "匿名调查"
+    ]
+   ],
+   "tip": "动词 erheben；学术、统计常用"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Datenhoheit",
+  "art": "die",
+  "pos": "n",
+  "zh": "数据主权",
+  "ex": [
+   "Die Unternehmen fordern mehr Datenhoheit gegenüber den großen Plattformen."
+  ],
+  "ex_zh": "企业要求对大型平台拥有更多数据主权。",
+  "use": {
+   "col": [
+    [
+     "die Datenhoheit behalten",
+     "保持数据主权"
+    ],
+    [
+     "digitale Souveränität",
+     "数字主权"
+    ]
+   ],
+   "tip": "Hoheit = 主权；欧盟数字政策用语"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Schlüsseltechnologie",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Schlüsseltechnologien",
+  "zh": "关键技术",
+  "ex": [
+   "Künstliche Intelligenz gilt als Schlüsseltechnologie des 21. Jahrhunderts."
+  ],
+  "ex_zh": "人工智能被视为 21 世纪的关键技术。",
+  "use": {
+   "col": [
+    [
+     "in Schlüsseltechnologien investieren",
+     "投资关键技术"
+    ],
+    [
+     "eine Schlüsseltechnologie beherrschen",
+     "掌握关键技术"
+    ]
+   ],
+   "tip": "Schlüssel加 Technologie"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Altsystem",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Altsysteme",
+  "zh": "遗留系统；旧系统",
+  "ex": [
+   "Die Anbindung an das Altsystem verursacht die meisten Probleme."
+  ],
+  "ex_zh": "与旧系统的对接引发了最多问题。",
+  "use": {
+   "col": [
+    [
+     "ein Altsystem ablösen",
+     "替换旧系统"
+    ],
+    [
+     "Daten aus dem Altsystem übernehmen",
+     "从旧系统导入数据"
+    ]
+   ],
+   "tip": "Alt- 加 System；Altlasten = 历史包袱"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Abnahme",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Abnahmen",
+  "zh": "验收；接收",
+  "ex": [
+   "Die Abnahme durch den Kunden ist für Ende des Monats vorgesehen."
+  ],
+  "ex_zh": "客户的验收安排在月底。",
+  "use": {
+   "senses": [
+    "（项目、工程）验收",
+    "减少"
+   ],
+   "col": [
+    [
+     "die Abnahme erfolgt",
+     "进行验收"
+    ],
+    [
+     "eine Abnahme verweigern",
+     "拒绝验收"
+    ]
+   ],
+   "tip": "动词 abnehmen；项目管理术语；Abnahmetest = 验收测试"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Freigabe",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Freigaben",
+  "zh": "批准；放行；发布许可",
+  "ex": [
+   "Die Freigabe der neuen Version erfolgt erst nach dem letzten Test."
+  ],
+  "ex_zh": "新版本要在最后一次测试之后才放行。",
+  "use": {
+   "col": [
+    [
+     "die Freigabe erteilen",
+     "批准放行"
+    ],
+    [
+     "auf die Freigabe warten",
+     "等待批准"
+    ]
+   ],
+   "tip": "动词 freigeben；IT 里也指代码合并或上线的批准"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Authentifizierung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Authentifizierungen",
+  "zh": "身份验证",
+  "ex": [
+   "Für den Zugang zum Firmennetz ist eine Zwei-Faktor-Authentifizierung ausdrücklich vorgeschrieben."
+  ],
+  "ex_zh": "访问公司网络明确要求使用双因素身份验证。",
+  "use": {
+   "col": [
+    [
+     "die Zwei-Faktor-Authentifizierung",
+     "双因素认证"
+    ],
+    [
+     "die Authentifizierung scheitert",
+     "验证失败"
+    ]
+   ],
+   "tip": "动词 authentifizieren"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Instandhaltung",
+  "art": "die",
+  "pos": "n",
+  "zh": "维修保养；设备维护",
+  "ex": [
+   "Die Instandhaltung der Maschinen wird an eine externe Firma vergeben."
+  ],
+  "ex_zh": "机器的维修保养外包给了一家外部公司。",
+  "use": {
+   "col": [
+    [
+     "die Instandhaltung planen",
+     "规划设备维护"
+    ],
+    [
+     "vorbeugende Instandhaltung",
+     "预防性维护"
+    ]
+   ],
+   "tip": "比 Wartung更广，含维修；动词 instand halten"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Störfall",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Störfälle",
+  "zh": "故障事故；事故",
+  "ex": [
+   "Nach dem Störfall wurde die Anlage sofort abgeschaltet."
+  ],
+  "ex_zh": "发生故障事故后，设备立刻被关停。",
+  "use": {
+   "col": [
+    [
+     "einen Störfall melden",
+     "上报故障事故"
+    ],
+    [
+     "im Störfall",
+     "发生故障时"
+    ]
+   ],
+   "tip": "Störung加 Fall；核电和化工里常用"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Verschleiß",
+  "art": "der",
+  "pos": "n",
+  "zh": "磨损；损耗",
+  "ex": [
+   "Durch regelmäßige Schmierung lässt sich der Verschleiß verringern."
+  ],
+  "ex_zh": "定期润滑可以减少磨损。",
+  "use": {
+   "col": [
+    [
+     "normaler Verschleiß",
+     "正常磨损"
+    ],
+    [
+     "Verschleißteile",
+     "易损件"
+    ]
+   ],
+   "tip": "动词 verschleißen；ß 在 ei 之后保持不变，注意拼写"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Stückzahl",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Stückzahlen",
+  "zh": "件数；产量",
+  "ex": [
+   "Bei kleinen Stückzahlen lohnt sich die Automatisierung nicht."
+  ],
+  "ex_zh": "件数少时，自动化并不划算。",
+  "use": {
+   "col": [
+    [
+     "hohe Stückzahlen",
+     "大批量"
+    ],
+    [
+     "die Stückzahl erhöhen",
+     "提高产量"
+    ]
+   ],
+   "tip": "Stück加 Zahl；制造业用语"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Serienproduktion",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Serienproduktionen",
+  "zh": "批量生产",
+  "ex": [
+   "Der Prototyp geht im Herbst in die Serienproduktion."
+  ],
+  "ex_zh": "这个原型在秋天进入批量生产。",
+  "use": {
+   "col": [
+    [
+     "in Serienproduktion gehen",
+     "投入批量生产"
+    ],
+    [
+     "die Serienproduktion starten",
+     "开始批量生产"
+    ]
+   ],
+   "tip": "Serie加 Produktion；对应 Einzelfertigung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Fachkräftemangel",
+  "art": "der",
+  "pos": "n",
+  "zh": "技术人才短缺",
+  "ex": [
+   "Der Fachkräftemangel bremst die Digitalisierung im deutschen Mittelstand schon seit Jahren."
+  ],
+  "ex_zh": "技术人才短缺多年来一直拖慢德国中型企业的数字化。",
+  "use": {
+   "col": [
+    [
+     "unter dem Fachkräftemangel leiden",
+     "受人才短缺之苦"
+    ],
+    [
+     "den Fachkräftemangel bekämpfen",
+     "应对人才短缺"
+    ]
+   ],
+   "tip": "Fachkraft 的复数 Fachkräfte + Mangel"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Strukturwandel",
+  "art": "der",
+  "pos": "n",
+  "zh": "结构转型",
+  "ex": [
+   "Der Strukturwandel in den Kohleregionen stellt viele Beschäftigte vor Probleme."
+  ],
+  "ex_zh": "煤炭地区的结构转型让很多员工面临难题。",
+  "use": {
+   "col": [
+    [
+     "den Strukturwandel gestalten",
+     "塑造结构转型"
+    ],
+    [
+     "vom Strukturwandel betroffen sein",
+     "受结构转型影响"
+    ]
+   ],
+   "tip": "Wandel = 转变；经济、政治报道常用"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Anbindung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Anbindungen",
+  "zh": "对接；接入；交通连接",
+  "ex": [
+   "Die Anbindung an das Zahlungssystem ist noch nicht abgeschlossen."
+  ],
+  "ex_zh": "与支付系统的对接还没有完成。",
+  "gov": "die Anbindung an + Akk.",
+  "use": {
+   "senses": [
+    "（系统）对接、接入",
+    "（交通）连接"
+   ],
+   "col": [
+    [
+     "die Anbindung an ein System",
+     "与系统的对接"
+    ],
+    [
+     "eine gute Anbindung",
+     "便利的交通连接"
+    ]
+   ],
+   "tip": "动词 anbinden"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Rückgabewert",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Rückgabewerte",
+  "zh": "返回值",
+  "ex": [
+   "Der Rückgabewert der Funktion ist eine Liste aller Treffer."
+  ],
+  "ex_zh": "这个函数的返回值是所有命中结果的列表。",
+  "use": {
+   "col": [
+    [
+     "den Rückgabewert prüfen",
+     "检查返回值"
+    ],
+    [
+     "keinen Rückgabewert haben",
+     "没有返回值"
+    ]
+   ],
+   "tip": "Rückgabe 加 Wert"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Zeichenkette",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Zeichenketten",
+  "zh": "字符串",
+  "ex": [
+   "Die Zeichenkette wird vor dem Speichern auf Sonderzeichen geprüft."
+  ],
+  "ex_zh": "字符串在保存之前会检查特殊字符。",
+  "use": {
+   "col": [
+    [
+     "eine Zeichenkette auslesen",
+     "读取字符串"
+    ],
+    [
+     "eine leere Zeichenkette",
+     "空字符串"
+    ]
+   ],
+   "tip": "Zeichen加 Kette；编程基本数据类型之一"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Schleife",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Schleifen",
+  "zh": "循环；环形",
+  "ex": [
+   "Die Schleife läuft so lange, bis alle Einträge verarbeitet sind."
+  ],
+  "ex_zh": "这个循环一直运行到所有条目都处理完。",
+  "use": {
+   "senses": [
+    "（编程）循环",
+    "（丝带）蝴蝶结；弯道"
+   ],
+   "col": [
+    [
+     "eine Schleife durchlaufen",
+     "遍历循环"
+    ],
+    [
+     "in einer Endlosschleife hängen",
+     "陷入死循环"
+    ]
+   ],
+   "tip": "Endlosschleife = 死循环；日常也指丝带的「结」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Rekursion",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Rekursionen",
+  "zh": "递归",
+  "ex": [
+   "Die Berechnung lässt sich elegant mit einer Rekursion lösen."
+  ],
+  "ex_zh": "这个计算可以用递归优雅地解决。",
+  "use": {
+   "col": [
+    [
+     "eine Rekursion verwenden",
+     "使用递归"
+    ],
+    [
+     "rekursiv aufrufen",
+     "递归调用"
+    ]
+   ],
+   "tip": "形容词 rekursiv；重音在 -sion"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Eingabeaufforderung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Eingabeaufforderungen",
+  "zh": "提示符；提示词；命令行",
+  "ex": [
+   "Die Eingabeaufforderung wartet auf einen Befehl, den der Nutzer per Tastatur eingibt."
+  ],
+  "ex_zh": "命令提示符等待用户用键盘输入命令。",
+  "use": {
+   "col": [
+    [
+     "die Eingabeaufforderung öffnen",
+     "打开命令提示符"
+    ],
+    [
+     "eine Eingabeaufforderung für das Sprachmodell",
+     "给语言模型的提示词"
+    ]
+   ],
+   "tip": "Windows 里指命令提示符；对大语言模型则指给模型的指令文字"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Fehlertoleranz",
+  "art": "die",
+  "pos": "n",
+  "zh": "容错性",
+  "ex": [
+   "Verteilte Systeme brauchen eine hohe Fehlertoleranz, damit einzelne Ausfälle nicht alles lahmlegen."
+  ],
+  "ex_zh": "分布式系统需要很高的容错性，这样个别故障才不会让一切瘫痪。",
+  "use": {
+   "col": [
+    [
+     "hohe Fehlertoleranz",
+     "高容错性"
+    ],
+    [
+     "Fehlertoleranz gewährleisten",
+     "保证容错性"
+    ]
+   ],
+   "tip": "形容词 fehlertolerant；Toleranz 重音在 -ranz"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Ausfallsicherheit",
+  "art": "die",
+  "pos": "n",
+  "zh": "抗故障能力；高可用",
+  "ex": [
+   "Zur Ausfallsicherheit laufen die Dienste auf drei Standorten."
+  ],
+  "ex_zh": "为了提高抗故障能力，这些服务在三个地点同时运行。",
+  "use": {
+   "col": [
+    [
+     "die Ausfallsicherheit erhöhen",
+     "提高抗故障能力"
+    ],
+    [
+     "für maximale Ausfallsicherheit",
+     "为了最大限度的高可用"
+    ]
+   ],
+   "tip": "形容词 ausfallsicher；Ausfall"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Trefferquote",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Trefferquoten",
+  "zh": "命中率；准确率",
+  "ex": [
+   "Die Trefferquote des Modells liegt bei neunzig Prozent."
+  ],
+  "ex_zh": "这个模型的命中率是百分之九十。",
+  "use": {
+   "col": [
+    [
+     "eine hohe Trefferquote",
+     "高命中率"
+    ],
+    [
+     "die Trefferquote verbessern",
+     "提高命中率"
+    ]
+   ],
+   "tip": "Treffer 加 Quote；搜索、推荐里常用；与 Fehlerquote相对"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Stromtrasse",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Stromtrassen",
+  "zh": "输电线路走廊",
+  "ex": [
+   "Die geplante Stromtrasse soll Windstrom in den Süden bringen."
+  ],
+  "ex_zh": "规划中的输电线路要把风电送到南部。",
+  "use": {
+   "col": [
+    [
+     "eine Stromtrasse bauen",
+     "修建输电线路"
+    ],
+    [
+     "gegen die Stromtrasse protestieren",
+     "反对输电线路"
+    ]
+   ],
+   "tip": "Trasse = 线路走向；德国能源政治里常引发争议"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Einspeisung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Einspeisungen",
+  "zh": "并网；馈入",
+  "ex": [
+   "Die Einspeisung von Solarstrom wird nach festen Sätzen vergütet."
+  ],
+  "ex_zh": "太阳能电的并网按固定费率结算。",
+  "use": {
+   "col": [
+    [
+     "die Einspeisung ins Netz",
+     "并入电网"
+    ],
+    [
+     "die Einspeisevergütung",
+     "并网补贴"
+    ]
+   ],
+   "tip": "动词 einspeisen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Energieträger",
+  "art": "der",
+  "pos": "n",
+  "pl_full": "die Energieträger",
+  "zh": "能源载体；能源",
+  "ex": [
+   "Wasserstoff ist ein vielversprechender Energieträger, braucht aber viel Strom bei der Herstellung."
+  ],
+  "ex_zh": "氢是前景看好的能源载体，但制造时需要大量电力。",
+  "use": {
+   "col": [
+    [
+     "fossile Energieträger",
+     "化石能源"
+    ],
+    [
+     "erneuerbare Energieträger",
+     "可再生能源"
+    ]
+   ],
+   "tip": "Träger 来自 tragen；比 Energiequelle 更专业"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Dämmung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Dämmungen",
+  "zh": "保温；隔热；隔音",
+  "ex": [
+   "Mit einer besseren Dämmung lassen sich die Heizkosten deutlich senken."
+  ],
+  "ex_zh": "更好的保温可以显著降低取暖费用。",
+  "use": {
+   "col": [
+    [
+     "die Dämmung der Fassade",
+     "外墙保温"
+    ],
+    [
+     "Wärmedämmung",
+     "保温隔热"
+    ]
+   ],
+   "tip": "动词 dämmen；Schalldämmung = 隔音"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Endlager",
+  "art": "das",
+  "pos": "n",
+  "pl_full": "die Endlager",
+  "zh": "最终处置库",
+  "ex": [
+   "Die Suche nach einem Endlager für Atommüll ist politisch umstritten."
+  ],
+  "ex_zh": "为核废料寻找最终处置库在政治上有争议。",
+  "use": {
+   "col": [
+    [
+     "ein Endlager suchen",
+     "寻找最终处置库"
+    ],
+    [
+     "ein Endlager für Atommüll",
+     "核废料最终处置库"
+    ]
+   ],
+   "tip": "德国核废料话题；Lager"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Fehlerbehandlung",
+  "art": "die",
+  "pos": "n",
+  "pl_full": "die Fehlerbehandlungen",
+  "zh": "错误处理",
+  "ex": [
+   "Eine saubere Fehlerbehandlung verhindert, dass das Programm unkontrolliert abbricht."
+  ],
+  "ex_zh": "规范的错误处理可以防止程序失控中断。",
+  "use": {
+   "col": [
+    [
+     "die Fehlerbehandlung verbessern",
+     "改进错误处理"
+    ],
+    [
+     "ohne Fehlerbehandlung",
+     "没有错误处理"
+    ]
+   ],
+   "tip": "程序设计用语；Behandlung 来自 behandeln"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Wartbarkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "可维护性",
+  "ex": [
+   "Gute Namen und Tests erhöhen die Wartbarkeit des Codes."
+  ],
+  "ex_zh": "好的命名和测试能提高代码的可维护性。",
+  "use": {
+   "col": [
+    [
+     "die Wartbarkeit verbessern",
+     "提高可维护性"
+    ],
+    [
+     "schlechte Wartbarkeit",
+     "可维护性差"
+    ]
+   ],
+   "tip": "形容词 wartbar；Wartung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Testabdeckung",
+  "art": "die",
+  "pos": "n",
+  "zh": "测试覆盖率",
+  "ex": [
+   "Die Testabdeckung liegt derzeit bei etwa achtzig Prozent."
+  ],
+  "ex_zh": "测试覆盖率目前大约是百分之八十。",
+  "use": {
+   "col": [
+    [
+     "die Testabdeckung erhöhen",
+     "提高测试覆盖率"
+    ],
+    [
+     "eine hohe Testabdeckung",
+     "高测试覆盖率"
+    ]
+   ],
+   "tip": "Abdeckung 来自 abdecken；Test"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Rückwärtskompatibilität",
+  "art": "die",
+  "pos": "n",
+  "zh": "向后兼容",
+  "ex": [
+   "Die Entwickler achten bei jeder neuen Version auf die Rückwärtskompatibilität."
+  ],
+  "ex_zh": "开发者在每次发布时都注意向后兼容。",
+  "use": {
+   "col": [
+    [
+     "Rückwärtskompatibilität gewährleisten",
+     "保证向后兼容"
+    ],
+    [
+     "die Rückwärtskompatibilität brechen",
+     "破坏向后兼容"
+    ]
+   ],
+   "tip": "同义 Abwärtskompatibilität；形容词 kompatibel"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "auslesen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ausgelesen",
+  "forms": "liest aus, las aus, hat ausgelesen",
+  "zh": "读取；提取",
+  "ex": [
+   "Das Skript liest die Messwerte direkt aus dem Speicher des Geräts aus."
+  ],
+  "ex_zh": "脚本直接从设备的存储器中读取测量值。",
+  "use": {
+   "col": [
+    [
+     "Daten auslesen",
+     "读取数据"
+    ],
+    [
+     "einen Sensor auslesen",
+     "读取传感器"
+    ]
+   ],
+   "tip": "可分动词；和「读完书」的 auslesen 同形；名词 das Auslesen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "skalieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "skaliert",
+  "forms": "skaliert, skalierte, hat skaliert",
+  "zh": "扩展；按比例缩放",
+  "ex": [
+   "Die Anwendung lässt sich bei hoher Last problemlos horizontal skalieren."
+  ],
+  "ex_zh": "负载高时，这个应用可以毫无问题地横向扩展。",
+  "use": {
+   "col": [
+    [
+     "ein System skalieren",
+     "扩展系统"
+    ],
+    [
+     "nach oben skalieren",
+     "向上扩展"
+    ]
+   ],
+   "tip": "名词 die Skalierung；形容词 skalierbar"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "entschlüsseln",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "entschlüsselt",
+  "forms": "entschlüsselt, entschlüsselte, hat entschlüsselt",
+  "zh": "解密；破译",
+  "ex": [
+   "Ohne den privaten Schlüssel kann niemand die Nachricht entschlüsseln."
+  ],
+  "ex_zh": "没有私钥，谁也解不开这条消息。",
+  "use": {
+   "col": [
+    [
+     "Daten entschlüsseln",
+     "解密数据"
+    ],
+    [
+     "einen Code entschlüsseln",
+     "破译密码"
+    ]
+   ],
+   "tip": "不可分动词；反义 verschlüsseln"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ausspähen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ausgespäht",
+  "forms": "späht aus, spähte aus, hat ausgespäht",
+  "zh": "窃取；刺探",
+  "ex": [
+   "Die Schadsoftware späht Passwörter und Bankdaten der Nutzer aus."
+  ],
+  "ex_zh": "这个恶意软件窃取用户的密码和银行数据。",
+  "use": {
+   "col": [
+    [
+     "Daten ausspähen",
+     "窃取数据"
+    ],
+    [
+     "jemanden ausspähen",
+     "刺探某人"
+    ]
+   ],
+   "tip": "可分动词；名词 das Ausspähen；法律语体里是犯罪行为"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "manipulieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "manipuliert",
+  "forms": "manipuliert, manipulierte, hat manipuliert",
+  "zh": "操纵；篡改",
+  "ex": [
+   "Angreifer haben die Messwerte im Netzwerk gezielt manipuliert, ohne dass es sofort auffiel."
+  ],
+  "ex_zh": "攻击者有针对性地篡改了网络中的测量值，而且没有立刻被发现。",
+  "use": {
+   "col": [
+    [
+     "Daten manipulieren",
+     "篡改数据"
+    ],
+    [
+     "Wahlen manipulieren",
+     "操纵选举"
+    ]
+   ],
+   "tip": "名词 die Manipulation；带贬义"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "abfangen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgefangen",
+  "forms": "fängt ab, fing ab, hat abgefangen",
+  "zh": "截获；拦截；接住",
+  "ex": [
+   "Unverschlüsselte Nachrichten können leicht von Dritten abgefangen werden."
+  ],
+  "ex_zh": "未加密的消息容易被第三方截获。",
+  "use": {
+   "senses": [
+    "（消息、数据）截获",
+    "（冲击、问题）挡住、缓冲"
+   ],
+   "col": [
+    [
+     "Daten abfangen",
+     "截获数据"
+    ],
+    [
+     "einen Angriff abfangen",
+     "拦截攻击"
+    ]
+   ],
+   "tip": "可分动词；名词 das Abfangen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "authentifizieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "authentifiziert",
+  "forms": "authentifiziert, authentifizierte, hat authentifiziert",
+  "zh": "验证身份",
+  "ex": [
+   "Nutzer müssen sich vor dem Zugriff mit einem zweiten Faktor authentifizieren."
+  ],
+  "ex_zh": "用户在访问之前必须用第二重因素验证身份。",
+  "use": {
+   "col": [
+    [
+     "sich authentifizieren",
+     "验证自己的身份"
+    ],
+    [
+     "einen Nutzer authentifizieren",
+     "验证用户身份"
+    ]
+   ],
+   "tip": "名词 die Authentifizierung；常用反身形式"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "protokollieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "protokolliert",
+  "forms": "protokolliert, protokollierte, hat protokolliert",
+  "zh": "记录日志；做记录",
+  "ex": [
+   "Das System protokolliert jeden Zugriff auf die Kundendaten."
+  ],
+  "ex_zh": "系统会记录每一次对客户数据的访问。",
+  "use": {
+   "col": [
+    [
+     "Zugriffe protokollieren",
+     "记录访问"
+    ],
+    [
+     "ein Gespräch protokollieren",
+     "记录谈话"
+    ]
+   ],
+   "tip": "名词 das Protokoll；也指做会议记录"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "anbinden",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "angebunden",
+  "forms": "bindet an, band an, hat angebunden",
+  "zh": "接入；对接；连接",
+  "ex": [
+   "Wir binden das Zahlungssystem über eine Schnittstelle an die Plattform an."
+  ],
+  "ex_zh": "我们通过接口把支付系统接入平台。",
+  "gov": "anbinden an + Akk.",
+  "use": {
+   "col": [
+    [
+     "ein System anbinden",
+     "对接系统"
+    ],
+    [
+     "gut angebunden sein",
+     "交通便利"
+    ]
+   ],
+   "tip": "可分动词；名词 die Anbindung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "einbetten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingebettet",
+  "forms": "bettet ein, bettete ein, hat eingebettet",
+  "zh": "嵌入",
+  "ex": [
+   "Das Video ist direkt in die Webseite eingebettet."
+  ],
+  "ex_zh": "视频直接嵌入网页里。",
+  "gov": "einbetten in + Akk.",
+  "use": {
+   "col": [
+    [
+     "in den Text einbetten",
+     "嵌入文本"
+    ],
+    [
+     "in einen Kontext einbetten",
+     "置于某个背景之中"
+    ]
+   ],
+   "tip": "可分动词；名词 die Einbettung；Bett 的派生词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "generieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "generiert",
+  "forms": "generiert, generierte, hat generiert",
+  "zh": "生成",
+  "ex": [
+   "Das Programm generiert aus den Daten automatisch einen Bericht."
+  ],
+  "ex_zh": "程序根据数据自动生成报告。",
+  "use": {
+   "col": [
+    [
+     "einen Bericht generieren",
+     "生成报告"
+    ],
+    [
+     "Text generieren",
+     "生成文本"
+    ]
+   ],
+   "tip": "名词 die Generierung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "fertigen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gefertigt",
+  "forms": "fertigt, fertigte, hat gefertigt",
+  "zh": "制造；加工",
+  "ex": [
+   "Die Gehäuse werden in einem Werk in Sachsen gefertigt."
+  ],
+  "ex_zh": "这些外壳在萨克森的一家工厂里制造。",
+  "use": {
+   "col": [
+    [
+     "Bauteile fertigen",
+     "制造零件"
+    ],
+    [
+     "in Handarbeit gefertigt",
+     "手工制造"
+    ]
+   ],
+   "tip": "名词 die Fertigung；比 herstellen更偏工业"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "auslagern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ausgelagert",
+  "forms": "lagert aus, lagerte aus, hat ausgelagert",
+  "zh": "外包；迁出；转移",
+  "ex": [
+   "Die Firma hat ihren Betrieb der Server an einen externen Anbieter ausgelagert."
+  ],
+  "ex_zh": "公司把服务器运维外包给了外部服务商。",
+  "use": {
+   "col": [
+    [
+     "Daten in die Cloud auslagern",
+     "把数据迁到云端"
+    ],
+    [
+     "einen Bereich auslagern",
+     "把某个部门外包"
+    ]
+   ],
+   "tip": "可分动词；名词 die Auslagerung；名词 das Auslagern"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "vorantreiben",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "vorangetrieben",
+  "forms": "treibt voran, trieb voran, hat vorangetrieben",
+  "zh": "推进；推动",
+  "ex": [
+   "Das Land will den Ausbau der Ladeinfrastruktur schneller vorantreiben."
+  ],
+  "ex_zh": "该州想更快地推进充电基础设施的建设。",
+  "use": {
+   "col": [
+    [
+     "die Digitalisierung vorantreiben",
+     "推进数字化"
+    ],
+    [
+     "ein Projekt vorantreiben",
+     "推进项目"
+    ]
+   ],
+   "tip": "可分动词；新闻、政治语体常见"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verknüpfen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verknüpft",
+  "forms": "verknüpft, verknüpfte, hat verknüpft",
+  "zh": "关联；链接；结合",
+  "ex": [
+   "Die Datenbank verknüpft jeden Auftrag mit dem passenden Kunden."
+  ],
+  "ex_zh": "数据库把每个订单和对应的客户关联起来。",
+  "gov": "verknüpfen mit + Dat.",
+  "use": {
+   "col": [
+    [
+     "Daten verknüpfen",
+     "关联数据"
+    ],
+    [
+     "mit Bedingungen verknüpft sein",
+     "附带条件"
+    ]
+   ],
+   "tip": "不可分动词；名词 die Verknüpfung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "abgleichen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgeglichen",
+  "forms": "gleicht ab, glich ab, hat abgeglichen",
+  "zh": "比对；核对；校准",
+  "ex": [
+   "Das System gleicht die Eingaben automatisch mit der Kundendatenbank ab."
+  ],
+  "ex_zh": "系统自动把输入内容和客户数据库比对。",
+  "gov": "abgleichen mit + Dat.",
+  "use": {
+   "col": [
+    [
+     "Daten abgleichen",
+     "比对数据"
+    ],
+    [
+     "Termine abgleichen",
+     "核对日程"
+    ]
+   ],
+   "tip": "可分动词；名词 der Abgleich"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "nachvollziehen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "nachvollzogen",
+  "forms": "vollzieht nach, vollzog nach, hat nachvollzogen",
+  "zh": "理解；追溯；还原",
+  "ex": [
+   "Anhand der Protokolle lässt sich der Ablauf genau nachvollziehen."
+  ],
+  "ex_zh": "根据日志可以准确还原事件经过。",
+  "use": {
+   "col": [
+    [
+     "eine Entscheidung nachvollziehen",
+     "理解一项决定"
+    ],
+    [
+     "einen Vorgang nachvollziehen",
+     "追溯一个过程"
+    ]
+   ],
+   "tip": "可分动词；形容词 nachvollziehbar"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "gewährleisten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gewährleistet",
+  "forms": "gewährleistet, gewährleistete, hat gewährleistet",
+  "zh": "保证；确保",
+  "ex": [
+   "Der Betreiber muss die Sicherheit der Daten jederzeit gewährleisten."
+  ],
+  "ex_zh": "运营方必须随时保证数据安全。",
+  "use": {
+   "col": [
+    [
+     "die Sicherheit gewährleisten",
+     "保障安全"
+    ],
+    [
+     "einen reibungslosen Betrieb gewährleisten",
+     "保证顺利运营"
+    ]
+   ],
+   "tip": "不可分动词；名词 die Gewährleistung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "kalibrieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "kalibriert",
+  "forms": "kalibriert, kalibrierte, hat kalibriert",
+  "zh": "校准",
+  "ex": [
+   "Der Sensor muss einmal im Jahr neu kalibriert werden."
+  ],
+  "ex_zh": "这个传感器每年必须重新校准一次。",
+  "use": {
+   "col": [
+    [
+     "ein Messgerät kalibrieren",
+     "校准测量仪"
+    ],
+    [
+     "neu kalibrieren",
+     "重新校准"
+    ]
+   ],
+   "tip": "名词 die Kalibrierung；也可比喻「调整」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "rationalisieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "rationalisiert",
+  "forms": "rationalisiert, rationalisierte, hat rationalisiert",
+  "zh": "合理化；精简",
+  "ex": [
+   "Das Unternehmen hat die Produktion durch Roboter rationalisiert."
+  ],
+  "ex_zh": "公司通过机器人精简了生产。",
+  "use": {
+   "col": [
+    [
+     "die Produktion rationalisieren",
+     "精简生产"
+    ],
+    [
+     "Abläufe rationalisieren",
+     "精简流程"
+    ]
+   ],
+   "tip": "名词 die Rationalisierung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "drosseln",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gedrosselt",
+  "forms": "drosselt, drosselte, hat gedrosselt",
+  "zh": "降低；限制（速度、产量）",
+  "ex": [
+   "Nach dem Überschreiten des Datenvolumens wird die Geschwindigkeit gedrosselt."
+  ],
+  "ex_zh": "流量用超之后，网速会被限制。",
+  "use": {
+   "col": [
+    [
+     "die Leistung drosseln",
+     "降低功率"
+    ],
+    [
+     "die Produktion drosseln",
+     "压缩产量"
+    ]
+   ],
+   "tip": "名词 die Drossel / die Drosselung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "einspeisen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingespeist",
+  "forms": "speist ein, speiste ein, hat eingespeist",
+  "zh": "馈入；并入（电网）",
+  "ex": [
+   "Private Haushalte speisen ihren Solarstrom ins öffentliche Netz ein."
+  ],
+  "ex_zh": "私人家庭把他们的太阳能电并入公共电网。",
+  "gov": "einspeisen in + Akk.",
+  "use": {
+   "col": [
+    [
+     "Strom ins Netz einspeisen",
+     "把电并入电网"
+    ],
+    [
+     "Daten einspeisen",
+     "输入数据"
+    ]
+   ],
+   "tip": "可分动词；名词 die Einspeisung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "umrüsten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "umgerüstet",
+  "forms": "rüstet um, rüstete um, hat umgerüstet",
+  "zh": "改装；改造设备",
+  "ex": [
+   "Die Flotte der Stadtwerke wird schrittweise auf Elektroantrieb umgerüstet, um Emissionen zu senken."
+  ],
+  "ex_zh": "市政公用事业公司的车队正逐步改装为电力驱动，以减少排放。",
+  "gov": "umrüsten auf + Akk.",
+  "use": {
+   "col": [
+    [
+     "auf LED umrüsten",
+     "改装成 LED"
+    ],
+    [
+     "eine Anlage umrüsten",
+     "改造设备"
+    ]
+   ],
+   "tip": "可分动词；名词 die Umrüstung；nachrüsten是「加装」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "abwehren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgewehrt",
+  "forms": "wehrt ab, wehrte ab, hat abgewehrt",
+  "zh": "抵御；防御",
+  "ex": [
+   "Die Firewall hat täglich Tausende von Angriffen abgewehrt."
+  ],
+  "ex_zh": "防火墙每天抵御成千上万次攻击。",
+  "use": {
+   "col": [
+    [
+     "einen Angriff abwehren",
+     "抵御攻击"
+    ],
+    [
+     "Gefahren abwehren",
+     "防范危险"
+    ]
+   ],
+   "tip": "可分动词；名词 die Abwehr"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "eindringen",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "eingedrungen",
+  "forms": "dringt ein, drang ein, ist eingedrungen",
+  "zh": "侵入；闯入；渗入",
+  "ex": [
+   "Unbekannte sind in das Netzwerk des Unternehmens eingedrungen."
+  ],
+  "ex_zh": "不明身份者侵入了公司的网络。",
+  "gov": "eindringen in + Akk.",
+  "use": {
+   "col": [
+    [
+     "in ein System eindringen",
+     "侵入系统"
+    ],
+    [
+     "Wasser dringt ein",
+     "水渗进来"
+    ]
+   ],
+   "tip": "可分动词；助动词用 sein；名词 der Eindringling = 入侵者"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ausnutzen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ausgenutzt",
+  "forms": "nutzt aus, nutzte aus, hat ausgenutzt",
+  "zh": "利用；钻空子",
+  "ex": [
+   "Die Angreifer haben eine bereits bekannte Sicherheitslücke in der Software gezielt ausgenutzt."
+  ],
+  "ex_zh": "攻击者有针对性地利用了软件里一个已知的安全漏洞。",
+  "use": {
+   "senses": [
+    "（漏洞、机会）利用",
+    "（人）占便宜、剥削"
+   ],
+   "col": [
+    [
+     "eine Schwäche ausnutzen",
+     "利用弱点"
+    ],
+    [
+     "jemanden ausnutzen",
+     "利用某人"
+    ]
+   ],
+   "tip": "可分动词；也写 ausnützen；带贬义时指「剥削、占便宜」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "anonymisieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "anonymisiert",
+  "forms": "anonymisiert, anonymisierte, hat anonymisiert",
+  "zh": "匿名化",
+  "ex": [
+   "Die Namen der Teilnehmer wurden vor der Veröffentlichung anonymisiert."
+  ],
+  "ex_zh": "参与者的姓名在发布前已被匿名化。",
+  "use": {
+   "col": [
+    [
+     "Daten anonymisieren",
+     "匿名化数据"
+    ],
+    [
+     "anonymisiert speichern",
+     "匿名存储"
+    ]
+   ],
+   "tip": "名词 die Anonymisierung；形容词 anonym"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "kompilieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "kompiliert",
+  "forms": "kompiliert, kompilierte, hat kompiliert",
+  "zh": "编译",
+  "ex": [
+   "Der Code lässt sich nur mit der neuesten Version des Compilers kompilieren."
+  ],
+  "ex_zh": "这段代码只能用编译器的最新版本编译。",
+  "use": {
+   "col": [
+    [
+     "ein Programm kompilieren",
+     "编译程序"
+    ],
+    [
+     "fehlerfrei kompilieren",
+     "无错误地编译"
+    ]
+   ],
+   "tip": "名词 die Kompilierung；重音在 -lie-"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ausrollen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ausgerollt",
+  "forms": "rollt aus, rollte aus, hat ausgerollt",
+  "zh": "推广；逐步部署",
+  "ex": [
+   "Die neue Version wird zunächst nur in Deutschland ausgerollt."
+  ],
+  "ex_zh": "新版本先只在德国推广部署。",
+  "use": {
+   "senses": [
+    "（软件、产品）推广、部署",
+    "（面团）擀开"
+   ],
+   "col": [
+    [
+     "eine Software ausrollen",
+     "部署软件"
+    ],
+    [
+     "schrittweise ausrollen",
+     "逐步推广"
+    ]
+   ],
+   "tip": "可分动词；名词 das Ausrollen；本义「把面团擀开」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "spezifizieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "spezifiziert",
+  "forms": "spezifiziert, spezifizierte, hat spezifiziert",
+  "zh": "明确规定；详细说明",
+  "ex": [
+   "Im Vertrag wurden die technischen Anforderungen genau spezifiziert."
+  ],
+  "ex_zh": "合同里准确规定了技术要求。",
+  "use": {
+   "col": [
+    [
+     "Anforderungen spezifizieren",
+     "明确需求"
+    ],
+    [
+     "genau spezifiziert",
+     "详细规定的"
+    ]
+   ],
+   "tip": "名词 die Spezifikation；形容词 spezifisch（具体的）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "modellieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "modelliert",
+  "forms": "modelliert, modellierte, hat modelliert",
+  "zh": "建模；塑造",
+  "ex": [
+   "Die Wissenschaftler modellieren den Stromverbrauch mit statistischen Verfahren."
+  ],
+  "ex_zh": "科学家们用统计方法对用电量建模。",
+  "use": {
+   "col": [
+    [
+     "ein Szenario modellieren",
+     "给场景建模"
+    ],
+    [
+     "Daten modellieren",
+     "对数据建模"
+    ]
+   ],
+   "tip": "名词 die Modellierung；Modell"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "prognostizieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "prognostiziert",
+  "forms": "prognostiziert, prognostizierte, hat prognostiziert",
+  "zh": "预测（正式）",
+  "ex": [
+   "Die Experten prognostizieren einen deutlichen Anstieg der Strompreise."
+  ],
+  "ex_zh": "专家们预测电价会明显上涨。",
+  "use": {
+   "col": [
+    [
+     "einen Anstieg prognostizieren",
+     "预测上涨"
+    ],
+    [
+     "die Entwicklung prognostizieren",
+     "预测发展"
+    ]
+   ],
+   "tip": "名词 die Prognose；比 vorhersagen 更正式"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "klassifizieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "klassifiziert",
+  "forms": "klassifiziert, klassifizierte, hat klassifiziert",
+  "zh": "分类；归类",
+  "ex": [
+   "Das Modell klassifiziert eingehende E-Mails automatisch als Spam oder Nicht-Spam."
+  ],
+  "ex_zh": "这个模型把收到的邮件自动分为垃圾邮件和正常邮件。",
+  "use": {
+   "col": [
+    [
+     "Daten klassifizieren",
+     "对数据分类"
+    ],
+    [
+     "als vertraulich klassifizieren",
+     "归为机密"
+    ]
+   ],
+   "tip": "名词 die Klassifizierung / Klassifikation"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verifizieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verifiziert",
+  "forms": "verifiziert, verifizierte, hat verifiziert",
+  "zh": "验证；核实",
+  "ex": [
+   "Neue Nutzer müssen zuerst ihre E-Mail-Adresse verifizieren, bevor sie das Konto verwenden dürfen."
+  ],
+  "ex_zh": "新用户必须先验证邮箱地址，才能使用账户。",
+  "use": {
+   "col": [
+    [
+     "eine Angabe verifizieren",
+     "核实信息"
+    ],
+    [
+     "ein Konto verifizieren",
+     "验证账户"
+    ]
+   ],
+   "tip": "名词 die Verifizierung；书面、技术语体"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sensibilisieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "sensibilisiert",
+  "forms": "sensibilisiert, sensibilisierte, hat sensibilisiert",
+  "zh": "提高……的意识",
+  "ex": [
+   "Regelmäßige Schulungen sollen die Mitarbeiter für das Thema Phishing und Datenschutz sensibilisieren."
+  ],
+  "ex_zh": "定期培训要提高员工对钓鱼攻击和数据保护的意识。",
+  "gov": "sensibilisieren für + Akk.",
+  "use": {
+   "col": [
+    [
+     "für ein Thema sensibilisieren",
+     "使人关注某个议题"
+    ],
+    [
+     "sensibilisiert sein",
+     "有意识"
+    ]
+   ],
+   "tip": "名词 die Sensibilisierung；IT 安全培训常见词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "einspielen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingespielt",
+  "forms": "spielt ein, spielte ein, hat eingespielt",
+  "zh": "导入；部署（更新）；录制",
+  "ex": [
+   "Das Sicherheitsupdate muss bis morgen auf allen Rechnern eingespielt werden."
+  ],
+  "ex_zh": "安全更新必须在明天之前部署到所有电脑上。",
+  "use": {
+   "senses": [
+    "（更新、备份）导入",
+    "（乐队）录制",
+    "（团队）磨合"
+   ],
+   "col": [
+    [
+     "ein Update einspielen",
+     "部署更新"
+    ],
+    [
+     "eine Sicherung einspielen",
+     "恢复备份"
+    ]
+   ],
+   "tip": "可分动词；sich einspielen = 磨合"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "abbilden",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgebildet",
+  "forms": "bildet ab, bildete ab, hat abgebildet",
+  "zh": "映射；在系统中体现；画出",
+  "ex": [
+   "Die Software bildet alle Geschäftsprozesse des Unternehmens ab."
+  ],
+  "ex_zh": "这个软件涵盖公司所有的业务流程。",
+  "use": {
+   "senses": [
+    "（流程）在系统中实现",
+    "（图像）画出、显示"
+   ],
+   "col": [
+    [
+     "Prozesse abbilden",
+     "在系统中体现流程"
+    ],
+    [
+     "auf einer Skala abbilden",
+     "映射到某个范围"
+    ]
+   ],
+   "tip": "可分动词；名词 die Abbildung（图示）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "einpflegen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingepflegt",
+  "forms": "pflegt ein, pflegte ein, hat eingepflegt",
+  "zh": "录入；更新维护（数据）",
+  "ex": [
+   "Die neuen Preise müssen noch ins System eingepflegt werden."
+  ],
+  "ex_zh": "新价格还需要录入系统。",
+  "use": {
+   "col": [
+    [
+     "Daten einpflegen",
+     "录入数据"
+    ],
+    [
+     "Änderungen einpflegen",
+     "更新改动"
+    ]
+   ],
+   "tip": "可分动词；办公室、IT 口语常用；pflegen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "hinterlegen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "hinterlegt",
+  "forms": "hinterlegt, hinterlegte, hat hinterlegt",
+  "zh": "存放；预先保存",
+  "ex": [
+   "Die Zugangsdaten sind sicher in einem Passwortmanager hinterlegt und nicht im Code gespeichert."
+  ],
+  "ex_zh": "登录凭据安全地存放在密码管理器里，没有存在代码中。",
+  "use": {
+   "col": [
+    [
+     "Daten hinterlegen",
+     "预先保存数据"
+    ],
+    [
+     "einen Schlüssel hinterlegen",
+     "存放钥匙"
+    ]
+   ],
+   "tip": "不可分动词；也指在银行 / 机关寄存、押金"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "bereinigen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bereinigt",
+  "forms": "bereinigt, bereinigte, hat bereinigt",
+  "zh": "清理；整理；消除",
+  "ex": [
+   "Vor dem Training müssen die Daten von Duplikaten bereinigt werden."
+  ],
+  "ex_zh": "训练之前必须先清除数据里的重复项。",
+  "use": {
+   "col": [
+    [
+     "Daten bereinigen",
+     "清洗数据"
+    ],
+    [
+     "einen Konflikt bereinigen",
+     "化解冲突"
+    ]
+   ],
+   "tip": "不可分动词；名词 die Bereinigung；形容词 bereinigt"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "vorhalten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "vorgehalten",
+  "forms": "hält vor, hielt vor, hat vorgehalten",
+  "zh": "预备；保留（资源）",
+  "ex": [
+   "Das Rechenzentrum muss genügend Kapazität für Lastspitzen vorhalten."
+  ],
+  "ex_zh": "数据中心必须为负载高峰预留足够的容量。",
+  "use": {
+   "senses": [
+    "（资源）预备、保留",
+    "（过错）责备"
+   ],
+   "col": [
+    [
+     "Kapazitäten vorhalten",
+     "预留容量"
+    ],
+    [
+     "Ersatzteile vorhalten",
+     "储备备件"
+    ]
+   ],
+   "tip": "可分动词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "nachbessern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "nachgebessert",
+  "forms": "bessert nach, besserte nach, hat nachgebessert",
+  "zh": "改进；返工；补救",
+  "ex": [
+   "Der Hersteller musste die Software nach den Beschwerden nachbessern."
+  ],
+  "ex_zh": "收到投诉后，厂商不得不改进软件。",
+  "use": {
+   "col": [
+    [
+     "das Gesetz nachbessern",
+     "修订法规"
+    ],
+    [
+     "kräftig nachbessern",
+     "大幅改进"
+    ]
+   ],
+   "tip": "可分动词；名词 die Nachbesserung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verwerfen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verworfen",
+  "forms": "verwirft, verwarf, hat verworfen",
+  "zh": "舍弃；否决",
+  "ex": [
+   "Das Team hat den ersten Entwurf verworfen und neu angefangen."
+  ],
+  "ex_zh": "团队放弃了第一份草案，重新开始。",
+  "use": {
+   "col": [
+    [
+     "einen Plan verwerfen",
+     "放弃计划"
+    ],
+    [
+     "eine Idee verwerfen",
+     "否决想法"
+    ]
+   ],
+   "tip": "不可分动词；不规则变化"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "einlesen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingelesen",
+  "forms": "liest ein, las ein, hat eingelesen",
+  "zh": "读入；导入",
+  "ex": [
+   "Das Programm liest die Daten aus der Datei ein und wertet sie aus."
+  ],
+  "ex_zh": "程序从文件里读入数据并进行分析。",
+  "use": {
+   "senses": [
+    "（数据）读入",
+    "（反身）通过阅读熟悉某个领域"
+   ],
+   "col": [
+    [
+     "eine Datei einlesen",
+     "读入文件"
+    ],
+    [
+     "sich in ein Thema einlesen",
+     "深入阅读熟悉某个主题"
+    ]
+   ],
+   "tip": "可分动词；sich einlesen = 通过阅读熟悉"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "autorisieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "autorisiert",
+  "forms": "autorisiert, autorisierte, hat autorisiert",
+  "zh": "授权",
+  "ex": [
+   "Nur dafür autorisierte Personen dürfen den Serverraum betreten und Geräte dort anfassen."
+  ],
+  "ex_zh": "只有获得授权的人才能进入机房并接触那里的设备。",
+  "use": {
+   "col": [
+    [
+     "jemanden autorisieren",
+     "授权某人"
+    ],
+    [
+     "eine Anwendung autorisieren",
+     "授权应用"
+    ]
+   ],
+   "tip": "名词 die Autorisierung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "zusammenführen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "zusammengeführt",
+  "forms": "führt zusammen, führte zusammen, hat zusammengeführt",
+  "zh": "合并；整合",
+  "ex": [
+   "Die beiden Datenbanken sollen bis Jahresende zusammengeführt werden."
+  ],
+  "ex_zh": "这两个数据库要在年底前合并。",
+  "use": {
+   "col": [
+    [
+     "Daten zusammenführen",
+     "整合数据"
+    ],
+    [
+     "Teams zusammenführen",
+     "合并团队"
+    ]
+   ],
+   "tip": "可分动词；名词 die Zusammenführung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "abdecken",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgedeckt",
+  "forms": "deckt ab, deckte ab, hat abgedeckt",
+  "zh": "涵盖；覆盖",
+  "ex": [
+   "Die Tests decken nur einen Teil des Codes ab."
+  ],
+  "ex_zh": "这些测试只覆盖了一部分代码。",
+  "use": {
+   "senses": [
+    "（范围、需求）涵盖、满足",
+    "（物体）盖住"
+   ],
+   "col": [
+    [
+     "einen Bereich abdecken",
+     "涵盖某个领域"
+    ],
+    [
+     "den Bedarf abdecken",
+     "满足需求"
+    ]
+   ],
+   "tip": "可分动词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "zurückgreifen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "zurückgegriffen",
+  "forms": "greift zurück, griff zurück, hat zurückgegriffen",
+  "zh": "借助；动用",
+  "ex": [
+   "Bei Problemen können wir auf die Dokumentation zurückgreifen."
+  ],
+  "ex_zh": "遇到问题时，我们可以参考文档。",
+  "gov": "zurückgreifen auf + Akk.",
+  "use": {
+   "col": [
+    [
+     "auf Erfahrungen zurückgreifen",
+     "借鉴经验"
+    ],
+    [
+     "auf Ressourcen zurückgreifen",
+     "动用资源"
+    ]
+   ],
+   "tip": "可分动词；书面语体"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ablösen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgelöst",
+  "forms": "löst ab, löste ab, hat abgelöst",
+  "zh": "取代；替换；接班",
+  "ex": [
+   "Die neue Plattform soll das alte System bis Ende des Jahres ablösen."
+  ],
+  "ex_zh": "新平台要在年底前取代旧系统。",
+  "use": {
+   "senses": [
+    "取代、接替",
+    "（轮班）交接",
+    "（贴纸）揭下"
+   ],
+   "col": [
+    [
+     "ein System ablösen",
+     "取代系统"
+    ],
+    [
+     "sich ablösen",
+     "轮班"
+    ]
+   ],
+   "tip": "可分动词；名词 die Ablösung；也指「揭下来」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ansteuern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "angesteuert",
+  "forms": "steuert an, steuerte an, hat angesteuert",
+  "zh": "驱动；控制；开往",
+  "ex": [
+   "Über eine Schnittstelle lässt sich das Gerät per Software ansteuern."
+  ],
+  "ex_zh": "可以通过接口用软件控制这台设备。",
+  "use": {
+   "senses": [
+    "（设备）驱动、控制",
+    "（目的地）驶向"
+   ],
+   "col": [
+    [
+     "ein Gerät ansteuern",
+     "控制设备"
+    ],
+    [
+     "ein Ziel ansteuern",
+     "驶向目的地"
+    ]
+   ],
+   "tip": "可分动词；名词 die Ansteuerung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "skalierbar",
+  "pos": "adj",
+  "zh": "可扩展的",
+  "ex": [
+   "Wir brauchen eine skalierbare Lösung, die mit dem Wachstum der Nutzerzahl mithält."
+  ],
+  "ex_zh": "我们需要一个能随用户数增长而扩展的方案。",
+  "use": {
+   "col": [
+    [
+     "eine skalierbare Architektur",
+     "可扩展架构"
+    ],
+    [
+     "horizontal skalierbar",
+     "可横向扩展"
+    ]
+   ],
+   "tip": "名词 die Skalierbarkeit；动词 skalieren"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "redundant",
+  "pos": "adj",
+  "zh": "冗余的；多余的",
+  "ex": [
+   "Die Daten werden redundant auf drei Servern gespeichert."
+  ],
+  "ex_zh": "数据被冗余存储在三台服务器上。",
+  "use": {
+   "senses": [
+    "（系统）冗余的",
+    "多余的、重复的"
+   ],
+   "col": [
+    [
+     "redundant speichern",
+     "冗余存储"
+    ],
+    [
+     "redundante Informationen",
+     "多余的信息"
+    ]
+   ],
+   "tip": "IT 里是好事（备份），一般语境里指「重复多余」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "fehlertolerant",
+  "pos": "adj",
+  "zh": "容错的",
+  "ex": [
+   "Ein fehlertolerantes System läuft auch bei Ausfall einzelner Komponenten weiter."
+  ],
+  "ex_zh": "容错系统即使个别组件故障也能继续运行。",
+  "use": {
+   "col": [
+    [
+     "ein fehlertolerantes System",
+     "容错系统"
+    ],
+    [
+     "fehlertolerant ausgelegt",
+     "按容错设计"
+    ]
+   ],
+   "tip": "名词 die Fehlertoleranz"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "datenschutzkonform",
+  "pos": "adj",
+  "zh": "符合数据保护规定的",
+  "ex": [
+   "Der Anbieter garantiert eine datenschutzkonforme Verarbeitung aller Daten."
+  ],
+  "ex_zh": "服务商保证所有数据的处理符合数据保护规定。",
+  "use": {
+   "col": [
+    [
+     "datenschutzkonform arbeiten",
+     "合规处理数据"
+    ],
+    [
+     "datenschutzkonforme Lösung",
+     "符合隐私规定的方案"
+    ]
+   ],
+   "tip": "konform = 符合；名词 die Konformität"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "personenbezogen",
+  "pos": "adj",
+  "zh": "与个人相关的",
+  "ex": [
+   "Personenbezogene Daten dürfen nur mit Einwilligung verarbeitet werden."
+  ],
+  "ex_zh": "个人数据只有在同意之后才能处理。",
+  "use": {
+   "col": [
+    [
+     "personenbezogene Daten",
+     "个人数据"
+    ],
+    [
+     "personenbezogen speichern",
+     "按个人信息存储"
+    ]
+   ],
+   "tip": "DSGVO 的核心概念；Person 加 Bezug"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "störungsanfällig",
+  "pos": "adj",
+  "zh": "易出故障的",
+  "ex": [
+   "Die alte Anlage ist sehr störungsanfällig und fällt oft aus."
+  ],
+  "ex_zh": "这套旧设备很容易出故障，经常停机。",
+  "use": {
+   "col": [
+    [
+     "ein störungsanfälliges System",
+     "容易出故障的系统"
+    ],
+    [
+     "störungsanfällig sein",
+     "容易出毛病"
+    ]
+   ],
+   "tip": "Störung加 anfällig；同义 fehleranfällig"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ressourcenschonend",
+  "pos": "adj",
+  "zh": "节约资源的",
+  "ex": [
+   "Die neue Software arbeitet deutlich ressourcenschonender als die alte."
+  ],
+  "ex_zh": "新软件比旧软件更节约资源。",
+  "use": {
+   "col": [
+    [
+     "ressourcenschonend produzieren",
+     "节约资源地生产"
+    ],
+    [
+     "ressourcenschonend programmieren",
+     "写出省资源的代码"
+    ]
+   ],
+   "tip": "Ressourcen 加 schonen；schonen = 爱惜"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "praxistauglich",
+  "pos": "adj",
+  "zh": "适合实际应用的",
+  "ex": [
+   "Der Prototyp ist noch nicht praxistauglich und muss weiter getestet werden."
+  ],
+  "ex_zh": "原型还不适合实际使用，需要继续测试。",
+  "use": {
+   "col": [
+    [
+     "praxistauglich sein",
+     "适合实际应用"
+    ],
+    [
+     "eine praxistaugliche Lösung",
+     "可落地的方案"
+    ]
+   ],
+   "tip": "Praxis加 tauglich；反义 praxisfern"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "marktreif",
+  "pos": "adj",
+  "zh": "可上市的",
+  "ex": [
+   "Das Produkt soll in einem Jahr marktreif sein."
+  ],
+  "ex_zh": "这款产品应当在一年后达到可上市的水平。",
+  "use": {
+   "col": [
+    [
+     "marktreif sein",
+     "可以上市"
+    ],
+    [
+     "ein marktreifes Produkt",
+     "可上市产品"
+    ]
+   ],
+   "tip": "Markt加 reif；serienreif = 可批量生产"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "serienreif",
+  "pos": "adj",
+  "zh": "可批量生产的",
+  "ex": [
+   "Nach zwei Jahren Entwicklung ist der Motor endlich serienreif."
+  ],
+  "ex_zh": "经过两年研发，这台发动机终于可以批量生产了。",
+  "use": {
+   "col": [
+    [
+     "serienreif sein",
+     "可批量生产"
+    ],
+    [
+     "serienreif entwickeln",
+     "开发到可量产"
+    ]
+   ],
+   "tip": "Serie加 reif；marktreif 更偏商业"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ausgereift",
+  "pos": "adj",
+  "zh": "成熟的；完善的",
+  "ex": [
+   "Die Technik ist inzwischen so ausgereift, dass sie im Alltag funktioniert."
+  ],
+  "ex_zh": "这项技术现在已经成熟到能在日常生活里使用。",
+  "use": {
+   "col": [
+    [
+     "eine ausgereifte Technik",
+     "成熟的技术"
+    ],
+    [
+     "noch nicht ausgereift",
+     "还不成熟"
+    ]
+   ],
+   "tip": "来自 ausreifen；反义 unausgereift"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "rentabel",
+  "pos": "adj",
+  "zh": "有利可图的；划算的",
+  "ex": [
+   "Der Betrieb der Anlage ist nur bei hohen Strompreisen rentabel."
+  ],
+  "ex_zh": "只有电价高时，这套设备的运营才有利可图。",
+  "use": {
+   "col": [
+    [
+     "rentabel arbeiten",
+     "盈利运营"
+    ],
+    [
+     "nicht mehr rentabel sein",
+     "不再划算"
+    ]
+   ],
+   "tip": "名词 die Rentabilität；Rente同源"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "flächendeckend",
+  "pos": "adj",
+  "zh": "全面覆盖的",
+  "ex": [
+   "Bis 2030 soll es flächendeckend schnelles Internet geben."
+  ],
+  "ex_zh": "到 2030 年要实现高速网络的全面覆盖。",
+  "use": {
+   "col": [
+    [
+     "flächendeckend ausbauen",
+     "全面铺开建设"
+    ],
+    [
+     "eine flächendeckende Versorgung",
+     "全面覆盖的供应"
+    ]
+   ],
+   "tip": "Fläche加 decken；新闻中常用"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "wegweisend",
+  "pos": "adj",
+  "zh": "具有指导意义的；开创性的",
+  "ex": [
+   "Die Studie liefert wegweisende Erkenntnisse für die Entwicklung von Batterien."
+  ],
+  "ex_zh": "这项研究为电池开发提供了具有开创性的认识。",
+  "use": {
+   "col": [
+    [
+     "eine wegweisende Entscheidung",
+     "开创性的决定"
+    ],
+    [
+     "wegweisend für",
+     "对……具有指引意义"
+    ]
+   ],
+   "tip": "来自 den Weg weisen；书面语体"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "bahnbrechend",
+  "pos": "adj",
+  "zh": "突破性的",
+  "ex": [
+   "Die Erfindung war bahnbrechend und veränderte die gesamte Industrie."
+  ],
+  "ex_zh": "这项发明具有突破性，改变了整个行业。",
+  "use": {
+   "col": [
+    [
+     "eine bahnbrechende Entdeckung",
+     "突破性发现"
+    ],
+    [
+     "bahnbrechend sein",
+     "具有突破性"
+    ]
+   ],
+   "tip": "书面、媒体常用；字面「开辟道路」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "versiert",
+  "pos": "adj",
+  "zh": "精通的；熟练的",
+  "ex": [
+   "Wir suchen einen im Umgang mit Datenbanken versierten Entwickler."
+  ],
+  "ex_zh": "我们在找一位精通数据库的开发者。",
+  "gov": "versiert in + Dat.",
+  "use": {
+   "col": [
+    [
+     "in etwas versiert sein",
+     "精通某事"
+    ],
+    [
+     "ein versierter Fachmann",
+     "熟练的专业人士"
+    ]
+   ],
+   "tip": "招聘用语；重音在 -siert"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "nachvollziehbar",
+  "pos": "adj",
+  "zh": "可理解的；可追溯的",
+  "ex": [
+   "Die Entscheidungen des Algorithmus müssen für die Betroffenen nachvollziehbar sein."
+  ],
+  "ex_zh": "算法的决策必须让当事人能够理解。",
+  "use": {
+   "col": [
+    [
+     "nachvollziehbar begründen",
+     "给出可理解的理由"
+    ],
+    [
+     "gut nachvollziehbar",
+     "很容易理解"
+    ]
+   ],
+   "tip": "动词 nachvollziehen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "lückenhaft",
+  "pos": "adj",
+  "zh": "不完整的；有缺漏的",
+  "ex": [
+   "Die Dokumentation des alten Systems ist leider sehr lückenhaft und teilweise veraltet."
+  ],
+  "ex_zh": "旧系统的文档很遗憾缺漏很多，部分已经过时。",
+  "use": {
+   "col": [
+    [
+     "lückenhafte Daten",
+     "不完整的数据"
+    ],
+    [
+     "lückenhaft dokumentiert",
+     "记录不完整"
+    ]
+   ],
+   "tip": "Lücke 加 -haft；反义 lückenlos"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "lückenlos",
+  "pos": "adj",
+  "zh": "完整无缺的",
+  "ex": [
+   "Die Kette von Aufzeichnungen muss lückenlos dokumentiert sein."
+  ],
+  "ex_zh": "整条记录链必须有完整无缺的文档。",
+  "use": {
+   "col": [
+    [
+     "lückenlos aufklären",
+     "彻底查清"
+    ],
+    [
+     "lückenlose Überwachung",
+     "无死角监控"
+    ]
+   ],
+   "tip": "反义 lückenhaft"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ausfallsicher",
+  "pos": "adj",
+  "zh": "抗故障的；高可用的",
+  "ex": [
+   "Für das Krankenhaus braucht man eine besonders ausfallsichere Stromversorgung."
+  ],
+  "ex_zh": "医院需要一套特别稳定、不易中断的供电。",
+  "use": {
+   "col": [
+    [
+     "ausfallsicher gebaut",
+     "按抗故障设计"
+    ],
+    [
+     "ein ausfallsicherer Server",
+     "高可用服务器"
+    ]
+   ],
+   "tip": "名词 die Ausfallsicherheit"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "rechenintensiv",
+  "pos": "adj",
+  "zh": "计算密集的",
+  "ex": [
+   "Das Training großer Modelle ist extrem rechenintensiv und teuer."
+  ],
+  "ex_zh": "训练大模型需要极其密集的计算，成本很高。",
+  "use": {
+   "col": [
+    [
+     "rechenintensive Aufgaben",
+     "计算密集型任务"
+    ],
+    [
+     "rechenintensiv sein",
+     "计算量大"
+    ]
+   ],
+   "tip": "Rechenleistung；Rechner"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "energieintensiv",
+  "pos": "adj",
+  "zh": "耗能高的",
+  "ex": [
+   "Die Herstellung von Aluminium ist ein sehr energieintensiver Prozess."
+  ],
+  "ex_zh": "生产铝是一个耗能很高的过程。",
+  "use": {
+   "col": [
+    [
+     "energieintensive Branchen",
+     "耗能高的行业"
+    ],
+    [
+     "energieintensiv produzieren",
+     "高耗能地生产"
+    ]
+   ],
+   "tip": "Energie加 -intensiv；反义 energiesparend"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "emissionsfrei",
+  "pos": "adj",
+  "zh": "零排放的",
+  "ex": [
+   "Die Stadt will den Nahverkehr bis 2035 emissionsfrei gestalten."
+  ],
+  "ex_zh": "这座城市想在 2035 年前实现公共交通零排放。",
+  "use": {
+   "col": [
+    [
+     "emissionsfrei fahren",
+     "零排放行驶"
+    ],
+    [
+     "emissionsfreie Fahrzeuge",
+     "零排放车辆"
+    ]
+   ],
+   "tip": "Emission加 -frei"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "regenerativ",
+  "pos": "adj",
+  "zh": "可再生的",
+  "ex": [
+   "Regenerative Energien decken inzwischen mehr als die Hälfte des Strombedarfs."
+  ],
+  "ex_zh": "可再生能源现在已满足一半以上的电力需求。",
+  "use": {
+   "col": [
+    [
+     "regenerative Energien",
+     "再生能源"
+    ],
+    [
+     "regenerativ erzeugt",
+     "可再生地生产"
+    ]
+   ],
+   "tip": "与 erneuerbar同义，更偏书面、技术"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "fossil",
+  "pos": "adj",
+  "zh": "化石的",
+  "ex": [
+   "Der Ausstieg aus fossilen Brennstoffen ist das zentrale Ziel der Energiewende."
+  ],
+  "ex_zh": "退出化石燃料是能源转型的核心目标。",
+  "use": {
+   "col": [
+    [
+     "fossile Brennstoffe",
+     "化石燃料"
+    ],
+    [
+     "fossile Energieträger",
+     "化石能源"
+    ]
+   ],
+   "tip": "重音在 -sil"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "quelloffen",
+  "pos": "adj",
+  "zh": "开源的",
+  "ex": [
+   "Die Firma setzt für ihre Server ausschließlich auf quelloffene Software und eigene Erweiterungen."
+  ],
+  "ex_zh": "公司的服务器只使用开源软件和自己写的扩展。",
+  "use": {
+   "col": [
+    [
+     "quelloffene Software",
+     "开源软件"
+    ],
+    [
+     "quelloffen entwickeln",
+     "以开源方式开发"
+    ]
+   ],
+   "tip": "Quelle 加 offen；Quellcode公开"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "proprietär",
+  "pos": "adj",
+  "zh": "专有的；私有的",
+  "ex": [
+   "Das proprietäre Format lässt sich nur mit einer Spezialsoftware öffnen."
+  ],
+  "ex_zh": "这种专有格式只能用专门软件打开。",
+  "use": {
+   "col": [
+    [
+     "proprietäre Software",
+     "专有软件"
+    ],
+    [
+     "ein proprietäres Format",
+     "专有格式"
+    ]
+   ],
+   "tip": "反义 quelloffen；重音在 -tär"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "abhörsicher",
+  "pos": "adj",
+  "zh": "防窃听的",
+  "ex": [
+   "Für vertrauliche Gespräche benötigt die Behörde abhörsichere Leitungen."
+  ],
+  "ex_zh": "机关的机密通话需要防窃听线路。",
+  "use": {
+   "col": [
+    [
+     "abhörsicher telefonieren",
+     "用防窃听方式通话"
+    ],
+    [
+     "ein abhörsicherer Raum",
+     "防窃听房间"
+    ]
+   ],
+   "tip": "abhören + sicher；类似词 manipulationssicher"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "manipulationssicher",
+  "pos": "adj",
+  "zh": "防篡改的",
+  "ex": [
+   "Die Stimmen werden in einem manipulationssicheren System gespeichert."
+  ],
+  "ex_zh": "选票被保存在一个防篡改的系统里。",
+  "use": {
+   "col": [
+    [
+     "manipulationssicher gespeichert",
+     "防篡改存储"
+    ],
+    [
+     "manipulationssichere Siegel",
+     "防拆封标签"
+    ]
+   ],
+   "tip": "Manipulation 加 sicher；反义 manipulierbar"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "unbefugt",
+  "pos": "adj",
+  "zh": "未经授权的",
+  "ex": [
+   "Unbefugte Personen dürfen den Serverraum nicht betreten, auch nicht in Begleitung."
+  ],
+  "ex_zh": "无关人员不得进入机房，即使有人陪同也不行。",
+  "use": {
+   "col": [
+    [
+     "unbefugter Zugriff",
+     "未经授权的访问"
+    ],
+    [
+     "Zutritt für Unbefugte verboten",
+     "闲人免入"
+    ]
+   ],
+   "tip": "名词化的 der / die Unbefugte；反义 befugt；告示牌常见"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "durchgängig",
+  "pos": "adj",
+  "zh": "贯穿始终的；全程的",
+  "ex": [
+   "Die Daten werden durchgängig verschlüsselt, vom Sender bis zum Empfänger."
+  ],
+  "ex_zh": "数据从发送方到接收方全程加密。",
+  "use": {
+   "col": [
+    [
+     "durchgängig digital",
+     "全程数字化"
+    ],
+    [
+     "ein durchgängiger Prozess",
+     "贯通的流程"
+    ]
+   ],
+   "tip": "Durchgang 加 -ig；强调没有断层；与 durchgehend 近义"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "zukunftsfähig",
+  "pos": "adj",
+  "zh": "面向未来的；有前景的",
+  "ex": [
+   "Die Stadt investiert in eine zukunftsfähige digitale Infrastruktur."
+  ],
+  "ex_zh": "这座城市投资面向未来的数字基础设施。",
+  "use": {
+   "col": [
+    [
+     "zukunftsfähig sein",
+     "有未来前景"
+    ],
+    [
+     "ein zukunftsfähiges Konzept",
+     "面向未来的方案"
+    ]
+   ],
+   "tip": "Zukunft加 fähig；名词 die Zukunftsfähigkeit"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "dezentral",
+  "pos": "adj",
+  "zh": "去中心化的；分散的",
+  "ex": [
+   "Die Energie wird zunehmend dezentral in vielen kleinen Anlagen erzeugt."
+  ],
+  "ex_zh": "能源越来越多地由许多小型设备分散生产。",
+  "use": {
+   "col": [
+    [
+     "dezentral organisiert",
+     "分散式组织"
+    ],
+    [
+     "dezentrale Energieversorgung",
+     "分布式能源供应"
+    ]
+   ],
+   "tip": "反义 zentral；名词 die Dezentralisierung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "fortschrittlich",
+  "pos": "adj",
+  "zh": "先进的；进步的",
+  "ex": [
+   "Das Unternehmen gilt als besonders fortschrittlich bei der Nutzung von KI."
+  ],
+  "ex_zh": "这家公司在使用人工智能方面被视为特别先进。",
+  "use": {
+   "col": [
+    [
+     "eine fortschrittliche Technik",
+     "先进的技术"
+    ],
+    [
+     "fortschrittlich denken",
+     "思想前卫"
+    ]
+   ],
+   "tip": "Fortschritt；反义 rückständig"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "der Stand der Technik",
+  "pos": "phr",
+  "zh": "技术水平；现有技术",
+  "ex": [
+   "Die Verschlüsselung entspricht dem aktuellen Stand der Technik."
+  ],
+  "ex_zh": "这套加密符合当前的技术水平。",
+  "use": {
+   "col": [
+    [
+     "nach dem Stand der Technik",
+     "按现有技术水平"
+    ],
+    [
+     "dem Stand der Technik entsprechen",
+     "符合现有技术水平"
+    ]
+   ],
+   "tip": "法律和标准文件里常用，如数据保护要求「技术上的最新状态」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "zum Einsatz kommen",
+  "pos": "phr",
+  "zh": "被使用；投入使用",
+  "ex": [
+   "Bei der Analyse kommen verschiedene Verfahren der Mustererkennung zum Einsatz."
+  ],
+  "ex_zh": "分析时使用了几种不同的模式识别方法。",
+  "use": {
+   "col": [
+    [
+     "zum Einsatz kommen",
+     "被投入使用"
+    ],
+    [
+     "im Einsatz sein",
+     "在使用中"
+    ]
+   ],
+   "tip": "书面语体；主语是被使用的东西"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "vom Netz gehen",
+  "pos": "phr",
+  "zh": "停止供电；下线；断网",
+  "ex": [
+   "Das alte Kraftwerk soll im Frühjahr endgültig vom Netz gehen."
+  ],
+  "ex_zh": "这座旧电厂要在春天彻底停止并网。",
+  "use": {
+   "col": [
+    [
+     "ans Netz gehen",
+     "并网；上线"
+    ],
+    [
+     "vom Netz nehmen",
+     "使下线"
+    ]
+   ],
+   "tip": "Netz；反义 ans Netz gehen；也用于服务下线"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "den Betrieb aufnehmen",
+  "pos": "phr",
+  "zh": "开始运营；开始运行",
+  "ex": [
+   "Die neue Fabrik soll im Herbst den Betrieb aufnehmen."
+  ],
+  "ex_zh": "新工厂应在秋天开始运营。",
+  "use": {
+   "col": [
+    [
+     "den Betrieb einstellen",
+     "停止运营"
+    ],
+    [
+     "den Betrieb aufnehmen",
+     "开始运营"
+    ]
+   ],
+   "tip": "书面语体；Betrieb；反义 den Betrieb einstellen"
+  }
+ }
+]

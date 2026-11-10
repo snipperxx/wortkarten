@@ -1,0 +1,9947 @@
+[
+ {
+  "lv": "B2",
+  "lemma": "Schlagzeile",
+  "art": "die",
+  "pl_full": "die Schlagzeilen",
+  "pos": "n",
+  "zh": "头条；大标题",
+  "ex": [
+   "Der Skandal um den Politiker machte tagelang Schlagzeilen in allen Zeitungen."
+  ],
+  "ex_zh": "这位政客的丑闻连续几天登上所有报纸的头条。",
+  "use": {
+   "col": [
+    [
+     "Schlagzeilen machen",
+     "成为头条新闻"
+    ],
+    [
+     "in die Schlagzeilen geraten",
+     "上了头条（多为负面）"
+    ]
+   ],
+   "tip": "常用复数；多指负面新闻"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kommentar",
+  "art": "der",
+  "pl_full": "die Kommentare",
+  "pos": "n",
+  "zh": "评论；留言",
+  "ex": [
+   "Unter dem Video stehen schon über hundert Kommentare von Nutzern."
+  ],
+  "ex_zh": "视频下面已经有一百多条用户评论了。",
+  "gov": "Kommentar zu + Dat.",
+  "use": {
+   "col": [
+    [
+     "einen Kommentar schreiben",
+     "写评论"
+    ],
+    [
+     "Kein Kommentar!",
+     "无可奉告"
+    ]
+   ],
+   "tip": "Kein Kommentar 是拒绝表态的固定说法"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Redaktion",
+  "art": "die",
+  "pl_full": "die Redaktionen",
+  "pos": "n",
+  "zh": "编辑部；编辑组",
+  "ex": [
+   "Die Redaktion hat meinen Leserbrief leider nicht veröffentlicht."
+  ],
+  "ex_zh": "编辑部很遗憾没有刊登我的读者来信。",
+  "use": {
+   "col": [
+    [
+     "in der Redaktion arbeiten",
+     "在编辑部工作"
+    ],
+    [
+     "die Redaktion der Zeitung",
+     "报社编辑部"
+    ]
+   ],
+   "tip": "Redakteur 指编辑本人"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Redakteur",
+  "art": "der",
+  "pl_full": "die Redakteure",
+  "pos": "n",
+  "zh": "编辑",
+  "ex": [
+   "Der Redakteur hat den Artikel vor dem Druck noch einmal überarbeitet."
+  ],
+  "ex_zh": "编辑在付印前又把这篇文章修改了一遍。",
+  "use": {
+   "col": [
+    [
+     "ein erfahrener Redakteur",
+     "经验丰富的编辑"
+    ],
+    [
+     "Redakteur bei einer Zeitung",
+     "报社编辑"
+    ]
+   ],
+   "tip": "女性：die Redakteurin"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Auflage",
+  "art": "die",
+  "pl_full": "die Auflagen",
+  "pos": "n",
+  "zh": "发行量；版次；附带条件",
+  "ex": [
+   "Das Buch ist so erfolgreich, dass schon die dritte Auflage gedruckt wird."
+  ],
+  "ex_zh": "这本书非常成功，第三版已经在印了。",
+  "use": {
+   "senses": [
+    "（报刊、书的）发行量、印数",
+    "（书的）版次",
+    "（官方给出的）附带条件"
+   ],
+   "col": [
+    [
+     "eine hohe Auflage",
+     "高发行量"
+    ],
+    [
+     "die zweite Auflage",
+     "第二版"
+    ]
+   ],
+   "tip": "官方的 Auflage 也可指附带条件"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Leserbrief",
+  "art": "der",
+  "pl_full": "die Leserbriefe",
+  "pos": "n",
+  "zh": "读者来信",
+  "ex": [
+   "Ich habe der Redaktion einen Leserbrief zu dem Artikel geschickt."
+  ],
+  "ex_zh": "我就这篇文章给编辑部寄了一封读者来信。",
+  "use": {
+   "col": [
+    [
+     "einen Leserbrief schreiben",
+     "写读者来信"
+    ],
+    [
+     "einen Leserbrief veröffentlichen",
+     "刊登读者来信"
+    ]
+   ],
+   "tip": "Leser + Brief 复合词；读者投稿的一种"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Rubrik",
+  "art": "die",
+  "pl_full": "die Rubriken",
+  "pos": "n",
+  "zh": "栏目；类别",
+  "ex": [
+   "Die Meldung steht auf der Webseite in der Rubrik Vermischtes."
+  ],
+  "ex_zh": "这条消息在网站的「杂闻」栏目里。",
+  "use": {
+   "col": [
+    [
+     "in der Rubrik Sport",
+     "在体育栏目"
+    ],
+    [
+     "eine feste Rubrik",
+     "固定栏目"
+    ]
+   ],
+   "tip": "常指报纸、网站的栏目"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Berichterstattung",
+  "art": "die",
+  "pos": "n",
+  "zh": "报道",
+  "ex": [
+   "Die Berichterstattung über den Prozess war ungewöhnlich ausführlich."
+  ],
+  "ex_zh": "媒体对这场审判的报道异常详细。",
+  "gov": "die Berichterstattung über + Akk.",
+  "use": {
+   "col": [
+    [
+     "einseitige Berichterstattung",
+     "片面的报道"
+    ],
+    [
+     "die Berichterstattung über + Akk.",
+     "关于……的报道"
+    ]
+   ],
+   "tip": "通常不用复数；动词 berichten"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Nachrichtenagentur",
+  "art": "die",
+  "pl_full": "die Nachrichtenagenturen",
+  "pos": "n",
+  "zh": "通讯社",
+  "ex": [
+   "Die Nachrichtenagentur meldet, dass die Verhandlungen gescheitert sind."
+  ],
+  "ex_zh": "通讯社报道说谈判破裂了。",
+  "use": {
+   "col": [
+    [
+     "eine Nachrichtenagentur meldet",
+     "通讯社报道"
+    ],
+    [
+     "Meldung einer Nachrichtenagentur",
+     "通讯社电讯"
+    ]
+   ],
+   "tip": "缩写 dpa 是德国最大的通讯社"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Quelle",
+  "art": "die",
+  "pl_full": "die Quellen",
+  "pos": "n",
+  "zh": "来源；出处；泉水",
+  "ex": [
+   "Bei Zitaten in der Hausarbeit muss man immer die Quelle angeben."
+  ],
+  "ex_zh": "在课程论文里引用时必须注明出处。",
+  "use": {
+   "senses": [
+    "（信息、资料的）来源",
+    "泉；源头"
+   ],
+   "col": [
+    [
+     "die Quelle angeben",
+     "注明出处"
+    ],
+    [
+     "eine zuverlässige Quelle",
+     "可靠的消息来源"
+    ]
+   ],
+   "tip": "学术写作里非常常用"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gerücht",
+  "art": "das",
+  "pl_full": "die Gerüchte",
+  "pos": "n",
+  "zh": "传言；谣言",
+  "ex": [
+   "Ein Gerücht über Entlassungen verbreitete sich schnell in der ganzen Firma."
+  ],
+  "ex_zh": "关于裁员的传言很快在整个公司传开了。",
+  "gov": "das Gerücht über + Akk.",
+  "use": {
+   "col": [
+    [
+     "ein Gerücht verbreiten",
+     "散布谣言"
+    ],
+    [
+     "Gerüchten zufolge",
+     "据传"
+    ]
+   ],
+   "tip": "Gerücht 未必是假的，只是未证实"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Pressekonferenz",
+  "art": "die",
+  "pl_full": "die Pressekonferenzen",
+  "pos": "n",
+  "zh": "新闻发布会",
+  "ex": [
+   "Der Minister erklärte seinen Rücktritt auf einer Pressekonferenz."
+  ],
+  "ex_zh": "部长在新闻发布会上宣布辞职。",
+  "use": {
+   "col": [
+    [
+     "eine Pressekonferenz geben",
+     "召开新闻发布会"
+    ],
+    [
+     "an einer Pressekonferenz teilnehmen",
+     "参加新闻发布会"
+    ]
+   ],
+   "tip": "动词用 geben 或 abhalten"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Pressemitteilung",
+  "art": "die",
+  "pl_full": "die Pressemitteilungen",
+  "pos": "n",
+  "zh": "新闻稿",
+  "ex": [
+   "Das Unternehmen hat gestern eine Pressemitteilung zur Übernahme veröffentlicht."
+  ],
+  "ex_zh": "公司昨天发布了一份关于收购的新闻稿。",
+  "use": {
+   "col": [
+    [
+     "eine Pressemitteilung herausgeben",
+     "发布新闻稿"
+    ],
+    [
+     "laut Pressemitteilung",
+     "根据新闻稿"
+    ]
+   ],
+   "tip": "由机构对外发布，不是记者写的"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Moderator",
+  "art": "der",
+  "pl_full": "die Moderatoren",
+  "pos": "n",
+  "zh": "主持人",
+  "ex": [
+   "Der Moderator stellte dem Gast eine unerwartete Frage."
+  ],
+  "ex_zh": "主持人向嘉宾提了一个意想不到的问题。",
+  "use": {
+   "col": [
+    [
+     "ein bekannter Moderator",
+     "知名主持人"
+    ],
+    [
+     "Moderator einer Sendung",
+     "节目主持人"
+    ]
+   ],
+   "tip": "女性：die Moderatorin；动词 moderieren"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Talkshow",
+  "art": "die",
+  "pl_full": "die Talkshows",
+  "pos": "n",
+  "zh": "脱口秀；访谈节目",
+  "ex": [
+   "In der Talkshow diskutierten drei Politiker über die Rentenreform."
+  ],
+  "ex_zh": "三位政治家在访谈节目里讨论了养老金改革。",
+  "use": {
+   "col": [
+    [
+     "in einer Talkshow auftreten",
+     "参加访谈节目"
+    ],
+    [
+     "eine politische Talkshow",
+     "政治访谈节目"
+    ]
+   ],
+   "tip": "英语借词，重音在第一个音节"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Dokumentarfilm",
+  "art": "der",
+  "pl_full": "die Dokumentarfilme",
+  "pos": "n",
+  "zh": "纪录片",
+  "ex": [
+   "Gestern haben wir einen Dokumentarfilm über die Berliner Mauer gesehen."
+  ],
+  "ex_zh": "昨天我们看了一部关于柏林墙的纪录片。",
+  "use": {
+   "col": [
+    [
+     "einen Dokumentarfilm drehen",
+     "拍纪录片"
+    ],
+    [
+     "ein preisgekrönter Dokumentarfilm",
+     "获奖的纪录片"
+    ]
+   ],
+   "tip": "简称 Doku"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Mediathek",
+  "art": "die",
+  "pl_full": "die Mediatheken",
+  "pos": "n",
+  "zh": "媒体库；电视台在线回看平台",
+  "ex": [
+   "Die Sendung kann man noch eine Woche lang in der Mediathek ansehen."
+  ],
+  "ex_zh": "这个节目还可以在媒体库里回看一周。",
+  "use": {
+   "col": [
+    [
+     "in der Mediathek verfügbar",
+     "可在媒体库观看"
+    ],
+    [
+     "die ARD-Mediathek",
+     "ARD 媒体库"
+    ]
+   ],
+   "tip": "德国公共电视台的在线回看服务"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Einschaltquote",
+  "art": "die",
+  "pl_full": "die Einschaltquoten",
+  "pos": "n",
+  "zh": "收视率",
+  "ex": [
+   "Die Einschaltquote der Show ist im Vergleich zum Vorjahr deutlich gesunken."
+  ],
+  "ex_zh": "这档节目的收视率比去年明显下降了。",
+  "use": {
+   "col": [
+    [
+     "hohe Einschaltquoten erzielen",
+     "获得高收视率"
+    ],
+    [
+     "die Einschaltquote steigt",
+     "收视率上升"
+    ]
+   ],
+   "tip": "也简称 Quote"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Werbespot",
+  "art": "der",
+  "pl_full": "die Werbespots",
+  "pos": "n",
+  "zh": "广告片；广告短片",
+  "ex": [
+   "Der neue Werbespot der Bank läuft jeden Abend im Fernsehen."
+  ],
+  "ex_zh": "银行的新广告片每天晚上都在电视上播放。",
+  "use": {
+   "col": [
+    [
+     "einen Werbespot drehen",
+     "拍广告片"
+    ],
+    [
+     "im Werbespot auftreten",
+     "出现在广告片里"
+    ]
+   ],
+   "tip": "也可指电台广告"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zielgruppe",
+  "art": "die",
+  "pl_full": "die Zielgruppen",
+  "pos": "n",
+  "zh": "目标群体",
+  "ex": [
+   "Die Werbung richtet sich vor allem an eine junge Zielgruppe."
+  ],
+  "ex_zh": "这则广告主要面向年轻的目标群体。",
+  "use": {
+   "col": [
+    [
+     "die Zielgruppe ansprechen",
+     "吸引目标群体"
+    ],
+    [
+     "eine breite Zielgruppe",
+     "广泛的目标群体"
+    ]
+   ],
+   "tip": "营销、媒体里高频词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Skandal",
+  "art": "der",
+  "pl_full": "die Skandale",
+  "pos": "n",
+  "zh": "丑闻",
+  "ex": [
+   "Der Skandal um die manipulierten Daten erschütterte das ganze Unternehmen."
+  ],
+  "ex_zh": "数据造假的丑闻震动了整个公司。",
+  "use": {
+   "col": [
+    [
+     "einen Skandal aufdecken",
+     "揭露丑闻"
+    ],
+    [
+     "in einen Skandal verwickelt sein",
+     "卷入丑闻"
+    ]
+   ],
+   "tip": "形容词 skandalös"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gemälde",
+  "art": "das",
+  "pl_full": "die Gemälde",
+  "pos": "n",
+  "zh": "油画；画作",
+  "ex": [
+   "Im Museum hängt ein berühmtes Gemälde von Caspar David Friedrich."
+  ],
+  "ex_zh": "博物馆里挂着一幅卡斯帕·大卫·弗里德里希的名画。",
+  "use": {
+   "col": [
+    [
+     "ein Gemälde restaurieren",
+     "修复一幅画"
+    ],
+    [
+     "ein Gemälde ausstellen",
+     "展出一幅画"
+    ]
+   ],
+   "tip": "单复数同形；比 Bild 更正式"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Skulptur",
+  "art": "die",
+  "pl_full": "die Skulpturen",
+  "pos": "n",
+  "zh": "雕塑",
+  "ex": [
+   "Vor dem Rathaus steht eine große Skulptur aus Bronze."
+  ],
+  "ex_zh": "市政厅前面立着一座青铜大雕塑。",
+  "use": {
+   "col": [
+    [
+     "eine Skulptur aus Stein",
+     "石头雕塑"
+    ],
+    [
+     "eine Skulptur schaffen",
+     "创作雕塑"
+    ]
+   ],
+   "tip": "创作者：der Bildhauer"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kunstwerk",
+  "art": "das",
+  "pl_full": "die Kunstwerke",
+  "pos": "n",
+  "zh": "艺术品",
+  "ex": [
+   "Jedes Kunstwerk in dieser Galerie wurde von einer Künstlerin aus der Region geschaffen."
+  ],
+  "ex_zh": "这家画廊里每件艺术品都出自本地一位女艺术家之手。",
+  "use": {
+   "col": [
+    [
+     "ein Kunstwerk schaffen",
+     "创作艺术品"
+    ],
+    [
+     "ein wertvolles Kunstwerk",
+     "珍贵的艺术品"
+    ]
+   ],
+   "tip": "Kunst + Werk 复合词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Epoche",
+  "art": "die",
+  "pl_full": "die Epochen",
+  "pos": "n",
+  "zh": "时代；时期",
+  "ex": [
+   "Die Romantik ist eine wichtige Epoche der deutschen Literatur."
+  ],
+  "ex_zh": "浪漫主义是德国文学中一个重要的时期。",
+  "use": {
+   "col": [
+    [
+     "eine Epoche prägen",
+     "塑造一个时代"
+    ],
+    [
+     "die Epoche der Aufklärung",
+     "启蒙时代"
+    ]
+   ],
+   "tip": "文学史、艺术史常用；比 Zeit 更学术"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Aufführung",
+  "art": "die",
+  "pl_full": "die Aufführungen",
+  "pos": "n",
+  "zh": "演出；上演",
+  "ex": [
+   "Die Aufführung dauerte drei Stunden und endete mit langem Applaus."
+  ],
+  "ex_zh": "演出持续了三个小时，最后以长时间的掌声结束。",
+  "use": {
+   "col": [
+    [
+     "eine gelungene Aufführung",
+     "成功的演出"
+    ],
+    [
+     "die Aufführung eines Stücks",
+     "剧目的上演"
+    ]
+   ],
+   "tip": "动词 aufführen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Inszenierung",
+  "art": "die",
+  "pl_full": "die Inszenierungen",
+  "pos": "n",
+  "zh": "导演制作；舞台呈现；刻意营造",
+  "ex": [
+   "Die moderne Inszenierung des Klassikers wurde vom Publikum begeistert gefeiert."
+  ],
+  "ex_zh": "这部经典作品的现代版舞台呈现受到观众热烈欢迎。",
+  "use": {
+   "senses": [
+    "（戏剧、歌剧的）导演、舞台制作",
+    "（贬义）刻意的表演、作秀"
+   ],
+   "col": [
+    [
+     "eine gelungene Inszenierung",
+     "成功的舞台呈现"
+    ],
+    [
+     "die Inszenierung eines Stücks",
+     "剧目的导演制作"
+    ]
+   ],
+   "tip": "也可指政治上的刻意作秀"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Regisseur",
+  "art": "der",
+  "pl_full": "die Regisseure",
+  "pos": "n",
+  "zh": "导演",
+  "ex": [
+   "Der Regisseur wurde für seinen neuen Film mit einem Preis ausgezeichnet."
+  ],
+  "ex_zh": "这位导演凭新片获了奖。",
+  "use": {
+   "col": [
+    [
+     "Regie führen",
+     "担任导演"
+    ],
+    [
+     "ein bekannter Regisseur",
+     "著名导演"
+    ]
+   ],
+   "tip": "女性：die Regisseurin"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Drehbuch",
+  "art": "das",
+  "pl_full": "die Drehbücher",
+  "pos": "n",
+  "zh": "剧本（电影）",
+  "ex": [
+   "Sie hat das Drehbuch für den Film in nur drei Monaten geschrieben."
+  ],
+  "ex_zh": "她只用了三个月就写完了这部电影的剧本。",
+  "use": {
+   "col": [
+    [
+     "ein Drehbuch schreiben",
+     "写剧本"
+    ],
+    [
+     "nach einem Drehbuch",
+     "按剧本"
+    ]
+   ],
+   "tip": "drehen（拍摄）+ Buch；话剧剧本是 Stück"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Handlung",
+  "art": "die",
+  "pl_full": "die Handlungen",
+  "pos": "n",
+  "zh": "情节；行为；行动",
+  "ex": [
+   "Die Handlung des Romans spielt im Berlin der zwanziger Jahre."
+  ],
+  "ex_zh": "这部小说的情节发生在二十年代的柏林。",
+  "use": {
+   "senses": [
+    "（作品的）情节",
+    "（人的）行为、举动"
+   ],
+   "col": [
+    [
+     "die Handlung spielt in + Dat.",
+     "故事发生在……"
+    ],
+    [
+     "eine strafbare Handlung",
+     "犯罪行为"
+    ]
+   ],
+   "tip": "文学里指情节，法律里指行为"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Hauptfigur",
+  "art": "die",
+  "pl_full": "die Hauptfiguren",
+  "pos": "n",
+  "zh": "主人公；主要角色",
+  "ex": [
+   "Die Hauptfigur des Films verliert am Anfang ihren Job."
+  ],
+  "ex_zh": "影片的主人公一开始就丢了工作。",
+  "use": {
+   "col": [
+    [
+     "die Hauptfigur des Romans",
+     "小说的主人公"
+    ],
+    [
+     "eine sympathische Hauptfigur",
+     "讨人喜欢的主角"
+    ]
+   ],
+   "tip": "近义词 Hauptperson、Protagonist"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Schauplatz",
+  "art": "der",
+  "pl_full": "die Schauplätze",
+  "pos": "n",
+  "zh": "（事件的）发生地；场景",
+  "ex": [
+   "Der Schauplatz der Geschichte ist eine kleine Stadt an der Nordsee."
+  ],
+  "ex_zh": "故事的发生地是北海边的一座小城。",
+  "use": {
+   "col": [
+    [
+     "der Schauplatz eines Verbrechens",
+     "犯罪现场"
+    ],
+    [
+     "am Schauplatz sein",
+     "在现场"
+    ]
+   ],
+   "tip": "复数变音：Schauplätze"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Premiere",
+  "art": "die",
+  "pl_full": "die Premieren",
+  "pos": "n",
+  "zh": "首演；首映",
+  "ex": [
+   "Die Premiere des neuen Stücks ist am Freitag um 20 Uhr."
+  ],
+  "ex_zh": "新剧目的首演定在周五晚上八点。",
+  "use": {
+   "col": [
+    [
+     "zur Premiere gehen",
+     "去看首演"
+    ],
+    [
+     "die Premiere feiern",
+     "庆祝首演"
+    ]
+   ],
+   "tip": "重音在第二音节"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Probe",
+  "art": "die",
+  "pl_full": "die Proben",
+  "pos": "n",
+  "zh": "排练；试验；样品",
+  "ex": [
+   "Die Proben für das Konzert beginnen nächste Woche in der Aula."
+  ],
+  "ex_zh": "音乐会的排练下周在礼堂开始。",
+  "use": {
+   "senses": [
+    "（戏剧、音乐的）排练",
+    "试验、检验",
+    "样品"
+   ],
+   "col": [
+    [
+     "zur Probe gehen",
+     "去排练"
+    ],
+    [
+     "etwas auf die Probe stellen",
+     "考验某事"
+    ]
+   ],
+   "tip": "Probezeit（试用期）同族"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Ensemble",
+  "art": "das",
+  "pl_full": "die Ensembles",
+  "pos": "n",
+  "zh": "剧团；乐团；合奏组",
+  "ex": [
+   "Das Ensemble des Theaters besteht aus etwa dreißig Schauspielern."
+  ],
+  "ex_zh": "剧院的剧团大约由三十名演员组成。",
+  "use": {
+   "col": [
+    [
+     "einem Ensemble angehören",
+     "属于某个剧团"
+    ],
+    [
+     "ein Ensemble gründen",
+     "组建一个乐团"
+    ]
+   ],
+   "tip": "法语借词，词尾 -e 不发音"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Komponist",
+  "art": "der",
+  "pl_full": "die Komponisten",
+  "pos": "n",
+  "zh": "作曲家",
+  "ex": [
+   "Beethoven gilt als einer der bedeutendsten Komponisten der Musikgeschichte."
+  ],
+  "ex_zh": "贝多芬被认为是音乐史上最重要的作曲家之一。",
+  "use": {
+   "col": [
+    [
+     "ein berühmter Komponist",
+     "著名作曲家"
+    ],
+    [
+     "ein Werk des Komponisten",
+     "这位作曲家的作品"
+    ]
+   ],
+   "tip": "n 变格：den Komponisten；动词 komponieren"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Dirigent",
+  "art": "der",
+  "pl_full": "die Dirigenten",
+  "pos": "n",
+  "zh": "指挥",
+  "ex": [
+   "Der Dirigent hob den Taktstock und das Orchester begann zu spielen."
+  ],
+  "ex_zh": "指挥举起指挥棒，乐团开始演奏。",
+  "use": {
+   "col": [
+    [
+     "unter der Leitung des Dirigenten",
+     "在指挥的带领下"
+    ],
+    [
+     "ein junger Dirigent",
+     "年轻的指挥"
+    ]
+   ],
+   "tip": "n 变格：den Dirigenten；女性：die Dirigentin"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Melodie",
+  "art": "die",
+  "pl_full": "die Melodien",
+  "pos": "n",
+  "zh": "旋律",
+  "ex": [
+   "Diese Melodie geht mir seit Tagen nicht mehr aus dem Kopf."
+  ],
+  "ex_zh": "这段旋律这几天一直在我脑子里挥之不去。",
+  "use": {
+   "col": [
+    [
+     "eine eingängige Melodie",
+     "朗朗上口的旋律"
+    ],
+    [
+     "eine Melodie summen",
+     "哼旋律"
+    ]
+   ],
+   "tip": "复数 Melodien 读作三音节"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Rhythmus",
+  "art": "der",
+  "pl_full": "die Rhythmen",
+  "pos": "n",
+  "zh": "节奏；节律",
+  "ex": [
+   "Der Rhythmus des Liedes ist so schnell, dass man sofort tanzen möchte."
+  ],
+  "ex_zh": "这首歌的节奏很快，让人立刻想跳舞。",
+  "use": {
+   "col": [
+    [
+     "im Rhythmus der Musik",
+     "随着音乐的节奏"
+    ],
+    [
+     "den Rhythmus halten",
+     "保持节奏"
+    ]
+   ],
+   "tip": "复数 Rhythmen；也指生活节奏"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Refrain",
+  "art": "der",
+  "pl_full": "die Refrains",
+  "pos": "n",
+  "zh": "副歌；叠句",
+  "ex": [
+   "Beim Refrain haben alle im Publikum laut mitgesungen."
+  ],
+  "ex_zh": "唱到副歌时，观众席里的人都大声跟着唱。",
+  "use": {
+   "col": [
+    [
+     "den Refrain mitsingen",
+     "跟着唱副歌"
+    ],
+    [
+     "ein eingängiger Refrain",
+     "好记的副歌"
+    ]
+   ],
+   "tip": "相对的是 die Strophe（诗节）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Album",
+  "art": "das",
+  "pl_full": "die Alben",
+  "pos": "n",
+  "zh": "专辑；相册",
+  "ex": [
+   "Die Band hat letzte Woche ihr drittes Album veröffentlicht."
+  ],
+  "ex_zh": "这支乐队上周发行了第三张专辑。",
+  "use": {
+   "senses": [
+    "（音乐）专辑",
+    "相册、集邮册"
+   ],
+   "col": [
+    [
+     "ein Album aufnehmen",
+     "录制专辑"
+    ],
+    [
+     "ein Fotoalbum",
+     "相册"
+    ]
+   ],
+   "tip": "复数 Alben，不是 Albums"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Spielfilm",
+  "art": "der",
+  "pl_full": "die Spielfilme",
+  "pos": "n",
+  "zh": "故事片",
+  "ex": [
+   "Der Spielfilm basiert auf einer wahren Geschichte aus dem Jahr 1989."
+  ],
+  "ex_zh": "这部故事片改编自1989年的一个真实故事。",
+  "use": {
+   "col": [
+    [
+     "einen Spielfilm drehen",
+     "拍故事片"
+    ],
+    [
+     "ein abendfüllender Spielfilm",
+     "长片"
+    ]
+   ],
+   "tip": "对立：Dokumentarfilm 纪录片"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Leinwand",
+  "art": "die",
+  "pl_full": "die Leinwände",
+  "pos": "n",
+  "zh": "银幕；画布",
+  "ex": [
+   "Auf der riesigen Leinwand wirkt der Film noch beeindruckender."
+  ],
+  "ex_zh": "在巨大的银幕上，这部电影显得更震撼。",
+  "use": {
+   "senses": [
+    "（电影）银幕",
+    "（绘画）画布"
+   ],
+   "col": [
+    [
+     "auf der Leinwand",
+     "在银幕上"
+    ],
+    [
+     "auf die Leinwand bringen",
+     "搬上银幕"
+    ]
+   ],
+   "tip": "复数变音：Leinwände"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Besetzung",
+  "art": "die",
+  "pl_full": "die Besetzungen",
+  "pos": "n",
+  "zh": "演员阵容；人员配备；占领",
+  "ex": [
+   "Die Besetzung der Hauptrolle hat viele Fans überrascht."
+  ],
+  "ex_zh": "主角的人选让很多影迷感到意外。",
+  "use": {
+   "senses": [
+    "（影视的）演员阵容",
+    "（职位的）人员配备",
+    "（军事的）占领"
+   ],
+   "col": [
+    [
+     "die Besetzung der Stelle",
+     "职位的人选"
+    ],
+    [
+     "eine hochkarätige Besetzung",
+     "明星阵容"
+    ]
+   ],
+   "tip": "来自 besetzen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Untertitel",
+  "art": "der",
+  "pl_full": "die Untertitel",
+  "pos": "n",
+  "zh": "字幕；副标题",
+  "ex": [
+   "Ich schaue ausländische Filme meistens mit deutschen Untertiteln."
+  ],
+  "ex_zh": "我看外国电影时大多开德语字幕。",
+  "use": {
+   "col": [
+    [
+     "mit Untertiteln",
+     "带字幕"
+    ],
+    [
+     "Untertitel einblenden",
+     "显示字幕"
+    ]
+   ],
+   "tip": "字幕多用复数；学语言的好帮手"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Synchronisation",
+  "art": "die",
+  "pl_full": "die Synchronisationen",
+  "pos": "n",
+  "zh": "配音；同步",
+  "ex": [
+   "Die deutsche Synchronisation des Films finde ich ziemlich gelungen."
+  ],
+  "ex_zh": "我觉得这部电影的德语配音相当成功。",
+  "use": {
+   "col": [
+    [
+     "die deutsche Synchronisation",
+     "德语配音"
+    ],
+    [
+     "in synchronisierter Fassung",
+     "配音版"
+    ]
+   ],
+   "tip": "口语常说 Synchro；动词 synchronisieren"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Weltkulturerbe",
+  "art": "das",
+  "pos": "n",
+  "zh": "世界文化遗产",
+  "ex": [
+   "Die Altstadt von Bamberg gehört seit 1993 zum UNESCO-Weltkulturerbe."
+  ],
+  "ex_zh": "班贝格老城自1993年起被列入联合国教科文组织世界文化遗产。",
+  "use": {
+   "col": [
+    [
+     "zum Weltkulturerbe gehören",
+     "属于世界文化遗产"
+    ],
+    [
+     "das Weltkulturerbe schützen",
+     "保护世界文化遗产"
+    ]
+   ],
+   "tip": "通常用单数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Brauchtum",
+  "art": "das",
+  "pos": "n",
+  "zh": "风俗；习俗",
+  "ex": [
+   "In dieser Region wird altes Brauchtum bis heute gepflegt."
+  ],
+  "ex_zh": "这个地区至今仍保存着古老的风俗。",
+  "use": {
+   "col": [
+    [
+     "Brauchtum pflegen",
+     "传承习俗"
+    ],
+    [
+     "regionales Brauchtum",
+     "地方习俗"
+    ]
+   ],
+   "tip": "只有单数；单个习俗用 der Brauch"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Volksfest",
+  "art": "das",
+  "pl_full": "die Volksfeste",
+  "pos": "n",
+  "zh": "民间节庆；庙会",
+  "ex": [
+   "Im September gehen wir zusammen auf das Volksfest in Stuttgart."
+  ],
+  "ex_zh": "九月我们一起去斯图加特的民间节庆。",
+  "use": {
+   "col": [
+    [
+     "auf das Volksfest gehen",
+     "去参加民间节庆"
+    ],
+    [
+     "ein Volksfest besuchen",
+     "逛民间节庆"
+    ]
+   ],
+   "tip": "慕尼黑啤酒节就是 Volksfest"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Eintrittskarte",
+  "art": "die",
+  "pl_full": "die Eintrittskarten",
+  "pos": "n",
+  "zh": "门票；入场券",
+  "ex": [
+   "Eine Eintrittskarte für das Museum kostet für Studierende nur fünf Euro."
+  ],
+  "ex_zh": "博物馆的门票对学生只要五欧元。",
+  "use": {
+   "col": [
+    [
+     "eine Eintrittskarte kaufen",
+     "买门票"
+    ],
+    [
+     "Eintrittskarten reservieren",
+     "预订门票"
+    ]
+   ],
+   "tip": "简称 Karte；也说 Ticket"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Vorverkauf",
+  "art": "der",
+  "pos": "n",
+  "zh": "预售",
+  "ex": [
+   "Der Vorverkauf für das Konzert beginnt am Montag um zehn Uhr."
+  ],
+  "ex_zh": "音乐会的预售周一上午十点开始。",
+  "use": {
+   "col": [
+    [
+     "im Vorverkauf",
+     "预售时"
+    ],
+    [
+     "die Vorverkaufsstelle",
+     "售票点"
+    ]
+   ],
+   "tip": "只用单数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Spielplan",
+  "art": "der",
+  "pl_full": "die Spielpläne",
+  "pos": "n",
+  "zh": "演出日程；剧目表",
+  "ex": [
+   "Der Spielplan des Theaters für die nächste Saison ist jetzt online."
+  ],
+  "ex_zh": "剧院下个演出季的剧目表现已上线。",
+  "use": {
+   "col": [
+    [
+     "auf dem Spielplan stehen",
+     "在剧目表上"
+    ],
+    [
+     "den Spielplan ansehen",
+     "查看剧目表"
+    ]
+   ],
+   "tip": "复数变音：Spielpläne"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Bestseller",
+  "art": "der",
+  "pl_full": "die Bestseller",
+  "pos": "n",
+  "zh": "畅销书",
+  "ex": [
+   "Ihr neuer Roman ist innerhalb weniger Wochen ein Bestseller geworden."
+  ],
+  "ex_zh": "她的新小说几周内就成了畅销书。",
+  "use": {
+   "col": [
+    [
+     "einen Bestseller schreiben",
+     "写出畅销书"
+    ],
+    [
+     "die Bestsellerliste",
+     "畅销书榜"
+    ]
+   ],
+   "tip": "单复数同形"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Lesung",
+  "art": "die",
+  "pl_full": "die Lesungen",
+  "pos": "n",
+  "zh": "作品朗读会；宣读",
+  "ex": [
+   "Am Donnerstag findet in der Buchhandlung eine Lesung mit dem Autor statt."
+  ],
+  "ex_zh": "周四书店里有一场作者的作品朗读会。",
+  "use": {
+   "senses": [
+    "（作者的）作品朗读会",
+    "（议会的）读会"
+   ],
+   "col": [
+    [
+     "eine Lesung besuchen",
+     "去听朗读会"
+    ],
+    [
+     "eine Lesung halten",
+     "举办朗读会"
+    ]
+   ],
+   "tip": "也指议会里的「读」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Erzähler",
+  "art": "der",
+  "pl_full": "die Erzähler",
+  "pos": "n",
+  "zh": "叙述者；讲故事的人",
+  "ex": [
+   "Der Erzähler des Romans bleibt bis zum Schluss anonym."
+  ],
+  "ex_zh": "小说的叙述者直到最后都没有署名。",
+  "use": {
+   "col": [
+    [
+     "ein unzuverlässiger Erzähler",
+     "不可靠的叙述者"
+    ],
+    [
+     "ein guter Erzähler sein",
+     "很会讲故事"
+    ]
+   ],
+   "tip": "女性：die Erzählerin"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Biografie",
+  "art": "die",
+  "pl_full": "die Biografien",
+  "pos": "n",
+  "zh": "传记",
+  "ex": [
+   "Ich lese gerade eine Biografie über Marie Curie."
+  ],
+  "ex_zh": "我正在读一本关于居里夫人的传记。",
+  "gov": "die Biografie über + Akk.",
+  "use": {
+   "col": [
+    [
+     "eine Biografie schreiben",
+     "写传记"
+    ],
+    [
+     "eine Biografie über + Akk.",
+     "关于……的传记"
+    ]
+   ],
+   "tip": "也拼 Biographie；自传 Autobiografie"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Sachbuch",
+  "art": "das",
+  "pl_full": "die Sachbücher",
+  "pos": "n",
+  "zh": "非虚构类书籍",
+  "ex": [
+   "Sie liest lieber Sachbücher als Romane, weil sie gern etwas lernt."
+  ],
+  "ex_zh": "她更爱读非虚构类书籍而不是小说，因为她喜欢学东西。",
+  "use": {
+   "col": [
+    [
+     "ein Sachbuch über + Akk.",
+     "关于……的非虚构书"
+    ],
+    [
+     "ein populäres Sachbuch",
+     "通俗读物"
+    ]
+   ],
+   "tip": "复数变音：Sachbücher"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kurzgeschichte",
+  "art": "die",
+  "pl_full": "die Kurzgeschichten",
+  "pos": "n",
+  "zh": "短篇小说",
+  "ex": [
+   "Im Deutschunterricht haben wir eine Kurzgeschichte von Wolfgang Borchert analysiert."
+  ],
+  "ex_zh": "德语课上我们分析了沃尔夫冈·博尔歇特的一篇短篇小说。",
+  "use": {
+   "col": [
+    [
+     "eine Kurzgeschichte lesen",
+     "读短篇小说"
+    ],
+    [
+     "eine Kurzgeschichte schreiben",
+     "写短篇小说"
+    ]
+   ],
+   "tip": "比 Novelle 更短、更现代"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Klassiker",
+  "art": "der",
+  "pl_full": "die Klassiker",
+  "pos": "n",
+  "zh": "经典作品",
+  "ex": [
+   "Faust ist ein Klassiker, den fast jeder in der Schule gelesen hat."
+  ],
+  "ex_zh": "《浮士德》是一部几乎人人在学校读过的经典。",
+  "use": {
+   "col": [
+    [
+     "ein Klassiker der Literatur",
+     "文学经典"
+    ],
+    [
+     "zeitlose Klassiker",
+     "永恒的经典"
+    ]
+   ],
+   "tip": "也指某类事物里的经典款"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Ausdrucksweise",
+  "art": "die",
+  "pl_full": "die Ausdrucksweisen",
+  "pos": "n",
+  "zh": "措辞；表达方式",
+  "ex": [
+   "Seine Ausdrucksweise ist manchmal ziemlich direkt und wirkt unhöflich."
+  ],
+  "ex_zh": "他的措辞有时很直接，显得不礼貌。",
+  "use": {
+   "col": [
+    [
+     "eine gepflegte Ausdrucksweise",
+     "讲究的措辞"
+    ],
+    [
+     "eine einfache Ausdrucksweise",
+     "简单的表达方式"
+    ]
+   ],
+   "tip": "Ausdruck 的复合词，强调说话方式"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Formulierung",
+  "art": "die",
+  "pl_full": "die Formulierungen",
+  "pos": "n",
+  "zh": "措辞；表述",
+  "ex": [
+   "Die Formulierung im Vertrag ist missverständlich und sollte geändert werden."
+  ],
+  "ex_zh": "合同里的表述容易引起误解，应该修改。",
+  "use": {
+   "col": [
+    [
+     "eine unglückliche Formulierung",
+     "不妥的措辞"
+    ],
+    [
+     "nach der Formulierung",
+     "按照这个表述"
+    ]
+   ],
+   "tip": "动词 formulieren"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Redewendung",
+  "art": "die",
+  "pl_full": "die Redewendungen",
+  "pos": "n",
+  "zh": "习语；惯用语",
+  "ex": [
+   "Die Redewendung „Das ist nicht mein Bier“ bedeutet, dass man sich nicht zuständig fühlt."
+  ],
+  "ex_zh": "习语「Das ist nicht mein Bier」的意思是觉得这不关自己的事。",
+  "use": {
+   "col": [
+    [
+     "eine feste Redewendung",
+     "固定习语"
+    ],
+    [
+     "eine Redewendung verwenden",
+     "使用习语"
+    ]
+   ],
+   "tip": "同义：Redensart；谚语是 Sprichwort"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Sprichwort",
+  "art": "das",
+  "pl_full": "die Sprichwörter",
+  "pos": "n",
+  "zh": "谚语",
+  "ex": [
+   "Es gibt ein deutsches Sprichwort, das sagt: Übung macht den Meister."
+  ],
+  "ex_zh": "有一句德语谚语说：熟能生巧。",
+  "use": {
+   "col": [
+    [
+     "ein altes Sprichwort",
+     "古老的谚语"
+    ],
+    [
+     "wie das Sprichwort sagt",
+     "正如谚语所说"
+    ]
+   ],
+   "tip": "复数 Sprichwörter（不是 -worte）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Wortschatz",
+  "art": "der",
+  "pos": "n",
+  "zh": "词汇量；词汇",
+  "ex": [
+   "Mein Wortschatz in Deutsch wächst, seit ich jeden Tag zwanzig Wörter lerne."
+  ],
+  "ex_zh": "自从我每天学二十个词以来，我的德语词汇量在增长。",
+  "use": {
+   "col": [
+    [
+     "den Wortschatz erweitern",
+     "扩大词汇量"
+    ],
+    [
+     "ein großer Wortschatz",
+     "丰富的词汇"
+    ]
+   ],
+   "tip": "一般用单数，指整体词汇"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Betonung",
+  "art": "die",
+  "pl_full": "die Betonungen",
+  "pos": "n",
+  "zh": "重音；强调",
+  "ex": [
+   "Im Deutschen liegt die Betonung meistens auf der ersten Silbe."
+  ],
+  "ex_zh": "德语里重音大多落在第一个音节上。",
+  "use": {
+   "col": [
+    [
+     "die Betonung liegt auf + Dat.",
+     "重音在……"
+    ],
+    [
+     "die Betonung auf etwas legen",
+     "强调某事"
+    ]
+   ],
+   "tip": "动词 betonen；既指发音也指强调"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Akzent",
+  "art": "der",
+  "pl_full": "die Akzente",
+  "pos": "n",
+  "zh": "口音；重音符号；侧重点",
+  "ex": [
+   "Man hört an ihrem Akzent, dass sie aus Bayern kommt."
+  ],
+  "ex_zh": "从她的口音能听出她来自巴伐利亚。",
+  "use": {
+   "senses": [
+    "口音",
+    "（书写的）重音符号",
+    "侧重点"
+   ],
+   "col": [
+    [
+     "mit einem leichten Akzent sprechen",
+     "带一点口音说话"
+    ],
+    [
+     "einen Akzent setzen",
+     "突出重点"
+    ]
+   ],
+   "tip": "多义词，注意与 Betonung 的区别"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Missverständnis",
+  "art": "das",
+  "pl_full": "die Missverständnisse",
+  "pos": "n",
+  "zh": "误会；误解",
+  "ex": [
+   "Das war nur ein Missverständnis, und wir haben es schnell geklärt."
+  ],
+  "ex_zh": "那只是个误会，我们很快就澄清了。",
+  "use": {
+   "col": [
+    [
+     "ein Missverständnis aufklären",
+     "澄清误会"
+    ],
+    [
+     "auf einem Missverständnis beruhen",
+     "基于误会"
+    ]
+   ],
+   "tip": "动词 missverstehen；注意 ss"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Verständigung",
+  "art": "die",
+  "pos": "n",
+  "zh": "沟通；互相理解",
+  "ex": [
+   "Die Verständigung klappt auch ohne gemeinsame Sprache erstaunlich gut."
+  ],
+  "ex_zh": "即使没有共同的语言，沟通也出奇地顺利。",
+  "use": {
+   "col": [
+    [
+     "die Verständigung erleichtern",
+     "使沟通更顺畅"
+    ],
+    [
+     "Schwierigkeiten bei der Verständigung",
+     "沟通困难"
+    ]
+   ],
+   "tip": "来自 sich verständigen；也指达成一致"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Argument",
+  "art": "das",
+  "pl_full": "die Argumente",
+  "pos": "n",
+  "zh": "论据；论点",
+  "ex": [
+   "Ihr stärkstes Argument war, dass die Lösung langfristig billiger ist."
+  ],
+  "ex_zh": "她最有力的论据是，这个方案从长远看更便宜。",
+  "use": {
+   "col": [
+    [
+     "ein Argument vorbringen",
+     "提出论据"
+    ],
+    [
+     "ein überzeugendes Argument",
+     "有说服力的论据"
+    ]
+   ],
+   "tip": "动词 argumentieren"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Behauptung",
+  "art": "die",
+  "pl_full": "die Behauptungen",
+  "pos": "n",
+  "zh": "断言；说法",
+  "ex": [
+   "Für diese Behauptung gibt es bisher keinen einzigen Beweis."
+  ],
+  "ex_zh": "这个说法到目前为止没有任何证据。",
+  "use": {
+   "col": [
+    [
+     "eine Behauptung aufstellen",
+     "提出一种说法"
+    ],
+    [
+     "eine Behauptung widerlegen",
+     "驳斥一种说法"
+    ]
+   ],
+   "tip": "动词 behaupten；暗含「尚未证实」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Einwand",
+  "art": "der",
+  "pl_full": "die Einwände",
+  "pos": "n",
+  "zh": "反对意见；异议",
+  "ex": [
+   "Haben Sie noch einen Einwand gegen den Vorschlag?"
+  ],
+  "ex_zh": "您对这个建议还有什么异议吗？",
+  "gov": "der Einwand gegen + Akk.",
+  "use": {
+   "col": [
+    [
+     "einen Einwand erheben",
+     "提出异议"
+    ],
+    [
+     "einen Einwand entkräften",
+     "驳倒异议"
+    ]
+   ],
+   "tip": "复数变音：Einwände；动词 einwenden"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Stellungnahme",
+  "art": "die",
+  "pl_full": "die Stellungnahmen",
+  "pos": "n",
+  "zh": "表态；意见书；声明",
+  "ex": [
+   "Die Firma hat zu den Vorwürfen noch keine Stellungnahme abgegeben."
+  ],
+  "ex_zh": "公司对这些指控还没有表态。",
+  "gov": "die Stellungnahme zu + Dat.",
+  "use": {
+   "col": [
+    [
+     "eine Stellungnahme abgeben",
+     "发表意见"
+    ],
+    [
+     "um eine Stellungnahme bitten",
+     "请求表态"
+    ]
+   ],
+   "tip": "常见搭配 zu etwas Stellung nehmen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gesprächspartner",
+  "art": "der",
+  "pl_full": "die Gesprächspartner",
+  "pos": "n",
+  "zh": "谈话对象；对话者",
+  "ex": [
+   "Mein Gesprächspartner am Telefon konnte mir leider nicht weiterhelfen."
+  ],
+  "ex_zh": "我在电话里的对话人很遗憾没能帮到我。",
+  "use": {
+   "col": [
+    [
+     "ein angenehmer Gesprächspartner",
+     "令人愉快的谈话对象"
+    ],
+    [
+     "Gesprächspartner finden",
+     "找到交谈的人"
+    ]
+   ],
+   "tip": "女性：die Gesprächspartnerin"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Anliegen",
+  "art": "das",
+  "pl_full": "die Anliegen",
+  "pos": "n",
+  "zh": "诉求；请求；心愿",
+  "ex": [
+   "Ich komme heute mit einem persönlichen Anliegen zu Ihnen."
+  ],
+  "ex_zh": "我今天带着一件私人的事情来找您。",
+  "use": {
+   "col": [
+    [
+     "ein Anliegen haben",
+     "有事相求"
+    ],
+    [
+     "ein wichtiges Anliegen",
+     "重要的诉求"
+    ]
+   ],
+   "tip": "比 Bitte 更正式；单复数同形"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Beschwerde",
+  "art": "die",
+  "pl_full": "die Beschwerden",
+  "pos": "n",
+  "zh": "投诉；病痛",
+  "ex": [
+   "Wir haben eine Beschwerde über den Lärm in der Nachbarwohnung eingereicht."
+  ],
+  "ex_zh": "我们就邻居家的噪音提交了投诉。",
+  "gov": "die Beschwerde über + Akk.",
+  "use": {
+   "senses": [
+    "投诉、申诉",
+    "（多用复数）病痛、不适"
+   ],
+   "col": [
+    [
+     "eine Beschwerde einreichen",
+     "提交投诉"
+    ],
+    [
+     "Beschwerde einlegen",
+     "提出申诉"
+    ]
+   ],
+   "tip": "复数 Beschwerden 也指身体不适"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Mitteilung",
+  "art": "die",
+  "pl_full": "die Mitteilungen",
+  "pos": "n",
+  "zh": "通知；消息",
+  "ex": [
+   "Sie erhalten in den nächsten Tagen eine schriftliche Mitteilung von uns."
+  ],
+  "ex_zh": "您几天内会收到我们的书面通知。",
+  "use": {
+   "col": [
+    [
+     "eine Mitteilung machen",
+     "发出通知"
+    ],
+    [
+     "schriftliche Mitteilung",
+     "书面通知"
+    ]
+   ],
+   "tip": "动词 mitteilen；比 Nachricht 更正式"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Anfrage",
+  "art": "die",
+  "pl_full": "die Anfragen",
+  "pos": "n",
+  "zh": "询问；查询",
+  "ex": [
+   "Wir haben auf unsere Anfrage bis heute keine Antwort bekommen."
+  ],
+  "ex_zh": "我们的询问到今天都没有收到回复。",
+  "use": {
+   "col": [
+    [
+     "eine Anfrage stellen",
+     "提出询问"
+    ],
+    [
+     "auf Anfrage",
+     "应要求"
+    ]
+   ],
+   "tip": "动词 anfragen；商务信函常用"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Betreff",
+  "art": "der",
+  "pos": "n",
+  "zh": "（信函、邮件的）主题",
+  "ex": [
+   "Bitte geben Sie im Betreff Ihre Kundennummer an."
+  ],
+  "ex_zh": "请在邮件主题里写上您的客户编号。",
+  "use": {
+   "col": [
+    [
+     "im Betreff stehen",
+     "写在主题栏里"
+    ],
+    [
+     "der Betreff der E-Mail",
+     "邮件主题"
+    ]
+   ],
+   "tip": "缩写 Betr.；对应邮件的主题栏"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Anhang",
+  "art": "der",
+  "pl_full": "die Anhänge",
+  "pos": "n",
+  "zh": "附件；附录",
+  "ex": [
+   "Im Anhang finden Sie meinen Lebenslauf und alle Zeugnisse."
+  ],
+  "ex_zh": "附件里是我的简历和所有证书。",
+  "use": {
+   "col": [
+    [
+     "im Anhang",
+     "在附件里"
+    ],
+    [
+     "einen Anhang öffnen",
+     "打开附件"
+    ]
+   ],
+   "tip": "复数变音：Anhänge"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zitat",
+  "art": "das",
+  "pl_full": "die Zitate",
+  "pos": "n",
+  "zh": "引文；名言",
+  "ex": [
+   "Das Zitat stammt aus einem Roman von Thomas Mann."
+  ],
+  "ex_zh": "这句引文出自托马斯·曼的一部小说。",
+  "use": {
+   "col": [
+    [
+     "ein Zitat verwenden",
+     "引用"
+    ],
+    [
+     "ein bekanntes Zitat",
+     "名言"
+    ]
+   ],
+   "tip": "动词 zitieren；引用要标出处"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Bemerkung",
+  "art": "die",
+  "pl_full": "die Bemerkungen",
+  "pos": "n",
+  "zh": "评论；议论；备注",
+  "ex": [
+   "Seine Bemerkung über mein Deutsch hat mich ziemlich geärgert."
+  ],
+  "ex_zh": "他对我德语的那句评论让我很生气。",
+  "gov": "die Bemerkung über + Akk.",
+  "use": {
+   "col": [
+    [
+     "eine Bemerkung machen",
+     "发表评论"
+    ],
+    [
+     "eine abfällige Bemerkung",
+     "贬低的话"
+    ]
+   ],
+   "tip": "表格里的「备注」栏也叫 Bemerkungen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Äußerung",
+  "art": "die",
+  "pl_full": "die Äußerungen",
+  "pos": "n",
+  "zh": "言论；表态",
+  "ex": [
+   "Seine Äußerungen in der Sitzung sorgten für heftige Kritik."
+  ],
+  "ex_zh": "他在会议上的言论引来了强烈批评。",
+  "use": {
+   "col": [
+    [
+     "eine Äußerung tun",
+     "发表言论"
+    ],
+    [
+     "eine umstrittene Äußerung",
+     "有争议的言论"
+    ]
+   ],
+   "tip": "动词 äußern；比 Bemerkung 更正式"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kompliment",
+  "art": "das",
+  "pl_full": "die Komplimente",
+  "pos": "n",
+  "zh": "称赞；恭维",
+  "ex": [
+   "Er machte ihr ein Kompliment für ihre Präsentation."
+  ],
+  "ex_zh": "他夸奖了她的报告做得好。",
+  "use": {
+   "col": [
+    [
+     "ein Kompliment machen",
+     "称赞（某人）"
+    ],
+    [
+     "Komplimente bekommen",
+     "得到称赞"
+    ]
+   ],
+   "tip": "注意拼写 -pli-"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Körpersprache",
+  "art": "die",
+  "pos": "n",
+  "zh": "肢体语言",
+  "ex": [
+   "Die Körpersprache verrät oft mehr als die gesprochenen Worte."
+  ],
+  "ex_zh": "肢体语言往往比说出口的话更能说明问题。",
+  "use": {
+   "col": [
+    [
+     "die Körpersprache deuten",
+     "解读肢体语言"
+    ],
+    [
+     "eine offene Körpersprache",
+     "开放的肢体语言"
+    ]
+   ],
+   "tip": "面试、沟通话题常用"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Mimik",
+  "art": "die",
+  "pos": "n",
+  "zh": "面部表情",
+  "ex": [
+   "Ihre Mimik verriet, dass sie mit der Antwort nicht zufrieden war."
+  ],
+  "ex_zh": "她的表情表明她对这个回答不满意。",
+  "use": {
+   "col": [
+    [
+     "Mimik und Gestik",
+     "表情和手势"
+    ],
+    [
+     "eine ausdrucksstarke Mimik",
+     "丰富的表情"
+    ]
+   ],
+   "tip": "Gestik 是手势动作"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Umgangssprache",
+  "art": "die",
+  "pos": "n",
+  "zh": "口语；日常用语",
+  "ex": [
+   "In der Umgangssprache sagt man oft „Kumpel“ statt „Freund“."
+  ],
+  "ex_zh": "口语里人们常说 Kumpel 而不是 Freund。",
+  "use": {
+   "col": [
+    [
+     "in der Umgangssprache",
+     "在口语中"
+    ],
+    [
+     "umgangssprachlich",
+     "口语的"
+    ]
+   ],
+   "tip": "形容词 umgangssprachlich；对立：Schriftsprache"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fachsprache",
+  "art": "die",
+  "pl_full": "die Fachsprachen",
+  "pos": "n",
+  "zh": "专业语言；行话",
+  "ex": [
+   "Die juristische Fachsprache ist auch für Muttersprachler oft schwer zu verstehen."
+  ],
+  "ex_zh": "法律专业用语即便对母语者也常常难懂。",
+  "use": {
+   "col": [
+    [
+     "die Fachsprache der Medizin",
+     "医学专业用语"
+    ],
+    [
+     "in Fachsprache",
+     "用行话"
+    ]
+   ],
+   "tip": "Fachbegriff 是术语"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fremdwort",
+  "art": "das",
+  "pl_full": "die Fremdwörter",
+  "pos": "n",
+  "zh": "外来词；外来语",
+  "ex": [
+   "Viele Fremdwörter im Deutschen kommen aus dem Englischen oder Lateinischen."
+  ],
+  "ex_zh": "德语里很多外来词来自英语或拉丁语。",
+  "use": {
+   "col": [
+    [
+     "ein Fremdwort verwenden",
+     "使用外来词"
+    ],
+    [
+     "das Fremdwörterbuch",
+     "外来词词典"
+    ]
+   ],
+   "tip": "复数变音：Fremdwörter"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Hochdeutsch",
+  "art": "das",
+  "pos": "n",
+  "zh": "标准德语",
+  "ex": [
+   "In der Schule sprechen wir Hochdeutsch, zu Hause aber bayerischen Dialekt."
+  ],
+  "ex_zh": "在学校我们说标准德语，在家则说巴伐利亚方言。",
+  "use": {
+   "col": [
+    [
+     "Hochdeutsch sprechen",
+     "说标准德语"
+    ],
+    [
+     "auf Hochdeutsch",
+     "用标准德语"
+    ]
+   ],
+   "tip": "也说 Standarddeutsch"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Freizeitgestaltung",
+  "art": "die",
+  "pos": "n",
+  "zh": "空闲时间的安排",
+  "ex": [
+   "Eine sinnvolle Freizeitgestaltung ist für viele Studierende wichtig für den Ausgleich."
+  ],
+  "ex_zh": "有意义的休闲安排对很多大学生来说是重要的调剂。",
+  "use": {
+   "col": [
+    [
+     "die Freizeitgestaltung planen",
+     "安排业余时间"
+    ],
+    [
+     "abwechslungsreiche Freizeitgestaltung",
+     "丰富多样的休闲安排"
+    ]
+   ],
+   "tip": "只用单数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Freizeitpark",
+  "art": "der",
+  "pl_full": "die Freizeitparks",
+  "pos": "n",
+  "zh": "游乐园",
+  "ex": [
+   "Am Wochenende fahren wir mit den Kindern in einen Freizeitpark."
+  ],
+  "ex_zh": "周末我们带孩子去游乐园。",
+  "use": {
+   "col": [
+    [
+     "einen Freizeitpark besuchen",
+     "逛游乐园"
+    ],
+    [
+     "der Eintritt in den Freizeitpark",
+     "游乐园门票"
+    ]
+   ],
+   "tip": "著名的有 Europa-Park"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Sauna",
+  "art": "die",
+  "pl_full": "die Saunen",
+  "pos": "n",
+  "zh": "桑拿",
+  "ex": [
+   "Nach dem Training gehe ich gern in die Sauna."
+  ],
+  "ex_zh": "训练之后我喜欢去桑拿。",
+  "use": {
+   "col": [
+    [
+     "in die Sauna gehen",
+     "去桑拿"
+    ],
+    [
+     "eine finnische Sauna",
+     "芬兰式桑拿"
+    ]
+   ],
+   "tip": "复数 Saunen 或 Saunas；德国桑拿多为裸体"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kurzurlaub",
+  "art": "der",
+  "pl_full": "die Kurzurlaube",
+  "pos": "n",
+  "zh": "短途假期",
+  "ex": [
+   "Über das lange Wochenende haben wir einen Kurzurlaub an der Ostsee gemacht."
+  ],
+  "ex_zh": "在长周末我们去波罗的海边度了个短假。",
+  "use": {
+   "col": [
+    [
+     "einen Kurzurlaub machen",
+     "度个短假"
+    ],
+    [
+     "ein Kurzurlaub zu zweit",
+     "两个人的短假"
+    ]
+   ],
+   "tip": "比 Urlaub 短，几天即可"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Städtereise",
+  "art": "die",
+  "pl_full": "die Städtereisen",
+  "pos": "n",
+  "zh": "城市游",
+  "ex": [
+   "Eine Städtereise nach Wien kostet mit dem Zug nicht viel."
+  ],
+  "ex_zh": "坐火车去维也纳城市游花费不多。",
+  "use": {
+   "col": [
+    [
+     "eine Städtereise buchen",
+     "预订城市游"
+    ],
+    [
+     "eine Städtereise unternehmen",
+     "进行城市游"
+    ]
+   ],
+   "tip": "复数 Städtereisen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Rundreise",
+  "art": "die",
+  "pl_full": "die Rundreisen",
+  "pos": "n",
+  "zh": "环线旅行；周游",
+  "ex": [
+   "Wir haben eine zweiwöchige Rundreise durch Süddeutschland gebucht."
+  ],
+  "ex_zh": "我们订了一趟为期两周的南德环线旅行。",
+  "use": {
+   "col": [
+    [
+     "eine Rundreise durch + Akk.",
+     "周游……"
+    ],
+    [
+     "eine Rundreise machen",
+     "进行环线旅行"
+    ]
+   ],
+   "tip": "和 Rundfahrt（短途环游）相比更长"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Pauschalreise",
+  "art": "die",
+  "pl_full": "die Pauschalreisen",
+  "pos": "n",
+  "zh": "包价旅游",
+  "ex": [
+   "Bei einer Pauschalreise sind Flug und Hotel im Preis enthalten."
+  ],
+  "ex_zh": "包价旅游的价格里包含机票和酒店。",
+  "use": {
+   "col": [
+    [
+     "eine Pauschalreise buchen",
+     "订包价旅游"
+    ],
+    [
+     "die Pauschalreise stornieren",
+     "取消包价旅游"
+    ]
+   ],
+   "tip": "对立：Individualreise 自由行"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Reiseziel",
+  "art": "das",
+  "pl_full": "die Reiseziele",
+  "pos": "n",
+  "zh": "旅行目的地",
+  "ex": [
+   "Spanien ist bei Deutschen noch immer das beliebteste Reiseziel."
+  ],
+  "ex_zh": "西班牙仍然是德国人最爱去的旅行目的地。",
+  "use": {
+   "col": [
+    [
+     "ein beliebtes Reiseziel",
+     "热门目的地"
+    ],
+    [
+     "ein Reiseziel auswählen",
+     "选择目的地"
+    ]
+   ],
+   "tip": "Ziel 的复合词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Reiseveranstalter",
+  "art": "der",
+  "pl_full": "die Reiseveranstalter",
+  "pos": "n",
+  "zh": "旅游公司；旅行社（组团方）",
+  "ex": [
+   "Der Reiseveranstalter hat die Reise wegen zu weniger Teilnehmer abgesagt."
+  ],
+  "ex_zh": "因为参加人数太少，旅行社取消了这次旅行。",
+  "use": {
+   "col": [
+    [
+     "ein seriöser Reiseveranstalter",
+     "靠谱的旅行社"
+    ],
+    [
+     "beim Reiseveranstalter buchen",
+     "通过旅行社预订"
+    ]
+   ],
+   "tip": "和 Reisebüro（门店）有别"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Reisepass",
+  "art": "der",
+  "pl_full": "die Reisepässe",
+  "pos": "n",
+  "zh": "护照",
+  "ex": [
+   "Ihr Reisepass muss bei der Einreise noch mindestens sechs Monate gültig sein."
+  ],
+  "ex_zh": "入境时您的护照必须至少还有六个月有效期。",
+  "use": {
+   "col": [
+    [
+     "den Reisepass beantragen",
+     "申请护照"
+    ],
+    [
+     "der Reisepass läuft ab",
+     "护照到期"
+    ]
+   ],
+   "tip": "简称 Pass；复数变音：Reisepässe"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Reiseroute",
+  "art": "die",
+  "pl_full": "die Reiserouten",
+  "pos": "n",
+  "zh": "旅行路线",
+  "ex": [
+   "Wir haben die Reiseroute so geplant, dass wir viele Städte sehen können."
+  ],
+  "ex_zh": "我们这样规划了旅行路线，能看到很多城市。",
+  "use": {
+   "col": [
+    [
+     "die Reiseroute planen",
+     "规划路线"
+    ],
+    [
+     "eine Reiseroute festlegen",
+     "确定路线"
+    ]
+   ],
+   "tip": "Route 的复合词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Reiseleiter",
+  "art": "der",
+  "pl_full": "die Reiseleiter",
+  "pos": "n",
+  "zh": "导游；领队",
+  "ex": [
+   "Der Reiseleiter erklärte uns die Geschichte der Burg."
+  ],
+  "ex_zh": "领队给我们讲解了这座城堡的历史。",
+  "use": {
+   "col": [
+    [
+     "ein erfahrener Reiseleiter",
+     "经验丰富的领队"
+    ],
+    [
+     "der Reiseleiter der Gruppe",
+     "旅行团领队"
+    ]
+   ],
+   "tip": "女性：die Reiseleiterin；Fremdenführer 指当地导游"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Stadtführung",
+  "art": "die",
+  "pl_full": "die Stadtführungen",
+  "pos": "n",
+  "zh": "城市导览",
+  "ex": [
+   "Am Samstag nehmen wir an einer Stadtführung durch die Altstadt teil."
+  ],
+  "ex_zh": "周六我们参加老城的城市导览。",
+  "use": {
+   "col": [
+    [
+     "an einer Stadtführung teilnehmen",
+     "参加城市导览"
+    ],
+    [
+     "eine Stadtführung buchen",
+     "预订城市导览"
+    ]
+   ],
+   "tip": "Führung 的复合词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fernweh",
+  "art": "das",
+  "pos": "n",
+  "zh": "对远方的向往",
+  "ex": [
+   "Im Winter bekomme ich oft Fernweh und möchte am liebsten nach Südostasien reisen."
+  ],
+  "ex_zh": "冬天我常常向往远方，真想去东南亚旅行。",
+  "use": {
+   "col": [
+    [
+     "Fernweh haben",
+     "向往远方"
+    ],
+    [
+     "vom Fernweh gepackt werden",
+     "被远行的念头抓住"
+    ]
+   ],
+   "tip": "反义：Heimweh；只有单数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Urlauber",
+  "art": "der",
+  "pl_full": "die Urlauber",
+  "pos": "n",
+  "zh": "度假者",
+  "ex": [
+   "Im Sommer sind die Strände voller Urlauber aus ganz Europa."
+  ],
+  "ex_zh": "夏天海滩上挤满了来自整个欧洲的度假者。",
+  "use": {
+   "col": [
+    [
+     "Urlauber aus dem Ausland",
+     "外国度假者"
+    ],
+    [
+     "die Urlauber am Strand",
+     "海滩上的度假者"
+    ]
+   ],
+   "tip": "女性：die Urlauberin；更口语说 Tourist"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Ferienwohnung",
+  "art": "die",
+  "pl_full": "die Ferienwohnungen",
+  "pos": "n",
+  "zh": "度假公寓",
+  "ex": [
+   "Wir haben für zwei Wochen eine Ferienwohnung in den Alpen gemietet."
+  ],
+  "ex_zh": "我们在阿尔卑斯山租了两周的度假公寓。",
+  "use": {
+   "col": [
+    [
+     "eine Ferienwohnung mieten",
+     "租度假公寓"
+    ],
+    [
+     "eine Ferienwohnung buchen",
+     "预订度假公寓"
+    ]
+   ],
+   "tip": "比酒店便宜，可自己做饭"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Hochsaison",
+  "art": "die",
+  "pos": "n",
+  "zh": "旺季",
+  "ex": [
+   "In der Hochsaison sind die Hotels an der Küste oft komplett ausgebucht."
+  ],
+  "ex_zh": "旺季时海边的酒店经常全部订满。",
+  "use": {
+   "col": [
+    [
+     "in der Hochsaison",
+     "在旺季"
+    ],
+    [
+     "außerhalb der Hochsaison",
+     "淡季"
+    ]
+   ],
+   "tip": "对立：Nebensaison、Nachsaison"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zwischenstopp",
+  "art": "der",
+  "pl_full": "die Zwischenstopps",
+  "pos": "n",
+  "zh": "中途停留；经停",
+  "ex": [
+   "Auf dem Weg nach Peking haben wir einen Zwischenstopp in Frankfurt."
+  ],
+  "ex_zh": "去北京的路上我们在法兰克福经停。",
+  "use": {
+   "col": [
+    [
+     "einen Zwischenstopp einlegen",
+     "中途停一下"
+    ],
+    [
+     "mit Zwischenstopp in + Dat.",
+     "在……经停"
+    ]
+   ],
+   "tip": "复数 Zwischenstopps"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fluggesellschaft",
+  "art": "die",
+  "pl_full": "die Fluggesellschaften",
+  "pos": "n",
+  "zh": "航空公司",
+  "ex": [
+   "Die Fluggesellschaft hat meinen Koffer leider verloren."
+  ],
+  "ex_zh": "航空公司很遗憾把我的行李箱弄丢了。",
+  "use": {
+   "col": [
+    [
+     "eine Fluggesellschaft wählen",
+     "选择航空公司"
+    ],
+    [
+     "eine günstige Fluggesellschaft",
+     "廉价航空公司"
+    ]
+   ],
+   "tip": "也说 Airline"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Handgepäck",
+  "art": "das",
+  "pos": "n",
+  "zh": "随身行李",
+  "ex": [
+   "Als Handgepäck darf man nur einen kleinen Koffer mit in die Kabine nehmen."
+  ],
+  "ex_zh": "随身行李只允许带一个小箱子进机舱。",
+  "use": {
+   "col": [
+    [
+     "nur mit Handgepäck reisen",
+     "只带随身行李旅行"
+    ],
+    [
+     "das Handgepäck kontrollieren",
+     "检查随身行李"
+    ]
+   ],
+   "tip": "只有单数；Gepäck 是行李总称"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Mietwagen",
+  "art": "der",
+  "pl_full": "die Mietwagen",
+  "pos": "n",
+  "zh": "租来的车",
+  "ex": [
+   "Für die Rundreise durch Island haben wir einen Mietwagen genommen."
+  ],
+  "ex_zh": "为了环游冰岛，我们租了一辆车。",
+  "use": {
+   "col": [
+    [
+     "einen Mietwagen buchen",
+     "订租车"
+    ],
+    [
+     "den Mietwagen zurückgeben",
+     "还车"
+    ]
+   ],
+   "tip": "复数同形；租车公司：die Autovermietung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Wohnmobil",
+  "art": "das",
+  "pl_full": "die Wohnmobile",
+  "pos": "n",
+  "zh": "房车",
+  "ex": [
+   "Mit dem Wohnmobil sind wir im Sommer durch Norwegen gefahren."
+  ],
+  "ex_zh": "夏天我们开着房车游遍了挪威。",
+  "use": {
+   "col": [
+    [
+     "ein Wohnmobil mieten",
+     "租房车"
+    ],
+    [
+     "im Wohnmobil übernachten",
+     "住在房车里"
+    ]
+   ],
+   "tip": "简称 WoMo；比 Wohnwagen（拖挂）更像一台完整的车"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Campingplatz",
+  "art": "der",
+  "pl_full": "die Campingplätze",
+  "pos": "n",
+  "zh": "露营地",
+  "ex": [
+   "Der Campingplatz liegt direkt am See und hat eine eigene Badestelle."
+  ],
+  "ex_zh": "这个露营地就在湖边，有自己的游泳区。",
+  "use": {
+   "col": [
+    [
+     "auf einem Campingplatz übernachten",
+     "在露营地过夜"
+    ],
+    [
+     "einen Platz auf dem Campingplatz reservieren",
+     "预订露营位"
+    ]
+   ],
+   "tip": "复数变音：Campingplätze"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Lagerfeuer",
+  "art": "das",
+  "pl_full": "die Lagerfeuer",
+  "pos": "n",
+  "zh": "营火",
+  "ex": [
+   "Am Abend haben wir am Lagerfeuer Würstchen gegrillt und gesungen."
+  ],
+  "ex_zh": "晚上我们在营火边烤香肠、唱歌。",
+  "use": {
+   "col": [
+    [
+     "ein Lagerfeuer machen",
+     "生营火"
+    ],
+    [
+     "am Lagerfeuer sitzen",
+     "坐在营火边"
+    ]
+   ],
+   "tip": "单复数同形"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Ausblick",
+  "art": "der",
+  "pl_full": "die Ausblicke",
+  "pos": "n",
+  "zh": "景色；展望",
+  "ex": [
+   "Vom Balkon aus hat man einen wunderschönen Ausblick auf die Berge."
+  ],
+  "ex_zh": "从阳台望出去，是美丽的山景。",
+  "use": {
+   "senses": [
+    "（眼前的）景色",
+    "（对未来的）展望"
+   ],
+   "col": [
+    [
+     "ein Ausblick auf + Akk.",
+     "对……的视野/展望"
+    ],
+    [
+     "ein herrlicher Ausblick",
+     "极好的景色"
+    ]
+   ],
+   "tip": "也指对未来的展望"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Aussichtspunkt",
+  "art": "der",
+  "pl_full": "die Aussichtspunkte",
+  "pos": "n",
+  "zh": "观景点",
+  "ex": [
+   "Vom Aussichtspunkt aus kann man die ganze Stadt überblicken."
+  ],
+  "ex_zh": "从观景点可以俯瞰整座城市。",
+  "use": {
+   "col": [
+    [
+     "zum Aussichtspunkt wandern",
+     "徒步到观景点"
+    ],
+    [
+     "ein beliebter Aussichtspunkt",
+     "热门观景点"
+    ]
+   ],
+   "tip": "也说 Aussichtsplattform"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Wahrzeichen",
+  "art": "das",
+  "pl_full": "die Wahrzeichen",
+  "pos": "n",
+  "zh": "地标；象征",
+  "ex": [
+   "Das Brandenburger Tor ist das bekannteste Wahrzeichen von Berlin."
+  ],
+  "ex_zh": "勃兰登堡门是柏林最著名的地标。",
+  "use": {
+   "col": [
+    [
+     "das Wahrzeichen der Stadt",
+     "城市的地标"
+    ],
+    [
+     "ein Wahrzeichen sein",
+     "是地标"
+    ]
+   ],
+   "tip": "单复数同形"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Ausflugsziel",
+  "art": "das",
+  "pl_full": "die Ausflugsziele",
+  "pos": "n",
+  "zh": "郊游目的地",
+  "ex": [
+   "Der Schwarzwald ist ein beliebtes Ausflugsziel für Familien."
+  ],
+  "ex_zh": "黑森林是家庭很爱去的郊游目的地。",
+  "use": {
+   "col": [
+    [
+     "ein beliebtes Ausflugsziel",
+     "热门郊游地"
+    ],
+    [
+     "ein Ausflugsziel in der Nähe",
+     "附近的郊游地"
+    ]
+   ],
+   "tip": "Ausflug + Ziel"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Wanderweg",
+  "art": "der",
+  "pl_full": "die Wanderwege",
+  "pos": "n",
+  "zh": "徒步路线",
+  "ex": [
+   "Der Wanderweg ist gut markiert und auch für Anfänger geeignet."
+  ],
+  "ex_zh": "这条徒步路线标识清楚，新手也适合。",
+  "use": {
+   "col": [
+    [
+     "einem Wanderweg folgen",
+     "沿着徒步路线走"
+    ],
+    [
+     "ein markierter Wanderweg",
+     "有标记的徒步路线"
+    ]
+   ],
+   "tip": "复数 Wanderwege"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Radtour",
+  "art": "die",
+  "pl_full": "die Radtouren",
+  "pos": "n",
+  "zh": "骑行旅行",
+  "ex": [
+   "Letzten Sommer haben wir eine Radtour entlang der Donau gemacht."
+  ],
+  "ex_zh": "去年夏天我们沿着多瑙河骑行了一趟。",
+  "use": {
+   "col": [
+    [
+     "eine Radtour machen",
+     "骑车游"
+    ],
+    [
+     "eine Radtour planen",
+     "计划骑行旅行"
+    ]
+   ],
+   "tip": "也说 Fahrradtour"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Kreuzfahrt",
+  "art": "die",
+  "pl_full": "die Kreuzfahrten",
+  "pos": "n",
+  "zh": "邮轮旅行",
+  "ex": [
+   "Eine Kreuzfahrt im Mittelmeer ist für viele Rentner ein Traum."
+  ],
+  "ex_zh": "地中海邮轮旅行是很多退休者的梦想。",
+  "use": {
+   "col": [
+    [
+     "eine Kreuzfahrt buchen",
+     "预订邮轮旅行"
+    ],
+    [
+     "an einer Kreuzfahrt teilnehmen",
+     "参加邮轮旅行"
+    ]
+   ],
+   "tip": "Kreuzfahrtschiff 是邮轮"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Andenken",
+  "art": "das",
+  "pl_full": "die Andenken",
+  "pos": "n",
+  "zh": "纪念品；回忆",
+  "ex": [
+   "Als Andenken habe ich mir eine kleine Tasse aus Salzburg mitgebracht."
+  ],
+  "ex_zh": "作为纪念，我从萨尔茨堡带回了一个小杯子。",
+  "use": {
+   "col": [
+    [
+     "ein Andenken an + Akk.",
+     "对……的纪念品"
+    ],
+    [
+     "zum Andenken",
+     "作为纪念"
+    ]
+   ],
+   "tip": "和 Souvenir 近义；zum Andenken an …"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gastgeber",
+  "art": "der",
+  "pl_full": "die Gastgeber",
+  "pos": "n",
+  "zh": "主人；东道主",
+  "ex": [
+   "Die Gastgeber haben uns herzlich empfangen und sofort etwas zu essen angeboten."
+  ],
+  "ex_zh": "主人热情地接待了我们，立刻拿出吃的。",
+  "use": {
+   "col": [
+    [
+     "ein freundlicher Gastgeber",
+     "友好的主人"
+    ],
+    [
+     "die Gastgeber der Veranstaltung",
+     "活动的主办方"
+    ]
+   ],
+   "tip": "女性：die Gastgeberin；也指赛事主办国"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Einheimische",
+  "art": "der",
+  "pl_full": "die Einheimischen",
+  "pos": "n",
+  "zh": "当地人",
+  "ex": [
+   "Die Einheimischen haben uns ein kleines Lokal ohne Touristen empfohlen."
+  ],
+  "ex_zh": "当地人给我们推荐了一家没有游客的小餐馆。",
+  "use": {
+   "col": [
+    [
+     "mit Einheimischen sprechen",
+     "与当地人交谈"
+    ],
+    [
+     "wie die Einheimischen leben",
+     "像当地人一样生活"
+    ]
+   ],
+   "tip": "形容词词尾：ein Einheimischer"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gesellschaftsspiel",
+  "art": "das",
+  "pl_full": "die Gesellschaftsspiele",
+  "pos": "n",
+  "zh": "桌游；团体游戏",
+  "ex": [
+   "Am Winterabend spielen wir gern Gesellschaftsspiele mit der ganzen Familie."
+  ],
+  "ex_zh": "冬天的晚上我们喜欢和全家人一起玩桌游。",
+  "use": {
+   "col": [
+    [
+     "ein Gesellschaftsspiel spielen",
+     "玩桌游"
+    ],
+    [
+     "Gesellschaftsspiele für Erwachsene",
+     "成人桌游"
+    ]
+   ],
+   "tip": "Brettspiel 指棋盘类，Kartenspiel 指纸牌"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fitnessstudio",
+  "art": "das",
+  "pl_full": "die Fitnessstudios",
+  "pos": "n",
+  "zh": "健身房",
+  "ex": [
+   "Ich gehe dreimal pro Woche ins Fitnessstudio, um den Stress abzubauen."
+  ],
+  "ex_zh": "我每周去三次健身房来缓解压力。",
+  "use": {
+   "col": [
+    [
+     "ins Fitnessstudio gehen",
+     "去健身房"
+    ],
+    [
+     "Mitglied im Fitnessstudio",
+     "健身房会员"
+    ]
+   ],
+   "tip": "注意 ss-s 连写：Fitnessstudio"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Mitgliedschaft",
+  "art": "die",
+  "pl_full": "die Mitgliedschaften",
+  "pos": "n",
+  "zh": "会员资格；成员身份",
+  "ex": [
+   "Die Mitgliedschaft im Sportverein kostet zehn Euro im Monat."
+  ],
+  "ex_zh": "体育俱乐部的会员费每月十欧元。",
+  "use": {
+   "col": [
+    [
+     "eine Mitgliedschaft kündigen",
+     "取消会员资格"
+    ],
+    [
+     "die Mitgliedschaft beantragen",
+     "申请会员资格"
+    ]
+   ],
+   "tip": "Mitglied 的名词形式"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Reisewarnung",
+  "art": "die",
+  "pl_full": "die Reisewarnungen",
+  "pos": "n",
+  "zh": "旅行警告",
+  "ex": [
+   "Das Auswärtige Amt hat eine Reisewarnung für das Land ausgesprochen."
+  ],
+  "ex_zh": "外交部对该国发布了旅行警告。",
+  "use": {
+   "col": [
+    [
+     "eine Reisewarnung aussprechen",
+     "发布旅行警告"
+    ],
+    [
+     "eine Reisewarnung beachten",
+     "留意旅行警告"
+    ]
+   ],
+   "tip": "德国由 Auswärtiges Amt 发布"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gastfreundschaft",
+  "art": "die",
+  "pos": "n",
+  "zh": "好客",
+  "ex": [
+   "Die Gastfreundschaft der Menschen dort hat uns sehr beeindruckt."
+  ],
+  "ex_zh": "那里的人们的好客给我们留下了深刻印象。",
+  "use": {
+   "col": [
+    [
+     "große Gastfreundschaft erleben",
+     "感受到很大的热情款待"
+    ],
+    [
+     "die Gastfreundschaft genießen",
+     "享受款待"
+    ]
+   ],
+   "tip": "形容词 gastfreundlich"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zeitvertreib",
+  "art": "der",
+  "pos": "n",
+  "zh": "消遣；打发时间的事",
+  "ex": [
+   "Stricken ist ihr liebster Zeitvertreib am Abend."
+  ],
+  "ex_zh": "织毛衣是她晚上最爱的消遣。",
+  "use": {
+   "col": [
+    [
+     "als Zeitvertreib",
+     "作为消遣"
+    ],
+    [
+     "ein beliebter Zeitvertreib",
+     "受欢迎的消遣"
+    ]
+   ],
+   "tip": "常用单数；Zeit + vertreiben"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Reisebericht",
+  "art": "der",
+  "pl_full": "die Reiseberichte",
+  "pos": "n",
+  "zh": "游记；旅行报道",
+  "ex": [
+   "Auf ihrem Blog veröffentlicht sie regelmäßig Reiseberichte mit vielen Fotos."
+  ],
+  "ex_zh": "她在博客上定期发布配有许多照片的游记。",
+  "use": {
+   "col": [
+    [
+     "einen Reisebericht schreiben",
+     "写游记"
+    ],
+    [
+     "ein Reisebericht über + Akk.",
+     "关于……的游记"
+    ]
+   ],
+   "tip": "Bericht 的复合词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "moderieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "moderiert",
+  "forms": "moderiert, moderierte, hat moderiert",
+  "zh": "主持（节目、会议）",
+  "ex": [
+   "Sie moderiert seit drei Jahren eine Nachrichtensendung im Radio."
+  ],
+  "ex_zh": "她三年来一直在电台主持一档新闻节目。",
+  "use": {
+   "col": [
+    [
+     "eine Sendung moderieren",
+     "主持节目"
+    ],
+    [
+     "eine Diskussion moderieren",
+     "主持讨论"
+    ]
+   ],
+   "tip": "名词 der Moderator；不可分动词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "kommentieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "kommentiert",
+  "forms": "kommentiert, kommentierte, hat kommentiert",
+  "zh": "评论；发表意见",
+  "ex": [
+   "Der Journalist kommentierte die Entscheidung der Regierung sehr kritisch."
+  ],
+  "ex_zh": "这位记者对政府的决定作了非常批评性的评论。",
+  "use": {
+   "col": [
+    [
+     "ein Ereignis kommentieren",
+     "评论一件事"
+    ],
+    [
+     "einen Beitrag kommentieren",
+     "评论一条帖子"
+    ]
+   ],
+   "tip": "名词 der Kommentar"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "zitieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "zitiert",
+  "forms": "zitiert, zitierte, hat zitiert",
+  "zh": "引用",
+  "ex": [
+   "In der Hausarbeit muss man alle Quellen korrekt zitieren."
+  ],
+  "ex_zh": "课程论文里必须正确引用所有资料来源。",
+  "use": {
+   "col": [
+    [
+     "aus einem Buch zitieren",
+     "引用书里的话"
+    ],
+    [
+     "einen Satz zitieren",
+     "引用一句话"
+    ]
+   ],
+   "tip": "名词 das Zitat；不可分动词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "formulieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "formuliert",
+  "forms": "formuliert, formulierte, hat formuliert",
+  "zh": "措辞；表述",
+  "ex": [
+   "Bitte formulieren Sie Ihre Frage etwas genauer."
+  ],
+  "ex_zh": "请您把问题表述得更准确一些。",
+  "use": {
+   "col": [
+    [
+     "einen Satz formulieren",
+     "措辞造句"
+    ],
+    [
+     "eine Antwort höflich formulieren",
+     "礼貌地表述答复"
+    ]
+   ],
+   "tip": "名词 die Formulierung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "andeuten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "angedeutet",
+  "forms": "deutet an, deutete an, hat angedeutet",
+  "zh": "暗示；略微提及",
+  "ex": [
+   "Der Chef hat angedeutet, dass es bald Veränderungen geben wird."
+  ],
+  "ex_zh": "老板暗示不久会有一些变动。",
+  "use": {
+   "col": [
+    [
+     "eine Änderung andeuten",
+     "暗示有变动"
+    ],
+    [
+     "etwas nur andeuten",
+     "只是点到为止"
+    ]
+   ],
+   "tip": "可分动词；名词 die Andeutung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "anspielen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "angespielt",
+  "forms": "spielt an, spielte an, hat angespielt",
+  "zh": "影射；暗指",
+  "ex": [
+   "Sie hat mit ihrer Bemerkung auf meine Verspätung angespielt."
+  ],
+  "ex_zh": "她的那句话是在暗指我迟到了。",
+  "gov": "anspielen auf + Akk.",
+  "use": {
+   "col": [
+    [
+     "auf etwas anspielen",
+     "影射某事"
+    ],
+    [
+     "auf jemanden anspielen",
+     "暗指某人"
+    ]
+   ],
+   "tip": "名词 die Anspielung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich äußern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "geäußert",
+  "forms": "äußert sich, äußerte sich, hat sich geäußert",
+  "zh": "发表意见；表态",
+  "ex": [
+   "Der Minister hat sich zu den Vorwürfen noch nicht geäußert."
+  ],
+  "ex_zh": "部长对这些指控还没有表态。",
+  "gov": "sich äußern zu + Dat.",
+  "use": {
+   "col": [
+    [
+     "sich zu etwas äußern",
+     "就某事表态"
+    ],
+    [
+     "sich kritisch äußern",
+     "批评性地表态"
+    ]
+   ],
+   "tip": "也可作及物动词 etwas äußern"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich verständigen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verständigt",
+  "forms": "verständigt sich, verständigte sich, hat sich verständigt",
+  "zh": "沟通；达成一致",
+  "ex": [
+   "Wir konnten uns mit Händen und Füßen verständigen."
+  ],
+  "ex_zh": "我们靠比手画脚就能沟通。",
+  "gov": "sich verständigen mit + Dat.",
+  "use": {
+   "col": [
+    [
+     "sich mit jemandem verständigen",
+     "与某人沟通"
+    ],
+    [
+     "sich auf etwas verständigen",
+     "就某事达成一致"
+    ]
+   ],
+   "tip": "名词 die Verständigung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich austauschen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ausgetauscht",
+  "forms": "tauscht sich aus, tauschte sich aus, hat sich ausgetauscht",
+  "zh": "交流；交换意见",
+  "ex": [
+   "Auf der Konferenz haben sich viele Fachleute über neue Methoden ausgetauscht."
+  ],
+  "ex_zh": "在会议上，许多专家就新方法进行了交流。",
+  "gov": "sich austauschen über + Akk.",
+  "use": {
+   "col": [
+    [
+     "sich über etwas austauschen",
+     "就某事交流"
+    ],
+    [
+     "sich mit Kollegen austauschen",
+     "与同事交流"
+    ]
+   ],
+   "tip": "可分动词；名词 der Austausch"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "erwähnen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "erwähnt",
+  "forms": "erwähnt, erwähnte, hat erwähnt",
+  "zh": "提到；提及",
+  "ex": [
+   "Er hat in seiner Rede mit keinem Wort die Probleme erwähnt."
+  ],
+  "ex_zh": "他在讲话中一个字都没有提到这些问题。",
+  "use": {
+   "col": [
+    [
+     "etwas am Rande erwähnen",
+     "顺带提到某事"
+    ],
+    [
+     "nicht erwähnenswert",
+     "不值一提"
+    ]
+   ],
+   "tip": "名词 die Erwähnung；不可分动词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "betonen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "betont",
+  "forms": "betont, betonte, hat betont",
+  "zh": "强调；重读",
+  "ex": [
+   "Die Lehrerin betonte, dass pünktliches Erscheinen sehr wichtig sei."
+  ],
+  "ex_zh": "老师强调准时到场非常重要。",
+  "use": {
+   "col": [
+    [
+     "etwas ausdrücklich betonen",
+     "明确强调某事"
+    ],
+    [
+     "eine Silbe betonen",
+     "重读一个音节"
+    ]
+   ],
+   "tip": "名词 die Betonung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "hervorheben",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "hervorgehoben",
+  "forms": "hebt hervor, hob hervor, hat hervorgehoben",
+  "zh": "突出；强调",
+  "ex": [
+   "In der Bewerbung sollte man die eigenen Stärken deutlich hervorheben."
+  ],
+  "ex_zh": "申请材料里应当明显地突出自己的优势。",
+  "use": {
+   "col": [
+    [
+     "Vorteile hervorheben",
+     "突出优点"
+    ],
+    [
+     "etwas farbig hervorheben",
+     "用颜色标出某物"
+    ]
+   ],
+   "tip": "可分动词；比 betonen 更强调视觉或内容突出"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "einwenden",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingewendet",
+  "forms": "wendet ein, wendete ein, hat eingewendet",
+  "zh": "提出异议",
+  "ex": [
+   "Er wendete ein, dass der Plan zu teuer sei."
+  ],
+  "ex_zh": "他提出异议，认为这个计划太贵了。",
+  "gov": "einwenden gegen + Akk.",
+  "use": {
+   "col": [
+    [
+     "etwas gegen einen Vorschlag einwenden",
+     "对建议提出异议"
+    ],
+    [
+     "nichts einzuwenden haben",
+     "没有异议"
+    ]
+   ],
+   "tip": "可分动词；名词 der Einwand"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "entgegnen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "entgegnet",
+  "forms": "entgegnet, entgegnete, hat entgegnet",
+  "zh": "回答；反驳",
+  "ex": [
+   "Auf meinen Vorwurf entgegnete sie ruhig, dass alles ein Missverständnis sei."
+  ],
+  "ex_zh": "对于我的指责，她平静地回答说这一切都是误会。",
+  "use": {
+   "col": [
+    [
+     "scharf entgegnen",
+     "尖锐地回应"
+    ],
+    [
+     "darauf entgegnete er nichts",
+     "对此他没有回应"
+    ]
+   ],
+   "tip": "不可分动词；多用于引语之后"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "erwidern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "erwidert",
+  "forms": "erwidert, erwiderte, hat erwidert",
+  "zh": "回答；回应",
+  "ex": [
+   "Er erwiderte, dass er das Problem schon längst gekannt habe."
+  ],
+  "ex_zh": "他回答说，他早就知道这个问题了。",
+  "use": {
+   "col": [
+    [
+     "freundlich erwidern",
+     "友好地回答"
+    ],
+    [
+     "einen Gruß erwidern",
+     "回礼"
+    ]
+   ],
+   "tip": "不可分动词；也可表示回报感情、问候"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "bestreiten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bestritten",
+  "forms": "bestreitet, bestritt, hat bestritten",
+  "zh": "否认；争辩；承担（费用）",
+  "ex": [
+   "Der Angeklagte bestreitet, die Tat begangen zu haben."
+  ],
+  "ex_zh": "被告否认犯下了这起罪行。",
+  "use": {
+   "senses": [
+    "否认、驳斥",
+    "（费用）承担"
+   ],
+   "col": [
+    [
+     "eine Behauptung bestreiten",
+     "否认一种说法"
+    ],
+    [
+     "die Kosten bestreiten",
+     "承担费用"
+    ]
+   ],
+   "tip": "不可分动词；比 leugnen 更常用"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "nachfragen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "nachgefragt",
+  "forms": "fragt nach, fragte nach, hat nachgefragt",
+  "zh": "追问；询问",
+  "ex": [
+   "Wenn Sie etwas nicht verstehen, fragen Sie bitte einfach nach."
+  ],
+  "ex_zh": "如果有什么不懂，请直接追问。",
+  "use": {
+   "col": [
+    [
+     "bei jemandem nachfragen",
+     "向某人询问"
+    ],
+    [
+     "höflich nachfragen",
+     "礼貌地询问"
+    ]
+   ],
+   "tip": "可分动词；名词 die Nachfrage"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "schildern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "geschildert",
+  "forms": "schildert, schilderte, hat geschildert",
+  "zh": "描述；叙述",
+  "ex": [
+   "Der Zeuge schilderte den Unfall in allen Einzelheiten."
+  ],
+  "ex_zh": "证人详细地描述了事故的经过。",
+  "use": {
+   "col": [
+    [
+     "ein Erlebnis schildern",
+     "讲述一次经历"
+    ],
+    [
+     "den Hergang schildern",
+     "描述经过"
+    ]
+   ],
+   "tip": "名词 die Schilderung；比 beschreiben 更生动"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "erläutern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "erläutert",
+  "forms": "erläutert, erläuterte, hat erläutert",
+  "zh": "详细说明；阐释",
+  "ex": [
+   "Der Professor erläuterte die Theorie anhand eines Beispiels."
+  ],
+  "ex_zh": "教授用一个例子详细讲解了这个理论。",
+  "use": {
+   "col": [
+    [
+     "einen Plan erläutern",
+     "详细说明计划"
+    ],
+    [
+     "etwas näher erläutern",
+     "进一步说明某事"
+    ]
+   ],
+   "tip": "名词 die Erläuterung；比 erklären 更书面"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "plaudern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "geplaudert",
+  "forms": "plaudert, plauderte, hat geplaudert",
+  "zh": "闲聊",
+  "ex": [
+   "Wir haben bis spät in die Nacht bei einem Glas Wein geplaudert."
+  ],
+  "ex_zh": "我们喝着酒聊到深夜。",
+  "use": {
+   "col": [
+    [
+     "mit jemandem plaudern",
+     "与某人闲聊"
+    ],
+    [
+     "über Gott und die Welt plaudern",
+     "天南地北地闲聊"
+    ]
+   ],
+   "tip": "口语偏亲切；名词 das Plauderstündchen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "tratschen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "getratscht",
+  "forms": "tratscht, tratschte, hat getratscht",
+  "zh": "说闲话；八卦",
+  "ex": [
+   "Die Nachbarn tratschen gern über andere Leute im Haus."
+  ],
+  "ex_zh": "邻居们爱议论楼里的其他人。",
+  "use": {
+   "col": [
+    [
+     "über andere tratschen",
+     "说别人闲话"
+    ],
+    [
+     "im Treppenhaus tratschen",
+     "在楼梯间聊八卦"
+    ]
+   ],
+   "tip": "口语；名词 der Tratsch"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "ausstrahlen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ausgestrahlt",
+  "forms": "strahlt aus, strahlte aus, hat ausgestrahlt",
+  "zh": "播出；散发",
+  "ex": [
+   "Der Sender strahlt die Serie jeden Dienstag um 20.15 Uhr aus."
+  ],
+  "ex_zh": "电视台每周二晚上八点十五分播出这部剧集。",
+  "use": {
+   "senses": [
+    "（节目）播出",
+    "（情绪、气质）散发"
+   ],
+   "col": [
+    [
+     "eine Sendung ausstrahlen",
+     "播出节目"
+    ],
+    [
+     "Ruhe ausstrahlen",
+     "散发出平静"
+    ]
+   ],
+   "tip": "可分动词；名词 die Ausstrahlung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "übertragen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "übertragen",
+  "forms": "überträgt, übertrug, hat übertragen",
+  "zh": "转播；传染；转移",
+  "ex": [
+   "Das Fußballspiel wird live im Fernsehen übertragen."
+  ],
+  "ex_zh": "这场足球赛在电视上直播。",
+  "use": {
+   "senses": [
+    "（节目）转播",
+    "（疾病）传染",
+    "（职责）转交"
+   ],
+   "col": [
+    [
+     "live übertragen",
+     "直播"
+    ],
+    [
+     "eine Krankheit übertragen",
+     "传播疾病"
+    ]
+   ],
+   "tip": "不可分动词；名词 die Übertragung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "recherchieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "recherchiert",
+  "forms": "recherchiert, recherchierte, hat recherchiert",
+  "zh": "调查；查证",
+  "ex": [
+   "Die Reporterin hat monatelang über den Fall recherchiert."
+  ],
+  "ex_zh": "这位记者为这个案子调查了好几个月。",
+  "use": {
+   "col": [
+    [
+     "gründlich recherchieren",
+     "深入调查"
+    ],
+    [
+     "im Internet recherchieren",
+     "在网上查资料"
+    ]
+   ],
+   "tip": "名词 die Recherche；不可分动词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verbreiten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verbreitet",
+  "forms": "verbreitet, verbreitete, hat verbreitet",
+  "zh": "传播；散布",
+  "ex": [
+   "In sozialen Netzwerken werden oft Falschmeldungen verbreitet."
+  ],
+  "ex_zh": "社交网络上经常传播假消息。",
+  "use": {
+   "col": [
+    [
+     "ein Gerücht verbreiten",
+     "散布谣言"
+    ],
+    [
+     "sich schnell verbreiten",
+     "迅速传播"
+    ]
+   ],
+   "tip": "sich verbreiten：传开；名词 Verbreitung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verfassen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verfasst",
+  "forms": "verfasst, verfasste, hat verfasst",
+  "zh": "撰写；起草",
+  "ex": [
+   "Sie hat einen langen Brief an die Stadtverwaltung verfasst."
+  ],
+  "ex_zh": "她给市政府写了一封很长的信。",
+  "use": {
+   "col": [
+    [
+     "einen Brief verfassen",
+     "写信"
+    ],
+    [
+     "einen Text verfassen",
+     "撰写文本"
+    ]
+   ],
+   "tip": "不可分动词；名词 der Verfasser；比 schreiben 更正式"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "applaudieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "applaudiert",
+  "forms": "applaudiert, applaudierte, hat applaudiert",
+  "zh": "鼓掌",
+  "ex": [
+   "Das Publikum applaudierte minutenlang, als die Sängerin auf die Bühne kam."
+  ],
+  "ex_zh": "女歌手一上台，观众就鼓掌了好几分钟。",
+  "use": {
+   "col": [
+    [
+     "jemandem applaudieren",
+     "为某人鼓掌"
+    ],
+    [
+     "begeistert applaudieren",
+     "热烈鼓掌"
+    ]
+   ],
+   "tip": "接与格；名词 der Applaus"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "inszenieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "inszeniert",
+  "forms": "inszeniert, inszenierte, hat inszeniert",
+  "zh": "导演；刻意营造",
+  "ex": [
+   "Der Regisseur hat das Drama sehr modern inszeniert."
+  ],
+  "ex_zh": "导演把这出戏剧处理得非常现代。",
+  "use": {
+   "col": [
+    [
+     "ein Stück inszenieren",
+     "导演一部剧"
+    ],
+    [
+     "sich selbst inszenieren",
+     "刻意包装自己"
+    ]
+   ],
+   "tip": "名词 die Inszenierung；不可分动词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "komponieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "komponiert",
+  "forms": "komponiert, komponierte, hat komponiert",
+  "zh": "作曲",
+  "ex": [
+   "Mozart hat schon als Kind seine ersten Stücke komponiert."
+  ],
+  "ex_zh": "莫扎特还是孩子时就谱写了他最早的曲子。",
+  "use": {
+   "col": [
+    [
+     "ein Lied komponieren",
+     "作一首歌"
+    ],
+    [
+     "eine Oper komponieren",
+     "创作歌剧"
+    ]
+   ],
+   "tip": "名词 der Komponist；不可分动词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verfilmen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verfilmt",
+  "forms": "verfilmt, verfilmte, hat verfilmt",
+  "zh": "改编成电影",
+  "ex": [
+   "Der Roman wurde schon zweimal verfilmt, zuletzt im Jahr 2019."
+  ],
+  "ex_zh": "这部小说已经被改编成电影两次了，最近一次是在2019年。",
+  "use": {
+   "col": [
+    [
+     "einen Roman verfilmen",
+     "把小说拍成电影"
+    ],
+    [
+     "ein Buch verfilmen",
+     "把书改编成电影"
+    ]
+   ],
+   "tip": "名词 die Verfilmung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "stornieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "storniert",
+  "forms": "storniert, stornierte, hat storniert",
+  "zh": "取消（订单、预订）",
+  "ex": [
+   "Leider mussten wir die Reise wegen Krankheit stornieren."
+  ],
+  "ex_zh": "很遗憾，我们因为生病不得不取消这次旅行。",
+  "use": {
+   "col": [
+    [
+     "eine Buchung stornieren",
+     "取消预订"
+    ],
+    [
+     "kostenlos stornieren",
+     "免费取消"
+    ]
+   ],
+   "tip": "名词 die Stornierung；酒店、机票常用"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "umbuchen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "umgebucht",
+  "forms": "bucht um, buchte um, hat umgebucht",
+  "zh": "改签；改订",
+  "ex": [
+   "Können Sie meinen Flug auf den nächsten Tag umbuchen?"
+  ],
+  "ex_zh": "您能把我的航班改签到第二天吗？",
+  "gov": "umbuchen auf + Akk.",
+  "use": {
+   "col": [
+    [
+     "einen Flug umbuchen",
+     "改签航班"
+    ],
+    [
+     "auf einen anderen Termin umbuchen",
+     "改到别的日期"
+    ]
+   ],
+   "tip": "可分动词；名词 die Umbuchung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "einchecken",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingecheckt",
+  "forms": "checkt ein, checkte ein, hat eingecheckt",
+  "zh": "办理登记手续（机场、酒店）",
+  "ex": [
+   "Wir müssen spätestens zwei Stunden vor dem Abflug einchecken."
+  ],
+  "ex_zh": "我们最迟要在起飞前两小时办理登机手续。",
+  "use": {
+   "col": [
+    [
+     "im Hotel einchecken",
+     "办理入住"
+    ],
+    [
+     "online einchecken",
+     "在线值机"
+    ]
+   ],
+   "tip": "可分动词；反义：auschecken"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "bummeln",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "gebummelt",
+  "forms": "bummelt, bummelte, ist gebummelt",
+  "zh": "逛街；闲逛",
+  "ex": [
+   "Am Sonntag sind wir gemütlich durch die Altstadt gebummelt."
+  ],
+  "ex_zh": "星期天我们悠闲地逛了老城。",
+  "use": {
+   "col": [
+    [
+     "durch die Stadt bummeln",
+     "逛街"
+    ],
+    [
+     "durch die Geschäfte bummeln",
+     "逛商店"
+    ]
+   ],
+   "tip": "带方向时用 sein；名词 der Stadtbummel"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "schlendern",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "geschlendert",
+  "forms": "schlendert, schlenderte, ist geschlendert",
+  "zh": "漫步；溜达",
+  "ex": [
+   "Nach dem Essen schlenderten wir noch am Fluss entlang."
+  ],
+  "ex_zh": "吃完饭后我们又沿着河边漫步。",
+  "use": {
+   "col": [
+    [
+     "durch die Straßen schlendern",
+     "在街上闲逛"
+    ],
+    [
+     "am Ufer schlendern",
+     "在岸边漫步"
+    ]
+   ],
+   "tip": "比 bummeln 更强调不紧不慢地走"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "aufbrechen",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "aufgebrochen",
+  "forms": "bricht auf, brach auf, ist aufgebrochen",
+  "zh": "出发；启程；撬开",
+  "ex": [
+   "Wir sind früh am Morgen zu einer langen Wanderung aufgebrochen."
+  ],
+  "ex_zh": "我们一大早出发去长途徒步。",
+  "use": {
+   "senses": [
+    "出发、动身",
+    "撬开、弄开"
+   ],
+   "col": [
+    [
+     "zu einer Reise aufbrechen",
+     "启程旅行"
+    ],
+    [
+     "früh aufbrechen",
+     "早点出发"
+    ]
+   ],
+   "tip": "表示出发时用 sein；撬开时用 hat"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "einreisen",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "eingereist",
+  "forms": "reist ein, reiste ein, ist eingereist",
+  "zh": "入境",
+  "ex": [
+   "Ohne gültiges Visum darf man in dieses Land nicht einreisen."
+  ],
+  "ex_zh": "没有有效签证不能进入这个国家。",
+  "gov": "einreisen in + Akk.",
+  "use": {
+   "col": [
+    [
+     "in ein Land einreisen",
+     "入境某国"
+    ],
+    [
+     "illegal einreisen",
+     "非法入境"
+    ]
+   ],
+   "tip": "反义：ausreisen；名词 die Einreise"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "ausreisen",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "ausgereist",
+  "forms": "reist aus, reiste aus, ist ausgereist",
+  "zh": "出境",
+  "ex": [
+   "Er ist vor drei Jahren aus Syrien ausgereist und lebt jetzt in Hamburg."
+  ],
+  "ex_zh": "他三年前离开叙利亚，现在住在汉堡。",
+  "gov": "ausreisen aus + Dat.",
+  "use": {
+   "col": [
+    [
+     "aus einem Land ausreisen",
+     "离开某国"
+    ],
+    [
+     "freiwillig ausreisen",
+     "自愿离境"
+    ]
+   ],
+   "tip": "反义：einreisen；名词 die Ausreise"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "abschalten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgeschaltet",
+  "forms": "schaltet ab, schaltete ab, hat abgeschaltet",
+  "zh": "放松；关掉",
+  "ex": [
+   "Im Urlaub kann ich endlich einmal richtig abschalten."
+  ],
+  "ex_zh": "度假时我终于能好好放松一下了。",
+  "use": {
+   "senses": [
+    "（口语）放松、不去想事",
+    "关掉（设备）"
+   ],
+   "col": [
+    [
+     "vom Alltag abschalten",
+     "从日常中放松"
+    ],
+    [
+     "das Gerät abschalten",
+     "关掉设备"
+    ]
+   ],
+   "tip": "可分动词；口语里表示「放空」"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich entspannen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "entspannt",
+  "forms": "entspannt sich, entspannte sich, hat sich entspannt",
+  "zh": "放松；缓和",
+  "ex": [
+   "Nach der Arbeit entspanne ich mich am liebsten bei ruhiger Musik."
+  ],
+  "ex_zh": "下班后我最喜欢听着轻音乐放松。",
+  "use": {
+   "col": [
+    [
+     "sich beim Lesen entspannen",
+     "读书放松"
+    ],
+    [
+     "die Lage entspannt sich",
+     "局势缓和"
+    ]
+   ],
+   "tip": "形容词 entspannt；名词 die Entspannung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verwöhnen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verwöhnt",
+  "forms": "verwöhnt, verwöhnte, hat verwöhnt",
+  "zh": "宠；款待",
+  "ex": [
+   "Im Wellnesshotel werden die Gäste mit Massagen und gutem Essen verwöhnt."
+  ],
+  "ex_zh": "在康养酒店里，客人享受按摩和美食的款待。",
+  "use": {
+   "col": [
+    [
+     "sich verwöhnen lassen",
+     "享受被款待"
+    ],
+    [
+     "die Kinder verwöhnen",
+     "宠孩子"
+    ]
+   ],
+   "tip": "有时带贬义（宠坏）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "schwärmen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "geschwärmt",
+  "forms": "schwärmt, schwärmte, hat geschwärmt",
+  "zh": "热情称赞；向往",
+  "ex": [
+   "Meine Freundin schwärmt noch immer von ihrem Urlaub in Italien."
+  ],
+  "ex_zh": "我朋友还在对她的意大利之行赞不绝口。",
+  "gov": "schwärmen von + Dat. / für + Akk.",
+  "use": {
+   "col": [
+    [
+     "von etwas schwärmen",
+     "对某事赞不绝口"
+    ],
+    [
+     "für jemanden schwärmen",
+     "倾慕某人"
+    ]
+   ],
+   "tip": "名词 der Schwarm（暗恋对象）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "angeln",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "geangelt",
+  "forms": "angelt, angelte, hat geangelt",
+  "zh": "钓鱼",
+  "ex": [
+   "Mein Opa hat früher jedes Wochenende am See geangelt."
+  ],
+  "ex_zh": "我爷爷以前每个周末都在湖边钓鱼。",
+  "use": {
+   "col": [
+    [
+     "im Fluss angeln",
+     "在河里钓鱼"
+    ],
+    [
+     "nach Forellen angeln",
+     "钓鳟鱼"
+    ]
+   ],
+   "tip": "名词 der Angler、die Angel（鱼竿）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "blättern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "geblättert",
+  "forms": "blättert, blätterte, hat geblättert",
+  "zh": "翻阅",
+  "ex": [
+   "Beim Warten habe ich in einer alten Zeitschrift geblättert."
+  ],
+  "ex_zh": "等的时候，我翻了翻一本旧杂志。",
+  "gov": "blättern in + Dat.",
+  "use": {
+   "col": [
+    [
+     "in einem Buch blättern",
+     "翻书"
+    ],
+    [
+     "durch die Seiten blättern",
+     "翻页"
+    ]
+   ],
+   "tip": "后面常接 in + Dat."
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "schmökern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "geschmökert",
+  "forms": "schmökert, schmökerte, hat geschmökert",
+  "zh": "随意阅读；翻书消遣",
+  "ex": [
+   "Am Sonntag habe ich stundenlang in Büchern geschmökert."
+  ],
+  "ex_zh": "星期天我翻了好几个小时的书。",
+  "use": {
+   "col": [
+    [
+     "in Büchern schmökern",
+     "随意翻书消遣"
+    ],
+    [
+     "im Antiquariat schmökern",
+     "在旧书店里翻书"
+    ]
+   ],
+   "tip": "口语；强调轻松、不带目的地读"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "vortragen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "vorgetragen",
+  "forms": "trägt vor, trug vor, hat vorgetragen",
+  "zh": "朗诵；报告；陈述",
+  "ex": [
+   "Er trug ein Gedicht von Rilke vor."
+  ],
+  "ex_zh": "他朗诵了一首里尔克的诗。",
+  "use": {
+   "col": [
+    [
+     "ein Gedicht vortragen",
+     "朗诵诗"
+    ],
+    [
+     "ein Anliegen vortragen",
+     "陈述诉求"
+    ]
+   ],
+   "tip": "可分动词；名词 der Vortrag"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "bewundern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bewundert",
+  "forms": "bewundert, bewunderte, hat bewundert",
+  "zh": "钦佩；欣赏",
+  "ex": [
+   "Ich bewundere Menschen, die mehrere Sprachen fließend sprechen."
+  ],
+  "ex_zh": "我佩服能流利说好几种语言的人。",
+  "use": {
+   "col": [
+    [
+     "jemanden für etwas bewundern",
+     "因某事钦佩某人"
+    ],
+    [
+     "die Aussicht bewundern",
+     "欣赏景色"
+    ]
+   ],
+   "tip": "名词 die Bewunderung；形容词 bewundernswert"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "erkunden",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "erkundet",
+  "forms": "erkundet, erkundete, hat erkundet",
+  "zh": "探索；考察",
+  "ex": [
+   "Am ersten Tag haben wir zu Fuß die Umgebung unseres Hotels erkundet."
+  ],
+  "ex_zh": "第一天我们步行探索了酒店周边。",
+  "use": {
+   "col": [
+    [
+     "eine Stadt erkunden",
+     "探索一座城市"
+    ],
+    [
+     "das Gelände erkunden",
+     "勘察场地"
+    ]
+   ],
+   "tip": "不可分动词；名词 die Erkundung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "anspruchsvoll",
+  "pos": "adj",
+  "zh": "要求高的；有深度的；挑剔的",
+  "ex": [
+   "Das Programm des Festivals ist anspruchsvoll, aber auch sehr unterhaltsam."
+  ],
+  "ex_zh": "音乐节的节目很有深度，但也很有趣。",
+  "use": {
+   "col": [
+    [
+     "ein anspruchsvolles Buch",
+     "有难度的书"
+    ],
+    [
+     "anspruchsvolle Musik",
+     "有深度的音乐"
+    ]
+   ],
+   "tip": "可指作品有难度，也可指人挑剔"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "humorvoll",
+  "pos": "adj",
+  "zh": "幽默的",
+  "ex": [
+   "Der Autor beschreibt den Alltag auf humorvolle Weise."
+  ],
+  "ex_zh": "作者以幽默的方式描写日常生活。",
+  "use": {
+   "col": [
+    [
+     "ein humorvoller Mensch",
+     "有幽默感的人"
+    ],
+    [
+     "humorvoll erzählen",
+     "幽默地讲述"
+    ]
+   ],
+   "tip": "名词 der Humor；反义 humorlos"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "ironisch",
+  "pos": "adj",
+  "zh": "讽刺的；反讽的",
+  "ex": [
+   "Seine ironische Bemerkung hat nicht jeder sofort verstanden."
+  ],
+  "ex_zh": "他那句反讽的话并不是每个人都立刻听懂了。",
+  "use": {
+   "col": [
+    [
+     "eine ironische Bemerkung",
+     "讽刺的话"
+    ],
+    [
+     "ironisch lächeln",
+     "带讽刺意味地微笑"
+    ]
+   ],
+   "tip": "名词 die Ironie；说反话的口气"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "einfühlsam",
+  "pos": "adj",
+  "zh": "善解人意的；体贴的",
+  "ex": [
+   "Die Autorin schildert die Gefühle ihrer Figuren sehr einfühlsam."
+  ],
+  "ex_zh": "女作家非常细腻地描写了她笔下人物的感受。",
+  "use": {
+   "col": [
+    [
+     "ein einfühlsamer Mensch",
+     "体贴的人"
+    ],
+    [
+     "einfühlsam zuhören",
+     "体贴地倾听"
+    ]
+   ],
+   "tip": "近义 verständnisvoll、empathisch"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "anschaulich",
+  "pos": "adj",
+  "zh": "形象的；生动易懂的",
+  "ex": [
+   "Die Dozentin erklärt komplizierte Themen immer sehr anschaulich."
+  ],
+  "ex_zh": "讲师总是把复杂的主题讲得非常形象易懂。",
+  "use": {
+   "col": [
+    [
+     "anschaulich erklären",
+     "形象地解释"
+    ],
+    [
+     "ein anschauliches Beispiel",
+     "生动的例子"
+    ]
+   ],
+   "tip": "anschaulich 强调便于想象、有画面感"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "nachdenklich",
+  "pos": "adj",
+  "zh": "若有所思的；发人深省的",
+  "ex": [
+   "Der Film stimmt mich auch noch Tage später nachdenklich."
+  ],
+  "ex_zh": "这部电影让我几天之后仍在沉思。",
+  "use": {
+   "col": [
+    [
+     "nachdenklich stimmen",
+     "让人陷入思考"
+    ],
+    [
+     "ein nachdenkliches Gesicht",
+     "若有所思的表情"
+    ]
+   ],
+   "tip": "常与 stimmen 连用：jmdn. nachdenklich stimmen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "eindrucksvoll",
+  "pos": "adj",
+  "zh": "给人深刻印象的",
+  "ex": [
+   "Die Eröffnungsrede der Intendantin war kurz, aber eindrucksvoll."
+  ],
+  "ex_zh": "院长的开幕致辞虽短，却令人印象深刻。",
+  "use": {
+   "col": [
+    [
+     "eine eindrucksvolle Leistung",
+     "令人印象深刻的表现"
+    ],
+    [
+     "eindrucksvoll schildern",
+     "令人难忘地描述"
+    ]
+   ],
+   "tip": "近义 beeindruckend"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "fesselnd",
+  "pos": "adj",
+  "zh": "引人入胜的",
+  "ex": [
+   "Der Krimi ist von der ersten bis zur letzten Seite fesselnd."
+  ],
+  "ex_zh": "这本推理小说从头到尾都引人入胜。",
+  "use": {
+   "col": [
+    [
+     "ein fesselnder Roman",
+     "引人入胜的小说"
+    ],
+    [
+     "fesselnd erzählen",
+     "讲得引人入胜"
+    ]
+   ],
+   "tip": "来自 fesseln（捆住）；近义 spannend"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "packend",
+  "pos": "adj",
+  "zh": "扣人心弦的",
+  "ex": [
+   "Das Finale des Spiels war unglaublich packend."
+  ],
+  "ex_zh": "比赛的决赛阶段扣人心弦。",
+  "use": {
+   "col": [
+    [
+     "ein packender Film",
+     "扣人心弦的电影"
+    ],
+    [
+     "eine packende Geschichte",
+     "扣人心弦的故事"
+    ]
+   ],
+   "tip": "口语中常与 spannend 互换"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "künstlerisch",
+  "pos": "adj",
+  "zh": "艺术的；有艺术天赋的",
+  "ex": [
+   "Sie hat eine künstlerische Ausbildung an der Kunsthochschule absolviert."
+  ],
+  "ex_zh": "她在艺术学院接受了艺术方面的培养。",
+  "use": {
+   "col": [
+    [
+     "künstlerisch begabt",
+     "有艺术天赋"
+    ],
+    [
+     "künstlerischer Leiter",
+     "艺术总监"
+    ]
+   ],
+   "tip": "名词 der Künstler、die Kunst"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "literarisch",
+  "pos": "adj",
+  "zh": "文学的",
+  "ex": [
+   "Das Buch hat einen hohen literarischen Wert."
+  ],
+  "ex_zh": "这本书具有很高的文学价值。",
+  "use": {
+   "col": [
+    [
+     "ein literarisches Werk",
+     "文学作品"
+    ],
+    [
+     "literarisch begabt sein",
+     "有文学天赋"
+    ]
+   ],
+   "tip": "名词 die Literatur"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "zeitgenössisch",
+  "pos": "adj",
+  "zh": "当代的；同时代的",
+  "ex": [
+   "Im Museum werden zeitgenössische Künstler aus ganz Europa gezeigt."
+  ],
+  "ex_zh": "博物馆展出来自欧洲各地的当代艺术家。",
+  "use": {
+   "col": [
+    [
+     "zeitgenössische Kunst",
+     "当代艺术"
+    ],
+    [
+     "ein zeitgenössischer Künstler",
+     "当代艺术家"
+    ]
+   ],
+   "tip": "也可指同时代的：ein Zeitgenosse"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "originell",
+  "pos": "adj",
+  "zh": "别出心裁的；有创意的",
+  "ex": [
+   "Die Idee für den Werbespot war wirklich originell."
+  ],
+  "ex_zh": "这个广告片的创意真的很别出心裁。",
+  "use": {
+   "col": [
+    [
+     "eine originelle Idee",
+     "有创意的想法"
+    ],
+    [
+     "ein originelles Geschenk",
+     "别致的礼物"
+    ]
+   ],
+   "tip": "与 original（原版）不同"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "einzigartig",
+  "pos": "adj",
+  "zh": "独一无二的",
+  "ex": [
+   "Der Blick von der Burg auf das Tal ist einzigartig."
+  ],
+  "ex_zh": "从城堡眺望山谷的景色独一无二。",
+  "use": {
+   "col": [
+    [
+     "eine einzigartige Gelegenheit",
+     "绝无仅有的机会"
+    ],
+    [
+     "einzigartig schön",
+     "独一无二地美"
+    ]
+   ],
+   "tip": "一般不加比较级"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sehenswert",
+  "pos": "adj",
+  "zh": "值得一看的",
+  "ex": [
+   "Die Altstadt ist wirklich sehenswert und lädt zum Bummeln ein."
+  ],
+  "ex_zh": "这个老城很值得一看，适合闲逛。",
+  "use": {
+   "col": [
+    [
+     "ein sehenswertes Museum",
+     "值得一看的博物馆"
+    ],
+    [
+     "eine sehenswerte Ausstellung",
+     "值得一看的展览"
+    ]
+   ],
+   "tip": "名词 die Sehenswürdigkeit"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "malerisch",
+  "pos": "adj",
+  "zh": "如画的",
+  "ex": [
+   "Das Dorf liegt malerisch am Ufer des Sees."
+  ],
+  "ex_zh": "村庄如画般坐落在湖畔。",
+  "use": {
+   "col": [
+    [
+     "ein malerisches Dorf",
+     "风景如画的村庄"
+    ],
+    [
+     "malerisch gelegen",
+     "位置如画"
+    ]
+   ],
+   "tip": "广告、游记里常见"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "abgelegen",
+  "pos": "adj",
+  "zh": "偏僻的；偏远的",
+  "ex": [
+   "Wir haben ein kleines Haus in einem abgelegenen Tal gemietet."
+  ],
+  "ex_zh": "我们在一个偏僻的山谷里租了一栋小房子。",
+  "use": {
+   "col": [
+    [
+     "ein abgelegener Ort",
+     "偏远的地方"
+    ],
+    [
+     "abgelegen wohnen",
+     "住得偏僻"
+    ]
+   ],
+   "tip": "来自 abliegen；近义 abseits"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "touristisch",
+  "pos": "adj",
+  "zh": "旅游的；游客的",
+  "ex": [
+   "Im Sommer ist die Stadt touristisch stark überlaufen."
+  ],
+  "ex_zh": "夏天这座城市被游客挤得满满当当。",
+  "use": {
+   "col": [
+    [
+     "touristisch erschlossen",
+     "已开发为旅游地"
+    ],
+    [
+     "eine touristische Attraktion",
+     "旅游景点"
+    ]
+   ],
+   "tip": "名词 der Tourismus"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "erholsam",
+  "pos": "adj",
+  "zh": "能让人恢复精力的",
+  "ex": [
+   "Nach einer erholsamen Woche am Meer fühle ich mich wieder fit."
+  ],
+  "ex_zh": "在海边度过轻松恢复精力的一周后，我又精神饱满了。",
+  "use": {
+   "col": [
+    [
+     "ein erholsamer Urlaub",
+     "令人放松的假期"
+    ],
+    [
+     "erholsam schlafen",
+     "睡得安稳"
+    ]
+   ],
+   "tip": "名词 die Erholung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "gastfreundlich",
+  "pos": "adj",
+  "zh": "好客的",
+  "ex": [
+   "Die Menschen in dieser Region sind sehr gastfreundlich."
+  ],
+  "ex_zh": "这个地区的人非常好客。",
+  "use": {
+   "col": [
+    [
+     "ein gastfreundliches Land",
+     "好客的国家"
+    ],
+    [
+     "gastfreundlich aufnehmen",
+     "热情接待"
+    ]
+   ],
+   "tip": "名词 die Gastfreundschaft"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "lebhaft",
+  "pos": "adj",
+  "zh": "活跃的；热烈的",
+  "ex": [
+   "Auf dem Markt herrschte ein lebhaftes Treiben."
+  ],
+  "ex_zh": "市场上一片热闹景象。",
+  "use": {
+   "col": [
+    [
+     "eine lebhafte Diskussion",
+     "热烈的讨论"
+    ],
+    [
+     "lebhaft diskutieren",
+     "热烈地讨论"
+    ]
+   ],
+   "tip": "也可描述颜色鲜艳"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "redselig",
+  "pos": "adj",
+  "zh": "话多的",
+  "ex": [
+   "Mein Sitznachbar im Zug war ziemlich redselig und erzählte mir sein ganzes Leben."
+  ],
+  "ex_zh": "我在火车上的邻座话很多，把他的一生都讲给我听了。",
+  "use": {
+   "col": [
+    [
+     "ein redseliger Mensch",
+     "话多的人"
+    ],
+    [
+     "nicht sehr redselig sein",
+     "不太爱说话"
+    ]
+   ],
+   "tip": "略带贬义；近义 gesprächig，反义 wortkarg"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "gesprächig",
+  "pos": "adj",
+  "zh": "健谈的",
+  "ex": [
+   "Nach dem ersten Glas Wein wurde er ziemlich gesprächig."
+  ],
+  "ex_zh": "喝完第一杯酒之后，他变得相当健谈。",
+  "use": {
+   "col": [
+    [
+     "ein gesprächiger Nachbar",
+     "健谈的邻居"
+    ],
+    [
+     "nicht sehr gesprächig sein",
+     "不怎么爱聊"
+    ]
+   ],
+   "tip": "比 redselig 更中性"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "missverständlich",
+  "pos": "adj",
+  "zh": "容易引起误解的",
+  "ex": [
+   "Die Anweisung in der E-Mail war leider missverständlich formuliert."
+  ],
+  "ex_zh": "邮件里的这条指示措辞很容易引起误解。",
+  "use": {
+   "col": [
+    [
+     "missverständlich formuliert",
+     "表述容易引起误解"
+    ],
+    [
+     "eine missverständliche Aussage",
+     "容易被误解的说法"
+    ]
+   ],
+   "tip": "名词 das Missverständnis；反义 eindeutig"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "zweideutig",
+  "pos": "adj",
+  "zh": "有两种解释的；含糊的",
+  "ex": [
+   "Sein zweideutiger Satz sorgte für Verwirrung im Team."
+  ],
+  "ex_zh": "他那句有歧义的话在团队里造成了混乱。",
+  "use": {
+   "col": [
+    [
+     "eine zweideutige Bemerkung",
+     "模棱两可的话"
+    ],
+    [
+     "zweideutig antworten",
+     "含糊其辞地回答"
+    ]
+   ],
+   "tip": "也可暗指含有性暗示的话"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sachlich",
+  "pos": "adj",
+  "zh": "客观的；就事论事的",
+  "ex": [
+   "Bleiben wir bitte sachlich und vermeiden wir persönliche Angriffe."
+  ],
+  "ex_zh": "请让我们就事论事，避免人身攻击。",
+  "use": {
+   "col": [
+    [
+     "sachlich bleiben",
+     "保持客观"
+    ],
+    [
+     "eine sachliche Diskussion",
+     "理性的讨论"
+    ]
+   ],
+   "tip": "名词 die Sache；反义 emotional"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "einseitig",
+  "pos": "adj",
+  "zh": "片面的；单方面的",
+  "ex": [
+   "Der Bericht ist einseitig und lässt andere Meinungen aus."
+  ],
+  "ex_zh": "这篇报道很片面，漏掉了其他观点。",
+  "use": {
+   "col": [
+    [
+     "einseitig berichten",
+     "片面报道"
+    ],
+    [
+     "eine einseitige Darstellung",
+     "片面的描述"
+    ]
+   ],
+   "tip": "对立：ausgewogen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "glaubwürdig",
+  "pos": "adj",
+  "zh": "可信的",
+  "ex": [
+   "Sie wirkte in dem Interview sehr glaubwürdig."
+  ],
+  "ex_zh": "她在采访中显得很可信。",
+  "use": {
+   "col": [
+    [
+     "eine glaubwürdige Quelle",
+     "可信的消息来源"
+    ],
+    [
+     "glaubwürdig erscheinen",
+     "显得可信"
+    ]
+   ],
+   "tip": "名词 die Glaubwürdigkeit；反义 unglaubwürdig"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "seriös",
+  "pos": "adj",
+  "zh": "严肃可靠的；正派的",
+  "ex": [
+   "Man sollte nur Nachrichten aus seriösen Quellen weitergeben."
+  ],
+  "ex_zh": "只应该转发来自可靠来源的新闻。",
+  "use": {
+   "col": [
+    [
+     "ein seriöses Angebot",
+     "正规可靠的报价"
+    ],
+    [
+     "seriös wirken",
+     "显得稳重可靠"
+    ]
+   ],
+   "tip": "读 [zeˈrjøːs]；反义 unseriös"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "ausführlich",
+  "pos": "adj",
+  "zh": "详细的",
+  "ex": [
+   "Der Artikel berichtet ausführlich über die Hintergründe des Konflikts."
+  ],
+  "ex_zh": "这篇文章详细报道了冲突的背景。",
+  "use": {
+   "col": [
+    [
+     "ausführlich berichten",
+     "详细报道"
+    ],
+    [
+     "eine ausführliche Antwort",
+     "详细的回答"
+    ]
+   ],
+   "tip": "反义 kurz、knapp"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "förmlich",
+  "pos": "adj",
+  "zh": "正式的；拘谨的",
+  "ex": [
+   "Der Brief ist sehr förmlich formuliert und beginnt mit „Sehr geehrte Damen und Herren“."
+  ],
+  "ex_zh": "这封信措辞非常正式，以「尊敬的先生女士」开头。",
+  "use": {
+   "col": [
+    [
+     "ein förmliches Schreiben",
+     "正式函件"
+    ],
+    [
+     "förmlich auftreten",
+     "举止拘谨"
+    ]
+   ],
+   "tip": "来自 Form；近义 formell"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "umgangssprachlich",
+  "pos": "adj",
+  "zh": "口语的",
+  "ex": [
+   "Das Wort „Knete“ für Geld ist umgangssprachlich."
+  ],
+  "ex_zh": "用 Knete 指钱是口语说法。",
+  "use": {
+   "col": [
+    [
+     "umgangssprachlich sagen",
+     "口语里说"
+    ],
+    [
+     "ein umgangssprachlicher Ausdruck",
+     "口语表达"
+    ]
+   ],
+   "tip": "词典标注 ugs."
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "wortwörtlich",
+  "pos": "adj",
+  "zh": "逐字的；字面的",
+  "ex": [
+   "Man darf diesen Satz nicht wortwörtlich übersetzen."
+  ],
+  "ex_zh": "这个句子不能逐字翻译。",
+  "use": {
+   "col": [
+    [
+     "wortwörtlich übersetzen",
+     "逐字翻译"
+    ],
+    [
+     "wortwörtlich zitieren",
+     "逐字引用"
+    ]
+   ],
+   "tip": "也写 wörtlich；wortwörtlich 语气更强"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sinngemäß",
+  "pos": "adj",
+  "zh": "按意思的；大意上的",
+  "ex": [
+   "Ich gebe seine Aussage nur sinngemäß wieder, nicht wortwörtlich."
+  ],
+  "ex_zh": "我只是按大意转述他的话，不是逐字。",
+  "use": {
+   "col": [
+    [
+     "sinngemäß übersetzen",
+     "意译"
+    ],
+    [
+     "sinngemäß wiedergeben",
+     "按大意转述"
+    ]
+   ],
+   "tip": "对立：wortwörtlich"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "aufschlussreich",
+  "pos": "adj",
+  "zh": "有启发的；说明问题的",
+  "ex": [
+   "Das Gespräch mit dem Intendanten war sehr aufschlussreich."
+  ],
+  "ex_zh": "和院长的谈话让我受益良多。",
+  "use": {
+   "col": [
+    [
+     "ein aufschlussreicher Bericht",
+     "有参考价值的报告"
+    ],
+    [
+     "aufschlussreiche Einblicke",
+     "有价值的了解"
+    ]
+   ],
+   "tip": "aufschließen + Aufschluss"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "vielseitig",
+  "pos": "adj",
+  "zh": "多方面的；多才多艺的",
+  "ex": [
+   "Sie ist eine vielseitige Künstlerin und malt, schreibt und komponiert."
+  ],
+  "ex_zh": "她是一位多才多艺的艺术家，会画画、写作和作曲。",
+  "use": {
+   "col": [
+    [
+     "ein vielseitiges Programm",
+     "丰富多样的节目"
+    ],
+    [
+     "vielseitig begabt",
+     "多才多艺"
+    ]
+   ],
+   "tip": "vielfältig 指种类多，vielseitig 指方面多"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "ins Gespräch kommen",
+  "pos": "phr",
+  "zh": "开始交谈；搭上话",
+  "ex": [
+   "Beim Konzert bin ich mit einer netten Frau aus Köln ins Gespräch gekommen."
+  ],
+  "ex_zh": "在音乐会上，我和一位来自科隆的友善女士聊了起来。",
+  "use": {
+   "col": [
+    [
+     "mit jemandem ins Gespräch kommen",
+     "与某人交谈起来"
+    ],
+    [
+     "ins Gespräch kommen über + Akk.",
+     "聊起……"
+    ]
+   ],
+   "tip": "kommen 的完成时用 ist"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "zur Sprache kommen",
+  "pos": "phr",
+  "zh": "被谈及；被提出",
+  "ex": [
+   "In der Sitzung kam auch das Thema Überstunden zur Sprache."
+  ],
+  "ex_zh": "会议上也谈到了加班的话题。",
+  "use": {
+   "col": [
+    [
+     "zur Sprache kommen",
+     "被提出来"
+    ],
+    [
+     "etwas zur Sprache bringen",
+     "提出某事"
+    ]
+   ],
+   "tip": "主动提出用 zur Sprache bringen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "zu Wort kommen",
+  "pos": "phr",
+  "zh": "有机会发言",
+  "ex": [
+   "In der Diskussion kamen auch die jungen Teilnehmer zu Wort."
+  ],
+  "ex_zh": "在讨论中，年轻的参与者也有机会发言。",
+  "use": {
+   "col": [
+    [
+     "nicht zu Wort kommen",
+     "没机会说话"
+    ],
+    [
+     "jemanden zu Wort kommen lassen",
+     "让某人发言"
+    ]
+   ],
+   "tip": "完成时 ist zu Wort gekommen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Stellung nehmen",
+  "pos": "phr",
+  "zh": "表明立场；表态",
+  "ex": [
+   "Der Vorstand muss bis Freitag zu den Vorwürfen Stellung nehmen."
+  ],
+  "ex_zh": "董事会必须在周五之前对这些指控表态。",
+  "gov": "Stellung nehmen zu + Dat.",
+  "use": {
+   "col": [
+    [
+     "zu etwas Stellung nehmen",
+     "对某事表态"
+    ],
+    [
+     "Stellung beziehen",
+     "表明立场"
+    ]
+   ],
+   "tip": "名词 die Stellungnahme"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "im Mittelpunkt stehen",
+  "pos": "phr",
+  "zh": "处于中心；成为焦点",
+  "ex": [
+   "Bei der Ausstellung steht die Kunst der Nachkriegszeit im Mittelpunkt."
+  ],
+  "ex_zh": "这次展览的重点是战后时期的艺术。",
+  "use": {
+   "col": [
+    [
+     "im Mittelpunkt stehen",
+     "是焦点"
+    ],
+    [
+     "im Mittelpunkt des Interesses",
+     "关注的焦点"
+    ]
+   ],
+   "tip": "也说 im Zentrum stehen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "auf dem Laufenden bleiben",
+  "pos": "phr",
+  "zh": "随时了解最新情况",
+  "ex": [
+   "Ich lese jeden Morgen die Nachrichten, um auf dem Laufenden zu bleiben."
+  ],
+  "ex_zh": "我每天早上读新闻，以便随时了解最新情况。",
+  "use": {
+   "col": [
+    [
+     "jemanden auf dem Laufenden halten",
+     "让某人随时了解情况"
+    ],
+    [
+     "auf dem Laufenden sein",
+     "了解最新情况"
+    ]
+   ],
+   "tip": "Laufenden 大写（名词化）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Regie führen",
+  "pos": "phr",
+  "zh": "执导；担任导演",
+  "ex": [
+   "Bei diesem Film hat eine junge Regisseurin aus Leipzig Regie geführt."
+  ],
+  "ex_zh": "这部电影由一位来自莱比锡的年轻女导演执导。",
+  "gov": "Regie führen bei + Dat.",
+  "use": {
+   "col": [
+    [
+     "Regie führen bei + Dat.",
+     "执导……"
+    ],
+    [
+     "unter der Regie von + Dat.",
+     "在……的导演下"
+    ]
+   ],
+   "tip": "Regie 读 [reˈʒiː]"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich die Zeit vertreiben",
+  "pos": "phr",
+  "zh": "打发时间",
+  "ex": [
+   "Im Wartezimmer vertreibe ich mir die Zeit mit einem Buch."
+  ],
+  "ex_zh": "在候诊室里我用一本书打发时间。",
+  "use": {
+   "col": [
+    [
+     "sich die Zeit mit etwas vertreiben",
+     "用某事打发时间"
+    ],
+    [
+     "um sich die Zeit zu vertreiben",
+     "为了打发时间"
+    ]
+   ],
+   "tip": "名词 der Zeitvertreib"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Leitartikel",
+  "art": "der",
+  "pl_full": "die Leitartikel",
+  "pos": "n",
+  "zh": "社论",
+  "ex": [
+   "Im Leitartikel fordert die Zeitung einen grundlegenden Kurswechsel in der Energiepolitik."
+  ],
+  "ex_zh": "报纸在社论中要求能源政策彻底转向。",
+  "use": {
+   "col": [
+    [
+     "einen Leitartikel schreiben",
+     "撰写社论"
+    ],
+    [
+     "ein scharfer Leitartikel",
+     "措辞尖锐的社论"
+    ]
+   ],
+   "tip": "单复数同形；表达报社立场"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Feuilleton",
+  "art": "das",
+  "pl_full": "die Feuilletons",
+  "pos": "n",
+  "zh": "文化版；文艺副刊",
+  "ex": [
+   "Der Roman wurde im Feuilleton der großen Zeitungen fast durchweg gelobt."
+  ],
+  "ex_zh": "这部小说在各大报纸的文化版上几乎一致受到好评。",
+  "use": {
+   "col": [
+    [
+     "im Feuilleton erscheinen",
+     "刊登在文化版"
+    ],
+    [
+     "das Feuilleton lesen",
+     "读文化版"
+    ]
+   ],
+   "tip": "读作 [fœjəˈtõː]，法语借词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Rezension",
+  "art": "die",
+  "pl_full": "die Rezensionen",
+  "pos": "n",
+  "zh": "书评；评论",
+  "ex": [
+   "Die Rezension in der Wochenzeitung fiel ausgesprochen positiv aus."
+  ],
+  "ex_zh": "周报上的书评写得非常正面。",
+  "use": {
+   "col": [
+    [
+     "eine Rezension schreiben",
+     "写书评"
+    ],
+    [
+     "eine Rezension veröffentlichen",
+     "发表评论"
+    ]
+   ],
+   "tip": "动词 rezensieren；也用于影视、展览"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Kritiker",
+  "art": "der",
+  "pl_full": "die Kritiker",
+  "pos": "n",
+  "zh": "评论家；批评者",
+  "ex": [
+   "Die Kritiker waren sich einig, dass das Stück ein großer Erfolg war."
+  ],
+  "ex_zh": "评论家们一致认为这部剧非常成功。",
+  "use": {
+   "col": [
+    [
+     "ein strenger Kritiker",
+     "严厉的批评者"
+    ],
+    [
+     "die Kritiker der Reform",
+     "改革的批评者"
+    ]
+   ],
+   "tip": "女性：die Kritikerin；Kritik（批评）已在词表中"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Gegendarstellung",
+  "art": "die",
+  "pl_full": "die Gegendarstellungen",
+  "pos": "n",
+  "zh": "更正声明；反驳声明",
+  "ex": [
+   "Die Zeitung musste auf Verlangen des Ministers eine Gegendarstellung abdrucken."
+  ],
+  "ex_zh": "应部长的要求，报纸必须刊登一份更正声明。",
+  "use": {
+   "col": [
+    [
+     "eine Gegendarstellung verlangen",
+     "要求刊登更正"
+    ],
+    [
+     "eine Gegendarstellung veröffentlichen",
+     "发表更正声明"
+    ]
+   ],
+   "tip": "媒体法概念：被报道者有权要求刊出"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Pressefreiheit",
+  "art": "die",
+  "pos": "n",
+  "zh": "新闻自由",
+  "ex": [
+   "Die Pressefreiheit ist ein Grundpfeiler jeder funktionierenden Demokratie."
+  ],
+  "ex_zh": "新闻自由是任何正常运转的民主制度的基石。",
+  "use": {
+   "col": [
+    [
+     "die Pressefreiheit einschränken",
+     "限制新闻自由"
+    ],
+    [
+     "die Pressefreiheit verteidigen",
+     "捍卫新闻自由"
+    ]
+   ],
+   "tip": "德国《基本法》第5条保障"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Meinungsfreiheit",
+  "art": "die",
+  "pos": "n",
+  "zh": "言论自由",
+  "ex": [
+   "Die Meinungsfreiheit endet dort, wo andere Menschen beleidigt werden."
+  ],
+  "ex_zh": "言论自由止于侮辱他人之处。",
+  "use": {
+   "col": [
+    [
+     "auf Meinungsfreiheit pochen",
+     "强调言论自由"
+    ],
+    [
+     "die Meinungsfreiheit einschränken",
+     "限制言论自由"
+    ]
+   ],
+   "tip": "宪法层面的用语；只用单数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Zensur",
+  "art": "die",
+  "pos": "n",
+  "zh": "审查",
+  "ex": [
+   "In manchen Ländern unterliegen Zeitungen und Internetseiten einer strengen Zensur."
+  ],
+  "ex_zh": "在一些国家，报纸和网站受到严格审查。",
+  "use": {
+   "col": [
+    [
+     "der Zensur unterliegen",
+     "受到审查"
+    ],
+    [
+     "die Zensur umgehen",
+     "绕过审查"
+    ]
+   ],
+   "tip": "动词 zensieren；德语里「Zensur」也指学校成绩（旧用法）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Medienlandschaft",
+  "art": "die",
+  "pos": "n",
+  "zh": "媒体格局；媒体生态",
+  "ex": [
+   "Die deutsche Medienlandschaft ist stark von öffentlich-rechtlichen Sendern geprägt."
+  ],
+  "ex_zh": "德国的媒体格局深受公共广播电视台的影响。",
+  "use": {
+   "col": [
+    [
+     "die regionale Medienlandschaft",
+     "地方媒体格局"
+    ],
+    [
+     "die Medienlandschaft verändern",
+     "改变媒体生态"
+    ]
+   ],
+   "tip": "常见于时评、研究文章"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Desinformation",
+  "art": "die",
+  "pl_full": "die Desinformationen",
+  "pos": "n",
+  "zh": "虚假信息；假信息",
+  "ex": [
+   "Gezielte Desinformation kann vor Wahlen das Vertrauen in die Demokratie beschädigen."
+  ],
+  "ex_zh": "有针对性的虚假信息可能在选举前损害人们对民主的信任。",
+  "use": {
+   "col": [
+    [
+     "Desinformation verbreiten",
+     "散布虚假信息"
+    ],
+    [
+     "gegen Desinformation vorgehen",
+     "打击虚假信息"
+    ]
+   ],
+   "tip": "区别：Fehlinformation 指无意的错误"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Propaganda",
+  "art": "die",
+  "pos": "n",
+  "zh": "宣传（多含贬义）",
+  "ex": [
+   "Das Regime nutzte das Fernsehen für seine Propaganda."
+  ],
+  "ex_zh": "这个政权利用电视进行宣传。",
+  "use": {
+   "col": [
+    [
+     "Propaganda betreiben",
+     "搞宣传"
+    ],
+    [
+     "reine Propaganda",
+     "纯粹的宣传"
+    ]
+   ],
+   "tip": "多带贬义；中性的宣传是 Werbung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Schlagwort",
+  "art": "das",
+  "pl_full": "die Schlagwörter",
+  "pos": "n",
+  "zh": "口号；关键词",
+  "ex": [
+   "Das Wort Nachhaltigkeit ist längst zu einem bloßen Schlagwort geworden."
+  ],
+  "ex_zh": "“可持续性”这个词早已沦为一个空洞的口号。",
+  "use": {
+   "col": [
+    [
+     "ein modisches Schlagwort",
+     "时髦口号"
+    ],
+    [
+     "mit Schlagworten argumentieren",
+     "用口号式的词汇论证"
+    ]
+   ],
+   "tip": "复数两种：Schlagwörter、Schlagworte"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Glaubwürdigkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "可信度",
+  "ex": [
+   "Die Glaubwürdigkeit der Medien leidet unter der Flut an Falschmeldungen."
+  ],
+  "ex_zh": "假消息泛滥损害了媒体的可信度。",
+  "use": {
+   "col": [
+    [
+     "die Glaubwürdigkeit verlieren",
+     "失去公信力"
+    ],
+    [
+     "an Glaubwürdigkeit gewinnen",
+     "增加可信度"
+    ]
+   ],
+   "tip": "形容词 glaubwürdig"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Korrespondent",
+  "art": "der",
+  "pl_full": "die Korrespondenten",
+  "pos": "n",
+  "zh": "驻外记者；通讯员",
+  "ex": [
+   "Der Korrespondent berichtet seit zehn Jahren aus Washington."
+  ],
+  "ex_zh": "这位驻外记者十年来一直从华盛顿发回报道。",
+  "use": {
+   "col": [
+    [
+     "als Korrespondent arbeiten",
+     "当驻外记者"
+    ],
+    [
+     "ein Korrespondent der ARD",
+     "ARD 的驻外记者"
+    ]
+   ],
+   "tip": "n 变格：den Korrespondenten"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Falschmeldung",
+  "art": "die",
+  "pl_full": "die Falschmeldungen",
+  "pos": "n",
+  "zh": "假消息；不实报道",
+  "ex": [
+   "Die Falschmeldung verbreitete sich innerhalb weniger Minuten im Netz."
+  ],
+  "ex_zh": "这条假消息在几分钟内就在网上传开了。",
+  "use": {
+   "col": [
+    [
+     "eine Falschmeldung verbreiten",
+     "散布假消息"
+    ],
+    [
+     "auf eine Falschmeldung hereinfallen",
+     "被假消息骗了"
+    ]
+   ],
+   "tip": "英语 fake news 的对应说法"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Enthüllung",
+  "art": "die",
+  "pl_full": "die Enthüllungen",
+  "pos": "n",
+  "zh": "揭露；披露",
+  "ex": [
+   "Die Enthüllungen der Journalisten führten zum Rücktritt des Ministers."
+  ],
+  "ex_zh": "记者们的揭露导致了部长辞职。",
+  "use": {
+   "col": [
+    [
+     "eine Enthüllung veröffentlichen",
+     "披露内幕"
+    ],
+    [
+     "sensationelle Enthüllungen",
+     "震惊的揭秘"
+    ]
+   ],
+   "tip": "动词 enthüllen；也指揭幕"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Meinungsbildung",
+  "art": "die",
+  "pos": "n",
+  "zh": "舆论形成；意见形成",
+  "ex": [
+   "Soziale Netzwerke spielen bei der politischen Meinungsbildung eine wachsende Rolle."
+  ],
+  "ex_zh": "社交网络在政治舆论形成中的作用越来越大。",
+  "use": {
+   "col": [
+    [
+     "zur Meinungsbildung beitragen",
+     "有助于形成意见"
+    ],
+    [
+     "die öffentliche Meinungsbildung",
+     "公众舆论的形成"
+    ]
+   ],
+   "tip": "只用单数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Leitmotiv",
+  "art": "das",
+  "pl_full": "die Leitmotive",
+  "pos": "n",
+  "zh": "主导动机；主旋律",
+  "ex": [
+   "Die Suche nach Heimat zieht sich als Leitmotiv durch das gesamte Werk."
+  ],
+  "ex_zh": "对故乡的寻找像一条主线贯穿整部作品。",
+  "use": {
+   "col": [
+    [
+     "ein zentrales Leitmotiv",
+     "核心母题"
+    ],
+    [
+     "als Leitmotiv dienen",
+     "充当主导动机"
+    ]
+   ],
+   "tip": "来自瓦格纳音乐剧，也用于文学"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Metapher",
+  "art": "die",
+  "pl_full": "die Metaphern",
+  "pos": "n",
+  "zh": "隐喻",
+  "ex": [
+   "Der Dichter verwendet das Meer als Metapher für die Sehnsucht."
+  ],
+  "ex_zh": "诗人用大海作为渴望的隐喻。",
+  "use": {
+   "col": [
+    [
+     "eine Metapher verwenden",
+     "使用隐喻"
+    ],
+    [
+     "eine gelungene Metapher",
+     "恰当的比喻"
+    ]
+   ],
+   "tip": "形容词 metaphorisch"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Pointe",
+  "art": "die",
+  "pl_full": "die Pointen",
+  "pos": "n",
+  "zh": "笑点；点睛之笔",
+  "ex": [
+   "Die Pointe des Witzes habe ich leider nicht verstanden."
+  ],
+  "ex_zh": "很遗憾，我没听懂这个笑话的笑点。",
+  "use": {
+   "col": [
+    [
+     "die Pointe verderben",
+     "说破笑点"
+    ],
+    [
+     "eine überraschende Pointe",
+     "出人意料的结局"
+    ]
+   ],
+   "tip": "读 [poˈɛ̃ːtə]"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Gattung",
+  "art": "die",
+  "pl_full": "die Gattungen",
+  "pos": "n",
+  "zh": "体裁；种类",
+  "ex": [
+   "Der Roman ist die beliebteste literarische Gattung der Gegenwart."
+  ],
+  "ex_zh": "小说是当代最受欢迎的文学体裁。",
+  "use": {
+   "senses": [
+    "（文学、艺术的）体裁",
+    "（生物）属"
+   ],
+   "col": [
+    [
+     "eine literarische Gattung",
+     "文学体裁"
+    ],
+    [
+     "verschiedene Gattungen",
+     "不同的体裁"
+    ]
+   ],
+   "tip": "生物学里是「属」；中性词 Genre 更常用于影视"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Prosa",
+  "art": "die",
+  "pos": "n",
+  "zh": "散文；叙事文体",
+  "ex": [
+   "Er schrieb zunächst Lyrik, später auch Prosa."
+  ],
+  "ex_zh": "他起初写诗，后来也写散文类作品。",
+  "use": {
+   "col": [
+    [
+     "in Prosa schreiben",
+     "用散文写作"
+    ],
+    [
+     "die Prosa des Alltags",
+     "日常的平淡"
+    ]
+   ],
+   "tip": "对立：Lyrik（诗歌）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Lyrik",
+  "art": "die",
+  "pos": "n",
+  "zh": "诗歌；抒情诗",
+  "ex": [
+   "Die moderne Lyrik spielt oft mit Sprache und Klang."
+  ],
+  "ex_zh": "现代诗歌常常玩弄语言和声音。",
+  "use": {
+   "col": [
+    [
+     "Lyrik lesen",
+     "读诗"
+    ],
+    [
+     "zeitgenössische Lyrik",
+     "当代诗歌"
+    ]
+   ],
+   "tip": "只用单数；个别诗人：der Lyriker"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Zeitgeist",
+  "art": "der",
+  "pos": "n",
+  "zh": "时代精神；时尚潮流",
+  "ex": [
+   "Der Film trifft genau den Zeitgeist der Nachkriegsjahre."
+  ],
+  "ex_zh": "这部电影恰好抓住了战后年代的时代精神。",
+  "use": {
+   "col": [
+    [
+     "dem Zeitgeist entsprechen",
+     "符合时代潮流"
+    ],
+    [
+     "den Zeitgeist treffen",
+     "抓住时代精神"
+    ]
+   ],
+   "tip": "德语借入英语的词；只用单数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Avantgarde",
+  "art": "die",
+  "pos": "n",
+  "zh": "先锋派",
+  "ex": [
+   "Die Künstlerinnen gehörten zur Avantgarde der zwanziger Jahre."
+  ],
+  "ex_zh": "这些女艺术家属于二十年代的先锋派。",
+  "use": {
+   "col": [
+    [
+     "zur Avantgarde gehören",
+     "属于先锋派"
+    ],
+    [
+     "die künstlerische Avantgarde",
+     "艺术先锋"
+    ]
+   ],
+   "tip": "读 [avãˈɡardə]；形容词 avantgardistisch"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Strömung",
+  "art": "die",
+  "pl_full": "die Strömungen",
+  "pos": "n",
+  "zh": "潮流；流派；水流",
+  "ex": [
+   "Der Expressionismus war eine wichtige Strömung der Kunst im frühen 20. Jahrhundert."
+  ],
+  "ex_zh": "表现主义是二十世纪初艺术的一个重要流派。",
+  "use": {
+   "senses": [
+    "（思想、艺术的）流派、潮流",
+    "水流、气流"
+   ],
+   "col": [
+    [
+     "eine literarische Strömung",
+     "文学流派"
+    ],
+    [
+     "gegen die Strömung schwimmen",
+     "逆流而行"
+    ]
+   ],
+   "tip": "也指水流、气流"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Deutung",
+  "art": "die",
+  "pl_full": "die Deutungen",
+  "pos": "n",
+  "zh": "解读；阐释",
+  "ex": [
+   "Für das Gedicht gibt es mehrere mögliche Deutungen."
+  ],
+  "ex_zh": "这首诗有好几种可能的解读。",
+  "use": {
+   "col": [
+    [
+     "eine Deutung anbieten",
+     "提出一种解读"
+    ],
+    [
+     "die Deutung eines Traums",
+     "释梦"
+    ]
+   ],
+   "tip": "动词 deuten；Interpretation 是近义词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Nuance",
+  "art": "die",
+  "pl_full": "die Nuancen",
+  "pos": "n",
+  "zh": "细微差别",
+  "ex": [
+   "Die Übersetzung gibt die Nuancen des Originals nur unzureichend wieder."
+  ],
+  "ex_zh": "译文只是不充分地传达了原文的细微差别。",
+  "use": {
+   "col": [
+    [
+     "feine Nuancen",
+     "细微差别"
+    ],
+    [
+     "in allen Nuancen",
+     "在各种细微层次上"
+    ]
+   ],
+   "tip": "读 [nyˈɑ̃ːsə]；形容词 nuanciert"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Rhetorik",
+  "art": "die",
+  "pos": "n",
+  "zh": "修辞；辩才",
+  "ex": [
+   "Der Politiker überzeugt vor allem durch seine geschickte Rhetorik."
+  ],
+  "ex_zh": "这位政客主要凭借巧妙的修辞说服听众。",
+  "use": {
+   "col": [
+    [
+     "eine geschickte Rhetorik",
+     "巧妙的修辞"
+    ],
+    [
+     "leere Rhetorik",
+     "空洞的辞令"
+    ]
+   ],
+   "tip": "形容词 rhetorisch；rhetorische Frage 是反问"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Floskel",
+  "art": "die",
+  "pl_full": "die Floskeln",
+  "pos": "n",
+  "zh": "套话；空话",
+  "ex": [
+   "In dem Schreiben standen nur höfliche Floskeln, aber keine konkrete Antwort."
+  ],
+  "ex_zh": "信里只有客套话，没有具体回答。",
+  "use": {
+   "col": [
+    [
+     "eine leere Floskel",
+     "空洞的套话"
+    ],
+    [
+     "höfliche Floskeln",
+     "客套话"
+    ]
+   ],
+   "tip": "常见搭配：eine Floskel gebrauchen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Euphemismus",
+  "art": "der",
+  "pl_full": "die Euphemismen",
+  "pos": "n",
+  "zh": "委婉语",
+  "ex": [
+   "Das Wort Freisetzung ist in der Wirtschaft ein Euphemismus für Entlassung."
+  ],
+  "ex_zh": "Freisetzung 一词在经济界是「解雇」的委婉说法。",
+  "use": {
+   "col": [
+    [
+     "einen Euphemismus verwenden",
+     "使用委婉语"
+    ],
+    [
+     "ein beschönigender Euphemismus",
+     "粉饰的委婉说法"
+    ]
+   ],
+   "tip": "复数 Euphemismen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Unterton",
+  "art": "der",
+  "pl_full": "die Untertöne",
+  "pos": "n",
+  "zh": "弦外之音；潜在语气",
+  "ex": [
+   "In seiner Stimme lag ein ironischer Unterton."
+  ],
+  "ex_zh": "他的声音里带着一丝讽刺的意味。",
+  "use": {
+   "col": [
+    [
+     "ein drohender Unterton",
+     "威胁的口吻"
+    ],
+    [
+     "mit einem Unterton sprechen",
+     "带着弦外之音说话"
+    ]
+   ],
+   "tip": "复数变音：Untertöne；或用 Zwischentöne"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Anspielung",
+  "art": "die",
+  "pl_full": "die Anspielungen",
+  "pos": "n",
+  "zh": "影射；暗示",
+  "ex": [
+   "Seine Rede enthielt mehrere Anspielungen auf den Skandal der letzten Wochen."
+  ],
+  "ex_zh": "他的讲话里有好几处影射前几周的那桩丑闻。",
+  "gov": "die Anspielung auf + Akk.",
+  "use": {
+   "col": [
+    [
+     "eine Anspielung auf + Akk.",
+     "对……的影射"
+    ],
+    [
+     "eine versteckte Anspielung",
+     "隐晦的暗示"
+    ]
+   ],
+   "tip": "动词 anspielen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Polemik",
+  "art": "die",
+  "pl_full": "die Polemiken",
+  "pos": "n",
+  "zh": "论战；抨击",
+  "ex": [
+   "Der Artikel ist weniger eine sachliche Analyse als eine scharfe Polemik."
+  ],
+  "ex_zh": "这篇文章与其说是客观分析，不如说是尖锐的抨击。",
+  "use": {
+   "col": [
+    [
+     "scharfe Polemik",
+     "尖锐的抨击"
+    ],
+    [
+     "sich in Polemik verlieren",
+     "陷入无谓的攻击"
+    ]
+   ],
+   "tip": "形容词 polemisch；常含有情绪化、攻击性"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Plädoyer",
+  "art": "das",
+  "pl_full": "die Plädoyers",
+  "pos": "n",
+  "zh": "辩护词；有力的呼吁",
+  "ex": [
+   "Das Buch ist ein leidenschaftliches Plädoyer für mehr Toleranz."
+  ],
+  "ex_zh": "这本书是一篇呼吁更多宽容的热情之作。",
+  "gov": "das Plädoyer für + Akk.",
+  "use": {
+   "col": [
+    [
+     "ein Plädoyer halten",
+     "作辩护陈词"
+    ],
+    [
+     "ein Plädoyer für + Akk.",
+     "为……的呼吁"
+    ]
+   ],
+   "tip": "读 [pledoaˈjeː]；动词 plädieren"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Entgegnung",
+  "art": "die",
+  "pl_full": "die Entgegnungen",
+  "pos": "n",
+  "zh": "反驳；回应",
+  "ex": [
+   "Auf seine Kritik folgte eine ausführliche Entgegnung der Autorin."
+  ],
+  "ex_zh": "在他的批评之后，作者发表了一篇详细的回应。",
+  "use": {
+   "col": [
+    [
+     "eine Entgegnung schreiben",
+     "写反驳"
+    ],
+    [
+     "eine scharfe Entgegnung",
+     "尖锐的反驳"
+    ]
+   ],
+   "tip": "动词 entgegnen；近义 Erwiderung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Schlagabtausch",
+  "art": "der",
+  "pos": "n",
+  "zh": "激烈交锋；唇枪舌战",
+  "ex": [
+   "Bei der Debatte kam es zu einem heftigen Schlagabtausch zwischen den Kandidaten."
+  ],
+  "ex_zh": "辩论中候选人之间发生了激烈的交锋。",
+  "use": {
+   "col": [
+    [
+     "ein verbaler Schlagabtausch",
+     "言辞交锋"
+    ],
+    [
+     "ein heftiger Schlagabtausch",
+     "激烈的交锋"
+    ]
+   ],
+   "tip": "来自拳击；多用单数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Kontroverse",
+  "art": "die",
+  "pl_full": "die Kontroversen",
+  "pos": "n",
+  "zh": "争议；论战",
+  "ex": [
+   "Der Bau der neuen Autobahn hat eine Kontroverse in der Region ausgelöst."
+  ],
+  "ex_zh": "新高速公路的修建在当地引发了争议。",
+  "use": {
+   "col": [
+    [
+     "eine Kontroverse auslösen",
+     "引发争议"
+    ],
+    [
+     "eine heftige Kontroverse",
+     "激烈的争论"
+    ]
+   ],
+   "tip": "形容词 kontrovers；比 Streit 更书面"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Konsens",
+  "art": "der",
+  "pos": "n",
+  "zh": "共识",
+  "ex": [
+   "Nach langen Verhandlungen konnte endlich ein Konsens erzielt werden."
+  ],
+  "ex_zh": "经过漫长的谈判，终于达成了共识。",
+  "use": {
+   "col": [
+    [
+     "einen Konsens erzielen",
+     "达成共识"
+    ],
+    [
+     "im Konsens entscheiden",
+     "协商一致作出决定"
+    ]
+   ],
+   "tip": "反义：Dissens；只用单数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Disput",
+  "art": "der",
+  "pos": "n",
+  "zh": "争执；争论",
+  "ex": [
+   "Der Disput zwischen den beiden Professoren zog sich über Jahre hin."
+  ],
+  "ex_zh": "两位教授之间的争论持续了好几年。",
+  "use": {
+   "col": [
+    [
+     "einen Disput austragen",
+     "展开争论"
+    ],
+    [
+     "in einen Disput geraten",
+     "陷入争论"
+    ]
+   ],
+   "tip": "书面；多用单数；近义 Streit"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Kulturbetrieb",
+  "art": "der",
+  "pl_full": "die Kulturbetriebe",
+  "pos": "n",
+  "zh": "文化界；文化产业",
+  "ex": [
+   "Im Kulturbetrieb sind befristete Verträge leider immer noch weit verbreitet."
+  ],
+  "ex_zh": "在文化界，短期合同至今仍然很普遍。",
+  "use": {
+   "col": [
+    [
+     "im Kulturbetrieb arbeiten",
+     "在文化界工作"
+    ],
+    [
+     "der etablierte Kulturbetrieb",
+     "成熟的文化界"
+    ]
+   ],
+   "tip": "指剧院、博物馆等整个运作体系"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Kulturgut",
+  "art": "das",
+  "pl_full": "die Kulturgüter",
+  "pos": "n",
+  "zh": "文化财产；文物",
+  "ex": [
+   "Die Stadt investiert viel Geld in den Schutz historischer Kulturgüter."
+  ],
+  "ex_zh": "该市投入大量资金来保护历史文物。",
+  "use": {
+   "col": [
+    [
+     "Kulturgüter schützen",
+     "保护文化遗产"
+    ],
+    [
+     "ein wertvolles Kulturgut",
+     "珍贵的文化财产"
+    ]
+   ],
+   "tip": "复数变音：Kulturgüter"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Kulturförderung",
+  "art": "die",
+  "pos": "n",
+  "zh": "文化扶持；文化资助",
+  "ex": [
+   "Die Stadt hat die Kulturförderung im vergangenen Jahr deutlich gekürzt."
+  ],
+  "ex_zh": "该市去年明显削减了文化资助。",
+  "use": {
+   "col": [
+    [
+     "staatliche Kulturförderung",
+     "国家文化资助"
+    ],
+    [
+     "die Kulturförderung kürzen",
+     "削减文化资助"
+    ]
+   ],
+   "tip": "Förderung 在词表中已有"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Mäzen",
+  "art": "der",
+  "pl_full": "die Mäzene",
+  "pos": "n",
+  "zh": "艺术赞助人",
+  "ex": [
+   "Ohne private Mäzene könnten viele Theater nicht überleben."
+  ],
+  "ex_zh": "没有私人赞助人，很多剧院都无法生存。",
+  "use": {
+   "col": [
+    [
+     "ein großzügiger Mäzen",
+     "慷慨的赞助人"
+    ],
+    [
+     "als Mäzen auftreten",
+     "担任赞助人"
+    ]
+   ],
+   "tip": "n 变格：den Mäzen；女性：die Mäzenin"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Nachlass",
+  "art": "der",
+  "pl_full": "die Nachlässe",
+  "pos": "n",
+  "zh": "遗产；遗稿",
+  "ex": [
+   "Der Nachlass des Dichters befindet sich im Literaturarchiv in Marbach."
+  ],
+  "ex_zh": "诗人的遗稿保存在马尔巴赫文学档案馆。",
+  "use": {
+   "senses": [
+    "（逝者留下的）遗产、遗稿",
+    "（价格上的）减价"
+   ],
+   "col": [
+    [
+     "den Nachlass verwalten",
+     "管理遗产/遗稿"
+    ],
+    [
+     "aus dem Nachlass",
+     "出自遗稿"
+    ]
+   ],
+   "tip": "也指（价格）折扣：Nachlass auf den Preis"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Vermächtnis",
+  "art": "das",
+  "pl_full": "die Vermächtnisse",
+  "pos": "n",
+  "zh": "遗愿；遗产",
+  "ex": [
+   "Sein Vermächtnis lebt in seinen Büchern und Liedern weiter."
+  ],
+  "ex_zh": "他的遗产在他的书和歌里延续下去。",
+  "use": {
+   "col": [
+    [
+     "ein Vermächtnis hinterlassen",
+     "留下遗愿/遗产"
+    ],
+    [
+     "das geistige Vermächtnis",
+     "精神遗产"
+    ]
+   ],
+   "tip": "比 Erbe 更庄重"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Retrospektive",
+  "art": "die",
+  "pl_full": "die Retrospektiven",
+  "pos": "n",
+  "zh": "回顾展",
+  "ex": [
+   "Das Museum zeigt eine große Retrospektive des Malers zu seinem 80. Geburtstag."
+  ],
+  "ex_zh": "博物馆为这位画家八十岁生日举办了大型回顾展。",
+  "use": {
+   "col": [
+    [
+     "eine Retrospektive zeigen",
+     "举办回顾展"
+    ],
+    [
+     "die Retrospektive eines Regisseurs",
+     "某导演作品回顾展"
+    ]
+   ],
+   "tip": "也可指回顾，如 in der Retrospektive"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Vernissage",
+  "art": "die",
+  "pl_full": "die Vernissagen",
+  "pos": "n",
+  "zh": "展览开幕式",
+  "ex": [
+   "Zur Vernissage der Ausstellung kamen mehr als dreihundert Gäste."
+  ],
+  "ex_zh": "来了三百多位客人参加展览的开幕式。",
+  "use": {
+   "col": [
+    [
+     "zur Vernissage einladen",
+     "邀请参加开幕式"
+    ],
+    [
+     "eine Vernissage besuchen",
+     "参加开幕式"
+    ]
+   ],
+   "tip": "读 [vɛrniˈsaːʒə]；艺术圈说法"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Kurator",
+  "art": "der",
+  "pl_full": "die Kuratoren",
+  "pos": "n",
+  "zh": "策展人",
+  "ex": [
+   "Der Kurator hat die Werke von über vierzig Künstlern ausgewählt."
+  ],
+  "ex_zh": "策展人挑选了四十多位艺术家的作品。",
+  "use": {
+   "col": [
+    [
+     "als Kurator arbeiten",
+     "担任策展人"
+    ],
+    [
+     "der Kurator der Ausstellung",
+     "展览的策展人"
+    ]
+   ],
+   "tip": "女性：die Kuratorin；动词 kuratieren"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Exponat",
+  "art": "das",
+  "pl_full": "die Exponate",
+  "pos": "n",
+  "zh": "展品",
+  "ex": [
+   "Die wertvollsten Exponate der Sammlung sind nur zeitweise zu sehen."
+  ],
+  "ex_zh": "馆藏中最珍贵的展品只在特定时间展出。",
+  "use": {
+   "col": [
+    [
+     "ein Exponat ausstellen",
+     "展出展品"
+    ],
+    [
+     "die Exponate im Saal",
+     "大厅里的展品"
+    ]
+   ],
+   "tip": "读 [ɛkspoˈnaːt]"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Virtuose",
+  "art": "der",
+  "pl_full": "die Virtuosen",
+  "pos": "n",
+  "zh": "演奏名家；技艺精湛者",
+  "ex": [
+   "Der junge Pianist gilt als Virtuose seines Fachs."
+  ],
+  "ex_zh": "这位年轻钢琴家被认为是行内的演奏名家。",
+  "use": {
+   "col": [
+    [
+     "ein Virtuose auf der Geige",
+     "小提琴名家"
+    ],
+    [
+     "virtuos spielen",
+     "技艺精湛地演奏"
+    ]
+   ],
+   "tip": "n 变格；女性：die Virtuosin"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Meisterwerk",
+  "art": "das",
+  "pl_full": "die Meisterwerke",
+  "pos": "n",
+  "zh": "杰作",
+  "ex": [
+   "Viele Kritiker betrachten den Film als ein Meisterwerk der Filmgeschichte."
+  ],
+  "ex_zh": "很多评论家把这部电影视为电影史上的杰作。",
+  "use": {
+   "col": [
+    [
+     "ein Meisterwerk schaffen",
+     "创作杰作"
+    ],
+    [
+     "ein literarisches Meisterwerk",
+     "文学杰作"
+    ]
+   ],
+   "tip": "Meister + Werk"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Mundart",
+  "art": "die",
+  "pl_full": "die Mundarten",
+  "pos": "n",
+  "zh": "方言",
+  "ex": [
+   "In der Familie wird nur Mundart gesprochen, in der Schule aber Hochdeutsch."
+  ],
+  "ex_zh": "家里只说方言，在学校则说标准德语。",
+  "use": {
+   "col": [
+    [
+     "Mundart sprechen",
+     "说方言"
+    ],
+    [
+     "in Mundart",
+     "用方言"
+    ]
+   ],
+   "tip": "与 Dialekt 同义，Mundart 更偏文学化"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Wortwahl",
+  "art": "die",
+  "pos": "n",
+  "zh": "用词；措辞",
+  "ex": [
+   "Die Wortwahl in der Pressemitteilung wirkte bewusst vorsichtig."
+  ],
+  "ex_zh": "新闻稿的用词显得有意谨慎。",
+  "use": {
+   "col": [
+    [
+     "eine unglückliche Wortwahl",
+     "不当的用词"
+    ],
+    [
+     "auf die Wortwahl achten",
+     "注意措辞"
+    ]
+   ],
+   "tip": "只用单数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Tonfall",
+  "art": "der",
+  "pl_full": "die Tonfälle",
+  "pos": "n",
+  "zh": "语气；口吻",
+  "ex": [
+   "Sein ruhiger Tonfall hat die aufgeheizte Debatte entspannt."
+  ],
+  "ex_zh": "他平静的语气让激烈的辩论缓和了下来。",
+  "use": {
+   "col": [
+    [
+     "einen scharfen Tonfall anschlagen",
+     "口气变严厉"
+    ],
+    [
+     "im gleichen Tonfall",
+     "用同样的口气"
+    ]
+   ],
+   "tip": "复数变音：Tonfälle；比 Ton 更侧重整体语气"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Redner",
+  "art": "der",
+  "pl_full": "die Redner",
+  "pos": "n",
+  "zh": "演讲者；发言人",
+  "ex": [
+   "Der Redner bedankte sich zu Beginn bei allen Helfern."
+  ],
+  "ex_zh": "演讲者一开始就感谢了所有帮忙的人。",
+  "use": {
+   "col": [
+    [
+     "ein begabter Redner",
+     "有天赋的演说家"
+    ],
+    [
+     "die Redner der Veranstaltung",
+     "活动的发言人"
+    ]
+   ],
+   "tip": "女性：die Rednerin；Rede 已在词表中"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Zwischenruf",
+  "art": "der",
+  "pl_full": "die Zwischenrufe",
+  "pos": "n",
+  "zh": "（会场中的）插话；喊话",
+  "ex": [
+   "Mehrere Zwischenrufe aus dem Publikum unterbrachen die Rede des Ministers."
+  ],
+  "ex_zh": "观众席里的几次喊话打断了部长的讲话。",
+  "use": {
+   "col": [
+    [
+     "einen Zwischenruf machen",
+     "插话喊一句"
+    ],
+    [
+     "von Zwischenrufen unterbrochen werden",
+     "被插话打断"
+    ]
+   ],
+   "tip": "多用于议会、集会"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Sprachgebrauch",
+  "art": "der",
+  "pos": "n",
+  "zh": "语言使用习惯",
+  "ex": [
+   "Im allgemeinen Sprachgebrauch wird dieses Wort kaum noch verwendet."
+  ],
+  "ex_zh": "在一般用语里，这个词几乎不再使用了。",
+  "use": {
+   "col": [
+    [
+     "im üblichen Sprachgebrauch",
+     "按通常的用语习惯"
+    ],
+    [
+     "der heutige Sprachgebrauch",
+     "当今的用语习惯"
+    ]
+   ],
+   "tip": "只用单数；语言学常用"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Sprachgefühl",
+  "art": "das",
+  "pos": "n",
+  "zh": "语感",
+  "ex": [
+   "Mit der Zeit entwickelt man ein Sprachgefühl für richtige Formulierungen."
+  ],
+  "ex_zh": "随着时间推移，人会对正确的表达形成语感。",
+  "use": {
+   "col": [
+    [
+     "ein gutes Sprachgefühl haben",
+     "语感好"
+    ],
+    [
+     "das Sprachgefühl schulen",
+     "培养语感"
+    ]
+   ],
+   "tip": "只用单数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Lehnwort",
+  "art": "das",
+  "pl_full": "die Lehnwörter",
+  "pos": "n",
+  "zh": "借词",
+  "ex": [
+   "Das Wort „Kindergarten“ ist als Lehnwort in viele Sprachen übernommen worden."
+  ],
+  "ex_zh": "「Kindergarten」一词作为借词进入了许多语言。",
+  "use": {
+   "col": [
+    [
+     "ein Lehnwort aus dem Französischen",
+     "来自法语的借词"
+    ],
+    [
+     "ein eingedeutschtes Lehnwort",
+     "已德语化的借词"
+    ]
+   ],
+   "tip": "复数变音：Lehnwörter；Fremdwort 则保留外来形式"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Neologismus",
+  "art": "der",
+  "pl_full": "die Neologismen",
+  "pos": "n",
+  "zh": "新词",
+  "ex": [
+   "Das Verb googeln ist ein Neologismus, der es längst in den Duden geschafft hat."
+  ],
+  "ex_zh": "googeln 是个新词，早已被收进杜登词典。",
+  "use": {
+   "col": [
+    [
+     "einen Neologismus prägen",
+     "创造新词"
+    ],
+    [
+     "ein neuer Neologismus",
+     "新造词"
+    ]
+   ],
+   "tip": "语言学术语；复数 Neologismen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Fremdenverkehr",
+  "art": "der",
+  "pos": "n",
+  "zh": "旅游业；游客往来",
+  "ex": [
+   "Die Region lebt zu einem großen Teil vom Fremdenverkehr."
+  ],
+  "ex_zh": "这个地区很大程度上靠旅游业维持。",
+  "use": {
+   "col": [
+    [
+     "vom Fremdenverkehr leben",
+     "靠旅游业生活"
+    ],
+    [
+     "das Amt für Fremdenverkehr",
+     "旅游局"
+    ]
+   ],
+   "tip": "较老派的官方说法，现多用 Tourismus"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Massentourismus",
+  "art": "der",
+  "pos": "n",
+  "zh": "大众旅游；过度旅游",
+  "ex": [
+   "Der Massentourismus belastet die kleinen Küstenorte enorm."
+  ],
+  "ex_zh": "大众旅游给小的海滨城镇带来了巨大负担。",
+  "use": {
+   "col": [
+    [
+     "unter dem Massentourismus leiden",
+     "饱受大众旅游之苦"
+    ],
+    [
+     "den Massentourismus begrenzen",
+     "限制大众旅游"
+    ]
+   ],
+   "tip": "只用单数；对立：sanfter Tourismus"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Kurort",
+  "art": "der",
+  "pl_full": "die Kurorte",
+  "pos": "n",
+  "zh": "疗养地",
+  "ex": [
+   "Der Kurort ist bekannt für seine Thermalquellen und die frische Bergluft."
+  ],
+  "ex_zh": "这个疗养地以温泉和清新的山间空气闻名。",
+  "use": {
+   "col": [
+    [
+     "ein staatlich anerkannter Kurort",
+     "国家认可的疗养地"
+    ],
+    [
+     "einen Kurort besuchen",
+     "去疗养地"
+    ]
+   ],
+   "tip": "Kur 指疗养；复数 Kurorte"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Pilger",
+  "art": "der",
+  "pl_full": "die Pilger",
+  "pos": "n",
+  "zh": "朝圣者",
+  "ex": [
+   "Jedes Jahr wandern Tausende Pilger auf dem Jakobsweg nach Santiago de Compostela."
+  ],
+  "ex_zh": "每年有成千上万的朝圣者沿着圣雅各之路走向圣地亚哥。",
+  "use": {
+   "col": [
+    [
+     "als Pilger unterwegs sein",
+     "作为朝圣者上路"
+    ],
+    [
+     "die Pilger auf dem Jakobsweg",
+     "圣雅各之路上的朝圣者"
+    ]
+   ],
+   "tip": "女性：die Pilgerin；动词 pilgern"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Sehnsuchtsort",
+  "art": "der",
+  "pl_full": "die Sehnsuchtsorte",
+  "pos": "n",
+  "zh": "向往之地",
+  "ex": [
+   "Für viele Deutsche ist Italien noch immer der Sehnsuchtsort schlechthin."
+  ],
+  "ex_zh": "对很多德国人来说，意大利依旧是最令人向往的地方。",
+  "use": {
+   "col": [
+    [
+     "ein Sehnsuchtsort für + Akk.",
+     "……向往的地方"
+    ],
+    [
+     "zum Sehnsuchtsort werden",
+     "成为向往之地"
+    ]
+   ],
+   "tip": "Sehnsucht + Ort；复数 Sehnsuchtsorte"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Entschleunigung",
+  "art": "die",
+  "pos": "n",
+  "zh": "慢下来；放缓节奏",
+  "ex": [
+   "Viele suchen im Urlaub gezielt nach Entschleunigung vom hektischen Alltag."
+  ],
+  "ex_zh": "很多人在度假时特意寻找远离紧张日常的慢节奏。",
+  "use": {
+   "col": [
+    [
+     "nach Entschleunigung suchen",
+     "寻求慢节奏"
+    ],
+    [
+     "die Entschleunigung des Alltags",
+     "生活节奏的放慢"
+    ]
+   ],
+   "tip": "Beschleunigung 的反义新词；只用单数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Aussteiger",
+  "art": "der",
+  "pl_full": "die Aussteiger",
+  "pos": "n",
+  "zh": "脱离主流社会的人；退出者",
+  "ex": [
+   "Als Aussteiger lebt er seit Jahren in einem Dorf in Portugal."
+  ],
+  "ex_zh": "他作为一个脱离主流生活的人，多年来住在葡萄牙的一个村庄里。",
+  "use": {
+   "col": [
+    [
+     "ein Aussteiger aus der Karrieregesellschaft",
+     "逃离职场竞争的人"
+    ],
+    [
+     "als Aussteiger leben",
+     "过隐居生活"
+    ]
+   ],
+   "tip": "女性：die Aussteigerin；动词 aussteigen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Müßiggang",
+  "art": "der",
+  "pos": "n",
+  "zh": "游手好闲；悠闲度日",
+  "ex": [
+   "Müßiggang ist aller Laster Anfang, sagt ein altes Sprichwort."
+  ],
+  "ex_zh": "一句老话说：游手好闲是万恶之源。",
+  "use": {
+   "col": [
+    [
+     "dem Müßiggang frönen",
+     "沉溺于闲散"
+    ],
+    [
+     "sich dem Müßiggang hingeben",
+     "悠闲度日"
+    ]
+   ],
+   "tip": "书面、略带古意；只用单数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Zerstreuung",
+  "art": "die",
+  "pos": "n",
+  "zh": "消遣；分散注意力",
+  "ex": [
+   "Nach einer anstrengenden Woche suche ich Zerstreuung im Kino oder bei Freunden."
+  ],
+  "ex_zh": "忙碌的一周之后，我到电影院或朋友那里找些消遣。",
+  "use": {
+   "col": [
+    [
+     "Zerstreuung suchen",
+     "寻找消遣"
+    ],
+    [
+     "zur Zerstreuung",
+     "为了消遣"
+    ]
+   ],
+   "tip": "书面；动词 zerstreuen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Besinnung",
+  "art": "die",
+  "pos": "n",
+  "zh": "沉思；理智；意识",
+  "ex": [
+   "Das Wochenende im Kloster gab ihr die Gelegenheit zur Besinnung."
+  ],
+  "ex_zh": "在修道院度过的周末给了她静心思考的机会。",
+  "use": {
+   "senses": [
+    "静思、反省",
+    "理智；意识"
+   ],
+   "col": [
+    [
+     "zur Besinnung kommen",
+     "冷静下来"
+    ],
+    [
+     "die Besinnung verlieren",
+     "失去知觉"
+    ]
+   ],
+   "tip": "动词 sich besinnen；zur Besinnung kommen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Zeitzeuge",
+  "art": "der",
+  "pl_full": "die Zeitzeugen",
+  "pos": "n",
+  "zh": "历史见证人",
+  "ex": [
+   "Ein Zeitzeuge berichtete den Schülern vom Leben in der DDR."
+  ],
+  "ex_zh": "一位历史见证人向学生们讲述了东德的生活。",
+  "use": {
+   "col": [
+    [
+     "ein Zeitzeuge berichtet",
+     "历史见证人讲述"
+    ],
+    [
+     "Zeitzeugen befragen",
+     "采访历史见证人"
+    ]
+   ],
+   "tip": "n 变格：den Zeitzeugen；女性：die Zeitzeugin"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Autobiografie",
+  "art": "die",
+  "pl_full": "die Autobiografien",
+  "pos": "n",
+  "zh": "自传",
+  "ex": [
+   "In seiner Autobiografie schreibt er offen über seine Zeit als Journalist."
+  ],
+  "ex_zh": "他在自传里坦率地写下了自己当记者的那段时间。",
+  "use": {
+   "col": [
+    [
+     "eine Autobiografie verfassen",
+     "撰写自传"
+    ],
+    [
+     "seine Autobiografie veröffentlichen",
+     "出版自传"
+    ]
+   ],
+   "tip": "也拼 Autobiographie；传记是 Biografie"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Dichter",
+  "art": "der",
+  "pl_full": "die Dichter",
+  "pos": "n",
+  "zh": "诗人；文学家",
+  "ex": [
+   "Goethe gilt als der bedeutendste deutsche Dichter."
+  ],
+  "ex_zh": "歌德被视为最重要的德语诗人。",
+  "use": {
+   "col": [
+    [
+     "ein großer Dichter",
+     "伟大的诗人"
+    ],
+    [
+     "Dichter und Denker",
+     "诗人与思想家"
+    ]
+   ],
+   "tip": "女性：die Dichterin；动词 dichten"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Dichtung",
+  "art": "die",
+  "pl_full": "die Dichtungen",
+  "pos": "n",
+  "zh": "诗歌；文学创作；密封件",
+  "ex": [
+   "Die Dichtung der Romantik beschäftigt sich stark mit der Natur."
+  ],
+  "ex_zh": "浪漫主义的诗歌十分关注自然。",
+  "use": {
+   "senses": [
+    "（总体上的）诗歌创作",
+    "（技术）密封件、垫圈"
+   ],
+   "col": [
+    [
+     "Dichtung und Wahrheit",
+     "诗与真"
+    ],
+    [
+     "epische Dichtung",
+     "史诗"
+    ]
+   ],
+   "tip": "还有 Dichtung = 垫圈，多义"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Bühnenbild",
+  "art": "das",
+  "pl_full": "die Bühnenbilder",
+  "pos": "n",
+  "zh": "舞台布景",
+  "ex": [
+   "Das Bühnenbild der Inszenierung besteht nur aus wenigen weißen Wänden."
+  ],
+  "ex_zh": "这次演出的舞台布景只有几面白墙。",
+  "use": {
+   "col": [
+    [
+     "ein aufwendiges Bühnenbild",
+     "复杂的舞台布景"
+    ],
+    [
+     "das Bühnenbild entwerfen",
+     "设计舞台布景"
+    ]
+   ],
+   "tip": "设计者：der Bühnenbildner"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Intendant",
+  "art": "der",
+  "pl_full": "die Intendanten",
+  "pos": "n",
+  "zh": "剧院院长；台长",
+  "ex": [
+   "Der neue Intendant will das Programm des Theaters stärker für junge Menschen öffnen."
+  ],
+  "ex_zh": "新任院长希望让剧院的节目对年轻人更开放。",
+  "use": {
+   "col": [
+    [
+     "der Intendant des Theaters",
+     "剧院院长"
+    ],
+    [
+     "zum Intendanten ernennen",
+     "任命为院长"
+    ]
+   ],
+   "tip": "n 变格：den Intendanten；女性：die Intendantin"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Uraufführung",
+  "art": "die",
+  "pl_full": "die Uraufführungen",
+  "pos": "n",
+  "zh": "首演（作品的）",
+  "ex": [
+   "Die Uraufführung der Oper fand 1951 in Hamburg statt."
+  ],
+  "ex_zh": "这部歌剧的世界首演于1951年在汉堡举行。",
+  "use": {
+   "col": [
+    [
+     "die Uraufführung feiern",
+     "庆祝首演"
+    ],
+    [
+     "zur Uraufführung kommen",
+     "首次上演"
+    ]
+   ],
+   "tip": "指作品第一次公开上演，Premiere 指一轮演出的首场"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Sammlung",
+  "art": "die",
+  "pl_full": "die Sammlungen",
+  "pos": "n",
+  "zh": "收藏；藏品；集合",
+  "ex": [
+   "Die Sammlung des Museums umfasst über 20.000 Gemälde."
+  ],
+  "ex_zh": "博物馆的藏品包括两万多幅画。",
+  "use": {
+   "col": [
+    [
+     "eine Sammlung anlegen",
+     "建立收藏"
+    ],
+    [
+     "eine private Sammlung",
+     "私人收藏"
+    ]
+   ],
+   "tip": "动词 sammeln；注意与 Kollektion 不同"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "darlegen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "dargelegt",
+  "forms": "legt dar, legte dar, hat dargelegt",
+  "zh": "阐述；陈述",
+  "ex": [
+   "In seinem Gutachten legt der Experte die Risiken des Projekts ausführlich dar."
+  ],
+  "ex_zh": "专家在鉴定报告中详细阐述了这个项目的风险。",
+  "use": {
+   "col": [
+    [
+     "seinen Standpunkt darlegen",
+     "阐述立场"
+    ],
+    [
+     "die Gründe darlegen",
+     "陈述理由"
+    ]
+   ],
+   "tip": "可分动词；比 erklären 更正式"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "plädieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "plädiert",
+  "forms": "plädiert, plädierte, hat plädiert",
+  "zh": "主张；呼吁；作辩护",
+  "ex": [
+   "Die Verteidigerin plädiert in ihrem Schlusswort auf Freispruch für den Angeklagten."
+  ],
+  "ex_zh": "辩护律师在结案陈词中主张判被告无罪。",
+  "gov": "plädieren für + Akk.",
+  "use": {
+   "col": [
+    [
+     "für etwas plädieren",
+     "主张某事"
+    ],
+    [
+     "auf Freispruch plädieren",
+     "辩护称应判无罪"
+    ]
+   ],
+   "tip": "法律用 auf + Akk.，一般用 für + Akk."
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "anprangern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "angeprangert",
+  "forms": "prangert an, prangerte an, hat angeprangert",
+  "zh": "公开谴责；抨击",
+  "ex": [
+   "Der Verein prangert die schlechten Arbeitsbedingungen in der Branche an."
+  ],
+  "ex_zh": "协会公开谴责这个行业恶劣的工作条件。",
+  "use": {
+   "col": [
+    [
+     "Missstände anprangern",
+     "揭露弊端"
+    ],
+    [
+     "öffentlich anprangern",
+     "公开谴责"
+    ]
+   ],
+   "tip": "可分动词；源自 Pranger（耻辱柱）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "hinterfragen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "hinterfragt",
+  "forms": "hinterfragt, hinterfragte, hat hinterfragt",
+  "zh": "质疑；追问背后的原因",
+  "ex": [
+   "Man sollte Nachrichten im Netz immer kritisch hinterfragen."
+  ],
+  "ex_zh": "对网上的新闻应该始终保持质疑。",
+  "use": {
+   "col": [
+    [
+     "etwas kritisch hinterfragen",
+     "批判性地反思某事"
+    ],
+    [
+     "Gewohnheiten hinterfragen",
+     "质疑习惯"
+    ]
+   ],
+   "tip": "不可分动词；近年很常用"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "propagieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "propagiert",
+  "forms": "propagiert, propagierte, hat propagiert",
+  "zh": "宣扬；大力提倡",
+  "ex": [
+   "Die Partei propagiert eine radikale Änderung der Steuerpolitik."
+  ],
+  "ex_zh": "该党大力主张彻底改变税收政策。",
+  "use": {
+   "col": [
+    [
+     "eine Idee propagieren",
+     "宣扬一种想法"
+    ],
+    [
+     "ein Ideal propagieren",
+     "宣扬一种理想"
+    ]
+   ],
+   "tip": "名词 die Propaganda，略带贬义"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "beschönigen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "beschönigt",
+  "forms": "beschönigt, beschönigte, hat beschönigt",
+  "zh": "粉饰；美化",
+  "ex": [
+   "Der Bericht beschönigt die tatsächliche Lage in der Firma."
+  ],
+  "ex_zh": "这份报告粉饰了公司的实际情况。",
+  "use": {
+   "col": [
+    [
+     "die Wahrheit beschönigen",
+     "粉饰真相"
+    ],
+    [
+     "nichts beschönigen",
+     "不加掩饰"
+    ]
+   ],
+   "tip": "不可分动词；来自 schön"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verharmlosen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verharmlost",
+  "forms": "verharmlost, verharmloste, hat verharmlost",
+  "zh": "轻描淡写；低估严重性",
+  "ex": [
+   "Es wäre falsch, die Folgen des Klimawandels zu verharmlosen."
+  ],
+  "ex_zh": "轻描淡写地对待气候变化的后果是错误的。",
+  "use": {
+   "col": [
+    [
+     "ein Problem verharmlosen",
+     "轻视一个问题"
+    ],
+    [
+     "die Gefahr verharmlosen",
+     "低估危险"
+    ]
+   ],
+   "tip": "名词 die Verharmlosung；来自 harmlos"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verschleiern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verschleiert",
+  "forms": "verschleiert, verschleierte, hat verschleiert",
+  "zh": "掩盖；隐瞒",
+  "ex": [
+   "Die Firma versuchte, die Verluste in der Bilanz zu verschleiern."
+  ],
+  "ex_zh": "公司试图在资产负债表里掩盖亏损。",
+  "use": {
+   "col": [
+    [
+     "Tatsachen verschleiern",
+     "掩盖事实"
+    ],
+    [
+     "die Wahrheit verschleiern",
+     "隐瞒真相"
+    ]
+   ],
+   "tip": "不可分动词；来自 Schleier（面纱）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich einmischen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingemischt",
+  "forms": "mischt sich ein, mischte sich ein, hat sich eingemischt",
+  "zh": "插手；干涉",
+  "ex": [
+   "Ich möchte mich nicht in euren Streit einmischen."
+  ],
+  "ex_zh": "我不想插手你们的争吵。",
+  "gov": "sich einmischen in + Akk.",
+  "use": {
+   "col": [
+    [
+     "sich in etwas einmischen",
+     "干涉某事"
+    ],
+    [
+     "sich in fremde Angelegenheiten einmischen",
+     "管别人的闲事"
+    ]
+   ],
+   "tip": "名词 die Einmischung；口语里略带不满"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "rezitieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "rezitiert",
+  "forms": "rezitiert, rezitierte, hat rezitiert",
+  "zh": "朗诵；背诵",
+  "ex": [
+   "Zum Abschluss rezitierte sie ein Gedicht von Hölderlin auswendig."
+  ],
+  "ex_zh": "最后她背诵了一首荷尔德林的诗。",
+  "use": {
+   "col": [
+    [
+     "ein Gedicht rezitieren",
+     "朗诵一首诗"
+    ],
+    [
+     "aus dem Gedächtnis rezitieren",
+     "凭记忆背诵"
+    ]
+   ],
+   "tip": "名词 die Rezitation；比 vortragen 更文雅"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verklären",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verklärt",
+  "forms": "verklärt, verklärte, hat verklärt",
+  "zh": "美化；理想化",
+  "ex": [
+   "Im Rückblick verklärt er seine Jugend ein wenig."
+  ],
+  "ex_zh": "回顾往事时，他把自己的青年时代稍微美化了。",
+  "use": {
+   "col": [
+    [
+     "die Vergangenheit verklären",
+     "美化过去"
+    ],
+    [
+     "verklärt lächeln",
+     "陶醉地微笑"
+    ]
+   ],
+   "tip": "名词 die Verklärung；形容词 verklärt"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "glorifizieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "glorifiziert",
+  "forms": "glorifiziert, glorifizierte, hat glorifiziert",
+  "zh": "美化；神化",
+  "ex": [
+   "Der Film glorifiziert den Krieg und verschweigt das Leid der Menschen."
+  ],
+  "ex_zh": "这部电影美化战争，却对人们的苦难避而不谈。",
+  "use": {
+   "col": [
+    [
+     "Gewalt glorifizieren",
+     "美化暴力"
+    ],
+    [
+     "einen Helden glorifizieren",
+     "神化一位英雄"
+    ]
+   ],
+   "tip": "名词 die Glorifizierung，带批评色彩"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "thematisieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "thematisiert",
+  "forms": "thematisiert, thematisierte, hat thematisiert",
+  "zh": "作为话题提出；探讨",
+  "ex": [
+   "Der Dokumentarfilm thematisiert die Folgen der Digitalisierung für die Arbeitswelt."
+  ],
+  "ex_zh": "这部纪录片探讨了数字化对职场的影响。",
+  "use": {
+   "col": [
+    [
+     "ein Problem thematisieren",
+     "把问题提出来讨论"
+    ],
+    [
+     "offen thematisieren",
+     "公开探讨"
+    ]
+   ],
+   "tip": "名词 das Thema；学术、媒体里高频"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "beleuchten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "beleuchtet",
+  "forms": "beleuchtet, beleuchtete, hat beleuchtet",
+  "zh": "照亮；剖析",
+  "ex": [
+   "Die Studie beleuchtet das Problem aus mehreren Perspektiven."
+  ],
+  "ex_zh": "这项研究从多个角度剖析了这个问题。",
+  "use": {
+   "col": [
+    [
+     "ein Thema beleuchten",
+     "剖析一个话题"
+    ],
+    [
+     "die Hintergründe beleuchten",
+     "分析背景"
+    ]
+   ],
+   "tip": "比喻义常见于学术文章"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "resümieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "resümiert",
+  "forms": "resümiert, resümierte, hat resümiert",
+  "zh": "总结；概括",
+  "ex": [
+   "Zum Schluss resümierte der Moderator die wichtigsten Punkte der Diskussion."
+  ],
+  "ex_zh": "最后主持人总结了讨论的要点。",
+  "use": {
+   "col": [
+    [
+     "das Gespräch resümieren",
+     "总结谈话"
+    ],
+    [
+     "kurz resümiert",
+     "简而言之"
+    ]
+   ],
+   "tip": "名词 das Resümee；读 [rezyˈmiːrən]"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "veranschaulichen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "veranschaulicht",
+  "forms": "veranschaulicht, veranschaulichte, hat veranschaulicht",
+  "zh": "举例说明；使形象化",
+  "ex": [
+   "Die Grafik veranschaulicht die Entwicklung der Besucherzahlen."
+  ],
+  "ex_zh": "这张图直观地呈现了游客人数的变化。",
+  "use": {
+   "col": [
+    [
+     "etwas an einem Beispiel veranschaulichen",
+     "用例子说明某事"
+    ],
+    [
+     "anschaulich machen",
+     "使其直观"
+    ]
+   ],
+   "tip": "来自 anschaulich"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "anknüpfen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "angeknüpft",
+  "forms": "knüpft an, knüpfte an, hat angeknüpft",
+  "zh": "接续；以……为基础",
+  "ex": [
+   "In ihrem neuen Roman knüpft die Autorin an ihr erstes Buch an."
+  ],
+  "ex_zh": "这位作家在新小说里接续了她的第一本书。",
+  "gov": "anknüpfen an + Akk.",
+  "use": {
+   "col": [
+    [
+     "an etwas anknüpfen",
+     "接着……"
+    ],
+    [
+     "Kontakte anknüpfen",
+     "建立联系"
+    ]
+   ],
+   "tip": "可分动词；既可及物也可不及物"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "artikulieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "artikuliert",
+  "forms": "artikuliert, artikulierte, hat artikuliert",
+  "zh": "清晰表达；发音",
+  "ex": [
+   "Viele Jugendliche können ihre Wünsche kaum noch klar artikulieren."
+  ],
+  "ex_zh": "很多年轻人几乎不能清楚地表达自己的愿望了。",
+  "use": {
+   "col": [
+    [
+     "Bedürfnisse artikulieren",
+     "表达需求"
+    ],
+    [
+     "deutlich artikulieren",
+     "发音清楚"
+    ]
+   ],
+   "tip": "名词 die Artikulation"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "durchsickern",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "durchgesickert",
+  "forms": "sickert durch, sickerte durch, ist durchgesickert",
+  "zh": "（消息）泄露出来",
+  "ex": [
+   "Die Pläne des Konzerns sind vorzeitig an die Presse durchgesickert."
+  ],
+  "ex_zh": "公司的计划提前泄露给了媒体。",
+  "use": {
+   "col": [
+    [
+     "Informationen sickern durch",
+     "信息泄露出来"
+    ],
+    [
+     "an die Öffentlichkeit durchsickern",
+     "传到公众视野"
+    ]
+   ],
+   "tip": "可分动词；原意为渗出"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "zuspitzen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "zugespitzt",
+  "forms": "spitzt zu, spitzte zu, hat zugespitzt",
+  "zh": "使尖锐；激化",
+  "ex": [
+   "Die Medien spitzen den Konflikt oft unnötig zu."
+  ],
+  "ex_zh": "媒体常常没有必要地把冲突激化。",
+  "use": {
+   "col": [
+    [
+     "etwas zuspitzen",
+     "把某事推向尖锐"
+    ],
+    [
+     "sich zuspitzen",
+     "趋于紧张"
+    ]
+   ],
+   "tip": "sich zuspitzen：局势恶化；名词 die Zuspitzung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "polarisieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "polarisiert",
+  "forms": "polarisiert, polarisierte, hat polarisiert",
+  "zh": "使两极分化；引起对立",
+  "ex": [
+   "Der Politiker polarisiert mit seinen scharfen Äußerungen."
+  ],
+  "ex_zh": "这位政客以尖锐言论引发对立。",
+  "use": {
+   "col": [
+    [
+     "stark polarisieren",
+     "引起强烈对立"
+    ],
+    [
+     "die Gesellschaft polarisieren",
+     "使社会两极分化"
+    ]
+   ],
+   "tip": "可不带宾语使用；名词 die Polarisierung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "aufgreifen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "aufgegriffen",
+  "forms": "greift auf, griff auf, hat aufgegriffen",
+  "zh": "采纳；接过（话题）",
+  "ex": [
+   "Der Redner griff den Einwand sofort wieder auf."
+  ],
+  "ex_zh": "发言人立刻重新接过了这个异议。",
+  "use": {
+   "senses": [
+    "接过（话题、建议）",
+    "（警方）抓获"
+   ],
+   "col": [
+    [
+     "ein Thema aufgreifen",
+     "接过话题"
+    ],
+    [
+     "einen Vorschlag aufgreifen",
+     "采纳建议"
+    ]
+   ],
+   "tip": "可分动词；还可指「抓获」"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "aufrollen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "aufgerollt",
+  "forms": "rollt auf, rollte auf, hat aufgerollt",
+  "zh": "重新提起；重新审理",
+  "ex": [
+   "Die Zeitung hat den alten Fall noch einmal aufgerollt."
+  ],
+  "ex_zh": "这家报纸重新翻出了那桩旧案。",
+  "use": {
+   "col": [
+    [
+     "einen Fall neu aufrollen",
+     "重新审查某个案件"
+    ],
+    [
+     "eine Frage aufrollen",
+     "重新提出一个问题"
+    ]
+   ],
+   "tip": "可分动词；原意是把卷起来的东西展开"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "abdrucken",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgedruckt",
+  "forms": "druckt ab, druckte ab, hat abgedruckt",
+  "zh": "刊印；刊登",
+  "ex": [
+   "Die Zeitung druckte den Brief des Lesers im Wortlaut ab."
+  ],
+  "ex_zh": "报纸原文刊登了这位读者的来信。",
+  "use": {
+   "col": [
+    [
+     "einen Text abdrucken",
+     "刊出一篇文章"
+    ],
+    [
+     "im Wortlaut abdrucken",
+     "原文刊印"
+    ]
+   ],
+   "tip": "可分动词；名词 der Abdruck"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "rezensieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "rezensiert",
+  "forms": "rezensiert, rezensierte, hat rezensiert",
+  "zh": "写评论；评论",
+  "ex": [
+   "Die Kritikerin hat das Buch in der Zeitung ausführlich rezensiert."
+  ],
+  "ex_zh": "评论家在报纸上详细评论了这本书。",
+  "use": {
+   "col": [
+    [
+     "ein Buch rezensieren",
+     "评论一本书"
+    ],
+    [
+     "einen Film rezensieren",
+     "评论一部电影"
+    ]
+   ],
+   "tip": "名词 die Rezension"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "uraufführen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "uraufgeführt",
+  "forms": "führt urauf, führte urauf, hat uraufgeführt",
+  "zh": "首演（新作品）",
+  "ex": [
+   "Das Stück wurde 2019 in Wien uraufgeführt."
+  ],
+  "ex_zh": "这部剧于2019年在维也纳首演。",
+  "use": {
+   "col": [
+    [
+     "ein Werk uraufführen",
+     "首演一部作品"
+    ],
+    [
+     "uraufgeführt werden",
+     "被首演"
+    ]
+   ],
+   "tip": "多用被动；名词 die Uraufführung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "vertonen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "vertont",
+  "forms": "vertont, vertonte, hat vertont",
+  "zh": "为……谱曲",
+  "ex": [
+   "Schubert hat viele Gedichte von Goethe vertont."
+  ],
+  "ex_zh": "舒伯特为歌德的许多诗谱过曲。",
+  "use": {
+   "col": [
+    [
+     "ein Gedicht vertonen",
+     "给诗谱曲"
+    ],
+    [
+     "einen Film vertonen",
+     "为电影配乐"
+    ]
+   ],
+   "tip": "名词 die Vertonung；Ton + ver-"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "restaurieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "restauriert",
+  "forms": "restauriert, restaurierte, hat restauriert",
+  "zh": "修复（文物、建筑）",
+  "ex": [
+   "Das alte Rathaus wurde mit viel Aufwand restauriert."
+  ],
+  "ex_zh": "这座老市政厅经过大量工作被修复了。",
+  "use": {
+   "col": [
+    [
+     "ein Gemälde restaurieren",
+     "修复一幅画"
+    ],
+    [
+     "ein Gebäude restaurieren",
+     "修复建筑"
+    ]
+   ],
+   "tip": "名词 die Restaurierung；renovieren 用于普通房屋"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "kuratieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "kuratiert",
+  "forms": "kuratiert, kuratierte, hat kuratiert",
+  "zh": "策划（展览、节目）",
+  "ex": [
+   "Die Ausstellung wurde von einem jungen Team kuratiert."
+  ],
+  "ex_zh": "这个展览由一个年轻团队策划。",
+  "use": {
+   "col": [
+    [
+     "eine Ausstellung kuratieren",
+     "策划展览"
+    ],
+    [
+     "ein Programm kuratieren",
+     "策划节目"
+    ]
+   ],
+   "tip": "名词 der Kurator；也用于内容策展"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "huldigen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gehuldigt",
+  "forms": "huldigt, huldigte, hat gehuldigt",
+  "zh": "向……致敬；推崇",
+  "ex": [
+   "Der Film huldigt dem Komponisten auf eindrucksvolle Weise."
+  ],
+  "ex_zh": "这部电影以令人难忘的方式向作曲家致敬。",
+  "gov": "huldigen + Dat.",
+  "use": {
+   "col": [
+    [
+     "jemandem huldigen",
+     "向某人致敬"
+    ],
+    [
+     "einem Ideal huldigen",
+     "推崇某种理想"
+    ]
+   ],
+   "tip": "接与格；书面、略带古意"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "würdigen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gewürdigt",
+  "forms": "würdigt, würdigte, hat gewürdigt",
+  "zh": "表彰；高度评价",
+  "ex": [
+   "Die Stadt würdigte die Schriftstellerin mit einem Kulturpreis."
+  ],
+  "ex_zh": "该市授予这位作家文化奖以示表彰。",
+  "use": {
+   "col": [
+    [
+     "jemandes Leistung würdigen",
+     "表彰某人的成就"
+    ],
+    [
+     "gebührend würdigen",
+     "给予应有的肯定"
+    ]
+   ],
+   "tip": "名词 die Würdigung；来自 Würde"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "zelebrieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "zelebriert",
+  "forms": "zelebriert, zelebrierte, hat zelebriert",
+  "zh": "隆重举行；郑重其事地做",
+  "ex": [
+   "Er zelebriert das Kaffeetrinken wie ein kleines Ritual."
+  ],
+  "ex_zh": "他把喝咖啡当作一种小仪式般郑重其事。",
+  "use": {
+   "col": [
+    [
+     "etwas zelebrieren",
+     "郑重其事地做某事"
+    ],
+    [
+     "eine Messe zelebrieren",
+     "主持弥撒"
+    ]
+   ],
+   "tip": "本义是主持礼仪；比喻义略带调侃"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "pilgern",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "gepilgert",
+  "forms": "pilgert, pilgerte, ist gepilgert",
+  "zh": "朝圣；去朝拜",
+  "ex": [
+   "Jedes Jahr pilgern Tausende nach Santiago de Compostela."
+  ],
+  "ex_zh": "每年成千上万的人去圣地亚哥朝圣。",
+  "use": {
+   "col": [
+    [
+     "zu Fuß pilgern",
+     "徒步朝圣"
+    ],
+    [
+     "nach Rom pilgern",
+     "去罗马朝圣"
+    ]
+   ],
+   "tip": "名词 der Pilger；也可戏称大批人涌向某处"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "schwelgen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "geschwelgt",
+  "forms": "schwelgt, schwelgte, hat geschwelgt",
+  "zh": "沉醉；尽情享受",
+  "ex": [
+   "Sie schwelgte in Erinnerungen an ihre Studienzeit."
+  ],
+  "ex_zh": "她沉醉在对大学时光的回忆里。",
+  "gov": "schwelgen in + Dat.",
+  "use": {
+   "col": [
+    [
+     "in Erinnerungen schwelgen",
+     "沉浸在回忆里"
+    ],
+    [
+     "im Luxus schwelgen",
+     "尽情享受奢华"
+    ]
+   ],
+   "tip": "书面；常接 in + Dat."
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "flanieren",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "flaniert",
+  "forms": "flaniert, flanierte, ist flaniert",
+  "zh": "闲逛；漫步（街头）",
+  "ex": [
+   "Am Sonntag flanieren viele Leute am Rheinufer entlang."
+  ],
+  "ex_zh": "星期天很多人沿着莱茵河畔闲逛。",
+  "use": {
+   "col": [
+    [
+     "durch die Stadt flanieren",
+     "在城里闲逛"
+    ],
+    [
+     "am Ufer flanieren",
+     "在岸边漫步"
+    ]
+   ],
+   "tip": "名词 der Flaneur；比 spazieren 更悠闲"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verweilen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verweilt",
+  "forms": "verweilt, verweilte, hat verweilt",
+  "zh": "逗留；驻足",
+  "ex": [
+   "Wir verweilten lange vor dem berühmten Gemälde."
+  ],
+  "ex_zh": "我们在那幅名画前驻足了很久。",
+  "use": {
+   "col": [
+    [
+     "bei einem Thema verweilen",
+     "在某话题上多停留"
+    ],
+    [
+     "einen Moment verweilen",
+     "稍作停留"
+    ]
+   ],
+   "tip": "书面；日常说 bleiben"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "bereisen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bereist",
+  "forms": "bereist, bereiste, hat bereist",
+  "zh": "游历；走遍",
+  "ex": [
+   "Als Reiseschriftstellerin hat sie fast alle Kontinente bereist."
+  ],
+  "ex_zh": "作为旅行作家，她几乎走遍了所有大洲。",
+  "use": {
+   "col": [
+    [
+     "ein Land bereisen",
+     "游历一个国家"
+    ],
+    [
+     "die ganze Welt bereisen",
+     "走遍世界"
+    ]
+   ],
+   "tip": "不可分动词；宾语是地方，不加介词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "entschleunigen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "entschleunigt",
+  "forms": "entschleunigt, entschleunigte, hat entschleunigt",
+  "zh": "放慢节奏",
+  "ex": [
+   "Ein Wochenende ohne Handy kann den Alltag wunderbar entschleunigen."
+  ],
+  "ex_zh": "没有手机的周末能让日常生活的节奏慢下来。",
+  "use": {
+   "col": [
+    [
+     "den Alltag entschleunigen",
+     "放慢日常节奏"
+    ],
+    [
+     "sich entschleunigen",
+     "让自己慢下来"
+    ]
+   ],
+   "tip": "名词 die Entschleunigung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "zensieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "zensiert",
+  "forms": "zensiert, zensierte, hat zensiert",
+  "zh": "审查；打分",
+  "ex": [
+   "Die Regierung zensiert kritische Berichte im Internet."
+  ],
+  "ex_zh": "政府审查网上的批评性报道。",
+  "use": {
+   "senses": [
+    "（内容）审查",
+    "（学校）评分"
+   ],
+   "col": [
+    [
+     "Nachrichten zensieren",
+     "审查新闻"
+    ],
+    [
+     "Aufsätze zensieren",
+     "给作文打分"
+    ]
+   ],
+   "tip": "名词 die Zensur"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "manipulieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "manipuliert",
+  "forms": "manipuliert, manipulierte, hat manipuliert",
+  "zh": "操纵；篡改",
+  "ex": [
+   "Fotos lassen sich heute leicht manipulieren, um die Öffentlichkeit zu täuschen."
+  ],
+  "ex_zh": "如今很容易篡改照片来欺骗公众。",
+  "use": {
+   "col": [
+    [
+     "die öffentliche Meinung manipulieren",
+     "操纵舆论"
+    ],
+    [
+     "Daten manipulieren",
+     "篡改数据"
+    ]
+   ],
+   "tip": "名词 die Manipulation；带贬义"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "beipflichten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "beigepflichtet",
+  "forms": "pflichtet bei, pflichtete bei, hat beigepflichtet",
+  "zh": "赞同",
+  "ex": [
+   "Der Redner pflichtete seiner Kollegin in allen Punkten bei."
+  ],
+  "ex_zh": "发言人在所有观点上都赞同他的女同事。",
+  "gov": "beipflichten + Dat.",
+  "use": {
+   "col": [
+    [
+     "jemandem beipflichten",
+     "赞同某人"
+    ],
+    [
+     "einer Meinung beipflichten",
+     "赞同某种意见"
+    ]
+   ],
+   "tip": "可分动词，接与格；比 zustimmen 更书面"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "beschwichtigen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "beschwichtigt",
+  "forms": "beschwichtigt, beschwichtigte, hat beschwichtigt",
+  "zh": "安抚；平息",
+  "ex": [
+   "Der Sprecher versuchte, die aufgebrachte Menge zu beschwichtigen."
+  ],
+  "ex_zh": "发言人试图安抚愤怒的人群。",
+  "use": {
+   "col": [
+    [
+     "die Gemüter beschwichtigen",
+     "安抚情绪"
+    ],
+    [
+     "beschwichtigend einwirken",
+     "起安抚作用"
+    ]
+   ],
+   "tip": "名词 die Beschwichtigung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "einlenken",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingelenkt",
+  "forms": "lenkt ein, lenkte ein, hat eingelenkt",
+  "zh": "让步；改变强硬立场",
+  "ex": [
+   "Nach langem Streit lenkte die Regierung schließlich ein."
+  ],
+  "ex_zh": "经过长时间争吵，政府终于让步了。",
+  "use": {
+   "col": [
+    [
+     "im Streit einlenken",
+     "在争执中让步"
+    ],
+    [
+     "nach langem Zögern einlenken",
+     "犹豫许久后让步"
+    ]
+   ],
+   "tip": "可分动词；近义 nachgeben"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "widerlegen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "widerlegt",
+  "forms": "widerlegt, widerlegte, hat widerlegt",
+  "zh": "驳斥；证明……是错的",
+  "ex": [
+   "Die neue Studie widerlegt die bisherige Annahme der Forscher."
+  ],
+  "ex_zh": "这项新研究推翻了研究者此前的假设。",
+  "use": {
+   "col": [
+    [
+     "eine Theorie widerlegen",
+     "驳倒一个理论"
+    ],
+    [
+     "eine Behauptung widerlegen",
+     "驳斥一种说法"
+    ]
+   ],
+   "tip": "不可分动词；名词 die Widerlegung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "untermauern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "untermauert",
+  "forms": "untermauert, untermauerte, hat untermauert",
+  "zh": "佐证；巩固（论点）",
+  "ex": [
+   "Sie untermauerte ihre These mit aktuellen Zahlen aus der Statistik."
+  ],
+  "ex_zh": "她用最新的统计数字来佐证自己的论点。",
+  "use": {
+   "col": [
+    [
+     "eine These untermauern",
+     "佐证论点"
+    ],
+    [
+     "mit Beweisen untermauern",
+     "用证据支持"
+    ]
+   ],
+   "tip": "不可分动词；来自 Mauer"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "relativieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "relativiert",
+  "forms": "relativiert, relativierte, hat relativiert",
+  "zh": "使相对化；淡化",
+  "ex": [
+   "Der Autor relativiert seine frühere Kritik in einem späteren Interview."
+  ],
+  "ex_zh": "作者在后来的采访中淡化了自己先前的批评。",
+  "use": {
+   "col": [
+    [
+     "eine Aussage relativieren",
+     "淡化一种说法"
+    ],
+    [
+     "das Problem relativieren",
+     "使问题显得没那么严重"
+    ]
+   ],
+   "tip": "名词 die Relativierung；有时带贬义"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "tiefgründig",
+  "pos": "adj",
+  "zh": "意味深长的；有深度的",
+  "ex": [
+   "Der Film erzählt eine einfache Geschichte, die aber erstaunlich tiefgründig ist."
+  ],
+  "ex_zh": "这部电影讲了一个简单的故事，但意外地很有深度。",
+  "use": {
+   "col": [
+    [
+     "eine tiefgründige Frage",
+     "深刻的问题"
+    ],
+    [
+     "tiefgründig sein",
+     "耐人寻味"
+    ]
+   ],
+   "tip": "近义 tiefsinnig"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "hintergründig",
+  "pos": "adj",
+  "zh": "暗含深意的；言外有意的",
+  "ex": [
+   "Mit hintergründigem Humor beschreibt er den Büroalltag."
+  ],
+  "ex_zh": "他以耐人寻味的幽默描写办公室的日常。",
+  "use": {
+   "col": [
+    [
+     "hintergründiger Humor",
+     "言外有意的幽默"
+    ],
+    [
+     "hintergründig lächeln",
+     "意味深长地微笑"
+    ]
+   ],
+   "tip": "暗示背后还有别的含义"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "vielschichtig",
+  "pos": "adj",
+  "zh": "多层次的；复杂的",
+  "ex": [
+   "Das Thema Migration ist vielschichtig und lässt sich nicht auf einfache Antworten reduzieren."
+  ],
+  "ex_zh": "移民问题层次复杂，不能简化为简单的答案。",
+  "use": {
+   "col": [
+    [
+     "ein vielschichtiges Problem",
+     "多层面的问题"
+    ],
+    [
+     "eine vielschichtige Figur",
+     "立体的人物"
+    ]
+   ],
+   "tip": "近义 komplex"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "subtil",
+  "pos": "adj",
+  "zh": "细微的；微妙的",
+  "ex": [
+   "Die subtile Ironie des Autors entgeht vielen Lesern."
+  ],
+  "ex_zh": "作者那种微妙的讽刺让很多读者没有察觉。",
+  "use": {
+   "col": [
+    [
+     "subtile Unterschiede",
+     "细微差别"
+    ],
+    [
+     "subtil formulieren",
+     "含蓄地表达"
+    ]
+   ],
+   "tip": "读 [zʊpˈtiːl]"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "pointiert",
+  "pos": "adj",
+  "zh": "一针见血的；点睛的",
+  "ex": [
+   "Der Kommentator fasst die Lage in wenigen pointierten Sätzen zusammen."
+  ],
+  "ex_zh": "评论员用寥寥几句一针见血的话概括了局势。",
+  "use": {
+   "col": [
+    [
+     "pointiert formulieren",
+     "表达得一针见血"
+    ],
+    [
+     "eine pointierte Kritik",
+     "一针见血的批评"
+    ]
+   ],
+   "tip": "读 [poɛ̃ˈtiːɐ̯t]；来自 Pointe"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "prägnant",
+  "pos": "adj",
+  "zh": "简明扼要的",
+  "ex": [
+   "Die Autorin beschreibt das Problem knapp und prägnant."
+  ],
+  "ex_zh": "作者简洁而扼要地描述了这个问题。",
+  "use": {
+   "col": [
+    [
+     "prägnant formulieren",
+     "言简意赅地表达"
+    ],
+    [
+     "ein prägnanter Titel",
+     "简洁有力的标题"
+    ]
+   ],
+   "tip": "读 [prɛˈɡnant]；强调简短而有分量"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "eloquent",
+  "pos": "adj",
+  "zh": "口才好的；雄辩的",
+  "ex": [
+   "Die eloquente Rednerin überzeugte selbst ihre Gegner."
+  ],
+  "ex_zh": "这位口才出众的演讲者甚至说服了她的对手。",
+  "use": {
+   "col": [
+    [
+     "ein eloquenter Redner",
+     "雄辩的演讲者"
+    ],
+    [
+     "eloquent argumentieren",
+     "雄辩地论证"
+    ]
+   ],
+   "tip": "读 [eloˈkvɛnt]；名词 die Eloquenz"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "wortgewandt",
+  "pos": "adj",
+  "zh": "口才好的；善辩的",
+  "ex": [
+   "Er ist ein wortgewandter Verkäufer und überzeugt fast jeden Kunden."
+  ],
+  "ex_zh": "他是个能言善辩的销售员，几乎能说服每个客户。",
+  "use": {
+   "col": [
+    [
+     "wortgewandt argumentieren",
+     "善辩地论证"
+    ],
+    [
+     "eine wortgewandte Antwort",
+     "机敏的回答"
+    ]
+   ],
+   "tip": "近义 redegewandt、eloquent"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "schlagfertig",
+  "pos": "adj",
+  "zh": "反应敏捷、对答如流的",
+  "ex": [
+   "Sie antwortete schlagfertig auf die provokante Frage des Reporters."
+  ],
+  "ex_zh": "她对记者那个挑衅的问题应对得机智敏捷。",
+  "use": {
+   "col": [
+    [
+     "schlagfertig antworten",
+     "机智地回应"
+    ],
+    [
+     "nicht schlagfertig sein",
+     "反应不够快"
+    ]
+   ],
+   "tip": "名词 die Schlagfertigkeit"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "zynisch",
+  "pos": "adj",
+  "zh": "愤世嫉俗的；冷嘲热讽的",
+  "ex": [
+   "Seine zynischen Kommentare in den Sitzungen verletzten viele seiner Kollegen."
+  ],
+  "ex_zh": "他那些冷嘲热讽的评论伤害了很多同事。",
+  "use": {
+   "col": [
+    [
+     "eine zynische Bemerkung",
+     "冷嘲热讽的话"
+    ],
+    [
+     "zynisch lachen",
+     "冷笑"
+    ]
+   ],
+   "tip": "名词 der Zynismus"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "spöttisch",
+  "pos": "adj",
+  "zh": "嘲讽的",
+  "ex": [
+   "Sie warf ihm einen spöttischen Blick zu."
+  ],
+  "ex_zh": "她朝他投去一个嘲讽的眼神。",
+  "use": {
+   "col": [
+    [
+     "ein spöttisches Lächeln",
+     "嘲讽的微笑"
+    ],
+    [
+     "spöttisch bemerken",
+     "嘲讽地说"
+    ]
+   ],
+   "tip": "名词 der Spott；动词 spotten"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "bissig",
+  "pos": "adj",
+  "zh": "尖刻的；咬人的",
+  "ex": [
+   "Der Kolumnist ist für seine bissigen Kommentare bekannt."
+  ],
+  "ex_zh": "这位专栏作家以尖刻的评论闻名。",
+  "use": {
+   "col": [
+    [
+     "bissige Kritik",
+     "尖刻的批评"
+    ],
+    [
+     "ein bissiger Humor",
+     "辛辣的幽默"
+    ]
+   ],
+   "tip": "本义是爱咬人的（狗）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "einprägsam",
+  "pos": "adj",
+  "zh": "容易记住的；印象深刻的",
+  "ex": [
+   "Der neue Werbeslogan der Bank ist kurz und einprägsam."
+  ],
+  "ex_zh": "这条广告语简短又好记。",
+  "use": {
+   "col": [
+    [
+     "ein einprägsamer Slogan",
+     "好记的口号"
+    ],
+    [
+     "einprägsame Melodie",
+     "印象深的旋律"
+    ]
+   ],
+   "tip": "来自 sich etwas einprägen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "nichtssagend",
+  "pos": "adj",
+  "zh": "空洞的；没有实质内容的",
+  "ex": [
+   "Auf die Frage gab der Sprecher nur eine nichtssagende Antwort."
+  ],
+  "ex_zh": "对这个问题，发言人只给了一个空洞的回答。",
+  "use": {
+   "col": [
+    [
+     "eine nichtssagende Antwort",
+     "空洞的回答"
+    ],
+    [
+     "ein nichtssagender Titel",
+     "没有信息量的标题"
+    ]
+   ],
+   "tip": "注意写法：nichtssagend 连写"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sperrig",
+  "pos": "adj",
+  "zh": "难以接受的；笨重的；晦涩的",
+  "ex": [
+   "Der Roman ist sperrig und verlangt viel Geduld vom Leser."
+  ],
+  "ex_zh": "这部小说晦涩难读，需要读者很大的耐心。",
+  "use": {
+   "senses": [
+    "（文本、作品）晦涩难懂",
+    "（物体）笨重占地方"
+   ],
+   "col": [
+    [
+     "ein sperriger Text",
+     "晦涩的文本"
+    ],
+    [
+     "sperrige Gegenstände",
+     "占地方的物品"
+    ]
+   ],
+   "tip": "形容词，可指文本难懂或物体笨重"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "kitschig",
+  "pos": "adj",
+  "zh": "俗气的",
+  "ex": [
+   "Das Hotelzimmer war mit kitschigen Bildern an den Wänden dekoriert."
+  ],
+  "ex_zh": "酒店房间的墙上挂着俗气的画。",
+  "use": {
+   "col": [
+    [
+     "kitschig wirken",
+     "显得俗气"
+    ],
+    [
+     "ein kitschiger Film",
+     "俗套的电影"
+    ]
+   ],
+   "tip": "名词 der Kitsch"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "avantgardistisch",
+  "pos": "adj",
+  "zh": "先锋派的；前卫的",
+  "ex": [
+   "Das Theater ist für seine avantgardistischen Inszenierungen bekannt."
+  ],
+  "ex_zh": "这家剧院以前卫的舞台制作闻名。",
+  "use": {
+   "col": [
+    [
+     "avantgardistische Kunst",
+     "前卫艺术"
+    ],
+    [
+     "ein avantgardistisches Konzept",
+     "前卫的构想"
+    ]
+   ],
+   "tip": "名词 die Avantgarde"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "wegweisend",
+  "pos": "adj",
+  "zh": "具有指导意义的；开创性的",
+  "ex": [
+   "Die Studie lieferte wegweisende Erkenntnisse für die Forschung."
+  ],
+  "ex_zh": "这项研究为科研提供了开创性的见解。",
+  "use": {
+   "col": [
+    [
+     "eine wegweisende Entscheidung",
+     "方向性的决定"
+    ],
+    [
+     "wegweisend sein",
+     "具有开创意义"
+    ]
+   ],
+   "tip": "近义 richtungsweisend"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "kontrovers",
+  "pos": "adj",
+  "zh": "有争议的",
+  "ex": [
+   "Die Frage wird in der Öffentlichkeit seit Monaten kontrovers diskutiert."
+  ],
+  "ex_zh": "这个问题几个月来一直在公众中引发争议。",
+  "use": {
+   "col": [
+    [
+     "kontrovers diskutieren",
+     "有争论地讨论"
+    ],
+    [
+     "ein kontroverses Thema",
+     "有争议的话题"
+    ]
+   ],
+   "tip": "名词 die Kontroverse"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "unvoreingenommen",
+  "pos": "adj",
+  "zh": "不带偏见的",
+  "ex": [
+   "Eine gute Journalistin berichtet unvoreingenommen über alle Seiten."
+  ],
+  "ex_zh": "优秀的记者会不带偏见地报道各方。",
+  "use": {
+   "col": [
+    [
+     "unvoreingenommen sein",
+     "不带偏见"
+    ],
+    [
+     "unvoreingenommen zuhören",
+     "不带成见地倾听"
+    ]
+   ],
+   "tip": "反义 voreingenommen（有偏见）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "tendenziös",
+  "pos": "adj",
+  "zh": "有倾向性的；带偏见的",
+  "ex": [
+   "Die Berichterstattung des Senders wird oft als tendenziös kritisiert."
+  ],
+  "ex_zh": "该电视台的报道常被批评为带有倾向性。",
+  "use": {
+   "col": [
+    [
+     "tendenziös berichten",
+     "带倾向性地报道"
+    ],
+    [
+     "ein tendenziöser Artikel",
+     "有偏向的文章"
+    ]
+   ],
+   "tip": "读 [tɛndɛnˈtsjøːs]，含贬义"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "reißerisch",
+  "pos": "adj",
+  "zh": "哗众取宠的；耸人听闻的",
+  "ex": [
+   "Die Boulevardzeitung wählt für ihre Titelseite gern reißerische Überschriften."
+  ],
+  "ex_zh": "小报喜欢用耸人听闻的标题。",
+  "use": {
+   "col": [
+    [
+     "eine reißerische Schlagzeile",
+     "耸人听闻的标题"
+    ],
+    [
+     "reißerisch aufgemacht",
+     "做得哗众取宠"
+    ]
+   ],
+   "tip": "贬义；形容报道或广告"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "polemisch",
+  "pos": "adj",
+  "zh": "论战性的；尖锐攻击的",
+  "ex": [
+   "Der Artikel ist in einem polemischen Ton geschrieben."
+  ],
+  "ex_zh": "这篇文章是以论战的口吻写的。",
+  "use": {
+   "col": [
+    [
+     "polemisch argumentieren",
+     "攻击性地论证"
+    ],
+    [
+     "ein polemischer Beitrag",
+     "攻击性的文章"
+    ]
+   ],
+   "tip": "名词 die Polemik"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "bildhaft",
+  "pos": "adj",
+  "zh": "形象的；生动的",
+  "ex": [
+   "Die Dichterin beschreibt den Herbst in bildhaften Worten."
+  ],
+  "ex_zh": "诗人用形象的语言描写秋天。",
+  "use": {
+   "col": [
+    [
+     "bildhafte Sprache",
+     "形象的语言"
+    ],
+    [
+     "bildhaft erzählen",
+     "形象地讲述"
+    ]
+   ],
+   "tip": "指有画面感；anschaulich 更偏易懂"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "volkstümlich",
+  "pos": "adj",
+  "zh": "通俗的；民间的",
+  "ex": [
+   "Auf dem Fest wurden volkstümliche Lieder gesungen."
+  ],
+  "ex_zh": "庆典上唱着民间歌曲。",
+  "use": {
+   "col": [
+    [
+     "volkstümliche Musik",
+     "民间音乐"
+    ],
+    [
+     "volkstümlich erklären",
+     "通俗地解释"
+    ]
+   ],
+   "tip": "不要和 völkisch（种族主义色彩）混淆"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "mundartlich",
+  "pos": "adj",
+  "zh": "方言的",
+  "ex": [
+   "Sie spricht mit einer leicht mundartlichen Färbung."
+  ],
+  "ex_zh": "她说话带一点方言色彩。",
+  "use": {
+   "col": [
+    [
+     "mundartliche Ausdrücke",
+     "方言表达"
+    ],
+    [
+     "mundartlich gefärbt",
+     "带方言色彩的"
+    ]
+   ],
+   "tip": "名词 die Mundart"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "weltoffen",
+  "pos": "adj",
+  "zh": "对世界开放的",
+  "ex": [
+   "Hamburg gilt als eine weltoffene und tolerante Stadt."
+  ],
+  "ex_zh": "汉堡被认为是一座对世界开放、宽容的城市。",
+  "use": {
+   "col": [
+    [
+     "eine weltoffene Gesellschaft",
+     "对世界开放的社会"
+    ],
+    [
+     "weltoffen sein",
+     "思想开放"
+    ]
+   ],
+   "tip": "Welt + offen；常用于描述地方、社会"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "beschaulich",
+  "pos": "adj",
+  "zh": "宁静悠闲的",
+  "ex": [
+   "Das Dorf liegt beschaulich zwischen Weinbergen und Wald."
+  ],
+  "ex_zh": "村庄宁静地坐落在葡萄园和森林之间。",
+  "use": {
+   "col": [
+    [
+     "ein beschauliches Leben",
+     "宁静的生活"
+    ],
+    [
+     "beschauliche Ruhe",
+     "安详的宁静"
+    ]
+   ],
+   "tip": "略带书面；强调安静与沉思"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "pittoresk",
+  "pos": "adj",
+  "zh": "如画的；别致的",
+  "ex": [
+   "Die pittoreske Altstadt zieht jedes Jahr viele Touristen an."
+  ],
+  "ex_zh": "风景如画的老城每年都吸引大批游客。",
+  "use": {
+   "col": [
+    [
+     "ein pittoreskes Dorf",
+     "如画的村庄"
+    ],
+    [
+     "pittoreske Gassen",
+     "别致的小巷"
+    ]
+   ],
+   "tip": "读 [pɪtoˈrɛsk]；比 malerisch 更书面"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "überlaufen",
+  "pos": "adj",
+  "zh": "人满为患的",
+  "ex": [
+   "Im August sind die Strände an der Adria völlig überlaufen."
+  ],
+  "ex_zh": "八月时亚得里亚海的海滩人满为患。",
+  "use": {
+   "col": [
+    [
+     "ein überlaufener Ort",
+     "人满为患的地方"
+    ],
+    [
+     "überlaufen sein",
+     "人挤人"
+    ]
+   ],
+   "tip": "口语常说 überfüllt"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "abgeschieden",
+  "pos": "adj",
+  "zh": "偏僻的；与世隔绝的",
+  "ex": [
+   "Das Kloster liegt abgeschieden in einem engen Tal."
+  ],
+  "ex_zh": "修道院坐落在一个狭窄山谷里，与世隔绝。",
+  "use": {
+   "col": [
+    [
+     "abgeschieden leben",
+     "隐居度日"
+    ],
+    [
+     "ein abgeschiedener Ort",
+     "与世隔绝的地方"
+    ]
+   ],
+   "tip": "比 abgelegen 更强调安静、隔绝"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "kurzweilig",
+  "pos": "adj",
+  "zh": "轻松有趣的；不让人感到无聊的",
+  "ex": [
+   "Der Vortrag war informativ und überaus kurzweilig."
+  ],
+  "ex_zh": "这场报告信息丰富，而且非常有趣。",
+  "use": {
+   "col": [
+    [
+     "ein kurzweiliger Abend",
+     "轻松愉快的夜晚"
+    ],
+    [
+     "kurzweilig unterhalten",
+     "轻松有趣地娱乐"
+    ]
+   ],
+   "tip": "反义 langweilig"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ausgelassen",
+  "pos": "adj",
+  "zh": "欢快的；尽情玩乐的",
+  "ex": [
+   "Die Kinder tobten ausgelassen durch den Garten."
+  ],
+  "ex_zh": "孩子们在花园里尽情撒欢。",
+  "use": {
+   "col": [
+    [
+     "ausgelassen feiern",
+     "尽情庆祝"
+    ],
+    [
+     "in ausgelassener Stimmung",
+     "情绪欢快"
+    ]
+   ],
+   "tip": "注意与 auslassen 的 Partizip 同形"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "besinnlich",
+  "pos": "adj",
+  "zh": "静思的；宁静沉思的",
+  "ex": [
+   "Die Adventszeit ist für viele eine besinnliche Zeit."
+  ],
+  "ex_zh": "对很多人来说，降临节期间是安静沉思的时光。",
+  "use": {
+   "col": [
+    [
+     "eine besinnliche Zeit",
+     "沉思的时光"
+    ],
+    [
+     "besinnliche Weihnachten",
+     "宁静的圣诞"
+    ]
+   ],
+   "tip": "多用于节日问候"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ausgewogen",
+  "pos": "adj",
+  "zh": "均衡的；平衡的",
+  "ex": [
+   "Eine ausgewogene Berichterstattung gibt allen Seiten Raum."
+  ],
+  "ex_zh": "均衡的报道会给各方留出空间。",
+  "use": {
+   "col": [
+    [
+     "ausgewogen berichten",
+     "均衡地报道"
+    ],
+    [
+     "eine ausgewogene Ernährung",
+     "均衡饮食"
+    ]
+   ],
+   "tip": "反义 einseitig；来自 wiegen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "geschliffen",
+  "pos": "adj",
+  "zh": "精练的；考究的",
+  "ex": [
+   "Er hielt eine geschliffene Rede ohne ein einziges Zögern."
+  ],
+  "ex_zh": "他发表了一篇字斟句酌的演讲，没有一丝迟疑。",
+  "use": {
+   "col": [
+    [
+     "geschliffene Sprache",
+     "考究的语言"
+    ],
+    [
+     "ein geschliffener Stil",
+     "精练的风格"
+    ]
+   ],
+   "tip": "本义是磨光的（schleifen 的分词）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "wortkarg",
+  "pos": "adj",
+  "zh": "寡言少语的",
+  "ex": [
+   "Der alte Fischer war wortkarg und sprach kaum mit den Gästen."
+  ],
+  "ex_zh": "那位老渔夫寡言少语，几乎不和客人说话。",
+  "use": {
+   "col": [
+    [
+     "ein wortkarger Mensch",
+     "沉默寡言的人"
+    ],
+    [
+     "wortkarg antworten",
+     "简短地回答"
+    ]
+   ],
+   "tip": "反义 redselig"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ungezwungen",
+  "pos": "adj",
+  "zh": "随意自然的；不拘束的",
+  "ex": [
+   "Das Treffen verlief in einer ungezwungenen Atmosphäre."
+  ],
+  "ex_zh": "聚会在轻松自然的气氛中进行。",
+  "use": {
+   "col": [
+    [
+     "eine ungezwungene Atmosphäre",
+     "轻松的气氛"
+    ],
+    [
+     "sich ungezwungen unterhalten",
+     "无拘无束地聊天"
+    ]
+   ],
+   "tip": "来自 zwingen；反义 gezwungen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "das Wort ergreifen",
+  "pos": "phr",
+  "zh": "发言；开始讲话",
+  "ex": [
+   "Nach der Begrüßung ergriff der Vorsitzende das Wort."
+  ],
+  "ex_zh": "致欢迎辞之后，主席开始发言。",
+  "use": {
+   "col": [
+    [
+     "das Wort ergreifen",
+     "发言"
+    ],
+    [
+     "jemandem das Wort erteilen",
+     "给某人发言权"
+    ]
+   ],
+   "tip": "正式场合用语"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ins Rampenlicht rücken",
+  "pos": "phr",
+  "zh": "成为焦点；受到关注",
+  "ex": [
+   "Durch den Preis rückte die junge Autorin ins Rampenlicht."
+  ],
+  "ex_zh": "这个奖让这位年轻作家成为了焦点。",
+  "use": {
+   "col": [
+    [
+     "ins Rampenlicht rücken",
+     "成为焦点"
+    ],
+    [
+     "im Rampenlicht stehen",
+     "站在聚光灯下"
+    ]
+   ],
+   "tip": "rücken 的完成时用 ist"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "in aller Munde sein",
+  "pos": "phr",
+  "zh": "人人都在谈论",
+  "ex": [
+   "Das neue Album der Band ist derzeit in aller Munde."
+  ],
+  "ex_zh": "这支乐队的新专辑眼下人人都在谈论。",
+  "use": {
+   "col": [
+    [
+     "in aller Munde sein",
+     "人人都在谈论"
+    ],
+    [
+     "in aller Munde",
+     "广为人知"
+    ]
+   ],
+   "tip": "Munde 是古老的第三格形式"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "hoch im Kurs stehen",
+  "pos": "phr",
+  "zh": "很受欢迎；很受重视",
+  "ex": [
+   "Regionale Produkte stehen bei Touristen derzeit hoch im Kurs."
+  ],
+  "ex_zh": "地方特产眼下很受游客欢迎。",
+  "use": {
+   "col": [
+    [
+     "hoch im Kurs stehen",
+     "很受欢迎"
+    ],
+    [
+     "im Kurs sinken",
+     "行情下跌"
+    ]
+   ],
+   "tip": "Kurs 本义是行情、汇率"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "für Aufsehen sorgen",
+  "pos": "phr",
+  "zh": "引起轰动",
+  "ex": [
+   "Die Entscheidung des Intendanten sorgte in der Kulturszene für Aufsehen."
+  ],
+  "ex_zh": "院长的决定在文化圈引起轰动。",
+  "use": {
+   "col": [
+    [
+     "für Aufsehen sorgen",
+     "引起轰动"
+    ],
+    [
+     "Aufsehen erregen",
+     "引起关注"
+    ]
+   ],
+   "tip": "近义 für Furore sorgen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "in Vergessenheit geraten",
+  "pos": "phr",
+  "zh": "被遗忘",
+  "ex": [
+   "Viele alte Handwerke sind inzwischen in Vergessenheit geraten."
+  ],
+  "ex_zh": "很多古老的手工艺如今已被遗忘。",
+  "use": {
+   "col": [
+    [
+     "in Vergessenheit geraten",
+     "被遗忘"
+    ],
+    [
+     "in Vergessenheit bringen",
+     "使人遗忘"
+    ]
+   ],
+   "tip": "geraten 的完成时用 ist"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Anklang finden",
+  "pos": "phr",
+  "zh": "受到欢迎；得到共鸣",
+  "ex": [
+   "Ihre Ideen fanden beim Publikum großen Anklang."
+  ],
+  "ex_zh": "她的想法在观众中得到了很大的回响。",
+  "use": {
+   "col": [
+    [
+     "bei jemandem Anklang finden",
+     "受某人欢迎"
+    ],
+    [
+     "großen Anklang finden",
+     "大受欢迎"
+    ]
+   ],
+   "tip": "书面常用；近义 gut ankommen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Wellen schlagen",
+  "pos": "phr",
+  "zh": "引起轩然大波",
+  "ex": [
+   "Der Artikel schlug in der Öffentlichkeit hohe Wellen."
+  ],
+  "ex_zh": "这篇文章在公众中引起了轩然大波。",
+  "use": {
+   "col": [
+    [
+     "hohe Wellen schlagen",
+     "掀起大浪"
+    ],
+    [
+     "Wellen schlagen",
+     "引起反响"
+    ]
+   ],
+   "tip": "常说 hohe Wellen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "zwischen den Zeilen lesen",
+  "pos": "phr",
+  "zh": "读出言外之意",
+  "ex": [
+   "Wer zwischen den Zeilen liest, versteht, was der Autor wirklich meint."
+  ],
+  "ex_zh": "读得出字里行间的人，才懂作者真正想表达什么。",
+  "use": {
+   "col": [
+    [
+     "zwischen den Zeilen lesen",
+     "读出言外之意"
+    ],
+    [
+     "zwischen den Zeilen stehen",
+     "隐含在字里行间"
+    ]
+   ],
+   "tip": "Zeilen 大写；名词 die Zeile"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "etwas auf den Punkt bringen",
+  "pos": "phr",
+  "zh": "一语中的；精准概括",
+  "ex": [
+   "Mit diesem Satz hat sie das Problem genau auf den Punkt gebracht."
+  ],
+  "ex_zh": "她用这句话把问题说到了点子上。",
+  "use": {
+   "col": [
+    [
+     "auf den Punkt bringen",
+     "说到点子上"
+    ],
+    [
+     "auf den Punkt kommen",
+     "言归正传"
+    ]
+   ],
+   "tip": "常用于评价说得精准"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Farbe bekennen",
+  "pos": "phr",
+  "zh": "表明态度；亮明立场",
+  "ex": [
+   "In dieser Frage muss die Regierung endlich Farbe bekennen."
+  ],
+  "ex_zh": "在这个问题上，政府终于必须亮明立场了。",
+  "use": {
+   "col": [
+    [
+     "Farbe bekennen",
+     "亮明立场"
+    ],
+    [
+     "endlich Farbe bekennen",
+     "终于表明态度"
+    ]
+   ],
+   "tip": "Farbe 大写；来自纸牌游戏"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich in Szene setzen",
+  "pos": "phr",
+  "zh": "突出自己；出风头",
+  "ex": [
+   "Er versteht es, sich bei jedem Auftritt gekonnt in Szene zu setzen."
+  ],
+  "ex_zh": "他懂得在每次亮相时巧妙地展示自己。",
+  "use": {
+   "col": [
+    [
+     "sich in Szene setzen",
+     "展示自己"
+    ],
+    [
+     "etwas in Szene setzen",
+     "搬上舞台/展现某物"
+    ]
+   ],
+   "tip": "略带批评或调侃"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "den Ton angeben",
+  "pos": "phr",
+  "zh": "主导；说了算",
+  "ex": [
+   "In dieser Redaktion gibt der Chefredakteur den Ton an."
+  ],
+  "ex_zh": "在这个编辑部，总编说了算。",
+  "use": {
+   "col": [
+    [
+     "den Ton angeben",
+     "说了算"
+    ],
+    [
+     "den Ton treffen",
+     "把握好语气"
+    ]
+   ],
+   "tip": "来自音乐：定调"
+  }
+ }
+]

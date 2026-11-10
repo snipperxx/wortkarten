@@ -1,0 +1,9549 @@
+[
+ {
+  "lv": "B2",
+  "lemma": "Hochschule",
+  "art": "die",
+  "pl_full": "die Hochschulen",
+  "pos": "n",
+  "zh": "高等院校；大学",
+  "ex": [
+   "Viele Hochschulen in Deutschland bieten Studiengänge auf Englisch an."
+  ],
+  "ex_zh": "德国许多高校提供英语授课的专业。",
+  "use": {
+   "col": [
+    [
+     "an einer Hochschule studieren",
+     "在高校读书"
+    ],
+    [
+     "eine private Hochschule",
+     "私立高校"
+    ]
+   ],
+   "tip": "统称大学和应用科学大学；Uni 是口语"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fachhochschule",
+  "art": "die",
+  "pl_full": "die Fachhochschulen",
+  "pos": "n",
+  "zh": "应用科学大学",
+  "ex": [
+   "Die Fachhochschule legt mehr Wert auf Praxis als die klassische Universität."
+  ],
+  "ex_zh": "应用科学大学比传统大学更重视实践。",
+  "use": {
+   "col": [
+    [
+     "an der Fachhochschule studieren",
+     "在应用科学大学读书"
+    ],
+    [
+     "duales Studium an der Fachhochschule",
+     "在应用科学大学的双元制学习"
+    ]
+   ],
+   "tip": "缩写 FH；现多称 Hochschule für angewandte Wissenschaften"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fakultät",
+  "art": "die",
+  "pl_full": "die Fakultäten",
+  "pos": "n",
+  "zh": "学院；系",
+  "ex": [
+   "Die Fakultät für Informatik befindet sich auf dem neuen Campus."
+  ],
+  "ex_zh": "信息学院位于新校区。",
+  "use": {
+   "col": [
+    [
+     "an der Fakultät für Physik",
+     "在物理学院"
+    ],
+    [
+     "der Dekan der Fakultät",
+     "学院院长"
+    ]
+   ],
+   "tip": "Fachbereich 与之相近，各校叫法不同"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Vorlesung",
+  "art": "die",
+  "pl_full": "die Vorlesungen",
+  "pos": "n",
+  "zh": "大课；讲座课",
+  "ex": [
+   "Die Vorlesung beginnt um acht Uhr und dauert neunzig Minuten."
+  ],
+  "ex_zh": "这节大课八点开始，持续九十分钟。",
+  "use": {
+   "col": [
+    [
+     "eine Vorlesung besuchen",
+     "去听课"
+    ],
+    [
+     "die Vorlesung fällt aus",
+     "课取消"
+    ]
+   ],
+   "tip": "大班授课；小班讨论课是 Seminar，练习课是 Übung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Hörsaal",
+  "art": "der",
+  "pl_full": "die Hörsäle",
+  "pos": "n",
+  "zh": "阶梯教室；大教室",
+  "ex": [
+   "Im Hörsaal waren fast alle Plätze schon eine Stunde vor Beginn besetzt."
+  ],
+  "ex_zh": "开课前一小时，大教室里几乎所有座位都已被占。",
+  "use": {
+   "col": [
+    [
+     "einen Hörsaal reservieren",
+     "预订大教室"
+    ],
+    [
+     "ein überfüllter Hörsaal",
+     "挤满人的大教室"
+    ]
+   ],
+   "tip": "复数有变音"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Dozent",
+  "art": "der",
+  "pl_full": "die Dozenten",
+  "pos": "n",
+  "zh": "（高校）讲师",
+  "ex": [
+   "Der Dozent hat uns Literaturtipps für die Hausarbeit gegeben."
+  ],
+  "ex_zh": "讲师给了我们写课程论文的文献建议。",
+  "use": {
+   "col": [
+    [
+     "ein Dozent für Statistik",
+     "统计学讲师"
+    ],
+    [
+     "beim Dozenten nachfragen",
+     "向讲师询问"
+    ]
+   ],
+   "tip": "弱变化名词，阴性 die Dozentin；比 Professor 级别低"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Studiengang",
+  "art": "der",
+  "pl_full": "die Studiengänge",
+  "pos": "n",
+  "zh": "专业；学习方向",
+  "ex": [
+   "Ich habe mich für einen Studiengang mit vielen Programmierkursen entschieden."
+  ],
+  "ex_zh": "我选了一个有很多编程课的专业。",
+  "use": {
+   "col": [
+    [
+     "einen Studiengang wählen",
+     "选专业"
+    ],
+    [
+     "der Studiengang Informatik",
+     "计算机专业"
+    ]
+   ],
+   "tip": "指具体专业项目；Studienfach 多指所学学科"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Studienfach",
+  "art": "das",
+  "pl_full": "die Studienfächer",
+  "pos": "n",
+  "zh": "所学学科；专业",
+  "ex": [
+   "Welches Studienfach hast du im Bachelor belegt?"
+  ],
+  "ex_zh": "你本科学的是什么专业？",
+  "use": {
+   "col": [
+    [
+     "das Studienfach wechseln",
+     "换专业"
+    ],
+    [
+     "ein beliebtes Studienfach",
+     "热门专业"
+    ]
+   ],
+   "tip": "问专业时常用 Was studierst du?"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Bachelor",
+  "art": "der",
+  "pl_full": "die Bachelor",
+  "pos": "n",
+  "zh": "学士学位",
+  "ex": [
+   "Nach dem Bachelor wollte sie unbedingt noch einen Master machen."
+  ],
+  "ex_zh": "读完本科后，她很想再读个硕士。",
+  "use": {
+   "col": [
+    [
+     "den Bachelor abschließen",
+     "完成本科"
+    ],
+    [
+     "ein Bachelor in Informatik",
+     "计算机学士"
+    ]
+   ],
+   "tip": "口语中常说 den Bachelor machen；复数常不变"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Master",
+  "art": "der",
+  "pl_full": "die Master",
+  "pos": "n",
+  "zh": "硕士学位",
+  "ex": [
+   "Für den Master braucht man in der Regel einen Bachelor mit guter Note."
+  ],
+  "ex_zh": "读硕士通常需要成绩不错的本科学位。",
+  "use": {
+   "col": [
+    [
+     "einen Master machen",
+     "读硕士"
+    ],
+    [
+     "der Master of Science",
+     "理学硕士"
+    ]
+   ],
+   "tip": "此义的 Master 通常不加复数 -s"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Abschlussarbeit",
+  "art": "die",
+  "pl_full": "die Abschlussarbeiten",
+  "pos": "n",
+  "zh": "毕业论文",
+  "ex": [
+   "Meine Abschlussarbeit schreibe ich in Zusammenarbeit mit einer Firma."
+  ],
+  "ex_zh": "我和一家公司合作写毕业论文。",
+  "use": {
+   "col": [
+    [
+     "die Abschlussarbeit anmelden",
+     "申报毕业论文"
+    ],
+    [
+     "die Abschlussarbeit abgeben",
+     "提交毕业论文"
+    ]
+   ],
+   "tip": "包括 Bachelorarbeit 和 Masterarbeit 的统称"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Hausarbeit",
+  "art": "die",
+  "pl_full": "die Hausarbeiten",
+  "pos": "n",
+  "zh": "课程论文；家庭作业",
+  "ex": [
+   "Die Hausarbeit muss bis Ende des Semesters abgegeben werden."
+  ],
+  "ex_zh": "课程论文必须在学期结束前提交。",
+  "use": {
+   "senses": [
+    "（大学）课程论文",
+    "（中小学）家庭作业"
+   ],
+   "col": [
+    [
+     "eine Hausarbeit schreiben",
+     "写课程论文"
+    ],
+    [
+     "die Hausarbeit benoten",
+     "给课程论文打分"
+    ]
+   ],
+   "tip": "注意：也可指家务，要看语境"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Studiengebühr",
+  "art": "die",
+  "pl_full": "die Studiengebühren",
+  "pos": "n",
+  "zh": "学费",
+  "ex": [
+   "In den meisten Bundesländern gibt es keine Studiengebühren für Deutsche und EU-Bürger."
+  ],
+  "ex_zh": "大多数联邦州对德国人和欧盟公民不收学费。",
+  "use": {
+   "col": [
+    [
+     "Studiengebühren zahlen",
+     "缴学费"
+    ],
+    [
+     "Studiengebühren abschaffen",
+     "取消学费"
+    ]
+   ],
+   "tip": "多用复数；学期杂费是 Semesterbeitrag"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Semesterbeitrag",
+  "art": "der",
+  "pl_full": "die Semesterbeiträge",
+  "pos": "n",
+  "zh": "学期费用",
+  "ex": [
+   "Mit dem Semesterbeitrag ist auch das Semesterticket bezahlt."
+  ],
+  "ex_zh": "学期费里已经包含了学期交通票。",
+  "use": {
+   "col": [
+    [
+     "den Semesterbeitrag überweisen",
+     "汇学期费"
+    ],
+    [
+     "der Semesterbeitrag steigt",
+     "学期费上涨"
+    ]
+   ],
+   "tip": "缴了才能完成回报注册 Rückmeldung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Studienplatz",
+  "art": "der",
+  "pl_full": "die Studienplätze",
+  "pos": "n",
+  "zh": "大学名额",
+  "ex": [
+   "Für Medizin gibt es viel mehr Bewerber als Studienplätze."
+  ],
+  "ex_zh": "医学专业的申请者比名额多得多。",
+  "use": {
+   "col": [
+    [
+     "einen Studienplatz bekommen",
+     "拿到学位名额"
+    ],
+    [
+     "sich um einen Studienplatz bewerben",
+     "申请入学名额"
+    ]
+   ],
+   "tip": "复数有变音"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zulassung",
+  "art": "die",
+  "pl_full": "die Zulassungen",
+  "pos": "n",
+  "zh": "录取；准入",
+  "ex": [
+   "Die Zulassung zum Masterstudium hängt von den Deutschkenntnissen ab."
+  ],
+  "ex_zh": "能否被硕士专业录取取决于德语水平。",
+  "use": {
+   "col": [
+    [
+     "die Zulassung erhalten",
+     "获得录取"
+    ],
+    [
+     "eine Zulassung beantragen",
+     "申请准入"
+    ]
+   ],
+   "tip": "zulassen 的名词；Zulassungsbeschränkung = 名额限制"
+  },
+  "gov": "die Zulassung zu + Dat."
+ },
+ {
+  "lv": "B2",
+  "lemma": "Studienberatung",
+  "art": "die",
+  "pl_full": "die Studienberatungen",
+  "pos": "n",
+  "zh": "学业咨询",
+  "ex": [
+   "In der Studienberatung wurde mir ein anderer Studienverlauf empfohlen."
+  ],
+  "ex_zh": "学业咨询处建议我换一种学习安排。",
+  "use": {
+   "col": [
+    [
+     "zur Studienberatung gehen",
+     "去做学业咨询"
+    ],
+    [
+     "einen Termin bei der Studienberatung",
+     "预约学业咨询"
+    ]
+   ],
+   "tip": "大学里一般免费"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Pflichtfach",
+  "art": "das",
+  "pl_full": "die Pflichtfächer",
+  "pos": "n",
+  "zh": "必修课",
+  "ex": [
+   "Statistik ist in unserem Studiengang ein Pflichtfach."
+  ],
+  "ex_zh": "统计学是我们专业的必修课。",
+  "use": {
+   "col": [
+    [
+     "ein Pflichtfach belegen",
+     "修必修课"
+    ],
+    [
+     "Pflichtfächer und Wahlfächer",
+     "必修课与选修课"
+    ]
+   ],
+   "tip": "反义词 Wahlfach"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Wahlfach",
+  "art": "das",
+  "pl_full": "die Wahlfächer",
+  "pos": "n",
+  "zh": "选修课",
+  "ex": [
+   "Als Wahlfach habe ich einen Kurs über maschinelles Lernen gewählt."
+  ],
+  "ex_zh": "作为选修课，我选了一门机器学习课程。",
+  "use": {
+   "col": [
+    [
+     "ein Wahlfach wählen",
+     "选选修课"
+    ],
+    [
+     "als Wahlfach anbieten",
+     "作为选修课开设"
+    ]
+   ],
+   "tip": "同义 Wahlpflichtfach 为限选课"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Leistungspunkt",
+  "art": "der",
+  "pl_full": "die Leistungspunkte",
+  "pos": "n",
+  "zh": "学分",
+  "ex": [
+   "Für das Modul bekommt man sechs Leistungspunkte."
+  ],
+  "ex_zh": "这个模块能拿到六个学分。",
+  "use": {
+   "col": [
+    [
+     "Leistungspunkte sammeln",
+     "攒学分"
+    ],
+    [
+     "genügend Leistungspunkte haben",
+     "学分够"
+    ]
+   ],
+   "tip": "也叫 Credit Points 或 ECTS-Punkte"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Modul",
+  "art": "das",
+  "pl_full": "die Module",
+  "pos": "n",
+  "zh": "模块；课程单元",
+  "ex": [
+   "Jedes Modul wird mit einer Klausur oder einer Hausarbeit abgeschlossen."
+  ],
+  "ex_zh": "每个模块以一次笔试或一篇课程论文结束。",
+  "use": {
+   "col": [
+    [
+     "ein Modul belegen",
+     "修一个模块"
+    ],
+    [
+     "das Modul bestehen",
+     "通过模块"
+    ]
+   ],
+   "tip": "复数 -e；Modulhandbuch 是课程手册"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Lehrveranstaltung",
+  "art": "die",
+  "pl_full": "die Lehrveranstaltungen",
+  "pos": "n",
+  "zh": "教学课程",
+  "ex": [
+   "Die meisten Lehrveranstaltungen finden im neuen Gebäude statt."
+  ],
+  "ex_zh": "大多数课程都在新楼里上。",
+  "use": {
+   "col": [
+    [
+     "eine Lehrveranstaltung besuchen",
+     "上课"
+    ],
+    [
+     "sich für Lehrveranstaltungen anmelden",
+     "报名选课"
+    ]
+   ],
+   "tip": "统称 Vorlesung、Seminar、Übung 等"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Tutorium",
+  "art": "das",
+  "pl_full": "die Tutorien",
+  "pos": "n",
+  "zh": "辅导课",
+  "ex": [
+   "Im Tutorium üben wir den Stoff aus der Vorlesung anhand von Aufgaben."
+  ],
+  "ex_zh": "在辅导课上我们通过习题练习大课的内容。",
+  "use": {
+   "col": [
+    [
+     "ein Tutorium leiten",
+     "带辅导课"
+    ],
+    [
+     "am Tutorium teilnehmen",
+     "参加辅导课"
+    ]
+   ],
+   "tip": "由高年级学生 Tutor 带领；复数 Tutorien"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Studienverlauf",
+  "art": "der",
+  "pl_full": "die Studienverläufe",
+  "pos": "n",
+  "zh": "学习进程安排",
+  "ex": [
+   "Laut Studienverlaufsplan sollte man im ersten Semester die Grundlagenfächer belegen."
+  ],
+  "ex_zh": "按学习进程表，第一学期应该修基础课。",
+  "use": {
+   "col": [
+    [
+     "den Studienverlauf planen",
+     "规划学业"
+    ],
+    [
+     "einen flexiblen Studienverlauf",
+     "灵活的学业进程"
+    ]
+   ],
+   "tip": "Studienverlaufsplan 是常见官方文件"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fachsemester",
+  "art": "das",
+  "pl_full": "die Fachsemester",
+  "pos": "n",
+  "zh": "专业学期数",
+  "ex": [
+   "Ich bin gerade im dritten Fachsemester und habe noch keine Klausur wiederholt."
+  ],
+  "ex_zh": "我现在是专业第三学期，还没有补考过。",
+  "use": {
+   "col": [
+    [
+     "im fünften Fachsemester sein",
+     "读专业第五学期"
+    ],
+    [
+     "Hochschulsemester und Fachsemester",
+     "总学期与专业学期"
+    ]
+   ],
+   "tip": "换专业后 Fachsemester 会重新计数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Regelstudienzeit",
+  "art": "die",
+  "pl_full": "die Regelstudienzeiten",
+  "pos": "n",
+  "zh": "标准学制",
+  "ex": [
+   "Die Regelstudienzeit für den Master beträgt vier Semester."
+  ],
+  "ex_zh": "硕士的标准学制是四个学期。",
+  "use": {
+   "col": [
+    [
+     "die Regelstudienzeit überschreiten",
+     "超过标准学制"
+    ],
+    [
+     "in der Regelstudienzeit abschließen",
+     "在标准学制内毕业"
+    ]
+   ],
+   "tip": "与 BAföG 和居留许可有关，常被提到"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Studienabbrecher",
+  "art": "der",
+  "pl_full": "die Studienabbrecher",
+  "pos": "n",
+  "zh": "辍学者",
+  "ex": [
+   "Die Zahl der Studienabbrecher ist in technischen Fächern besonders hoch."
+  ],
+  "ex_zh": "理工科的辍学者人数特别多。",
+  "use": {
+   "col": [
+    [
+     "die Quote der Studienabbrecher",
+     "辍学率"
+    ],
+    [
+     "Studienabbrecher beraten",
+     "为辍学者提供咨询"
+    ]
+   ],
+   "tip": "阴性 die Studienabbrecherin；动词 das Studium abbrechen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Hochschulabschluss",
+  "art": "der",
+  "pl_full": "die Hochschulabschlüsse",
+  "pos": "n",
+  "zh": "高校学位；大学毕业文凭",
+  "ex": [
+   "Für diese Stelle ist ein Hochschulabschluss in Informatik erforderlich."
+  ],
+  "ex_zh": "这个职位要求有计算机专业的高校学位。",
+  "use": {
+   "col": [
+    [
+     "einen Hochschulabschluss haben",
+     "有大学学位"
+    ],
+    [
+     "ein abgeschlossener Hochschulabschluss",
+     "已取得的学位"
+    ]
+   ],
+   "tip": "招聘启事常见；复数有变音"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Akademiker",
+  "art": "der",
+  "pl_full": "die Akademiker",
+  "pos": "n",
+  "zh": "受过高等教育的人",
+  "ex": [
+   "In ihrer Familie ist sie die erste Akademikerin."
+  ],
+  "ex_zh": "在她家里，她是第一位大学毕业生。",
+  "use": {
+   "col": [
+    [
+     "ein Akademiker sein",
+     "是大学毕业生"
+    ],
+    [
+     "die Akademikerquote",
+     "高学历者比例"
+    ]
+   ],
+   "tip": "阴性 die Akademikerin"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Bildung",
+  "art": "die",
+  "pos": "n",
+  "zh": "教育；素养",
+  "ex": [
+   "Gute Bildung ist der Schlüssel zu besseren Chancen auf dem Arbeitsmarkt."
+  ],
+  "ex_zh": "良好的教育是在劳动力市场上获得更多机会的关键。",
+  "use": {
+   "senses": [
+    "教育",
+    "教养；知识素养"
+   ],
+   "col": [
+    [
+     "eine gute Bildung erhalten",
+     "接受良好教育"
+    ],
+    [
+     "politische Bildung",
+     "政治教育"
+    ]
+   ],
+   "tip": "不可数；Ausbildung 指职业培训"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Bildungssystem",
+  "art": "das",
+  "pl_full": "die Bildungssysteme",
+  "pos": "n",
+  "zh": "教育体系",
+  "ex": [
+   "Das deutsche Bildungssystem trennt Kinder schon früh in verschiedene Schulformen."
+  ],
+  "ex_zh": "德国的教育体系很早就把孩子分到不同类型的学校。",
+  "use": {
+   "col": [
+    [
+     "das Bildungssystem reformieren",
+     "改革教育体系"
+    ],
+    [
+     "ein durchlässiges Bildungssystem",
+     "层次可流动的教育体系"
+    ]
+   ],
+   "tip": "durchlässig 指不同路径之间可以转换"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Grundschule",
+  "art": "die",
+  "pl_full": "die Grundschulen",
+  "pos": "n",
+  "zh": "小学",
+  "ex": [
+   "Nach der Grundschule wechseln die Kinder auf eine weiterführende Schule."
+  ],
+  "ex_zh": "读完小学后，孩子们转入中等学校。",
+  "use": {
+   "col": [
+    [
+     "in die Grundschule kommen",
+     "上小学"
+    ],
+    [
+     "die Grundschule besuchen",
+     "上小学"
+    ]
+   ],
+   "tip": "一般四年（柏林、勃兰登堡六年）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gymnasium",
+  "art": "das",
+  "pl_full": "die Gymnasien",
+  "pos": "n",
+  "zh": "文理中学",
+  "ex": [
+   "Am Gymnasium kann man nach der zwölften oder dreizehnten Klasse das Abitur machen."
+  ],
+  "ex_zh": "在文理中学，读完十二年级或十三年级可以参加高中毕业考试。",
+  "use": {
+   "col": [
+    [
+     "aufs Gymnasium gehen",
+     "上文理中学"
+    ],
+    [
+     "ein Gymnasium besuchen",
+     "就读文理中学"
+    ]
+   ],
+   "tip": "复数 Gymnasien；和英语 gym 无关"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Realschule",
+  "art": "die",
+  "pl_full": "die Realschulen",
+  "pos": "n",
+  "zh": "实科中学",
+  "ex": [
+   "Viele Absolventen der Realschule beginnen anschließend eine Ausbildung."
+  ],
+  "ex_zh": "许多实科中学毕业生随后开始职业培训。",
+  "use": {
+   "col": [
+    [
+     "die Realschule abschließen",
+     "从实科中学毕业"
+    ],
+    [
+     "einen Realschulabschluss haben",
+     "有实科中学毕业证"
+    ]
+   ],
+   "tip": "毕业证又叫 mittlere Reife"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Hauptschule",
+  "art": "die",
+  "pl_full": "die Hauptschulen",
+  "pos": "n",
+  "zh": "主体中学",
+  "ex": [
+   "Die Hauptschule wurde in mehreren Bundesländern abgeschafft."
+  ],
+  "ex_zh": "主体中学在好几个联邦州已被取消。",
+  "use": {
+   "col": [
+    [
+     "auf die Hauptschule gehen",
+     "上主体中学"
+    ],
+    [
+     "einen Hauptschulabschluss machen",
+     "拿主体中学毕业证"
+    ]
+   ],
+   "tip": "学术要求最低的一种中学"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gesamtschule",
+  "art": "die",
+  "pl_full": "die Gesamtschulen",
+  "pos": "n",
+  "zh": "综合中学",
+  "ex": [
+   "An der Gesamtschule lernen Kinder mit unterschiedlichen Leistungen gemeinsam."
+  ],
+  "ex_zh": "在综合中学里，成绩各异的孩子一起学习。",
+  "use": {
+   "col": [
+    [
+     "eine Gesamtschule besuchen",
+     "就读综合中学"
+    ],
+    [
+     "integrierte Gesamtschule",
+     "一体化综合中学"
+    ]
+   ],
+   "tip": "合并了几种中学的类型"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Abitur",
+  "art": "das",
+  "pos": "n",
+  "zh": "高中毕业考试；高中毕业证",
+  "ex": [
+   "Mit dem Abitur darf man in Deutschland an einer Universität studieren."
+  ],
+  "ex_zh": "有了高中毕业证，在德国就可以上大学。",
+  "use": {
+   "col": [
+    [
+     "das Abitur machen",
+     "参加高中毕业考试"
+    ],
+    [
+     "ein gutes Abitur",
+     "高中毕业成绩好"
+    ]
+   ],
+   "tip": "口语 Abi；通常无复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Berufsschule",
+  "art": "die",
+  "pl_full": "die Berufsschulen",
+  "pos": "n",
+  "zh": "职业学校",
+  "ex": [
+   "Während der Ausbildung geht er zwei Tage pro Woche zur Berufsschule."
+  ],
+  "ex_zh": "培训期间他每周有两天去职业学校。",
+  "use": {
+   "col": [
+    [
+     "zur Berufsschule gehen",
+     "去职业学校"
+    ],
+    [
+     "Berufsschule und Betrieb",
+     "职业学校和企业"
+    ]
+   ],
+   "tip": "双元制的理论部分"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Schulpflicht",
+  "art": "die",
+  "pos": "n",
+  "zh": "义务教育",
+  "ex": [
+   "In Deutschland gilt die Schulpflicht ab dem sechsten Lebensjahr."
+  ],
+  "ex_zh": "在德国，从六岁起就适用义务教育。",
+  "use": {
+   "col": [
+    [
+     "die allgemeine Schulpflicht",
+     "普遍义务教育"
+    ],
+    [
+     "gegen die Schulpflicht verstoßen",
+     "违反义务教育规定"
+    ]
+   ],
+   "tip": "没有复数；一般九到十年"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Schulabschluss",
+  "art": "der",
+  "pl_full": "die Schulabschlüsse",
+  "pos": "n",
+  "zh": "中学毕业证",
+  "ex": [
+   "Ohne Schulabschluss ist es schwer, eine Ausbildungsstelle zu finden."
+  ],
+  "ex_zh": "没有中学毕业证很难找到培训岗位。",
+  "use": {
+   "col": [
+    [
+     "einen Schulabschluss nachholen",
+     "补拿中学毕业证"
+    ],
+    [
+     "ohne Schulabschluss",
+     "没有毕业证"
+    ]
+   ],
+   "tip": "复数有变音"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Lehrplan",
+  "art": "der",
+  "pl_full": "die Lehrpläne",
+  "pos": "n",
+  "zh": "教学大纲",
+  "ex": [
+   "Der Lehrplan sieht vor, dass die Schüler ab der dritten Klasse Englisch lernen."
+  ],
+  "ex_zh": "教学大纲规定学生从三年级起学英语。",
+  "use": {
+   "col": [
+    [
+     "den Lehrplan überarbeiten",
+     "修订教学大纲"
+    ],
+    [
+     "laut Lehrplan",
+     "根据教学大纲"
+    ]
+   ],
+   "tip": "复数有变音"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Chancengleichheit",
+  "art": "die",
+  "pos": "n",
+  "zh": "机会平等",
+  "ex": [
+   "Die Chancengleichheit im Bildungssystem ist in Deutschland ein viel diskutiertes Thema."
+  ],
+  "ex_zh": "德国教育体系中的机会平等是个讨论很多的话题。",
+  "use": {
+   "col": [
+    [
+     "für Chancengleichheit sorgen",
+     "保障机会平等"
+    ],
+    [
+     "mehr Chancengleichheit fordern",
+     "要求更多机会平等"
+    ]
+   ],
+   "tip": "不加复数；Bildungsgerechtigkeit 近义"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Ganztagsschule",
+  "art": "die",
+  "pl_full": "die Ganztagsschulen",
+  "pos": "n",
+  "zh": "全日制学校",
+  "ex": [
+   "Immer mehr Eltern wünschen sich eine Ganztagsschule für ihre Kinder."
+  ],
+  "ex_zh": "越来越多家长希望孩子上全日制学校。",
+  "use": {
+   "col": [
+    [
+     "eine Ganztagsschule besuchen",
+     "上全日制学校"
+    ],
+    [
+     "Ganztagsschulen ausbauen",
+     "扩建全日制学校"
+    ]
+   ],
+   "tip": "午后也有课程和看护"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Berufsausbildung",
+  "art": "die",
+  "pl_full": "die Berufsausbildungen",
+  "pos": "n",
+  "zh": "职业培训",
+  "ex": [
+   "Nach der Berufsausbildung hat er sofort eine Stelle in der Firma bekommen."
+  ],
+  "ex_zh": "职业培训结束后他立刻在公司得到了一个职位。",
+  "use": {
+   "col": [
+    [
+     "eine Berufsausbildung machen",
+     "接受职业培训"
+    ],
+    [
+     "eine abgeschlossene Berufsausbildung",
+     "已完成的职业培训"
+    ]
+   ],
+   "tip": "简称 Ausbildung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Wissenschaftlerin",
+  "art": "die",
+  "pl_full": "die Wissenschaftlerinnen",
+  "pos": "n",
+  "zh": "女科学家",
+  "ex": [
+   "Die Wissenschaftlerin leitet seit Jahren ein internationales Forschungsprojekt."
+  ],
+  "ex_zh": "这位女科学家多年来领导着一个国际研究项目。",
+  "use": {
+   "col": [
+    [
+     "eine renommierte Wissenschaftlerin",
+     "著名的女科学家"
+    ],
+    [
+     "als Wissenschaftlerin arbeiten",
+     "当科学家"
+    ]
+   ],
+   "tip": "阳性 der Wissenschaftler"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Forscher",
+  "art": "der",
+  "pl_full": "die Forscher",
+  "pos": "n",
+  "zh": "研究者",
+  "ex": [
+   "Ein Team von Forschern hat einen neuen Algorithmus entwickelt."
+  ],
+  "ex_zh": "一个研究小组开发出了一种新算法。",
+  "use": {
+   "col": [
+    [
+     "ein Forscher auf dem Gebiet der KI",
+     "人工智能领域的研究者"
+    ],
+    [
+     "Forscher entdecken",
+     "研究者发现"
+    ]
+   ],
+   "tip": "阴性 die Forscherin；Wissenschaftler 更正式"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Forschungsprojekt",
+  "art": "das",
+  "pl_full": "die Forschungsprojekte",
+  "pos": "n",
+  "zh": "研究项目",
+  "ex": [
+   "Ich arbeite als studentische Hilfskraft in einem Forschungsprojekt zur Sprachtechnologie."
+  ],
+  "ex_zh": "我在一个语言技术研究项目里做学生助理。",
+  "use": {
+   "col": [
+    [
+     "ein Forschungsprojekt leiten",
+     "领导研究项目"
+    ],
+    [
+     "ein von der EU gefördertes Forschungsprojekt",
+     "欧盟资助的研究项目"
+    ]
+   ],
+   "tip": ""
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Forschungsfrage",
+  "art": "die",
+  "pl_full": "die Forschungsfragen",
+  "pos": "n",
+  "zh": "研究问题",
+  "ex": [
+   "Die Forschungsfrage muss am Anfang der Arbeit klar formuliert werden."
+  ],
+  "ex_zh": "研究问题必须在论文开头清楚地表述出来。",
+  "use": {
+   "col": [
+    [
+     "eine Forschungsfrage formulieren",
+     "提出研究问题"
+    ],
+    [
+     "die zentrale Forschungsfrage",
+     "核心研究问题"
+    ]
+   ],
+   "tip": "同义 Fragestellung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fragestellung",
+  "art": "die",
+  "pl_full": "die Fragestellungen",
+  "pos": "n",
+  "zh": "问题设定；研究问题",
+  "ex": [
+   "Die Fragestellung der Studie ist relativ eng gefasst."
+  ],
+  "ex_zh": "这项研究的问题设定相对狭窄。",
+  "use": {
+   "col": [
+    [
+     "eine interessante Fragestellung",
+     "有意思的问题设定"
+    ],
+    [
+     "die Fragestellung eingrenzen",
+     "缩小问题范围"
+    ]
+   ],
+   "tip": ""
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Labor",
+  "art": "das",
+  "pl_full": "die Labore",
+  "pos": "n",
+  "zh": "实验室",
+  "ex": [
+   "Im Labor werden die Proben unter strengen Sicherheitsvorschriften untersucht."
+  ],
+  "ex_zh": "样本在实验室里按严格的安全规定进行检验。",
+  "use": {
+   "col": [
+    [
+     "im Labor arbeiten",
+     "在实验室工作"
+    ],
+    [
+     "ein Labor einrichten",
+     "设立实验室"
+    ]
+   ],
+   "tip": "复数 Labore 或 Laboratorien（少）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Experiment",
+  "art": "das",
+  "pl_full": "die Experimente",
+  "pos": "n",
+  "zh": "实验",
+  "ex": [
+   "Das Experiment wurde unter kontrollierten Bedingungen wiederholt."
+  ],
+  "ex_zh": "这个实验在受控条件下重复进行了。",
+  "use": {
+   "col": [
+    [
+     "ein Experiment durchführen",
+     "进行实验"
+    ],
+    [
+     "ein Experiment wiederholen",
+     "重复实验"
+    ]
+   ],
+   "tip": "动词 experimentieren；Versuch 是更口语的近义词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Beobachtung",
+  "art": "die",
+  "pl_full": "die Beobachtungen",
+  "pos": "n",
+  "zh": "观察；观测",
+  "ex": [
+   "Die Beobachtung über mehrere Monate lieferte überraschende Daten."
+  ],
+  "ex_zh": "历时数月的观察得出了令人意外的数据。",
+  "use": {
+   "col": [
+    [
+     "eine Beobachtung machen",
+     "做出观察"
+    ],
+    [
+     "eigene Beobachtungen",
+     "自己的观察"
+    ]
+   ],
+   "tip": "动词 beobachten"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Messung",
+  "art": "die",
+  "pl_full": "die Messungen",
+  "pos": "n",
+  "zh": "测量",
+  "ex": [
+   "Die Messung ergab einen deutlich höheren Wert als erwartet."
+  ],
+  "ex_zh": "测量得出的数值明显高于预期。",
+  "use": {
+   "col": [
+    [
+     "eine Messung durchführen",
+     "进行测量"
+    ],
+    [
+     "genaue Messungen",
+     "精确的测量"
+    ]
+   ],
+   "tip": "动词 messen；Messwert 为测量值"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Messwert",
+  "art": "der",
+  "pl_full": "die Messwerte",
+  "pos": "n",
+  "zh": "测量值",
+  "ex": [
+   "Alle Messwerte wurden in einer Tabelle zusammengetragen."
+  ],
+  "ex_zh": "所有测量值都汇集到了一张表里。",
+  "use": {
+   "col": [
+    [
+     "einen Messwert ablesen",
+     "读取测量值"
+    ],
+    [
+     "die Messwerte auswerten",
+     "分析测量值"
+    ]
+   ],
+   "tip": ""
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Stichprobe",
+  "art": "die",
+  "pl_full": "die Stichproben",
+  "pos": "n",
+  "zh": "抽样；样本",
+  "ex": [
+   "Die Stichprobe umfasste tausend zufällig ausgewählte Haushalte."
+  ],
+  "ex_zh": "样本包括一千户随机抽取的家庭。",
+  "use": {
+   "col": [
+    [
+     "eine repräsentative Stichprobe",
+     "有代表性的样本"
+    ],
+    [
+     "eine Stichprobe ziehen",
+     "抽样"
+    ]
+   ],
+   "tip": "日常也指“抽查”"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Befragung",
+  "art": "die",
+  "pl_full": "die Befragungen",
+  "pos": "n",
+  "zh": "问卷调查；询问",
+  "ex": [
+   "Die Befragung unter Studierenden ergab, dass viele Geldsorgen haben."
+  ],
+  "ex_zh": "对大学生的调查显示，许多人有经济上的担忧。",
+  "use": {
+   "col": [
+    [
+     "eine Befragung durchführen",
+     "进行调查"
+    ],
+    [
+     "eine anonyme Befragung",
+     "匿名调查"
+    ]
+   ],
+   "tip": "动词 befragen；也指警方的询问"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Erhebung",
+  "art": "die",
+  "pl_full": "die Erhebungen",
+  "pos": "n",
+  "zh": "调查；统计采集",
+  "ex": [
+   "Die Erhebung der Daten dauerte insgesamt drei Monate."
+  ],
+  "ex_zh": "数据的采集总共持续了三个月。",
+  "use": {
+   "col": [
+    [
+     "eine statistische Erhebung",
+     "统计调查"
+    ],
+    [
+     "Daten erheben",
+     "采集数据"
+    ]
+   ],
+   "tip": "动词 erheben；更正式、统计味更浓"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Auswertung",
+  "art": "die",
+  "pl_full": "die Auswertungen",
+  "pos": "n",
+  "zh": "分析；评估",
+  "ex": [
+   "Die Auswertung der Fragebögen hat mehrere Wochen gedauert."
+  ],
+  "ex_zh": "问卷的分析花了好几周。",
+  "use": {
+   "col": [
+    [
+     "die Auswertung der Ergebnisse",
+     "结果分析"
+    ],
+    [
+     "eine Auswertung durchführen",
+     "进行分析"
+    ]
+   ],
+   "tip": "动词 auswerten"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Erkenntnis",
+  "art": "die",
+  "pl_full": "die Erkenntnisse",
+  "pos": "n",
+  "zh": "认识；研究发现",
+  "ex": [
+   "Aus der Studie ergeben sich neue Erkenntnisse über das Lernverhalten."
+  ],
+  "ex_zh": "这项研究带来了关于学习行为的新发现。",
+  "use": {
+   "col": [
+    [
+     "neue Erkenntnisse gewinnen",
+     "获得新认识"
+    ],
+    [
+     "wissenschaftliche Erkenntnisse",
+     "科学发现"
+    ]
+   ],
+   "tip": "复数常用；Erkenntnis 也是“领悟”"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Schlussfolgerung",
+  "art": "die",
+  "pl_full": "die Schlussfolgerungen",
+  "pos": "n",
+  "zh": "结论；推论",
+  "ex": [
+   "Aus den Daten lässt sich keine eindeutige Schlussfolgerung ziehen."
+  ],
+  "ex_zh": "从这些数据中得不出明确的结论。",
+  "use": {
+   "col": [
+    [
+     "eine Schlussfolgerung ziehen",
+     "得出结论"
+    ],
+    [
+     "zu einer Schlussfolgerung kommen",
+     "得出结论"
+    ]
+   ],
+   "tip": "同义 Fazit（更口语）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Auswirkung",
+  "art": "die",
+  "pl_full": "die Auswirkungen",
+  "pos": "n",
+  "zh": "影响；后果",
+  "ex": [
+   "Die Auswirkungen der Pandemie auf das Lernen sind bis heute spürbar."
+  ],
+  "ex_zh": "疫情对学习的影响至今仍能感受到。",
+  "use": {
+   "col": [
+    [
+     "negative Auswirkungen haben",
+     "有负面影响"
+    ],
+    [
+     "Auswirkungen auf etwas",
+     "对……的影响"
+    ]
+   ],
+   "tip": "多用复数，常用 auf + Akk."
+  },
+  "gov": "Auswirkungen auf + Akk."
+ },
+ {
+  "lv": "B2",
+  "lemma": "Quelle",
+  "art": "die",
+  "pl_full": "die Quellen",
+  "pos": "n",
+  "zh": "来源；出处",
+  "ex": [
+   "Bei wissenschaftlichen Arbeiten muss jede Quelle genau angegeben werden."
+  ],
+  "ex_zh": "写学术论文必须准确标出每个出处。",
+  "use": {
+   "senses": [
+    "来源；出处",
+    "泉"
+   ],
+   "col": [
+    [
+     "eine zuverlässige Quelle",
+     "可靠的来源"
+    ],
+    [
+     "die Quelle angeben",
+     "注明出处"
+    ]
+   ],
+   "tip": "也指泉水；Quellenangabe = 出处标注"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fußnote",
+  "art": "die",
+  "pl_full": "die Fußnoten",
+  "pos": "n",
+  "zh": "脚注",
+  "ex": [
+   "Die genaue Literaturangabe steht in der Fußnote."
+  ],
+  "ex_zh": "确切的文献信息写在脚注里。",
+  "use": {
+   "col": [
+    [
+     "eine Fußnote setzen",
+     "加脚注"
+    ],
+    [
+     "in einer Fußnote erwähnen",
+     "在脚注里提及"
+    ]
+   ],
+   "tip": ""
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Literaturverzeichnis",
+  "art": "das",
+  "pl_full": "die Literaturverzeichnisse",
+  "pos": "n",
+  "zh": "参考文献目录",
+  "ex": [
+   "Alle zitierten Werke müssen im Literaturverzeichnis stehen."
+  ],
+  "ex_zh": "所有被引用的作品都必须列在参考文献目录里。",
+  "use": {
+   "col": [
+    [
+     "das Literaturverzeichnis erstellen",
+     "编制参考文献目录"
+    ],
+    [
+     "im Literaturverzeichnis aufführen",
+     "列入参考文献"
+    ]
+   ],
+   "tip": "复数 -se"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Inhaltsverzeichnis",
+  "art": "das",
+  "pl_full": "die Inhaltsverzeichnisse",
+  "pos": "n",
+  "zh": "目录",
+  "ex": [
+   "Im Inhaltsverzeichnis stimmen die Seitenzahlen noch nicht."
+  ],
+  "ex_zh": "目录里的页码还不对。",
+  "use": {
+   "col": [
+    [
+     "das Inhaltsverzeichnis erstellen",
+     "生成目录"
+    ],
+    [
+     "laut Inhaltsverzeichnis",
+     "按目录"
+    ]
+   ],
+   "tip": ""
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Einleitung",
+  "art": "die",
+  "pl_full": "die Einleitungen",
+  "pos": "n",
+  "zh": "引言；导论",
+  "ex": [
+   "In der Einleitung wird die Fragestellung kurz vorgestellt."
+  ],
+  "ex_zh": "引言中简要介绍研究问题。",
+  "use": {
+   "col": [
+    [
+     "die Einleitung schreiben",
+     "写引言"
+    ],
+    [
+     "zur Einleitung",
+     "作为开场"
+    ]
+   ],
+   "tip": ""
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fazit",
+  "art": "das",
+  "pl_full": "die Fazits",
+  "pos": "n",
+  "zh": "结论；总结",
+  "ex": [
+   "Das Fazit der Arbeit fasst die wichtigsten Ergebnisse zusammen."
+  ],
+  "ex_zh": "论文的结论总结了最重要的成果。",
+  "use": {
+   "col": [
+    [
+     "ein Fazit ziehen",
+     "下结论"
+    ],
+    [
+     "im Fazit",
+     "在结论中"
+    ]
+   ],
+   "tip": "复数 Fazits 或 Fazite，常用 -s"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gliederung",
+  "art": "die",
+  "pl_full": "die Gliederungen",
+  "pos": "n",
+  "zh": "提纲；结构",
+  "ex": [
+   "Bevor ich schreibe, erstelle ich immer eine grobe Gliederung."
+  ],
+  "ex_zh": "动笔之前我总会先列个粗略的提纲。",
+  "use": {
+   "col": [
+    [
+     "eine Gliederung erstellen",
+     "列提纲"
+    ],
+    [
+     "die Gliederung des Textes",
+     "文章的结构"
+    ]
+   ],
+   "tip": "动词 gliedern"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Absatz",
+  "art": "der",
+  "pl_full": "die Absätze",
+  "pos": "n",
+  "zh": "段落",
+  "ex": [
+   "Jeder Absatz sollte einen eigenen Gedanken enthalten."
+  ],
+  "ex_zh": "每一段都应当包含一个独立的想法。",
+  "use": {
+   "senses": [
+    "段落",
+    "鞋跟"
+   ],
+   "col": [
+    [
+     "einen neuen Absatz beginnen",
+     "另起一段"
+    ],
+    [
+     "im ersten Absatz",
+     "在第一段"
+    ]
+   ],
+   "tip": "复数有变音；也指“鞋跟、销量”"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Aufsatz",
+  "art": "der",
+  "pl_full": "die Aufsätze",
+  "pos": "n",
+  "zh": "文章；作文",
+  "ex": [
+   "In einem Aufsatz diskutiert er die Vor- und Nachteile des Verfahrens."
+  ],
+  "ex_zh": "他在一篇文章里讨论了这个方法的利弊。",
+  "use": {
+   "col": [
+    [
+     "einen Aufsatz veröffentlichen",
+     "发表文章"
+    ],
+    [
+     "ein wissenschaftlicher Aufsatz",
+     "学术文章"
+    ]
+   ],
+   "tip": "复数有变音；中小学作文也叫 Aufsatz"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fachzeitschrift",
+  "art": "die",
+  "pl_full": "die Fachzeitschriften",
+  "pos": "n",
+  "zh": "专业期刊",
+  "ex": [
+   "Der Beitrag erscheint in einer renommierten Fachzeitschrift."
+  ],
+  "ex_zh": "这篇文章将发表在一份著名的专业期刊上。",
+  "use": {
+   "col": [
+    [
+     "in einer Fachzeitschrift erscheinen",
+     "刊登在专业期刊上"
+    ],
+    [
+     "eine Fachzeitschrift abonnieren",
+     "订阅专业期刊"
+    ]
+   ],
+   "tip": ""
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Veröffentlichung",
+  "art": "die",
+  "pl_full": "die Veröffentlichungen",
+  "pos": "n",
+  "zh": "发表；出版物",
+  "ex": [
+   "Die Veröffentlichung der Studie löste eine große Debatte aus."
+  ],
+  "ex_zh": "这项研究的发表引发了一场大讨论。",
+  "use": {
+   "col": [
+    [
+     "eine Veröffentlichung planen",
+     "计划发表"
+    ],
+    [
+     "wissenschaftliche Veröffentlichungen",
+     "学术出版物"
+    ]
+   ],
+   "tip": "动词 veröffentlichen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fachbegriff",
+  "art": "der",
+  "pl_full": "die Fachbegriffe",
+  "pos": "n",
+  "zh": "专业术语",
+  "ex": [
+   "Im Text werden alle Fachbegriffe in einer Fußnote erklärt."
+  ],
+  "ex_zh": "文中所有专业术语都在脚注里作了解释。",
+  "use": {
+   "col": [
+    [
+     "einen Fachbegriff erklären",
+     "解释专业术语"
+    ],
+    [
+     "ein Fachbegriff aus der Informatik",
+     "计算机领域的术语"
+    ]
+   ],
+   "tip": "复数有变音"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fachgebiet",
+  "art": "das",
+  "pl_full": "die Fachgebiete",
+  "pos": "n",
+  "zh": "专业领域",
+  "ex": [
+   "Sein Fachgebiet ist die künstliche Intelligenz in der Medizin."
+  ],
+  "ex_zh": "他的专业领域是医学中的人工智能。",
+  "use": {
+   "col": [
+    [
+     "auf einem Fachgebiet arbeiten",
+     "在某专业领域工作"
+    ],
+    [
+     "ein Experte auf diesem Fachgebiet",
+     "该领域的专家"
+    ]
+   ],
+   "tip": "和 Fachbereich（院系）区别"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Hypothese",
+  "art": "die",
+  "pl_full": "die Hypothesen",
+  "pos": "n",
+  "zh": "假设",
+  "ex": [
+   "Die Hypothese konnte durch die Messungen nicht bestätigt werden."
+  ],
+  "ex_zh": "测量结果没能证实这个假设。",
+  "use": {
+   "col": [
+    [
+     "eine Hypothese aufstellen",
+     "提出假设"
+    ],
+    [
+     "eine Hypothese überprüfen",
+     "检验假设"
+    ]
+   ],
+   "tip": "和 These 区别：Hypothese 是有待检验的假设"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "These",
+  "art": "die",
+  "pl_full": "die Thesen",
+  "pos": "n",
+  "zh": "论点；命题",
+  "ex": [
+   "Die zentrale These des Buches wird in der Fachwelt kontrovers diskutiert."
+  ],
+  "ex_zh": "这本书的核心论点在业界争议很大。",
+  "use": {
+   "col": [
+    [
+     "eine These vertreten",
+     "持某种论点"
+    ],
+    [
+     "eine These belegen",
+     "论证一个论点"
+    ]
+   ],
+   "tip": "不要和 Hypothese（待检验）混：These 是主张"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Annahme",
+  "art": "die",
+  "pl_full": "die Annahmen",
+  "pos": "n",
+  "zh": "假定；假设",
+  "ex": [
+   "Die Berechnung beruht auf der Annahme, dass die Nachfrage konstant bleibt."
+  ],
+  "ex_zh": "这项计算基于需求保持不变的假定。",
+  "use": {
+   "senses": [
+    "假定",
+    "接收（如包裹、邮件）"
+   ],
+   "col": [
+    [
+     "von einer Annahme ausgehen",
+     "以某个假定为出发点"
+    ],
+    [
+     "eine falsche Annahme",
+     "错误的假定"
+    ]
+   ],
+   "tip": "annehmen 的名词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Behauptung",
+  "art": "die",
+  "pl_full": "die Behauptungen",
+  "pos": "n",
+  "zh": "主张；断言",
+  "ex": [
+   "Für diese Behauptung gibt es bisher keinen Beleg."
+  ],
+  "ex_zh": "这个说法迄今没有证据。",
+  "use": {
+   "col": [
+    [
+     "eine Behauptung aufstellen",
+     "提出主张"
+    ],
+    [
+     "eine Behauptung widerlegen",
+     "驳斥一种说法"
+    ]
+   ],
+   "tip": "带有“未经证实”的意味"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Argument",
+  "art": "das",
+  "pl_full": "die Argumente",
+  "pos": "n",
+  "zh": "论据；理由",
+  "ex": [
+   "Sie hat mehrere überzeugende Argumente für ihre Position vorgebracht."
+  ],
+  "ex_zh": "她为自己的立场提出了几条有说服力的论据。",
+  "use": {
+   "col": [
+    [
+     "ein Argument vorbringen",
+     "提出论据"
+    ],
+    [
+     "gegen dieses Argument sprechen",
+     "与这一论据相悖"
+    ]
+   ],
+   "tip": "动词 argumentieren；复数 -e"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Argumentation",
+  "art": "die",
+  "pl_full": "die Argumentationen",
+  "pos": "n",
+  "zh": "论证；论述",
+  "ex": [
+   "Die Argumentation des Autors ist nicht in allen Punkten schlüssig."
+  ],
+  "ex_zh": "作者的论证并非每一点都站得住。",
+  "use": {
+   "col": [
+    [
+     "eine logische Argumentation",
+     "逻辑清晰的论证"
+    ],
+    [
+     "der Argumentation folgen",
+     "听懂论证思路"
+    ]
+   ],
+   "tip": ""
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Prozent",
+  "art": "das",
+  "pl_full": "die Prozente",
+  "pos": "n",
+  "zh": "百分之；百分比",
+  "ex": [
+   "Der Anteil der Studentinnen liegt bei etwa fünfzig Prozent."
+  ],
+  "ex_zh": "女大学生的比例约为百分之五十。",
+  "use": {
+   "senses": [
+    "百分比",
+    "（口语）折扣"
+   ],
+   "col": [
+    [
+     "zehn Prozent",
+     "百分之十"
+    ],
+    [
+     "Prozente bekommen",
+     "拿到折扣"
+    ]
+   ],
+   "tip": "表示数量时单数形式用 Prozent，不加 -e；复数多指“折扣”"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Prozentsatz",
+  "art": "der",
+  "pl_full": "die Prozentsätze",
+  "pos": "n",
+  "zh": "百分比；百分率",
+  "ex": [
+   "Ein hoher Prozentsatz der Befragten war mit dem Angebot zufrieden."
+  ],
+  "ex_zh": "被调查者中有很高比例对这项服务满意。",
+  "use": {
+   "col": [
+    [
+     "ein hoher Prozentsatz",
+     "很高的比例"
+    ],
+    [
+     "den Prozentsatz berechnen",
+     "计算百分率"
+    ]
+   ],
+   "tip": "复数有变音"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Anteil",
+  "art": "der",
+  "pl_full": "die Anteile",
+  "pos": "n",
+  "zh": "份额；比例",
+  "ex": [
+   "Der Anteil der Frauen in der Informatik steigt langsam."
+  ],
+  "ex_zh": "计算机领域中女性的比例在缓慢上升。",
+  "use": {
+   "col": [
+    [
+     "einen Anteil haben an",
+     "占有一份"
+    ],
+    [
+     "der Anteil an der Bevölkerung",
+     "占总人口的比例"
+    ]
+   ],
+   "tip": "和 Prozentsatz 比，Anteil 指“份额”；常接 an + Dat."
+  },
+  "gov": "der Anteil an + Dat."
+ },
+ {
+  "lv": "B2",
+  "lemma": "Drittel",
+  "art": "das",
+  "pl_full": "die Drittel",
+  "pos": "n",
+  "zh": "三分之一",
+  "ex": [
+   "Fast ein Drittel der Studierenden jobbt neben dem Studium."
+  ],
+  "ex_zh": "将近三分之一的大学生在学习之余打工。",
+  "use": {
+   "col": [
+    [
+     "ein Drittel der Bevölkerung",
+     "三分之一的人口"
+    ],
+    [
+     "zwei Drittel",
+     "三分之二"
+    ]
+   ],
+   "tip": "Viertel 四分之一，Fünftel 五分之一"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Trend",
+  "art": "der",
+  "pl_full": "die Trends",
+  "pos": "n",
+  "zh": "趋势",
+  "ex": [
+   "Der Trend geht eindeutig zu kürzeren Studiengängen mit mehr Praxisanteil."
+  ],
+  "ex_zh": "趋势明显是朝着实践比重更大的短学制专业发展。",
+  "use": {
+   "col": [
+    [
+     "einen Trend erkennen",
+     "看出趋势"
+    ],
+    [
+     "ein aktueller Trend",
+     "当前趋势"
+    ]
+   ],
+   "tip": "同义 Tendenz；Trend 偏潮流"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Tendenz",
+  "art": "die",
+  "pl_full": "die Tendenzen",
+  "pos": "n",
+  "zh": "倾向；走势",
+  "ex": [
+   "Die Tendenz ist steigend, auch wenn es kurzfristig Schwankungen gibt."
+  ],
+  "ex_zh": "走势是上升的，尽管短期内有波动。",
+  "use": {
+   "col": [
+    [
+     "eine steigende Tendenz",
+     "上升趋势"
+    ],
+    [
+     "die Tendenz zeigen",
+     "显示出倾向"
+    ]
+   ],
+   "tip": "和 Trend 近义，更书面"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Anstieg",
+  "art": "der",
+  "pl_full": "die Anstiege",
+  "pos": "n",
+  "zh": "上升；增长",
+  "ex": [
+   "Die Statistik zeigt einen deutlichen Anstieg der Studienanfänger."
+  ],
+  "ex_zh": "统计显示新生人数明显上升。",
+  "use": {
+   "col": [
+    [
+     "ein starker Anstieg",
+     "大幅上升"
+    ],
+    [
+     "der Anstieg um zehn Prozent",
+     "上升百分之十"
+    ]
+   ],
+   "tip": "反义词 Rückgang；动词 ansteigen"
+  },
+  "gov": "der Anstieg um + Akk."
+ },
+ {
+  "lv": "B2",
+  "lemma": "Rückgang",
+  "art": "der",
+  "pl_full": "die Rückgänge",
+  "pos": "n",
+  "zh": "下降；减少",
+  "ex": [
+   "Der Rückgang der Geburtenrate stellt das Bildungssystem vor neue Aufgaben."
+  ],
+  "ex_zh": "出生率的下降给教育体系带来了新的课题。",
+  "use": {
+   "col": [
+    [
+     "ein deutlicher Rückgang",
+     "明显下降"
+    ],
+    [
+     "einen Rückgang verzeichnen",
+     "出现下降"
+    ]
+   ],
+   "tip": "动词 zurückgehen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zunahme",
+  "art": "die",
+  "pl_full": "die Zunahmen",
+  "pos": "n",
+  "zh": "增加",
+  "ex": [
+   "Die Zunahme der Online-Kurse hat das Lernen verändert."
+  ],
+  "ex_zh": "在线课程的增多改变了学习方式。",
+  "use": {
+   "col": [
+    [
+     "eine starke Zunahme",
+     "大幅增加"
+    ],
+    [
+     "die Zunahme an Studierenden",
+     "学生人数的增加"
+    ]
+   ],
+   "tip": "反义词 Abnahme；动词 zunehmen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Abnahme",
+  "art": "die",
+  "pos": "n",
+  "zh": "减少；减退",
+  "ex": [
+   "Man beobachtet eine Abnahme der Lesekompetenz bei Grundschülern."
+  ],
+  "ex_zh": "可以观察到小学生阅读能力的下降。",
+  "use": {
+   "col": [
+    [
+     "eine Abnahme feststellen",
+     "确认减少"
+    ],
+    [
+     "die Abnahme der Leistung",
+     "成绩的下降"
+    ]
+   ],
+   "tip": "通常用单数；Zunahme 的反义词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Schwankung",
+  "art": "die",
+  "pl_full": "die Schwankungen",
+  "pos": "n",
+  "zh": "波动",
+  "ex": [
+   "Die Messwerte unterliegen leichten Schwankungen im Tagesverlauf."
+  ],
+  "ex_zh": "测量值在一天中有轻微的波动。",
+  "use": {
+   "col": [
+    [
+     "starke Schwankungen",
+     "剧烈波动"
+    ],
+    [
+     "Schwankungen unterliegen",
+     "受波动影响"
+    ]
+   ],
+   "tip": "动词 schwanken"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Höchstwert",
+  "art": "der",
+  "pl_full": "die Höchstwerte",
+  "pos": "n",
+  "zh": "最高值",
+  "ex": [
+   "Im Sommer wurde der Höchstwert von fünfunddreißig Grad erreicht."
+  ],
+  "ex_zh": "夏天达到了三十五度的最高值。",
+  "use": {
+   "col": [
+    [
+     "einen Höchstwert erreichen",
+     "达到最高值"
+    ],
+    [
+     "den Höchstwert überschreiten",
+     "超过最高值"
+    ]
+   ],
+   "tip": "反义词 Tiefstwert；复数 -e"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Tiefstwert",
+  "art": "der",
+  "pl_full": "die Tiefstwerte",
+  "pos": "n",
+  "zh": "最低值",
+  "ex": [
+   "Der Tiefstwert wurde im Januar mit minus zwölf Grad gemessen."
+  ],
+  "ex_zh": "最低值是一月测得的零下十二度。",
+  "use": {
+   "col": [
+    [
+     "einen Tiefstwert erreichen",
+     "达到最低值"
+    ],
+    [
+     "auf einen Tiefstwert sinken",
+     "跌至最低值"
+    ]
+   ],
+   "tip": "同义 Minimum"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Mittelwert",
+  "art": "der",
+  "pl_full": "die Mittelwerte",
+  "pos": "n",
+  "zh": "平均值",
+  "ex": [
+   "Der Mittelwert der Testergebnisse liegt bei 72 Punkten."
+  ],
+  "ex_zh": "测试成绩的平均值是 72 分。",
+  "use": {
+   "col": [
+    [
+     "den Mittelwert berechnen",
+     "计算平均值"
+    ],
+    [
+     "vom Mittelwert abweichen",
+     "偏离平均值"
+    ]
+   ],
+   "tip": "和 Durchschnitt 近义，统计里更常用"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Prognose",
+  "art": "die",
+  "pl_full": "die Prognosen",
+  "pos": "n",
+  "zh": "预测",
+  "ex": [
+   "Die Prognosen für die nächsten Jahre sind eher optimistisch."
+  ],
+  "ex_zh": "对未来几年的预测相当乐观。",
+  "use": {
+   "col": [
+    [
+     "eine Prognose abgeben",
+     "作出预测"
+    ],
+    [
+     "laut Prognose",
+     "根据预测"
+    ]
+   ],
+   "tip": "动词 prognostizieren（C1）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Schätzung",
+  "art": "die",
+  "pl_full": "die Schätzungen",
+  "pos": "n",
+  "zh": "估计",
+  "ex": [
+   "Nach Schätzungen der Forscher leben dort rund zwei Millionen Menschen."
+  ],
+  "ex_zh": "据研究者估计，那里生活着大约两百万人。",
+  "use": {
+   "col": [
+    [
+     "nach Schätzungen",
+     "据估计"
+    ],
+    [
+     "eine grobe Schätzung",
+     "粗略估计"
+    ]
+   ],
+   "tip": "动词 schätzen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Wahrscheinlichkeit",
+  "art": "die",
+  "pl_full": "die Wahrscheinlichkeiten",
+  "pos": "n",
+  "zh": "概率；可能性",
+  "ex": [
+   "Die Wahrscheinlichkeit, dass der Test fehlerhaft ist, liegt bei zwei Prozent."
+  ],
+  "ex_zh": "测试出错的概率为百分之二。",
+  "use": {
+   "col": [
+    [
+     "mit hoher Wahrscheinlichkeit",
+     "很可能"
+    ],
+    [
+     "die Wahrscheinlichkeit berechnen",
+     "计算概率"
+    ]
+   ],
+   "tip": "形容词 wahrscheinlich；数学中也用"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Häufigkeit",
+  "art": "die",
+  "pl_full": "die Häufigkeiten",
+  "pos": "n",
+  "zh": "频率；出现次数",
+  "ex": [
+   "Die Häufigkeit der Fehler nimmt mit der Erfahrung ab."
+  ],
+  "ex_zh": "错误的出现频率随经验增加而下降。",
+  "use": {
+   "col": [
+    [
+     "die Häufigkeit eines Wortes",
+     "一个词的出现频率"
+    ],
+    [
+     "mit zunehmender Häufigkeit",
+     "频率不断增加"
+    ]
+   ],
+   "tip": "形容词 häufig"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Verteilung",
+  "art": "die",
+  "pl_full": "die Verteilungen",
+  "pos": "n",
+  "zh": "分布；分配",
+  "ex": [
+   "Die Verteilung der Noten ähnelt einer Glockenkurve."
+  ],
+  "ex_zh": "成绩的分布近似钟形曲线。",
+  "use": {
+   "col": [
+    [
+     "eine gleichmäßige Verteilung",
+     "均匀分布"
+    ],
+    [
+     "die Verteilung der Ergebnisse",
+     "结果分布"
+    ]
+   ],
+   "tip": "动词 verteilen；也指发放"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Datensatz",
+  "art": "der",
+  "pl_full": "die Datensätze",
+  "pos": "n",
+  "zh": "数据集；一条记录",
+  "ex": [
+   "Der Datensatz enthält Informationen zu über zehntausend Patienten."
+  ],
+  "ex_zh": "这个数据集包含一万多名患者的信息。",
+  "use": {
+   "col": [
+    [
+     "einen Datensatz auswerten",
+     "分析数据集"
+    ],
+    [
+     "ein großer Datensatz",
+     "大型数据集"
+    ]
+   ],
+   "tip": "复数有变音"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Diagramm",
+  "art": "das",
+  "pl_full": "die Diagramme",
+  "pos": "n",
+  "zh": "图表",
+  "ex": [
+   "Das Diagramm zeigt die Entwicklung der Studierendenzahlen seit 2010."
+  ],
+  "ex_zh": "该图表显示了 2010 年以来学生人数的变化。",
+  "use": {
+   "col": [
+    [
+     "ein Diagramm erstellen",
+     "制作图表"
+    ],
+    [
+     "im Diagramm ablesen",
+     "从图表中读出"
+    ]
+   ],
+   "tip": "Balkendiagramm 柱状图，Kreisdiagramm 饼图"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Achse",
+  "art": "die",
+  "pl_full": "die Achsen",
+  "pos": "n",
+  "zh": "坐标轴；轴",
+  "ex": [
+   "Auf der waagerechten Achse sind die Jahre eingetragen."
+  ],
+  "ex_zh": "横轴上标出了年份。",
+  "use": {
+   "col": [
+    [
+     "die x-Achse",
+     "横轴"
+    ],
+    [
+     "die senkrechte Achse",
+     "纵轴"
+    ]
+   ],
+   "tip": "waagerecht 横，senkrecht 纵"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zeitraum",
+  "art": "der",
+  "pl_full": "die Zeiträume",
+  "pos": "n",
+  "zh": "时间段",
+  "ex": [
+   "Im untersuchten Zeitraum stieg die Zahl der Anmeldungen um das Doppelte."
+  ],
+  "ex_zh": "在研究的时间段内，注册人数翻了一番。",
+  "use": {
+   "col": [
+    [
+     "in einem Zeitraum von",
+     "在……期间"
+    ],
+    [
+     "über einen längeren Zeitraum",
+     "历经较长时间"
+    ]
+   ],
+   "tip": "复数有变音"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Abweichung",
+  "art": "die",
+  "pl_full": "die Abweichungen",
+  "pos": "n",
+  "zh": "偏差；偏离",
+  "ex": [
+   "Die Abweichung vom Sollwert beträgt weniger als ein Prozent."
+  ],
+  "ex_zh": "与标准值的偏差不到百分之一。",
+  "use": {
+   "col": [
+    [
+     "eine geringe Abweichung",
+     "轻微偏差"
+    ],
+    [
+     "Abweichungen feststellen",
+     "发现偏差"
+    ]
+   ],
+   "tip": "动词 abweichen；Standardabweichung 标准差"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gemeinsamkeit",
+  "art": "die",
+  "pl_full": "die Gemeinsamkeiten",
+  "pos": "n",
+  "zh": "共同点",
+  "ex": [
+   "Beide Studien haben gewisse Gemeinsamkeiten, unterscheiden sich aber in der Methodik."
+  ],
+  "ex_zh": "这两项研究有一些共同点，但方法上不同。",
+  "use": {
+   "col": [
+    [
+     "Gemeinsamkeiten haben",
+     "有共同点"
+    ],
+    [
+     "Gemeinsamkeiten und Unterschiede",
+     "共同点与不同点"
+    ]
+   ],
+   "tip": "反义词 Unterschied"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Quote",
+  "art": "die",
+  "pl_full": "die Quoten",
+  "pos": "n",
+  "zh": "比率；配额",
+  "ex": [
+   "Die Quote der Abiturienten ist in den letzten Jahren gestiegen."
+  ],
+  "ex_zh": "高中毕业生的比率近年来有所上升。",
+  "use": {
+   "senses": [
+    "比率",
+    "配额"
+   ],
+   "col": [
+    [
+     "die Quote steigt",
+     "比率上升"
+    ],
+    [
+     "eine Frauenquote",
+     "女性配额"
+    ]
+   ],
+   "tip": "Arbeitslosenquote 失业率"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Rate",
+  "art": "die",
+  "pl_full": "die Raten",
+  "pos": "n",
+  "zh": "率；分期付款",
+  "ex": [
+   "Die Rate der Studienabbrüche hat sich seit 2015 kaum verändert."
+  ],
+  "ex_zh": "辍学率自 2015 年以来几乎没变。",
+  "use": {
+   "senses": [
+    "比率",
+    "分期付款的一期"
+   ],
+   "col": [
+    [
+     "die Geburtenrate",
+     "出生率"
+    ],
+    [
+     "in Raten zahlen",
+     "分期付款"
+    ]
+   ],
+   "tip": "分期付款义在日常也很常用"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Altersgruppe",
+  "art": "die",
+  "pl_full": "die Altersgruppen",
+  "pos": "n",
+  "zh": "年龄组",
+  "ex": [
+   "In der Altersgruppe zwischen 18 und 25 ist die Nutzung besonders hoch."
+  ],
+  "ex_zh": "在 18 至 25 岁的年龄组中，使用率尤其高。",
+  "use": {
+   "col": [
+    [
+     "in der Altersgruppe",
+     "在年龄组中"
+    ],
+    [
+     "verschiedene Altersgruppen",
+     "不同年龄组"
+    ]
+   ],
+   "tip": ""
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Zuwachs",
+  "art": "der",
+  "pos": "n",
+  "zh": "增长；增加",
+  "ex": [
+   "Die Universität verzeichnet einen Zuwachs an internationalen Studierenden."
+  ],
+  "ex_zh": "这所大学的国际学生人数有所增长。",
+  "use": {
+   "col": [
+    [
+     "ein Zuwachs von zehn Prozent",
+     "增长百分之十"
+    ],
+    [
+     "Zuwachs bekommen",
+     "添丁、增加"
+    ]
+   ],
+   "tip": "没有复数"
+  },
+  "gov": "der Zuwachs an + Dat."
+ },
+ {
+  "lv": "B2",
+  "lemma": "Durchschnittswert",
+  "art": "der",
+  "pl_full": "die Durchschnittswerte",
+  "pos": "n",
+  "zh": "平均值",
+  "ex": [
+   "Der Durchschnittswert liegt bei 3,4 Stunden pro Tag."
+  ],
+  "ex_zh": "平均值是每天 3.4 小时。",
+  "use": {
+   "col": [
+    [
+     "den Durchschnittswert errechnen",
+     "算出平均值"
+    ],
+    [
+     "über dem Durchschnittswert",
+     "高于平均值"
+    ]
+   ],
+   "tip": ""
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Mehrzahl",
+  "art": "die",
+  "pos": "n",
+  "zh": "多数",
+  "ex": [
+   "Die Mehrzahl der Teilnehmer war mit dem Kurs zufrieden."
+  ],
+  "ex_zh": "大多数参与者对这门课满意。",
+  "use": {
+   "senses": [
+    "多数",
+    "（语法）复数"
+   ],
+   "col": [
+    [
+     "die Mehrzahl der Fälle",
+     "大多数情况"
+    ],
+    [
+     "in der Mehrzahl",
+     "占多数"
+    ]
+   ],
+   "tip": "和 Mehrheit 近；另有“复数”义"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Gesamtzahl",
+  "art": "die",
+  "pos": "n",
+  "zh": "总数",
+  "ex": [
+   "Die Gesamtzahl der Teilnehmer lag bei 1200 Personen."
+  ],
+  "ex_zh": "参与者总数为 1200 人。",
+  "use": {
+   "col": [
+    [
+     "die Gesamtzahl der Studierenden",
+     "学生总数"
+    ],
+    [
+     "an der Gesamtzahl gemessen",
+     "相对总数而言"
+    ]
+   ],
+   "tip": "没有复数"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Stichtag",
+  "art": "der",
+  "pl_full": "die Stichtage",
+  "pos": "n",
+  "zh": "基准日；截止日",
+  "ex": [
+   "Stichtag der Erhebung war der 1. Dezember."
+  ],
+  "ex_zh": "调查的基准日是 12 月 1 日。",
+  "use": {
+   "col": [
+    [
+     "zum Stichtag",
+     "在基准日"
+    ],
+    [
+     "der Stichtag für die Anmeldung",
+     "注册截止日"
+    ]
+   ],
+   "tip": "复数 -e"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Untersuchungsergebnis",
+  "art": "das",
+  "pl_full": "die Untersuchungsergebnisse",
+  "pos": "n",
+  "zh": "研究结果；检查结果",
+  "ex": [
+   "Die Untersuchungsergebnisse wurden in einem Bericht zusammengefasst."
+  ],
+  "ex_zh": "研究结果被整理成了一份报告。",
+  "use": {
+   "col": [
+    [
+     "die Untersuchungsergebnisse vorlegen",
+     "呈交研究结果"
+    ],
+    [
+     "laut Untersuchungsergebnissen",
+     "根据研究结果"
+    ]
+   ],
+   "tip": "也可指体检结果"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Forschungsergebnis",
+  "art": "das",
+  "pl_full": "die Forschungsergebnisse",
+  "pos": "n",
+  "zh": "研究成果",
+  "ex": [
+   "Die Forschungsergebnisse werden auf einer Konferenz vorgestellt."
+  ],
+  "ex_zh": "研究成果将在一个会议上发布。",
+  "use": {
+   "col": [
+    [
+     "neue Forschungsergebnisse",
+     "新的研究成果"
+    ],
+    [
+     "Forschungsergebnisse veröffentlichen",
+     "发表研究成果"
+    ]
+   ],
+   "tip": ""
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Verfahren",
+  "art": "das",
+  "pl_full": "die Verfahren",
+  "pos": "n",
+  "zh": "方法；程序；诉讼",
+  "ex": [
+   "Für die Analyse wurde ein neues statistisches Verfahren entwickelt."
+  ],
+  "ex_zh": "分析中开发了一种新的统计方法。",
+  "use": {
+   "senses": [
+    "（技术）方法",
+    "（官方）程序",
+    "诉讼"
+   ],
+   "col": [
+    [
+     "ein Verfahren anwenden",
+     "采用方法"
+    ],
+    [
+     "ein Gerichtsverfahren",
+     "诉讼程序"
+    ]
+   ],
+   "tip": "与 Methode 近义，更技术"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Ansatz",
+  "art": "der",
+  "pl_full": "die Ansätze",
+  "pos": "n",
+  "zh": "思路；方案",
+  "ex": [
+   "Der Ansatz der Forscher unterscheidet sich deutlich von bisherigen Methoden."
+  ],
+  "ex_zh": "研究者的思路明显不同于以往的方法。",
+  "use": {
+   "col": [
+    [
+     "einen neuen Ansatz verfolgen",
+     "采取新思路"
+    ],
+    [
+     "ein innovativer Ansatz",
+     "创新的思路"
+    ]
+   ],
+   "tip": "复数有变音"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Grundlage",
+  "art": "die",
+  "pl_full": "die Grundlagen",
+  "pos": "n",
+  "zh": "基础；依据",
+  "ex": [
+   "Die Daten bilden die Grundlage für alle weiteren Berechnungen."
+  ],
+  "ex_zh": "这些数据是后续所有计算的基础。",
+  "use": {
+   "col": [
+    [
+     "die Grundlage bilden",
+     "构成基础"
+    ],
+    [
+     "auf der Grundlage von",
+     "基于"
+    ]
+   ],
+   "tip": "复数也指“基础知识”"
+  },
+  "gov": "auf der Grundlage + Gen."
+ },
+ {
+  "lv": "B2",
+  "lemma": "Überblick",
+  "art": "der",
+  "pl_full": "die Überblicke",
+  "pos": "n",
+  "zh": "概览；总览",
+  "ex": [
+   "Das Kapitel gibt einen Überblick über den Stand der Forschung."
+  ],
+  "ex_zh": "这一章概述了研究现状。",
+  "use": {
+   "col": [
+    [
+     "einen Überblick geben",
+     "给出概览"
+    ],
+    [
+     "den Überblick behalten",
+     "保持全局观"
+    ]
+   ],
+   "tip": "常见搭配：einen Überblick über etwas geben"
+  },
+  "gov": "der Überblick über + Akk."
+ },
+ {
+  "lv": "B2",
+  "lemma": "Stand",
+  "art": "der",
+  "pos": "n",
+  "zh": "状态；现状",
+  "ex": [
+   "Der aktuelle Stand der Forschung wird im zweiten Kapitel dargestellt."
+  ],
+  "ex_zh": "研究现状在第二章中介绍。",
+  "use": {
+   "col": [
+    [
+     "der Stand der Technik",
+     "技术现状"
+    ],
+    [
+     "auf dem neuesten Stand",
+     "最新的"
+    ]
+   ],
+   "tip": "Stand der Dinge = 事态现状"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Lücke",
+  "art": "die",
+  "pl_full": "die Lücken",
+  "pos": "n",
+  "zh": "空白；缺口",
+  "ex": [
+   "Die Arbeit schließt eine Lücke in der bisherigen Forschung."
+  ],
+  "ex_zh": "这篇论文填补了以往研究中的一个空白。",
+  "use": {
+   "col": [
+    [
+     "eine Lücke schließen",
+     "填补空白"
+    ],
+    [
+     "Lücken im Wissen",
+     "知识空白"
+    ]
+   ],
+   "tip": "Forschungslücke 指研究空白"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fragebogen",
+  "art": "der",
+  "pl_full": "die Fragebögen",
+  "pos": "n",
+  "zh": "问卷",
+  "ex": [
+   "Der Fragebogen enthält zwanzig Fragen zu den Lerngewohnheiten."
+  ],
+  "ex_zh": "问卷包含二十个关于学习习惯的问题。",
+  "use": {
+   "col": [
+    [
+     "einen Fragebogen ausfüllen",
+     "填问卷"
+    ],
+    [
+     "einen Fragebogen entwerfen",
+     "设计问卷"
+    ]
+   ],
+   "tip": "复数有变音"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Debatte",
+  "art": "die",
+  "pl_full": "die Debatten",
+  "pos": "n",
+  "zh": "辩论；争论",
+  "ex": [
+   "Die Studie hat eine heftige Debatte in der Fachwelt ausgelöst."
+  ],
+  "ex_zh": "这项研究在业内引发了激烈争论。",
+  "use": {
+   "col": [
+    [
+     "eine Debatte führen",
+     "展开辩论"
+    ],
+    [
+     "eine Debatte auslösen",
+     "引发争论"
+    ]
+   ],
+   "tip": "同义 Diskussion，更公开"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "Fehlerquelle",
+  "art": "die",
+  "pl_full": "die Fehlerquellen",
+  "pos": "n",
+  "zh": "误差来源",
+  "ex": [
+   "Eine mögliche Fehlerquelle ist die ungenaue Messung der Temperatur."
+  ],
+  "ex_zh": "一个可能的误差来源是温度测量不准。",
+  "use": {
+   "col": [
+    [
+     "eine Fehlerquelle ausschließen",
+     "排除误差来源"
+    ],
+    [
+     "mögliche Fehlerquellen",
+     "可能的误差来源"
+    ]
+   ],
+   "tip": ""
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "erforschen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "erforscht",
+  "forms": "erforscht, erforschte, hat erforscht",
+  "zh": "研究；探究",
+  "ex": [
+   "Das Team erforscht seit Jahren die Ursachen der Krankheit."
+  ],
+  "ex_zh": "这个团队多年来一直在研究这种疾病的成因。",
+  "use": {
+   "col": [
+    [
+     "ein Gebiet erforschen",
+     "研究一个领域"
+    ],
+    [
+     "die Tiefsee erforschen",
+     "探索深海"
+    ]
+   ],
+   "tip": "不可分动词；forschen 是不及物，常接 nach"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "auswerten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ausgewertet",
+  "forms": "wertet aus, wertete aus, hat ausgewertet",
+  "zh": "分析；评估",
+  "ex": [
+   "Wir müssen die Fragebögen bis Freitag auswerten."
+  ],
+  "ex_zh": "我们必须在周五之前分析完这些问卷。",
+  "use": {
+   "col": [
+    [
+     "Daten auswerten",
+     "分析数据"
+    ],
+    [
+     "eine Studie auswerten",
+     "评估一项研究"
+    ]
+   ],
+   "tip": "可分动词；名词 die Auswertung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "erheben",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "erhoben",
+  "forms": "erhebt, erhob, hat erhoben",
+  "zh": "采集；征收；提出",
+  "ex": [
+   "In der Studie wurden die Daten von über tausend Personen erhoben."
+  ],
+  "ex_zh": "这项研究采集了一千多人的数据。",
+  "use": {
+   "senses": [
+    "（数据）采集",
+    "征收（费用）",
+    "提出（异议、指责）"
+   ],
+   "col": [
+    [
+     "Daten erheben",
+     "采集数据"
+    ],
+    [
+     "Gebühren erheben",
+     "征收费用"
+    ]
+   ],
+   "tip": "不可分；sich erheben = 站起来"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "belegen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "belegt",
+  "forms": "belegt, belegte, hat belegt",
+  "zh": "证明；修（课）；占用",
+  "ex": [
+   "Die Studie belegt, dass regelmäßige Pausen die Leistung verbessern."
+  ],
+  "ex_zh": "这项研究证明，定期休息能提高表现。",
+  "use": {
+   "senses": [
+    "用证据证明",
+    "选修（课程）",
+    "占据（位置）"
+   ],
+   "col": [
+    [
+     "eine These belegen",
+     "证明一个论点"
+    ],
+    [
+     "einen Kurs belegen",
+     "修一门课"
+    ]
+   ],
+   "tip": "不可分动词；名词 der Beleg"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "nachweisen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "nachgewiesen",
+  "forms": "weist nach, wies nach, hat nachgewiesen",
+  "zh": "证明；检测出",
+  "ex": [
+   "Die Forscher konnten den Zusammenhang statistisch nachweisen."
+  ],
+  "ex_zh": "研究者在统计上证明了这一关联。",
+  "use": {
+   "col": [
+    [
+     "etwas wissenschaftlich nachweisen",
+     "科学地证明"
+    ],
+    [
+     "Schadstoffe nachweisen",
+     "检测出有害物质"
+    ]
+   ],
+   "tip": "可分动词；名词 der Nachweis"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "widerlegen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "widerlegt",
+  "forms": "widerlegt, widerlegte, hat widerlegt",
+  "zh": "驳斥；证伪",
+  "ex": [
+   "Mit neuen Daten wurde die alte Theorie widerlegt."
+  ],
+  "ex_zh": "新数据推翻了旧理论。",
+  "use": {
+   "col": [
+    [
+     "eine Theorie widerlegen",
+     "推翻一种理论"
+    ],
+    [
+     "ein Argument widerlegen",
+     "驳斥一个论据"
+    ]
+   ],
+   "tip": "不可分动词；反义词 bestätigen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "zitieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "zitiert",
+  "forms": "zitiert, zitierte, hat zitiert",
+  "zh": "引用",
+  "ex": [
+   "In der Hausarbeit muss man alle Quellen korrekt zitieren."
+  ],
+  "ex_zh": "课程论文里必须规范地引用所有出处。",
+  "use": {
+   "col": [
+    [
+     "aus einem Buch zitieren",
+     "引用书中的话"
+    ],
+    [
+     "richtig zitieren",
+     "规范引用"
+    ]
+   ],
+   "tip": "名词 das Zitat；zitieren aus + Dat."
+  },
+  "gov": "zitieren aus + Dat."
+ },
+ {
+  "lv": "B2",
+  "lemma": "verweisen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verwiesen",
+  "forms": "verweist, verwies, hat verwiesen",
+  "zh": "指出；参见；转交",
+  "ex": [
+   "Der Autor verweist auf frühere Untersuchungen zum selben Thema."
+  ],
+  "ex_zh": "作者指出了此前关于同一主题的研究。",
+  "use": {
+   "col": [
+    [
+     "auf eine Quelle verweisen",
+     "参见某出处"
+    ],
+    [
+     "an eine andere Stelle verweisen",
+     "转到别处办理"
+    ]
+   ],
+   "tip": "不可分动词；名词 der Verweis"
+  },
+  "gov": "verweisen auf + Akk."
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich beziehen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bezogen",
+  "forms": "bezieht sich, bezog sich, hat sich bezogen",
+  "zh": "涉及；指的是",
+  "ex": [
+   "Diese Aussage bezieht sich nur auf die Gruppe der Erwachsenen."
+  ],
+  "ex_zh": "这个说法只涉及成年人这一组。",
+  "use": {
+   "col": [
+    [
+     "sich auf eine Quelle beziehen",
+     "引用某来源"
+    ],
+    [
+     "sich auf das Thema beziehen",
+     "涉及该主题"
+    ]
+   ],
+   "tip": "不可分；beziehen 另有“订阅、领取”义"
+  },
+  "gov": "sich beziehen auf + Akk."
+ },
+ {
+  "lv": "B2",
+  "lemma": "beruhen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "beruht",
+  "forms": "beruht, beruhte, hat beruht",
+  "zh": "基于；源于",
+  "ex": [
+   "Die Ergebnisse beruhen auf den Daten einer Langzeitstudie."
+  ],
+  "ex_zh": "这些结果基于一项长期研究的数据。",
+  "use": {
+   "col": [
+    [
+     "auf einer Annahme beruhen",
+     "基于一个假定"
+    ],
+    [
+     "auf Gegenseitigkeit beruhen",
+     "以互惠为基础"
+    ]
+   ],
+   "tip": "不可分动词；比 basieren 更德语化"
+  },
+  "gov": "beruhen auf + Dat."
+ },
+ {
+  "lv": "B2",
+  "lemma": "ableiten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgeleitet",
+  "forms": "leitet ab, leitete ab, hat abgeleitet",
+  "zh": "推导；引出",
+  "ex": [
+   "Aus den Messwerten lässt sich eine einfache Formel ableiten."
+  ],
+  "ex_zh": "从测量值中可以推导出一个简单的公式。",
+  "use": {
+   "col": [
+    [
+     "eine Formel ableiten",
+     "推导公式"
+    ],
+    [
+     "von etwas abgeleitet sein",
+     "源自某事物"
+    ]
+   ],
+   "tip": "可分动词；名词 die Ableitung"
+  },
+  "gov": "ableiten aus + Dat."
+ },
+ {
+  "lv": "B2",
+  "lemma": "ermitteln",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ermittelt",
+  "forms": "ermittelt, ermittelte, hat ermittelt",
+  "zh": "查明；确定",
+  "ex": [
+   "Die Forscher ermittelten den Durchschnitt aus allen Einzelwerten."
+  ],
+  "ex_zh": "研究者根据所有个别数值确定了平均值。",
+  "use": {
+   "col": [
+    [
+     "den Wert ermitteln",
+     "确定数值"
+    ],
+    [
+     "die Ursache ermitteln",
+     "查明原因"
+    ]
+   ],
+   "tip": "不可分动词；警察办案也用"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "vorhersagen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "vorhergesagt",
+  "forms": "sagt vorher, sagte vorher, hat vorhergesagt",
+  "zh": "预测",
+  "ex": [
+   "Niemand konnte die Entwicklung der Zahlen genau vorhersagen."
+  ],
+  "ex_zh": "没有人能准确预测这些数字的走向。",
+  "use": {
+   "col": [
+    [
+     "das Wetter vorhersagen",
+     "预报天气"
+    ],
+    [
+     "die Zukunft vorhersagen",
+     "预言未来"
+    ]
+   ],
+   "tip": "可分动词；名词 die Vorhersage"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "einreichen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingereicht",
+  "forms": "reicht ein, reichte ein, hat eingereicht",
+  "zh": "提交（申请、论文）",
+  "ex": [
+   "Die Masterarbeit muss bis zum 15. März im Prüfungsamt eingereicht werden."
+  ],
+  "ex_zh": "硕士论文必须在 3 月 15 日前提交到考试办公室。",
+  "use": {
+   "col": [
+    [
+     "die Arbeit einreichen",
+     "提交论文"
+    ],
+    [
+     "einen Antrag einreichen",
+     "提交申请"
+    ]
+   ],
+   "tip": "可分动词；比 abgeben 更正式"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "durchfallen",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "durchgefallen",
+  "forms": "fällt durch, fiel durch, ist durchgefallen",
+  "zh": "考试不及格；落榜",
+  "ex": [
+   "Er ist zweimal in der Statistikklausur durchgefallen."
+  ],
+  "ex_zh": "他统计学考试挂了两次。",
+  "use": {
+   "col": [
+    [
+     "bei einer Prüfung durchfallen",
+     "考试不及格"
+    ],
+    [
+     "durch die Prüfung fallen",
+     "没通过考试"
+    ]
+   ],
+   "tip": "可分动词，助动词 sein；口语常用"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verfassen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verfasst",
+  "forms": "verfasst, verfasste, hat verfasst",
+  "zh": "撰写",
+  "ex": [
+   "Sie verfasst gerade ihre Abschlussarbeit über neuronale Netze."
+  ],
+  "ex_zh": "她正在撰写关于神经网络的毕业论文。",
+  "use": {
+   "col": [
+    [
+     "einen Text verfassen",
+     "撰写文章"
+    ],
+    [
+     "ein Gutachten verfassen",
+     "撰写鉴定报告"
+    ]
+   ],
+   "tip": "不可分动词；比 schreiben 更书面"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "formulieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "formuliert",
+  "forms": "formuliert, formulierte, hat formuliert",
+  "zh": "表述；措辞",
+  "ex": [
+   "Die Forschungsfrage sollte möglichst präzise formuliert werden."
+  ],
+  "ex_zh": "研究问题应该尽可能精确地表述。",
+  "use": {
+   "col": [
+    [
+     "eine Frage formulieren",
+     "表述一个问题"
+    ],
+    [
+     "vorsichtig formulieren",
+     "措辞谨慎"
+    ]
+   ],
+   "tip": "名词 die Formulierung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "erläutern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "erläutert",
+  "forms": "erläutert, erläuterte, hat erläutert",
+  "zh": "详细说明；阐释",
+  "ex": [
+   "Der Professor erläuterte die Methode an einem einfachen Beispiel."
+  ],
+  "ex_zh": "教授通过一个简单的例子阐释了这个方法。",
+  "use": {
+   "col": [
+    [
+     "ein Thema erläutern",
+     "阐释主题"
+    ],
+    [
+     "die Vorgehensweise erläutern",
+     "说明做法"
+    ]
+   ],
+   "tip": "不可分动词；比 erklären 更书面"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "hervorheben",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "hervorgehoben",
+  "forms": "hebt hervor, hob hervor, hat hervorgehoben",
+  "zh": "强调；突出",
+  "ex": [
+   "Die Autorin hebt die Bedeutung einer sauberen Datenbasis hervor."
+  ],
+  "ex_zh": "作者强调了干净数据基础的重要性。",
+  "use": {
+   "col": [
+    [
+     "einen Punkt hervorheben",
+     "强调一点"
+    ],
+    [
+     "besonders hervorheben",
+     "特别强调"
+    ]
+   ],
+   "tip": "可分动词；同义 betonen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "betonen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "betont",
+  "forms": "betont, betonte, hat betont",
+  "zh": "强调",
+  "ex": [
+   "Die Forscher betonen, dass weitere Studien nötig sind."
+  ],
+  "ex_zh": "研究者强调，还需要更多研究。",
+  "use": {
+   "col": [
+    [
+     "die Bedeutung betonen",
+     "强调重要性"
+    ],
+    [
+     "ausdrücklich betonen",
+     "明确强调"
+    ]
+   ],
+   "tip": "不可分动词；名词 die Betonung（重音、强调）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verdeutlichen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verdeutlicht",
+  "forms": "verdeutlicht, verdeutlichte, hat verdeutlicht",
+  "zh": "说明清楚；使明白",
+  "ex": [
+   "Das Beispiel verdeutlicht, wie wichtig eine saubere Methodik ist."
+  ],
+  "ex_zh": "这个例子说明了严谨的方法有多重要。",
+  "use": {
+   "col": [
+    [
+     "einen Zusammenhang verdeutlichen",
+     "阐明关联"
+    ],
+    [
+     "anhand einer Grafik verdeutlichen",
+     "借助图表说明"
+    ]
+   ],
+   "tip": "不可分动词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "vertiefen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "vertieft",
+  "forms": "vertieft, vertiefte, hat vertieft",
+  "zh": "加深；深入",
+  "ex": [
+   "Im Masterstudium kann man sein Wissen in einem Spezialgebiet vertiefen."
+  ],
+  "ex_zh": "读硕士时可以在一个专门领域深化知识。",
+  "use": {
+   "col": [
+    [
+     "das Wissen vertiefen",
+     "加深知识"
+    ],
+    [
+     "in ein Buch vertieft sein",
+     "埋头读书"
+    ]
+   ],
+   "tip": "不可分动词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich spezialisieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "spezialisiert",
+  "forms": "spezialisiert sich, spezialisierte sich, hat sich spezialisiert",
+  "zh": "专攻；专业化",
+  "ex": [
+   "Nach dem Bachelor hat er sich auf Datenanalyse spezialisiert."
+  ],
+  "ex_zh": "本科之后，他专攻数据分析。",
+  "use": {
+   "col": [
+    [
+     "sich auf ein Fach spezialisieren",
+     "专攻某一学科"
+    ],
+    [
+     "auf Medizin spezialisiert",
+     "专门研究医学的"
+    ]
+   ],
+   "tip": "名词 die Spezialisierung"
+  },
+  "gov": "sich spezialisieren auf + Akk."
+ },
+ {
+  "lv": "B2",
+  "lemma": "absolvieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "absolviert",
+  "forms": "absolviert, absolvierte, hat absolviert",
+  "zh": "完成（学业、培训）",
+  "ex": [
+   "Sie hat ihr Studium in Rekordzeit absolviert."
+  ],
+  "ex_zh": "她用创纪录的时间完成了学业。",
+  "use": {
+   "col": [
+    [
+     "ein Studium absolvieren",
+     "完成学业"
+    ],
+    [
+     "ein Praktikum absolvieren",
+     "完成实习"
+    ]
+   ],
+   "tip": "不可分动词；名词 der Absolvent（毕业生）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "promovieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "promoviert",
+  "forms": "promoviert, promovierte, hat promoviert",
+  "zh": "攻读博士学位；获得博士学位",
+  "ex": [
+   "Nach dem Master möchte er in Informatik promovieren."
+  ],
+  "ex_zh": "硕士毕业后，他想读计算机博士。",
+  "use": {
+   "col": [
+    [
+     "in Physik promovieren",
+     "读物理博士"
+    ],
+    [
+     "über ein Thema promovieren",
+     "以某主题做博士论文"
+    ]
+   ],
+   "tip": "名词 die Promotion；不可分动词"
+  },
+  "gov": "promovieren in + Dat. / über + Akk."
+ },
+ {
+  "lv": "B2",
+  "lemma": "ansteigen",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "angestiegen",
+  "forms": "steigt an, stieg an, ist angestiegen",
+  "zh": "上升；增加",
+  "ex": [
+   "Die Zahl der Anmeldungen ist im letzten Jahr stark angestiegen."
+  ],
+  "ex_zh": "去年报名人数大幅上升。",
+  "use": {
+   "col": [
+    [
+     "deutlich ansteigen",
+     "明显上升"
+    ],
+    [
+     "auf das Doppelte ansteigen",
+     "增加到两倍"
+    ]
+   ],
+   "tip": "可分动词；反义词 zurückgehen、sinken"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "zurückgehen",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "zurückgegangen",
+  "forms": "geht zurück, ging zurück, ist zurückgegangen",
+  "zh": "下降；减少；追溯到",
+  "ex": [
+   "Die Zahl der Studienanfänger ist leicht zurückgegangen."
+  ],
+  "ex_zh": "新生人数略有下降。",
+  "use": {
+   "senses": [
+    "下降；减少",
+    "回去",
+    "追溯到"
+   ],
+   "col": [
+    [
+     "stark zurückgehen",
+     "大幅下降"
+    ],
+    [
+     "auf das Jahr 1990 zurückgehen",
+     "可追溯到 1990 年"
+    ]
+   ],
+   "tip": "可分动词；名词 der Rückgang"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "schwanken",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "geschwankt",
+  "forms": "schwankt, schwankte, hat geschwankt",
+  "zh": "波动；摇摆",
+  "ex": [
+   "Die Zahlen schwanken je nach Jahreszeit zwischen 500 und 800."
+  ],
+  "ex_zh": "这些数字随季节在 500 到 800 之间波动。",
+  "use": {
+   "col": [
+    [
+     "zwischen zwei Werten schwanken",
+     "在两个值之间波动"
+    ],
+    [
+     "stark schwanken",
+     "波动很大"
+    ]
+   ],
+   "tip": "助动词一般 hat；表示“摇摇晃晃地走”时用 ist"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich verdoppeln",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verdoppelt",
+  "forms": "verdoppelt sich, verdoppelte sich, hat sich verdoppelt",
+  "zh": "翻倍",
+  "ex": [
+   "Die Zahl der Online-Kurse hat sich innerhalb von zwei Jahren verdoppelt."
+  ],
+  "ex_zh": "在线课程的数量在两年内翻了一番。",
+  "use": {
+   "col": [
+    [
+     "Die Preise haben sich verdoppelt.",
+     "价格翻了一倍"
+    ],
+    [
+     "sich innerhalb eines Jahres verdoppeln",
+     "一年内翻倍"
+    ]
+   ],
+   "tip": "也可作及物动词；sich verdreifachen 变成三倍"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich halbieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "halbiert",
+  "forms": "halbiert sich, halbierte sich, hat sich halbiert",
+  "zh": "减半",
+  "ex": [
+   "Die Zahl der Neuanmeldungen hat sich im Vergleich zum Vorjahr halbiert."
+  ],
+  "ex_zh": "新注册人数与去年相比减了一半。",
+  "use": {
+   "col": [
+    [
+     "sich um die Hälfte verringern",
+     "减少一半"
+    ],
+    [
+     "sich auf zehn Prozent halbieren",
+     "减半至百分之十"
+    ]
+   ],
+   "tip": "也可作及物动词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "betragen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "betragen",
+  "forms": "beträgt, betrug, hat betragen",
+  "zh": "共计；达到（数额）",
+  "ex": [
+   "Die Regelstudienzeit für den Masterstudiengang beträgt vier Semester."
+  ],
+  "ex_zh": "硕士专业的标准学制为四个学期。",
+  "use": {
+   "col": [
+    [
+     "der Betrag beträgt",
+     "数额为"
+    ],
+    [
+     "die Kosten betragen",
+     "费用为"
+    ]
+   ],
+   "tip": "不可分动词；主语是数量，宾语不能是人"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "überwiegen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "überwogen",
+  "forms": "überwiegt, überwog, hat überwogen",
+  "zh": "占优势；占多数",
+  "ex": [
+   "In der Studie überwiegen die positiven Rückmeldungen."
+  ],
+  "ex_zh": "研究中正面反馈占多数。",
+  "use": {
+   "col": [
+    [
+     "die Vorteile überwiegen",
+     "利大于弊"
+    ],
+    [
+     "deutlich überwiegen",
+     "明显占优"
+    ]
+   ],
+   "tip": "不可分动词；形容词 überwiegend"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "übertreffen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "übertroffen",
+  "forms": "übertrifft, übertraf, hat übertroffen",
+  "zh": "超过；胜过",
+  "ex": [
+   "Das Ergebnis übertrifft alle Erwartungen der Forscher."
+  ],
+  "ex_zh": "这个结果超出了研究者的所有预期。",
+  "use": {
+   "col": [
+    [
+     "die Erwartungen übertreffen",
+     "超出期望"
+    ],
+    [
+     "sich selbst übertreffen",
+     "超越自己"
+    ]
+   ],
+   "tip": "不可分动词；变位同 treffen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich verringern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verringert",
+  "forms": "verringert sich, verringerte sich, hat sich verringert",
+  "zh": "减少；降低",
+  "ex": [
+   "Der Abstand zwischen den beiden Gruppen hat sich verringert."
+  ],
+  "ex_zh": "两组之间的差距缩小了。",
+  "use": {
+   "col": [
+    [
+     "sich deutlich verringern",
+     "明显减少"
+    ],
+    [
+     "das Risiko verringern",
+     "降低风险"
+    ]
+   ],
+   "tip": "及物：etwas verringern；同义 sich vermindern"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "stagnieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "stagniert",
+  "forms": "stagniert, stagnierte, hat stagniert",
+  "zh": "停滞",
+  "ex": [
+   "Die Zahl der Studienanfänger stagniert seit drei Jahren."
+  ],
+  "ex_zh": "新生人数三年来停滞不前。",
+  "use": {
+   "col": [
+    [
+     "die Wirtschaft stagniert",
+     "经济停滞"
+    ],
+    [
+     "auf einem Niveau stagnieren",
+     "停滞在某个水平"
+    ]
+   ],
+   "tip": "不可分动词；名词 die Stagnation"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "schrumpfen",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "geschrumpft",
+  "forms": "schrumpft, schrumpfte, ist geschrumpft",
+  "zh": "缩小；萎缩",
+  "ex": [
+   "Die Zahl der Studierenden in dem Fach ist stark geschrumpft."
+  ],
+  "ex_zh": "这门专业的学生人数大幅减少。",
+  "use": {
+   "col": [
+    [
+     "deutlich schrumpfen",
+     "明显缩减"
+    ],
+    [
+     "ein schrumpfender Markt",
+     "萎缩的市场"
+    ]
+   ],
+   "tip": "助动词 sein"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "verzeichnen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verzeichnet",
+  "forms": "verzeichnet, verzeichnete, hat verzeichnet",
+  "zh": "记录；出现（数字）",
+  "ex": [
+   "Die Universität verzeichnet einen Rekord an Bewerbungen."
+  ],
+  "ex_zh": "这所大学的申请人数创下纪录。",
+  "use": {
+   "col": [
+    [
+     "einen Anstieg verzeichnen",
+     "出现增长"
+    ],
+    [
+     "Erfolge verzeichnen",
+     "取得成绩"
+    ]
+   ],
+   "tip": "不可分动词；书面、新闻常用"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "zurückführen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "zurückgeführt",
+  "forms": "führt zurück, führte zurück, hat zurückgeführt",
+  "zh": "归因于；追溯到",
+  "ex": [
+   "Die Forscher führen den Effekt auf mehrere Faktoren zurück."
+  ],
+  "ex_zh": "研究者把这一效应归因于几个因素。",
+  "use": {
+   "col": [
+    [
+     "etwas auf eine Ursache zurückführen",
+     "把某事归因于某原因"
+    ],
+    [
+     "sich zurückführen lassen auf",
+     "可以追溯到"
+    ]
+   ],
+   "tip": "可分动词"
+  },
+  "gov": "zurückführen auf + Akk."
+ },
+ {
+  "lv": "B2",
+  "lemma": "abweichen",
+  "pos": "v",
+  "aux": "ist",
+  "p2": "abgewichen",
+  "forms": "weicht ab, wich ab, ist abgewichen",
+  "zh": "偏离；不同于",
+  "ex": [
+   "Die Ergebnisse weichen stark von den Erwartungen ab."
+  ],
+  "ex_zh": "结果与预期相差很大。",
+  "use": {
+   "col": [
+    [
+     "von der Norm abweichen",
+     "偏离常规"
+    ],
+    [
+     "vom Thema abweichen",
+     "离题"
+    ]
+   ],
+   "tip": "可分动词；名词 die Abweichung"
+  },
+  "gov": "abweichen von + Dat."
+ },
+ {
+  "lv": "B2",
+  "lemma": "übereinstimmen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "übereingestimmt",
+  "forms": "stimmt überein, stimmte überein, hat übereingestimmt",
+  "zh": "一致；相符",
+  "ex": [
+   "Die Angaben in beiden Dokumenten stimmen nicht überein."
+  ],
+  "ex_zh": "两份文件里的信息不一致。",
+  "use": {
+   "col": [
+    [
+     "mit jemandem übereinstimmen",
+     "与某人一致"
+    ],
+    [
+     "in diesem Punkt übereinstimmen",
+     "在这点上一致"
+    ]
+   ],
+   "tip": "可分动词；名词 die Übereinstimmung"
+  },
+  "gov": "übereinstimmen mit + Dat."
+ },
+ {
+  "lv": "B2",
+  "lemma": "sich ergeben",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ergeben",
+  "forms": "ergibt sich, ergab sich, hat sich ergeben",
+  "zh": "得出；产生；出现",
+  "ex": [
+   "Aus der Umfrage ergibt sich ein klares Bild der Wünsche der Studierenden."
+  ],
+  "ex_zh": "从问卷中可以看出学生们愿望的清晰图景。",
+  "use": {
+   "col": [
+    [
+     "sich aus etwas ergeben",
+     "由某事得出"
+    ],
+    [
+     "es ergibt sich eine Chance",
+     "出现了机会"
+    ]
+   ],
+   "tip": "不可分动词；及物用法：ergeben = 得出（数值）"
+  },
+  "gov": "sich ergeben aus + Dat."
+ },
+ {
+  "lv": "B2",
+  "lemma": "berücksichtigen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "berücksichtigt",
+  "forms": "berücksichtigt, berücksichtigte, hat berücksichtigt",
+  "zh": "考虑；顾及",
+  "ex": [
+   "Bei der Auswertung müssen alle Einflussfaktoren berücksichtigt werden."
+  ],
+  "ex_zh": "分析时必须考虑所有影响因素。",
+  "use": {
+   "col": [
+    [
+     "einen Faktor berücksichtigen",
+     "考虑一个因素"
+    ],
+    [
+     "Wünsche berücksichtigen",
+     "顾及愿望"
+    ]
+   ],
+   "tip": "不可分动词；名词 die Berücksichtigung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "einbeziehen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "einbezogen",
+  "forms": "bezieht ein, bezog ein, hat einbezogen",
+  "zh": "纳入；把……考虑在内",
+  "ex": [
+   "In die Untersuchung wurden auch ältere Probanden einbezogen."
+  ],
+  "ex_zh": "研究也把年长的受试者纳入了进来。",
+  "use": {
+   "col": [
+    [
+     "jemanden in etwas einbeziehen",
+     "把某人纳入某事"
+    ],
+    [
+     "in die Planung einbeziehen",
+     "纳入规划"
+    ]
+   ],
+   "tip": "可分动词；同义 einschließen"
+  },
+  "gov": "einbeziehen in + Akk."
+ },
+ {
+  "lv": "B2",
+  "lemma": "erfassen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "erfasst",
+  "forms": "erfasst, erfasste, hat erfasst",
+  "zh": "记录；登记；理解",
+  "ex": [
+   "Alle Messdaten werden automatisch in einer Datenbank erfasst."
+  ],
+  "ex_zh": "所有测量数据都会自动录入数据库。",
+  "use": {
+   "senses": [
+    "记录；登记",
+    "理解；领会"
+   ],
+   "col": [
+    [
+     "Daten erfassen",
+     "录入数据"
+    ],
+    [
+     "den Sinn erfassen",
+     "领会含义"
+    ]
+   ],
+   "tip": "不可分动词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "zuordnen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "zugeordnet",
+  "forms": "ordnet zu, ordnete zu, hat zugeordnet",
+  "zh": "归类；分配",
+  "ex": [
+   "Bei der Auswertung wurde jeder Antwort ein bestimmter Zahlenwert zugeordnet."
+  ],
+  "ex_zh": "分析时每个答案都被赋予了一个确定的数值。",
+  "use": {
+   "col": [
+    [
+     "einer Gruppe zuordnen",
+     "归入某一组"
+    ],
+    [
+     "sich zuordnen lassen",
+     "可以归类"
+    ]
+   ],
+   "tip": "可分动词；Dat. 和 Akk. 都出现"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "hinterfragen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "hinterfragt",
+  "forms": "hinterfragt, hinterfragte, hat hinterfragt",
+  "zh": "质疑；追问",
+  "ex": [
+   "Man sollte die Ergebnisse einer Studie immer kritisch hinterfragen."
+  ],
+  "ex_zh": "对一项研究的结果应当始终持批判态度。",
+  "use": {
+   "col": [
+    [
+     "etwas kritisch hinterfragen",
+     "批判性地质疑"
+    ],
+    [
+     "Gewohnheiten hinterfragen",
+     "反思习惯"
+    ]
+   ],
+   "tip": "不可分动词，重音在 frag"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "vermitteln",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "vermittelt",
+  "forms": "vermittelt, vermittelte, hat vermittelt",
+  "zh": "传授；介绍；调解",
+  "ex": [
+   "Der Kurs vermittelt den Studierenden Grundkenntnisse in Statistik und Datenanalyse."
+  ],
+  "ex_zh": "这门课向学生传授统计学和数据分析的基础知识。",
+  "use": {
+   "senses": [
+    "传授（知识）",
+    "介绍；牵线",
+    "调解"
+   ],
+   "col": [
+    [
+     "Wissen vermitteln",
+     "传授知识"
+    ],
+    [
+     "einen Praktikumsplatz vermitteln",
+     "介绍实习岗位"
+    ]
+   ],
+   "tip": "不可分动词；名词 die Vermittlung"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "nachvollziehen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "nachvollzogen",
+  "forms": "vollzieht nach, vollzog nach, hat nachvollzogen",
+  "zh": "理解；弄明白",
+  "ex": [
+   "Ich kann die Argumentation des Autors nicht ganz nachvollziehen."
+  ],
+  "ex_zh": "我没法完全理解作者的论证。",
+  "use": {
+   "col": [
+    [
+     "eine Entscheidung nachvollziehen",
+     "理解一个决定"
+    ],
+    [
+     "gut nachvollziehbar",
+     "很容易理解"
+    ]
+   ],
+   "tip": "可分动词；形容词 nachvollziehbar"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "wissenschaftlich",
+  "pos": "adj",
+  "zh": "科学的；学术的",
+  "ex": [
+   "Die Arbeit entspricht nicht den wissenschaftlichen Standards der Fakultät."
+  ],
+  "ex_zh": "这篇论文不符合学院的学术标准。",
+  "use": {
+   "col": [
+    [
+     "wissenschaftlich arbeiten",
+     "做学术工作"
+    ],
+    [
+     "eine wissenschaftliche Mitarbeiterin",
+     "学术助理（研究人员）"
+    ]
+   ],
+   "tip": "名词 die Wissenschaft"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "akademisch",
+  "pos": "adj",
+  "zh": "学术的；高校的",
+  "ex": [
+   "Das akademische Jahr beginnt in Deutschland im Herbst."
+  ],
+  "ex_zh": "在德国，学年从秋季开始。",
+  "use": {
+   "col": [
+    [
+     "der akademische Grad",
+     "学位"
+    ],
+    [
+     "eine akademische Laufbahn",
+     "学术生涯"
+    ]
+   ],
+   "tip": "das akademische Viertel = 课前十五分钟的“学术一刻钟”"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "fachlich",
+  "pos": "adj",
+  "zh": "专业的；业务上的",
+  "ex": [
+   "Fachlich ist sie bestens qualifiziert, aber ihr fehlt die Berufserfahrung."
+  ],
+  "ex_zh": "她专业上完全胜任，但缺少工作经验。",
+  "use": {
+   "col": [
+    [
+     "fachliche Kompetenz",
+     "专业能力"
+    ],
+    [
+     "fachlich fundiert",
+     "专业上有根据"
+    ]
+   ],
+   "tip": "可作副词；fachlich 与 sachlich 不同"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "objektiv",
+  "pos": "adj",
+  "zh": "客观的",
+  "ex": [
+   "Eine objektive Bewertung der Ergebnisse ist nur mit einer Kontrollgruppe möglich."
+  ],
+  "ex_zh": "只有设置对照组才能客观评价结果。",
+  "use": {
+   "col": [
+    [
+     "objektiv betrachtet",
+     "客观地看"
+    ],
+    [
+     "eine objektive Meinung",
+     "客观的看法"
+    ]
+   ],
+   "tip": "反义词 subjektiv"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "subjektiv",
+  "pos": "adj",
+  "zh": "主观的",
+  "ex": [
+   "Die Auswertung der offenen Antworten bleibt zum Teil subjektiv."
+  ],
+  "ex_zh": "对开放性回答的分析在一定程度上仍是主观的。",
+  "use": {
+   "col": [
+    [
+     "subjektiv empfinden",
+     "主观感觉"
+    ],
+    [
+     "ein subjektiver Eindruck",
+     "主观印象"
+    ]
+   ],
+   "tip": "反义词 objektiv"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "sachlich",
+  "pos": "adj",
+  "zh": "就事论事的；客观的",
+  "ex": [
+   "Die Diskussion blieb von Anfang bis Ende sachlich."
+  ],
+  "ex_zh": "讨论自始至终都就事论事。",
+  "use": {
+   "col": [
+    [
+     "sachlich bleiben",
+     "保持冷静客观"
+    ],
+    [
+     "sachlich argumentieren",
+     "理性论证"
+    ]
+   ],
+   "tip": "名词 die Sache；和 fachlich 区别"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "repräsentativ",
+  "pos": "adj",
+  "zh": "有代表性的",
+  "ex": [
+   "Die Umfrage ist nicht repräsentativ, weil nur Studierende befragt wurden."
+  ],
+  "ex_zh": "这项调查没有代表性，因为只调查了大学生。",
+  "use": {
+   "col": [
+    [
+     "eine repräsentative Umfrage",
+     "有代表性的调查"
+    ],
+    [
+     "repräsentativ für",
+     "对……有代表性"
+    ]
+   ],
+   "tip": "名词 die Repräsentativität（C1）"
+  },
+  "gov": "repräsentativ für + Akk."
+ },
+ {
+  "lv": "B2",
+  "lemma": "relevant",
+  "pos": "adj",
+  "zh": "相关的；重要的",
+  "ex": [
+   "Diese Erkenntnisse sind auch für die Praxis relevant."
+  ],
+  "ex_zh": "这些发现对实践也有意义。",
+  "use": {
+   "col": [
+    [
+     "von Bedeutung und relevant",
+     "重要且相关"
+    ],
+    [
+     "ein relevantes Thema",
+     "相关的主题"
+    ]
+   ],
+   "tip": "名词 die Relevanz；常接 für + Akk."
+  },
+  "gov": "relevant für + Akk."
+ },
+ {
+  "lv": "B2",
+  "lemma": "präzise",
+  "pos": "adj",
+  "zh": "精确的",
+  "ex": [
+   "Die Fragestellung der Abschlussarbeit muss möglichst präzise sein."
+  ],
+  "ex_zh": "毕业论文的问题设定必须尽量精确。",
+  "use": {
+   "col": [
+    [
+     "präzise formulieren",
+     "表述精确"
+    ],
+    [
+     "eine präzise Angabe",
+     "确切的说明"
+    ]
+   ],
+   "tip": "名词 die Präzision；同义 genau"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "plausibel",
+  "pos": "adj",
+  "zh": "合理的；可信的",
+  "ex": [
+   "Die Erklärung der Autorin klingt plausibel, ist aber nicht belegt."
+  ],
+  "ex_zh": "作者的解释听起来合理，但没有证据。",
+  "use": {
+   "col": [
+    [
+     "eine plausible Erklärung",
+     "合理的解释"
+    ],
+    [
+     "plausibel erscheinen",
+     "显得合理"
+    ]
+   ],
+   "tip": "反义词 unplausibel"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "schlüssig",
+  "pos": "adj",
+  "zh": "令人信服的；连贯的",
+  "ex": [
+   "Die Argumentation ist logisch und schlüssig aufgebaut."
+  ],
+  "ex_zh": "论证逻辑严密、令人信服。",
+  "use": {
+   "col": [
+    [
+     "ein schlüssiges Konzept",
+     "严密的方案"
+    ],
+    [
+     "nicht schlüssig",
+     "不能自圆其说"
+    ]
+   ],
+   "tip": "同义 überzeugend；多用于论证"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "nachvollziehbar",
+  "pos": "adj",
+  "zh": "可以理解的；可追溯的",
+  "ex": [
+   "Die Berechnung ist für Außenstehende leicht nachvollziehbar."
+  ],
+  "ex_zh": "局外人也很容易理解这个计算。",
+  "use": {
+   "col": [
+    [
+     "gut nachvollziehbar",
+     "很容易理解"
+    ],
+    [
+     "nachvollziehbare Gründe",
+     "可以理解的理由"
+    ]
+   ],
+   "tip": "动词 nachvollziehen"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "umstritten",
+  "pos": "adj",
+  "zh": "有争议的",
+  "ex": [
+   "Die Wirksamkeit der Methode ist unter Fachleuten umstritten."
+  ],
+  "ex_zh": "这个方法的有效性在专家之间有争议。",
+  "use": {
+   "col": [
+    [
+     "ein umstrittenes Thema",
+     "有争议的话题"
+    ],
+    [
+     "hoch umstritten",
+     "争议极大"
+    ]
+   ],
+   "tip": "来自 streiten"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "fundiert",
+  "pos": "adj",
+  "zh": "有根据的；扎实的",
+  "ex": [
+   "Sie verfügt über fundierte Kenntnisse in Statistik."
+  ],
+  "ex_zh": "她具备扎实的统计学知识。",
+  "use": {
+   "col": [
+    [
+     "fundiertes Wissen",
+     "扎实的知识"
+    ],
+    [
+     "eine fundierte Kritik",
+     "有理有据的批评"
+    ]
+   ],
+   "tip": "形容词，源自 fundieren"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "widersprüchlich",
+  "pos": "adj",
+  "zh": "相互矛盾的",
+  "ex": [
+   "Die Ergebnisse der beiden Studien sind widersprüchlich."
+  ],
+  "ex_zh": "这两项研究的结果相互矛盾。",
+  "use": {
+   "col": [
+    [
+     "widersprüchliche Aussagen",
+     "相互矛盾的陈述"
+    ],
+    [
+     "sich widersprüchlich verhalten",
+     "行为自相矛盾"
+    ]
+   ],
+   "tip": "名词 der Widerspruch"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "ausführlich",
+  "pos": "adj",
+  "zh": "详细的",
+  "ex": [
+   "Im zweiten Kapitel wird die Methode ausführlich beschrieben."
+  ],
+  "ex_zh": "第二章详细描述了这个方法。",
+  "use": {
+   "col": [
+    [
+     "ausführlich erklären",
+     "详细说明"
+    ],
+    [
+     "eine ausführliche Beschreibung",
+     "详细描述"
+    ]
+   ],
+   "tip": "同义 detailliert"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "quantitativ",
+  "pos": "adj",
+  "zh": "定量的；数量上的",
+  "ex": [
+   "Die Studie nutzt vor allem quantitative Methoden."
+  ],
+  "ex_zh": "这项研究主要采用定量方法。",
+  "use": {
+   "col": [
+    [
+     "quantitative Forschung",
+     "定量研究"
+    ],
+    [
+     "quantitativ und qualitativ",
+     "定量与定性"
+    ]
+   ],
+   "tip": "反义词 qualitativ；名词 die Quantität（C1）"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "qualitativ",
+  "pos": "adj",
+  "zh": "定性的；质量上的",
+  "ex": [
+   "Für die Interviews wurde ein qualitatives Verfahren gewählt."
+  ],
+  "ex_zh": "访谈采用了定性方法。",
+  "use": {
+   "col": [
+    [
+     "eine qualitative Analyse",
+     "定性分析"
+    ],
+    [
+     "qualitative Unterschiede",
+     "质量上的差异"
+    ]
+   ],
+   "tip": "反义词 quantitativ；不同于 qualifiziert"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "überdurchschnittlich",
+  "pos": "adj",
+  "zh": "高于平均的",
+  "ex": [
+   "Sie hat in allen Fächern überdurchschnittliche Leistungen erbracht."
+  ],
+  "ex_zh": "她在所有科目上都取得了高于平均水平的成绩。",
+  "use": {
+   "col": [
+    [
+     "überdurchschnittlich gut",
+     "特别出色"
+    ],
+    [
+     "eine überdurchschnittliche Leistung",
+     "超出平均的成绩"
+    ]
+   ],
+   "tip": "反义词 unterdurchschnittlich"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "unterdurchschnittlich",
+  "pos": "adj",
+  "zh": "低于平均的",
+  "ex": [
+   "Die Beteiligung an der Wahl war unterdurchschnittlich niedrig."
+  ],
+  "ex_zh": "投票参与率低于平均水平。",
+  "use": {
+   "col": [
+    [
+     "unterdurchschnittlich bezahlt",
+     "薪水低于平均"
+    ],
+    [
+     "unterdurchschnittliche Ergebnisse",
+     "低于平均的成绩"
+    ]
+   ],
+   "tip": "反义词 überdurchschnittlich"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "rückläufig",
+  "pos": "adj",
+  "zh": "下降的；减少的",
+  "ex": [
+   "Die Zahl der Neuanmeldungen ist seit zwei Jahren rückläufig."
+  ],
+  "ex_zh": "新注册人数两年来一直在下降。",
+  "use": {
+   "col": [
+    [
+     "rückläufig sein",
+     "呈下降趋势"
+    ],
+    [
+     "eine rückläufige Entwicklung",
+     "下降的趋势"
+    ]
+   ],
+   "tip": "书面、新闻常用；反义词 steigend"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "erheblich",
+  "pos": "adj",
+  "zh": "相当大的；显著的",
+  "ex": [
+   "Es gibt erhebliche Unterschiede zwischen den einzelnen Bundesländern."
+  ],
+  "ex_zh": "各联邦州之间存在显著差异。",
+  "use": {
+   "col": [
+    [
+     "erhebliche Unterschiede",
+     "显著差异"
+    ],
+    [
+     "sich erheblich verbessern",
+     "大大改善"
+    ]
+   ],
+   "tip": "同义 beträchtlich；可作副词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "beträchtlich",
+  "pos": "adj",
+  "zh": "可观的；相当大的",
+  "ex": [
+   "Die Kosten für das Projekt liegen beträchtlich über dem Plan."
+  ],
+  "ex_zh": "项目成本远高于计划。",
+  "use": {
+   "col": [
+    [
+     "ein beträchtlicher Anteil",
+     "相当大的份额"
+    ],
+    [
+     "beträchtlich steigen",
+     "大幅上升"
+    ]
+   ],
+   "tip": "同义 erheblich；书面"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "geringfügig",
+  "pos": "adj",
+  "zh": "轻微的；少量的",
+  "ex": [
+   "Die Werte unterscheiden sich nur geringfügig voneinander."
+  ],
+  "ex_zh": "这些数值彼此只有细微差别。",
+  "use": {
+   "col": [
+    [
+     "geringfügige Änderungen",
+     "小幅改动"
+    ],
+    [
+     "geringfügig beschäftigt",
+     "小时工（迷你工作）"
+    ]
+   ],
+   "tip": "反义词 erheblich；geringfügige Beschäftigung = 迷你工"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "vergleichsweise",
+  "pos": "adv",
+  "zh": "相对而言；比较起来",
+  "ex": [
+   "Die Studiengebühren sind in Deutschland vergleichsweise niedrig."
+  ],
+  "ex_zh": "德国的学费相对较低。",
+  "use": {
+   "col": [
+    [
+     "vergleichsweise günstig",
+     "相对便宜"
+    ],
+    [
+     "vergleichsweise hoch",
+     "相对较高"
+    ]
+   ],
+   "tip": "后接形容词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "annähernd",
+  "pos": "adv",
+  "zh": "大约；几乎",
+  "ex": [
+   "Annähernd die Hälfte aller Studierenden wohnt in einer Wohngemeinschaft."
+  ],
+  "ex_zh": "差不多一半的大学生住在合租房里。",
+  "use": {
+   "col": [
+    [
+     "annähernd gleich",
+     "大致相同"
+    ],
+    [
+     "annähernd tausend Personen",
+     "近千人"
+    ]
+   ],
+   "tip": "也可作形容词；同义 ungefähr"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "überwiegend",
+  "pos": "adv",
+  "zh": "主要地；大多数",
+  "ex": [
+   "Die Befragten waren überwiegend zwischen 20 und 30 Jahre alt."
+  ],
+  "ex_zh": "受访者大多在 20 到 30 岁之间。",
+  "use": {
+   "col": [
+    [
+     "überwiegend positiv",
+     "大多是正面的"
+    ],
+    [
+     "überwiegend aus",
+     "主要来自"
+    ]
+   ],
+   "tip": "同义 größtenteils；也作形容词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "größtenteils",
+  "pos": "adv",
+  "zh": "大部分",
+  "ex": [
+   "Die Daten stammen größtenteils aus öffentlichen Quellen."
+  ],
+  "ex_zh": "这些数据大部分来自公开渠道。",
+  "use": {
+   "col": [
+    [
+     "größtenteils zutreffend",
+     "大体正确"
+    ],
+    [
+     "größtenteils unverändert",
+     "基本未变"
+    ]
+   ],
+   "tip": "同义 zum größten Teil"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "mehrheitlich",
+  "pos": "adv",
+  "zh": "多数地",
+  "ex": [
+   "Die Teilnehmer lehnten den Vorschlag mehrheitlich ab."
+  ],
+  "ex_zh": "参与者多数拒绝了这个提议。",
+  "use": {
+   "col": [
+    [
+     "mehrheitlich beschließen",
+     "多数通过"
+    ],
+    [
+     "mehrheitlich positiv",
+     "多数为正面"
+    ]
+   ],
+   "tip": "书面；名词 die Mehrheit"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "bundesweit",
+  "pos": "adj",
+  "zh": "全国范围的；全联邦的",
+  "ex": [
+   "Die Umfrage wurde bundesweit an mehr als hundert Hochschulen durchgeführt."
+  ],
+  "ex_zh": "这项调查在全国一百多所高校进行。",
+  "use": {
+   "col": [
+    [
+     "bundesweit gültig",
+     "全国有效"
+    ],
+    [
+     "eine bundesweite Studie",
+     "全国性研究"
+    ]
+   ],
+   "tip": "可作副词和形容词"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "entsprechend",
+  "pos": "adj",
+  "zh": "相应的；相符的",
+  "ex": [
+   "Entsprechend den Vorgaben wurde die Stichprobe zufällig gezogen."
+  ],
+  "ex_zh": "按照规定，样本是随机抽取的。",
+  "use": {
+   "col": [
+    [
+     "entsprechende Maßnahmen",
+     "相应措施"
+    ],
+    [
+     "dem Alter entsprechend",
+     "符合年龄的"
+    ]
+   ],
+   "tip": "也作介词 + Dat.：entsprechend den Vorgaben"
+  },
+  "gov": "entsprechend + Dat."
+ },
+ {
+  "lv": "B2",
+  "lemma": "staatlich",
+  "pos": "adj",
+  "zh": "国家的；公立的",
+  "ex": [
+   "Die staatlichen Hochschulen erheben in den meisten Bundesländern keine Studiengebühren."
+  ],
+  "ex_zh": "公立高校在大多数联邦州不收学费。",
+  "use": {
+   "col": [
+    [
+     "eine staatliche Universität",
+     "公立大学"
+    ],
+    [
+     "staatlich anerkannt",
+     "国家认可"
+    ]
+   ],
+   "tip": "名词 der Staat"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "interdisziplinär",
+  "pos": "adj",
+  "zh": "跨学科的",
+  "ex": [
+   "Das Projekt ist interdisziplinär angelegt und verbindet Informatik und Linguistik."
+  ],
+  "ex_zh": "这个项目是跨学科的，把计算机和语言学结合起来。",
+  "use": {
+   "col": [
+    [
+     "interdisziplinäre Zusammenarbeit",
+     "跨学科合作"
+    ],
+    [
+     "interdisziplinär arbeiten",
+     "跨学科工作"
+    ]
+   ],
+   "tip": "名词 die Disziplin"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "praxisnah",
+  "pos": "adj",
+  "zh": "贴近实践的",
+  "ex": [
+   "Wir suchen einen praxisnahen Studiengang mit vielen Projekten."
+  ],
+  "ex_zh": "我们在找一个贴近实践、项目很多的专业。",
+  "use": {
+   "col": [
+    [
+     "praxisnah lehren",
+     "结合实践教学"
+    ],
+    [
+     "ein praxisnahes Studium",
+     "贴近实践的学习"
+    ]
+   ],
+   "tip": "同义 praxisorientiert"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "weiterführend",
+  "pos": "adj",
+  "zh": "进阶的；后续的",
+  "ex": [
+   "Für weiterführende Informationen verweisen wir auf die Fachliteratur."
+  ],
+  "ex_zh": "更多信息请参阅专业文献。",
+  "use": {
+   "col": [
+    [
+     "weiterführende Schule",
+     "中等学校（小学之后）"
+    ],
+    [
+     "weiterführende Literatur",
+     "延伸阅读"
+    ]
+   ],
+   "tip": "德国教育里 weiterführende Schule 指小学后的各种中学"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "bestenfalls",
+  "pos": "adv",
+  "zh": "充其量；最好的情况下",
+  "ex": [
+   "Der Effekt ist bestenfalls gering und lässt sich nicht sicher nachweisen."
+  ],
+  "ex_zh": "这个效应充其量很小，也无法确证。",
+  "use": {
+   "col": [
+    [
+     "bestenfalls ein Drittel",
+     "充其量三分之一"
+    ],
+    [
+     "schlimmstenfalls",
+     "最坏的情况下"
+    ]
+   ],
+   "tip": "反义词 schlimmstenfalls"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "keineswegs",
+  "pos": "adv",
+  "zh": "绝不；毫无",
+  "ex": [
+   "Die Ergebnisse der beiden Untersuchungen sind keineswegs eindeutig."
+  ],
+  "ex_zh": "两项调查的结果绝不是明确的。",
+  "use": {
+   "col": [
+    [
+     "keineswegs sicher",
+     "绝不确定"
+    ],
+    [
+     "keineswegs selbstverständlich",
+     "绝非理所当然"
+    ]
+   ],
+   "tip": "强烈否定；同义 auf keinen Fall"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "insbesondere",
+  "pos": "adv",
+  "zh": "尤其；特别是",
+  "ex": [
+   "Die Datenmenge wächst, insbesondere in den sozialen Netzwerken."
+  ],
+  "ex_zh": "数据量在增长，尤其是社交网络里。",
+  "use": {
+   "col": [
+    [
+     "insbesondere bei",
+     "尤其在……方面"
+    ],
+    [
+     "insbesondere dann, wenn",
+     "尤其是当……时"
+    ]
+   ],
+   "tip": "书面；同义 besonders"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "demnach",
+  "pos": "adv",
+  "zh": "据此；由此",
+  "ex": [
+   "Demnach sind die Kosten in den letzten Jahren um zehn Prozent gestiegen."
+  ],
+  "ex_zh": "据此，这几年的成本上涨了百分之十。",
+  "use": {
+   "col": [
+    [
+     "Demnach ist anzunehmen, dass ...",
+     "由此可以推断……"
+    ],
+    [
+     "demnach sinken die Kosten",
+     "据此成本下降"
+    ]
+   ],
+   "tip": "书面连接副词；类似 daher"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "somit",
+  "pos": "adv",
+  "zh": "因此；这样",
+  "ex": [
+   "Somit ist die Hypothese durch die neuen Messungen widerlegt."
+  ],
+  "ex_zh": "这样，这个假设就被新的测量推翻了。",
+  "use": {
+   "col": [
+    [
+     "und somit",
+     "因而"
+    ],
+    [
+     "somit ist bewiesen, dass ...",
+     "由此证明……"
+    ]
+   ],
+   "tip": "书面连接词；类似 also, folglich"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "dementsprechend",
+  "pos": "adv",
+  "zh": "相应地",
+  "ex": [
+   "Die Nachfrage ist gestiegen und die Preise sind dementsprechend gestiegen."
+  ],
+  "ex_zh": "需求上升了，价格也相应上涨。",
+  "use": {
+   "col": [
+    [
+     "dementsprechend handeln",
+     "相应地行动"
+    ],
+    [
+     "dementsprechend gut",
+     "相应地好"
+    ]
+   ],
+   "tip": "书面"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "gegebenenfalls",
+  "pos": "adv",
+  "zh": "必要时；如果可能",
+  "ex": [
+   "Bitte reichen Sie gegebenenfalls weitere Unterlagen nach."
+  ],
+  "ex_zh": "必要时请补交其他材料。",
+  "use": {
+   "col": [
+    [
+     "gegebenenfalls anpassen",
+     "必要时调整"
+    ],
+    [
+     "Unterlagen gegebenenfalls nachreichen",
+     "必要时补交材料"
+    ]
+   ],
+   "tip": "缩写 ggf.；书面"
+  }
+ },
+ {
+  "lv": "B2",
+  "lemma": "bezüglich",
+  "pos": "prep",
+  "zh": "关于",
+  "ex": [
+   "Bezüglich der Prüfungstermine erhalten Sie noch eine separate E-Mail."
+  ],
+  "ex_zh": "关于考试日期，您还会收到另一封邮件。",
+  "use": {
+   "col": [
+    [
+     "bezüglich der Anmeldung",
+     "关于注册"
+    ],
+    [
+     "bezüglich seines Antrags",
+     "关于他的申请"
+    ]
+   ],
+   "tip": "后接属格；书面、公文"
+  },
+  "gov": "bezüglich + Gen."
+ },
+ {
+  "lv": "B2",
+  "lemma": "hinsichtlich",
+  "pos": "prep",
+  "zh": "就……而言；关于",
+  "ex": [
+   "Hinsichtlich der Methodik gibt es noch einige offene Fragen."
+  ],
+  "ex_zh": "在方法上还有一些悬而未决的问题。",
+  "use": {
+   "col": [
+    [
+     "hinsichtlich der Kosten",
+     "就费用而言"
+    ],
+    [
+     "hinsichtlich dieser Frage",
+     "就这个问题而言"
+    ]
+   ],
+   "tip": "后接属格；书面"
+  },
+  "gov": "hinsichtlich + Gen."
+ },
+ {
+  "lv": "B2",
+  "lemma": "anhand",
+  "pos": "prep",
+  "zh": "根据；借助",
+  "ex": [
+   "Anhand der Daten lässt sich die Entwicklung gut nachvollziehen."
+  ],
+  "ex_zh": "借助数据可以很好地追踪这一发展。",
+  "use": {
+   "col": [
+    [
+     "anhand von Beispielen",
+     "借助例子"
+    ],
+    [
+     "anhand der Tabelle",
+     "根据表格"
+    ]
+   ],
+   "tip": "可接 Gen. 或 von + Dat."
+  },
+  "gov": "anhand + Gen. / von + Dat."
+ },
+ {
+  "lv": "B2",
+  "lemma": "aufgrund",
+  "pos": "prep",
+  "zh": "由于；因为",
+  "ex": [
+   "Aufgrund der geringen Teilnehmerzahl wurde der Kurs abgesagt."
+  ],
+  "ex_zh": "由于参加人数太少，这门课被取消了。",
+  "use": {
+   "col": [
+    [
+     "aufgrund von",
+     "由于"
+    ],
+    [
+     "aufgrund der Tatsache, dass",
+     "由于……这一事实"
+    ]
+   ],
+   "tip": "也写作 auf Grund；后接 Gen."
+  },
+  "gov": "aufgrund + Gen."
+ },
+ {
+  "lv": "B2",
+  "lemma": "infolge",
+  "pos": "prep",
+  "zh": "由于……的结果",
+  "ex": [
+   "Infolge der Digitalisierung hat sich das Studium stark verändert."
+  ],
+  "ex_zh": "由于数字化，学习方式发生了很大变化。",
+  "use": {
+   "col": [
+    [
+     "infolge eines Fehlers",
+     "由于一个错误"
+    ],
+    [
+     "infolge von",
+     "由于"
+    ]
+   ],
+   "tip": "书面；后接 Gen."
+  },
+  "gov": "infolge + Gen."
+ },
+ {
+  "lv": "B2",
+  "lemma": "entgegen",
+  "pos": "prep",
+  "zh": "与……相反",
+  "ex": [
+   "Entgegen den Erwartungen blieb die Zahl der Anmeldungen stabil."
+  ],
+  "ex_zh": "与预期相反，报名人数保持稳定。",
+  "use": {
+   "col": [
+    [
+     "entgegen allen Erwartungen",
+     "出乎所有人意料"
+    ],
+    [
+     "entgegen der Annahme",
+     "与假设相反"
+    ]
+   ],
+   "tip": "后接 Dat.，位置可在名词前或后"
+  },
+  "gov": "entgegen + Dat."
+ },
+ {
+  "lv": "B2",
+  "lemma": "zufolge",
+  "pos": "prep",
+  "zh": "据……所说",
+  "ex": [
+   "Der Studie zufolge lernen Kinder am besten in kleinen Gruppen."
+  ],
+  "ex_zh": "据这项研究，孩子在小组中学习效果最好。",
+  "use": {
+   "col": [
+    [
+     "Berichten zufolge",
+     "据报道"
+    ],
+    [
+     "zufolge der Studie",
+     "据研究"
+    ]
+   ],
+   "tip": "通常放在名词后（+ Dat.）"
+  },
+  "gov": "zufolge + Dat."
+ },
+ {
+  "lv": "C1",
+  "lemma": "Immatrikulation",
+  "art": "die",
+  "pl_full": "die Immatrikulationen",
+  "pos": "n",
+  "zh": "大学注册；入学登记",
+  "ex": [
+   "Die Immatrikulation erfolgt online und muss bis zum Semesterbeginn abgeschlossen sein."
+  ],
+  "ex_zh": "入学注册在线进行，须在学期开始前完成。",
+  "use": {
+   "col": [
+    [
+     "die Immatrikulation beantragen",
+     "申请入学注册"
+    ],
+    [
+     "Immatrikulationsbescheinigung",
+     "在读证明"
+    ]
+   ],
+   "tip": "动词 sich immatrikulieren；反义 Exmatrikulation"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Exmatrikulation",
+  "art": "die",
+  "pl_full": "die Exmatrikulationen",
+  "pos": "n",
+  "zh": "退学；注销学籍",
+  "ex": [
+   "Nach der Exmatrikulation verfällt auch das Semesterticket."
+  ],
+  "ex_zh": "注销学籍后学期票也随之失效。",
+  "use": {
+   "col": [
+    [
+     "die Exmatrikulation beantragen",
+     "申请退学"
+    ],
+    [
+     "zwangsweise Exmatrikulation",
+     "强制除名"
+    ]
+   ],
+   "tip": "动词 exmatrikulieren / sich exmatrikulieren"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Lehrstuhl",
+  "art": "der",
+  "pl_full": "die Lehrstühle",
+  "pos": "n",
+  "zh": "教席；讲席教授职位",
+  "ex": [
+   "Er hat den Lehrstuhl für Softwaretechnik an der Universität übernommen."
+  ],
+  "ex_zh": "他接任了这所大学软件工程方向的教席。",
+  "use": {
+   "col": [
+    [
+     "einen Lehrstuhl innehaben",
+     "担任教席"
+    ],
+    [
+     "am Lehrstuhl arbeiten",
+     "在某教席工作"
+    ]
+   ],
+   "tip": "也指教授领导的研究小组；复数有变音"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Promotion",
+  "art": "die",
+  "pl_full": "die Promotionen",
+  "pos": "n",
+  "zh": "博士学位的攻读与授予",
+  "ex": [
+   "Die Promotion dauert in der Informatik meist drei bis fünf Jahre."
+  ],
+  "ex_zh": "计算机专业的博士学业通常需要三到五年。",
+  "use": {
+   "col": [
+    [
+     "eine Promotion anstreben",
+     "打算读博"
+    ],
+    [
+     "die Promotion abschließen",
+     "完成博士学业"
+    ]
+   ],
+   "tip": "动词 promovieren；日常 Doktorarbeit 是论文本身"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Doktorand",
+  "art": "der",
+  "pl_full": "die Doktoranden",
+  "pos": "n",
+  "zh": "博士生",
+  "ex": [
+   "Als Doktorand betreut er außerdem zwei Bachelorarbeiten."
+  ],
+  "ex_zh": "作为博士生，他还指导两篇本科论文。",
+  "use": {
+   "col": [
+    [
+     "als Doktorand arbeiten",
+     "作博士生"
+    ],
+    [
+     "eine Doktorandin",
+     "女博士生"
+    ]
+   ],
+   "tip": "弱变化；阴性 die Doktorandin"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Dissertation",
+  "art": "die",
+  "pl_full": "die Dissertationen",
+  "pos": "n",
+  "zh": "博士论文",
+  "ex": [
+   "Ihre Dissertation befasst sich mit der automatischen Textanalyse."
+  ],
+  "ex_zh": "她的博士论文研究文本的自动分析。",
+  "use": {
+   "col": [
+    [
+     "eine Dissertation schreiben",
+     "写博士论文"
+    ],
+    [
+     "eine Dissertation einreichen",
+     "提交博士论文"
+    ]
+   ],
+   "tip": "口语 Doktorarbeit"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Habilitation",
+  "art": "die",
+  "pl_full": "die Habilitationen",
+  "pos": "n",
+  "zh": "教授资格论文",
+  "ex": [
+   "Für eine Professur in Deutschland war lange eine Habilitation erforderlich."
+  ],
+  "ex_zh": "在德国，担任教授长期需要教授资格。",
+  "use": {
+   "col": [
+    [
+     "die Habilitation anstreben",
+     "打算获得教授资格"
+    ],
+    [
+     "sich habilitieren",
+     "取得教授资格"
+    ]
+   ],
+   "tip": "现在也可通过青年教授等途径"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Gutachten",
+  "art": "das",
+  "pl_full": "die Gutachten",
+  "pos": "n",
+  "zh": "鉴定意见；评审意见",
+  "ex": [
+   "Zwei unabhängige Gutachten bewerten die Qualität der Arbeit."
+  ],
+  "ex_zh": "两份独立的评审意见评估这篇论文的质量。",
+  "use": {
+   "col": [
+    [
+     "ein Gutachten erstellen",
+     "出具评审意见"
+    ],
+    [
+     "ein ärztliches Gutachten",
+     "医学鉴定"
+    ]
+   ],
+   "tip": "评审人是 der Gutachter"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Gutachter",
+  "art": "der",
+  "pl_full": "die Gutachter",
+  "pos": "n",
+  "zh": "评审人；鉴定人",
+  "ex": [
+   "Der Gutachter lobte vor allem die klare Struktur der Arbeit."
+  ],
+  "ex_zh": "评审人尤其称赞了论文清晰的结构。",
+  "use": {
+   "col": [
+    [
+     "einen Gutachter benennen",
+     "指定评审人"
+    ],
+    [
+     "ein externer Gutachter",
+     "外部评审人"
+    ]
+   ],
+   "tip": "阴性 die Gutachterin"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Kolloquium",
+  "art": "das",
+  "pl_full": "die Kolloquien",
+  "pos": "n",
+  "zh": "学术研讨会；答辩讨论",
+  "ex": [
+   "Die Abschlussarbeit wird in einem Kolloquium vorgestellt und diskutiert."
+  ],
+  "ex_zh": "毕业论文在一次讨论会上介绍并讨论。",
+  "use": {
+   "col": [
+    [
+     "ein Kolloquium halten",
+     "举办研讨会"
+    ],
+    [
+     "an einem Kolloquium teilnehmen",
+     "参加研讨会"
+    ]
+   ],
+   "tip": "复数 Kolloquien，重音在 -qui-"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Exposé",
+  "art": "das",
+  "pl_full": "die Exposés",
+  "pos": "n",
+  "zh": "研究计划书；提纲",
+  "ex": [
+   "Vor Beginn der Arbeit muss ein kurzes Exposé beim Betreuer eingereicht werden."
+  ],
+  "ex_zh": "动笔之前要向导师提交一份简短的研究计划。",
+  "use": {
+   "col": [
+    [
+     "ein Exposé verfassen",
+     "写研究计划"
+    ],
+    [
+     "das Exposé abstimmen",
+     "对研究计划达成一致"
+    ]
+   ],
+   "tip": "也写 Exposee；发音 [-ze:]"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Prüfungsordnung",
+  "art": "die",
+  "pl_full": "die Prüfungsordnungen",
+  "pos": "n",
+  "zh": "考试规章",
+  "ex": [
+   "Die Prüfungsordnung regelt, wie oft eine Klausur wiederholt werden darf."
+  ],
+  "ex_zh": "考试规章规定了笔试可以重考几次。",
+  "use": {
+   "col": [
+    [
+     "laut Prüfungsordnung",
+     "根据考试规章"
+    ],
+    [
+     "die Prüfungsordnung beachten",
+     "遵守考试规章"
+    ]
+   ],
+   "tip": "和 Studienordnung 一起构成专业的规则"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Prüfungsamt",
+  "art": "das",
+  "pl_full": "die Prüfungsämter",
+  "pos": "n",
+  "zh": "考试办公室",
+  "ex": [
+   "Die Noten werden vom Prüfungsamt verwaltet und bescheinigt."
+  ],
+  "ex_zh": "成绩由考试办公室管理并出具证明。",
+  "use": {
+   "col": [
+    [
+     "beim Prüfungsamt anmelden",
+     "在考试办公室报名"
+    ],
+    [
+     "das Prüfungsamt kontaktieren",
+     "联系考试办公室"
+    ]
+   ],
+   "tip": "复数有变音"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Hochschulreife",
+  "art": "die",
+  "pos": "n",
+  "zh": "高校入学资格",
+  "ex": [
+   "Für das Studium ist die allgemeine Hochschulreife oder eine gleichwertige Qualifikation nötig."
+  ],
+  "ex_zh": "读这个专业需要普通高校入学资格或同等资历。",
+  "use": {
+   "col": [
+    [
+     "die allgemeine Hochschulreife",
+     "普通高校入学资格"
+    ],
+    [
+     "fachgebundene Hochschulreife",
+     "限定专业的入学资格"
+    ]
+   ],
+   "tip": "通常指 Abitur；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Bildungsweg",
+  "art": "der",
+  "pl_full": "die Bildungswege",
+  "pos": "n",
+  "zh": "受教育的途径",
+  "ex": [
+   "Sein Bildungsweg führte ihn von der Realschule über die Ausbildung zur Hochschule."
+  ],
+  "ex_zh": "他的求学之路从实科中学到职业培训，再到高校。",
+  "use": {
+   "col": [
+    [
+     "den zweiten Bildungsweg gehen",
+     "走第二条教育路径（成人补学）"
+    ],
+    [
+     "ein unkonventioneller Bildungsweg",
+     "非常规求学路径"
+    ]
+   ],
+   "tip": "zweiter Bildungsweg 指成人后补拿学历"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Bildungsgerechtigkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "教育公平",
+  "ex": [
+   "Die Bildungsgerechtigkeit hängt in Deutschland stark von der sozialen Herkunft ab."
+  ],
+  "ex_zh": "德国的教育公平在很大程度上取决于出身。",
+  "use": {
+   "col": [
+    [
+     "mehr Bildungsgerechtigkeit fordern",
+     "要求更大的教育公平"
+    ],
+    [
+     "Bildungsgerechtigkeit herstellen",
+     "实现教育公平"
+    ]
+   ],
+   "tip": "没有复数；近义 Chancengleichheit"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Lehrkraft",
+  "art": "die",
+  "pl_full": "die Lehrkräfte",
+  "pos": "n",
+  "zh": "教师",
+  "ex": [
+   "An vielen Schulen fehlen derzeit qualifizierte Lehrkräfte."
+  ],
+  "ex_zh": "许多学校目前缺少合格的教师。",
+  "use": {
+   "col": [
+    [
+     "eine Lehrkraft einstellen",
+     "聘用教师"
+    ],
+    [
+     "der Mangel an Lehrkräften",
+     "教师短缺"
+    ]
+   ],
+   "tip": "性别中立的说法；复数有变音"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Drittmittel (Pl.)",
+  "art": "die",
+  "pos": "n",
+  "zh": "第三方经费；外部科研经费",
+  "ex": [
+   "Die Stelle wird aus Drittmitteln finanziert und ist auf drei Jahre befristet."
+  ],
+  "ex_zh": "这个职位由外部科研经费资助，期限三年。",
+  "use": {
+   "col": [
+    [
+     "Drittmittel einwerben",
+     "争取外部经费"
+    ],
+    [
+     "aus Drittmitteln finanziert",
+     "由外部经费资助"
+    ]
+   ],
+   "tip": "只有复数，经费来自企业、基金会等"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Fördermittel (Pl.)",
+  "art": "die",
+  "pos": "n",
+  "zh": "资助经费",
+  "ex": [
+   "Für das Projekt wurden Fördermittel in Höhe von 200.000 Euro bewilligt."
+  ],
+  "ex_zh": "该项目获批了 20 万欧元的资助经费。",
+  "use": {
+   "col": [
+    [
+     "Fördermittel beantragen",
+     "申请资助"
+    ],
+    [
+     "Fördermittel bewilligen",
+     "批准资助"
+    ]
+   ],
+   "tip": "只有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Forschungseinrichtung",
+  "art": "die",
+  "pl_full": "die Forschungseinrichtungen",
+  "pos": "n",
+  "zh": "研究机构",
+  "ex": [
+   "Universitäten und außeruniversitäre Forschungseinrichtungen arbeiten eng zusammen."
+  ],
+  "ex_zh": "大学和校外研究机构紧密合作。",
+  "use": {
+   "col": [
+    [
+     "eine außeruniversitäre Forschungseinrichtung",
+     "校外研究机构"
+    ],
+    [
+     "an einer Forschungseinrichtung tätig sein",
+     "在研究机构工作"
+    ]
+   ],
+   "tip": "如 Max-Planck-Gesellschaft、Fraunhofer"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Wissenschaftsfreiheit",
+  "art": "die",
+  "pos": "n",
+  "zh": "学术自由",
+  "ex": [
+   "Die Wissenschaftsfreiheit ist in Deutschland im Grundgesetz fest verankert."
+  ],
+  "ex_zh": "学术自由在德国被牢固地写入基本法。",
+  "use": {
+   "col": [
+    [
+     "die Wissenschaftsfreiheit schützen",
+     "保护学术自由"
+    ],
+    [
+     "Freiheit von Forschung und Lehre",
+     "研究与教学自由"
+    ]
+   ],
+   "tip": "没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Korrelation",
+  "art": "die",
+  "pl_full": "die Korrelationen",
+  "pos": "n",
+  "zh": "相关性",
+  "ex": [
+   "Die Korrelation zwischen Einkommen und Bildung ist in vielen Studien belegt."
+  ],
+  "ex_zh": "收入与教育之间的相关性在许多研究中被证实。",
+  "use": {
+   "col": [
+    [
+     "eine hohe Korrelation",
+     "高相关性"
+    ],
+    [
+     "eine Korrelation nachweisen",
+     "证明相关性"
+    ]
+   ],
+   "tip": "别和 Kausalität（因果）混淆：Korrelation 不等于因果"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Kausalität",
+  "art": "die",
+  "pos": "n",
+  "zh": "因果关系",
+  "ex": [
+   "Aus einer Korrelation allein kann man keine Kausalität ableiten."
+  ],
+  "ex_zh": "仅凭相关性不能推出因果关系。",
+  "use": {
+   "col": [
+    [
+     "einen kausalen Zusammenhang",
+     "因果关联"
+    ],
+    [
+     "die Kausalität nachweisen",
+     "证明因果关系"
+    ]
+   ],
+   "tip": "形容词 kausal；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Signifikanz",
+  "art": "die",
+  "pos": "n",
+  "zh": "显著性",
+  "ex": [
+   "Die Signifikanz der Ergebnisse wurde mit einem Test überprüft."
+  ],
+  "ex_zh": "结果的显著性通过一项检验进行了验证。",
+  "use": {
+   "col": [
+    [
+     "statistische Signifikanz",
+     "统计显著性"
+    ],
+    [
+     "das Signifikanzniveau",
+     "显著性水平"
+    ]
+   ],
+   "tip": "形容词 signifikant；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Standardabweichung",
+  "art": "die",
+  "pl_full": "die Standardabweichungen",
+  "pos": "n",
+  "zh": "标准差",
+  "ex": [
+   "Die Standardabweichung gibt an, wie stark die Werte um den Mittelwert streuen."
+  ],
+  "ex_zh": "标准差表示数值围绕平均值的离散程度。",
+  "use": {
+   "col": [
+    [
+     "die Standardabweichung berechnen",
+     "计算标准差"
+    ],
+    [
+     "eine große Standardabweichung",
+     "较大的标准差"
+    ]
+   ],
+   "tip": ""
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Median",
+  "art": "der",
+  "pl_full": "die Mediane",
+  "pos": "n",
+  "zh": "中位数",
+  "ex": [
+   "Der Median ist bei schiefen Verteilungen aussagekräftiger als der Mittelwert."
+  ],
+  "ex_zh": "对于偏态分布，中位数比平均值更有说服力。",
+  "use": {
+   "col": [
+    [
+     "der Median der Einkommen",
+     "收入的中位数"
+    ],
+    [
+     "Median und Mittelwert",
+     "中位数与平均值"
+    ]
+   ],
+   "tip": "也可说 der Zentralwert"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Varianz",
+  "art": "die",
+  "pl_full": "die Varianzen",
+  "pos": "n",
+  "zh": "方差",
+  "ex": [
+   "Die Varianz der Messwerte ist in der zweiten Gruppe deutlich größer."
+  ],
+  "ex_zh": "第二组测量值的方差明显更大。",
+  "use": {
+   "col": [
+    [
+     "die Varianz berechnen",
+     "计算方差"
+    ],
+    [
+     "eine geringe Varianz",
+     "方差较小"
+    ]
+   ],
+   "tip": "在学术语境里与 Streuung 相近"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Ausreißer",
+  "art": "der",
+  "pl_full": "die Ausreißer",
+  "pos": "n",
+  "zh": "离群值；异常点",
+  "ex": [
+   "Einzelne Ausreißer können den Durchschnitt einer kleinen Stichprobe erheblich verfälschen."
+  ],
+  "ex_zh": "个别离群值会严重扭曲小样本的平均值。",
+  "use": {
+   "col": [
+    [
+     "Ausreißer entfernen",
+     "剔除离群值"
+    ],
+    [
+     "ein statistischer Ausreißer",
+     "统计上的离群值"
+    ]
+   ],
+   "tip": "口语也指“逃跑者”"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Verzerrung",
+  "art": "die",
+  "pl_full": "die Verzerrungen",
+  "pos": "n",
+  "zh": "偏差；扭曲",
+  "ex": [
+   "Eine Verzerrung der Ergebnisse entsteht, wenn nur freiwillige Teilnehmer befragt werden."
+  ],
+  "ex_zh": "如果只询问志愿者，结果就会出现偏差。",
+  "use": {
+   "col": [
+    [
+     "eine systematische Verzerrung",
+     "系统偏差"
+    ],
+    [
+     "Verzerrungen vermeiden",
+     "避免偏差"
+    ]
+   ],
+   "tip": "动词 verzerren"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Grundgesamtheit",
+  "art": "die",
+  "pl_full": "die Grundgesamtheiten",
+  "pos": "n",
+  "zh": "总体",
+  "ex": [
+   "Die Stichprobe soll die Grundgesamtheit möglichst gut abbilden."
+  ],
+  "ex_zh": "样本应尽可能好地反映总体。",
+  "use": {
+   "col": [
+    [
+     "die Grundgesamtheit definieren",
+     "界定总体"
+    ],
+    [
+     "aus der Grundgesamtheit ziehen",
+     "从总体中抽取"
+    ]
+   ],
+   "tip": "统计学术语"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Kontrollgruppe",
+  "art": "die",
+  "pl_full": "die Kontrollgruppen",
+  "pos": "n",
+  "zh": "对照组",
+  "ex": [
+   "Die Kontrollgruppe erhielt statt des Medikaments ein Placebo."
+  ],
+  "ex_zh": "对照组服用的是安慰剂而非药物。",
+  "use": {
+   "col": [
+    [
+     "eine Kontrollgruppe bilden",
+     "设立对照组"
+    ],
+    [
+     "im Vergleich zur Kontrollgruppe",
+     "与对照组相比"
+    ]
+   ],
+   "tip": "Versuchsgruppe 是实验组"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Proband",
+  "art": "der",
+  "pl_full": "die Probanden",
+  "pos": "n",
+  "zh": "受试者",
+  "ex": [
+   "Alle Probanden wurden vorab über den Ablauf der Studie informiert."
+  ],
+  "ex_zh": "所有受试者在研究开始前都被告知了流程。",
+  "use": {
+   "col": [
+    [
+     "Probanden rekrutieren",
+     "招募受试者"
+    ],
+    [
+     "freiwillige Probanden",
+     "志愿受试者"
+    ]
+   ],
+   "tip": "弱变化；阴性 die Probandin"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Methodik",
+  "art": "die",
+  "pl_full": "die Methodiken",
+  "pos": "n",
+  "zh": "方法学；研究方法",
+  "ex": [
+   "Die Methodik der Studie wird im dritten Kapitel ausführlich beschrieben."
+  ],
+  "ex_zh": "该研究的方法在第三章详细描述。",
+  "use": {
+   "col": [
+    [
+     "die verwendete Methodik",
+     "所用的方法"
+    ],
+    [
+     "eine saubere Methodik",
+     "严谨的方法"
+    ]
+   ],
+   "tip": "别和 Methode 混：Methodik 指整套方法"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Validität",
+  "art": "die",
+  "pos": "n",
+  "zh": "效度；有效性",
+  "ex": [
+   "Die Validität der Befragung wurde von mehreren Experten angezweifelt."
+  ],
+  "ex_zh": "这项调查的效度被几位专家质疑。",
+  "use": {
+   "col": [
+    [
+     "die Validität prüfen",
+     "检验效度"
+    ],
+    [
+     "hohe Validität",
+     "高效度"
+    ]
+   ],
+   "tip": "Reliabilität（信度）是配套概念"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Reproduzierbarkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "可重复性；可复现性",
+  "ex": [
+   "Die Reproduzierbarkeit von Studienergebnissen ist ein zentrales Problem der Wissenschaft."
+  ],
+  "ex_zh": "研究结果的可重复性是科学界的一个核心问题。",
+  "use": {
+   "col": [
+    [
+     "die Reproduzierbarkeit sicherstellen",
+     "保证可重复性"
+    ],
+    [
+     "mangelnde Reproduzierbarkeit",
+     "可重复性不足"
+    ]
+   ],
+   "tip": "动词 reproduzieren"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Plagiat",
+  "art": "das",
+  "pl_full": "die Plagiate",
+  "pos": "n",
+  "zh": "抄袭",
+  "ex": [
+   "Wegen eines Plagiats wurde ihr der Doktortitel aberkannt."
+  ],
+  "ex_zh": "由于抄袭，她的博士头衔被撤销了。",
+  "use": {
+   "col": [
+    [
+     "ein Plagiat aufdecken",
+     "揭露抄袭"
+    ],
+    [
+     "des Plagiats überführt werden",
+     "被查出抄袭"
+    ]
+   ],
+   "tip": "Plagiatsprüfung 是查重"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Primärquelle",
+  "art": "die",
+  "pl_full": "die Primärquellen",
+  "pos": "n",
+  "zh": "一手资料",
+  "ex": [
+   "Für die Analyse stützt sie sich vor allem auf Primärquellen aus dem Archiv."
+  ],
+  "ex_zh": "分析时她主要依据档案馆的一手资料。",
+  "use": {
+   "col": [
+    [
+     "Primärquellen auswerten",
+     "分析一手资料"
+    ],
+    [
+     "Primär- und Sekundärquellen",
+     "一手与二手资料"
+    ]
+   ],
+   "tip": "反义 Sekundärquelle"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Standardwerk",
+  "art": "das",
+  "pl_full": "die Standardwerke",
+  "pos": "n",
+  "zh": "权威著作；经典教材",
+  "ex": [
+   "Dieses Buch gilt als Standardwerk der Wirtschaftsinformatik."
+  ],
+  "ex_zh": "这本书被视为经济信息学的权威著作。",
+  "use": {
+   "col": [
+    [
+     "ein Standardwerk der Statistik",
+     "统计学的经典著作"
+    ],
+    [
+     "als Standardwerk gelten",
+     "被视为权威著作"
+    ]
+   ],
+   "tip": "复数 -e"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Forschungsstand",
+  "art": "der",
+  "pos": "n",
+  "zh": "研究现状",
+  "ex": [
+   "Das zweite Kapitel fasst den aktuellen Forschungsstand zusammen."
+  ],
+  "ex_zh": "第二章概括了当前的研究现状。",
+  "use": {
+   "col": [
+    [
+     "den Forschungsstand darstellen",
+     "介绍研究现状"
+    ],
+    [
+     "nach dem aktuellen Forschungsstand",
+     "按当前研究现状"
+    ]
+   ],
+   "tip": "学位论文必备章节；没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Paradigma",
+  "art": "das",
+  "pl_full": "die Paradigmen",
+  "pos": "n",
+  "zh": "范式",
+  "ex": [
+   "Die Entdeckung führte zu einem Wechsel des wissenschaftlichen Paradigmas."
+  ],
+  "ex_zh": "这一发现导致了科学范式的转变。",
+  "use": {
+   "col": [
+    [
+     "ein Paradigmenwechsel",
+     "范式转变"
+    ],
+    [
+     "ein neues Paradigma",
+     "新范式"
+    ]
+   ],
+   "tip": "复数 Paradigmen，也可 Paradigmata"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Phänomen",
+  "art": "das",
+  "pl_full": "die Phänomene",
+  "pos": "n",
+  "zh": "现象",
+  "ex": [
+   "Das Phänomen ist bisher nur unzureichend erforscht."
+  ],
+  "ex_zh": "这一现象至今研究得还很不够。",
+  "use": {
+   "col": [
+    [
+     "ein weit verbreitetes Phänomen",
+     "普遍现象"
+    ],
+    [
+     "ein Phänomen erklären",
+     "解释一个现象"
+    ]
+   ],
+   "tip": "注意拼写 ä"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Fallstudie",
+  "art": "die",
+  "pl_full": "die Fallstudien",
+  "pos": "n",
+  "zh": "案例研究",
+  "ex": [
+   "Die Autoren illustrieren ihre Thesen anhand einer Fallstudie aus der Industrie."
+  ],
+  "ex_zh": "作者借助一个来自工业界的案例研究来说明论点。",
+  "use": {
+   "col": [
+    [
+     "eine Fallstudie durchführen",
+     "做案例研究"
+    ],
+    [
+     "anhand einer Fallstudie",
+     "借助案例研究"
+    ]
+   ],
+   "tip": ""
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Längsschnittstudie",
+  "art": "die",
+  "pl_full": "die Längsschnittstudien",
+  "pos": "n",
+  "zh": "纵向研究；追踪研究",
+  "ex": [
+   "Die Längsschnittstudie begleitet dieselben Kinder über fünfzehn Jahre."
+  ],
+  "ex_zh": "这项追踪研究陪伴同一批孩子十五年。",
+  "use": {
+   "col": [
+    [
+     "eine Längsschnittstudie durchführen",
+     "做追踪研究"
+    ],
+    [
+     "im Gegensatz zur Querschnittstudie",
+     "与横断研究相对"
+    ]
+   ],
+   "tip": "反义 Querschnittstudie"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Metaanalyse",
+  "art": "die",
+  "pl_full": "die Metaanalysen",
+  "pos": "n",
+  "zh": "元分析",
+  "ex": [
+   "Eine Metaanalyse fasst die Ergebnisse vieler Einzelstudien zusammen."
+  ],
+  "ex_zh": "元分析综合了许多单项研究的结果。",
+  "use": {
+   "col": [
+    [
+     "eine Metaanalyse durchführen",
+     "做元分析"
+    ],
+    [
+     "laut einer Metaanalyse",
+     "根据一项元分析"
+    ]
+   ],
+   "tip": ""
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Rahmenbedingung",
+  "art": "die",
+  "pl_full": "die Rahmenbedingungen",
+  "pos": "n",
+  "zh": "框架条件；环境条件",
+  "ex": [
+   "Die politischen Rahmenbedingungen für die Forschung haben sich verbessert."
+  ],
+  "ex_zh": "研究的政策环境有所改善。",
+  "use": {
+   "col": [
+    [
+     "günstige Rahmenbedingungen",
+     "有利的框架条件"
+    ],
+    [
+     "Rahmenbedingungen schaffen",
+     "创造条件"
+    ]
+   ],
+   "tip": "多用复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Kernaussage",
+  "art": "die",
+  "pl_full": "die Kernaussagen",
+  "pos": "n",
+  "zh": "核心观点",
+  "ex": [
+   "Die Kernaussage des Artikels lässt sich in einem Satz zusammenfassen."
+  ],
+  "ex_zh": "这篇文章的核心观点可以用一句话概括。",
+  "use": {
+   "col": [
+    [
+     "die zentrale Kernaussage",
+     "核心观点"
+    ],
+    [
+     "die Kernaussage herausarbeiten",
+     "提炼核心观点"
+    ]
+   ],
+   "tip": ""
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Definition",
+  "art": "die",
+  "pl_full": "die Definitionen",
+  "pos": "n",
+  "zh": "定义",
+  "ex": [
+   "Der Begriff wird in der Literatur nicht einheitlich definiert."
+  ],
+  "ex_zh": "这个概念在文献中没有统一定义。",
+  "use": {
+   "col": [
+    [
+     "eine Definition geben",
+     "给出定义"
+    ],
+    [
+     "nach der gängigen Definition",
+     "按通行的定义"
+    ]
+   ],
+   "tip": "动词 definieren；重音在 -tion"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Kriterium",
+  "art": "das",
+  "pl_full": "die Kriterien",
+  "pos": "n",
+  "zh": "标准；准则",
+  "ex": [
+   "Die Auswahl der Studien erfolgte nach klar festgelegten Kriterien."
+  ],
+  "ex_zh": "研究的筛选依据明确确定的标准进行。",
+  "use": {
+   "col": [
+    [
+     "ein Kriterium erfüllen",
+     "符合标准"
+    ],
+    [
+     "nach Kriterien auswählen",
+     "按标准筛选"
+    ]
+   ],
+   "tip": "复数 Kriterien"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Indikator",
+  "art": "der",
+  "pl_full": "die Indikatoren",
+  "pos": "n",
+  "zh": "指标",
+  "ex": [
+   "Die Arbeitslosenquote gilt als wichtiger Indikator für die Lage der Wirtschaft."
+  ],
+  "ex_zh": "失业率被视为反映经济状况的重要指标。",
+  "use": {
+   "col": [
+    [
+     "ein zuverlässiger Indikator",
+     "可靠的指标"
+    ],
+    [
+     "Indikatoren erheben",
+     "采集指标"
+    ]
+   ],
+   "tip": "复数 -en，重音在 -ka-"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Parameter",
+  "art": "der",
+  "pl_full": "die Parameter",
+  "pos": "n",
+  "zh": "参数",
+  "ex": [
+   "Die Ergebnisse hängen stark von der Wahl der Parameter ab."
+  ],
+  "ex_zh": "结果在很大程度上取决于参数的选择。",
+  "use": {
+   "col": [
+    [
+     "einen Parameter einstellen",
+     "设置参数"
+    ],
+    [
+     "die Parameter anpassen",
+     "调整参数"
+    ]
+   ],
+   "tip": "复数不变"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Variable",
+  "art": "die",
+  "pl_full": "die Variablen",
+  "pos": "n",
+  "zh": "变量",
+  "ex": [
+   "In der Analyse wurden mehrere unabhängige Variablen berücksichtigt."
+  ],
+  "ex_zh": "分析中考虑了几个自变量。",
+  "use": {
+   "col": [
+    [
+     "eine abhängige Variable",
+     "因变量"
+    ],
+    [
+     "eine unabhängige Variable",
+     "自变量"
+    ]
+   ],
+   "tip": "形容词变化：die unabhängige Variable"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Vorgehensweise",
+  "art": "die",
+  "pl_full": "die Vorgehensweisen",
+  "pos": "n",
+  "zh": "做法；步骤",
+  "ex": [
+   "Die Vorgehensweise bei der Datenerhebung wird im Anhang beschrieben."
+  ],
+  "ex_zh": "数据采集的做法在附录中描述。",
+  "use": {
+   "col": [
+    [
+     "eine systematische Vorgehensweise",
+     "系统的做法"
+    ],
+    [
+     "die Vorgehensweise erläutern",
+     "说明做法"
+    ]
+   ],
+   "tip": "近义 Herangehensweise"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Rückschluss",
+  "art": "der",
+  "pl_full": "die Rückschlüsse",
+  "pos": "n",
+  "zh": "推断；由此得出的结论",
+  "ex": [
+   "Aus dem Befund lassen sich keine voreiligen Rückschlüsse auf die Ursache ziehen."
+  ],
+  "ex_zh": "不能仅凭这个发现就仓促推断原因。",
+  "use": {
+   "col": [
+    [
+     "Rückschlüsse ziehen",
+     "推断"
+    ],
+    [
+     "Rückschlüsse zulassen",
+     "允许得出推论"
+    ]
+   ],
+   "tip": "复数有变音；常接 auf + Akk."
+  },
+  "gov": "der Rückschluss auf + Akk."
+ },
+ {
+  "lv": "C1",
+  "lemma": "Trugschluss",
+  "art": "der",
+  "pl_full": "die Trugschlüsse",
+  "pos": "n",
+  "zh": "谬误；错误推论",
+  "ex": [
+   "Der Gedanke, mehr Daten lieferten automatisch bessere Ergebnisse, ist ein Trugschluss."
+  ],
+  "ex_zh": "认为数据越多结果就越好，是一种谬误。",
+  "use": {
+   "col": [
+    [
+     "einem Trugschluss erliegen",
+     "陷入谬误"
+    ],
+    [
+     "ein logischer Trugschluss",
+     "逻辑谬误"
+    ]
+   ],
+   "tip": "同义 Fehlschluss"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Implikation",
+  "art": "die",
+  "pl_full": "die Implikationen",
+  "pos": "n",
+  "zh": "含意；影响",
+  "ex": [
+   "Die Studie hat wichtige Implikationen für die Bildungspolitik."
+  ],
+  "ex_zh": "这项研究对教育政策有重要的含义。",
+  "use": {
+   "col": [
+    [
+     "praktische Implikationen",
+     "实践意义"
+    ],
+    [
+     "Implikationen für",
+     "对……的含义"
+    ]
+   ],
+   "tip": "书面、学术"
+  },
+  "gov": "Implikationen für + Akk."
+ },
+ {
+  "lv": "C1",
+  "lemma": "Tragweite",
+  "art": "die",
+  "pos": "n",
+  "zh": "影响范围；重要性",
+  "ex": [
+   "Die Tragweite dieser Entdeckung lässt sich noch nicht abschätzen."
+  ],
+  "ex_zh": "这一发现的影响范围尚无法估量。",
+  "use": {
+   "col": [
+    [
+     "von großer Tragweite",
+     "影响深远"
+    ],
+    [
+     "die Tragweite erkennen",
+     "认识到其重要性"
+    ]
+   ],
+   "tip": "没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Aussagekraft",
+  "art": "die",
+  "pos": "n",
+  "zh": "说服力；可信度",
+  "ex": [
+   "Wegen der kleinen Stichprobe ist die Aussagekraft der Studie begrenzt."
+  ],
+  "ex_zh": "由于样本小，这项研究的说服力有限。",
+  "use": {
+   "col": [
+    [
+     "hohe Aussagekraft",
+     "很强的说服力"
+    ],
+    [
+     "die Aussagekraft einschränken",
+     "削弱说服力"
+    ]
+   ],
+   "tip": "形容词 aussagekräftig"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Evidenz",
+  "art": "die",
+  "pl_full": "die Evidenzen",
+  "pos": "n",
+  "zh": "证据；确凿性",
+  "ex": [
+   "Für die Wirksamkeit der Therapie gibt es bisher kaum wissenschaftliche Evidenz."
+  ],
+  "ex_zh": "这种疗法的有效性目前几乎没有科学证据。",
+  "use": {
+   "col": [
+    [
+     "wissenschaftliche Evidenz",
+     "科学证据"
+    ],
+    [
+     "evidenzbasiert",
+     "基于证据的"
+    ]
+   ],
+   "tip": "在医学中 evidenzbasiert 常见；日常 Beweis 更常用"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Indiz",
+  "art": "das",
+  "pl_full": "die Indizien",
+  "pos": "n",
+  "zh": "迹象；间接证据",
+  "ex": [
+   "Die Daten sind ein Indiz dafür, dass sich das Verhalten verändert hat."
+  ],
+  "ex_zh": "这些数据是行为发生了变化的一个迹象。",
+  "use": {
+   "col": [
+    [
+     "ein Indiz für etwas",
+     "某事的迹象"
+    ],
+    [
+     "Indizien sammeln",
+     "收集间接证据"
+    ]
+   ],
+   "tip": "法律中指“情况证据”"
+  },
+  "gov": "ein Indiz für + Akk."
+ },
+ {
+  "lv": "C1",
+  "lemma": "Anhaltspunkt",
+  "art": "der",
+  "pl_full": "die Anhaltspunkte",
+  "pos": "n",
+  "zh": "线索；依据",
+  "ex": [
+   "Die Studie liefert erste Anhaltspunkte für die Ursachen des Problems."
+  ],
+  "ex_zh": "这项研究为问题的成因提供了最初的线索。",
+  "use": {
+   "col": [
+    [
+     "Anhaltspunkte liefern",
+     "提供线索"
+    ],
+    [
+     "keinen Anhaltspunkt haben",
+     "没有线索"
+    ]
+   ],
+   "tip": "复数 -e"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Befund",
+  "art": "der",
+  "pl_full": "die Befunde",
+  "pos": "n",
+  "zh": "研究发现；检查结果",
+  "ex": [
+   "Der Befund der Untersuchung wurde in der Fachpresse breit diskutiert."
+  ],
+  "ex_zh": "这项检查的结果在专业媒体上被广泛讨论。",
+  "use": {
+   "col": [
+    [
+     "ein eindeutiger Befund",
+     "明确的发现"
+    ],
+    [
+     "ohne Befund",
+     "（医学）未见异常"
+    ]
+   ],
+   "tip": "复数 -e；医学中指检查结果"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Wissensstand",
+  "art": "der",
+  "pos": "n",
+  "zh": "知识水平；认知水平",
+  "ex": [
+   "Nach dem derzeitigen Wissensstand ist die Wirkung nicht ausreichend belegt."
+  ],
+  "ex_zh": "按目前的认知水平，这种作用还没有足够的证据。",
+  "use": {
+   "col": [
+    [
+     "nach dem heutigen Wissensstand",
+     "据目前的认识"
+    ],
+    [
+     "den Wissensstand erweitern",
+     "扩展知识"
+    ]
+   ],
+   "tip": "没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Wissenstransfer",
+  "art": "der",
+  "pos": "n",
+  "zh": "知识转移",
+  "ex": [
+   "Der Wissenstransfer zwischen Hochschulen und Unternehmen soll gestärkt werden."
+  ],
+  "ex_zh": "高校与企业之间的知识转移应当得到加强。",
+  "use": {
+   "col": [
+    [
+     "der Wissenstransfer in die Praxis",
+     "向实践的知识转移"
+    ],
+    [
+     "Wissenstransfer fördern",
+     "促进知识转移"
+    ]
+   ],
+   "tip": "没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Sammelband",
+  "art": "der",
+  "pl_full": "die Sammelbände",
+  "pos": "n",
+  "zh": "论文集",
+  "ex": [
+   "Ihr Aufsatz ist in einem Sammelband zur Digitalisierung erschienen."
+  ],
+  "ex_zh": "她的文章刊登在一本关于数字化的论文集里。",
+  "use": {
+   "col": [
+    [
+     "in einem Sammelband erscheinen",
+     "收入论文集"
+    ],
+    [
+     "einen Sammelband herausgeben",
+     "出版论文集"
+    ]
+   ],
+   "tip": "复数有变音"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Lehrbuch",
+  "art": "das",
+  "pl_full": "die Lehrbücher",
+  "pos": "n",
+  "zh": "教科书",
+  "ex": [
+   "Das Lehrbuch erklärt die Grundlagen der Statistik leicht verständlich."
+  ],
+  "ex_zh": "这本教科书通俗易懂地讲解了统计学的基础。",
+  "use": {
+   "col": [
+    [
+     "ein Lehrbuch verfassen",
+     "编写教科书"
+    ],
+    [
+     "laut Lehrbuch",
+     "按教科书"
+    ]
+   ],
+   "tip": "复数有变音"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Nachschlagewerk",
+  "art": "das",
+  "pl_full": "die Nachschlagewerke",
+  "pos": "n",
+  "zh": "工具书",
+  "ex": [
+   "Das Wörterbuch ist ein unverzichtbares Nachschlagewerk für das Studium."
+  ],
+  "ex_zh": "词典是学习中不可或缺的工具书。",
+  "use": {
+   "col": [
+    [
+     "ein Nachschlagewerk benutzen",
+     "查阅工具书"
+    ],
+    [
+     "ein digitales Nachschlagewerk",
+     "电子工具书"
+    ]
+   ],
+   "tip": "来自 nachschlagen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Erkenntnisgewinn",
+  "art": "der",
+  "pos": "n",
+  "zh": "认识上的收获",
+  "ex": [
+   "Der Erkenntnisgewinn aus dem Experiment war größer als erwartet."
+  ],
+  "ex_zh": "这个实验带来的认识比预期的更多。",
+  "use": {
+   "col": [
+    [
+     "einen Erkenntnisgewinn bringen",
+     "带来认识上的收获"
+    ],
+    [
+     "wissenschaftlicher Erkenntnisgewinn",
+     "科学认识的增进"
+    ]
+   ],
+   "tip": "没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Kategorie",
+  "art": "die",
+  "pl_full": "die Kategorien",
+  "pos": "n",
+  "zh": "类别",
+  "ex": [
+   "Die Antworten wurden in fünf Kategorien eingeteilt."
+  ],
+  "ex_zh": "回答被分成了五个类别。",
+  "use": {
+   "col": [
+    [
+     "in Kategorien einteilen",
+     "分类"
+    ],
+    [
+     "eine eigene Kategorie",
+     "独立的类别"
+    ]
+   ],
+   "tip": "复数 Kategorien"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Herangehensweise",
+  "art": "die",
+  "pl_full": "die Herangehensweisen",
+  "pos": "n",
+  "zh": "处理方式；切入方法",
+  "ex": [
+   "Die Herangehensweise des Teams unterscheidet sich von klassischen Ansätzen."
+  ],
+  "ex_zh": "这个团队的切入方式不同于传统思路。",
+  "use": {
+   "col": [
+    [
+     "eine neue Herangehensweise",
+     "新的切入方式"
+    ],
+    [
+     "die Herangehensweise überdenken",
+     "重新考虑做法"
+    ]
+   ],
+   "tip": ""
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Studiendesign",
+  "art": "das",
+  "pl_full": "die Studiendesigns",
+  "pos": "n",
+  "zh": "研究设计",
+  "ex": [
+   "Das Studiendesign sieht eine zufällige Zuteilung der Probanden vor."
+  ],
+  "ex_zh": "研究设计规定对受试者进行随机分配。",
+  "use": {
+   "col": [
+    [
+     "das Studiendesign planen",
+     "规划研究设计"
+    ],
+    [
+     "ein randomisiertes Studiendesign",
+     "随机化研究设计"
+    ]
+   ],
+   "tip": ""
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Interpretation",
+  "art": "die",
+  "pl_full": "die Interpretationen",
+  "pos": "n",
+  "zh": "解释；解读",
+  "ex": [
+   "Die Interpretation der Ergebnisse bleibt unter Fachleuten umstritten."
+  ],
+  "ex_zh": "对结果的解读在专家间仍有争议。",
+  "use": {
+   "col": [
+    [
+     "eine Interpretation liefern",
+     "给出解读"
+    ],
+    [
+     "zu einer anderen Interpretation kommen",
+     "得出不同解读"
+    ]
+   ],
+   "tip": "动词 interpretieren"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich immatrikulieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "immatrikuliert",
+  "forms": "immatrikuliert sich, immatrikulierte sich, hat sich immatrikuliert",
+  "zh": "办理入学注册",
+  "ex": [
+   "Wer sich nicht rechtzeitig immatrikuliert, verliert seinen Studienplatz."
+  ],
+  "ex_zh": "没有及时注册入学的人会失去学位名额。",
+  "use": {
+   "col": [
+    [
+     "sich an einer Universität immatrikulieren",
+     "在某大学注册"
+    ],
+    [
+     "immatrikuliert sein",
+     "已注册在读"
+    ]
+   ],
+   "tip": "名词 die Immatrikulation；日常说 sich einschreiben"
+  },
+  "gov": "sich immatrikulieren an/in + Dat."
+ },
+ {
+  "lv": "C1",
+  "lemma": "exmatrikulieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "exmatrikuliert",
+  "forms": "exmatrikuliert, exmatrikulierte, hat exmatrikuliert",
+  "zh": "注销学籍；除名",
+  "ex": [
+   "Wer die Rückmeldefrist verpasst, wird automatisch exmatrikuliert."
+  ],
+  "ex_zh": "错过回报注册期限的人会被自动注销学籍。",
+  "use": {
+   "col": [
+    [
+     "sich exmatrikulieren",
+     "自己申请退学"
+    ],
+    [
+     "exmatrikuliert werden",
+     "被除名"
+    ]
+   ],
+   "tip": "反义 immatrikulieren"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich habilitieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "habilitiert",
+  "forms": "habilitiert sich, habilitierte sich, hat sich habilitiert",
+  "zh": "取得教授资格",
+  "ex": [
+   "Sie hat sich an der Universität München habilitiert."
+  ],
+  "ex_zh": "她在慕尼黑大学取得了教授资格。",
+  "use": {
+   "col": [
+    [
+     "sich an einer Universität habilitieren",
+     "在某大学获教授资格"
+    ],
+    [
+     "nach der Promotion sich habilitieren",
+     "博士后取得教授资格"
+    ]
+   ],
+   "tip": "名词 die Habilitation"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "begutachten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "begutachtet",
+  "forms": "begutachtet, begutachtete, hat begutachtet",
+  "zh": "评审；鉴定",
+  "ex": [
+   "Die Arbeit wird von zwei unabhängigen Fachleuten begutachtet."
+  ],
+  "ex_zh": "这篇论文将由两位独立的专家评审。",
+  "use": {
+   "col": [
+    [
+     "einen Antrag begutachten",
+     "评审申请"
+    ],
+    [
+     "ein Projekt begutachten",
+     "评审项目"
+    ]
+   ],
+   "tip": "名词 das Gutachten"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "verifizieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "verifiziert",
+  "forms": "verifiziert, verifizierte, hat verifiziert",
+  "zh": "验证；证实",
+  "ex": [
+   "Die Ergebnisse müssen durch unabhängige Messungen verifiziert werden."
+  ],
+  "ex_zh": "结果必须通过独立的测量加以验证。",
+  "use": {
+   "col": [
+    [
+     "eine Hypothese verifizieren",
+     "证实假设"
+    ],
+    [
+     "verifizierbar",
+     "可验证的"
+    ]
+   ],
+   "tip": "反义 falsifizieren（证伪）；名词 die Verifikation"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "falsifizieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "falsifiziert",
+  "forms": "falsifiziert, falsifizierte, hat falsifiziert",
+  "zh": "证伪",
+  "ex": [
+   "Eine wissenschaftliche Hypothese muss grundsätzlich falsifiziert werden können."
+  ],
+  "ex_zh": "科学假设原则上必须是可以证伪的。",
+  "use": {
+   "col": [
+    [
+     "eine Theorie falsifizieren",
+     "证伪一种理论"
+    ],
+    [
+     "falsifizierbar sein",
+     "可证伪"
+    ]
+   ],
+   "tip": "反义 verifizieren；来自波普尔的科学哲学"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "untermauern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "untermauert",
+  "forms": "untermauert, untermauerte, hat untermauert",
+  "zh": "支持；巩固（论点）",
+  "ex": [
+   "Die neuen Daten untermauern die Annahme der Forscher."
+  ],
+  "ex_zh": "新数据支持了研究者的假定。",
+  "use": {
+   "col": [
+    [
+     "eine These untermauern",
+     "支撑论点"
+    ],
+    [
+     "durch Zahlen untermauern",
+     "以数字佐证"
+    ]
+   ],
+   "tip": "不可分动词；同义 stützen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "stützen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gestützt",
+  "forms": "stützt, stützte, hat gestützt",
+  "zh": "支撑；支持（论点）",
+  "ex": [
+   "Die Ergebnisse stützen die Hypothese nur teilweise."
+  ],
+  "ex_zh": "结果只在一定程度上支持这个假设。",
+  "use": {
+   "col": [
+    [
+     "eine These stützen",
+     "支持一个论点"
+    ],
+    [
+     "sich auf Daten stützen",
+     "以数据为依据"
+    ]
+   ],
+   "tip": "sich stützen auf + Akk. = 依据"
+  },
+  "gov": "sich stützen auf + Akk."
+ },
+ {
+  "lv": "C1",
+  "lemma": "postulieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "postuliert",
+  "forms": "postuliert, postulierte, hat postuliert",
+  "zh": "提出（理论上的）假定",
+  "ex": [
+   "Die Autoren postulieren einen direkten Zusammenhang zwischen beiden Größen."
+  ],
+  "ex_zh": "作者假定这两个量之间存在直接关系。",
+  "use": {
+   "col": [
+    [
+     "eine Theorie postulieren",
+     "提出一种理论主张"
+    ],
+    [
+     "als gegeben postulieren",
+     "假定为前提"
+    ]
+   ],
+   "tip": "学术用语；名词 das Postulat"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "prognostizieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "prognostiziert",
+  "forms": "prognostiziert, prognostizierte, hat prognostiziert",
+  "zh": "预测",
+  "ex": [
+   "Die Experten prognostizieren einen weiteren Anstieg der Studierendenzahlen."
+  ],
+  "ex_zh": "专家预测学生人数会进一步上升。",
+  "use": {
+   "col": [
+    [
+     "einen Anstieg prognostizieren",
+     "预测上升"
+    ],
+    [
+     "Entwicklungen prognostizieren",
+     "预测发展"
+    ]
+   ],
+   "tip": "名词 die Prognose"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "extrapolieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "extrapoliert",
+  "forms": "extrapoliert, extrapolierte, hat extrapoliert",
+  "zh": "外推；推断",
+  "ex": [
+   "Aus den vorhandenen Daten lässt sich die zukünftige Entwicklung nur grob extrapolieren."
+  ],
+  "ex_zh": "从现有数据只能粗略地推断未来发展。",
+  "use": {
+   "col": [
+    [
+     "Werte extrapolieren",
+     "外推数值"
+    ],
+    [
+     "aus Daten extrapolieren",
+     "从数据外推"
+    ]
+   ],
+   "tip": "学术用语"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "quantifizieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "quantifiziert",
+  "forms": "quantifiziert, quantifizierte, hat quantifiziert",
+  "zh": "量化",
+  "ex": [
+   "Der Nutzen der Maßnahme lässt sich nur schwer quantifizieren."
+  ],
+  "ex_zh": "这项措施的好处很难量化。",
+  "use": {
+   "col": [
+    [
+     "Risiken quantifizieren",
+     "量化风险"
+    ],
+    [
+     "schwer zu quantifizieren",
+     "难以量化"
+    ]
+   ],
+   "tip": "形容词 quantitativ"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "korrelieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "korreliert",
+  "forms": "korreliert, korrelierte, hat korreliert",
+  "zh": "相关；有关联",
+  "ex": [
+   "Die Schulnoten korrelieren stark mit dem Bildungsniveau der Eltern."
+  ],
+  "ex_zh": "学校成绩与父母的教育水平高度相关。",
+  "use": {
+   "col": [
+    [
+     "positiv korrelieren",
+     "正相关"
+    ],
+    [
+     "miteinander korrelieren",
+     "相互关联"
+    ]
+   ],
+   "tip": "后接 mit + Dat."
+  },
+  "gov": "korrelieren mit + Dat."
+ },
+ {
+  "lv": "C1",
+  "lemma": "differenzieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "differenziert",
+  "forms": "differenziert, differenzierte, hat differenziert",
+  "zh": "区分；细分",
+  "ex": [
+   "Die Studie differenziert zwischen kurzfristigen und langfristigen Effekten."
+  ],
+  "ex_zh": "这项研究区分了短期和长期效应。",
+  "use": {
+   "col": [
+    [
+     "zwischen etwas differenzieren",
+     "区分"
+    ],
+    [
+     "differenziert betrachten",
+     "区别看待"
+    ]
+   ],
+   "tip": "形容词 differenziert（细致的）；名词 die Differenzierung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "abgrenzen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "abgegrenzt",
+  "forms": "grenzt ab, grenzte ab, hat abgegrenzt",
+  "zh": "划分界限；区别开",
+  "ex": [
+   "Der Begriff muss klar von verwandten Konzepten abgegrenzt werden."
+  ],
+  "ex_zh": "这个概念必须与相关概念明确区分开。",
+  "use": {
+   "col": [
+    [
+     "sich von etwas abgrenzen",
+     "与某事划清界限"
+    ],
+    [
+     "ein Thema abgrenzen",
+     "界定主题范围"
+    ]
+   ],
+   "tip": "可分动词；名词 die Abgrenzung"
+  },
+  "gov": "abgrenzen von + Dat."
+ },
+ {
+  "lv": "C1",
+  "lemma": "eingrenzen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "eingegrenzt",
+  "forms": "grenzt ein, grenzte ein, hat eingegrenzt",
+  "zh": "缩小范围；限定",
+  "ex": [
+   "Zuerst muss das Thema der Arbeit sinnvoll eingegrenzt werden."
+  ],
+  "ex_zh": "首先必须合理地限定论文的主题。",
+  "use": {
+   "col": [
+    [
+     "das Thema eingrenzen",
+     "限定主题"
+    ],
+    [
+     "die Suche eingrenzen",
+     "缩小搜索范围"
+    ]
+   ],
+   "tip": "可分动词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "erörtern",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "erörtert",
+  "forms": "erörtert, erörterte, hat erörtert",
+  "zh": "讨论；论述",
+  "ex": [
+   "In dem Kapitel werden die Vor- und Nachteile beider Modelle erörtert."
+  ],
+  "ex_zh": "这一章论述了两种模型的利弊。",
+  "use": {
+   "col": [
+    [
+     "ein Problem erörtern",
+     "讨论一个问题"
+    ],
+    [
+     "ausführlich erörtern",
+     "详细论述"
+    ]
+   ],
+   "tip": "不可分动词；名词 die Erörterung（议论文）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "thematisieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "thematisiert",
+  "forms": "thematisiert, thematisierte, hat thematisiert",
+  "zh": "把……作为主题提出",
+  "ex": [
+   "Der Artikel thematisiert die Chancenungleichheit im Bildungssystem."
+  ],
+  "ex_zh": "这篇文章把教育体系中的机会不平等作为主题。",
+  "use": {
+   "col": [
+    [
+     "ein Problem thematisieren",
+     "提出问题"
+    ],
+    [
+     "öffentlich thematisieren",
+     "公开提起"
+    ]
+   ],
+   "tip": "名词 das Thema"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "erwähnen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "erwähnt",
+  "forms": "erwähnt, erwähnte, hat erwähnt",
+  "zh": "提到",
+  "ex": [
+   "Die Autorin erwähnt nur am Rande, dass die Daten lückenhaft sind."
+  ],
+  "ex_zh": "作者只是顺带提到数据有缺失。",
+  "use": {
+   "col": [
+    [
+     "kurz erwähnen",
+     "简要提及"
+    ],
+    [
+     "nebenbei erwähnen",
+     "顺便提到"
+    ]
+   ],
+   "tip": "不可分动词；名词 die Erwähnung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "anführen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "angeführt",
+  "forms": "führt an, führte an, hat angeführt",
+  "zh": "列举；引证",
+  "ex": [
+   "Als Beleg führt er mehrere internationale Studien an."
+  ],
+  "ex_zh": "作为证据，他列举了几项国际研究。",
+  "use": {
+   "col": [
+    [
+     "ein Argument anführen",
+     "提出论据"
+    ],
+    [
+     "Beispiele anführen",
+     "举例"
+    ]
+   ],
+   "tip": "可分动词；也可指“带头”"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "anzweifeln",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "angezweifelt",
+  "forms": "zweifelt an, zweifelte an, hat angezweifelt",
+  "zh": "怀疑；质疑",
+  "ex": [
+   "Mehrere Fachleute zweifeln die Richtigkeit der Messung an."
+  ],
+  "ex_zh": "几位专家怀疑这次测量的准确性。",
+  "use": {
+   "col": [
+    [
+     "die Echtheit anzweifeln",
+     "质疑真实性"
+    ],
+    [
+     "stark angezweifelt",
+     "受到强烈质疑"
+    ]
+   ],
+   "tip": "可分动词；及物，同 bezweifeln"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "bezweifeln",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bezweifelt",
+  "forms": "bezweifelt, bezweifelte, hat bezweifelt",
+  "zh": "怀疑",
+  "ex": [
+   "Ich bezweifle, dass die Stichprobe groß genug ist."
+  ],
+  "ex_zh": "我怀疑样本是否足够大。",
+  "use": {
+   "col": [
+    [
+     "etwas stark bezweifeln",
+     "非常怀疑"
+    ],
+    [
+     "es ist zu bezweifeln",
+     "值得怀疑"
+    ]
+   ],
+   "tip": "后接 dass 从句，比 zweifeln an 更直接"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "in Frage stellen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "in Frage gestellt",
+  "forms": "stellt in Frage, stellte in Frage, hat in Frage gestellt",
+  "zh": "质疑；使成问题",
+  "ex": [
+   "Die neuen Erkenntnisse stellen das bisherige Modell in Frage."
+  ],
+  "ex_zh": "新的发现使既有模型受到质疑。",
+  "use": {
+   "col": [
+    [
+     "etwas in Frage stellen",
+     "质疑某事"
+    ],
+    [
+     "in Frage gestellt werden",
+     "受到质疑"
+    ]
+   ],
+   "tip": "也可写成 infrage stellen；书面常用"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "gewichten",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gewichtet",
+  "forms": "gewichtet, gewichtete, hat gewichtet",
+  "zh": "加权；评估轻重",
+  "ex": [
+   "Die Antworten wurden nach Alter und Geschlecht gewichtet."
+  ],
+  "ex_zh": "回答按年龄和性别作了加权。",
+  "use": {
+   "col": [
+    [
+     "Kriterien unterschiedlich gewichten",
+     "对标准给予不同权重"
+    ],
+    [
+     "gewichtete Daten",
+     "加权后的数据"
+    ]
+   ],
+   "tip": "名词 die Gewichtung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "relativieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "relativiert",
+  "forms": "relativiert, relativierte, hat relativiert",
+  "zh": "使相对化；淡化",
+  "ex": [
+   "Diese Zahl muss man relativieren, weil die Gruppe sehr klein war."
+  ],
+  "ex_zh": "这个数字需要打个折扣，因为这一组很小。",
+  "use": {
+   "col": [
+    [
+     "eine Aussage relativieren",
+     "使一种说法相对化"
+    ],
+    [
+     "die Bedeutung relativieren",
+     "淡化重要性"
+    ]
+   ],
+   "tip": "形容词 relativ；名词 die Relativierung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "revidieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "revidiert",
+  "forms": "revidiert, revidierte, hat revidiert",
+  "zh": "修订；修正",
+  "ex": [
+   "Aufgrund der neuen Daten musste die Theorie revidiert werden."
+  ],
+  "ex_zh": "由于新数据，这一理论必须修正。",
+  "use": {
+   "col": [
+    [
+     "eine Meinung revidieren",
+     "修正看法"
+    ],
+    [
+     "ein Urteil revidieren",
+     "修正判决"
+    ]
+   ],
+   "tip": "名词 die Revision"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "widerspiegeln",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "widergespiegelt",
+  "forms": "spiegelt wider, spiegelte wider, hat widergespiegelt",
+  "zh": "反映",
+  "ex": [
+   "Die Umfrageergebnisse spiegeln die Stimmung in der Bevölkerung wider."
+  ],
+  "ex_zh": "调查结果反映了民众的情绪。",
+  "use": {
+   "col": [
+    [
+     "sich in etwas widerspiegeln",
+     "在……中得到反映"
+    ],
+    [
+     "die Realität widerspiegeln",
+     "反映现实"
+    ]
+   ],
+   "tip": "可分动词，词干为 spiegel；及物，也可与 sich 连用"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "veranschaulichen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "veranschaulicht",
+  "forms": "veranschaulicht, veranschaulichte, hat veranschaulicht",
+  "zh": "形象说明；图示",
+  "ex": [
+   "Die Grafik veranschaulicht den Zusammenhang zwischen Alter und Einkommen."
+  ],
+  "ex_zh": "这张图直观说明了年龄与收入的关系。",
+  "use": {
+   "col": [
+    [
+     "anhand eines Beispiels veranschaulichen",
+     "借助例子形象说明"
+    ],
+    [
+     "graphisch veranschaulichen",
+     "用图形说明"
+    ]
+   ],
+   "tip": "不可分动词；形容词 anschaulich"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich auswirken",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "ausgewirkt",
+  "forms": "wirkt sich aus, wirkte sich aus, hat sich ausgewirkt",
+  "zh": "产生影响",
+  "ex": [
+   "Die Kürzungen wirken sich negativ auf die Qualität der Lehre aus."
+  ],
+  "ex_zh": "经费削减对教学质量产生负面影响。",
+  "use": {
+   "col": [
+    [
+     "sich negativ auswirken",
+     "产生负面影响"
+    ],
+    [
+     "sich positiv auf etwas auswirken",
+     "对某事有积极影响"
+    ]
+   ],
+   "tip": "可分动词；名词 die Auswirkung"
+  },
+  "gov": "sich auswirken auf + Akk."
+ },
+ {
+  "lv": "C1",
+  "lemma": "bedingen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "bedingt",
+  "forms": "bedingt, bedingte, hat bedingt",
+  "zh": "导致；以……为条件",
+  "ex": [
+   "Die hohe Quote ist zum Teil durch die Struktur des Arbeitsmarkts bedingt."
+  ],
+  "ex_zh": "这个高比率在一定程度上由劳动力市场的结构造成。",
+  "use": {
+   "col": [
+    [
+     "sich gegenseitig bedingen",
+     "相互制约"
+    ],
+    [
+     "bedingt durch",
+     "由……造成"
+    ]
+   ],
+   "tip": "不可分动词；形容词 bedingt（有条件的）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "resultieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "resultiert",
+  "forms": "resultiert, resultierte, hat resultiert",
+  "zh": "产生；导致",
+  "ex": [
+   "Aus der Zusammenarbeit resultierte ein gemeinsames Patent."
+  ],
+  "ex_zh": "这次合作产生了一项共同专利。",
+  "use": {
+   "col": [
+    [
+     "resultieren aus",
+     "源于"
+    ],
+    [
+     "resultieren in",
+     "导致"
+    ]
+   ],
+   "tip": "后接 aus + Dat.（源于）或 in + Dat.（导致）"
+  },
+  "gov": "resultieren aus + Dat."
+ },
+ {
+  "lv": "C1",
+  "lemma": "basieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "basiert",
+  "forms": "basiert, basierte, hat basiert",
+  "zh": "基于",
+  "ex": [
+   "Die Analyse basiert auf Daten aus den Jahren 2015 bis 2023."
+  ],
+  "ex_zh": "这项分析基于 2015 至 2023 年的数据。",
+  "use": {
+   "col": [
+    [
+     "auf etwas basieren",
+     "基于某事"
+    ],
+    [
+     "datenbasiert",
+     "基于数据的"
+    ]
+   ],
+   "tip": "后接 auf + Dat."
+  },
+  "gov": "basieren auf + Dat."
+ },
+ {
+  "lv": "C1",
+  "lemma": "zugrunde liegen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "zugrunde gelegen",
+  "forms": "liegt zugrunde, lag zugrunde, hat zugrunde gelegen",
+  "zh": "作为基础；潜藏于",
+  "ex": [
+   "Der Studie liegt die Annahme zugrunde, dass alle Teilnehmer ehrlich antworten."
+  ],
+  "ex_zh": "这项研究的基础是所有参与者如实回答的假定。",
+  "use": {
+   "col": [
+    [
+     "einer Studie zugrunde liegen",
+     "是某研究的基础"
+    ],
+    [
+     "etwas zugrunde legen",
+     "以……为依据"
+    ]
+   ],
+   "tip": "可分，Dat. 受益者；及物形式 zugrunde legen"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "vorliegen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "vorgelegen",
+  "forms": "liegt vor, lag vor, hat vorgelegen",
+  "zh": "存在；已有",
+  "ex": [
+   "Bisher liegen keine eindeutigen Ergebnisse zu dieser Frage vor."
+  ],
+  "ex_zh": "关于这个问题，迄今没有明确的结果。",
+  "use": {
+   "col": [
+    [
+     "ein Fehler liegt vor",
+     "存在错误"
+    ],
+    [
+     "liegt uns vor",
+     "我们已拿到"
+    ]
+   ],
+   "tip": "可分动词；公文常用"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "aufweisen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "aufgewiesen",
+  "forms": "weist auf, wies auf, hat aufgewiesen",
+  "zh": "显示出；具有",
+  "ex": [
+   "Die beiden Gruppen weisen deutliche Unterschiede auf."
+  ],
+  "ex_zh": "这两组显示出明显差别。",
+  "use": {
+   "col": [
+    [
+     "Unterschiede aufweisen",
+     "显示出差异"
+    ],
+    [
+     "Mängel aufweisen",
+     "存在缺陷"
+    ]
+   ],
+   "tip": "可分动词；常见于书面"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "umfassen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "umfasst",
+  "forms": "umfasst, umfasste, hat umfasst",
+  "zh": "包含；涵盖",
+  "ex": [
+   "Der Datensatz umfasst insgesamt über zwei Millionen Einträge."
+  ],
+  "ex_zh": "这个数据集总共包含两百多万条记录。",
+  "use": {
+   "col": [
+    [
+     "einen Zeitraum umfassen",
+     "涵盖一段时间"
+    ],
+    [
+     "ein breites Spektrum umfassen",
+     "涵盖广泛范围"
+    ]
+   ],
+   "tip": "不可分动词；形容词 umfassend"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich erstrecken",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "erstreckt",
+  "forms": "erstreckt sich, erstreckte sich, hat sich erstreckt",
+  "zh": "延伸；涉及（范围）",
+  "ex": [
+   "Die Untersuchung erstreckt sich über einen Zeitraum von zehn Jahren."
+  ],
+  "ex_zh": "这项调查持续了十年之久。",
+  "use": {
+   "col": [
+    [
+     "sich über einen Zeitraum erstrecken",
+     "持续一段时间"
+    ],
+    [
+     "sich auf etwas erstrecken",
+     "涉及某事"
+    ]
+   ],
+   "tip": "不可分动词"
+  },
+  "gov": "sich erstrecken über + Akk. / auf + Akk."
+ },
+ {
+  "lv": "C1",
+  "lemma": "widmen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "gewidmet",
+  "forms": "widmet, widmete, hat gewidmet",
+  "zh": "致力于；献给",
+  "ex": [
+   "Die Studie widmet sich der Frage, wie Kinder Sprachen lernen."
+  ],
+  "ex_zh": "这项研究致力于探讨孩子如何学习语言。",
+  "use": {
+   "col": [
+    [
+     "sich einem Thema widmen",
+     "专注于某个主题"
+    ],
+    [
+     "ein Buch widmen",
+     "把书献给某人"
+    ]
+   ],
+   "tip": "sich widmen + Dat."
+  },
+  "gov": "sich widmen + Dat."
+ },
+ {
+  "lv": "C1",
+  "lemma": "sich befassen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "befasst",
+  "forms": "befasst sich, befasste sich, hat sich befasst",
+  "zh": "从事；研究（某问题）",
+  "ex": [
+   "Die Arbeitsgruppe befasst sich mit der Analyse großer Textmengen."
+  ],
+  "ex_zh": "这个工作组从事大量文本的分析。",
+  "use": {
+   "col": [
+    [
+     "sich mit einem Thema befassen",
+     "研究某个主题"
+    ],
+    [
+     "sich eingehend befassen",
+     "深入研究"
+    ]
+   ],
+   "tip": "不可分动词；比 sich beschäftigen 更书面"
+  },
+  "gov": "sich befassen mit + Dat."
+ },
+ {
+  "lv": "C1",
+  "lemma": "anstreben",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "angestrebt",
+  "forms": "strebt an, strebte an, hat angestrebt",
+  "zh": "谋求；力争",
+  "ex": [
+   "Nach dem Master strebt er eine Promotion an."
+  ],
+  "ex_zh": "硕士之后他打算读博。",
+  "use": {
+   "col": [
+    [
+     "einen Abschluss anstreben",
+     "力争获得学位"
+    ],
+    [
+     "das angestrebte Ziel",
+     "所追求的目标"
+    ]
+   ],
+   "tip": "可分动词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "vorantreiben",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "vorangetrieben",
+  "forms": "treibt voran, trieb voran, hat vorangetrieben",
+  "zh": "推进；促进",
+  "ex": [
+   "Das Institut treibt die Entwicklung neuer Verfahren konsequent voran."
+  ],
+  "ex_zh": "该研究所坚定地推进新方法的开发。",
+  "use": {
+   "col": [
+    [
+     "die Forschung vorantreiben",
+     "推进研究"
+    ],
+    [
+     "ein Projekt vorantreiben",
+     "推动项目"
+    ]
+   ],
+   "tip": "可分动词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "befähigen",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "befähigt",
+  "forms": "befähigt, befähigte, hat befähigt",
+  "zh": "使有能力",
+  "ex": [
+   "Das Studium soll die Absolventen zu selbstständigem wissenschaftlichem Arbeiten befähigen."
+  ],
+  "ex_zh": "大学学习应使毕业生能够独立做学术工作。",
+  "use": {
+   "col": [
+    [
+     "zu etwas befähigen",
+     "使胜任某事"
+    ],
+    [
+     "befähigt sein",
+     "有能力"
+    ]
+   ],
+   "tip": "名词 die Befähigung；形容词 befähigt"
+  },
+  "gov": "befähigen zu + Dat."
+ },
+ {
+  "lv": "C1",
+  "lemma": "honorieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "honoriert",
+  "forms": "honoriert, honorierte, hat honoriert",
+  "zh": "酬谢；肯定（成就）",
+  "ex": [
+   "Gute Lehre wird an Hochschulen bisher zu selten honoriert."
+  ],
+  "ex_zh": "高校里好的教学至今很少得到认可。",
+  "use": {
+   "col": [
+    [
+     "Leistung honorieren",
+     "认可成绩"
+    ],
+    [
+     "Einsatz honorieren",
+     "肯定付出"
+    ]
+   ],
+   "tip": "不可分动词；名词 das Honorar（稿酬）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "evaluieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "evaluiert",
+  "forms": "evaluiert, evaluierte, hat evaluiert",
+  "zh": "评估",
+  "ex": [
+   "Die Lehrveranstaltungen werden jedes Semester von den Studierenden evaluiert."
+  ],
+  "ex_zh": "课程每学期由学生进行评估。",
+  "use": {
+   "col": [
+    [
+     "ein Projekt evaluieren",
+     "评估项目"
+    ],
+    [
+     "regelmäßig evaluieren",
+     "定期评估"
+    ]
+   ],
+   "tip": "名词 die Evaluation / Evaluierung"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "validieren",
+  "pos": "v",
+  "aux": "hat",
+  "p2": "validiert",
+  "forms": "validiert, validierte, hat validiert",
+  "zh": "验证；确认有效",
+  "ex": [
+   "Das Modell wurde anhand unabhängiger Daten validiert."
+  ],
+  "ex_zh": "该模型用独立数据做了验证。",
+  "use": {
+   "col": [
+    [
+     "ein Modell validieren",
+     "验证模型"
+    ],
+    [
+     "Ergebnisse validieren",
+     "验证结果"
+    ]
+   ],
+   "tip": "名词 die Validierung / Validität"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "empirisch",
+  "pos": "adj",
+  "zh": "经验的；实证的",
+  "ex": [
+   "Die Theorie konnte empirisch bisher nicht bestätigt werden."
+  ],
+  "ex_zh": "这一理论迄今无法在实证上得到证实。",
+  "use": {
+   "col": [
+    [
+     "empirische Forschung",
+     "实证研究"
+    ],
+    [
+     "empirisch belegt",
+     "有实证依据"
+    ]
+   ],
+   "tip": "名词 die Empirie；反义 theoretisch"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "stichhaltig",
+  "pos": "adj",
+  "zh": "站得住脚的；有力的",
+  "ex": [
+   "Für diese Behauptung gibt es keine stichhaltigen Beweise."
+  ],
+  "ex_zh": "这个说法没有站得住脚的证据。",
+  "use": {
+   "col": [
+    [
+     "ein stichhaltiges Argument",
+     "有力的论据"
+    ],
+    [
+     "nicht stichhaltig",
+     "站不住脚"
+    ]
+   ],
+   "tip": "常与 Argument、Beweis 连用"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "signifikant",
+  "pos": "adj",
+  "zh": "显著的",
+  "ex": [
+   "Zwischen den beiden Gruppen besteht ein signifikanter Unterschied."
+  ],
+  "ex_zh": "两组之间存在显著差异。",
+  "use": {
+   "col": [
+    [
+     "ein signifikanter Unterschied",
+     "显著差异"
+    ],
+    [
+     "signifikant höher",
+     "显著更高"
+    ]
+   ],
+   "tip": "名词 die Signifikanz；也有“重要的”日常义"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "valide",
+  "pos": "adj",
+  "zh": "有效的；站得住的",
+  "ex": [
+   "Die Messmethode ist nach Ansicht der Gutachter nicht valide."
+  ],
+  "ex_zh": "在评审人看来，这个测量方法并不有效。",
+  "use": {
+   "col": [
+    [
+     "valide Daten",
+     "有效数据"
+    ],
+    [
+     "ein valides Argument",
+     "成立的论据"
+    ]
+   ],
+   "tip": "名词 die Validität；反义 invalide"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "reliabel",
+  "pos": "adj",
+  "zh": "可靠的（信度高）",
+  "ex": [
+   "Der Test gilt als reliabel, weil er bei Wiederholung dieselben Ergebnisse liefert."
+  ],
+  "ex_zh": "该测试被认为信度高，因为重复测试结果相同。",
+  "use": {
+   "col": [
+    [
+     "ein reliables Messverfahren",
+     "信度高的测量方法"
+    ],
+    [
+     "hoch reliabel",
+     "信度很高"
+    ]
+   ],
+   "tip": "统计心理学术语；名词 die Reliabilität"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "aussagekräftig",
+  "pos": "adj",
+  "zh": "有说服力的；能说明问题的",
+  "ex": [
+   "Eine so kleine Stichprobe ist in der Regel nicht besonders aussagekräftig."
+  ],
+  "ex_zh": "这么小的样本一般来说不太能说明问题。",
+  "use": {
+   "col": [
+    [
+     "aussagekräftige Daten",
+     "有说服力的数据"
+    ],
+    [
+     "wenig aussagekräftig",
+     "说明力不强"
+    ]
+   ],
+   "tip": "名词 die Aussagekraft"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "differenziert",
+  "pos": "adj",
+  "zh": "细致的；有区分的",
+  "ex": [
+   "Die Studie liefert ein differenziertes Bild der Lage an den Hochschulen."
+  ],
+  "ex_zh": "这项研究给出了高校状况的细致图景。",
+  "use": {
+   "col": [
+    [
+     "ein differenziertes Bild",
+     "细致的图景"
+    ],
+    [
+     "differenziert betrachten",
+     "细致分析"
+    ]
+   ],
+   "tip": "动词 differenzieren；反义 pauschal"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "tendenziell",
+  "pos": "adv",
+  "zh": "总体倾向上；大体上",
+  "ex": [
+   "Die Preise steigen tendenziell, auch wenn es kurzfristig Ausnahmen gibt."
+  ],
+  "ex_zh": "价格总体呈上升趋势，尽管短期有例外。",
+  "use": {
+   "col": [
+    [
+     "tendenziell steigen",
+     "趋于上升"
+    ],
+    [
+     "tendenziell eher",
+     "倾向于"
+    ]
+   ],
+   "tip": "名词 die Tendenz；也可作形容词"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "mutmaßlich",
+  "pos": "adj",
+  "zh": "推测的；据信的",
+  "ex": [
+   "Die mutmaßliche Ursache des Fehlers liegt in der Software."
+  ],
+  "ex_zh": "错误的推测原因在于软件。",
+  "use": {
+   "col": [
+    [
+     "die mutmaßliche Ursache",
+     "推测的原因"
+    ],
+    [
+     "der mutmaßliche Täter",
+     "嫌疑人"
+    ]
+   ],
+   "tip": "动词 mutmaßen；比 vermutlich 更书面"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "hinreichend",
+  "pos": "adj",
+  "zh": "足够的；充分的",
+  "ex": [
+   "Die Daten sind nicht hinreichend, um die Hypothese zu belegen."
+  ],
+  "ex_zh": "这些数据不足以证明假设。",
+  "use": {
+   "col": [
+    [
+     "hinreichend bekannt",
+     "众所周知的"
+    ],
+    [
+     "eine hinreichende Bedingung",
+     "充分条件"
+    ]
+   ],
+   "tip": "数学逻辑里的“充分条件”；与 notwendig 对"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "maßgeblich",
+  "pos": "adj",
+  "zh": "决定性的；权威的",
+  "ex": [
+   "Der Professor war maßgeblich an der Entwicklung des Verfahrens beteiligt."
+  ],
+  "ex_zh": "这位教授对该方法的开发起了决定性作用。",
+  "use": {
+   "col": [
+    [
+     "maßgeblich beteiligt sein",
+     "起决定性作用"
+    ],
+    [
+     "ein maßgeblicher Faktor",
+     "决定性因素"
+    ]
+   ],
+   "tip": "来自 Maß；书面"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "wegweisend",
+  "pos": "adj",
+  "zh": "开创性的；指明方向的",
+  "ex": [
+   "Seine Arbeit gilt als wegweisend für die moderne Genetik."
+  ],
+  "ex_zh": "他的工作被视为现代遗传学的开创性贡献。",
+  "use": {
+   "col": [
+    [
+     "eine wegweisende Entscheidung",
+     "开创性的决定"
+    ],
+    [
+     "wegweisend für",
+     "对……具有指引意义"
+    ]
+   ],
+   "tip": "常接 für + Akk.；书面"
+  },
+  "gov": "wegweisend für + Akk."
+ },
+ {
+  "lv": "C1",
+  "lemma": "grundlegend",
+  "pos": "adj",
+  "zh": "根本的；基础性的",
+  "ex": [
+   "Die Entdeckung veränderte unser Verständnis von der Entstehung der Krankheit grundlegend."
+  ],
+  "ex_zh": "这一发现从根本上改变了我们对这种疾病成因的认识。",
+  "use": {
+   "col": [
+    [
+     "grundlegende Änderungen",
+     "根本性变化"
+    ],
+    [
+     "sich grundlegend unterscheiden",
+     "有根本区别"
+    ]
+   ],
+   "tip": "可作副词；近义 fundamental"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "schwerwiegend",
+  "pos": "adj",
+  "zh": "严重的；重大的",
+  "ex": [
+   "Die Studie weist schwerwiegende methodische Mängel auf."
+  ],
+  "ex_zh": "这项研究存在严重的方法缺陷。",
+  "use": {
+   "col": [
+    [
+     "schwerwiegende Folgen",
+     "严重后果"
+    ],
+    [
+     "ein schwerwiegender Fehler",
+     "严重错误"
+    ]
+   ],
+   "tip": "同义 gravierend"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "gravierend",
+  "pos": "adj",
+  "zh": "严重的；重大的",
+  "ex": [
+   "Es gibt gravierende Unterschiede in der Ausstattung der einzelnen Schulen."
+  ],
+  "ex_zh": "各学校的设备条件存在重大差别。",
+  "use": {
+   "col": [
+    [
+     "gravierende Folgen",
+     "严重后果"
+    ],
+    [
+     "ein gravierender Mangel",
+     "严重缺陷"
+    ]
+   ],
+   "tip": "书面，多用于负面事物"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "wesentlich",
+  "pos": "adj",
+  "zh": "本质的；重大的",
+  "ex": [
+   "Die beiden Verfahren unterscheiden sich in einem wesentlichen Punkt."
+  ],
+  "ex_zh": "这两种方法在一个关键点上不同。",
+  "use": {
+   "senses": [
+    "本质的；主要的",
+    "（加比较级）得多"
+   ],
+   "col": [
+    [
+     "wesentlich besser",
+     "好得多"
+    ],
+    [
+     "im Wesentlichen",
+     "基本上"
+    ]
+   ],
+   "tip": "可作副词，加强比较级"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "nennenswert",
+  "pos": "adj",
+  "zh": "值得一提的；显著的",
+  "ex": [
+   "Es gab keine nennenswerten Abweichungen zwischen den Gruppen."
+  ],
+  "ex_zh": "各组之间没有值得一提的差别。",
+  "use": {
+   "col": [
+    [
+     "kaum nennenswert",
+     "几乎不值一提"
+    ],
+    [
+     "nennenswerte Erfolge",
+     "值得一提的成绩"
+    ]
+   ],
+   "tip": "多用于否定句"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "hinlänglich",
+  "pos": "adv",
+  "zh": "充分地；足够地",
+  "ex": [
+   "Das Problem ist hinlänglich bekannt und wurde oft beschrieben."
+  ],
+  "ex_zh": "这个问题众所周知，被反复描述过。",
+  "use": {
+   "col": [
+    [
+     "hinlänglich bekannt",
+     "众所周知"
+    ],
+    [
+     "hinlänglich erforscht",
+     "研究得足够充分"
+    ]
+   ],
+   "tip": "书面；多用于 hinlänglich bekannt"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "bekanntlich",
+  "pos": "adv",
+  "zh": "众所周知",
+  "ex": [
+   "Statistiken können bekanntlich auf unterschiedliche Weise interpretiert werden."
+  ],
+  "ex_zh": "众所周知，统计数据可以有不同的解读。",
+  "use": {
+   "col": [
+    [
+     "wie bekanntlich",
+     "正如众所周知"
+    ],
+    [
+     "bekanntlich nicht ganz einfach",
+     "众所周知并不简单"
+    ]
+   ],
+   "tip": "插入语，口语书面皆可"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "mitnichten",
+  "pos": "adv",
+  "zh": "绝不；根本不",
+  "ex": [
+   "Die Ergebnisse sind mitnichten so eindeutig, wie behauptet wird."
+  ],
+  "ex_zh": "结果绝不像所宣称的那样明确。",
+  "use": {
+   "col": [
+    [
+     "mitnichten ein Zufall",
+     "绝非偶然"
+    ],
+    [
+     "mitnichten selbstverständlich",
+     "绝非理所当然"
+    ]
+   ],
+   "tip": "书面、带强调；同义 keineswegs"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "ohnehin",
+  "pos": "adv",
+  "zh": "反正；本来就",
+  "ex": [
+   "Die Daten waren ohnehin lückenhaft, daher ist das Ergebnis wenig überraschend."
+  ],
+  "ex_zh": "数据本来就有缺失，所以结果并不令人意外。",
+  "use": {
+   "col": [
+    [
+     "ohnehin schon",
+     "本来就已经"
+    ],
+    [
+     "das ist ohnehin klar",
+     "这本来就很明显"
+    ]
+   ],
+   "tip": "口语书面皆可；同义 sowieso"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "mithin",
+  "pos": "adv",
+  "zh": "因此；从而",
+  "ex": [
+   "Die Stichprobe ist zu klein und mithin nicht repräsentativ."
+  ],
+  "ex_zh": "样本太小，因此没有代表性。",
+  "use": {
+   "col": [
+    [
+     "mithin nicht repräsentativ",
+     "因而没有代表性"
+    ],
+    [
+     "und mithin falsch",
+     "因而是错的"
+    ]
+   ],
+   "tip": "书面连接词；同义 folglich"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "folglich",
+  "pos": "adv",
+  "zh": "因此",
+  "ex": [
+   "Die Annahme war falsch, folglich muss die Rechnung wiederholt werden."
+  ],
+  "ex_zh": "假定是错的，因此必须重新计算。",
+  "use": {
+   "col": [
+    [
+     "folglich falsch",
+     "因此是错的"
+    ],
+    [
+     "und folglich",
+     "因而"
+    ]
+   ],
+   "tip": "书面连接词；同义 daher, deshalb"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "diesbezüglich",
+  "pos": "adv",
+  "zh": "就此而言；关于这一点",
+  "ex": [
+   "Diesbezüglich gibt es in der Literatur unterschiedliche Auffassungen."
+  ],
+  "ex_zh": "对此，文献中有不同的看法。",
+  "use": {
+   "col": [
+    [
+     "diesbezügliche Fragen",
+     "相关问题"
+    ],
+    [
+     "diesbezüglich keine Angaben",
+     "就此没有说明"
+    ]
+   ],
+   "tip": "书面、公文"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "einerseits … andererseits",
+  "pos": "conj",
+  "zh": "一方面……另一方面",
+  "ex": [
+   "Die Studie zeigt einerseits klare Vorteile, andererseits aber auch Risiken."
+  ],
+  "ex_zh": "这项研究一方面显示了明显优势，另一方面也有风险。",
+  "use": {
+   "col": [
+    [
+     "einerseits praktisch, andererseits teuer",
+     "一方面实用，另一方面昂贵"
+    ],
+    [
+     "zum einen … zum anderen",
+     "一来……二来"
+    ]
+   ],
+   "tip": "论述文常用的对比结构，前后可各接一句"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "nichtsdestotrotz",
+  "pos": "adv",
+  "zh": "尽管如此",
+  "ex": [
+   "Die Stichprobe war klein, nichtsdestotrotz liefert die Studie wichtige Hinweise."
+  ],
+  "ex_zh": "样本虽小，但这项研究仍提供了重要线索。",
+  "use": {
+   "col": [
+    [
+     "nichtsdestotrotz erfolgreich",
+     "尽管如此仍然成功"
+    ],
+    [
+     "nichtsdestoweniger",
+     "尽管如此（更书面）"
+    ]
+   ],
+   "tip": "口语里有时带玩笑口吻；书面更常用 dennoch, trotzdem"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "insofern",
+  "pos": "adv",
+  "zh": "在这点上；就此而言",
+  "ex": [
+   "Die Studie ist insofern interessant, als sie erstmals Langzeitdaten verwendet."
+  ],
+  "ex_zh": "这项研究的有趣之处在于首次使用了长期数据。",
+  "use": {
+   "col": [
+    [
+     "insofern, als",
+     "就……而言"
+    ],
+    [
+     "insofern richtig",
+     "在这一点上是对的"
+    ]
+   ],
+   "tip": "常与 als 或 wie 连用"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "inwiefern",
+  "pos": "conj",
+  "zh": "在多大程度上；在哪方面",
+  "ex": [
+   "Es bleibt unklar, inwiefern die Ergebnisse auf andere Länder übertragbar sind."
+  ],
+  "ex_zh": "这些结果在多大程度上适用于其他国家，仍不清楚。",
+  "use": {
+   "col": [
+    [
+     "Es ist unklar, inwiefern ...",
+     "在多大程度上……尚不清楚"
+    ],
+    [
+     "sich fragen, inwiefern ...",
+     "自问在多大程度上……"
+    ]
+   ],
+   "tip": "引导间接疑问句"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "hierzulande",
+  "pos": "adv",
+  "zh": "在本国；在这里（德国）",
+  "ex": [
+   "Hierzulande studieren immer mehr Menschen an einer Fachhochschule."
+  ],
+  "ex_zh": "在德国，越来越多的人上应用科学大学。",
+  "use": {
+   "col": [
+    [
+     "hierzulande üblich",
+     "本国通行"
+    ],
+    [
+     "hierzulande weniger bekannt",
+     "在本国较少为人所知"
+    ]
+   ],
+   "tip": "指说话者所在国家，在德国即“在德国”"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "zusehends",
+  "pos": "adv",
+  "zh": "眼见着；日益",
+  "ex": [
+   "Die Zahl der Studierenden ohne Abitur wächst zusehends."
+  ],
+  "ex_zh": "没有高中毕业证的大学生人数日益增长。",
+  "use": {
+   "col": [
+    [
+     "zusehends besser",
+     "眼见着变好"
+    ],
+    [
+     "zusehends schwieriger",
+     "日渐艰难"
+    ]
+   ],
+   "tip": "书面、新闻"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "fortwährend",
+  "pos": "adj",
+  "zh": "不断的；持续的",
+  "ex": [
+   "Die fortwährende Weiterbildung ist in der Wissenschaft selbstverständlich."
+  ],
+  "ex_zh": "不断进修在学术界是理所当然的。",
+  "use": {
+   "col": [
+    [
+     "fortwährende Veränderungen",
+     "持续的变化"
+    ],
+    [
+     "fortwährend neue Daten",
+     "不断出现的新数据"
+    ]
+   ],
+   "tip": "书面；同义 ständig, andauernd"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Spannungsfeld",
+  "art": "das",
+  "pl_full": "die Spannungsfelder",
+  "pos": "n",
+  "zh": "矛盾领域；张力场",
+  "ex": [
+   "Die Forschung bewegt sich im Spannungsfeld zwischen Grundlagen- und Anwendungsorientierung."
+  ],
+  "ex_zh": "研究处在基础导向和应用导向的张力之间。",
+  "use": {
+   "col": [
+    [
+     "im Spannungsfeld von",
+     "在……的张力之间"
+    ],
+    [
+     "ein Spannungsfeld auflösen",
+     "化解矛盾"
+    ]
+   ],
+   "tip": "复数有变音；论述文常见"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Wechselwirkung",
+  "art": "die",
+  "pl_full": "die Wechselwirkungen",
+  "pos": "n",
+  "zh": "相互作用",
+  "ex": [
+   "Zwischen den beiden Faktoren besteht eine komplexe Wechselwirkung."
+  ],
+  "ex_zh": "这两个因素之间存在复杂的相互作用。",
+  "use": {
+   "col": [
+    [
+     "in Wechselwirkung stehen",
+     "相互作用"
+    ],
+    [
+     "Wechselwirkungen berücksichtigen",
+     "考虑相互作用"
+    ]
+   ],
+   "tip": "物理、药物学中也用；近义 Zusammenspiel"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Gesetzmäßigkeit",
+  "art": "die",
+  "pl_full": "die Gesetzmäßigkeiten",
+  "pos": "n",
+  "zh": "规律",
+  "ex": [
+   "Die Forscher suchen nach Gesetzmäßigkeiten in den Daten."
+  ],
+  "ex_zh": "研究者在数据中寻找规律。",
+  "use": {
+   "col": [
+    [
+     "einer Gesetzmäßigkeit folgen",
+     "遵循某种规律"
+    ],
+    [
+     "Gesetzmäßigkeiten erkennen",
+     "发现规律"
+    ]
+   ],
+   "tip": "不同于 Gesetz（法律）"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Zusammenspiel",
+  "art": "das",
+  "pos": "n",
+  "zh": "协同作用；配合",
+  "ex": [
+   "Das Zusammenspiel mehrerer Faktoren erklärt das Ergebnis besser als ein einzelner Grund."
+  ],
+  "ex_zh": "多个因素的共同作用比单一原因更能解释结果。",
+  "use": {
+   "col": [
+    [
+     "das Zusammenspiel von",
+     "……的协同作用"
+    ],
+    [
+     "ein gutes Zusammenspiel",
+     "良好的配合"
+    ]
+   ],
+   "tip": "没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Fehlschluss",
+  "art": "der",
+  "pl_full": "die Fehlschlüsse",
+  "pos": "n",
+  "zh": "错误结论",
+  "ex": [
+   "Ein häufiger Fehlschluss besteht darin, Korrelation mit Kausalität zu verwechseln."
+  ],
+  "ex_zh": "一个常见的错误推论，是把相关性与因果关系混为一谈。",
+  "use": {
+   "col": [
+    [
+     "zu einem Fehlschluss führen",
+     "导致错误结论"
+    ],
+    [
+     "einem Fehlschluss unterliegen",
+     "犯推论错误"
+    ]
+   ],
+   "tip": "近义 Trugschluss；复数有变音"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Wissenschaftlichkeit",
+  "art": "die",
+  "pos": "n",
+  "zh": "科学性；学术性",
+  "ex": [
+   "Die Wissenschaftlichkeit der Arbeit wurde von den Gutachtern in Frage gestellt."
+  ],
+  "ex_zh": "论文的科学性受到评审人的质疑。",
+  "use": {
+   "col": [
+    [
+     "die Wissenschaftlichkeit wahren",
+     "保持学术性"
+    ],
+    [
+     "Anspruch auf Wissenschaftlichkeit",
+     "追求科学性"
+    ]
+   ],
+   "tip": "没有复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Reichweite",
+  "art": "die",
+  "pl_full": "die Reichweiten",
+  "pos": "n",
+  "zh": "范围；射程；适用范围",
+  "ex": [
+   "Die Reichweite der Ergebnisse ist wegen der kleinen Stichprobe begrenzt."
+  ],
+  "ex_zh": "由于样本小，结果的适用范围有限。",
+  "use": {
+   "col": [
+    [
+     "die Reichweite eines Ergebnisses",
+     "结果的适用范围"
+    ],
+    [
+     "eine große Reichweite",
+     "广泛的覆盖面"
+    ]
+   ],
+   "tip": "也指无线电、媒体覆盖范围"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Methodologie",
+  "art": "die",
+  "pl_full": "die Methodologien",
+  "pos": "n",
+  "zh": "方法论",
+  "ex": [
+   "Die Methodologie der Sozialforschung wird im Masterstudium vertieft."
+  ],
+  "ex_zh": "社会研究的方法论会在硕士阶段深入学习。",
+  "use": {
+   "col": [
+    [
+     "quantitative Methodologie",
+     "定量方法论"
+    ],
+    [
+     "Methodologie und Methodik",
+     "方法论与方法"
+    ]
+   ],
+   "tip": "Methodik 指具体方法，Methodologie 指方法理论"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Konsens",
+  "art": "der",
+  "pos": "n",
+  "zh": "共识",
+  "ex": [
+   "In der Fachwelt besteht ein breiter Konsens darüber, dass der Effekt real ist."
+  ],
+  "ex_zh": "学术界对这一效应是真实的有广泛共识。",
+  "use": {
+   "col": [
+    [
+     "ein breiter Konsens",
+     "广泛共识"
+    ],
+    [
+     "einen Konsens finden",
+     "达成共识"
+    ]
+   ],
+   "tip": "反义 Dissens；通常无复数"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Kernfrage",
+  "art": "die",
+  "pl_full": "die Kernfragen",
+  "pos": "n",
+  "zh": "核心问题",
+  "ex": [
+   "Die Kernfrage der Untersuchung lautet, ob Lernen online ebenso effektiv ist."
+  ],
+  "ex_zh": "研究的核心问题是线上学习是否同样有效。",
+  "use": {
+   "col": [
+    [
+     "die zentrale Kernfrage",
+     "核心问题"
+    ],
+    [
+     "sich der Kernfrage widmen",
+     "探讨核心问题"
+    ]
+   ],
+   "tip": ""
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Meilenstein",
+  "art": "der",
+  "pl_full": "die Meilensteine",
+  "pos": "n",
+  "zh": "里程碑",
+  "ex": [
+   "Die Veröffentlichung der Studie war ein Meilenstein in der Forschung."
+  ],
+  "ex_zh": "这项研究的发表是该领域的一个里程碑。",
+  "use": {
+   "col": [
+    [
+     "einen Meilenstein setzen",
+     "树立里程碑"
+    ],
+    [
+     "ein wichtiger Meilenstein",
+     "重要的里程碑"
+    ]
+   ],
+   "tip": "项目管理里也指阶段节点"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Neuland",
+  "art": "das",
+  "pos": "n",
+  "zh": "新天地；未开垦的领域",
+  "ex": [
+   "Mit dieser Methode betritt die Forschung wissenschaftliches Neuland."
+  ],
+  "ex_zh": "这个方法使研究踏入了学术上的新天地。",
+  "use": {
+   "col": [
+    [
+     "Neuland betreten",
+     "开辟新领域"
+    ],
+    [
+     "wissenschaftliches Neuland",
+     "学术新领域"
+    ]
+   ],
+   "tip": "没有复数；Neuland betreten 常用"
+  }
+ },
+ {
+  "lv": "C1",
+  "lemma": "Ertrag",
+  "art": "der",
+  "pl_full": "die Erträge",
+  "pos": "n",
+  "zh": "收益；成果",
+  "ex": [
+   "Der wissenschaftliche Ertrag des Projekts blieb hinter den Erwartungen zurück."
+  ],
+  "ex_zh": "项目的学术成果没有达到预期。",
+  "use": {
+   "senses": [
+    "成果",
+    "收益、产量"
+   ],
+   "col": [
+    [
+     "der Ertrag der Forschung",
+     "研究的成果"
+    ],
+    [
+     "Erträge erzielen",
+     "获得收益"
+    ]
+   ],
+   "tip": "复数有变音；农业、金融也用"
+  }
+ }
+]
