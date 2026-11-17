@@ -92,6 +92,23 @@ nav button[aria-current="page"] { color: var(--ink); background: var(--card); bo
 .forms b { color: var(--ink); font-weight: 600; }
 .chip { font-size: 12px; padding: 1px 8px; border-radius: 999px; border: 1px solid var(--line); color: var(--muted); }
 .senses { margin: 0; padding-left: 1.4em; }
+/* 义项与用法：意思 → 句型 → 例句（红宝书的结构） */
+.usl { margin: 0; padding-left: 1.4em; display: grid; gap: 10px; }
+.usl .uz { font-weight: 600; }
+.usl .up { font-family: var(--f-word); }
+.usl .uex { display: grid; font-size: 14px; } .usl .uex .de { font-family: var(--f-word); } .usl .uex .zh { color: var(--muted); }
+.usl .utip { font-size: 13px; color: var(--muted); }
+.src { font-weight: 500; letter-spacing: 0; text-transform: none; border: 1px solid var(--line); border-radius: 4px; padding: 1px 5px; margin-left: 4px; }
+/* 用法匹配题 */
+.ulist { display: grid; gap: 8px; margin: 14px auto 6px; max-width: 640px; text-align: left; }
+.ucue { display: grid; grid-template-columns: 1.6em 1fr; gap: 2px 8px; padding: 10px 12px; border: 1px solid var(--line); border-radius: 10px; background: var(--card); }
+.ucue .n { color: var(--muted); font-variant-numeric: tabular-nums; }
+.ucue .de { font-family: var(--f-word); font-size: 17px; }
+.ucue .ux { grid-column: 2; font-family: var(--f-word); font-size: 14px; color: var(--muted); }
+.ucue .uzh { grid-column: 2; font-weight: 600; }
+.ucue.u-cur { border-color: var(--marker); box-shadow: 0 0 0 2px var(--marker) inset; }
+.ucue.u-todo { opacity: .55; }
+.ucue.u-ok .uzh { color: var(--ok); } .ucue.u-miss .uzh { color: var(--bad); }
 .ex { display: grid; gap: 2px; }
 .ex .de { font: 16px/1.5 var(--f-word); display: flex; gap: 8px; align-items: baseline; }
 .ex .de button { border: 0; background: none; padding: 0 4px; color: var(--muted); font-size: 13px; flex: none; }
@@ -762,9 +779,28 @@ function findInSentence(w) {
 }
 // 题型：设置里每种题型一个比例（0 = 不出）；默认只出“看词选义”四选一
 const QT = [["meaning", "看词选义（四选一）"], ["reverse", "看义选词"], ["audio", "听音选词"], ["listen", "听音选义"], ["sentence", "例句选义"],
-  ["gender", "选冠词（名词）"], ["aux", "haben / sein（动词）"], ["spell", "打字拼写"], ["letters", "字母拼词（名词先选 der/die/das）"]];
+  ["gender", "选冠词（名词）"], ["aux", "haben / sein（动词）"], ["spell", "打字拼写"], ["letters", "字母拼词（名词先选 der/die/das）"],
+  ["usage", "用法匹配（只出有 2 个以上用法的词）"]];
 const hasArt = w => ["der", "die", "das"].includes(w.art);
+/* 义项与用法：红宝书（私有，凭考试页的密码从 Worker 取，存在本机）优先，其次词库自带的 use.us
+   每条 {p: 句型（可空）, zh: 意思, ex: 例句, exz: 例句翻译, tip: 记忆提示} */
+const LS_BOOK = "wortkarten-book";
+let BOOK = null;
+const book = () => BOOK || (BOOK = lsGet(LS_BOOK, null) || {});
+const usages = w => book()[w.id]?.us || w.use?.us || [];
+function matchItems(w) {               // 匹配题用：德语一侧要有句型或例句，中文意思不重复
+  const seen = new Set();
+  return usages(w).filter(u => u.zh && (u.p || u.ex) && !seen.has(u.zh) && seen.add(u.zh));
+}
+function loadBook() {
+  if (!exKey()) return;
+  fetch(EXAM_API + "/exam/usage", { headers: { "X-Exam-Key": exKey() }, cache: "no-store" })
+    .then(r => r.ok ? r.json() : null)
+    .then(b => { if (b && typeof b === "object" && !Array.isArray(b)) { BOOK = b; lsSet(LS_BOOK, b); if (S.view !== "learn" || !S.session?.current || S.session.current.answered) render(); } })
+    .catch(() => {});
+}
 function eligible(w, t) {
+  if (t === "usage") return matchItems(w).length >= 2;
   if (t === "sentence") return !!findInSentence(w);
   if (t === "gender") return hasArt(w);
   if (t === "aux") return !!(w.aux && w.p2);
@@ -790,8 +826,14 @@ function makeQ(id, type) {
   const w = S.byId.get(id);
   if (type === "sentence" && !findInSentence(w)) type = "meaning";
   if ((type === "spell" || type === "letters") && !spellable(w)) type = "meaning";
+  if (type === "usage" && matchItems(w).length < 2) type = "meaning";
   const q = { id, type, w, answered: false, tried: [], wrongs: 0 };
-  if (type === "meaning" || type === "listen" || type === "sentence") {
+  if (type === "usage") {
+    // 用法匹配：依次给出每条用法（句型或例句），从这个词自己的几个意思里选；最多 4 条
+    q.pairs = shuffle(matchItems(w)).slice(0, 4); q.step = 0; q.solved = 0;
+    q.order = shuffle(q.pairs.map((_, i) => i));
+    q.opts = usageOpts(q);
+  } else if (type === "meaning" || type === "listen" || type === "sentence") {
     q.opts = shuffle([w, ...distractors(w, 3, "zh")]).map(x => ({ label: x.zh, right: x.id === w.id, de: false }));
     if (type === "sentence") q.sent = findInSentence(w);
   } else if (type === "reverse" || type === "audio") {
@@ -863,9 +905,23 @@ function nextQ() {
   setCurrent(item);
 }
 const putBack = (item, dist) => { const q = S.session.queue; q.splice(Math.min(dist, q.length), 0, item); };
+// 用法匹配：还没配上的意思（顺序固定，配上一个就少一个）
+const usageOpts = q => q.order.filter(i => i >= q.step).map(i => ({ label: q.pairs[i].zh, right: i === q.step }));
+function usageAnswer(q, i) {
+  const s = S.session;
+  if (q.opts[i].right) {
+    sfx("ok"); q.step++; q.solved = q.step; q.tried = [];
+    if (q.step >= q.pairs.length - 1) { q.step = q.solved = q.pairs.length; return finish(q, !q.wrongs, i); }   // 最后一条只剩一个意思，自动配上
+    q.opts = usageOpts(q); return render();
+  }
+  q.tried.push(i); q.wrongs++; s.combo = 0; sfx("bad");
+  if (q.wrongs >= 3) { q.step = q.pairs.length; return finish(q, false, i); }     // 错 3 次：揭晓全部
+  render();
+}
 function answer(i) {
   const s = S.session, q = s?.current;
   if (!q || q.answered || q.tried.includes(i) || !q.opts[i]) return;
+  if (q.type === "usage") return usageAnswer(q, i);
   if (q.opts[i].right) { sfx("ok"); return finish(q, !q.wrongs, i); }
   // 答错不揭晓，划掉这个选项再选（百词斩）；错 3 次或只剩一个选项时揭晓
   q.tried.push(i); q.wrongs++; s.combo = 0; sfx("bad");
@@ -1080,7 +1136,7 @@ function sfx(kind) {
 
 /* ---------- 渲染 ---------- */
 function detailHTML(w, withWord) {
-  const u = w.use || {};
+  const u = w.use || {}, us = usages(w), bk = book()[w.id];
   const forms = [];
   if (w.art) forms.push(`<span class="${w.art}">${w.art}</span> ${esc(w.lemma)}${w.pl_full ? `，复数 <b>${esc(w.pl_full)}</b>` : w.pl ? `，复数 ${esc(w.pl)}` : ""}`);
   if (w.forms) forms.push(esc(w.forms).replace(/(hat|ist) (\S+)/, "<b>$1 $2</b>"));
@@ -1091,7 +1147,9 @@ function detailHTML(w, withWord) {
     ${withWord ? `<div class="d-word">${w.art ? `<span class="${w.art}" style="font-weight:400">${w.art}</span> ` : ""}${esc(w.lemma)}</div>` : ""}
     <div class="d-head"><span class="d-zh">${esc(w.zh)}</span>${w.pos ? `<span class="chip">${POS_ZH[w.pos] || w.pos}</span>` : ""}${w.gov ? `<span class="chip">${esc(w.gov)}</span>` : ""}<button type="button" class="fbbtn" data-act="fb" data-id="${w.id}">纠错</button></div>
     ${forms.length ? `<div class="forms">${forms.join("<br>")}</div>` : ""}
-    ${u.senses?.length > 1 ? `<div><div class="sect">义项</div><ol class="senses">${u.senses.map(x => `<li>${esc(x)}</li>`).join("")}</ol></div>` : ""}
+    ${us.length ? `<div><div class="sect">义项与用法${bk ? `<span class="src">红宝书</span>` : ""}</div><ol class="usl">${us.map(x => `<li><div class="uz">${esc(x.zh || "")}</div>${x.p ? `<div class="up">${esc(x.p)}</div>` : ""}${x.ex ? `<div class="uex"><span class="de">${esc(x.ex)}</span>${x.exz ? `<span class="zh">${esc(x.exz)}</span>` : ""}</div>` : ""}${x.tip ? `<div class="utip">${esc(x.tip)}</div>` : ""}</li>`).join("")}</ol></div>`
+      : u.senses?.length > 1 ? `<div><div class="sect">义项</div><ol class="senses">${u.senses.map(x => `<li>${esc(x)}</li>`).join("")}</ol></div>` : ""}
+    ${bk?.tip ? `<div class="tip">记忆提示：${esc(bk.tip)}</div>` : ""}
     ${u.col?.length ? `<div><div class="sect">常用搭配</div><div class="col">${u.col.map(([g, c]) => `<span class="g">${esc(g)}</span><span class="c">${esc(c)}</span>`).join("")}</div></div>` : ""}
     ${ex ? `<div><div class="sect">例句</div><div style="display:grid;gap:8px">${ex}</div></div>` : ""}
     ${u.tip ? `<div class="tip">${esc(u.tip)}</div>` : ""}
@@ -1112,6 +1170,7 @@ function hintHTML(q) {
   if (q.type === "gender") lines.push(genderRule(w.lemma) || "这个词尾没有固定规律，只能记。");
   else if (q.type === "aux") lines.push("表示位置移动（gehen、fahren…）或状态变化（werden、sterben…）的不及物动词用 sein，其余大多用 haben。");
   else if (q.type === "spell" || q.type === "reverse" || q.type === "letters") lines.push(`首字母 <b class="de">${esc(w.lemma[0])}</b>，共 ${w.lemma.length} 个字母`);
+  else if (q.type === "usage") lines.push("看句型里的介词和格（+ D / + A），或者例句里说的是什么事。");
   else {   // 选义类：只给德语线索，不给中文
     const ex = (w.ex || []).find(e => !q.sent || e !== q.sent[0]);
     if (ex && q.type !== "sentence") lines.push(`<span class="de">${esc(ex)}</span>`);
@@ -1172,7 +1231,7 @@ function learnHTML() {
       <div class="actions" style="justify-content:center"><button class="btn primary" data-act="more">再学 10 个新词</button><button class="btn" data-go="cal">看日历</button><button class="btn" data-go="place">去摸底</button></div></div>`;
   }
   const w = q.w, a = q.answered || q.killed;
-  const label = { meaning: "看词选义", listen: "听音选义", audio: "听音选词", sentence: "例句选义：划线词是什么意思", reverse: "看义选词", gender: "选冠词", aux: "Perfekt 用 haben 还是 sein", spell: "拼写", letters: "字母拼词" }[q.type];
+  const label = { meaning: "看词选义", listen: "听音选义", audio: "听音选词", sentence: "例句选义：划线词是什么意思", reverse: "看义选词", gender: "选冠词", aux: "Perfekt 用 haben 还是 sein", spell: "拼写", letters: "字母拼词", usage: "用法匹配：依次选出每条用法的意思" }[q.type];
   // 顺序：单词（居中）→ 例句（居中）→ 四格选项 → 其他
   let head = "", sent = "";
   if (q.type === "meaning") { head = wordLine(w); sent = exLine(w, a); }
@@ -1183,6 +1242,13 @@ function learnHTML() {
   else if (q.type === "sentence") { head = a ? wordLine(w) : ""; sent = exLine(w, a, q.sent); }
   else if (q.type === "reverse") { head = `<div class="prompt">${esc(w.zh)}</div>${a ? wordLine(w) : ""}`; sent = a ? exLine(w, true) : ""; }
   else if (q.type === "gender") { head = a ? wordLine(w) : `<div class="word"><span class="art" style="color:var(--muted)">___</span><span>${esc(w.lemma)}</span></div><div class="sub">${esc(w.zh)}</div>`; sent = a ? exLine(w, true) : ""; }
+  else if (q.type === "usage") {
+    head = wordLine(w) + `<div class="ulist">${q.pairs.map((x, i) => {
+      const shown = a || i < q.step, cur = !a && i === q.step;
+      const cls = cur ? " u-cur" : !shown ? " u-todo" : (q.right === false && i >= q.solved) ? " u-miss" : " u-ok";
+      return `<div class="ucue${cls}"><span class="n">${i + 1}</span><span class="de">${esc(x.p || x.ex)}</span>${x.p && x.ex && shown ? `<span class="ux">${esc(x.ex)}</span>` : ""}${shown ? `<span class="uzh">${esc(x.zh)}${cls === " u-miss" ? "（没选对）" : " ✓"}</span>` : cur ? `<span class="uzh" style="color:var(--muted)">这条是什么意思？</span>` : ""}</div>`;
+    }).join("")}</div>`;
+  }
   else if (q.type === "aux") head = `${wordLine(w, false)}<div class="prompt" style="font-family:var(--f-word)">Ich <span style="color:var(--muted)">${a ? `<b style="color:var(--ink)">${w.aux === "hat" ? "habe" : "bin"}</b>` : "___"}</span> … ${esc(w.p2)}.</div><div class="sub">${esc(w.zh)}</div>`;
   else if (q.type === "spell") {
     head = `<div class="prompt">${esc(w.zh)}</div><div class="sub">${POS_ZH[w.pos] || ""}${w.pl_full ? ` · 复数 ${esc(w.pl_full.replace(w.lemma, "~"))}` : ""}</div>
@@ -1232,7 +1298,7 @@ function learnHTML() {
     <div class="qtype">${label} · ${kindChip} <span class="lv">${esc(w.lv)}</span>${killChip}${favChip}</div>
     ${head}${peek}
     ${sent}
-    ${q.opts.length ? `<div class="${cls}">${opts}</div>` : ""}
+    ${q.opts.length && !(q.type === "usage" && a) ? `<div class="${cls}">${opts}</div>` : ""}
     ${foot}
   </div></div>` + keybarHTML(w);
 }
@@ -1361,7 +1427,8 @@ function wordSetHTML() {
       <span class="note">选了比例：每天最多复习“新词数 × 比例”个，复习和新词按这个比例穿插出现（例如 3 : 1 就是 3 个复习 1 个新词）；到期的词太多时，最不熟的先复习，其余顺延。</span></label>
     <div class="plan" id="wplan">${planText()}</div>
     <div><b>题型和比例</b><span class="note" style="display:block;margin:2px 0 8px">数字是出现的比例，0 = 不出。比如“看词选义 3、字母拼词 1”就是大约 3 道选义配 1 道拼词。不适用的词会跳过对应题型（如冠词题只给名词）。</span>
-      <div class="qtgrid">${QT.map(([t, name]) => `<span>${name}</span><select data-qt="${t}" aria-label="${name} 的比例">${[0, 1, 2, 3, 4, 5].map(n => `<option value="${n}"${n === (+(st.qtypes || {})[t] || 0) ? " selected" : ""}>${n || "不出"}</option>`).join("")}</select>`).join("")}</div></div>
+      <div class="qtgrid">${QT.map(([t, name]) => `<span>${name}</span><select data-qt="${t}" aria-label="${name} 的比例">${[0, 1, 2, 3, 4, 5].map(n => `<option value="${n}"${n === (+(st.qtypes || {})[t] || 0) ? " selected" : ""}>${n || "不出"}</option>`).join("")}</select>`).join("")}</div>
+      <span class="note" style="display:block;margin-top:6px">用法匹配：现在有 ${S.words.filter(w => matchItems(w).length >= 2).length} 个词能出。红宝书的用法${Object.keys(book()).length ? `已加载（${Object.keys(book()).length} 个词）` : "还没加载：在「考试」页输入一次密码后会自动下载到这台设备"}。</span></div>
     <label>新词当天要答对几步<select id="ssteps">${[1, 2, 3].map(n => `<option value="${n}"${n === (st.newSteps || 3) ? " selected" : ""}>${n} 步</option>`).join("")}</select>
       <span class="note">每一步按上面的比例抽题型；只开一种题型时，每步都是这种题。</span></label>
     <label>每组学完后拼写这组新词<select id="sendspell">${[["off", "不拼"], ["spell", "打字拼写"], ["letters", "字母拼词"]].map(([v, t]) => `<option value="${v}"${v === (st.endSpell || "off") ? " selected" : ""}>${t}</option>`).join("")}</select></label>
@@ -2356,7 +2423,7 @@ document.addEventListener("click", e => {
     (run.ans[id] = run.ans[id] || {})[+qi] = q.t === "mc" ? +i : i === "1"; exSave(); const y = window.scrollY; render(); window.scrollTo(0, y); return; }
   if (d.act && d.act.startsWith("ex")) {
     const a = d.act, run = EX.run;
-    if (a === "exkey") { const k = ($("#exkey")?.value || "").trim(); if (!k) return; lsSet(LS_EXKEY, k); EX.err = ""; exSetBank(null); loadBank(true); return render(); }
+    if (a === "exkey") { const k = ($("#exkey")?.value || "").trim(); if (!k) return; lsSet(LS_EXKEY, k); EX.err = ""; exSetBank(null); loadBank(true); loadBook(); return render(); }
     if (a === "exlogout") { lsSet(LS_EXKEY, ""); lsSet(LS_EXBANK, null); exSetBank(null); return render(); }
     if (a === "exreload") { exSetBank(null); loadBank(true); return render(); }
     if (a === "exgr") { exGrades(true); return toast("正在检查…"); }
@@ -2557,7 +2624,7 @@ document.addEventListener("keydown", e => {
 });
 
 /* ---------- 自动更新（和送报 App 一样：打开/切回前台时检查新版本） ---------- */
-const APP_VERSION = "2026-11-17.6";
+const APP_VERSION = "2026-11-17.7";
 if ("serviceWorker" in navigator && location.protocol === "https:") {
   navigator.serviceWorker.register("sw.js", { updateViaCache: "none" }).then(reg => {
     document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") reg.update().catch(() => {}); });
@@ -2577,6 +2644,8 @@ if ("serviceWorker" in navigator && location.protocol === "https:") {
   if (!S.settings.mixA1B1) { if (["B1", "A12"].includes(S.settings.deck)) S.settings.deck = "A1B1"; setSetting("mixA1B1", true); }
   // 2026-11-17：题型改成可设置比例；默认只出“看词选义”，组末拼写默认关（只切一次）
   if (!S.settings.qtV1) { S.settings.qtypes = { meaning: 1 }; S.settings.endSpell = "off"; setSetting("qtV1", true); }
+  // 2026-11-17：用户要的用法匹配题默认打开（比例 1，只出有 2 个以上用法的词；只开一次，之后按设置）
+  if (!S.settings.usageV1) { S.settings.qtypes = { ...(S.settings.qtypes || { meaning: 1 }), usage: 1 }; setSetting("usageV1", true); }
   setSyncState("", syncCfg.token ? "等待同步…" : "未开启同步：进度只存在这台设备上");
   try {
     S.words = await (await fetch("words.json")).json();
@@ -2587,6 +2656,7 @@ if ("serviceWorker" in navigator && location.protocol === "https:") {
   for (const w of S.words) { S.byId.set(w.id, w); (S.byPos[w.pos] = S.byPos[w.pos] || []).push(w); }
   try { audioIndex = await (await fetch("audio/index.json")).json(); } catch {}
   fetch("changelog.json", { cache: "no-cache" }).then(r => r.json()).then(c => { changelog = c; updLogDot(); if (S.view === "log") render(); }).catch(() => {});
+  loadBook();                          // 红宝书用法（有考试密码才取；离线时用本机存的）
   flushOutbox();
   if (syncCfg.token) await Promise.race([syncNow(), new Promise(r => setTimeout(r, 4000))]);  // 先拉一次再出题，最多等 4 秒
   render();

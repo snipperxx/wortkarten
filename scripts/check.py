@@ -39,10 +39,12 @@ for w in words:
         errors.append(f"{tag}：ex 必须是字符串列表")
     u = w.get("use")
     if u is not None:
-        if not isinstance(u, dict) or set(u) - {"senses", "col", "tip"}:
-            errors.append(f"{tag}：use 只能有 senses / col / tip")
+        if not isinstance(u, dict) or set(u) - {"senses", "col", "tip", "us"}:
+            errors.append(f"{tag}：use 只能有 senses / col / tip / us")
         elif any(not (isinstance(c, list) and len(c) == 2) for c in u.get("col", [])):
             errors.append(f"{tag}：col 每项必须是 [德语, 中文]")
+        elif any(not isinstance(x, dict) or not x.get("zh") or set(x) - {"p", "zh", "ex", "exz", "tip"} for x in u.get("us", [])):
+            errors.append(f"{tag}：us 每项是 {{p, zh, ex, exz, tip}}，zh 必填")
     if re.search(r"<\s*script|javascript:", json.dumps(w, ensure_ascii=False), re.I):
         errors.append(f"{tag}：内容里有脚本")
 

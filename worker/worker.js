@@ -27,7 +27,7 @@ export default {
     if (req.method === "OPTIONS") return new Response(null, { status: 204, headers: cors });
     const path = new URL(req.url).pathname;
     if (path === "/exam/grades" && req.method === "GET") return examGrades(req, env, reply);
-    if ((path === "/exam/bank" || path.startsWith("/exam/media/")) && req.method === "GET") return examBank(req, env, reply, path, cors);
+    if ((path === "/exam/bank" || path === "/exam/usage" || path.startsWith("/exam/media/")) && req.method === "GET") return examBank(req, env, reply, path, cors);
     if (path === "/exam/submit" && req.method === "POST") {
       if (!ORIGINS.includes(origin)) return reply({ ok: false, error: "origin" }, 403);
       return examSubmit(req, env, reply);
@@ -123,8 +123,8 @@ function keyOk(req, env) {
 async function examBank(req, env, reply, path, cors) {
   if (await limited(env, "RL2", req)) return reply({ ok: false, error: "too many" }, 429);
   if (!keyOk(req, env)) return reply({ ok: false, error: "key" }, 401);
-  if (path === "/exam/bank") {
-    const v = await env.EXAM.get("bank:index");
+  if (path === "/exam/bank" || path === "/exam/usage") {   // usage = 红宝书的义项与用法（scripts/book_usage.py 上传）
+    const v = await env.EXAM.get(path === "/exam/bank" ? "bank:index" : "bank:usage");
     return v ? new Response(v, { headers: { ...cors, "Content-Type": "application/json", "Cache-Control": "no-store" } }) : reply({ ok: false, error: "empty" }, 404);
   }
   const name = path.slice("/exam/media/".length);
