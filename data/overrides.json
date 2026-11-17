@@ -1,4 +1,1075 @@
 {
  "_说明": "反馈 / 人工修正。键是单词 id；值里写要改的字段（null = 删掉该字段，use 按子字段合并，_drop: true = 删掉这个词，_note 写来源如 issue 编号）。改完运行 python -I scripts/merge.py . 和 python -I scripts/check.py",
- "w0987": {"ex_zh": "谢谢你送的礼物。", "_note": "#4"}
+ "w0987": {
+  "ex_zh": "谢谢你送的礼物。",
+  "_note": "#4"
+ },
+ "w0011": {
+  "aux": "hat",
+  "p2": "abgehangen",
+  "forms": "hängt ab, hing ab, hat abgehangen",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w0021": {
+  "aux": "hat",
+  "p2": "abgesagt",
+  "forms": "sagt ab, sagte ab, hat abgesagt",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息；例句被截断",
+  "ex": [
+   "Ich muss unser Treffen leider absagen, weil ich krank geworden bin."
+  ],
+  "ex_zh": "很遗憾我得取消我们的见面，因为我病了。"
+ },
+ "w0157": {
+  "aux": "hat",
+  "p2": "aufgegeben",
+  "forms": "gibt auf, gab auf, hat aufgegeben",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w0158": {
+  "aux": "hat",
+  "p2": "aufgehalten",
+  "forms": "hält auf, hielt auf, hat aufgehalten",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w0219": {
+  "aux": "hat",
+  "p2": "ausgezogen",
+  "forms": "zieht aus, zog aus, hat ausgezogen",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w0228": {
+  "aux": "hat",
+  "p2": "gebadet",
+  "forms": "badet, badete, hat gebadet",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息；例句被截断",
+  "ex": [
+   "Wenn du baden möchtest: Das Badezimmer ist hinten links."
+  ]
+ },
+ "w0300": {
+  "aux": "hat",
+  "p2": "bekannt gegeben",
+  "forms": "gibt bekannt, gab bekannt, hat bekannt gegeben",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w0334": {
+  "aux": "hat",
+  "p2": "beschränkt",
+  "forms": "beschränkt, beschränkte, hat beschränkt",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w0564": {
+  "aux": "hat",
+  "p2": "geduzt",
+  "forms": "duzt, duzte, hat geduzt",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w0585": {
+  "aux": "ist",
+  "p2": "geeilt",
+  "forms": "eilt, eilte, ist geeilt",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w0625": {
+  "aux": "ist",
+  "p2": "eingestiegen",
+  "forms": "steigt ein, stieg ein, ist eingestiegen",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w0628": {
+  "aux": "ist",
+  "p2": "eingetreten",
+  "forms": "tritt ein, trat ein, ist eingetreten",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w0662": {
+  "aux": "ist",
+  "p2": "entgegengekommen",
+  "forms": "kommt entgegen, kam entgegen, ist entgegengekommen",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w0758": {
+  "aux": "ist",
+  "p2": "gefahren",
+  "forms": "fährt, fuhr, ist gefahren",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w0819": {
+  "aux": "hat",
+  "p2": "gefunden",
+  "forms": "findet, fand, hat gefunden",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w0834": {
+  "aux": "ist",
+  "p2": "geflossen",
+  "forms": "fließt, floss, ist geflossen",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w1018": {
+  "aux": "hat",
+  "p2": "gegossen",
+  "forms": "gießt, goss, hat gegossen",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w1120": {
+  "aux": "hat",
+  "p2": "herausgefunden",
+  "forms": "findet heraus, fand heraus, hat herausgefunden",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w1128": {
+  "aux": "hat",
+  "p2": "heruntergeladen",
+  "forms": "lädt herunter, lud herunter, hat heruntergeladen",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w1254": {
+  "aux": "ist",
+  "p2": "kaputtgegangen",
+  "forms": "geht kaputt, ging kaputt, ist kaputtgegangen",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w1255": {
+  "aux": "hat",
+  "p2": "kaputtgemacht",
+  "forms": "macht kaputt, machte kaputt, hat kaputtgemacht",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w1276": {
+  "aux": "hat",
+  "p2": "kennengelernt",
+  "forms": "lernt kennen, lernte kennen, hat kennengelernt",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w1347": {
+  "aux": "hat",
+  "p2": "kopiert",
+  "forms": "kopiert, kopierte, hat kopiert",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w1413": {
+  "aux": "hat",
+  "p2": "gelacht",
+  "forms": "lacht, lachte, hat gelacht",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w1422": {
+  "aux": "ist",
+  "p2": "gelandet",
+  "forms": "landet, landete, ist gelandet",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w1441": {
+  "aux": "hat",
+  "p2": "gelebt",
+  "forms": "lebt, lebte, hat gelebt",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w1448": {
+  "aux": "hat",
+  "p2": "gelegt",
+  "forms": "legt, legte, hat gelegt",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w1465": {
+  "aux": "hat",
+  "p2": "gelernt",
+  "forms": "lernt, lernte, hat gelernt",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w1479": {
+  "aux": "hat",
+  "p2": "geliefert",
+  "forms": "liefert, lieferte, hat geliefert",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息；例句被截断",
+  "ex": [
+   "Wir liefern Ihnen das Regal direkt ins Haus."
+  ]
+ },
+ "w1482": {
+  "aux": "hat",
+  "p2": "gelegen",
+  "forms": "liegt, lag, hat gelegen",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w1642": {
+  "aux": "hat",
+  "p2": "nachgeschlagen",
+  "forms": "schlägt nach, schlug nach, hat nachgeschlagen",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w1651": {
+  "aux": "hat",
+  "p2": "genäht",
+  "forms": "näht, nähte, hat genäht",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w1702": {
+  "aux": "hat",
+  "p2": "notiert",
+  "forms": "notiert, notierte, hat notiert",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w1763": {
+  "aux": "hat",
+  "p2": "geparkt",
+  "forms": "parkt, parkte, hat geparkt",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w1833": {
+  "aux": "hat",
+  "p2": "präsentiert",
+  "forms": "präsentiert, präsentierte, hat präsentiert",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w1858": {
+  "aux": "hat",
+  "p2": "geprüft",
+  "forms": "prüft, prüfte, hat geprüft",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息；例句被截断",
+  "ex": [
+   "Bitte prüfen Sie sofort, ob die Lieferung vollständig ist."
+  ],
+  "ex_zh": "请您立刻核对货是否到齐。"
+ },
+ "w1911": {
+  "aux": "hat",
+  "p2": "geregnet",
+  "forms": "regnet, regnete, hat geregnet",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w2006": {
+  "aux": "hat",
+  "p2": "zugeschaut",
+  "forms": "schaut zu, schaute zu, hat zugeschaut",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w2049": {
+  "aux": "hat",
+  "p2": "geschneit",
+  "forms": "schneit, schneite, hat geschneit",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w2061": {
+  "aux": "hat",
+  "p2": "aufgeschrieben",
+  "forms": "schreibt auf, schrieb auf, hat aufgeschrieben",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w2114": {
+  "aux": "hat",
+  "p2": "gesendet",
+  "forms": "sendet, sendete, hat gesendet",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w2131": {
+  "aux": "hat",
+  "p2": "gesungen",
+  "forms": "singt, sang, hat gesungen",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w2138": {
+  "aux": "hat",
+  "p2": "gesessen",
+  "forms": "sitzt, saß, hat gesessen",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息；例句被截断",
+  "ex": [
+   "Wo möchten Sie sitzen? – Bitte ganz hinten."
+  ]
+ },
+ "w2153": {
+  "aux": "hat",
+  "p2": "gesollt",
+  "forms": "soll, sollte, hat gesollt",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息；情态动词",
+  "use": {
+   "tip": "ich soll, du sollst；sollen = 别人要求；接不定式时完成时用 hat … sollen"
+  }
+ },
+ "w2172": {
+  "aux": "hat",
+  "p2": "gespart",
+  "forms": "spart, sparte, hat gespart",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w2178": {
+  "aux": "ist",
+  "p2": "spazieren gegangen",
+  "forms": "geht spazieren, ging spazieren, ist spazieren gegangen",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w2233": {
+  "aux": "hat",
+  "p2": "gestanden",
+  "forms": "steht, stand, hat gestanden",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w2234": {
+  "aux": "ist",
+  "p2": "stehen geblieben",
+  "forms": "bleibt stehen, blieb stehen, ist stehen geblieben",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w2242": {
+  "aux": "ist",
+  "p2": "gestorben",
+  "forms": "stirbt, starb, ist gestorben",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w2329": {
+  "aux": "ist",
+  "p2": "getaucht",
+  "forms": "taucht, tauchte, ist getaucht",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w2367": {
+  "aux": "hat",
+  "p2": "getippt",
+  "forms": "tippt, tippte, hat getippt",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w2402": {
+  "aux": "hat",
+  "p2": "getrieben",
+  "forms": "treibt, trieb, hat getrieben",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w2408": {
+  "aux": "ist",
+  "p2": "getreten",
+  "forms": "tritt, trat, ist getreten",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w2413": {
+  "aux": "hat",
+  "p2": "getrocknet",
+  "forms": "trocknet, trocknete, hat getrocknet",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w2425": {
+  "aux": "hat",
+  "p2": "geübt",
+  "forms": "übt, übte, hat geübt",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w2472": {
+  "aux": "ist",
+  "p2": "umgezogen",
+  "forms": "zieht um, zog um, ist umgezogen",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w2807": {
+  "aux": "hat",
+  "p2": "gezogen",
+  "forms": "zieht, zog, hat gezogen",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w2865": {
+  "aux": "hat",
+  "p2": "abgeschlossen",
+  "forms": "schließt ab, schloss ab, hat abgeschlossen",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w2872": {
+  "aux": "hat",
+  "p2": "sich angemeldet",
+  "forms": "meldet sich an, meldete sich an, hat sich angemeldet",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w2934": {
+  "aux": "hat",
+  "p2": "sich gefreut",
+  "forms": "freut sich, freute sich, hat sich gefreut",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w2971": {
+  "aux": "ist",
+  "p2": "gejoggt",
+  "forms": "joggt, joggte, ist gejoggt",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w3042": {
+  "aux": "hat",
+  "p2": "gesurft",
+  "forms": "surft, surfte, hat gesurft",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w3051": {
+  "aux": "hat",
+  "p2": "sich getroffen",
+  "forms": "trifft sich, traf sich, hat sich getroffen",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w3083": {
+  "aux": "hat",
+  "p2": "gewünscht",
+  "forms": "wünscht, wünschte, hat gewünscht",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w3089": {
+  "aux": "hat",
+  "p2": "angekreuzt",
+  "forms": "kreuzt an, kreuzte an, hat angekreuzt",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w3090": {
+  "aux": "hat",
+  "p2": "angemacht",
+  "forms": "macht an, machte an, hat angemacht",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w3098": {
+  "aux": "hat",
+  "p2": "bestellt",
+  "forms": "bestellt, bestellte, hat bestellt",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息；例句串进了别的词",
+  "ex": [
+   "Wir möchten bestellen, bitte.",
+   "Dieses Buch haben wir nicht – sollen wir es für Sie bestellen?"
+  ],
+  "ex_zh": "我们想点菜。"
+ },
+ "w3112": {
+  "aux": "ist",
+  "p2": "abgeflogen",
+  "forms": "fliegt ab, flog ab, ist abgeflogen",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w3134": {
+  "aux": "hat",
+  "p2": "mitgebracht",
+  "forms": "bringt mit, brachte mit, hat mitgebracht",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w3135": {
+  "aux": "ist",
+  "p2": "mitgekommen",
+  "forms": "kommt mit, kam mit, ist mitgekommen",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w3136": {
+  "aux": "hat",
+  "p2": "mitgemacht",
+  "forms": "macht mit, machte mit, hat mitgemacht",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w3137": {
+  "aux": "hat",
+  "p2": "mitgenommen",
+  "forms": "nimmt mit, nahm mit, hat mitgenommen",
+  "_note": "Wiktionary 核对 11-17：补 Perfekt 信息"
+ },
+ "w0233": {
+  "art": "die",
+  "pl_full": "die S-Bahnen",
+  "_note": "Wiktionary 核对 11-17：补冠词"
+ },
+ "w0577": {
+  "art": "der",
+  "pl_full": "die Ehemänner",
+  "_note": "Wiktionary 核对 11-17：补冠词"
+ },
+ "w0796": {
+  "art": "die",
+  "lemma": "Ferien (Pl.)",
+  "pl_full": "die Ferien",
+  "_note": "Wiktionary 核对 11-17：补冠词"
+ },
+ "w1035": {
+  "art": "das",
+  "use": {
+   "tip": "运动是 das Golf；der Golf 是海湾，Golf 也是大众车型"
+  },
+  "_note": "Wiktionary 核对 11-17：补冠词"
+ },
+ "w1093": {
+  "art": "die",
+  "pl_full": "die Hauptstädte",
+  "_note": "Wiktionary 核对 11-17：补冠词"
+ },
+ "w1379": {
+  "art": "die",
+  "_note": "Wiktionary 核对 11-17：补冠词"
+ },
+ "w1697": {
+  "art": "die",
+  "pl_full": "die Notaufnahmen",
+  "_note": "Wiktionary 核对 11-17：补冠词"
+ },
+ "w1881": {
+  "art": "der",
+  "pl_full": "die Ratschläge",
+  "_note": "Wiktionary 核对 11-17：补冠词"
+ },
+ "w1963": {
+  "art": "die",
+  "pl_full": "die Rückfahrten",
+  "_note": "Wiktionary 核对 11-17：补冠词"
+ },
+ "w2156": {
+  "art": "das",
+  "pl_full": "die Sonderangebote",
+  "_note": "Wiktionary 核对 11-17：补冠词"
+ },
+ "w2182": {
+  "art": "die",
+  "pl_full": "die Speisen",
+  "_note": "Wiktionary 核对 11-17：补冠词"
+ },
+ "w2613": {
+  "art": "die",
+  "_note": "Wiktionary 核对 11-17：补冠词"
+ },
+ "w2626": {
+  "art": "der",
+  "pl_full": "die Volleybälle",
+  "_note": "Wiktionary 核对 11-17：补冠词"
+ },
+ "w2867": {
+  "art": "die",
+  "_note": "Wiktionary 核对 11-17：补冠词"
+ },
+ "w2414": {
+  "art": "der",
+  "_note": "Wiktionary 核对 11-17：冠词错（der Tropfen，复数 die Tropfen）"
+ },
+ "w0086": {
+  "p2": "angehabt",
+  "_note": "Wiktionary 核对 11-17：Partizip II"
+ },
+ "w2640": {
+  "p2": "vorgehabt",
+  "_note": "Wiktionary 核对 11-17：Partizip II"
+ },
+ "w0559": {
+  "p2": "gedurft",
+  "forms": "darf, durfte, hat gedurft",
+  "use": {
+   "tip": "nicht dürfen = 禁止；“不必”是 nicht müssen；接不定式时完成时用 hat … dürfen"
+  },
+  "_note": "Wiktionary 核对 11-17：Partizip II 被截断"
+ },
+ "w1335": {
+  "p2": "gekonnt",
+  "forms": "kann, konnte, hat gekonnt",
+  "use": {
+   "tip": "情态动词：ich/er kann，单数不加词尾；接不定式时完成时用 hat … können"
+  },
+  "_note": "Wiktionary 核对 11-17：Partizip II 被截断"
+ },
+ "w1629": {
+  "p2": "gemusst",
+  "forms": "muss, musste, hat gemusst",
+  "use": {
+   "tip": "nicht müssen = 不必；“禁止”要用 nicht dürfen；接不定式时用 hat … müssen"
+  },
+  "_note": "Wiktionary 核对 11-17：Partizip II 被截断；例句被截断",
+  "ex": [
+   "Wie lange müssen Sie arbeiten?"
+  ]
+ },
+ "w2763": {
+  "p2": "gewollt",
+  "forms": "will, wollte, hat gewollt",
+  "use": {
+   "tip": "will, willst, will；比 möchten 语气直接；接不定式时用 hat … wollen"
+  },
+  "_note": "Wiktionary 核对 11-17：Partizip II 被截断"
+ },
+ "w0805": {
+  "p2": "festgenommen",
+  "forms": "nimmt fest, nahm fest, hat festgenommen",
+  "_note": "Wiktionary 核对 11-17：末尾多了句号"
+ },
+ "w2436": {
+  "p2": "übernommen",
+  "forms": "übernimmt, übernahm, hat übernommen",
+  "_note": "Wiktionary 核对 11-17：末尾多了句号"
+ },
+ "w1044": {
+  "p2": "gegrillt",
+  "forms": "grillt, grillte, hat gegrillt",
+  "_note": "Wiktionary 核对 11-17：Partizip II 被截断"
+ },
+ "w0034": {
+  "p2": "geachtet",
+  "forms": "achtet, achtete, hat geachtet",
+  "_note": "Wiktionary 核对 11-17：Partizip II 多了 (auf)"
+ },
+ "w0728": {
+  "p2": "erschrocken",
+  "forms": "erschrickt, erschrak, ist erschrocken",
+  "_note": "Wiktionary 核对 11-17：Partizip II 混了两种用法"
+ },
+ "y1465": {
+  "p2": "debuggt",
+  "forms": "debuggt, debuggte, hat debuggt",
+  "use": {
+   "tip": "口语为主；第二分词 debuggt（口语也说 gedebuggt）"
+  },
+  "_note": "Wiktionary 核对 11-17：Partizip II（Duden：debuggt）"
+ },
+ "y3401": {
+  "forms": "erhält aufrecht, erhielt aufrecht, hat aufrechterhalten",
+  "use": {
+   "tip": "aufrecht + erhalten：er erhält … aufrecht；名词 die Aufrechterhaltung"
+  },
+  "_note": "Wiktionary 核对 11-17：变位错（aufrecht + erhalten）"
+ },
+ "w1455": {
+  "lemma": "leidtun",
+  "use": {
+   "tip": "es tut mir leid：人用 3 格；2006 年起连写 leidtun"
+  },
+  "_note": "Wiktionary 核对 11-17：新正字法连写"
+ },
+ "w1783": {
+  "lemma": "pensioniert werden/sein",
+  "_note": "Wiktionary 核对 11-17：lemma 截断"
+ },
+ "w2904": {
+  "lemma": "da(r)- (z. B. darauf)",
+  "_note": "Wiktionary 核对 11-17：lemma 截断"
+ },
+ "w2940": {
+  "lemma": "Geburts- (z. B. Geburtsjahr)",
+  "_note": "Wiktionary 核对 11-17：lemma 截断"
+ },
+ "w3075": {
+  "lemma": "wer (wen, wem)",
+  "_note": "Wiktionary 核对 11-17：lemma 截断"
+ },
+ "w3087": {
+  "lemma": "zurück- (z. B. zurückfahren)",
+  "_note": "Wiktionary 核对 11-17：lemma 截断"
+ },
+ "w1536": {
+  "_drop": true,
+  "_note": "Wiktionary 核对 11-17：奥地利/瑞士用语（德国说 Abitur），按词库规则不收"
+ },
+ "w1717": {
+  "_drop": true,
+  "_note": "Wiktionary 核对 11-17：和 w2998 Obst 重复"
+ },
+ "w2891": {
+  "_drop": true,
+  "_note": "Wiktionary 核对 11-17：lemma 坏了（der/die），和 w0299/w3096 Bekannte 重复"
+ },
+ "w3105": {
+  "_drop": true,
+  "_note": "Wiktionary 核对 11-17：和 w2911 Durst 重复，例句串了下一个词"
+ },
+ "w3094": {
+  "ex": [
+   "Hier ist mein Ausweis."
+  ],
+  "ex_zh": "这是我的身份证。",
+  "_note": "Wiktionary 核对 11-17：例句串进了别的词"
+ },
+ "w3114": {
+  "ex": [
+   "Das weiß ich nicht; ich bin fremd hier."
+  ],
+  "ex_zh": "这个我不知道，我对这里不熟。",
+  "_note": "Wiktionary 核对 11-17：例句串进了别的词"
+ },
+ "w3126": {
+  "ex": [
+   "Ich bin kulturell interessiert. Ich gehe oft ins Museum."
+  ],
+  "ex_zh": "我对文化感兴趣，常去博物馆。",
+  "_note": "Wiktionary 核对 11-17：例句串进了别的词"
+ },
+ "w3127": {
+  "ex": [
+   "Morgen ist der letzte Kurstag."
+  ],
+  "ex_zh": "明天是课程的最后一天。",
+  "_note": "Wiktionary 核对 11-17：例句串进了别的词"
+ },
+ "w3133": {
+  "ex": [
+   "Die meisten Norddeutschen sind sehr groß."
+  ],
+  "ex_zh": "大多数北德人个子很高。",
+  "zh": "大多数的；大部分",
+  "_note": "Wiktionary 核对 11-17：例句串进了别的词"
+ },
+ "w3138": {
+  "ex": [
+   "Sehen wir uns nächste Woche?"
+  ],
+  "ex_zh": "我们下周见面吗？",
+  "zh": "下一个的；最近的",
+  "_note": "Wiktionary 核对 11-17：例句串进了别的词"
+ },
+ "w3143": {
+  "ex": [
+   "Er ist selbstständig."
+  ],
+  "ex_zh": "他是自雇的（自己开业）。",
+  "_note": "Wiktionary 核对 11-17：例句串进了别的词"
+ },
+ "w3145": {
+  "ex": [
+   "Sein Vater ist schon lange tot."
+  ],
+  "ex_zh": "他父亲已经去世很久了。",
+  "_note": "Wiktionary 核对 11-17：例句串进了别的词"
+ },
+ "w3147": {
+  "ex": [
+   "Das ist unsere Lehrerin."
+  ],
+  "ex_zh": "这是我们的老师。",
+  "_note": "Wiktionary 核对 11-17：例句串进了别的词"
+ },
+ "w3148": {
+  "ex": [
+   "Vorsicht! Da kommt ein Auto."
+  ],
+  "ex_zh": "小心！有车来了。",
+  "_note": "Wiktionary 核对 11-17：例句串进了别的词"
+ },
+ "w3149": {
+  "ex": [
+   "Was für eine Farbe möchten Sie?"
+  ],
+  "ex_zh": "您想要什么颜色？",
+  "_note": "Wiktionary 核对 11-17：例句串进了别的词"
+ },
+ "w3151": {
+  "ex": [
+   "Welches Buch möchtest du?"
+  ],
+  "ex_zh": "你想要哪本书？",
+  "zh": "哪个；哪些",
+  "_note": "Wiktionary 核对 11-17：例句串进了别的词"
+ },
+ "w3104": {
+  "zh": "这个；这些",
+  "_note": "Wiktionary 核对 11-17：释义里混进了别的词"
+ },
+ "w0082": {
+  "ex": [
+   "Der Arzt darf nur Familienangehörigen Auskunft geben."
+  ],
+  "ex_zh": "医生只能向家属提供信息。",
+  "_note": "Wiktionary 核对 11-17：例句被截断"
+ },
+ "w0110": {
+  "ex": [
+   "Björn ist Angestellter in einem Reisebüro."
+  ],
+  "ex_zh": "比约恩是一家旅行社的职员。",
+  "_note": "Wiktionary 核对 11-17：例句被截断"
+ },
+ "w0224": {
+  "ex": [
+   "Diese Autorin hat in diesem Jahr schon zwei Bücher geschrieben."
+  ],
+  "_note": "Wiktionary 核对 11-17：例句被截断"
+ },
+ "w0361": {
+  "ex": [
+   "Der Betriebsrat wird Sie über die neuen Arbeitszeiten informieren."
+  ],
+  "_note": "Wiktionary 核对 11-17：例句被截断；释义不全/偏",
+  "zh": "职工委员会；职工委员"
+ },
+ "w0521": {
+  "ex": [
+   "Ich möchte gern mit dem Direktor sprechen."
+  ],
+  "_note": "Wiktionary 核对 11-17：例句被截断"
+ },
+ "w0586": {
+  "ex": [
+   "Ich bin sehr in Eile.",
+   "Das hat keine Eile."
+  ],
+  "_note": "Wiktionary 核对 11-17：例句被截断"
+ },
+ "w0703": {
+  "ex": [
+   "Bitte, erinnern Sie mich noch einmal an den Termin.",
+   "Ich erinnere mich noch genau an Francescos Vater."
+  ],
+  "_note": "Wiktionary 核对 11-17：例句被截断"
+ },
+ "w0725": {
+  "ex": [
+   "Die Eröffnung der neuen Oper ist am 1. Juni."
+  ],
+  "ex_zh": "新歌剧院 6 月 1 日开幕。",
+  "_note": "Wiktionary 核对 11-17：例句被截断"
+ },
+ "w1160": {
+  "ex": [
+   "Die Sendung hat viele Hörer und Hörerinnen."
+  ],
+  "_note": "Wiktionary 核对 11-17：例句被截断"
+ },
+ "w1230": {
+  "ex": [
+   "Meine Tochter möchte Journalistin werden."
+  ],
+  "_note": "Wiktionary 核对 11-17：例句被截断"
+ },
+ "w1319": {
+  "ex": [
+   "Ein Freund von mir ist Koch in einem teuren Restaurant."
+  ],
+  "_note": "Wiktionary 核对 11-17：例句被截断"
+ },
+ "w1410": {
+  "ex": [
+   "Ich hätte gern 50 Kuverts und Briefmarken dazu."
+  ],
+  "_note": "Wiktionary 核对 11-17：例句被截断"
+ },
+ "w1574": {
+  "ex": [
+   "Viele Migranten kommen aus Osteuropa."
+  ],
+  "_note": "Wiktionary 核对 11-17：例句被截断"
+ },
+ "w1643": {
+  "ex": [
+   "Nach dem Essen gab es noch eine leckere Nachspeise."
+  ],
+  "_note": "Wiktionary 核对 11-17：例句被截断"
+ },
+ "w1769": {
+  "ex": [
+   "Die Passagiere Schulz und Kaufmann sollen bitte zur Information kommen."
+  ],
+  "ex_zh": "请乘客舒尔茨和考夫曼到问讯处来。",
+  "_note": "Wiktionary 核对 11-17：例句被截断"
+ },
+ "w1774": {
+  "ex": [
+   "Ich bin Patientin bei Dr. Hausner. Ich möchte bitte einen Termin."
+  ],
+  "ex_zh": "我是豪斯纳医生的病人，我想预约。",
+  "_note": "Wiktionary 核对 11-17：例句被截断"
+ },
+ "w1820": {
+  "ex": [
+   "Die Ampel war kaputt. Ein Polizist hat den Verkehr geregelt."
+  ],
+  "_note": "Wiktionary 核对 11-17：例句被截断"
+ },
+ "w1847": {
+  "ex": [
+   "Unsere Nachbarin ist Professorin an der Universität."
+  ],
+  "_note": "Wiktionary 核对 11-17：例句被截断"
+ },
+ "w2102": {
+  "ex": [
+   "Der neue Sekretär hat sich gestern vorgestellt."
+  ],
+  "_note": "Wiktionary 核对 11-17：例句被截断"
+ },
+ "w2185": {
+  "ex": [
+   "Mein Arzt hat mich zur Spezialistin geschickt."
+  ],
+  "_note": "Wiktionary 核对 11-17：例句被截断"
+ },
+ "w2284": {
+  "ex": [
+   "Zehn Studierende besuchen das Seminar."
+  ],
+  "ex_zh": "十名大学生参加这门研讨课。",
+  "_note": "Wiktionary 核对 11-17：例句被截断"
+ },
+ "w2804": {
+  "ex": [
+   "Die Polizei sucht noch Zeugen für den Unfall."
+  ],
+  "_note": "Wiktionary 核对 11-17：例句被截断"
+ },
+ "w0299": {
+  "ex": [
+   "In Hannover wohnen Bekannte von mir."
+  ],
+  "ex_zh": "汉诺威住着我的一些熟人。",
+  "_note": "Wiktionary 核对 11-17：例句被截断"
+ },
+ "w0444": {
+  "ex": [
+   "Gibt es diesen Buchstaben auch in deiner Muttersprache?"
+  ],
+  "_note": "Wiktionary 核对 11-17：例句被截断"
+ },
+ "w0763": {
+  "ex": [
+   "Fahrkarten bekommt man am Automaten."
+  ],
+  "ex_zh": "车票可以在自动售票机上买。",
+  "_note": "Wiktionary 核对 11-17：例句被截断"
+ },
+ "w1207": {
+  "ex": [
+   "Ich habe viele Interessen: Sport, Lesen, Handarbeit, Tanzen."
+  ],
+  "_note": "Wiktionary 核对 11-17：例句被截断"
+ },
+ "w1233": {
+  "ex": [
+   "Die Jugendlichen gehen gerne in die Disko."
+  ],
+  "ex_zh": "年轻人喜欢去迪厅。",
+  "_note": "Wiktionary 核对 11-17：例句被截断"
+ },
+ "w1259": {
+  "ex": [
+   "Schreibst du mir eine Karte aus dem Urlaub?"
+  ],
+  "_note": "Wiktionary 核对 11-17：例句被截断"
+ },
+ "w1394": {
+  "ex": [
+   "Sie ist schon lange bei mir Kundin. Ich habe ihr einen Sonderpreis gegeben."
+  ],
+  "_note": "Wiktionary 核对 11-17：例句被截断"
+ },
+ "w1714": {
+  "ex": [
+   "Wir wohnen oben im Dachgeschoss."
+  ],
+  "ex_zh": "我们住在楼上的阁楼层。",
+  "_note": "Wiktionary 核对 11-17：例句被截断"
+ },
+ "w2099": {
+  "ex": [
+   "Wir wohnen seit dem 1. März in Dortmund."
+  ],
+  "ex_zh": "我们从 3 月 1 日起住在多特蒙德。",
+  "_note": "Wiktionary 核对 11-17：例句被截断"
+ },
+ "w2282": {
+  "ex": [
+   "Schüler und Studenten zahlen die Hälfte."
+  ],
+  "_note": "Wiktionary 核对 11-17：例句被截断"
+ },
+ "w2349": {
+  "ex": [
+   "Als Termin schlage ich den 3. Mai vor."
+  ],
+  "ex_zh": "我建议把日期定在 5 月 3 日。",
+  "_note": "Wiktionary 核对 11-17：例句被截断"
+ },
+ "w2385": {
+  "ex": [
+   "Es kommen immer mehr Touristen in unsere Stadt."
+  ],
+  "_note": "Wiktionary 核对 11-17：例句被截断"
+ },
+ "w2487": {
+  "ex": [
+   "Wir wohnen im zweiten Stock, meine Eltern unten im Erdgeschoss."
+  ],
+  "ex_zh": "我们住在三楼，我父母住在楼下的一楼。",
+  "_note": "Wiktionary 核对 11-17：例句被截断"
+ },
+ "w1012": {
+  "zh": "习惯（于）",
+  "_note": "Wiktionary 核对 11-17：释义不全/偏"
+ },
+ "y0988": {
+  "zh": "紧张（关系）；悬念；电压",
+  "_note": "Wiktionary 核对 11-17：释义不全/偏"
+ },
+ "y1284": {
+  "zh": "放入；腌制；提出（异议、上诉）",
+  "_note": "Wiktionary 核对 11-17：释义不全/偏"
+ },
+ "w2337": {
+  "zh": "零件；（单个）物件",
+  "use": {
+   "tip": "表示「部分」一般用 der Teil（der größte Teil）；das Teil 多指零件、东西"
+  },
+  "_note": "Wiktionary 核对 11-17：释义不全/偏"
+ },
+ "w0629": {
+  "zh": "入场；入场费；加入",
+  "_note": "Wiktionary 核对 11-17：释义不全/偏"
+ },
+ "w2652": {
+  "zh": "演出（场次）；想象；介绍",
+  "use": {
+   "senses": [
+    "演出场次",
+    "想象，概念",
+    "（自我）介绍；求职面试（Vorstellungsgespräch）"
+   ]
+  },
+  "_note": "Wiktionary 核对 11-17：释义不全/偏"
+ },
+ "w0413": {
+  "zh": "大使馆；信息",
+  "_note": "Wiktionary 核对 11-17：释义不全/偏"
+ },
+ "w2582": {
+  "zh": "泄露；出卖",
+  "_note": "Wiktionary 核对 11-17：释义不全/偏"
+ },
+ "w0018": {
+  "zh": "取下；减肥；接（电话）",
+  "_note": "Wiktionary 核对 11-17：释义不全/偏"
+ },
+ "w0109": {
+  "zh": "打开（机器）；雇用；排队（sich ~）",
+  "use": {
+   "senses": [
+    "雇用",
+    "打开（机器）",
+    "排队（sich anstellen）",
+    "做（蠢事）"
+   ]
+  },
+  "_note": "Wiktionary 核对 11-17：释义不全/偏"
+ },
+ "w0470": {
+  "zh": "在场；随身带着；同时",
+  "_note": "Wiktionary 核对 11-17：释义不全/偏"
+ },
+ "w2013": {
+  "zh": "纸币；证明；光；表象",
+  "use": {
+   "senses": [
+    "纸币",
+    "证书；证明",
+    "光（Sonnenschein）",
+    "表象，外表（Der Schein trügt.）"
+   ]
+  },
+  "_note": "Wiktionary 核对 11-17：释义不全/偏"
+ },
+ "w1880": {
+  "zh": "建议；委员会",
+  "_note": "Wiktionary 核对 11-17：释义不全/偏"
+ },
+ "w0182": {
+  "zh": "表达；用语；打印件",
+  "_note": "Wiktionary 核对 11-17：释义不全/偏"
+ },
+ "w0566": {
+  "zh": "刚刚；平坦的；就是（语气）",
+  "_note": "Wiktionary 核对 11-17：释义不全/偏"
+ },
+ "w3024": {
+  "zh": "海；大海",
+  "_note": "Wiktionary 核对 11-17：释义不全/偏"
+ },
+ "w0410": {
+  "zh": "（一张）纸；表格；弧形",
+  "_note": "Wiktionary 核对 11-17：释义不全/偏"
+ }
 }

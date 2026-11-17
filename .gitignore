@@ -21,3 +21,6 @@ audio_listen/
 data/existing_lemmas.txt
 exam_inbox/
 exam_private/
+
+# Wiktionary 抽取数据（kaikki.org，CC BY-SA），核对词库用，不进仓库
+wiktionary/

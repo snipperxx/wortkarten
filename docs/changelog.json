@@ -1,6 +1,15 @@
 [
  {
   "date": "2026-11-17",
+  "version": "2026-11-17.6",
+  "items": [
+   "用 Wiktionary 逐词核对了词库，修正 175 处：72 个动词补上了 Perfekt 助动词和 Partizip II（fahren、finden、lernen、liegen、sitzen、stehen、sterben 等，现在 haben/sein 练习里也会出）；14 个名词补上冠词（S-Bahn、Hauptstadt、Ratschlag、Sonderangebot 等），der Tropfen 的冠词改正。",
+   "修好了 Goethe 词表解析留下的残缺：41 条只有半句的例句补全；A1 里 14 条例句串进了别的词的句子（nächst-、meist-、welch- 的释义也因此多出了「名字」「人」「世界」）；情态动词、festnehmen、übernehmen 等的 Partizip II 改正；aufrechterhalten 的变位改为 erhält … aufrecht；leid tun 改为新正字法 leidtun。",
+   "18 个词的中文释义补上漏掉的主要义项，例如 Vorstellung（演出；想象；介绍）、verraten（泄露；出卖）、sich gewöhnen（习惯于）、Spannung（紧张；悬念；电压）。删掉 4 个重复或奥地利用语的词条。"
+  ]
+ },
+ {
+  "date": "2026-11-17",
   "version": "2026-11-17.5",
   "items": [
    "新页面「考试」：按歌德证书 A1–B2 的模块（Lesen / Hören / Schreiben / Sprechen）和 Teil 组织。可以分题型练习（每次抽一道），也可以做整套：按套做，或者每个 Teil 随机抽题凑成一套。整套模式计时，听力按考试规定限制遍数。",
