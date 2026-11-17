@@ -329,6 +329,86 @@ h3 { font: 600 16px var(--f-word); margin: 18px 0 8px; }
 .links a { color: var(--der); font-weight: 500; }
 .opt.sel { border-color: var(--ink); box-shadow: inset 0 0 0 1px var(--ink); }
 @media (min-width: 1100px) { .narrow { display: none; } }
+/* 单词页居中（2026-11-17）：单词 → 例句 → 四格选项 → 解析，按键提示固定在页面底部 */
+.stage.solo { display: block; max-width: 820px; margin: 0 auto; }
+.card.q { text-align: center; }
+.card.q .qtype { justify-content: center; flex-wrap: wrap; }
+.card.q .word, .card.q .hidden-word { justify-content: center; }
+.card.q .opts { grid-template-columns: 1fr 1fr; max-width: 660px; margin: 22px auto 0; }
+.card.q .opts.three { grid-template-columns: repeat(3, 1fr); max-width: 540px; }
+.card.q .opt { justify-content: center; align-items: center; text-align: center; position: relative; padding-left: 36px; padding-right: 36px; min-height: 60px; }
+.card.q .opt kbd { position: absolute; left: 10px; top: 50%; transform: translateY(-50%); }
+.card.q .opt .mark { position: absolute; right: 12px; top: 50%; transform: translateY(-50%); margin: 0; }
+.card.q .opt.big { padding: 16px 36px; }
+.card.q .actions { justify-content: center; }
+.card.q .spell { max-width: 560px; margin: 20px auto 0; text-align: left; }
+.card.q .below { text-align: left; max-width: 660px; margin: 0 auto; }
+.exl { font: 400 20px/1.55 var(--f-word); margin: 12px auto 0; max-width: 660px; overflow-wrap: anywhere; }
+.exl mark { background: linear-gradient(transparent 55%, var(--marker) 55%); color: inherit; font-weight: 600; padding: 0 1px; }
+.exl button { border: 0; background: none; color: var(--muted); font-size: 14px; padding: 0 4px; }
+.exl .zh { font: 14px/1.5 var(--f-ui); color: var(--muted); margin-top: 4px; }
+.peek { font: 500 20px/1.4 var(--f-ui); margin-top: 8px; }
+.kchip { font: 500 11px var(--f-ui); letter-spacing: 0; text-transform: none; color: var(--die); border: 1px solid currentColor; border-radius: 999px; padding: 1px 8px; }
+.histnote { font-size: 13px; color: var(--muted); background: var(--soft); border-radius: 8px; padding: 6px 12px; margin: 0 auto 10px; display: inline-block; }
+.gear { border: 1px solid var(--line); background: var(--card); border-radius: 6px; padding: 3px 10px; font-size: 13px; color: var(--ink); }
+@media (min-width: 1100px) { .stage.solo .inline-detail { display: block; } .stage.solo .word { font-size: 58px; } }
+@media (max-width: 340px) { .card.q .opts { grid-template-columns: 1fr; } }
+@media (pointer: coarse) { .card.q .opt { padding-left: 22px; padding-right: 22px; } }
+@media (max-width: 520px) { .card.q .opts { gap: 8px; } .card.q .opt { padding: 10px 14px; } .card.q .opt .mark { right: 5px; } .card.q .opt.de .t { font-size: 16px; } }
+.keybar { position: fixed; left: 0; right: 0; bottom: 0; z-index: 40; display: flex; justify-content: center; align-items: center; gap: 8px; flex-wrap: wrap;
+  padding: 10px max(12px, env(safe-area-inset-right, 0px)) max(10px, env(safe-area-inset-bottom, 0px)) max(12px, env(safe-area-inset-left, 0px));
+  background: color-mix(in srgb, var(--bg) 90%, transparent); backdrop-filter: blur(6px); border-top: 1px solid var(--line); }
+.keybar button { white-space: nowrap; min-width: 0; border: 1px solid var(--line); background: var(--card); border-radius: 10px; padding: 8px 14px; display: inline-flex; gap: 8px; align-items: center; justify-content: center; font-size: 14px; }
+.keybar button:disabled { opacity: .45; cursor: default; }
+.keybar kbd { font: 600 12px var(--f-mono); border: 1px solid var(--line); border-radius: 4px; padding: 0 6px; background: var(--soft); }
+.keybar .kbx { color: var(--muted); font-size: 12px; }
+body.haskb .wrap { padding-bottom: 100px; }
+body.haskb .toast { bottom: calc(76px + env(safe-area-inset-bottom, 0px)); }
+@media (max-width: 640px) { .keybar .kbx { display: none; } .keybar button { flex: 1; padding: 8px 6px; } }
+@media (pointer: coarse) { .keybar kbd, .keybar .kbx { display: none; } .keybar button { flex: 1; padding: 13px 8px; font-size: 16px; } }
+@media (pointer: coarse) and (max-width: 520px) { .keybar { gap: 5px; } .keybar button { padding: 12px 2px; font-size: 14px; } }
+/* 日历 */
+.calwrap { display: grid; gap: 14px; }
+@media (min-width: 1100px) { .calwrap { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); align-items: start; } .dayp { position: sticky; top: 12px; max-height: calc(100vh - 24px); overflow-y: auto; } }
+.calhead { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.calhead h2 { font: 600 22px var(--f-word); margin: 0 6px; }
+.calhead .nb { border: 1px solid var(--line); background: var(--soft); border-radius: 8px; width: 38px; height: 38px; font-size: 18px; padding: 0; }
+.calhead .btn { margin-left: auto; padding: 6px 14px; }
+.calgrid { display: grid; grid-template-columns: repeat(7, minmax(0, 1fr)); gap: 4px; margin-top: 10px; }
+.calgrid .wd { text-align: center; font-size: 12px; color: var(--muted); padding: 4px 0; }
+.cd { border: 1px solid var(--line); background: var(--card); border-radius: 8px; min-height: 70px; padding: 5px 6px; display: flex; flex-direction: column; align-items: flex-start; gap: 1px; font-size: 11px; line-height: 1.3; color: var(--muted); text-align: left; min-width: 0; overflow: hidden; }
+.cd b { font: 600 14px var(--f-ui); color: var(--ink); }
+.cd.blank { border: 0; background: none; }
+.cd.l1 { background: color-mix(in srgb, var(--das) 10%, var(--card)); }
+.cd.l2 { background: color-mix(in srgb, var(--das) 22%, var(--card)); }
+.cd.l3 { background: color-mix(in srgb, var(--das) 38%, var(--card)); }
+.cd .due { color: var(--der); }
+.cd.today { box-shadow: inset 0 0 0 2px var(--marker); }
+.cd.sel { border-color: var(--ink); }
+.cd.sel:not(.today) { box-shadow: inset 0 0 0 1px var(--ink); }
+@media (max-width: 520px) { .cd { min-height: 46px; padding: 4px; } .cd span { display: none; } .cd.hasdue b::after { content: " •"; color: var(--der); } }
+.dayp h2 { font: 600 22px var(--f-word); margin: 0 0 2px; }
+.dayp h3 { margin: 16px 0 2px; }
+.crow { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.2fr) auto; gap: 4px 12px; padding: 10px 0; border-top: 1px solid var(--line); align-items: baseline; }
+.crow .w { font: 16px var(--f-word); cursor: pointer; min-width: 0; overflow-wrap: anywhere; }
+.crow .m { color: var(--muted); font-size: 14px; min-width: 0; }
+.crow .res { font-size: 13px; white-space: nowrap; }
+.crow .ced { grid-column: 1 / -1; display: flex; flex-wrap: wrap; gap: 6px 8px; align-items: center; font-size: 13px; color: var(--muted); }
+.crow input[type=date] { font: inherit; background: var(--soft); color: var(--ink); border: 1px solid var(--line); border-radius: 6px; padding: 3px 6px; }
+.cbtns { display: inline-flex; gap: 6px; margin-left: auto; flex-wrap: wrap; }
+.cbtns button { border: 1px solid var(--line); background: var(--soft); border-radius: 8px; padding: 4px 10px; font-size: 13px; }
+.cbtns button[aria-pressed="true"] { background: var(--ink); color: var(--card); border-color: var(--ink); }
+.cadd { display: grid; gap: 6px; margin-top: 12px; }
+.cadd input { font: inherit; background: var(--soft); color: var(--ink); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; }
+.cadd .r { display: flex; gap: 10px; align-items: baseline; padding: 4px 0; }
+.cadd .r .w { font-family: var(--f-word); }
+.cadd .r .m { color: var(--muted); font-size: 13px; flex: 1; min-width: 0; }
+.cadd .r button { border: 1px solid var(--line); background: var(--soft); border-radius: 8px; padding: 3px 10px; font-size: 13px; }
+.wset { display: grid; gap: 12px; }
+.wset label { display: grid; gap: 4px; font-size: 14px; }
+.wset select, .wset input[type=number] { font: inherit; background: var(--soft); color: var(--ink); border: 1px solid var(--line); border-radius: 8px; padding: 8px; max-width: 100%; }
+.wset input[type=checkbox] { width: auto; flex: none; margin: 0; }
+.wset .plan { background: var(--soft); border-radius: 8px; padding: 8px 12px; font-size: 14px; }
 </style>
 </head>
 <body>
@@ -337,6 +417,7 @@ h3 { font: 600 16px var(--f-word); margin: 18px 0 8px; }
     <div class="brand"><span>Wortkarten</span></div>
     <nav id="nav">
       <button data-v="learn" aria-current="page">单词</button>
+      <button data-v="cal">日历</button>
       <button data-v="grammar">语法</button>
       <button data-v="listen">听力</button>
       <button data-v="place">摸底</button>
@@ -369,15 +450,16 @@ const LS = "wortkarten", LS_SYNC = "wortkarten-sync", LS_DEV = "wortkarten-devic
 const S = {
   words: [], byId: new Map(), byPos: {},
   prog: {},            // id -> [box, dueDay, lapses, 修改时间ms]
-  settings: { deck: "B1", newPerDay: 20, rate: 0.95, voice: "", autoplay: true, autoNext: true, sfx: true, spellNew: true, spellReview: true, similar: true },
+  settings: { deck: "B1", newPerDay: 20, reviewRatio: 0, rate: 0.95, voice: "", autoplay: true, autoNext: true, sfx: true, spellNew: true, spellReview: true, similar: true },
   settingsAt: 0,
   daily: {},           // day -> { 设备id: {n: 新学, r: 复习, g: 语法题, l: 听力篇} }
   gram: {},            // 语法课 id -> {s: 最好成绩%, last: 上次%, n: 做过几遍, t: 修改时间}
   gx: {},              // 做错的语法题 "g012.3" -> [盒, 到期日, 修改时间]
   lis: {},             // 听力 id -> {s: 最好成绩%, last, d: 听写正确率%, t}
+  wlog: {},            // day -> { 词id: [0 新学 / 1 复习, 结果 0 不认识 / 1 认识 / 2 斩 1/2 / 3 永久斩 / -1 已删, 修改时间ms] }（日历用，2026-11-17 起）
   resetAt: 0,
   view: "learn", session: null, place: null, lastAnswered: null,
-  browse: { q: "", deck: "ALL", st: "", shown: 60 },
+  browse: { q: "", deck: "ALL", st: "", shown: 60 }, cal: null, wsetDirty: false,
 };
 
 const today = () => { const d = new Date(); return Math.floor((d - d.getTimezoneOffset() * 6e4) / 864e5); };
@@ -432,7 +514,7 @@ async function sayWord(w) {
 const PLAY = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9v6h4l5 4V5L8 9H4zm12.5 3a4.5 4.5 0 0 0-2.5-4v8a4.5 4.5 0 0 0 2.5-4zM14 3.2v2.1a7 7 0 0 1 0 13.4v2.1a9 9 0 0 0 0-17.6z"/></svg>';
 
 /* ---------- 本地存储 + 合并 ---------- */
-const snapshot = () => ({ v: 3, prog: S.prog, gram: S.gram, gx: S.gx, lis: S.lis, settings: S.settings, settingsAt: S.settingsAt, daily: S.daily, resetAt: S.resetAt });
+const snapshot = () => ({ v: 4, prog: S.prog, wlog: S.wlog, gram: S.gram, gx: S.gx, lis: S.lis, settings: S.settings, settingsAt: S.settingsAt, daily: S.daily, resetAt: S.resetAt });
 function upgradeDaily(daily) {          // v1 的 {n, r} → {legacy: {n, r}}
   const out = {};
   for (const [d, v] of Object.entries(daily || {})) out[d] = typeof v?.n === "number" ? { legacy: v } : v;
@@ -461,17 +543,37 @@ function merge(a, b) {
       for (const [k, v] of Object.entries(src)) { const t = ts(v) || 0; if (t < resetAt) continue; if (!out[k] || t > (ts(out[k]) || 0)) out[k] = v; }
     return out;
   };
+  // 日历明细：每天每个词取修改时间更新的那条
+  const wlog = {};
+  for (const src of [a.wlog || {}, b.wlog || {}])
+    for (const [d, ids] of Object.entries(src))
+      for (const [id, r] of Object.entries(ids || {})) {
+        if ((r[2] || 0) < resetAt) continue;
+        const day = (wlog[d] = wlog[d] || {});
+        if (!day[id] || (r[2] || 0) > (day[id][2] || 0)) day[id] = r;
+      }
   const newer = (b.settingsAt || 0) > (a.settingsAt || 0) ? b : a;
-  return { v: 3, prog, daily, resetAt, gram: keyed(a.gram, b.gram, v => v.t), gx: keyed(a.gx, b.gx, v => v[2]), lis: keyed(a.lis, b.lis, v => v.t),
+  return { v: 4, prog, wlog, daily, resetAt, gram: keyed(a.gram, b.gram, v => v.t), gx: keyed(a.gx, b.gx, v => v[2]), lis: keyed(a.lis, b.lis, v => v.t),
     settings: { ...a.settings, ...newer.settings }, settingsAt: Math.max(a.settingsAt || 0, b.settingsAt || 0) };
 }
 function adopt(d) {
   const m = merge(snapshot(), d || {});
   S.prog = m.prog; S.daily = m.daily; S.resetAt = m.resetAt; S.settings = { ...S.settings, ...m.settings }; S.settingsAt = m.settingsAt;
-  S.gram = m.gram; S.gx = m.gx; S.lis = m.lis;
+  S.gram = m.gram; S.gx = m.gx; S.lis = m.lis; S.wlog = m.wlog;
 }
 function saveLocal() { lsSet(LS, snapshot()); }
-function setProg(id, p) { S.prog[id] = [p[0], p[1], p[2] || 0, Date.now()]; }
+// p[4] = 第一次斩的日期（斩 1/2）；要换一天再斩一次才永久不出现
+function setProg(id, p) { S.prog[id] = p[4] != null && p[0] !== KILL ? [p[0], p[1], p[2] || 0, Date.now(), p[4]] : [p[0], p[1], p[2] || 0, Date.now()]; }
+// 日历明细：同一天同一个词只留一条；不加 force 时“不认识”不会被后面的“认识”覆盖、斩不会被普通结果覆盖
+function setLog(id, type, res, force, dn = today()) {
+  const day = (S.wlog[dn] = S.wlog[dn] || {}), cur = day[id];
+  if (cur && cur[1] >= 0) {
+    type = Math.min(cur[0], type);
+    if (!force && cur[1] === 0 && res === 1) res = 0;
+    if (!force && cur[1] >= 2 && res < 2) res = cur[1];
+  }
+  day[id] = [type, res, Date.now()];
+}
 function setSetting(k, v) { S.settings[k] = v; S.settingsAt = Date.now(); touch(); }
 function touch() { saveLocal(); scheduleSync(); }
 const dayTotal = d => Object.values(S.daily[d] || {}).reduce((t, c) => ({ n: t.n + (c.n || 0), r: t.r + (c.r || 0), g: t.g + (c.g || 0), l: t.l + (c.l || 0) }), { n: 0, r: 0, g: 0, l: 0 });
@@ -637,9 +739,16 @@ function buildSession() {
   const fresh = S.words.filter(w => deck.test(w) && !isLearning(w.id))
     .sort((a, b) => ((S.prog[b.id] ? 1 : 0) - (S.prog[a.id] ? 1 : 0)) || (hash(a.id) - hash(b.id)))  // 摸底标“不认识”的优先
     .slice(0, Math.max(0, S.settings.newPerDay - doneNew)).map(w => w.id);
-  const queue = due.map(id => { const ts = typesFor(S.byId.get(id)); return { id, type: ts[Math.random() * ts.length | 0], kind: "review" }; });
-  fresh.forEach(id => { const road = roadmap(S.byId.get(id)); queue.push({ id, type: road[0], kind: "new", stage: 0, road }); });
-  return { queue, total: queue.length, done: 0, wrong: new Set(), current: null, log: new Map(), group: [], groupNew: [], groupNo: 0, phase: "", spellQ: [], summary: null, combo: 0, best: 0 };
+  // 复习比例：每天复习上限 = 新词数 × 比例，复习和新词按比例穿插；不限（0）时复习全部放在新词前面
+  const ratio = S.settings.reviewRatio || 0;
+  const dueUse = ratio ? due.slice(0, Math.max(0, S.settings.newPerDay * ratio - dayTotal(d).r)) : due;
+  const revs = dueUse.map(id => { const ts = typesFor(S.byId.get(id)); return { id, type: ts[Math.random() * ts.length | 0], kind: "review" }; });
+  const news = fresh.map(id => { const road = roadmap(S.byId.get(id)); return { id, type: road[0], kind: "new", stage: 0, road }; });
+  let queue = [];
+  if (!ratio) queue = [...revs, ...news];
+  else while (revs.length || news.length) { queue.push(...revs.splice(0, ratio)); if (news.length) queue.push(news.shift()); }
+  return { queue, total: queue.length, done: 0, wrong: new Set(), current: null, log: new Map(), group: [], groupNew: [], groupNo: 0, phase: "", spellQ: [], summary: null, combo: 0, best: 0,
+    hist: [], hpos: null, held: due.length - dueUse.length };
 }
 function setCurrent(item) {
   const s = S.session;
@@ -654,6 +763,9 @@ function endGroup() {
 function nextQ() {
   const s = S.session;
   clearTimeout(advTimer);
+  // 答完 / 斩掉的卡放进“上一个”的历史，按 D 可以回看
+  if (s.current && (s.current.answered || s.current.killed) && s.hist[s.hist.length - 1]?.q !== s.current) { s.hist.push({ q: s.current }); if (s.hist.length > 60) s.hist.shift(); }
+  s.hpos = null;
   if (s.phase !== "spell" && (s.group.length >= GROUP || (!s.queue.length && s.group.length))) {
     const sp = S.settings.spellNew ? s.groupNew.filter(id => spellable(S.byId.get(id)) && !isKilled(id)) : [];
     if (!sp.length) return endGroup();
@@ -685,7 +797,7 @@ function checkSpell() {
   sfx(right ? "ok" : "bad");
   finish(q, right, -1);
 }
-function finish(q, right, pick) {
+function finish(q, right, pick, quiet) {
   const s = S.session;
   clearTimeout(advTimer);
   q.answered = true; q.pick = pick;
@@ -693,70 +805,134 @@ function finish(q, right, pick) {
   right = right && !q.hint;
   q.right = right;
   const { id, kind } = q.item, d = today();
+  // 记下这次改了什么，按 A 把“认识”改成“不认识”时要撤回
+  const dv0 = { ...(S.daily[d]?.[DEV] || {}) }, done0 = s.done, grp0 = s.group.includes(id), before = S.prog[id] ? [...S.prog[id]] : null;
   const lg = s.log.get(id) || { wrong: 0 }; s.log.set(id, lg);
   if (!right) { if (kind === "spellcheck") lg.spellWrong = true; else lg.wrong++; }
   const p = [...(S.prog[id] || [0, d, 0])];
+  if (!right) p[4] = null;                               // 斩过一次的词答错 / 不认识：斩的计数作废
   let final = false;
   if (kind === "new") {
     if (!right) { p[2]++; putBack({ ...q.item }, 8); }                       // 答错：同一步，隔几张卡再考
     else if (q.item.stage < q.item.road.length - 1) putBack({ ...q.item, stage: q.item.stage + 1, type: q.item.road[q.item.stage + 1] }, 5);
     else { p[0] = 1; p[1] = d + 1; bumpDaily("n"); s.done++; final = true; s.groupNew.push(id); }
+    if (!right) setLog(id, 0, 0); else if (final) setLog(id, 0, 1);
   } else if (kind === "spellcheck") {
-    if (!right) p[2]++;
+    if (!right) { p[2]++; setLog(id, 0, 0); }
   } else if (right && !s.wrong.has(id)) {
     p[0] = Math.min(p[0] + 1, INTERVALS.length - 1); p[1] = d + INTERVALS[p[0]]; bumpDaily("r"); s.done++; final = true;
+    setLog(id, 1, 1);
   } else if (right) { s.done++; final = true; }
   else {
     // 答错：退两盒（不再一下退回第 1 盒），明天再见；本轮稍后用看词选义再考一次
     if (!s.wrong.has(id)) { p[0] = Math.max(1, p[0] - 2); p[1] = d + 1; p[2]++; bumpDaily("r"); }
     s.wrong.add(id); putBack({ ...q.item, type: "meaning" }, 8);
+    setLog(id, 1, 0);
   }
   if (kind !== "spellcheck" || !right) setProg(id, p);
   if (final && !s.group.includes(id)) s.group.push(id);
+  const dv1 = S.daily[d]?.[DEV] || {};
+  q.fx = { before, d, dn: (dv1.n || 0) - (dv0.n || 0), dr: (dv1.r || 0) - (dv0.r || 0), done: s.done - done0, grp: !grp0 && s.group.includes(id) };
   if (right) {
     s.combo = Math.min(999, s.combo + 1); s.best = Math.max(s.best, s.combo);
     if (COMBO_TIERS.includes(s.combo)) { s.comboPop = true; setTimeout(() => sfx("combo"), 250); toast(`连对 ${s.combo}！`); }
   } else s.combo = 0;
   S.lastAnswered = q.w;
   touch();
+  if (quiet) return;
   if (S.settings.autoplay || q.type === "spell") sayWord(q.w);
   // 答对自动进下一题；新词第一步、答错、用了提示时停下来看解析
   q.auto = right && S.settings.autoNext && !(kind === "new" && q.item.stage === 0);
-  if (q.auto) advTimer = setTimeout(() => { if (S.view === "learn" && S.session?.current === q) next(); }, 1300);
+  if (q.auto) advTimer = setTimeout(() => { if (S.view === "learn" && S.session?.current === q && S.session.hpos == null) next(); }, 1300);
   render();
 }
-// 斩：这个词以后不再出现；可以撤销（恢复原来的盒子）
-function kill(confirmed) {
-  const s = S.session, q = s?.current; if (!q) return;
-  if (!confirmed && !lsGet(LS_KILLOK, false)) return openSheet(`<h3>斩掉 ${esc(deLabel(q.w))}？</h3>
-    <p class="note" style="margin:0">斩掉的词以后不会再出现在学习和复习里。斩错了可以马上点“撤销”，或者在词库里找到它撤销。</p>
-    <div class="actions" style="margin:0"><button type="button" class="btn primary" data-act="killok">斩</button><button type="button" class="btn ghost" data-act="fbclose">取消</button></div>`);
+// 按 A：把已经算“认识”的卡改成“不认识”（当前卡，或按 D 翻回去的上一个）
+function relabel(q) {
+  const s = S.session;
+  if (!q || !q.answered || !q.right || q.killed || !q.fx) return;
+  const id = q.id, fx = q.fx, live = q === s.current;
+  if (fx.before) S.prog[id] = [...fx.before]; else delete S.prog[id];
+  const dv = S.daily[fx.d]?.[DEV]; if (dv) { dv.n = Math.max(0, (dv.n || 0) - fx.dn); dv.r = Math.max(0, (dv.r || 0) - fx.dr); }
+  s.done -= fx.done;
+  if (fx.grp) s.group = s.group.filter(x => x !== id);
+  s.groupNew = s.groupNew.filter(x => x !== id);
+  s.queue = s.queue.filter(x => x.id !== id);              // 去掉答对后排进来的下一步
+  q.answered = false; q.relabeled = true; q.auto = false;
+  finish(q, false, q.pick, !live);
+  if (!live) render();
+  toast(`${deLabel(q.w)}：已改成不认识，稍后会再考`);
+}
+// 斩：要在不同的两天各斩一次才永久不出现。第一次斩 → 几天后再出现一次确认；可以撤销
+function kill(q) {
+  const s = S.session; if (!s || !q) return;
+  const id = q.id, d = today(), before = S.prog[id] ? [...S.prog[id]] : null;
+  if (before?.[0] === KILL) return toast(`${deLabel(q.w)} 已经斩掉了`);
+  if (before?.[4] === d) return toast("今天已经斩过一次了，换一天再斩一次才会永久不出现");
   clearTimeout(advTimer);
-  const id = q.id, before = S.prog[id] ? [...S.prog[id]] : null;
+  const second = before?.[4] != null && before[4] < d;
+  const live = q === s.current && s.hpos == null;
+  const box = Math.max(before?.[0] || 0, 3);
+  if (second) setProg(id, [KILL, 0, before?.[2] || 0]);
+  else setProg(id, [box, d + INTERVALS[box], before?.[2] || 0, 0, d]);
+  const prevLog = S.wlog[d]?.[id] ? [...S.wlog[d][id]] : null;
+  setLog(id, q.item.kind === "review" ? 1 : 0, second ? 3 : 2, true);
   const removed = s.queue.filter(x => x.id === id);
-  setProg(id, [KILL, 0, before?.[2] || 0]);
   s.queue = s.queue.filter(x => x.id !== id); s.spellQ = s.spellQ.filter(x => x.id !== id);
-  const wasFinal = s.group.includes(id);
-  if (!wasFinal) { s.group.push(id); if (q.item.kind === "new") bumpDaily("n"); s.done++; }
+  const counted = q === s.current && !s.group.includes(id) && !q.answered;
+  if (counted) { s.group.push(id); if (q.item.kind === "new") bumpDaily("n"); s.done++; }
   const lg = s.log.get(id) || { wrong: 0 }; lg.kill = true; s.log.set(id, lg);
+  q.killed = true;
   S.lastAnswered = q.w;
   touch(); sfx("kill");
-  const card = $(".card.q"); if (card) card.classList.add("killing");
+  const msg = second ? `已斩 ${deLabel(q.w)}：以后不再出现` : `斩 1/2：${deLabel(q.w)} ${INTERVALS[box]} 天后再出现一次，那天再斩就永久不出现`;
   const undo = () => {
     if (before) setProg(id, before); else setProg(id, [0, today(), 0]);
-    lg.kill = false;
-    if (!wasFinal) {
+    if (prevLog) S.wlog[d][id] = [prevLog[0], prevLog[1], Date.now()]; else if (S.wlog[d]?.[id]) S.wlog[d][id] = [0, -1, Date.now()];
+    lg.kill = false; q.killed = false;
+    if (counted) {
       s.group = s.group.filter(x => x !== id); s.done--;
-      const dv = S.daily[today()]?.[DEV]; if (q.item.kind === "new" && dv?.n) dv.n--;
+      const dv = S.daily[d]?.[DEV]; if (q.item.kind === "new" && dv?.n) dv.n--;
     }
-    const live = S.view === "learn" && S.session === s && !s.summary;
-    if (live && s.current && !s.current.answered) (s.current.item.kind === "spellcheck" ? s.spellQ : s.queue).unshift(s.current.item);
+    s.hist = s.hist.filter(h => h.q !== q);
+    if (s.hpos != null && s.hpos >= s.hist.length) s.hpos = s.hist.length ? s.hist.length - 1 : null;
+    const on = S.view === "learn" && S.session === s && !s.summary;
+    if (live && on && s.current && s.current !== q && !s.current.answered) (s.current.item.kind === "spellcheck" ? s.spellQ : s.queue).unshift(s.current.item);
     s.queue.unshift(...removed);
-    if (!q.answered && q.item.kind !== "spellcheck") s.queue.unshift({ ...q.item });
+    if (live && !q.answered && q.item.kind !== "spellcheck") s.queue.unshift({ ...q.item });
     touch();
-    if (live) { nextQ(); render(); autoSay(); }
+    if (on && live) { s.current = null; s.hpos = null; nextQ(); render(); autoSay(); } else if (on) render();
   };
-  setTimeout(() => { if (S.view === "learn" && S.session === s) { nextQ(); render(); autoSay(); } toast(`已斩 ${deLabel(q.w)}`, ["撤销", undo]); }, 340);
+  if (!live) { render(); toast(msg, ["撤销", undo]); return; }
+  const card = $(".card.q"); if (card) card.classList.add("killing");
+  setTimeout(() => { if (S.view === "learn" && S.session === s) { nextQ(); render(); autoSay(); } toast(msg, ["撤销", undo]); }, 340);
+}
+// 键盘 / 底部按钮：D 上一个 · F 下一个（没标记就算认识）· A 不认识 · S 显示意思（算不认识）· G 斩
+function learnKey(k) {
+  const s = S.session; if (!s || s.summary) return;
+  if (k === "d") {
+    if (!s.hist.length || s.hpos === 0) return toast(s.hist.length ? "已经是这一轮的第一个了" : "还没有上一个");
+    clearTimeout(advTimer); if (s.current) s.current.auto = false;
+    s.hpos = s.hpos == null ? s.hist.length - 1 : s.hpos - 1;
+    render(); window.scrollTo({ top: 0 }); return;
+  }
+  if (s.hpos != null) {                                  // 正在看上一个
+    const h = s.hist[s.hpos].q;
+    if (k === "f") { s.hpos = s.hpos + 1 >= s.hist.length ? null : s.hpos + 1; render(); window.scrollTo({ top: 0 }); return; }
+    if (k === "a") return h.right ? relabel(h) : toast(h.killed ? "这个词斩过了" : "这个词已经记为不认识");
+    if (k === "g") return kill(h);
+    return;
+  }
+  const q = s.current; if (!q) return;
+  if (k === "f") {
+    if (!q.answered) {
+      if (q.type === "spell") return ($("#spell")?.value || "").trim() ? checkSpell() : toast("先拼一下，或者按 A 不认识");
+      finish(q, true, -2, true);                         // 没标记：默认认识
+    }
+    return next();
+  }
+  if (k === "a") { if (!q.answered) { q.mark = "a"; return finish(q, false, -1); } return q.right ? relabel(q) : null; }
+  if (k === "s") { if (!q.answered) { q.peek = true; return finish(q, false, -1); } return; }
+  if (k === "g") return kill(q);
 }
 function skip() {
   const s = S.session, q = s?.current; if (!q || q.answered) return;
@@ -849,71 +1025,90 @@ function wordLine(w, withArt = true) {
   return `<div class="word">${withArt && w.art ? `<span class="art ${w.art}">${w.art}</span>` : ""}<span>${esc(w.lemma)}</span><button type="button" class="play" data-act="say" aria-label="朗读">${PLAY}</button></div>`;
 }
 function streakDays() { const d = today(); let n = 0; for (let k = d; Object.values(dayTotal(k)).some(x => x > 0); k--) n++; return n; }
+// 例句一行（居中）：有能找到这个词的例句就标出来；答完后显示翻译
+function exLine(w, showZh, sent) {
+  const f = sent || findInSentence(w), ex = f ? f[0] : w.ex?.[0];
+  if (!ex) return "";
+  const body = f ? `${esc(ex.slice(0, f[1]))}<mark>${esc(ex.slice(f[1], f[2]))}</mark>${esc(ex.slice(f[2]))}` : esc(ex);
+  return `<div class="exl">${body}${voices.length ? ` <button type="button" data-say="${esc(ex)}" aria-label="朗读例句">▶</button>` : ""}${showZh && w.ex_zh && w.ex?.[0] === ex ? `<div class="zh">${esc(w.ex_zh)}</div>` : ""}</div>`;
+}
+const KEYS = [["d", "上一个"], ["a", "不认识"], ["s", "看意思"], ["f", "下一个"], ["g", "斩"]];
+function keybarHTML() {
+  return `<div class="keybar" role="toolbar" aria-label="快捷键">${KEYS.map(([k, t]) => `<button type="button" data-key="${k}"><kbd>${k.toUpperCase()}</kbd>${t}</button>`).join("")}<span class="kbx">1–4 选项 · 空格 发音 · Enter 下一个</span></div>`;
+}
 function learnHTML() {
   const s = S.session;
-  const d = today(), td = dayTotal(d);
-  const deckSel = `<select id="deck" aria-label="新词来源">${Object.entries(DECKS).map(([k, v]) => `<option value="${k}"${k === S.settings.deck ? " selected" : ""}>${v.name}</option>`).join("")}</select>`;
+  const d = today(), td = dayTotal(d), ratio = S.settings.reviewRatio || 0;
+  const deck = DECKS[S.settings.deck] || DECKS.B1;
   const left = s.queue.length + s.spellQ.length + (s.current && !s.current.answered ? 1 : 0);
   const pct = s.total ? Math.min(100, Math.round(100 * s.done / s.total)) : 100;
   const tier = s.combo >= 30 ? 3 : s.combo >= 10 ? 2 : s.combo >= 5 ? 1 : 0;
   const combo = `<span class="combo t${tier}${s.comboPop ? " pop" : ""}">连对 <b>${s.combo}</b></span>`;
   s.comboPop = false;
-  const bar = `<div class="bar"><span>新词来源 ${deckSel}</span><span>今日新学 <b>${td.n}</b>/${S.settings.newPerDay}</span><span>今日复习 <b>${td.r}</b></span><span>剩余 <b>${left}</b></span><span>第 ${s.groupNo + 1} 组 <b>${s.group.length}</b>/${GROUP}</span>${combo}</div><div class="progress"><i style="width:${pct}%"></i></div>`;
+  const bar = `<div class="bar"><span>${esc(deck.name)}</span><span>今日新学 <b>${td.n}</b>/${S.settings.newPerDay}</span><span>今日复习 <b>${td.r}</b>${ratio ? `/${S.settings.newPerDay * ratio}` : ""}</span><span>剩余 <b>${left}</b></span><span>第 ${s.groupNo + 1} 组 <b>${s.group.length}</b>/${GROUP}</span>${combo}<button type="button" class="gear" data-act="wset">⚙ 单词设置</button></div><div class="progress"><i style="width:${pct}%"></i></div>`;
   if (s.summary) return summaryHTML(bar);
-  const q = s.current;
+  const hv = s.hpos != null;
+  const q = hv ? s.hist[s.hpos].q : s.current;
   if (!q) {
     const tomorrow = Object.values(S.prog).filter(p => p[0] >= 1 && p[0] < KILL && p[1] === d + 1).length;
     const missed = [...s.log].filter(([, l]) => l.wrong || l.spellWrong).map(([id, l]) => [S.byId.get(id), l.wrong + (l.spellWrong ? 1 : 0)]).sort((a, b) => b[1] - a[1]);
-    return bar + `<div class="card done"><h2>今天的任务完成了</h2><p>新学 ${td.n} 个，复习 ${td.r} 次，已经连续学了 ${streakDays()} 天${s.best >= 5 ? `，这一轮最高连对 ${s.best}` : ""}。明天有 ${tomorrow} 个词到期复习。</p>
+    return bar + `<div class="card done"><h2>今天的任务完成了</h2><p>新学 ${td.n} 个，复习 ${td.r} 次，已经连续学了 ${streakDays()} 天${s.best >= 5 ? `，这一轮最高连对 ${s.best}` : ""}。明天有 ${tomorrow} 个词到期复习。${s.held ? `按复习比例，还有 ${s.held} 个到期的词顺延到明天。` : ""}</p>
       ${missed.length ? `<div class="list" style="text-align:left;margin-bottom:18px">${missed.map(([w, n]) => `<div class="row" data-word="${w.id}"><span class="w">${w.art ? `<span class="${w.art}">${w.art}</span> ` : ""}${esc(w.lemma)}</span><span class="m">${esc(w.zh)}</span><span class="st">错 ${n} 次</span></div>`).join("")}</div>` : ""}
-      <div class="actions" style="justify-content:center"><button class="btn primary" data-act="more">再学 10 个新词</button><button class="btn" data-go="place">去摸底</button></div></div>`;
+      <div class="actions" style="justify-content:center"><button class="btn primary" data-act="more">再学 10 个新词</button><button class="btn" data-go="cal">看日历</button><button class="btn" data-go="place">去摸底</button></div></div>`;
   }
-  const w = q.w, a = q.answered;
+  const w = q.w, a = q.answered || q.killed;
   const label = { meaning: "看词选义", listen: "听音选义", audio: "听音选词", sentence: "例句选义：划线词是什么意思", reverse: "看义选词", gender: "选冠词", aux: "Perfekt 用 haben 还是 sein", spell: "拼写" }[q.type];
-  let head = "";
-  if (q.type === "meaning") head = wordLine(w);
-  else if (q.type === "listen") head = a ? wordLine(w) : `<div class="hidden-word">听发音，选出意思 <button type="button" class="play" data-act="say" aria-label="再听一遍">${PLAY}</button></div>`;
-  else if (q.type === "audio") head = a ? wordLine(w) : `<div class="hidden-word">听发音，选出你听到的词 <button type="button" class="play" data-act="say" aria-label="再听一遍">${PLAY}</button></div>`;
-  else if (q.type === "sentence") {
-    const [ex, i0, i1] = q.sent;
-    head = `<div class="sent">${esc(ex.slice(0, i0))}<mark>${esc(ex.slice(i0, i1))}</mark>${esc(ex.slice(i1))}${voices.length ? ` <button type="button" data-say="${esc(ex)}" aria-label="朗读例句">▶</button>` : ""}</div>`
-      + (a ? `${w.ex_zh && w.ex[0] === ex ? `<div class="sub">${esc(w.ex_zh)}</div>` : ""}${wordLine(w)}` : "");
+  // 顺序：单词（居中）→ 例句（居中）→ 四格选项 → 其他
+  let head = "", sent = "";
+  if (q.type === "meaning") { head = wordLine(w); sent = exLine(w, a); }
+  else if (q.type === "listen" || q.type === "audio") {
+    head = a ? wordLine(w) : `<div class="hidden-word">${q.type === "listen" ? "听发音，选出意思" : "听发音，选出你听到的词"} <button type="button" class="play" data-act="say" aria-label="再听一遍">${PLAY}</button></div>`;
+    sent = a ? exLine(w, true) : "";
   }
-  else if (q.type === "reverse") head = `<div class="prompt">${esc(w.zh)}</div>${a ? wordLine(w) : ""}`;
-  else if (q.type === "gender") head = a ? wordLine(w) : `<div class="word"><span class="art" style="color:var(--muted)">___</span><span>${esc(w.lemma)}</span></div><div class="sub">${esc(w.zh)}</div>`;
+  else if (q.type === "sentence") { head = a ? wordLine(w) : ""; sent = exLine(w, a, q.sent); }
+  else if (q.type === "reverse") { head = `<div class="prompt">${esc(w.zh)}</div>${a ? wordLine(w) : ""}`; sent = a ? exLine(w, true) : ""; }
+  else if (q.type === "gender") { head = a ? wordLine(w) : `<div class="word"><span class="art" style="color:var(--muted)">___</span><span>${esc(w.lemma)}</span></div><div class="sub">${esc(w.zh)}</div>`; sent = a ? exLine(w, true) : ""; }
   else if (q.type === "aux") head = `${wordLine(w, false)}<div class="prompt" style="font-family:var(--f-word)">Ich <span style="color:var(--muted)">${a ? `<b style="color:var(--ink)">${w.aux === "hat" ? "habe" : "bin"}</b>` : "___"}</span> … ${esc(w.p2)}.</div><div class="sub">${esc(w.zh)}</div>`;
   else if (q.type === "spell") {
     head = `<div class="prompt">${esc(w.zh)}</div><div class="sub">${POS_ZH[w.pos] || ""}${w.pl_full ? ` · 复数 ${esc(w.pl_full.replace(w.lemma, "~"))}` : ""}</div>
       <div class="spell"><div class="line">${w.art ? `<span class="art ${w.art}">${w.art}</span>` : ""}<input id="spell" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" enterkeyhint="done" aria-label="拼写这个词" value="${esc(q.typed || "")}"${a ? ` readonly class="${q.right ? "ok" : "bad"}"` : ""}><button type="button" class="play" data-act="say" aria-label="听发音">${PLAY}</button></div>
       ${!a ? `<div class="umlauts">${["ä", "ö", "ü", "ß", "Ä", "Ö", "Ü"].map(c => `<button type="button" data-ch="${c}">${c}</button>`).join("")}<span class="spacer"></span><button type="button" class="btn primary" data-act="spellok">确定<kbd>Enter</kbd></button></div>`
-        : q.right ? (q.caseNote ? `<div class="note">注意大小写：<b class="de">${esc(w.lemma)}</b></div>` : "")
+        : q.typed == null ? "" : q.right ? (q.caseNote ? `<div class="note">注意大小写：<b class="de">${esc(w.lemma)}</b></div>` : "")
         : `<div class="note">你写的：<s>${esc(q.typed)}</s>，正确拼写（标红的是写错或漏掉的字母）：</div><div class="diff">${diffHTML(q.typed, w.lemma)}</div>`}
       </div>`;
+    if (a && q.typed == null) head += `<div class="peek de" style="font-family:var(--f-word)">${esc(deLabel(w))}</div>`;
   }
-  const cls = q.type === "gender" ? "opts three" : q.type === "aux" ? "opts two" : "opts";
+  const peek = q.peek && q.answered && !["meaning", "listen", "sentence"].includes(q.type) && q.type !== "spell" ? `<div class="peek">${esc(w.zh)}</div>` : "";
+  const cls = q.type === "gender" ? "opts three" : "opts";
   const opts = q.opts.map((o, i) => {
     let st = "", mark = "";
-    if (a && o.right) { st = " ok"; mark = "✓"; }
+    if (q.answered && o.right) { st = " ok"; mark = "✓"; }
     else if (q.tried.includes(i)) { st = " bad"; mark = "✗"; }
     const big = (q.type === "gender" || q.type === "aux") ? " big" : "";
-    return `<button type="button" class="opt${o.de ? " de" : ""}${big}${st}${o.cls ? " " + o.cls : ""}" data-opt="${i}" ${a || q.tried.includes(i) ? "disabled" : ""}><kbd>${i + 1}</kbd><span class="t">${esc(o.label)}</span><span class="mark">${mark}</span></button>`;
+    return `<button type="button" class="opt${o.de ? " de" : ""}${big}${st}${o.cls ? " " + o.cls : ""}" data-opt="${i}" ${a || hv || q.tried.includes(i) ? "disabled" : ""}><kbd>${i + 1}</kbd><span class="t">${esc(o.label)}</span><span class="mark">${mark}</span></button>`;
   }).join("");
+  const p = S.prog[w.id];
   const kindChip = { new: `新词 ${q.item.stage + 1}/${q.item.road?.length || 3}`, review: "复习", spellcheck: "组末拼写" }[q.item.kind];
-  const sideWord = a ? w : S.lastAnswered?.id === w.id ? null : S.lastAnswered;   // 别在右栏露出正在考的词
-  const side = sideWord ? `<aside class="card side">${!a ? `<div class="sect">上一题</div>` : ""}${detailHTML(sideWord, true)}</aside>`
-                        : `<aside class="card side empty"><p class="note">答完题，这里显示释义、搭配、例句和提示。</p></aside>`;
-  const killBtn = `<button type="button" class="btn ghost" data-act="kill" title="斩：这个词已经会了，以后不再出现">斩</button>`;
-  let foot;
-  if (!a) foot = `<div class="actions">${q.type !== "spell" ? `<span class="note kbhint">数字键 1–${q.opts.length} 作答，空格重听</span>` : ""}<span class="spacer"></span>${q.hint ? "" : `<button type="button" class="btn ghost" data-act="hint">提示</button>`}<button type="button" class="btn ghost" data-act="skip">跳过</button>${killBtn}</div>`;
-  else if (q.auto) foot = `<div class="autobar"><i></i></div><div class="actions"><button class="btn primary" data-act="next">下一个<kbd>Enter</kbd></button><button class="btn ghost" data-act="hold">停一下，看解析</button>${killBtn}</div>`;
-  else foot = `${q.hinted ? `<p class="note" style="margin:14px 0 0">用了提示，这次算没记住，稍后会再考。</p>` : q.wrongs && q.right === false && q.type !== "spell" ? `<p class="note" style="margin:14px 0 0">答错了，稍后会再考。</p>` : ""}<div class="inline-detail">${detailHTML(w, false)}</div><div class="actions"><button class="btn primary" data-act="next">下一个<kbd>Enter</kbd></button>${killBtn}</div>`;
-  return bar + `<div class="stage"><div class="card q">
-    <div class="qtype">${label} · ${kindChip} <span class="lv">${esc(w.lv)}</span></div>
-    ${head}
+  const killChip = p?.[4] != null && p[0] !== KILL ? `<span class="kchip">斩过 1 次 · 再按 G 永久斩</span>` : "";
+  let foot, note = "";
+  if (q.killed) note = p?.[0] === KILL ? "已斩：以后不再出现。" : "斩 1/2：过几天会再出现一次，那天再斩就永久不出现。";
+  else if (q.hinted) note = "用了提示，这次算没记住，稍后会再考。";
+  else if (q.relabeled) note = "已改成不认识，稍后会再考。";
+  else if (q.mark === "a" || q.peek) note = "记为不认识，稍后会再考。";
+  else if (q.answered && q.right === false && q.type !== "spell") note = "答错了，稍后会再考。";
+  else if (q.answered && q.pick === -2) note = "没标记，按认识算。";
+  const detail = `<div class="inline-detail below">${detailHTML(w, false)}</div>`;
+  if (hv) foot = `${note ? `<p class="note" style="margin:14px 0 0">${note}</p>` : ""}${q.killed && p?.[0] !== KILL ? "" : detail}<div class="actions"><button class="btn primary" data-key="f">${s.hpos + 1 >= s.hist.length ? "回到当前" : "下一个"}<kbd>F</kbd></button>${q.right && !q.killed ? `<button class="btn" data-key="a">改成不认识<kbd>A</kbd></button>` : ""}</div>`;
+  else if (!a) foot = `${q.hint ? hintHTML(q) : ""}<div class="actions">${q.hint ? "" : `<button type="button" class="btn ghost" data-act="hint">提示</button>`}<button type="button" class="btn ghost" data-act="skip">跳过</button></div>`;
+  else if (q.auto) foot = `<div class="autobar"><i></i></div><div class="actions"><button class="btn primary" data-act="next">下一个<kbd>F</kbd></button><button class="btn ghost" data-act="hold">停一下，看解析</button></div>`;
+  else foot = `${note ? `<p class="note" style="margin:14px 0 0">${note}</p>` : ""}${detail}<div class="actions"><button class="btn primary" data-act="next">下一个<kbd>F</kbd></button></div>`;
+  return bar + `<div class="stage solo">${hv ? `<div style="text-align:center"><span class="histnote">正在看上一个（倒数第 ${s.hist.length - s.hpos} 个）· 按 F 往回走</span></div>` : ""}<div class="card q">
+    <div class="qtype">${label} · ${kindChip} <span class="lv">${esc(w.lv)}</span>${killChip}</div>
+    ${head}${peek}
+    ${sent}
     ${q.opts.length ? `<div class="${cls}">${opts}</div>` : ""}
-    ${q.hint && !a ? hintHTML(q) : ""}
     ${foot}
-  </div>${side}</div>`;
+  </div></div>` + keybarHTML();
 }
 // 每组小结：这组每个词对 / 错 / 斩、下次复习时间；可以隐藏释义自测（百词斩的组末小结）
 function summaryHTML(bar) {
@@ -1024,6 +1219,31 @@ function statsHTML() {
     <div class="fc">${fc.map((n, i) => `<div><span>${n}</span><i style="height:${Math.round(60 * n / mx)}px"></i><span>${i === 0 ? "今天" : "+" + i}</span></div>`).join("")}</div>
     <p class="sync" id="sync" style="margin-top:14px">${esc(syncState.text)}</p>`;
 }
+function planText() {
+  const d = today(), td = dayTotal(d), st = S.settings, r = st.reviewRatio || 0;
+  const due = Object.values(S.prog).filter(p => p[0] >= 1 && p[0] < KILL && p[1] <= d).length;
+  const cap = r ? Math.max(0, st.newPerDay * r - td.r) : due;
+  return `今天还剩：新词 <b>${Math.max(0, st.newPerDay - td.n)}</b> 个，复习 <b>${Math.min(due, cap)}</b> 个（今天到期 ${due} 个${r && due > cap ? `，按比例 ${due - cap} 个顺延到明天` : ""}）。`;
+}
+const RATIOS = [[0, "不限：到期的全部复习，先复习再学新词"], [1, "1 : 1"], [2, "2 : 1"], [3, "3 : 1"], [4, "4 : 1"], [5, "5 : 1"], [8, "8 : 1"]];
+function wordSetHTML() {
+  const st = S.settings;
+  return `<div class="wset">
+    <label>新词来源<select id="wdeck">${Object.entries(DECKS).map(([k, v]) => `<option value="${k}"${k === st.deck ? " selected" : ""}>${v.name}</option>`).join("")}</select></label>
+    <label>每天新词数<input id="snew" type="number" min="1" max="300" step="1" inputmode="numeric" value="${st.newPerDay}"></label>
+    <label>复习比例（复习 : 新词）<select id="sratio">${RATIOS.map(([v, t]) => `<option value="${v}"${v === (st.reviewRatio || 0) ? " selected" : ""}>${t}</option>`).join("")}</select>
+      <span class="note">选了比例：每天最多复习“新词数 × 比例”个，复习和新词按这个比例穿插出现（例如 3 : 1 就是 3 个复习 1 个新词）；到期的词太多时，最不熟的先复习，其余顺延。</span></label>
+    <div class="plan" id="wplan">${planText()}</div>
+    ${[["sauto", "autoplay", "出题和答完后自动朗读"],
+       ["sautonext", "autoNext", "答对后自动下一题（新词第一次见、答错、用了提示时会停下来看解析）"],
+       ["sspelln", "spellNew", "每组学完后拼写这组的新词"],
+       ["sspellr", "spellReview", "复习时也出拼写题"],
+       ["ssim", "similar", "德语选项用形近词（更难，像百词斩的“易混词”）"],
+       ["ssfx", "sfx", "答题音效"]].map(([id, k, t]) => `<label style="display:flex;gap:8px;align-items:center"><input id="${id}" type="checkbox"${st[k] ? " checked" : ""}> ${t}</label>`).join("")}
+    <p class="note" style="margin:0">按键：D 上一个 · F 下一个（没标记就算认识）· A 不认识 · S 看意思（算不认识）· G 斩（不同的两天各斩一次才永久不出现）· 1–4 选项 · 空格 发音。</p>
+  </div>`;
+}
+function openWordSet() { openSheet(`<h3>单词设置</h3>${wordSetHTML()}<div class="actions" style="margin:0"><button type="button" class="btn primary" data-act="wsetdone">完成</button></div>`); }
 function settingsHTML() {
   const st = S.settings, on = !!syncCfg.token;
   return `<div class="settings">
@@ -1042,15 +1262,12 @@ function settingsHTML() {
         <p class="sync" id="sync">${esc(syncState.text)}</p>`}
     </div>
     <div class="card">
-      <h3>学习</h3>
-      <label>每天新词数<select id="snew">${[10, 15, 20, 30, 40].map(n => `<option${n === st.newPerDay ? " selected" : ""}>${n}</option>`).join("")}</select></label>
+      <h3>单词</h3>
+      ${wordSetHTML()}
+    </div>
+    <div class="card">
+      <h3>发音</h3>
       <label>语速 <span id="ratev">${st.rate.toFixed(2)}</span><input id="srate" type="range" min="0.6" max="1.2" step="0.05" value="${st.rate}"></label>
-      ${[["sauto", "autoplay", "出题和答完后自动朗读"],
-         ["sautonext", "autoNext", "答对后自动下一题（新词第一次见、答错、用了提示时会停下来看解析）"],
-         ["sspelln", "spellNew", "每组学完后拼写这组的新词"],
-         ["sspellr", "spellReview", "复习时也出拼写题"],
-         ["ssim", "similar", "德语选项用形近词（更难，像百词斩的“易混词”）"],
-         ["ssfx", "sfx", "答题音效"]].map(([id, k, t]) => `<label style="display:flex;gap:8px;align-items:center"><input id="${id}" type="checkbox"${st[k] ? " checked" : ""}> ${t}</label>`).join("")}
       <label>例句发音人<select id="svoice">${voices.length ? voices.map(v => `<option value="${esc(v.name)}"${v.name === st.voice ? " selected" : ""}>${esc(v.name)}</option>`).join("") : `<option>（这个浏览器没有德语语音）</option>`}</select>
         <span class="note">单词发音是预先录好的（微软 Katja 神经语音）。例句用系统自带语音：安卓装了 Google 文字转语音的德语包就有；没有德语语音时例句不显示播放按钮。</span></label>
       <div><button class="btn" data-act="testvoice">试听</button></div>
@@ -1073,6 +1290,93 @@ function settingsHTML() {
     </div>
   </div>`;
 }
+
+/* ---------- 日历：按月看每天新学 / 复习；点一天看当天的单词，可以改 ---------- */
+const WD = ["一", "二", "三", "四", "五", "六", "日"];
+const dDate = dn => new Date(dn * 864e5);                       // today() 是本地日期的天数，按 UTC 取年月日
+const dISO = dn => dDate(dn).toISOString().slice(0, 10);
+const isoD = v => Math.floor(Date.parse(v + "T00:00:00Z") / 864e5);
+const dLabel = dn => { const x = dDate(dn); return `${x.getUTCMonth() + 1} 月 ${x.getUTCDate()} 日 周${WD[(x.getUTCDay() + 6) % 7]}`; };
+const LOG_SINCE = 20774;                                        // 2026-11-17：从这天起记单词明细
+function calInit() { if (!S.cal) { const t = dDate(today()); S.cal = { y: t.getUTCFullYear(), m: t.getUTCMonth(), sel: today(), q: "" }; } return S.cal; }
+function dueMap() {
+  const d = today(), m = new Map();
+  for (const [id, p] of Object.entries(S.prog)) if (p[0] >= 1 && p[0] < KILL && S.byId.has(id)) { const k = Math.max(p[1], d); m.set(k, (m.get(k) || 0) + 1); }
+  return m;
+}
+const dayRecs = dn => Object.entries(S.wlog[dn] || {}).filter(([id, r]) => r[1] >= 0 && S.byId.has(id));
+function calHTML() {
+  const C = calInit(), d = today(), dm = dueMap();
+  const first = Math.floor(Date.UTC(C.y, C.m, 1) / 864e5), days = new Date(Date.UTC(C.y, C.m + 1, 0)).getUTCDate(), off = (dDate(first).getUTCDay() + 6) % 7;
+  let cells = '<div class="cd blank"></div>'.repeat(off), mn = 0, mr = 0, act = 0;
+  for (let i = 0; i < days; i++) {
+    const dn = first + i, t = dayTotal(dn), n = t.n + t.r, due = dn >= d ? dm.get(dn) || 0 : 0;
+    mn += t.n; mr += t.r; if (n || t.g || t.l) act++;
+    const lvl = n >= 60 ? 3 : n >= 20 ? 2 : n ? 1 : 0;
+    const info = (n ? `<span>新 ${t.n}</span><span>复 ${t.r}</span>` : "") + (due ? `<span class="due">待复习 ${due}</span>` : "");
+    cells += `<button type="button" class="cd l${lvl}${dn === d ? " today" : ""}${dn === C.sel ? " sel" : ""}${due ? " hasdue" : ""}" data-day="${dn}" aria-label="${dLabel(dn)}"><b>${i + 1}</b>${info}</button>`;
+  }
+  return `<div class="calwrap"><div class="card">
+      <div class="calhead"><button type="button" class="nb" data-act="calprev" aria-label="上个月">‹</button><h2>${C.y} 年 ${C.m + 1} 月</h2><button type="button" class="nb" data-act="calnext" aria-label="下个月">›</button><button type="button" class="btn ghost" data-act="caltoday">今天</button></div>
+      <p class="note" style="margin:6px 0 0">本月新学 ${mn} 个 · 复习 ${mr} 次 · 学了 ${act} 天。颜色越深当天学得越多；蓝字是那天要复习的词数。</p>
+      <div class="calgrid">${WD.map(x => `<div class="wd">${x}</div>`).join("")}${cells}</div>
+    </div><div class="card dayp" id="dayp">${dayHTML(C.sel)}</div></div>`;
+}
+const RES = { 0: '<span class="res bad">✗ 不认识</span>', 1: '<span class="res ok">✓ 认识</span>', 2: '<span class="res kill">斩 1/2</span>', 3: '<span class="res kill">斩</span>' };
+function calRow(id, rec) {
+  const w = S.byId.get(id), p = S.prog[id], d = today(), killed = p?.[0] === KILL;
+  const nxt = killed ? "已斩，不再出现" : p && p[0] >= 1 ? `下次复习 <input type="date" class="duein" data-id="${id}" value="${dISO(Math.max(p[1], d))}" min="${dISO(d)}">${p[4] != null ? " · 斩 1/2" : ""}` : "还没学";
+  const pr = v => `aria-pressed="${rec?.[1] === v}"`;
+  const btns = rec ? `<button type="button" data-ce="k" data-id="${id}" ${pr(1)}>认识</button><button type="button" data-ce="u" data-id="${id}" ${pr(0)}>不认识</button>` : (p && p[1] > d && !killed ? `<button type="button" data-ce="now" data-id="${id}">今天复习</button>` : "");
+  return `<div class="crow"><span class="w cw" data-wid="${id}">${w.art ? `<span class="${w.art}">${w.art}</span> ` : ""}${esc(w.lemma)}</span><span class="m">${esc(w.zh)}</span><span>${rec ? RES[rec[1]] : ""}</span>
+    <span class="ced">${nxt}<span class="cbtns">${btns}${killed ? `<button type="button" data-ce="ux" data-id="${id}">撤销斩</button>` : `<button type="button" data-ce="x" data-id="${id}">永久斩</button>`}</span></span></div>`;
+}
+function dayHTML(dn) {
+  const d = today(), t = dayTotal(dn), recs = dayRecs(dn);
+  const sec = (title, list, hint) => list.length ? `<h3>${title}（${list.length}）</h3>${hint ? `<p class="note" style="margin:0 0 4px">${hint}</p>` : ""}${list.map(([id, r]) => calRow(id, r)).join("")}` : "";
+  const by = (a, b) => (a[1][1] - b[1][1]) || S.byId.get(a[0]).lemma.localeCompare(S.byId.get(b[0]).lemma, "de");
+  let html = `<h2>${dLabel(dn)}${dn === d ? " · 今天" : ""}</h2>`;
+  if (dn <= d) {
+    html += `<p class="note" style="margin:0">新学 ${t.n} 个 · 复习 ${t.r} 次${t.g ? ` · 语法题 ${t.g}` : ""}${t.l ? ` · 听力 ${t.l} 篇` : ""}</p>`;
+    html += sec("新学", recs.filter(([, r]) => r[0] === 0 && r[1] < 2).sort(by), "")
+          + sec("复习", recs.filter(([, r]) => r[0] === 1 && r[1] < 2).sort(by), "")
+          + sec("斩", recs.filter(([, r]) => r[1] >= 2).sort(by), "");
+    if (!recs.length) html += `<p class="note">${t.n || t.r ? (dn < LOG_SINCE ? "这一天只有数量记录，单词明细从 11 月 17 日开始记。" : "这一天的单词明细是在别的设备上学的，还没同步过来。") : "这一天没有学单词。"}</p>`;
+    else html += `<p class="note">点“认识 / 不认识”可以改这天的结果，复习时间会跟着调整；也可以直接改下次复习的日期。点单词看详情。</p>`;
+  }
+  if (dn >= d) {
+    const due = Object.entries(S.prog).filter(([id, p]) => p[0] >= 1 && p[0] < KILL && S.byId.has(id) && (dn === d ? p[1] <= d : p[1] === dn)).map(([id]) => [id, null])
+      .sort((a, b) => S.prog[a[0]][0] - S.prog[b[0]][0] || S.byId.get(a[0]).lemma.localeCompare(S.byId.get(b[0]).lemma, "de"));
+    html += sec(dn === d ? "今天还要复习" : "这天要复习", due, dn === d ? "" : "可以提前到今天、改日期或斩掉。")
+      || `<p class="note">${dn === d ? "今天到期的词都复习完了。" : "这天没有到期的词。"}</p>`;
+    html += `<div class="cadd"><h3 style="margin:10px 0 0">加词到这天复习</h3><input id="caddq" type="search" placeholder="搜德语或中文" value="${esc(S.cal.q)}" aria-label="搜要加的词"><div id="caddres">${caddRes(dn)}</div></div>`;
+  }
+  return html;
+}
+function caddRes(dn) {
+  const q = (S.cal.q || "").trim().toLowerCase(); if (!q) return "";
+  const hits = S.words.filter(w => w.lemma.toLowerCase().startsWith(q) || (q.length >= 2 && (w.zh || "").includes(q))).slice(0, 8);
+  if (!hits.length) return `<p class="note">没有匹配的词</p>`;
+  return hits.map(w => { const p = S.prog[w.id], on = p && p[0] >= 1 && p[0] < KILL && p[1] === dn;
+    return `<div class="r"><span class="w">${w.art ? w.art + " " : ""}${esc(w.lemma)}</span><span class="m">${esc(w.zh)}</span>${on ? `<span class="note">已在这天</span>` : `<button type="button" data-cadd="${w.id}">加入</button>`}</div>`; }).join("");
+}
+// 日历里的修改：直接改进度（盒子 / 下次复习日期 / 斩），同时改这天的记录
+function calEdit(op, id, val) {
+  const C = S.cal, d = today(), dn = C.sel, old = S.prog[id], p = old ? [...old] : [0, d, 0], rec = S.wlog[dn]?.[id], type = rec ? rec[0] : 1;
+  const box0 = p[0] === KILL ? 3 : p[0];
+  if (op === "k") { if (rec?.[1] === 1) return; const box = Math.min(Math.max(box0, 1) + (rec?.[1] === 0 ? 2 : 1), 8); setProg(id, [box, d + INTERVALS[box], p[2]]); setLog(id, type, 1, true, dn); }
+  else if (op === "u") { if (rec?.[1] === 0) return; const box = Math.max(1, box0 - 2); setProg(id, [box, d + 1, (p[2] || 0) + 1]); setLog(id, type, 0, true, dn); }
+  else if (op === "x") { setProg(id, [KILL, 0, p[2]]); if (rec) setLog(id, type, 3, true, dn); }
+  else if (op === "ux") { setProg(id, [1, d + 1, p[2]]); if (rec && rec[1] >= 2) setLog(id, type, 0, true, dn); }
+  else if (op === "now") setProg(id, [Math.max(box0, 1), d, p[2], 0, p[4]]);
+  else if (op === "date") { const to = Math.max(isoD(val), d); if (!Number.isFinite(to)) return; setProg(id, [Math.max(box0, 1), to, p[2], 0, p[0] === KILL ? null : p[4]]); }
+  else if (op === "add") { setProg(id, [Math.max(box0, 1), Math.max(dn, d), p[2], 0, p[0] === KILL ? null : p[4]]); }
+  S.session = null;                                             // 单词页下次打开时按新的进度重新排
+  touch();
+  const y = window.scrollY; render(); window.scrollTo(0, y);
+  if (op === "add") { const i = $("#caddq"); if (i && !matchMedia("(pointer: coarse)").matches) i.focus({ preventScroll: true }); }
+}
+function calMove(dm) { const C = calInit(); const t = new Date(Date.UTC(C.y, C.m + dm, 1)); C.y = t.getUTCFullYear(); C.m = t.getUTCMonth(); render(); }
 
 /* ---------- 语法课和听力共用 ---------- */
 const LEVELS = ["A1", "A2", "B1", "B2"];
@@ -1473,7 +1777,11 @@ function openFb(arg) {
 }
 function renderFb() {
   let el = $("#fbsheet");
-  if (!fb) { if (el) el.remove(); return; }
+  if (!fb) {
+    if (el) el.remove();
+    if (S.wsetDirty) { S.wsetDirty = false; if (S.view === "learn") { S.session = null; render(); autoSay(); } else render(); }
+    return;
+  }
   if (!el) { el = document.createElement("div"); el.id = "fbsheet"; el.className = "overlay"; document.body.appendChild(el); }
   const w = fb.wordId && S.byId.get(fb.wordId);
   const types = fb.ctx ? CTX_TYPES : w ? FB_TYPES : FB_TYPES.slice(4);
@@ -1540,6 +1848,7 @@ document.addEventListener("pointerdown", e => { if (e.target.closest("[data-ch]"
 function render() {
   document.querySelectorAll("#nav button").forEach(b => { if (b.dataset.v === S.view) b.setAttribute("aria-current", "page"); else b.removeAttribute("aria-current"); });
   const v = $("#view");
+  document.body.classList.toggle("haskb", S.view === "learn");
   if (!S.words.length) return;
   if (S.view === "learn") {
     if (!S.session) { S.session = buildSession(); nextQ(); }
@@ -1551,6 +1860,7 @@ function render() {
     const inp = $("#practice [data-gap]:not([readonly])"); if (inp && !matchMedia("(pointer: coarse)").matches) inp.focus({ preventScroll: true });
   }
   else if (S.view === "listen") { v.innerHTML = lisHTML(); lUpd(); }
+  else if (S.view === "cal") v.innerHTML = calHTML();
   else if (S.view === "place") v.innerHTML = placeHTML();
   else if (S.view === "browse") v.innerHTML = browseHTML();
   else if (S.view === "stats") v.innerHTML = statsHTML();
@@ -1582,6 +1892,7 @@ window.addEventListener("popstate", e => {
 /* ---------- 事件 ---------- */
 document.addEventListener("click", e => {
   if (e.target.id === "fbsheet") { fb = null; return renderFb(); }          // 点弹窗外面关闭
+  const cw = e.target.closest(".cw[data-wid]"); if (cw) return openWord(cw.dataset.wid);
   const row = e.target.closest(".row[data-word]");
   if (row && !e.target.closest("button")) return openWord(row.dataset.word);
   // 语法 / 听力
@@ -1592,6 +1903,15 @@ document.addEventListener("click", e => {
   if (sk) { const t = LIid.get(LV.id), a = lAudio(), b = sk.getBoundingClientRect(); a.currentTime = Math.max(0, Math.min(1, (e.clientX - b.left) / b.width)) * t.dur; lUpd(); return; }
   const t = e.target.closest("button"); if (!t) return;
   const d = t.dataset;
+  if (d.key) return learnKey(d.key);
+  if (d.day) { calInit().sel = +d.day; S.cal.q = ""; render(); if (matchMedia("(max-width: 1099px)").matches) $("#dayp")?.scrollIntoView({ behavior: "smooth", block: "start" }); return; }
+  if (d.ce) return calEdit(d.ce, d.id);
+  if (d.cadd) return calEdit("add", d.cadd);
+  if (d.act === "calprev") return calMove(-1);
+  if (d.act === "calnext") return calMove(1);
+  if (d.act === "caltoday") { const t0 = dDate(today()); Object.assign(calInit(), { y: t0.getUTCFullYear(), m: t0.getUTCMonth(), sel: today(), q: "" }); return render(); }
+  if (d.act === "wset") return openWordSet();
+  if (d.act === "wsetdone") { fb = null; return renderFb(); }
   if (d.glv) { TABS.g = d.glv; lsSet(LS_TABS, TABS); return render(); }
   if (d.llv) { TABS.l = d.llv; lsSet(LS_TABS, TABS); return render(); }
   if (d.gopt) return gPick(+d.gopt);
@@ -1634,7 +1954,6 @@ document.addEventListener("click", e => {
   if (fa === "fbsend") return submitFb();
   if (fa === "fbclose") { fb = null; return renderFb(); }
   if (fa === "sayid") { const w = S.byId.get(t.dataset.id); if (w) sayWord(w); return; }
-  if (fa === "killok") { lsSet(LS_KILLOK, true); fb = null; renderFb(); return kill(true); }
   if (fa === "killid" || fa === "unkill") {
     const id = t.dataset.id, p = S.prog[id];
     setProg(id, fa === "killid" ? [KILL, 0, p?.[2] || 0] : [0, today(), p?.[2] || 0]);   // 撤销后回到“待学”，优先排进新词
@@ -1661,7 +1980,7 @@ document.addEventListener("click", e => {
     const w = S.view === "place" ? S.byId.get(S.place.pool[S.place.i]) : S.session?.current?.w;
     if (w) sayWord(w);
   } else if (act === "next") next();
-  else if (act === "kill") kill(false);
+  else if (act === "kill") kill(S.session?.current);
   else if (act === "hint") { const q = S.session?.current; if (q && !q.answered) { q.hint = true; render(); } }
   else if (act === "skip") skip();
   else if (act === "hold") { clearTimeout(advTimer); const q = S.session?.current; if (q) { q.auto = false; render(); } }
@@ -1682,7 +2001,7 @@ document.addEventListener("click", e => {
   else if (act === "syncnow") syncNow();
   else if (act === "syncoff") { syncCfg = {}; lsSet(LS_SYNC, syncCfg); setSyncState("", "已关闭同步：进度只存在这台设备上"); render(); }
   else if (act === "reset") { $("#resetbox").innerHTML = `<span class="note">确定清空？所有设备上的进度都会清空，无法撤销。</span><button class="btn" data-act="reset2" style="border-color:var(--bad);color:var(--bad)">确定清空</button><button class="btn ghost" data-act="cancel">取消</button>`; }
-  else if (act === "reset2") { S.prog = {}; S.daily = {}; S.gram = {}; S.gx = {}; S.lis = {}; S.resetAt = Date.now(); S.session = null; touch(); syncNow(); render(); }
+  else if (act === "reset2") { S.prog = {}; S.daily = {}; S.wlog = {}; S.gram = {}; S.gx = {}; S.lis = {}; S.resetAt = Date.now(); S.session = null; touch(); syncNow(); render(); }
   else if (act === "cancel") render();
 });
 document.addEventListener("change", e => {
@@ -1691,7 +2010,14 @@ document.addEventListener("change", e => {
   else if (t.id === "bdeck") { S.browse.deck = t.value; S.browse.shown = 60; render(); }
   else if (t.id === "bst") { S.browse.st = t.value; S.browse.shown = 60; render(); }
   else if ({ sautonext: 1, sspelln: 1, sspellr: 1, ssim: 1, ssfx: 1 }[t.id]) setSetting({ sautonext: "autoNext", sspelln: "spellNew", sspellr: "spellReview", ssim: "similar", ssfx: "sfx" }[t.id], t.checked);
-  else if (t.id === "snew") { setSetting("newPerDay", +t.value); S.session = null; }
+  else if (t.id === "snew" || t.id === "sratio" || t.id === "wdeck") {
+    if (t.id === "snew") { const n = Math.max(1, Math.min(300, Math.round(+t.value) || 20)); t.value = n; setSetting("newPerDay", n); }
+    else if (t.id === "sratio") setSetting("reviewRatio", +t.value);
+    else setSetting("deck", t.value);
+    if ($("#fbsheet")) S.wsetDirty = true; else S.session = null;
+    const pl = $("#wplan"); if (pl) pl.innerHTML = planText();
+  }
+  else if (t.classList.contains("duein")) calEdit("date", t.dataset.id, t.value);
   else if (t.id === "svoice") setSetting("voice", t.value);
   else if (t.id === "sauto") setSetting("autoplay", t.checked);
   else if (t.id === "srate") setSetting("rate", +t.value);
@@ -1702,6 +2028,7 @@ document.addEventListener("input", e => {
   if (e.target.dataset?.gap != null) { const c = GV.run && GV.run.k < GV.run.items.length && curEx(GV.run); if (c && !c.done) c.vals[+e.target.dataset.gap] = e.target.value; }
   if (e.target.id === "dict" && !LV.dres) LV.dv = e.target.value;
   if (e.target.id === "bq") { S.browse.q = e.target.value; S.browse.shown = 60; const pos = e.target.selectionStart; render(); const i = $("#bq"); i.focus(); i.setSelectionRange(pos, pos); }
+  if (e.target.id === "caddq") { S.cal.q = e.target.value; const r = $("#caddres"); if (r) r.innerHTML = caddRes(S.cal.sel); }
   if (e.target.id === "srate") { const r = $("#ratev"); if (r) r.textContent = (+e.target.value).toFixed(2); }
 });
 document.addEventListener("keydown", e => {
@@ -1721,11 +2048,12 @@ document.addEventListener("keydown", e => {
     if (e.key === "Enter" && LV.mode === "d" && LV.dres) { e.preventDefault(); return ldNext(); }
     return;
   }
-  if (S.view === "learn" && S.session?.summary) { if (e.key === "Enter") { e.preventDefault(); sumNext(); } return; }
+  if (S.view === "learn" && S.session?.summary) { if (e.key === "Enter" || e.key.toLowerCase() === "f") { e.preventDefault(); sumNext(); } return; }
+  if (S.view === "learn" && S.session && e.key.length === 1 && "dfasg".includes(e.key.toLowerCase())) { e.preventDefault(); return learnKey(e.key.toLowerCase()); }
   if (S.view === "learn" && S.session?.current) {
-    const q = S.session.current;
-    if (!q.answered && /^[1-4]$/.test(e.key) && +e.key <= q.opts.length) { e.preventDefault(); answer(+e.key - 1); }
-    else if (q.answered && e.key === "Enter") { e.preventDefault(); next(); }
+    const s = S.session, q = s.hpos != null ? s.hist[s.hpos].q : s.current;
+    if (s.hpos == null && !q.answered && /^[1-4]$/.test(e.key) && +e.key <= q.opts.length) { e.preventDefault(); answer(+e.key - 1); }
+    else if (e.key === "Enter" && (s.hpos != null || q.answered)) { e.preventDefault(); learnKey("f"); }
     else if (e.key === " ") { e.preventDefault(); sayWord(q.w); }
   } else if (S.view === "place" && S.place && S.place.i < S.place.pool.length) {
     if (e.key === "ArrowRight") { e.preventDefault(); placeMark(true); }
@@ -1736,7 +2064,7 @@ document.addEventListener("keydown", e => {
 });
 
 /* ---------- 自动更新（和送报 App 一样：打开/切回前台时检查新版本） ---------- */
-const APP_VERSION = "2026-11-10.2";
+const APP_VERSION = "2026-11-17.1";
 if ("serviceWorker" in navigator && location.protocol === "https:") {
   navigator.serviceWorker.register("sw.js", { updateViaCache: "none" }).then(reg => {
     document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") reg.update().catch(() => {}); });
