@@ -1034,7 +1034,7 @@ function exLine(w, showZh, sent) {
 }
 const KEYS = [["d", "上一个"], ["a", "不认识"], ["s", "看意思"], ["f", "下一个"], ["g", "斩"]];
 function keybarHTML() {
-  return `<div class="keybar" role="toolbar" aria-label="快捷键">${KEYS.map(([k, t]) => `<button type="button" data-key="${k}"><kbd>${k.toUpperCase()}</kbd>${t}</button>`).join("")}<span class="kbx">1–4 选项 · 空格 发音 · Enter 下一个</span></div>`;
+  return `<div class="keybar" role="toolbar" aria-label="快捷键">${KEYS.map(([k, t]) => `<button type="button" data-key="${k}"><kbd>${k.toUpperCase()}</kbd>${t}</button>`).join("")}<span class="kbx">QWER 选项 · 空格 发音 · Enter 下一个</span></div>`;
 }
 function learnHTML() {
   const s = S.session;
@@ -1085,7 +1085,7 @@ function learnHTML() {
     if (q.answered && o.right) { st = " ok"; mark = "✓"; }
     else if (q.tried.includes(i)) { st = " bad"; mark = "✗"; }
     const big = (q.type === "gender" || q.type === "aux") ? " big" : "";
-    return `<button type="button" class="opt${o.de ? " de" : ""}${big}${st}${o.cls ? " " + o.cls : ""}" data-opt="${i}" ${a || hv || q.tried.includes(i) ? "disabled" : ""}><kbd>${i + 1}</kbd><span class="t">${esc(o.label)}</span><span class="mark">${mark}</span></button>`;
+    return `<button type="button" class="opt${o.de ? " de" : ""}${big}${st}${o.cls ? " " + o.cls : ""}" data-opt="${i}" ${a || hv || q.tried.includes(i) ? "disabled" : ""}><kbd>${"QWER"[i]}</kbd><span class="t">${esc(o.label)}</span><span class="mark">${mark}</span></button>`;
   }).join("");
   const p = S.prog[w.id];
   const kindChip = { new: `新词 ${q.item.stage + 1}/${q.item.road?.length || 3}`, review: "复习", spellcheck: "组末拼写" }[q.item.kind];
@@ -1240,7 +1240,7 @@ function wordSetHTML() {
        ["sspellr", "spellReview", "复习时也出拼写题"],
        ["ssim", "similar", "德语选项用形近词（更难，像百词斩的“易混词”）"],
        ["ssfx", "sfx", "答题音效"]].map(([id, k, t]) => `<label style="display:flex;gap:8px;align-items:center"><input id="${id}" type="checkbox"${st[k] ? " checked" : ""}> ${t}</label>`).join("")}
-    <p class="note" style="margin:0">按键：D 上一个 · F 下一个（没标记就算认识）· A 不认识 · S 看意思（算不认识）· G 斩（不同的两天各斩一次才永久不出现）· 1–4 选项 · 空格 发音。</p>
+    <p class="note" style="margin:0">按键：D 上一个 · F 下一个（没标记就算认识）· A 不认识 · S 看意思（算不认识）· G 斩（不同的两天各斩一次才永久不出现）· Q W E R 选第 1–4 个选项 · 空格 发音。</p>
   </div>`;
 }
 function openWordSet() { openSheet(`<h3>单词设置</h3>${wordSetHTML()}<div class="actions" style="margin:0"><button type="button" class="btn primary" data-act="wsetdone">完成</button></div>`); }
@@ -2052,7 +2052,8 @@ document.addEventListener("keydown", e => {
   if (S.view === "learn" && S.session && e.key.length === 1 && "dfasg".includes(e.key.toLowerCase())) { e.preventDefault(); return learnKey(e.key.toLowerCase()); }
   if (S.view === "learn" && S.session?.current) {
     const s = S.session, q = s.hpos != null ? s.hist[s.hpos].q : s.current;
-    if (s.hpos == null && !q.answered && /^[1-4]$/.test(e.key) && +e.key <= q.opts.length) { e.preventDefault(); answer(+e.key - 1); }
+    const oi = "qwer".indexOf(e.key.toLowerCase());
+    if (e.key.length === 1 && oi >= 0 && s.hpos == null && !q.answered && oi < q.opts.length) { e.preventDefault(); answer(oi); }
     else if (e.key === "Enter" && (s.hpos != null || q.answered)) { e.preventDefault(); learnKey("f"); }
     else if (e.key === " ") { e.preventDefault(); sayWord(q.w); }
   } else if (S.view === "place" && S.place && S.place.i < S.place.pool.length) {
@@ -2064,7 +2065,7 @@ document.addEventListener("keydown", e => {
 });
 
 /* ---------- 自动更新（和送报 App 一样：打开/切回前台时检查新版本） ---------- */
-const APP_VERSION = "2026-11-17.1";
+const APP_VERSION = "2026-11-17.2";
 if ("serviceWorker" in navigator && location.protocol === "https:") {
   navigator.serviceWorker.register("sw.js", { updateViaCache: "none" }).then(reg => {
     document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") reg.update().catch(() => {}); });
