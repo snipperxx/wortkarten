@@ -373,6 +373,42 @@ h3 { font: 600 16px var(--f-word); margin: 18px 0 8px; }
 .favgrp input[type=date], .wsched input[type=date] { font: inherit; background: var(--soft); color: var(--ink); border: 1px solid var(--line); border-radius: 6px; padding: 3px 6px; }
 .favgrp button, .wsched button { font-size: 13px; padding: 4px 10px; border-radius: 8px; border: 1px solid var(--line); background: var(--card); color: var(--ink); }
 .wsched { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin: 4px 0 12px; font-size: 14px; color: var(--muted); }
+.exsec { margin: 18px 0 6px; font-size: 15px; }
+.exteil { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 4px 12px; align-items: center; padding: 9px 0; border-top: 1px solid var(--line); }
+.exteil .zh { color: var(--muted); font-size: 13px; }
+.exteil button, .exbtns button { font-size: 13px; padding: 5px 12px; border-radius: 8px; border: 1px solid var(--line); background: var(--card); color: var(--ink); }
+.exteil button:disabled, .exbtns button:disabled { opacity: .4; }
+.exbtns { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin: 6px 0; }
+.exhead { display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: baseline; font-size: 13px; color: var(--muted); margin-bottom: 8px; }
+.exhead b { color: var(--ink); font-size: 15px; }
+.exinst { font: 15px/1.5 var(--f-word); margin: 0 0 4px; }
+.extext { background: var(--soft); border-radius: 10px; padding: 12px 14px; margin: 12px 0 8px; font: 16px/1.6 var(--f-word); }
+.extext h4 { margin: 0 0 6px; font: 600 16px var(--f-word); }
+.extext p { margin: 0 0 8px; } .extext p:last-child { margin: 0; }
+.exad { border: 1px solid var(--line); border-radius: 10px; padding: 8px 12px; margin: 6px 0; font: 15px/1.45 var(--f-word); }
+.exad .k { display: inline-block; min-width: 22px; font-weight: 700; }
+.exaudio { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin: 12px 0 6px; padding: 10px 12px; background: var(--soft); border-radius: 10px; font-size: 14px; }
+.exaudio button { border: 1px solid var(--line); background: var(--card); border-radius: 999px; padding: 6px 14px; color: var(--ink); }
+.extr { font: 14px/1.5 var(--f-word); margin: 4px 0 8px; } .extr div { margin: 2px 0; } .extr .zh { color: var(--muted); font-family: var(--f-ui); font-size: 13px; }
+.exq { padding: 9px 0; border-top: 1px dashed var(--line); }
+.exq .qt { font: 15px/1.45 var(--f-word); margin-bottom: 6px; }
+.exq .qt .n { font: 600 12px var(--f-mono); color: var(--muted); margin-right: 6px; }
+.exq .ch { display: flex; flex-wrap: wrap; gap: 6px; }
+.exq .ch button { border: 1px solid var(--line); background: var(--card); color: var(--ink); border-radius: 8px; padding: 6px 12px; font: 14px/1.35 var(--f-word); text-align: left; }
+.exq .ch button[aria-pressed="true"] { border-color: var(--ink); background: var(--ink); color: var(--card); }
+.exq .ch button.ok { border-color: var(--ok); color: var(--ok); background: var(--card); } .exq .ch button.bad { border-color: var(--bad); color: var(--bad); background: var(--card); text-decoration: line-through; }
+.exq select, .exq input, .exw textarea { font: inherit; background: var(--soft); color: var(--ink); border: 1px solid var(--line); border-radius: 8px; padding: 6px 10px; }
+.exq .fb { font-size: 13px; margin-top: 4px; } .exq .fb.ok { color: var(--ok); } .exq .fb.bad { color: var(--bad); }
+.exq .fb .e { color: var(--muted); }
+.exw { margin: 14px 0; } .exw textarea { width: 100%; min-height: 180px; font: 16px/1.55 var(--f-word); }
+.exw ul { margin: 4px 0 8px 18px; padding: 0; font: 15px/1.5 var(--f-word); }
+.exw .cnt { font-size: 12px; color: var(--muted); text-align: right; }
+.exmodel { white-space: pre-wrap; font: 15px/1.55 var(--f-word); background: var(--soft); border-radius: 10px; padding: 10px 12px; }
+.exres { display: grid; grid-template-columns: minmax(0, 1fr) auto auto; gap: 6px 14px; align-items: baseline; }
+.exres .ok { color: var(--ok); } .exres .bad { color: var(--bad); }
+.exsub { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 2px 12px; padding: 9px 0; border-top: 1px solid var(--line); cursor: pointer; font-size: 14px; }
+.exsub .zh { color: var(--muted); font-size: 12px; grid-column: 1 / -1; }
+.grtab { display: grid; grid-template-columns: auto auto minmax(0, 1fr); gap: 4px 12px; font-size: 14px; }
 .histnote { font-size: 13px; color: var(--muted); background: var(--soft); border-radius: 8px; padding: 6px 12px; margin: 0 auto 10px; display: inline-block; }
 .gear { border: 1px solid var(--line); background: var(--card); border-radius: 6px; padding: 3px 10px; font-size: 13px; color: var(--ink); }
 @media (min-width: 1100px) { .stage.solo .inline-detail { display: block; } .stage.solo .word { font-size: 58px; } }
@@ -444,6 +480,7 @@ body.haskb .toast { bottom: calc(76px + env(safe-area-inset-bottom, 0px)); }
       <button data-v="cal">日历</button>
       <button data-v="grammar">语法</button>
       <button data-v="listen">听力</button>
+      <button data-v="exam">考试</button>
       <button data-v="place">摸底</button>
       <button data-v="browse">词库</button>
       <button data-v="fav">收藏</button>
@@ -484,6 +521,7 @@ const S = {
   gx: {},              // 做错的语法题 "g012.3" -> [盒, 到期日, 修改时间]
   lis: {},             // 听力 id -> {s: 最好成绩%, last, d: 听写正确率%, t}
   wlog: {},            // day -> { 词id: [0 新学 / 1 复习, 结果 0 不认识 / 1 认识 / 2 斩 1/2 / 3 永久斩 / -1 已删, 修改时间ms] }（日历用，2026-11-17 起）
+  ex: { att: {}, subs: {}, gr: {} },   // 考试：做过的套题 / 写作口语提交 / Claude 的批改
   fav: {},            // 收藏：词id -> [收藏日期 day, 修改时间ms, 1 收藏 / 0 已取消]
   resetAt: 0,
   view: "learn", favUI: { sort: "new" }, session: null, place: null, lastAnswered: null,
@@ -542,7 +580,7 @@ async function sayWord(w) {
 const PLAY = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9v6h4l5 4V5L8 9H4zm12.5 3a4.5 4.5 0 0 0-2.5-4v8a4.5 4.5 0 0 0 2.5-4zM14 3.2v2.1a7 7 0 0 1 0 13.4v2.1a9 9 0 0 0 0-17.6z"/></svg>';
 
 /* ---------- 本地存储 + 合并 ---------- */
-const snapshot = () => ({ v: 5, prog: S.prog, wlog: S.wlog, fav: S.fav, gram: S.gram, gx: S.gx, lis: S.lis, settings: S.settings, settingsAt: S.settingsAt, daily: S.daily, resetAt: S.resetAt });
+const snapshot = () => ({ v: 5, prog: S.prog, wlog: S.wlog, fav: S.fav, ex: S.ex, gram: S.gram, gx: S.gx, lis: S.lis, settings: S.settings, settingsAt: S.settingsAt, daily: S.daily, resetAt: S.resetAt });
 function upgradeDaily(daily) {          // v1 的 {n, r} → {legacy: {n, r}}
   const out = {};
   for (const [d, v] of Object.entries(daily || {})) out[d] = typeof v?.n === "number" ? { legacy: v } : v;
@@ -581,13 +619,14 @@ function merge(a, b) {
         if (!day[id] || (r[2] || 0) > (day[id][2] || 0)) day[id] = r;
       }
   const newer = (b.settingsAt || 0) > (a.settingsAt || 0) ? b : a;
-  return { v: 5, prog, wlog, daily, resetAt, fav: keyed(a.fav, b.fav, v => v[1]), gram: keyed(a.gram, b.gram, v => v.t), gx: keyed(a.gx, b.gx, v => v[2]), lis: keyed(a.lis, b.lis, v => v.t),
+  return { v: 5, prog, wlog, daily, resetAt, fav: keyed(a.fav, b.fav, v => v[1]),
+    ex: { att: keyed(a.ex?.att, b.ex?.att, v => v.t), subs: keyed(a.ex?.subs, b.ex?.subs, v => v.u), gr: keyed(a.ex?.gr, b.ex?.gr, v => v.t) }, gram: keyed(a.gram, b.gram, v => v.t), gx: keyed(a.gx, b.gx, v => v[2]), lis: keyed(a.lis, b.lis, v => v.t),
     settings: { ...a.settings, ...newer.settings }, settingsAt: Math.max(a.settingsAt || 0, b.settingsAt || 0) };
 }
 function adopt(d) {
   const m = merge(snapshot(), d || {});
   S.prog = m.prog; S.daily = m.daily; S.resetAt = m.resetAt; S.settings = { ...S.settings, ...m.settings }; S.settingsAt = m.settingsAt;
-  S.gram = m.gram; S.gx = m.gx; S.lis = m.lis; S.wlog = m.wlog; S.fav = m.fav || {};
+  S.gram = m.gram; S.gx = m.gx; S.lis = m.lis; S.wlog = m.wlog; S.fav = m.fav || {}; S.ex = m.ex || { att: {}, subs: {}, gr: {} };
 }
 function saveLocal() { lsSet(LS, snapshot()); }
 // p[4] = 第一次斩的日期（斩 1/2）；要换一天再斩一次才永久不出现
@@ -1925,6 +1964,250 @@ function openSheet(html) {
   if (!el) { el = document.createElement("div"); el.id = "fbsheet"; el.className = "overlay"; document.body.appendChild(el); }
   el.innerHTML = `<div class="sheet" role="dialog" aria-modal="true">${html}</div>`;
 }
+/* ---------- 考试：私有题库（用户自己下载的官方模拟题 / 备考书，凭密码从 Worker 读取）+ 写作口语交给 Claude 批改 ---------- */
+const EXAM_API = "https://wortkarten-feedback.snipperxx.workers.dev";
+const LS_EXKEY = "wortkarten-examkey", LS_EXBANK = "wortkarten-exambank", LS_EXRUN = "wortkarten-exrun";
+const MODN = { L: "Lesen", H: "Hören", S: "Schreiben", M: "Sprechen" }, MODZ = { L: "阅读", H: "听力", S: "写作", M: "口语" };
+let EXM = null, EXB = null, EXBid = new Map(), exLoading = null, exGradeAt = 0, exTimer = 0;
+const EX = { lv: TABS.x || "B1", run: lsGet(LS_EXRUN, null), view: "home", err: "" };
+const loadExMeta = lazyJSON("exam_meta.json", d => { EXM = d; });
+const exKey = () => lsGet(LS_EXKEY, "");
+function exSetBank(b) { EXB = b; EXBid = new Map((b?.tasks || []).map(t => [t.id, t])); }
+function loadBank(force) {
+  if ((EXB && !force) || exLoading || !exKey()) return;
+  exLoading = (async () => {
+    try {
+      const r = await fetch(EXAM_API + "/exam/bank", { headers: { "X-Exam-Key": exKey() }, cache: "no-store" });
+      if (r.status === 401) { EX.err = "密码不对，请重新输入。"; lsSet(LS_EXKEY, ""); exSetBank(null); }
+      else if (r.status === 404) { EX.err = ""; exSetBank({ tasks: [], meta: { sets: {} } }); }
+      else if (!r.ok) throw new Error(r.status);
+      else { const b = await r.json(); exSetBank(b); EX.err = ""; lsSet(LS_EXBANK, b); }
+    } catch {
+      const c = lsGet(LS_EXBANK, null);
+      if (c) { exSetBank(c); EX.err = "离线：用的是上次下载的题库。"; } else EX.err = "题库加载失败，联网后再试。";
+    } finally { exLoading = null; if (S.view === "exam") render(); }
+  })();
+}
+const exMedia = new Map();
+async function exAudioURL(f) {
+  if (exMedia.has(f)) return exMedia.get(f);
+  const r = await fetch(EXAM_API + "/exam/media/" + f, { headers: { "X-Exam-Key": exKey() } });
+  if (!r.ok) throw new Error(r.status);
+  const u = URL.createObjectURL(await r.blob()); exMedia.set(f, u); return u;
+}
+let exAud = null, exAudKey = "";
+async function exPlay(ti, ii) {
+  const run = EX.run, t = EXBid.get(run.tasks[ti]), it = t?.items[ii]; if (!it?.f) return;
+  const key = `${t.id}.${ii}`, limit = run.mode !== "teil" && !run.done ? it.plays : 0, used = run.plays[key] || 0;
+  if (exAud && exAudKey === key) { if (exAud.paused) exAud.play(); else exAud.pause(); return render(); }   // 暂停 / 继续不算多听一遍
+  if (limit && used >= limit) return toast(`考试时这段只能听 ${limit} 遍`);
+  try {
+    const u = await exAudioURL(it.f);
+    if (exAud) exAud.pause();
+    exAud = new Audio(u); exAudKey = key;
+    exAud.onpause = () => { if (S.view === "exam") render(); };
+    exAud.onended = () => { exAudKey = ""; if (S.view === "exam") render(); };
+    run.plays[key] = used + 1; exSave();
+    await exAud.play(); render();
+  } catch { toast("音频加载失败（网络？）"); }
+}
+function exStop() { if (exAud) { exAud.pause(); exAud = null; exAudKey = ""; } }
+const exSave = () => lsSet(LS_EXRUN, EX.run);
+const exTasks = (lv, mod, teil) => (EXB?.tasks || []).filter(t => t.lv === lv && (!mod || t.mod === mod) && (!teil || t.teil === teil));
+const exSetName = (lv, n) => EXB?.meta?.sets?.[`${lv}-${n}`] || `${lv} 模拟套题 ${n}`;
+function exNewRun(ids, mode, label) {
+  exStop();
+  EX.run = { id: "r" + Date.now().toString(36), tasks: ids, i: 0, ans: {}, w: {}, plays: {}, mode, label, lv: EXBid.get(ids[0])?.lv, t0: Date.now(), done: false };
+  EX.view = "run"; exSave(); render(); window.scrollTo(0, 0);
+}
+function exStartTeil(mod, teil) {
+  const pool = exTasks(EX.lv, mod, teil); if (!pool.length) return;
+  const seen = new Set(Object.values(S.ex.att).flatMap(a => a.tasks || []));
+  const fresh = pool.filter(t => !seen.has(t.id)), pick = (fresh.length ? fresh : pool)[Math.random() * (fresh.length || pool.length) | 0];
+  exNewRun([pick.id], "teil", `${MODN[mod]} Teil ${teil} · ${exSetName(EX.lv, pick.set)}`);
+}
+function exStartSet(set, mods) {
+  const ids = exTasks(EX.lv).filter(t => t.set === set && mods.includes(t.mod)).map(t => t.id); if (!ids.length) return;
+  exNewRun(ids, "set", `${exSetName(EX.lv, set)} · ${mods.length === 4 ? "全套" : mods.split("").map(m => MODN[m]).join(" + ")}`);
+}
+function exStartRand(mods) {
+  const ids = [];
+  for (const m of mods) { const n = EXM?.levels?.[EX.lv]?.mods?.[m]?.teile.length || 6;
+    for (let k = 1; k <= n; k++) { const pool = exTasks(EX.lv, m, k); if (pool.length) ids.push(pool[Math.random() * pool.length | 0].id); } }
+  if (!ids.length) return;
+  exNewRun(ids, "rand", `${EX.lv} 随机套题 · ${mods.length === 4 ? "全套" : mods.split("").map(m => MODN[m]).join(" + ")}`);
+}
+const exNorm = x => String(x ?? "").normalize("NFC").trim().toLowerCase().replace(/\s+/g, " ").replace(/[.!?]+$/, "");
+function exRight(q, v) {
+  if (v == null || v === "") return false;
+  if (q.t === "gap") return q.a.some(a => exNorm(a) === exNorm(v));
+  return v === q.a;
+}
+function exScore(run) {
+  const sc = {};
+  for (const id of run.tasks) { const t = EXBid.get(id); if (!t?.q.length) continue;   // 只有写作 / 口语的部分不算客观分
+    const c = (sc[t.mod] = sc[t.mod] || [0, 0]);
+    t.q.forEach((q, qi) => { c[1]++; if (exRight(q, run.ans[id]?.[qi])) c[0]++; }); }
+  return sc;
+}
+function exFinish() {
+  const run = EX.run; if (!run || run.done) return;
+  exStop(); run.done = true; run.t1 = Date.now();
+  const subs = [];
+  for (const id of run.tasks) { const t = EXBid.get(id);
+    (t?.wq || []).forEach((w, k) => { const text = (run.w[id]?.[k] || "").trim(); if (text.length < 2) return;
+      const sid = `s${Date.now().toString(36)}${Math.random().toString(36).slice(2, 7)}`;
+      S.ex.subs[sid] = { task: id, k, lv: t.lv, kind: w.kind, text, t: Date.now(), u: Date.now(), sent: 0, run: run.id }; subs.push(sid); }); }
+  S.ex.att[run.id] = { t: Date.now(), lv: run.lv, label: run.label, mode: run.mode, sc: exScore(run), subs, tasks: run.tasks, min: Math.round((run.t1 - run.t0) / 60000) };
+  run.subs = subs; touch(); exSave(); exSend();
+  EX.view = "result"; render(); window.scrollTo(0, 0);
+}
+async function exSend() {
+  const pend = Object.entries(S.ex.subs).filter(([, x]) => !x.sent).slice(0, 8);
+  if (!pend.length || !navigator.onLine) return;
+  try {
+    const r = await fetch(EXAM_API + "/exam/submit", { method: "POST", headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ subs: pend.map(([id, x]) => ({ id, task: x.task, k: x.k, lv: x.lv, kind: x.kind, text: x.text, at: new Date(x.t).toISOString() })), app: APP_VERSION, device: DEV }) });
+    const j = await r.json();
+    if (j.ok) { for (const id of j.saved || []) { S.ex.subs[id].sent = 1; S.ex.subs[id].u = Date.now(); } touch(); if (S.view === "exam") render(); }
+  } catch {}
+}
+async function exGrades(force) {
+  const ids = Object.entries(S.ex.subs).filter(([id, x]) => x.sent && !S.ex.gr[id]).map(([id]) => id).slice(0, 40);
+  if (!ids.length || (!force && Date.now() - exGradeAt < 30000)) return;
+  exGradeAt = Date.now();
+  try {
+    const j = await (await fetch(EXAM_API + "/exam/grades?ids=" + ids.join(","), { cache: "no-store" })).json();
+    const got = Object.entries(j.grades || {});
+    if (got.length) { got.forEach(([id, g]) => { S.ex.gr[id] = { ...g, t: g.t || Date.now() }; }); touch(); if (S.view === "exam") render(); toast(`收到 ${got.length} 份 Claude 的批改`); }
+  } catch {}
+}
+function exStatus(id) { const x = S.ex.subs[id], g = S.ex.gr[id]; return g ? `已批改${g.score != null ? ` · ${g.score}/${g.max}` : ""}` : x.sent ? "等 Claude 批改" : "还没上传（联网后自动传）"; }
+function exGradeHTML(id) {
+  const x = S.ex.subs[id], g = S.ex.gr[id], t = EXBid.get(x.task), w = t?.wq?.[x.k];
+  const sec = (h, b) => b ? `<div><div class="sect">${h}</div>${b}</div>` : "";
+  return `<h3>${esc(t ? `${t.lv} ${t.name}` : x.task)} · ${x.kind === "speak" ? "口语" : "写作"}</h3>
+    <p class="note" style="margin:0">${new Date(x.t).toLocaleString("zh-CN")} · ${exStatus(id)}</p>
+    ${w ? sec("题目", `<div class="exinst">${esc(w.p)}</div>${w.pts?.length ? `<ul>${w.pts.map(p => `<li>${esc(p)}</li>`).join("")}</ul>` : ""}`) : ""}
+    ${sec("你写的", `<div class="exmodel">${esc(x.text)}</div>`)}
+    ${g ? sec("评价", `${g.score != null ? `<p style="margin:0 0 6px"><b>${g.score} / ${g.max}</b></p>` : ""}${g.summary ? `<p style="margin:0">${esc(g.summary)}</p>` : ""}`)
+      + (g.criteria?.length ? sec("分项", `<div class="grtab">${g.criteria.map(c => `<span>${esc(c[0])}</span><b>${esc(c[1])}</b><span class="note" style="margin:0">${esc(c[2] || "")}</span>`).join("")}</div>`) : "")
+      + (g.notes?.length ? sec("改错", g.notes.map(n => `<div class="exq"><div><s>${esc(n[0])}</s></div><div style="color:var(--ok)">${esc(n[1])}</div>${n[2] ? `<div class="note" style="margin:0">${esc(n[2])}</div>` : ""}</div>`).join("")) : "")
+      + sec("改正后的全文", g.corrected ? `<div class="exmodel">${esc(g.corrected)}</div>` : "")
+      + sec("Claude 的参考答案", g.model ? `<div class="exmodel">${esc(g.model)}</div>` : "")
+      + sec("下次怎么提高", g.tips ? `<p style="margin:0">${esc(g.tips)}</p>` : "")
+      : `<p class="note">还没批改。在电脑上对 Claude 说「批改考试题」，批改好后这里会自动显示。</p>`}
+    ${w?.model ? sec("题库自带的参考答案", `<div class="exmodel">${esc(w.model)}</div>`) : ""}
+    <div class="actions" style="margin:0"><button type="button" class="btn ghost" data-act="fbclose">关闭</button></div>`;
+}
+function exHomeHTML() {
+  const lv = EX.lv, M = EXM?.levels?.[lv], lvs = Object.keys(EXM?.levels || { A1: 1, A2: 1, B1: 1, B2: 1 });
+  const tabs = `<div class="lvtabs">${lvs.map(l => `<button type="button" data-exlv="${l}" aria-pressed="${l === lv}">${l}<small>${exTasks(l).length}</small></button>`).join("")}</div>`;
+  if (!exKey()) return `<div class="card"><h2>考题库</h2>${tabs}
+    <p>题库里放的是你自己下载的官方模拟题（Goethe Übungssatz）和备考书，有版权，所以不放在公开网站上，要输入密码才能读取。</p>
+    <p class="note">密码在电脑上的 <code>德语\\Wortkarten\\exam_private\\KEY.txt</code>，每台设备输入一次就会记住。</p>
+    ${EX.err ? `<p class="note" style="color:var(--bad)">${esc(EX.err)}</p>` : ""}
+    <div class="tools"><input id="exkey" type="password" autocomplete="off" placeholder="题库密码" aria-label="题库密码"><button type="button" class="btn primary" data-act="exkey">确定</button></div></div>`;
+  if (!EXB) { loadBank(); return `<div class="card"><h2>考题库</h2>${tabs}<p class="note">${EX.err ? esc(EX.err) : "正在加载题库…"}</p></div>`; }
+  exSend(); exGrades();
+  const all = exTasks(lv), sets = [...new Set(all.map(t => t.set))].sort((a, b) => a - b);
+  const modsOf = set => "LHSM".split("").filter(m => all.some(t => t.set === set && t.mod === m));
+  let teile = "";
+  for (const m of "LHSM") {
+    const tl = M?.mods?.[m]?.teile || [];
+    teile += `<h3 class="exsec">${MODN[m]}（${MODZ[m]}${M?.mods?.[m]?.min ? ` · 考试 ${M.mods[m].min} 分钟` : ""}）</h3>` + tl.map((x, i) => {
+      const n = exTasks(lv, m, i + 1).length;
+      return `<div class="exteil"><span>Teil ${i + 1}<div class="zh">${esc(x.zh)} · 题库 ${n} 个</div></span><button type="button" data-exteil="${m}${i + 1}"${n ? "" : " disabled"}>练习</button></div>`; }).join("");
+  }
+  const setRows = sets.map(n => `<div class="exteil"><span>${esc(exSetName(lv, n))}</span><span class="exbtns"><button type="button" data-exset="${n}|LHSM">全套</button>${modsOf(n).map(m => `<button type="button" data-exset="${n}|${m}">${MODZ[m]}</button>`).join("")}</span></div>`).join("");
+  const subs = Object.entries(S.ex.subs).filter(([, x]) => x.lv === lv).sort((a, b) => b[1].t - a[1].t);
+  const atts = Object.values(S.ex.att).filter(a => a.lv === lv).sort((a, b) => b.t - a.t).slice(0, 12);
+  const pass = EXM?.pass || 60, scTxt = sc => Object.entries(sc).map(([m, [a, n]]) => { const p = Math.round(100 * a / n); return `${MODZ[m]} <b class="${p >= pass ? "ok" : "bad"}">${p}</b>`; }).join(" · ");
+  const cont = EX.run && !EX.run.done ? `<div class="plan">有一套没做完：${esc(EX.run.label)}（第 ${EX.run.i + 1}/${EX.run.tasks.length} 部分）<button type="button" class="btn primary" data-act="excont" style="margin-left:8px">继续</button></div>` : "";
+  return `<div class="card"><h2>考题库 · ${esc(M?.name || lv)}</h2>${tabs}${cont}
+    ${EX.err ? `<p class="note">${esc(EX.err)}</p>` : ""}
+    ${!all.length ? `<p class="note">这个级别的题库还是空的。把下载好的官方模拟题（PDF + 听力 mp3）或备考书放进电脑的 <code>德语\\Wortkarten\\exam_private\\src</code>，再让 Claude 转换上传。</p>` : ""}
+    <h3 class="exsec">整套模拟</h3>
+    ${sets.length ? setRows : `<p class="note">还没有成套的题。</p>`}
+    <div class="exteil"><span>随机抽一套<div class="zh">每个 Teil 从所有套题里随机抽一题，凑成一整套</div></span><span class="exbtns"><button type="button" data-exrand="LHSM"${all.length ? "" : " disabled"}>全套</button>${"LHSM".split("").map(m => `<button type="button" data-exrand="${m}"${exTasks(lv, m).length ? "" : " disabled"}>${MODZ[m]}</button>`).join("")}</span></div>
+    <p class="note">整套模式按考试规定：听力只能听规定的遍数、计时；交卷后能看每题答案、解析和听力原文。写作和口语交卷后会传给 Claude 批改。</p>
+    <h3 class="exsec" style="margin-top:22px">分题型练习</h3>${teile}
+    ${subs.length ? `<h3 class="exsec" style="margin-top:22px">写作 / 口语批改</h3>${subs.map(([id, x]) => { const t = EXBid.get(x.task); return `<div class="exsub" data-exsub="${id}"><span>${esc(t?.name || x.task)} · ${x.kind === "speak" ? "口语" : "写作"}</span><b>${exStatus(id)}</b><span class="zh">${esc(x.text.slice(0, 60))}…</span></div>`; }).join("")}<div class="exbtns"><button type="button" data-act="exgr">检查有没有新批改</button></div>` : ""}
+    ${atts.length ? `<h3 class="exsec" style="margin-top:22px">做题记录</h3><div class="list">${atts.map(a => `<div class="row"><span>${esc(a.label)}</span><span class="m">${scTxt(a.sc) || "只有写作 / 口语"}</span><span class="st">${dLabel(Math.floor((a.t - new Date(a.t).getTimezoneOffset() * 6e4) / 864e5))}</span></div>`).join("")}</div>` : ""}
+    <p class="note" style="margin-top:18px">${esc(EXM?.note || "")}${M?.url ? ` 官方页面：<a href="${esc(M.url)}" target="_blank" rel="noopener">${esc(M.name)}</a>` : ""}</p>
+    <div class="exbtns"><button type="button" data-act="exreload">重新下载题库</button><button type="button" data-act="exlogout">换密码</button></div></div>`;
+}
+function exQHTML(t, q, qi, num, run) {
+  const v = run.ans[t.id]?.[qi], done = run.done, ok = done && exRight(q, v);
+  const btn = (val, label, i) => { let c = ""; if (done) { if (val === q.a) c = "ok"; else if (val === v) c = "bad"; }
+    return `<button type="button" data-exa="${t.id}|${qi}|${i}" aria-pressed="${!done && v === val}" class="${c}"${done ? " disabled" : ""}>${label}</button>`; };
+  let body = "";
+  if (q.t === "rf") body = `<div class="ch">${btn(true, "richtig", 1)}${btn(false, "falsch", 0)}</div>`;
+  else if (q.t === "yn") body = `<div class="ch">${btn(true, "Ja", 1)}${btn(false, "Nein", 0)}</div>`;
+  else if (q.t === "mc") body = `<div class="ch">${q.o.map((o, i) => btn(i, `${"abc"[i] || i + 1}) ${esc(o)}`, i)).join("")}</div>`;
+  else if (q.t === "m") body = `<select data-exm="${t.id}|${qi}"${done ? " disabled" : ""}><option value="">选择…</option>${(t.opts || []).map(o => `<option value="${esc(o.k)}"${v === o.k ? " selected" : ""}>${esc(o.k)}${o.l ? " · " + esc(o.l.slice(0, 70)) : ""}</option>`).join("")}</select>`;
+  else body = `<input data-exg="${t.id}|${qi}" value="${esc(v || "")}" autocomplete="off" spellcheck="false"${done ? " readonly" : ""}>`;
+  const ans = q.t === "rf" ? (q.a ? "richtig" : "falsch") : q.t === "yn" ? (q.a ? "Ja" : "Nein") : q.t === "mc" ? `${"abc"[q.a]}) ${q.o[q.a]}` : q.t === "m" ? q.a : q.a[0];
+  const fb = done ? `<div class="fb ${ok ? "ok" : "bad"}">${ok ? "✓ 对" : `✗ 正确答案：${esc(ans)}`}${q.e ? ` <span class="e">· ${esc(q.e)}</span>` : ""}</div>` : "";
+  return `<div class="exq"><div class="qt"><span class="n">${num}</span>${esc(q.q)}</div>${body}${fb}</div>`;
+}
+function exRunHTML() {
+  const run = EX.run, t = EXBid.get(run.tasks[run.i]);
+  if (!t) return `<div class="card"><p class="note">这套题的内容在题库里找不到了（题库更新过？）。</p><button class="btn" data-act="exhome">回考试首页</button></div>`;
+  let off = 0; for (let k = 0; k < run.i; k++) off += EXBid.get(run.tasks[k])?.q.length || 0;
+  const qs = t.q.map((q, qi) => [q, qi]);
+  const qsFor = it => qs.filter(([q]) => q.it === it).map(([q, qi]) => exQHTML(t, q, qi, off + qi + 1, run)).join("");
+  const limitMin = run.mode !== "teil" ? [...new Set(run.tasks.map(id => EXBid.get(id)?.mod))].reduce((a, m) => a + (EXM?.levels?.[run.lv]?.mods?.[m]?.min || 0), 0) : 0;
+  let items = "";
+  t.items.forEach((it, ii) => {
+    if (it.k === "text") items += `<div class="extext">${it.title ? `<h4>${esc(it.title)}</h4>` : ""}${it.de.map(p => `<p>${esc(p)}</p>`).join("")}</div>`;
+    else if (it.k === "ad") items += `<div class="exad"><span class="k">${esc(it.key)}</span><b>${esc(it.title)}</b>${it.de.map(p => `<div>${esc(p)}</div>`).join("")}</div>`;
+    else if (it.k === "audio") {
+      const key = `${t.id}.${ii}`, used = run.plays[key] || 0, lim = run.mode !== "teil" && !run.done ? it.plays : 0, on = exAud && exAudKey === key && !exAud.paused;
+      items += `<div class="exaudio"><button type="button" data-explay="${run.i}|${ii}"${lim && used >= lim && !on ? " disabled" : ""}>${on ? "❚❚ 暂停" : "▶ 播放"}</button><span>听力 ${t.items.filter(x => x.k === "audio").indexOf(it) + 1}${it.dur ? ` · ${Math.round(it.dur)} 秒` : ""} · 考试时听 ${it.plays} 遍${lim ? ` · 已听 ${used}/${lim}` : used ? ` · 已听 ${used} 遍` : ""}</span></div>`;
+      if (run.done && it.s?.length) items += `<details class="extr"><summary>听力原文</summary>${it.s.map(x => `<div><b>${esc(it.sp?.[x.p] || x.p)}:</b> ${esc(x.de)}${x.zh ? `<div class="zh">${esc(x.zh)}</div>` : ""}</div>`).join("")}</details>`;
+    }
+    items += qsFor(ii);
+  });
+  const opts = (t.opts || []).filter(o => o.l);
+  const optBox = opts.length && !t.items.some(x => x.k === "ad") ? `<div class="extext">${opts.map(o => `<div><b>${esc(o.k)}</b> ${esc(o.l)}</div>`).join("")}</div>` : "";
+  const ws = (t.wq || []).map((w, k) => { const txt = run.w[t.id]?.[k] || "", sid = run.subs?.find(id => S.ex.subs[id]?.task === t.id && S.ex.subs[id]?.k === k);
+    return `<div class="exw"><div class="exinst">${esc(w.p)}</div>${w.zh ? `<p class="note" style="margin:2px 0">${esc(w.zh)}</p>` : ""}${w.pts?.length ? `<ul>${w.pts.map(p => `<li>${esc(p)}</li>`).join("")}</ul>` : ""}
+      <textarea data-exw="${t.id}|${k}" spellcheck="false" placeholder="${w.kind === "speak" ? "把你要说的话写下来（也可以用输入法的语音输入）" : "在这里写"}${w.words ? `，约 ${w.words} 词` : ""}"${run.done ? " readonly" : ""}>${esc(txt)}</textarea>
+      <div class="cnt" data-excnt="${t.id}|${k}">${(txt.match(/\S+/g) || []).length} 词${w.words ? ` / 约 ${w.words}` : ""}</div>
+      ${run.done ? (sid ? `<div class="exbtns"><button type="button" data-exsub="${sid}">${exStatus(sid)} · 查看</button></div>` : `<p class="note">没有写，所以没提交。</p>`) + (w.model ? `<details><summary>参考答案</summary><div class="exmodel">${esc(w.model)}</div></details>` : "") : ""}</div>`; }).join("");
+  const last = run.i === run.tasks.length - 1;
+  const nav = `<div class="actions">${run.i ? `<button type="button" class="btn" data-act="exprev">上一部分</button>` : ""}${!last ? `<button type="button" class="btn primary" data-act="exnext">下一部分</button>` : ""}
+    ${run.done ? `<button type="button" class="btn${last ? " primary" : ""}" data-act="exres">看成绩</button>` : `<button type="button" class="btn${last ? " primary" : ""}" data-act="exend">交卷</button>`}<button type="button" class="btn ghost" data-act="exhome">回考试首页</button></div>`;
+  return `<div class="card"><div class="exhead"><b>${esc(run.label)}</b><span>第 ${run.i + 1}/${run.tasks.length} 部分 · ${esc(t.lv)} ${esc(t.name)}</span>${limitMin && !run.done ? `<span id="extimer" data-lim="${limitMin}"></span>` : ""}${run.done ? `<span>已交卷 · 看答案</span>` : ""}</div>
+    <div class="exinst">${esc(t.inst)}</div>${t.zh ? `<p class="note" style="margin:2px 0 0">${esc(t.zh)}</p>` : ""}
+    ${items}${optBox}${qsFor(-1)}${ws}${nav}</div>`;
+}
+function exResHTML() {
+  const run = EX.run, sc = exScore(run), pass = EXM?.pass || 60;
+  const rows = Object.entries(sc).map(([m, [a, n]]) => { const p = Math.round(100 * a / n); return `<span>${MODN[m]}（${MODZ[m]}）</span><span>${a} / ${n} 题</span><b class="${p >= pass ? "ok" : "bad"}">${p} 分${p >= pass ? " · 及格" : ""}</b>`; }).join("");
+  const teil = run.tasks.map(id => { const t = EXBid.get(id); if (!t?.q.length) return ""; const a = t.q.filter((q, qi) => exRight(q, run.ans[id]?.[qi])).length; return `<span>${esc(t.name)}</span><span>${a} / ${t.q.length}</span><span></span>`; }).join("");
+  const subs = (run.subs || []).map(id => `<div class="exsub" data-exsub="${id}"><span>${esc(EXBid.get(S.ex.subs[id]?.task)?.name || "")} · ${S.ex.subs[id]?.kind === "speak" ? "口语" : "写作"}</span><b>${exStatus(id)}</b></div>`).join("");
+  return `<div class="card"><h2>成绩 · ${esc(run.label)}</h2><p class="note">用时 ${Math.max(1, Math.round(((run.t1 || Date.now()) - run.t0) / 60000))} 分钟。歌德考试每个模块按 100 分算，${pass} 分及格；这里客观题按答对比例折算。</p>
+    ${rows ? `<div class="exres">${rows}</div><h3 class="exsec">各部分</h3><div class="exres">${teil}</div>` : ""}
+    ${subs ? `<h3 class="exsec">写作 / 口语（Claude 批改）</h3>${subs}<p class="note">批改好后会自动显示，也可以在考试首页查看。在电脑上对 Claude 说「批改考试题」。</p>` : ""}
+    <div class="actions"><button type="button" class="btn primary" data-act="exreview">逐题看答案和解析</button><button type="button" class="btn" data-act="exagain">同样的题再做一遍</button><button type="button" class="btn ghost" data-act="exhome">回考试首页</button></div></div>`;
+}
+function examHTML() {
+  if (!EXM) { loadExMeta().then(() => S.view === "exam" && render()); return `<div class="card"><p class="note">正在加载…</p></div>`; }
+  if (EX.run && EX.view === "run" && EXB) return exRunHTML();
+  if (EX.run && EX.view === "result" && EXB) return exResHTML();
+  return exHomeHTML();
+}
+function exTick() {
+  const el = $("#extimer"); if (!el || !EX.run || EX.run.done) return;
+  const sec = Math.floor((Date.now() - EX.run.t0) / 1000), lim = +el.dataset.lim;
+  el.textContent = `用时 ${Math.floor(sec / 60)}:${String(sec % 60).padStart(2, "0")} / 考试 ${lim} 分钟`;
+  el.style.color = sec > lim * 60 ? "var(--bad)" : "";
+}
+setInterval(exTick, 1000);
+window.addEventListener("online", () => { exSend(); });
+
 /* ---------- 收藏 ---------- */
 const isFav = id => S.fav[id]?.[2] === 1;
 const favDate = id => { const x = dDate(S.fav[id][0]); return `${x.getUTCMonth() + 1}-${x.getUTCDate()}`; };
@@ -2019,6 +2302,7 @@ function render() {
   else if (S.view === "place") v.innerHTML = placeHTML();
   else if (S.view === "browse") v.innerHTML = browseHTML();
   else if (S.view === "fav") v.innerHTML = favHTML();
+  else if (S.view === "exam") { v.innerHTML = examHTML(); exTick(); }
   else if (S.view === "stats") v.innerHTML = statsHTML();
   else if (S.view === "log") v.innerHTML = logHTML();
   else { v.innerHTML = settingsHTML(); const ver = $("#ver"); if (ver) ver.textContent = APP_VERSION; }
@@ -2026,6 +2310,7 @@ function render() {
 function go(view) {
   clearTimeout(advTimer);
   if (view !== "listen") lStop();
+  if (view !== "exam") exStop();
   if (view === S.view && view === "grammar") { GV.tid = null; GV.run = null; }      // 再点一次标签回到目录
   if (view === S.view && view === "listen") { LV.id = null; lStop(); }
   S.view = view;
@@ -2049,6 +2334,7 @@ window.addEventListener("popstate", e => {
 document.addEventListener("click", e => {
   if (e.target.id === "fbsheet") { fb = null; return renderFb(); }          // 点弹窗外面关闭
   const cw = e.target.closest(".cw[data-wid]"); if (cw) return openWord(cw.dataset.wid);
+  const exs = e.target.closest("[data-exsub]"); if (exs) { openSheet(exGradeHTML(exs.dataset.exsub)); return; }
   const row = e.target.closest(".row[data-word]");
   if (row && !e.target.closest("button")) return openWord(row.dataset.word);
   // 语法 / 听力
@@ -2061,6 +2347,32 @@ document.addEventListener("click", e => {
   const d = t.dataset;
   if (d.key) return learnKey(d.key);
   if (d.lart) return letterArt(d.lart);
+  if (d.exlv) { EX.lv = d.exlv; TABS.x = d.exlv; lsSet(LS_TABS, TABS); return render(); }
+  if (d.exteil) return exStartTeil(d.exteil[0], +d.exteil.slice(1));
+  if (d.exset) { const [n, m] = d.exset.split("|"); return exStartSet(+n, m); }
+  if (d.exrand) return exStartRand(d.exrand);
+  if (d.explay) { const [i, ii] = d.explay.split("|").map(Number); return exPlay(i, ii); }
+  if (d.exa) { const run = EX.run; if (!run || run.done) return; const [id, qi, i] = d.exa.split("|"); const q = EXBid.get(id).q[+qi];
+    (run.ans[id] = run.ans[id] || {})[+qi] = q.t === "mc" ? +i : i === "1"; exSave(); const y = window.scrollY; render(); window.scrollTo(0, y); return; }
+  if (d.act && d.act.startsWith("ex")) {
+    const a = d.act, run = EX.run;
+    if (a === "exkey") { const k = ($("#exkey")?.value || "").trim(); if (!k) return; lsSet(LS_EXKEY, k); EX.err = ""; exSetBank(null); loadBank(true); return render(); }
+    if (a === "exlogout") { lsSet(LS_EXKEY, ""); lsSet(LS_EXBANK, null); exSetBank(null); return render(); }
+    if (a === "exreload") { exSetBank(null); loadBank(true); return render(); }
+    if (a === "exgr") { exGrades(true); return toast("正在检查…"); }
+    if (a === "excont") { EX.view = "run"; return render(); }
+    if (a === "exhome") { exStop(); EX.view = "home"; render(); return window.scrollTo(0, 0); }
+    if (!run) return;
+    if (a === "exnext" || a === "exprev") { exStop(); run.i = Math.max(0, Math.min(run.tasks.length - 1, run.i + (a === "exnext" ? 1 : -1))); exSave(); render(); return window.scrollTo(0, 0); }
+    if (a === "exend") {
+      const blank = run.tasks.reduce((n, id) => n + (EXBid.get(id)?.q || []).filter((q, qi) => run.ans[id]?.[qi] == null || run.ans[id]?.[qi] === "").length, 0);
+      if (blank && !t.dataset.sure) { t.dataset.sure = "1"; t.textContent = `还有 ${blank} 题没答，确定交卷？`; return; }
+      return exFinish();
+    }
+    if (a === "exres") { EX.view = "result"; render(); return window.scrollTo(0, 0); }
+    if (a === "exreview") { run.i = 0; EX.view = "run"; render(); return window.scrollTo(0, 0); }
+    if (a === "exagain") return exNewRun(run.tasks, run.mode, run.label);
+  }
   if (d.tile != null && t.classList.contains("ltile")) { const q = S.session?.current; return q && letterPick(q.tiles[+d.tile], +d.tile); }
   if (d.favrev) { const L = favList(); return d.favrev === "all" ? startFav(L.map(x => x.id), "全部") : startFav(L.filter(x => x.day === +d.favrev).map(x => x.id), dLabel(+d.favrev)); }
   if (d.favsched) { const L = favList(), ids = d.favsched === "all" ? L.map(x => x.id) : L.filter(x => x.day === +d.favsched).map(x => x.id); return schedMany(ids, $(`#fgd${d.favsched}`)?.value); }
@@ -2164,7 +2476,7 @@ document.addEventListener("click", e => {
   else if (act === "syncnow") syncNow();
   else if (act === "syncoff") { syncCfg = {}; lsSet(LS_SYNC, syncCfg); setSyncState("", "已关闭同步：进度只存在这台设备上"); render(); }
   else if (act === "reset") { $("#resetbox").innerHTML = `<span class="note">确定清空？所有设备上的进度都会清空，无法撤销。</span><button class="btn" data-act="reset2" style="border-color:var(--bad);color:var(--bad)">确定清空</button><button class="btn ghost" data-act="cancel">取消</button>`; }
-  else if (act === "reset2") { S.prog = {}; S.daily = {}; S.wlog = {}; S.fav = {}; S.gram = {}; S.gx = {}; S.lis = {}; S.resetAt = Date.now(); S.session = null; touch(); syncNow(); render(); }
+  else if (act === "reset2") { S.prog = {}; S.daily = {}; S.wlog = {}; S.fav = {}; S.ex = { att: {}, subs: {}, gr: {} }; S.gram = {}; S.gx = {}; S.lis = {}; S.resetAt = Date.now(); S.session = null; touch(); syncNow(); render(); }
   else if (act === "cancel") render();
 });
 document.addEventListener("change", e => {
@@ -2180,6 +2492,7 @@ document.addEventListener("change", e => {
     if ($("#fbsheet")) S.wsetDirty = true; else S.session = null;
   }
   else if (t.classList.contains("favsortsel")) { S.favUI.sort = t.value; render(); }
+  else if (t.dataset.exm && EX.run && !EX.run.done) { const [id, qi] = t.dataset.exm.split("|"); (EX.run.ans[id] = EX.run.ans[id] || {})[+qi] = t.value || null; exSave(); }
   else if (t.id === "snew" || t.id === "sratio" || t.id === "wdeck") {
     if (t.id === "snew") { const n = Math.max(1, Math.min(300, Math.round(+t.value) || 20)); t.value = n; setSetting("newPerDay", n); }
     else if (t.id === "sratio") setSetting("reviewRatio", +t.value);
@@ -2198,6 +2511,9 @@ document.addEventListener("input", e => {
   if (e.target.dataset?.gap != null) { const c = GV.run && GV.run.k < GV.run.items.length && curEx(GV.run); if (c && !c.done) c.vals[+e.target.dataset.gap] = e.target.value; }
   if (e.target.id === "dict" && !LV.dres) LV.dv = e.target.value;
   if (e.target.id === "bq") { S.browse.q = e.target.value; S.browse.shown = 60; const pos = e.target.selectionStart; render(); const i = $("#bq"); i.focus(); i.setSelectionRange(pos, pos); }
+  if (e.target.dataset?.exg && EX.run && !EX.run.done) { const [id, qi] = e.target.dataset.exg.split("|"); (EX.run.ans[id] = EX.run.ans[id] || {})[+qi] = e.target.value; exSave(); }
+  if (e.target.dataset?.exw && EX.run && !EX.run.done) { const [id, k] = e.target.dataset.exw.split("|"); (EX.run.w[id] = EX.run.w[id] || {})[+k] = e.target.value; exSave();
+    const c = $(`[data-excnt="${e.target.dataset.exw}"]`); if (c) c.textContent = c.textContent.replace(/^\d+/, (e.target.value.match(/\S+/g) || []).length); }
   if (e.target.id === "caddq") { S.cal.q = e.target.value; const r = $("#caddres"); if (r) r.innerHTML = caddRes(S.cal.sel); }
   if (e.target.id === "srate") { const r = $("#ratev"); if (r) r.textContent = (+e.target.value).toFixed(2); }
 });
@@ -2205,6 +2521,7 @@ document.addEventListener("keydown", e => {
   if ($("#fbsheet")) { if (e.key === "Escape") { fb = null; renderFb(); } return; }
   if (e.target.id === "spell" && e.key === "Enter") { e.preventDefault(); return checkSpell(); }
   if (e.key === "Enter" && e.target.matches("[data-gap]")) { e.preventDefault(); const c = GV.run && curEx(GV.run); return c?.done ? gNext() : gCheck(); }
+  if (e.key === "Enter" && e.target.id === "exkey") { e.preventDefault(); return $('[data-act="exkey"]')?.click(); }
   if (e.key === "Enter" && e.target.id === "dict") { e.preventDefault(); return LV.dres ? ldNext() : ldCheck(false); }
   if (e.target.matches("input, select, textarea") || e.ctrlKey || e.metaKey || e.altKey) return;
   if (S.view === "grammar" && GV.run && GV.run.k < GV.run.items.length && (GV.tid || GV.run.review)) {
@@ -2240,7 +2557,7 @@ document.addEventListener("keydown", e => {
 });
 
 /* ---------- 自动更新（和送报 App 一样：打开/切回前台时检查新版本） ---------- */
-const APP_VERSION = "2026-11-17.4";
+const APP_VERSION = "2026-11-17.5";
 if ("serviceWorker" in navigator && location.protocol === "https:") {
   navigator.serviceWorker.register("sw.js", { updateViaCache: "none" }).then(reg => {
     document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") reg.update().catch(() => {}); });

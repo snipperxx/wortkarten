@@ -11,3 +11,17 @@ namespace_id = "1001"
   [ratelimits.simple]
   limit = 5
   period = 60
+
+# 考题库：写作 / 口语提交和批改（Claude 用 scripts/exam_grading.py 通过 wrangler 读写）
+[[kv_namespaces]]
+binding = "EXAM"
+id = "b3ca825797a4477cb2c8696cbfb1b09f"
+
+# 读批改结果：每个 IP 每分钟最多 30 次
+[[ratelimits]]
+name = "RL2"
+namespace_id = "1002"
+
+  [ratelimits.simple]
+  limit = 30
+  period = 60
