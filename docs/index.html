@@ -437,6 +437,7 @@ const KILL = 9;                                        // 斩掉的词放在第 
 const GROUP = 10;                                      // 每 10 个词一组，组末拼写 + 小结
 const COMBO_TIERS = [5, 10, 30, 50, 100];              // 连对到这些数时提示一下
 const DECKS = {
+  A1B1: { name: "A1–B1 混合", test: w => w.lv === "A1" || w.lv === "A2" || w.lv === "B1" },
   B1: { name: "B1 主线", test: w => w.lv === "B1" },
   B2: { name: "B2 进阶", test: w => w.lv === "B2" },
   C1: { name: "C1 高级", test: w => w.lv === "C1" },
@@ -450,7 +451,7 @@ const LS = "wortkarten", LS_SYNC = "wortkarten-sync", LS_DEV = "wortkarten-devic
 const S = {
   words: [], byId: new Map(), byPos: {},
   prog: {},            // id -> [box, dueDay, lapses, 修改时间ms]
-  settings: { deck: "B1", newPerDay: 20, reviewRatio: 0, rate: 0.95, voice: "", autoplay: true, autoNext: true, sfx: true, spellNew: true, spellReview: true, similar: true },
+  settings: { deck: "A1B1", newPerDay: 20, reviewRatio: 0, rate: 0.95, voice: "", autoplay: true, autoNext: true, sfx: true, spellNew: true, spellReview: true, similar: true },
   settingsAt: 0,
   daily: {},           // day -> { 设备id: {n: 新学, r: 复习, g: 语法题, l: 听力篇} }
   gram: {},            // 语法课 id -> {s: 最好成绩%, last: 上次%, n: 做过几遍, t: 修改时间}
@@ -735,7 +736,7 @@ function buildSession() {
   const due = Object.entries(S.prog).filter(([id, p]) => p[0] >= 1 && p[0] < KILL && p[1] <= d && S.byId.has(id))
     .sort((a, b) => a[1][0] - b[1][0] || a[1][1] - b[1][1] || hash(a[0]) - hash(b[0])).map(([id]) => id);
   const doneNew = dayTotal(d).n;
-  const deck = DECKS[S.settings.deck] || DECKS.B1;
+  const deck = DECKS[S.settings.deck] || DECKS.A1B1;
   const fresh = S.words.filter(w => deck.test(w) && !isLearning(w.id))
     .sort((a, b) => ((S.prog[b.id] ? 1 : 0) - (S.prog[a.id] ? 1 : 0)) || (hash(a.id) - hash(b.id)))  // 摸底标“不认识”的优先
     .slice(0, Math.max(0, S.settings.newPerDay - doneNew)).map(w => w.id);
@@ -931,7 +932,6 @@ function learnKey(k) {
     return next();
   }
   if (k === "a") { if (!q.answered) { q.mark = "a"; return finish(q, false, -1); } return q.right ? relabel(q) : null; }
-  if (k === "s") { if (!q.answered) { q.peek = true; return finish(q, false, -1); } return; }
   if (k === "g") return kill(q);
 }
 function skip() {
@@ -1032,14 +1032,14 @@ function exLine(w, showZh, sent) {
   const body = f ? `${esc(ex.slice(0, f[1]))}<mark>${esc(ex.slice(f[1], f[2]))}</mark>${esc(ex.slice(f[2]))}` : esc(ex);
   return `<div class="exl">${body}${voices.length ? ` <button type="button" data-say="${esc(ex)}" aria-label="朗读例句">▶</button>` : ""}${showZh && w.ex_zh && w.ex?.[0] === ex ? `<div class="zh">${esc(w.ex_zh)}</div>` : ""}</div>`;
 }
-const KEYS = [["d", "上一个"], ["a", "不认识"], ["s", "看意思"], ["f", "下一个"], ["g", "斩"]];
+const KEYS = [["d", "上一个"], ["a", "不认识"], ["f", "下一个"], ["g", "斩"]];
 function keybarHTML() {
   return `<div class="keybar" role="toolbar" aria-label="快捷键">${KEYS.map(([k, t]) => `<button type="button" data-key="${k}"><kbd>${k.toUpperCase()}</kbd>${t}</button>`).join("")}<span class="kbx">QWER 选项 · 空格 发音 · Enter 下一个</span></div>`;
 }
 function learnHTML() {
   const s = S.session;
   const d = today(), td = dayTotal(d), ratio = S.settings.reviewRatio || 0;
-  const deck = DECKS[S.settings.deck] || DECKS.B1;
+  const deck = DECKS[S.settings.deck] || DECKS.A1B1;
   const left = s.queue.length + s.spellQ.length + (s.current && !s.current.answered ? 1 : 0);
   const pct = s.total ? Math.min(100, Math.round(100 * s.done / s.total)) : 100;
   const tier = s.combo >= 30 ? 3 : s.combo >= 10 ? 2 : s.combo >= 5 ? 1 : 0;
@@ -1240,7 +1240,7 @@ function wordSetHTML() {
        ["sspellr", "spellReview", "复习时也出拼写题"],
        ["ssim", "similar", "德语选项用形近词（更难，像百词斩的“易混词”）"],
        ["ssfx", "sfx", "答题音效"]].map(([id, k, t]) => `<label style="display:flex;gap:8px;align-items:center"><input id="${id}" type="checkbox"${st[k] ? " checked" : ""}> ${t}</label>`).join("")}
-    <p class="note" style="margin:0">按键：D 上一个 · F 下一个（没标记就算认识）· A 不认识 · S 看意思（算不认识）· G 斩（不同的两天各斩一次才永久不出现）· Q W E R 选第 1–4 个选项 · 空格 发音。</p>
+    <p class="note" style="margin:0">按键：D 上一个 · F 下一个（没标记就算认识）· A 不认识（显示释义，稍后再考）· G 斩（不同的两天各斩一次才永久不出现）· Q W E R 选第 1–4 个选项 · 空格 发音。</p>
   </div>`;
 }
 function openWordSet() { openSheet(`<h3>单词设置</h3>${wordSetHTML()}<div class="actions" style="margin:0"><button type="button" class="btn primary" data-act="wsetdone">完成</button></div>`); }
@@ -2049,7 +2049,7 @@ document.addEventListener("keydown", e => {
     return;
   }
   if (S.view === "learn" && S.session?.summary) { if (e.key === "Enter" || e.key.toLowerCase() === "f") { e.preventDefault(); sumNext(); } return; }
-  if (S.view === "learn" && S.session && e.key.length === 1 && "dfasg".includes(e.key.toLowerCase())) { e.preventDefault(); return learnKey(e.key.toLowerCase()); }
+  if (S.view === "learn" && S.session && e.key.length === 1 && "dfag".includes(e.key.toLowerCase())) { e.preventDefault(); return learnKey(e.key.toLowerCase()); }
   if (S.view === "learn" && S.session?.current) {
     const s = S.session, q = s.hpos != null ? s.hist[s.hpos].q : s.current;
     const oi = "qwer".indexOf(e.key.toLowerCase());
@@ -2065,7 +2065,7 @@ document.addEventListener("keydown", e => {
 });
 
 /* ---------- 自动更新（和送报 App 一样：打开/切回前台时检查新版本） ---------- */
-const APP_VERSION = "2026-11-17.2";
+const APP_VERSION = "2026-11-17.3";
 if ("serviceWorker" in navigator && location.protocol === "https:") {
   navigator.serviceWorker.register("sw.js", { updateViaCache: "none" }).then(reg => {
     document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") reg.update().catch(() => {}); });
@@ -2081,6 +2081,8 @@ if ("serviceWorker" in navigator && location.protocol === "https:") {
 (async function start() {
   const local = lsGet(LS, null);
   if (local) adopt(local);
+  // 2026-11-17：A1–B1 改成混着背；原来选 B1 主线 / A1–A2 查漏的自动切到混合（只切一次）
+  if (!S.settings.mixA1B1) { if (["B1", "A12"].includes(S.settings.deck)) S.settings.deck = "A1B1"; setSetting("mixA1B1", true); }
   setSyncState("", syncCfg.token ? "等待同步…" : "未开启同步：进度只存在这台设备上");
   try {
     S.words = await (await fetch("words.json")).json();
