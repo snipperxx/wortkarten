@@ -1480,7 +1480,7 @@ function settingsHTML() {
       <p class="note">版本 <span id="ver"></span> · 这台设备 ${DEV}</p>
     </div>
     <div class="card about">
-      <span>词表来源：Goethe-Institut 公开的 A1 / A2 / B1 考试词表（含例句），本站仅供学习、不商业使用。B2 / C1 没有官方词表，是按考试和工作中的常用词由 AI 整理的，例句也是 AI 写的。</span>
+      <span>词表来源：Goethe-Institut 公开的 A1 / A2 / B1 考试词表（含例句），本站仅供学习、不商业使用。B2 / C1 没有官方词表，是按考试和工作中的常用词由 AI 整理的，例句也是 AI 写的。另外按德语新闻语料的词频（Leipzig Corpora Collection、FrequencyWords）补了 2500 多个常用词，释义和例句由 AI 写。词形和释义用 Wiktionary（kaikki.org 导出，CC BY-SA）核对过。</span>
       <span>中文释义、例句翻译、义项、搭配和提示由 AI 生成，可能有错，欢迎纠错。单词发音为微软神经网络语音合成。</span>
       <span>源代码：<a href="https://github.com/snipperxx/wortkarten" target="_blank" rel="noopener">github.com/snipperxx/wortkarten</a></span>
     </div>
@@ -1783,7 +1783,7 @@ const LINKS = [
   ["DW Langsam gesprochene Nachrichten", "B2", "每天的慢速新闻（有原文）", "https://learngerman.dw.com/de/langsam-gesprochene-nachrichten/s-60040332"],
   ["Goethe 考试模拟题", "A1–B2", "官方 Modellsätze，含听力音频和答案", "https://www.goethe.de/de/spr/kup/prf.html"],
   ["tagesschau in 100 Sekunden", "B2+", "100 秒新闻，正常语速", "https://www.tagesschau.de/multimedia/sendung/tagesschau_in_100_sekunden"],
-  ["ZDF logo!", "B1–B2", "儿童新闻，用词简单、讲得清楚", "https://www.zdf.de/kinder/logo"],
+  ["ZDF logo!", "B1–B2", "儿童新闻，用词简单、讲得清楚", "https://www.logo.de/"],
   ["Easy German（YouTube）", "A2–C1", "街头采访，德英双字幕", "https://www.youtube.com/@EasyGerman"],
 ];
 function openLis(id, push = true) {
@@ -2080,18 +2080,21 @@ async function exPlay(ti, ii) {
 }
 function exStop() { if (exAud) { exAud.pause(); exAud = null; exAudKey = ""; } }
 const exSave = () => lsSet(LS_EXRUN, EX.run);
-const exTasks = (lv, mod, teil) => (EXB?.tasks || []).filter(t => t.lv === lv && (!mod || t.mod === mod) && (!teil || t.teil === teil));
+// 考试类型：goethe（结构在 exam_meta.json / 题库 meta.levels）或 telc / osd …（结构在题库 meta.fams）
+const exFam = t => t?.fam || "goethe";
+const exLvMeta = (lv, fam = "goethe") => fam === "goethe" ? (EXB?.meta?.levels?.[lv] || EXM?.levels?.[lv]) : EXB?.meta?.fams?.[fam]?.levels?.[lv];
+const exTasks = (lv, mod, teil, fam) => (EXB?.tasks || []).filter(t => t.lv === lv && (!mod || t.mod === mod) && (!teil || t.teil === teil) && (!fam || exFam(t) === fam));
 const exSetName = (lv, n) => EXB?.meta?.sets?.[`${lv}-${n}`] || `${lv} 模拟套题 ${n}`;
 function exNewRun(ids, mode, label) {
   exStop();
   EX.run = { id: "r" + Date.now().toString(36), tasks: ids, i: 0, ans: {}, w: {}, plays: {}, mode, label, lv: EXBid.get(ids[0])?.lv, t0: Date.now(), done: false };
   EX.view = "run"; exSave(); render(); window.scrollTo(0, 0);
 }
-function exStartTeil(mod, teil) {
-  const pool = exTasks(EX.lv, mod, teil); if (!pool.length) return;
+function exStartTeil(mod, teil, fam = "goethe") {
+  const pool = exTasks(EX.lv, mod, teil, fam); if (!pool.length) return;
   const seen = new Set(Object.values(S.ex.att).flatMap(a => a.tasks || []));
   const fresh = pool.filter(t => !seen.has(t.id)), pick = (fresh.length ? fresh : pool)[Math.random() * (fresh.length || pool.length) | 0];
-  exNewRun([pick.id], "teil", `${MODN[mod]} Teil ${teil} · ${exSetName(EX.lv, pick.set)}`);
+  exNewRun([pick.id], "teil", `${fam === "goethe" ? `${MODN[mod]} Teil ${teil}` : pick.name} · ${exSetName(EX.lv, pick.set)}`);
 }
 function exStartSet(set, mods) {
   const ids = exTasks(EX.lv).filter(t => t.set === set && mods.includes(t.mod)).map(t => t.id); if (!ids.length) return;
@@ -2099,8 +2102,8 @@ function exStartSet(set, mods) {
 }
 function exStartRand(mods) {
   const ids = [];
-  for (const m of mods) { const n = EXM?.levels?.[EX.lv]?.mods?.[m]?.teile.length || 6;
-    for (let k = 1; k <= n; k++) { const pool = exTasks(EX.lv, m, k); if (pool.length) ids.push(pool[Math.random() * pool.length | 0].id); } }
+  for (const m of mods) { const n = exLvMeta(EX.lv)?.mods?.[m]?.teile.length || 6;      // 随机套题只按 Goethe 的结构凑
+    for (let k = 1; k <= n; k++) { const pool = exTasks(EX.lv, m, k, "goethe"); if (pool.length) ids.push(pool[Math.random() * pool.length | 0].id); } }
   if (!ids.length) return;
   exNewRun(ids, "rand", `${EX.lv} 随机套题 · ${mods.length === 4 ? "全套" : mods.split("").map(m => MODN[m]).join(" + ")}`);
 }
@@ -2168,10 +2171,10 @@ function exGradeHTML(id) {
     <div class="actions" style="margin:0"><button type="button" class="btn ghost" data-act="fbclose">关闭</button></div>`;
 }
 function exHomeHTML() {
-  const lv = EX.lv, M = EXM?.levels?.[lv], lvs = Object.keys(EXM?.levels || { A1: 1, A2: 1, B1: 1, B2: 1 });
+  const lv = EX.lv, M = exLvMeta(lv), lvs = ["A1", "A2", "B1", "B2", "C1"].filter(l => EXM?.levels?.[l] || EXB?.meta?.levels?.[l] || (EXB?.tasks || []).some(t => t.lv === l));
   const tabs = `<div class="lvtabs">${lvs.map(l => `<button type="button" data-exlv="${l}" aria-pressed="${l === lv}">${l}<small>${exTasks(l).length}</small></button>`).join("")}</div>`;
   if (!exKey()) return `<div class="card"><h2>考题库</h2>${tabs}
-    <p>题库里放的是你自己下载的官方模拟题（Goethe Übungssatz）和备考书，有版权，所以不放在公开网站上，要输入密码才能读取。</p>
+    <p>题库里放的是 Goethe / telc / ÖSD 官网的官方模拟题和备考书，有版权，所以不放在公开网站上，要输入密码才能读取。</p>
     <p class="note">密码在电脑上的 <code>德语\\Wortkarten\\exam_private\\KEY.txt</code>，每台设备输入一次就会记住。</p>
     ${EX.err ? `<p class="note" style="color:var(--bad)">${esc(EX.err)}</p>` : ""}
     <div class="tools"><input id="exkey" type="password" autocomplete="off" placeholder="题库密码" aria-label="题库密码"><button type="button" class="btn primary" data-act="exkey">确定</button></div></div>`;
@@ -2179,13 +2182,13 @@ function exHomeHTML() {
   exSend(); exGrades();
   const all = exTasks(lv), sets = [...new Set(all.map(t => t.set))].sort((a, b) => a - b);
   const modsOf = set => "LHSM".split("").filter(m => all.some(t => t.set === set && t.mod === m));
-  let teile = "";
-  for (const m of "LHSM") {
-    const tl = M?.mods?.[m]?.teile || [];
-    teile += `<h3 class="exsec">${MODN[m]}（${MODZ[m]}${M?.mods?.[m]?.min ? ` · 考试 ${M.mods[m].min} 分钟` : ""}）</h3>` + tl.map((x, i) => {
-      const n = exTasks(lv, m, i + 1).length;
-      return `<div class="exteil"><span>Teil ${i + 1}<div class="zh">${esc(x.zh)} · 题库 ${n} 个</div></span><button type="button" data-exteil="${m}${i + 1}"${n ? "" : " disabled"}>练习</button></div>`; }).join("");
-  }
+  const famTeile = (fam, FM) => "LHSM".split("").filter(m => FM?.mods?.[m]?.teile?.length).map(m =>
+    `<h3 class="exsec">${MODN[m]}（${MODZ[m]}${FM.mods[m].min ? ` · 考试 ${FM.mods[m].min} 分钟` : ""}）</h3>` + FM.mods[m].teile.map((x, i) => {
+      const n = exTasks(lv, m, i + 1, fam).length;
+      return `<div class="exteil"><span>${esc(x.name || `Teil ${i + 1}`)}<div class="zh">${esc(x.zh)} · 题库 ${n} 个</div></span><button type="button" data-exteil="${fam}|${m}|${i + 1}"${n ? "" : " disabled"}>练习</button></div>`; }).join("")).join("");
+  const others = [...new Set(all.map(exFam))].filter(f => f !== "goethe");
+  let teile = all.some(t => exFam(t) === "goethe") || !others.length ? (others.length ? `<p class="note" style="margin:0">${esc(M?.name || `Goethe ${lv}`)}</p>` : "") + famTeile("goethe", M) : "";
+  for (const f of others) { const FM = exLvMeta(lv, f); teile += `<h3 class="exsec" style="margin-top:18px">${esc(FM?.name || f)}</h3>` + famTeile(f, FM); }
   const setRows = sets.map(n => `<div class="exteil"><span>${esc(exSetName(lv, n))}</span><span class="exbtns"><button type="button" data-exset="${n}|LHSM">全套</button>${modsOf(n).map(m => `<button type="button" data-exset="${n}|${m}">${MODZ[m]}</button>`).join("")}</span></div>`).join("");
   const subs = Object.entries(S.ex.subs).filter(([, x]) => x.lv === lv).sort((a, b) => b[1].t - a[1].t);
   const atts = Object.values(S.ex.att).filter(a => a.lv === lv).sort((a, b) => b.t - a.t).slice(0, 12);
@@ -2196,13 +2199,22 @@ function exHomeHTML() {
     ${!all.length ? `<p class="note">这个级别的题库还是空的。把下载好的官方模拟题（PDF + 听力 mp3）或备考书放进电脑的 <code>德语\\Wortkarten\\exam_private\\src</code>，再让 Claude 转换上传。</p>` : ""}
     <h3 class="exsec">整套模拟</h3>
     ${sets.length ? setRows : `<p class="note">还没有成套的题。</p>`}
-    <div class="exteil"><span>随机抽一套<div class="zh">每个 Teil 从所有套题里随机抽一题，凑成一整套</div></span><span class="exbtns"><button type="button" data-exrand="LHSM"${all.length ? "" : " disabled"}>全套</button>${"LHSM".split("").map(m => `<button type="button" data-exrand="${m}"${exTasks(lv, m).length ? "" : " disabled"}>${MODZ[m]}</button>`).join("")}</span></div>
+    <div class="exteil"><span>随机抽一套<div class="zh">按 Goethe 的结构，每个 Teil 从 Goethe 套题里随机抽一题，凑成一整套</div></span><span class="exbtns"><button type="button" data-exrand="LHSM"${exTasks(lv, 0, 0, "goethe").length ? "" : " disabled"}>全套</button>${"LHSM".split("").map(m => `<button type="button" data-exrand="${m}"${exTasks(lv, m, 0, "goethe").length ? "" : " disabled"}>${MODZ[m]}</button>`).join("")}</span></div>
     <p class="note">整套模式按考试规定：听力只能听规定的遍数、计时；交卷后能看每题答案、解析和听力原文。写作和口语交卷后会传给 Claude 批改。</p>
     <h3 class="exsec" style="margin-top:22px">分题型练习</h3>${teile}
     ${subs.length ? `<h3 class="exsec" style="margin-top:22px">写作 / 口语批改</h3>${subs.map(([id, x]) => { const t = EXBid.get(x.task); return `<div class="exsub" data-exsub="${id}"><span>${esc(t?.name || x.task)} · ${x.kind === "speak" ? "口语" : "写作"}</span><b>${exStatus(id)}</b><span class="zh">${esc(x.text.slice(0, 60))}…</span></div>`; }).join("")}<div class="exbtns"><button type="button" data-act="exgr">检查有没有新批改</button></div>` : ""}
     ${atts.length ? `<h3 class="exsec" style="margin-top:22px">做题记录</h3><div class="list">${atts.map(a => `<div class="row"><span>${esc(a.label)}</span><span class="m">${scTxt(a.sc) || "只有写作 / 口语"}</span><span class="st">${dLabel(Math.floor((a.t - new Date(a.t).getTimezoneOffset() * 6e4) / 864e5))}</span></div>`).join("")}</div>` : ""}
     <p class="note" style="margin-top:18px">${esc(EXM?.note || "")}${M?.url ? ` 官方页面：<a href="${esc(M.url)}" target="_blank" rel="noopener">${esc(M.name)}</a>` : ""}</p>
     <div class="exbtns"><button type="button" data-act="exreload">重新下载题库</button><button type="button" data-act="exlogout">换密码</button></div></div>`;
+}
+// 一个 Teil 的题干全部以连续的数字开头（如 41 … 45）才当作官方题号拆出来，免得把「18 Jahre …」这种内容当题号
+const EXON = new WeakMap();
+function exOffNum(t) {
+  if (EXON.has(t)) return EXON.get(t);
+  const m = t.q.map(q => /^(\d{1,3}[ab]?)[.)]?\s+(\S[\s\S]*)$/.exec(q.q)), n = x => parseInt(x[1], 10);
+  const ok = m.length > 1 && m.every((x, i) => x && (i === 0 || n(x) === n(m[i - 1]) + 1 || (n(x) === n(m[i - 1]) && /b$/.test(x[1]))));
+  const r = ok ? m.map(x => [x[1], x[2]]) : null;
+  EXON.set(t, r); return r;
 }
 function exQHTML(t, q, qi, num, run) {
   const v = run.ans[t.id]?.[qi], done = run.done, ok = done && exRight(q, v);
@@ -2216,7 +2228,8 @@ function exQHTML(t, q, qi, num, run) {
   else body = `<input data-exg="${t.id}|${qi}" value="${esc(v || "")}" autocomplete="off" spellcheck="false"${done ? " readonly" : ""}>`;
   const ans = q.t === "rf" ? (q.a ? "richtig" : "falsch") : q.t === "yn" ? (q.a ? "Ja" : "Nein") : q.t === "mc" ? `${"abc"[q.a]}) ${q.o[q.a]}` : q.t === "m" ? q.a : q.a[0];
   const fb = done ? `<div class="fb ${ok ? "ok" : "bad"}">${ok ? "✓ 对" : `✗ 正确答案：${esc(ans)}`}${q.e ? ` <span class="e">· ${esc(q.e)}</span>` : ""}</div>` : "";
-  return `<div class="exq"><div class="qt"><span class="n">${num}</span>${esc(q.q)}</div>${body}${fb}</div>`;
+  const on = exOffNum(t)?.[qi];                       // 题干自带官方题号（telc 常见）就只显示官方题号
+  return `<div class="exq"><div class="qt"><span class="n">${on ? on[0] : num}</span>${esc(on ? on[1] : q.q)}</div>${body}${fb}</div>`;
 }
 function exRunHTML() {
   const run = EX.run, t = EXBid.get(run.tasks[run.i]);
@@ -2224,7 +2237,8 @@ function exRunHTML() {
   let off = 0; for (let k = 0; k < run.i; k++) off += EXBid.get(run.tasks[k])?.q.length || 0;
   const qs = t.q.map((q, qi) => [q, qi]);
   const qsFor = it => qs.filter(([q]) => q.it === it).map(([q, qi]) => exQHTML(t, q, qi, off + qi + 1, run)).join("");
-  const limitMin = run.mode !== "teil" ? [...new Set(run.tasks.map(id => EXBid.get(id)?.mod))].reduce((a, m) => a + (EXM?.levels?.[run.lv]?.mods?.[m]?.min || 0), 0) : 0;
+  const limitMin = run.mode !== "teil" ? [...new Set(run.tasks.map(id => { const x = EXBid.get(id); return x ? `${exFam(x)}|${x.mod}` : ""; }))].filter(Boolean)
+    .reduce((a, k) => { const [f, m] = k.split("|"); return a + (exLvMeta(run.lv, f)?.mods?.[m]?.min || 0); }, 0) : 0;
   let items = "";
   t.items.forEach((it, ii) => {
     if (it.k === "text") items += `<div class="extext">${it.title ? `<h4>${esc(it.title)}</h4>` : ""}${it.de.map(p => `<p>${esc(p)}</p>`).join("")}</div>`;
@@ -2415,7 +2429,7 @@ document.addEventListener("click", e => {
   if (d.key) return learnKey(d.key);
   if (d.lart) return letterArt(d.lart);
   if (d.exlv) { EX.lv = d.exlv; TABS.x = d.exlv; lsSet(LS_TABS, TABS); return render(); }
-  if (d.exteil) return exStartTeil(d.exteil[0], +d.exteil.slice(1));
+  if (d.exteil) { const [f, m, k] = d.exteil.includes("|") ? d.exteil.split("|") : ["goethe", d.exteil[0], d.exteil.slice(1)]; return exStartTeil(m, +k, f); }
   if (d.exset) { const [n, m] = d.exset.split("|"); return exStartSet(+n, m); }
   if (d.exrand) return exStartRand(d.exrand);
   if (d.explay) { const [i, ii] = d.explay.split("|").map(Number); return exPlay(i, ii); }
@@ -2624,7 +2638,7 @@ document.addEventListener("keydown", e => {
 });
 
 /* ---------- 自动更新（和送报 App 一样：打开/切回前台时检查新版本） ---------- */
-const APP_VERSION = "2026-11-17.7";
+const APP_VERSION = "2026-11-18.1";
 if ("serviceWorker" in navigator && location.protocol === "https:") {
   navigator.serviceWorker.register("sw.js", { updateViaCache: "none" }).then(reg => {
     document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") reg.update().catch(() => {}); });

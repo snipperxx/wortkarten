@@ -76,6 +76,20 @@ if adv.exists():
 for w in out:
     w.pop("kind", None)
 
+# 义项与用法（2026-11-17）：data/usage_us/*.json = {词 id: [{p, zh, ex, exz}, …]}，给已有的多义词补 use.us（新词的 us 直接写在 adv 里）
+_by = {w["id"]: w for w in out}
+us_n = 0
+for f in sorted((D / "usage_us").glob("*.json")) if (D / "usage_us").exists() else []:
+    if ".part" in f.name:
+        continue
+    for wid, us in json.loads(f.read_text(encoding="utf-8")).items():
+        if wid in _by and us:
+            _by[wid].setdefault("use", {})["us"] = us
+            _by[wid]["use"].pop("senses", None)
+            us_n += 1
+if us_n:
+    print("义项与用法（usage_us）：", us_n, "个词")
+
 # 修正：{"w0123": {"zh": "...", "use": {"tip": "..."}, "_note": "#5"}, "w0999": {"_drop": true}, "_new": [{...}]}
 # 字段值为 null = 删掉这个字段；use 按子字段合并；以 _ 开头的键是备注，不进词库
 ov_path = D / "overrides.json"

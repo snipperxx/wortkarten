@@ -15,7 +15,7 @@ R = Path(sys.argv[1] if len(sys.argv) > 1 else ".")
 D = R / "data"
 OUT = D / "adv_words.json"
 POS = {"n", "v", "adj", "adv", "prep", "conj", "phr", "pron", "part"}
-LV_RANK = {"B2": 0, "C1": 1}
+LV_RANK = {"A1": -3, "A2": -2, "B1": -1, "B2": 0, "C1": 1}   # A1–B1 是 11-17 按词频补的漏词（Goethe 词表附录里的）
 
 
 def key(lemma):
@@ -39,7 +39,7 @@ def stems(w):
 
 
 # 释义里允许出现的拉丁字母缩写（语法标记、德国机构缩写、中文里通用的 GDP 等）
-ZH_OK = {"Gen", "Dat", "Akk", "Nom", "Pl", "GmbH", "AG", "BIP", "GDP", "IT", "KI", "EU", "DSGVO", "App", "PC", "CO", "Sie", "du"}
+ZH_OK = {"Gen", "Dat", "Akk", "Nom", "Pl", "GmbH", "AG", "BIP", "GDP", "IT", "KI", "EU", "DSGVO", "App", "PC", "CO", "Sie", "du", "Python", "Java", "JavaScript", "LinkedIn", "SAP", "Excel"}  # 专有名词可以留
 
 
 def problems(w):
@@ -72,13 +72,35 @@ def problems(w):
     if [t for t in re.findall(r"[A-Za-z]{2,}", w["zh"]) if t not in ZH_OK]:
         p.append("释义里有拉丁字母")
     u = w.get("use")
-    if u is not None and (not isinstance(u, dict) or set(u) - {"senses", "col", "tip"}
+    if u is not None and (not isinstance(u, dict) or set(u) - {"senses", "col", "tip", "us"}
                           or any(not (isinstance(c, list) and len(c) == 2 and all(isinstance(x, str) for x in c)) for c in u.get("col", []))):
         p.append("use 格式")
+    elif u and u.get("us") is not None:
+        us = u["us"]
+        if not isinstance(us, list) or len(us) < 2 or len(us) > 4:
+            p.append("us 要 2–4 条（只有一个用法就不写 us）")
+        elif any(not isinstance(x, dict) or set(x) - {"p", "zh", "ex", "exz"} or not x.get("zh") or not x.get("ex") or not x.get("exz") for x in us):
+            p.append("us 每条要有 zh / ex / exz（p 可选），不能有别的字段")
+        elif len({x["zh"] for x in us}) < len(us):
+            p.append("us 的中文意思重复")
+        elif any([t for t in re.findall(r"[A-Za-z]{2,}", x["zh"] + x["exz"]) if t not in ZH_OK] for x in us):
+            p.append("us 中文里有拉丁字母")
     if re.search(r"<\s*script|javascript:", json.dumps(w, ensure_ascii=False), re.I):
         p.append("脚本")
     return p
 
+
+if "--check" in sys.argv:                 # 只校验一个生成文件，不写 adv_words.json（给生成代理自查用）
+    f = Path(sys.argv[sys.argv.index("--check") + 1])
+    rows = json.loads(f.read_text(encoding="utf-8"))
+    bad = [(w.get("lemma"), problems({k: v for k, v in w.items() if v not in (None, "", [], {})})) for w in rows]
+    bad = [(l, pr) for l, pr in bad if pr]
+    lem = [key(w.get("lemma", "")) for w in rows]
+    dup = sorted({l for l in lem if lem.count(l) > 1})
+    print(f"{f.name}: {len(rows)} 条，有问题 {len(bad)} 条" + (f"，重复 {dup}" if dup else ""))
+    for l, pr in bad[:80]:
+        print("  ✗", l, "—", "，".join(pr))
+    sys.exit(1 if bad or dup else 0)
 
 existing = set()
 for f in ("base.json", "extra.json"):

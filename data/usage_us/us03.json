@@ -1,0 +1,2593 @@
+{
+ "w0056": [
+  {
+   "p": "…, also …",
+   "zh": "所以；因此",
+   "ex": "Der Zug ist ausgefallen, also nehmen wir ein Taxi.",
+   "exz": "火车停运了，所以我们打车。"
+  },
+  {
+   "p": "Also gut!",
+   "zh": "好吧；那就这样",
+   "ex": "Also gut, dann treffen wir uns um acht Uhr am Bahnhof.",
+   "exz": "好吧，那我们八点在火车站见。"
+  },
+  {
+   "p": "Also, …",
+   "zh": "那么（引出话题）",
+   "ex": "Also, was machen wir heute Abend nach der Vorlesung?",
+   "exz": "那么，我们今晚下课后做什么？"
+  }
+ ],
+ "w0160": [
+  {
+   "p": "mit + Dat. aufhören",
+   "zh": "停止；戒掉（某事）",
+   "ex": "Nach dem Umzug möchte ich endlich mit dem Rauchen aufhören.",
+   "exz": "搬家后我终于想戒烟了。"
+  },
+  {
+   "p": "aufhören zu + Inf.",
+   "zh": "不再（做某事）",
+   "ex": "Ich kann nicht aufhören, an die Prüfung zu denken.",
+   "exz": "我一直忍不住想着考试。"
+  },
+  {
+   "zh": "（自然地）停止",
+   "ex": "Wir bleiben hier, bis der Regen endlich aufhört.",
+   "exz": "我们留在这里，直到雨终于停。"
+  }
+ ],
+ "w0629": [
+  {
+   "p": "Eintritt zahlen",
+   "zh": "门票；入场费",
+   "ex": "Für Studenten kostet der Eintritt ins Museum nur drei Euro.",
+   "exz": "对学生来说，博物馆门票只要三欧元。"
+  },
+  {
+   "p": "Eintritt in + Akk.",
+   "zh": "加入；入职",
+   "ex": "Mit dem Eintritt in die Firma beginnt für ihn ein neuer Lebensabschnitt.",
+   "exz": "入职公司后，他的人生进入了新阶段。"
+  },
+  {
+   "zh": "进入（场所）",
+   "ex": "Der Eintritt ins Labor ist nur mit einem Ausweis erlaubt.",
+   "exz": "只有持证件才允许进入实验室。"
+  }
+ ],
+ "w1276": [
+  {
+   "p": "jmdn. kennenlernen",
+   "zh": "结识（某人）",
+   "ex": "In der neuen Firma konnte ich viele nette Kollegen kennenlernen.",
+   "exz": "在新公司我结识了许多友善的同事。"
+  },
+  {
+   "p": "sich kennenlernen",
+   "zh": "彼此认识",
+   "ex": "Wir haben uns im Studentenwohnheim kennengelernt und sind Freunde geworden.",
+   "exz": "我们在学生宿舍认识，后来成了朋友。"
+  },
+  {
+   "p": "etw. kennenlernen",
+   "zh": "了解（地方、事物）",
+   "ex": "Ich möchte die Stadt und ihre Geschichte besser kennenlernen.",
+   "exz": "我想更好地了解这座城市和它的历史。"
+  }
+ ],
+ "w1486": [
+  {
+   "p": "links abbiegen",
+   "zh": "向左（转）",
+   "ex": "An der nächsten Kreuzung müssen Sie links abbiegen.",
+   "exz": "在下一个十字路口您必须左转。"
+  },
+  {
+   "p": "links von + Dat.",
+   "zh": "在……左边",
+   "ex": "Die Bibliothek liegt links von der Mensa.",
+   "exz": "图书馆在食堂的左边。"
+  },
+  {
+   "zh": "政治上偏左",
+   "ex": "Sie wählt seit Jahren links und geht oft zu Demonstrationen.",
+   "exz": "她多年来一直投左派的票，还常去参加游行。"
+  }
+ ],
+ "w1629": [
+  {
+   "zh": "必须；得",
+   "ex": "Ich muss morgen früh um sechs Uhr aufstehen.",
+   "exz": "我明天早上六点就得起床。"
+  },
+  {
+   "p": "nicht müssen",
+   "zh": "不必；不需要",
+   "ex": "Du musst nicht kommen, wir schaffen das auch ohne dich.",
+   "exz": "你不必来，没有你我们也能完成。"
+  },
+  {
+   "zh": "肯定是；想必",
+   "ex": "Es hat geklingelt, das muss der Paketbote sein.",
+   "exz": "门铃响了，那肯定是快递员。"
+  },
+  {
+   "p": "mal müssen",
+   "zh": "想上厕所",
+   "ex": "Entschuldigung, ich muss mal, wo ist hier die Toilette?",
+   "exz": "不好意思，我想上厕所，这里厕所在哪？"
+  }
+ ],
+ "w1835": [
+  {
+   "zh": "诊所",
+   "ex": "Meine Hausärztin hat ihre Praxis direkt neben der Apotheke.",
+   "exz": "我的家庭医生的诊所就在药店旁边。"
+  },
+  {
+   "p": "in der Praxis",
+   "zh": "实践；实际中",
+   "ex": "In der Praxis funktioniert die Software leider nicht so gut wie in der Theorie.",
+   "exz": "实际使用中，这个软件可惜没有理论上那么好用。"
+  }
+ ],
+ "w1952": [
+  {
+   "p": "nach + Dat. riechen",
+   "zh": "散发……气味",
+   "ex": "In der Küche riecht es nach frisch gebackenem Brot.",
+   "exz": "厨房里有一股刚烤好的面包香味。"
+  },
+  {
+   "p": "etw. riechen",
+   "zh": "闻到",
+   "ex": "Ich rieche Gas, bitte öffnen Sie sofort das Fenster.",
+   "exz": "我闻到煤气味了，请马上打开窗户。"
+  },
+  {
+   "p": "an + Dat. riechen",
+   "zh": "凑近闻一闻",
+   "ex": "Er hält die Milch hoch und riecht vorsichtig an der Flasche.",
+   "exz": "他举起牛奶，小心地闻了闻瓶口。"
+  }
+ ],
+ "w2092": [
+  {
+   "p": "der See",
+   "zh": "湖",
+   "ex": "Am Wochenende fahren wir zum Baden an den See.",
+   "exz": "周末我们去湖边游泳。"
+  },
+  {
+   "p": "die See",
+   "zh": "大海；海边",
+   "ex": "Im Sommer fahren viele Familien aus Hessen an die See.",
+   "exz": "夏天许多黑森州的家庭会去海边。"
+  }
+ ],
+ "w2756": [
+  {
+   "p": "in + Dat. wohnen",
+   "zh": "住在（某地）",
+   "ex": "Seit zwei Jahren wohne ich in einem Studentenwohnheim in Karlsruhe.",
+   "exz": "两年来我一直住在卡尔斯鲁厄的学生宿舍里。"
+  },
+  {
+   "p": "bei + Dat. wohnen",
+   "zh": "住在（某人）家",
+   "ex": "Bis ich eine Wohnung finde, wohne ich bei meinem Onkel.",
+   "exz": "在找到房子之前，我住在叔叔家。"
+  },
+  {
+   "p": "zur Miete wohnen",
+   "zh": "租房住",
+   "ex": "Wir besitzen kein Haus, sondern wohnen zur Miete in der Innenstadt.",
+   "exz": "我们没有房子，而是在市中心租房住。"
+  }
+ ],
+ "w3090": [
+  {
+   "zh": "打开（灯、设备）",
+   "ex": "Kannst du bitte das Licht anmachen, es ist zu dunkel?",
+   "exz": "你能把灯打开吗？太暗了。"
+  },
+  {
+   "p": "ein Feuer anmachen",
+   "zh": "点燃；生（火）",
+   "ex": "Wir wollen am Strand ein Feuer anmachen und Würstchen grillen.",
+   "exz": "我们想在海滩上生火烤香肠。"
+  },
+  {
+   "p": "jmdn. anmachen",
+   "zh": "搭讪；招惹（口语）",
+   "ex": "Ich lasse mich von solchen Typen nicht anmachen.",
+   "exz": "我可不会让这种人来招惹我。"
+  }
+ ],
+ "w3136": [
+  {
+   "p": "bei + Dat. mitmachen",
+   "zh": "参加（活动）",
+   "ex": "Willst du bei dem Projekt der Uni auch mitmachen?",
+   "exz": "你也想参加学校的这个项目吗？"
+  },
+  {
+   "p": "nicht mitmachen",
+   "zh": "不配合；不赞同",
+   "ex": "Bei solchen unfairen Regeln will ich nicht mitmachen.",
+   "exz": "这么不公平的规则，我不想参与。"
+  },
+  {
+   "p": "nicht mehr mitmachen",
+   "zh": "撑不住；不听使唤",
+   "ex": "Mein Laptop will nach vier Jahren nicht mehr mitmachen.",
+   "exz": "我的笔记本用了四年，已经不行了。"
+  }
+ ],
+ "w0126": [
+  {
+   "zh": "设备；仪器",
+   "ex": "Der Apparat im Labor muss jedes Jahr neu kalibriert werden.",
+   "exz": "实验室里的仪器每年都要重新校准。"
+  },
+  {
+   "p": "am Apparat",
+   "zh": "电话（机）",
+   "ex": "Guten Tag, wer ist bitte am Apparat?",
+   "exz": "您好，请问哪位接电话？"
+  },
+  {
+   "zh": "（官僚）机构",
+   "ex": "Der Verwaltungsapparat der Stadt arbeitet leider sehr langsam.",
+   "exz": "市里的行政机构可惜办事很慢。"
+  }
+ ],
+ "w0282": [
+  {
+   "p": "etw. begründen",
+   "zh": "说明理由；论证",
+   "ex": "Bitte begründen Sie Ihre Entscheidung in zwei oder drei Sätzen.",
+   "exz": "请用两三句话说明您决定的理由。"
+  },
+  {
+   "p": "etw. begründen",
+   "zh": "创立；奠定",
+   "ex": "Der Gelehrte begründete im 19. Jahrhundert eine ganz neue Wissenschaft.",
+   "exz": "这位学者在十九世纪创立了一门全新的学科。"
+  }
+ ],
+ "w1076": [
+  {
+   "zh": "脖子",
+   "ex": "Nach dem langen Sitzen am Computer habe ich einen steifen Hals.",
+   "exz": "在电脑前坐了很久后，我脖子发僵。"
+  },
+  {
+   "zh": "喉咙",
+   "ex": "Mir tut der Hals weh, ich glaube, ich werde krank.",
+   "exz": "我喉咙疼，我觉得我要生病了。"
+  },
+  {
+   "p": "Hals über Kopf",
+   "zh": "仓促地",
+   "ex": "Er ist Hals über Kopf aus Berlin weggezogen.",
+   "exz": "他匆匆忙忙地从柏林搬走了。"
+  }
+ ],
+ "w1290": [
+  {
+   "zh": "顺利；成功",
+   "ex": "Hat das mit deinem Visum endlich geklappt?",
+   "exz": "你的签证的事终于办成了吗？"
+  },
+  {
+   "p": "nach vorn / oben klappen",
+   "zh": "翻（折）起来",
+   "ex": "Man kann die Rückbank im Auto nach vorn klappen.",
+   "exz": "汽车的后排座椅可以向前翻折。"
+  }
+ ],
+ "w1479": [
+  {
+   "zh": "送货；供货",
+   "ex": "Der Supermarkt liefert Ihre Bestellung innerhalb von zwei Tagen nach Hause.",
+   "exz": "超市会在两天内把您的订单送到家。"
+  },
+  {
+   "p": "etw. liefern",
+   "zh": "提供（结果、数据）",
+   "ex": "Die neue Studie liefert wichtige Daten für die Entwicklung des Modells.",
+   "exz": "这项新研究为模型的开发提供了重要数据。"
+  }
+ ],
+ "w1702": [
+  {
+   "zh": "记下",
+   "ex": "Ich notiere mir die Telefonnummer, damit ich sie nicht vergesse.",
+   "exz": "我把电话号码记下来，免得忘了。"
+  },
+  {
+   "p": "bei + Dat. notieren",
+   "zh": "（股价）报价为",
+   "ex": "Die Aktie notiert heute leicht im Plus bei 120 Euro.",
+   "exz": "这只股票今天小幅上涨，报价一百二十欧元。"
+  }
+ ],
+ "w1842": [
+  {
+   "zh": "品尝",
+   "ex": "Probier mal den Kuchen, den habe ich selbst gebacken.",
+   "exz": "尝尝这块蛋糕，是我自己烤的。"
+  },
+  {
+   "p": "probieren zu + Inf.",
+   "zh": "尝试（做某事）",
+   "ex": "Ich probiere schon seit einer Stunde, die Datei zu öffnen.",
+   "exz": "我已经试了一个小时想打开这个文件。"
+  }
+ ],
+ "w2023": [
+  {
+   "p": "mit + Dat. schimpfen",
+   "zh": "责骂（某人）",
+   "ex": "Die Lehrerin schimpft mit den Kindern, weil sie zu laut sind.",
+   "exz": "老师在骂孩子们，因为他们太吵了。"
+  },
+  {
+   "p": "über + Akk. schimpfen",
+   "zh": "抱怨；发牢骚",
+   "ex": "Alle schimpfen über die hohen Preise für Strom und Gas.",
+   "exz": "大家都在抱怨电费和燃气费太高。"
+  }
+ ],
+ "w2172": [
+  {
+   "p": "Geld / Strom sparen",
+   "zh": "节省（钱、资源）",
+   "ex": "Mit einem Deutschlandticket kann man viel Geld sparen.",
+   "exz": "有了德国票，可以省下很多钱。"
+  },
+  {
+   "p": "auf + Akk. sparen",
+   "zh": "攒钱（为了买）",
+   "ex": "Ich spare auf ein neues Fahrrad und lege jeden Monat Geld zurück.",
+   "exz": "我在攒钱买辆新自行车，每个月都存一点。"
+  },
+  {
+   "p": "sich + Dat. etw. sparen",
+   "zh": "省得；不必做",
+   "ex": "Den Weg zum Amt kannst du dir sparen, alles geht online.",
+   "exz": "去办事处这一趟你可以省了，全都能在线办。"
+  }
+ ],
+ "w2275": [
+  {
+   "zh": "严厉的（人）",
+   "ex": "Unser Professor ist sehr streng und akzeptiert keine verspäteten Abgaben.",
+   "exz": "我们教授很严厉，不接受迟交的作业。"
+  },
+  {
+   "zh": "刺鼻的（气味）",
+   "ex": "Aus dem alten Kühlschrank kommt seit Tagen ein strenger Geruch.",
+   "exz": "那台旧冰箱好几天来一直散发着刺鼻的味道。"
+  },
+  {
+   "p": "streng genommen",
+   "zh": "严格说来",
+   "ex": "Streng genommen darf man hier nicht ohne Erlaubnis parken.",
+   "exz": "严格说来，这里没有许可不能停车。"
+  }
+ ],
+ "w2397": [
+  {
+   "zh": "做梦",
+   "ex": "Nach dem Gespräch habe ich die ganze Nacht schlecht geträumt.",
+   "exz": "谈话之后我整晚都在做噩梦。"
+  },
+  {
+   "p": "von + Dat. träumen",
+   "zh": "梦见",
+   "ex": "Gestern Nacht habe ich zum ersten Mal von meiner Großmutter geträumt.",
+   "exz": "昨晚我第一次梦见了我的外婆。"
+  },
+  {
+   "p": "von + Dat. träumen",
+   "zh": "梦想；憧憬",
+   "ex": "Viele Studenten träumen von einem Job bei einem großen Technologiekonzern.",
+   "exz": "许多学生梦想着在大型科技公司工作。"
+  }
+ ],
+ "w2494": [
+  {
+   "p": "etwas unternehmen",
+   "zh": "出去玩；搞活动",
+   "ex": "Was wollen wir am Wochenende zusammen unternehmen?",
+   "exz": "我们周末一起去做点什么？"
+  },
+  {
+   "p": "gegen + Akk. etwas unternehmen",
+   "zh": "采取措施",
+   "ex": "Die Stadt muss endlich etwas gegen den Lärm unternehmen.",
+   "exz": "市里终于得采取措施对付噪音了。"
+  }
+ ],
+ "w2686": [
+  {
+   "p": "Geld wechseln",
+   "zh": "兑换（货币）",
+   "ex": "Ich möchte zweihundert Euro in Schweizer Franken wechseln.",
+   "exz": "我想把两百欧元换成瑞士法郎。"
+  },
+  {
+   "p": "etw. wechseln",
+   "zh": "更换（工作、住处）",
+   "ex": "Nach drei Jahren will er den Job wechseln.",
+   "exz": "三年之后他想换工作。"
+  },
+  {
+   "p": "in + Akk. wechseln",
+   "zh": "换乘",
+   "ex": "Am Hauptbahnhof müssen Sie in die S-Bahn wechseln.",
+   "exz": "您得在中央火车站换乘城铁。"
+  }
+ ],
+ "w2834": [
+  {
+   "zh": "关上（门窗）",
+   "ex": "Kannst du bitte das Fenster zumachen, es zieht?",
+   "exz": "你能把窗户关上吗？有穿堂风。"
+  },
+  {
+   "zh": "歇业；关门",
+   "ex": "Wegen der hohen Miete muss das kleine Café bald zumachen.",
+   "exz": "由于租金太高，这家小咖啡馆快要关门了。"
+  },
+  {
+   "zh": "扣上；拉上",
+   "ex": "Du solltest deine Jacke zumachen, draußen ist es kalt.",
+   "exz": "你该把外套拉上，外面很冷。"
+  }
+ ],
+ "w2980": [
+  {
+   "p": "Es tut mir leid.",
+   "zh": "抱歉；对不起",
+   "ex": "Es tut mir leid, dass ich zu spät gekommen bin.",
+   "exz": "对不起，我来晚了。"
+  },
+  {
+   "p": "jmd. tut jmdm. leid",
+   "zh": "同情；可怜",
+   "ex": "Der Kleine tut mir leid, er hat sich den Arm gebrochen.",
+   "exz": "那个小家伙真可怜，他摔断了胳膊。"
+  }
+ ],
+ "w3031": [
+  {
+   "p": "jmdm. Spaß machen",
+   "zh": "使人快乐；有意思",
+   "ex": "Die Arbeit im Team macht mir viel Spaß.",
+   "exz": "团队工作让我觉得很有意思。"
+  },
+  {
+   "p": "Spaß haben",
+   "zh": "玩得开心",
+   "ex": "Wir hatten auf der Party sehr viel Spaß zusammen.",
+   "exz": "我们在派对上一起玩得很开心。"
+  },
+  {
+   "p": "Spaß machen",
+   "zh": "开玩笑",
+   "ex": "Nimm das nicht ernst, ich mache doch nur Spaß.",
+   "exz": "别当真，我只是开玩笑。"
+  }
+ ],
+ "w3081": [
+  {
+   "zh": "幽默的；好笑的",
+   "ex": "Unser neuer Kollege ist wirklich witzig und bringt alle zum Lachen.",
+   "exz": "我们的新同事真的很幽默，能把大家逗笑。"
+  },
+  {
+   "p": "Sehr witzig!",
+   "zh": "（反语）一点也不好笑",
+   "ex": "Sehr witzig, jetzt habe ich meinen Kaffee verschüttet!",
+   "exz": "真好笑啊，害我把咖啡洒了！"
+  },
+  {
+   "zh": "奇妙；巧得很",
+   "ex": "Witzig, dass wir uns ausgerechnet hier wiedersehen.",
+   "exz": "真巧，我们偏偏在这里重逢。"
+  }
+ ],
+ "w0091": [
+  {
+   "p": "als Anlage",
+   "zh": "附件",
+   "ex": "Die Unterlagen finden Sie in der Anlage zu dieser E-Mail.",
+   "exz": "相关材料请见这封邮件的附件。"
+  },
+  {
+   "zh": "设施；设备",
+   "ex": "Die Anlage auf dem Dach liefert genug Strom für das ganze Haus.",
+   "exz": "屋顶上的设备能为整栋房子提供足够的电。"
+  },
+  {
+   "p": "Geldanlage",
+   "zh": "投资；理财",
+   "ex": "Als Geldanlage sind Aktienfonds langfristig oft besser als ein Sparbuch.",
+   "exz": "作为理财方式，股票基金长期来看往往比储蓄存折更好。"
+  }
+ ],
+ "w0120": [
+  {
+   "p": "jmdn. anzeigen",
+   "zh": "举报；报案",
+   "ex": "Wer Betrug bemerkt, kann ihn bei der Polizei anzeigen.",
+   "exz": "发现诈骗的人可以向警方报案。"
+  },
+  {
+   "zh": "显示",
+   "ex": "Die App kann den Akkustand auf dem Bildschirm anzeigen.",
+   "exz": "这个应用可以在屏幕上显示电量。"
+  }
+ ],
+ "w0161": [
+  {
+   "p": "das Handy aufladen",
+   "zh": "充电",
+   "ex": "Ich muss mein Handy aufladen, der Akku ist fast leer.",
+   "exz": "我得给手机充电，电池快没电了。"
+  },
+  {
+   "p": "eine Karte aufladen",
+   "zh": "充值（卡）",
+   "ex": "Du kannst die Mensakarte am Automaten im Foyer aufladen.",
+   "exz": "你可以在大厅的机器上给食堂卡充值。"
+  },
+  {
+   "p": "auf + Akk. aufladen",
+   "zh": "装货",
+   "ex": "Wir müssen die Kisten noch auf den Transporter aufladen.",
+   "exz": "我们还得把箱子装上运输车。"
+  }
+ ],
+ "w0315": [
+  {
+   "p": "etw. berechnen",
+   "zh": "计算",
+   "ex": "Mit dieser Tabelle kannst du die Kosten für den Umzug berechnen.",
+   "exz": "用这张表你可以算出搬家的费用。"
+  },
+  {
+   "p": "jmdm. etw. berechnen",
+   "zh": "向某人收费",
+   "ex": "Die Werkstatt will uns zwei Stunden Arbeit berechnen.",
+   "exz": "修车厂想向我们收两小时的工时费。"
+  }
+ ],
+ "w0424": [
+  {
+   "zh": "邮筒",
+   "ex": "Ich werfe den Brief in den Briefkasten an der Ecke.",
+   "exz": "我把信投进街角的邮筒。"
+  },
+  {
+   "zh": "（住宅的）信箱",
+   "ex": "Unser Briefkasten im Hausflur ist heute wieder voller Werbung.",
+   "exz": "我们楼道里的信箱今天又塞满了广告。"
+  }
+ ],
+ "w0473": [
+  {
+   "p": "dagegen sein",
+   "zh": "反对",
+   "ex": "Ich habe nichts dagegen, wenn wir heute früher Schluss machen.",
+   "exz": "我不反对今天早点收工。"
+  },
+  {
+   "zh": "撞上；碰上",
+   "ex": "Pass auf die Glastür auf, sonst läufst du dagegen.",
+   "exz": "小心那扇玻璃门，不然你会撞上去。"
+  },
+  {
+   "zh": "相比之下",
+   "ex": "Berlin ist teuer, dagegen ist das Leben in Leipzig noch günstig.",
+   "exz": "柏林很贵，相比之下莱比锡的生活还算便宜。"
+  }
+ ],
+ "w0599": [
+  {
+   "p": "ein guter Einfall",
+   "zh": "主意；灵感",
+   "ex": "Die Idee mit dem Parkplatz war ein wirklich guter Einfall.",
+   "exz": "停车场那个主意真是妙。"
+  },
+  {
+   "p": "Einfall in + Akk.",
+   "zh": "入侵",
+   "ex": "Der Einfall der feindlichen Truppen löste eine große Flucht aus.",
+   "exz": "敌军的入侵引发了大规模逃亡。"
+  }
+ ],
+ "w0619": [
+  {
+   "zh": "布置；陈设",
+   "ex": "Die Einrichtung der Wohnung ist modern und sehr hell.",
+   "exz": "这套房子的陈设现代而明亮。"
+  },
+  {
+   "zh": "设施；机构",
+   "ex": "Die Bibliothek ist eine öffentliche Einrichtung der Universität.",
+   "exz": "图书馆是大学的公共设施。"
+  },
+  {
+   "p": "Einrichtung + Gen.",
+   "zh": "设立；开设",
+   "ex": "Die Einrichtung eines neuen Kontos dauert nur wenige Minuten.",
+   "exz": "开设一个新账户只需几分钟。"
+  }
+ ],
+ "w0666": [
+  {
+   "p": "Entlassung von + Dat.",
+   "zh": "解雇",
+   "ex": "Die Firma plant die Entlassung von hundert Mitarbeitern.",
+   "exz": "公司计划解雇一百名员工。"
+  },
+  {
+   "p": "Entlassung aus + Dat.",
+   "zh": "出院；获释",
+   "ex": "Nach der Entlassung aus dem Krankenhaus ruht sie sich zu Hause aus.",
+   "exz": "出院之后她在家休息。"
+  }
+ ],
+ "w0719": [
+  {
+   "p": "jmdn. ernähren",
+   "zh": "养活（人）",
+   "ex": "Mit seinem kleinen Gehalt kann er die ganze Familie kaum ernähren.",
+   "exz": "凭他那点工资，几乎养不活一家人。"
+  },
+  {
+   "p": "sich von + Dat. ernähren",
+   "zh": "以……为食",
+   "ex": "Viele Vögel ernähren sich im Winter von Samen und Beeren.",
+   "exz": "许多鸟类冬天以种子和浆果为食。"
+  },
+  {
+   "p": "sich gesund ernähren",
+   "zh": "注重饮食",
+   "ex": "Seit dem Arztbesuch ernähre ich mich viel gesünder.",
+   "exz": "自从看过医生，我的饮食健康多了。"
+  }
+ ],
+ "w0806": [
+  {
+   "p": "etw. festsetzen",
+   "zh": "确定；规定",
+   "ex": "Die Regierung will den Preis für Strom festsetzen.",
+   "exz": "政府想规定电价。"
+  },
+  {
+   "p": "jmdn. festsetzen",
+   "zh": "拘押",
+   "ex": "Die Polizei konnte den Verdächtigen am Bahnhof festsetzen.",
+   "exz": "警方在火车站拘押了嫌疑人。"
+  }
+ ],
+ "w0833": [
+  {
+   "p": "Flucht vor + Dat.",
+   "zh": "逃难；避难",
+   "ex": "Viele Familien suchen nach der Flucht vor dem Krieg Schutz in Deutschland.",
+   "exz": "许多家庭在逃离战争后到德国寻求庇护。"
+  },
+  {
+   "p": "die Flucht ergreifen",
+   "zh": "逃跑；溜走",
+   "ex": "Als die Polizei kam, ergriffen die Diebe die Flucht.",
+   "exz": "警察一来，小偷们就逃跑了。"
+  },
+  {
+   "p": "Flucht in + Akk.",
+   "zh": "逃避（现实）",
+   "ex": "Seine Flucht in die Arbeit hilft ihm nicht gegen den Stress.",
+   "exz": "他躲进工作里并不能缓解压力。"
+  }
+ ],
+ "w0858": [
+  {
+   "p": "Fortsetzung + Gen.",
+   "zh": "继续（进行）",
+   "ex": "Die Fortsetzung der Verhandlungen ist für nächste Woche geplant.",
+   "exz": "谈判计划在下周继续进行。"
+  },
+  {
+   "p": "Fortsetzung folgt",
+   "zh": "续集；连载",
+   "ex": "Der Film bekommt im Herbst eine Fortsetzung.",
+   "exz": "这部电影秋天会有续集。"
+  }
+ ],
+ "w0913": [
+  {
+   "zh": "煮熟的",
+   "ex": "Die Kartoffeln sind noch nicht gar, sie brauchen zehn Minuten.",
+   "exz": "土豆还没熟，还需要十分钟。"
+  },
+  {
+   "p": "gar nicht / gar kein",
+   "zh": "根本（不）",
+   "ex": "Ich habe gar keine Zeit für ein langes Treffen.",
+   "exz": "我根本没有时间开长会。"
+  },
+  {
+   "p": "oder gar",
+   "zh": "甚至",
+   "ex": "Der Test dauert eine Stunde oder gar zwei, je nach Aufgabe.",
+   "exz": "考试要一小时甚至两小时，取决于题目。"
+  }
+ ],
+ "w0933": [
+  {
+   "zh": "分娩；生产",
+   "ex": "Die Geburt dauerte zwölf Stunden, aber alles ging gut.",
+   "exz": "分娩持续了十二个小时，但一切顺利。"
+  },
+  {
+   "p": "bei der Geburt",
+   "zh": "出生（时）",
+   "ex": "Bei der Geburt wog mein Bruder nur zwei Kilo.",
+   "exz": "我弟弟出生时只有两公斤重。"
+  },
+  {
+   "p": "von Geburt an",
+   "zh": "天生；从出生起",
+   "ex": "Sie ist von Geburt an blind.",
+   "exz": "她生来就是盲人。"
+  }
+ ],
+ "w0971": [
+  {
+   "p": "etw. genehmigen",
+   "zh": "批准",
+   "ex": "Mein Chef hat meinen Urlaub für August genehmigt.",
+   "exz": "老板批准了我八月份的假期。"
+  },
+  {
+   "p": "sich + Dat. etw. genehmigen",
+   "zh": "犒劳自己；来一杯",
+   "ex": "Nach der Prüfung genehmige ich mir ein kaltes Bier.",
+   "exz": "考完试我要来一杯冰啤酒犒劳自己。"
+  }
+ ],
+ "w1024": [
+  {
+   "zh": "光滑；平整",
+   "ex": "Nach dem Eincremen fühlt sich ihre Haut ganz glatt an.",
+   "exz": "涂完护肤霜后，她的皮肤摸起来很光滑。"
+  },
+  {
+   "zh": "路滑；湿滑",
+   "ex": "Im Winter sind die Gehwege oft glatt, deshalb muss man aufpassen.",
+   "exz": "冬天人行道经常很滑，所以要小心。"
+  },
+  {
+   "zh": "顺利",
+   "ex": "Das Gespräch mit dem Chef verlief völlig glatt.",
+   "exz": "和老板的谈话进行得非常顺利。"
+  },
+  {
+   "zh": "竟然；干脆",
+   "ex": "Ich habe den Termin glatt vergessen und kam zu spät.",
+   "exz": "我竟然把约好的时间忘了，结果迟到了。"
+  }
+ ],
+ "w1138": [
+  {
+   "p": "etw. hinterlassen",
+   "zh": "留下（话、痕迹）",
+   "ex": "Bitte hinterlassen Sie eine Nachricht nach dem Signalton.",
+   "exz": "请在提示音后留言。"
+  },
+  {
+   "p": "jmdm. etw. hinterlassen",
+   "zh": "遗留（遗产）",
+   "ex": "Der Onkel hat seiner Nichte ein kleines Haus hinterlassen.",
+   "exz": "叔叔给侄女留下了一栋小房子。"
+  }
+ ],
+ "w1185": [
+  {
+   "p": "jmdn. über + Akk. informieren",
+   "zh": "通知；告知",
+   "ex": "Bitte informieren Sie mich rechtzeitig über jede Änderung im Zeitplan.",
+   "exz": "时间表有任何变动请及时通知我。"
+  },
+  {
+   "p": "sich über + Akk. informieren",
+   "zh": "了解；查询信息",
+   "ex": "Ich möchte mich über die Fristen für die Bewerbung informieren.",
+   "exz": "我想了解一下申请的截止时间。"
+  }
+ ],
+ "w1248": [
+  {
+   "zh": "（电视）频道",
+   "ex": "Auf welchem Kanal läuft das Fußballspiel heute Abend?",
+   "exz": "今晚的足球赛在哪个频道播？"
+  },
+  {
+   "zh": "运河；海峡",
+   "ex": "Im Sommer fahren viele Schiffe durch den Kanal.",
+   "exz": "夏天有很多船经过这条运河。"
+  },
+  {
+   "zh": "渠道；途径",
+   "ex": "Die Firma nutzt verschiedene Kanäle, um neue Kunden zu erreichen.",
+   "exz": "公司通过不同渠道来接触新客户。"
+  }
+ ],
+ "w1268": [
+  {
+   "p": "beim Kauf",
+   "zh": "购买（行为）",
+   "ex": "Beim Kauf eines Laptops sollte man auf den Akku achten.",
+   "exz": "买笔记本电脑时要注意电池。"
+  },
+  {
+   "p": "ein guter Kauf",
+   "zh": "买到的东西",
+   "ex": "Das gebrauchte Fahrrad war wirklich ein guter Kauf.",
+   "exz": "这辆二手自行车真是买得值。"
+  },
+  {
+   "p": "in Kauf nehmen",
+   "zh": "忍受；接受（不利）",
+   "ex": "Für den günstigen Preis nehme ich längere Wartezeiten in Kauf.",
+   "exz": "为了便宜的价格，我愿意忍受更长的等待。"
+  }
+ ],
+ "w1305": [
+  {
+   "zh": "（电话、铃）响",
+   "ex": "Mitten in der Vorlesung hat mein Telefon laut geklingelt.",
+   "exz": "讲课进行到一半，我的手机大声响了起来。"
+  },
+  {
+   "p": "an + Dat. klingeln",
+   "zh": "按门铃",
+   "ex": "Der Paketbote hat zweimal an der Tür geklingelt.",
+   "exz": "快递员按了两次门铃。"
+  }
+ ],
+ "w1334": [
+  {
+   "p": "Konkurrenz haben",
+   "zh": "竞争",
+   "ex": "Auf dem Arbeitsmarkt ist die Konkurrenz für Berufseinsteiger groß.",
+   "exz": "在就业市场上，应届生的竞争很激烈。"
+  },
+  {
+   "zh": "竞争对手",
+   "ex": "Unsere Konkurrenz bietet das gleiche Produkt viel billiger an.",
+   "exz": "我们的竞争对手把同样的产品卖得便宜得多。"
+  }
+ ],
+ "w1360": [
+  {
+   "zh": "强壮的；结实的",
+   "ex": "Der Handwerker war ein kräftiger Mann mit starken Armen.",
+   "exz": "那位工匠是个胳膊粗壮的结实汉子。"
+  },
+  {
+   "zh": "浓重的（颜色、味道）",
+   "ex": "Auf dem Bild gefallen mir die kräftigen Farben sehr gut.",
+   "exz": "这幅画里浓重的色彩我很喜欢。"
+  },
+  {
+   "zh": "猛烈地；大幅地",
+   "ex": "Im Herbst hat es drei Tage lang kräftig geregnet.",
+   "exz": "秋天连着下了三天大雨。"
+  }
+ ],
+ "w1455": [
+  {
+   "p": "Es tut mir leid.",
+   "zh": "抱歉；对不起",
+   "ex": "Das tut mir wirklich leid, ich habe deine E-Mail übersehen.",
+   "exz": "真对不起，我漏看了你的邮件。"
+  },
+  {
+   "p": "jmd. tut jmdm. leid",
+   "zh": "同情；可怜",
+   "ex": "Die alte Frau tut mir leid, sie ist den ganzen Tag allein.",
+   "exz": "那位老太太真可怜，她一整天都是一个人。"
+  }
+ ],
+ "w1485": [
+  {
+   "zh": "线条",
+   "ex": "Zeichne bitte eine gerade Linie von A nach B.",
+   "exz": "请画一条从甲到乙的直线。"
+  },
+  {
+   "p": "die Linie 5",
+   "zh": "（公交）线路",
+   "ex": "Die Linie 5 fährt direkt zum Hauptbahnhof.",
+   "exz": "五号线直达中央火车站。"
+  },
+  {
+   "p": "in erster Linie",
+   "zh": "首先；主要",
+   "ex": "Der Job ist mir in erster Linie wegen der Kollegen wichtig.",
+   "exz": "这份工作对我来说主要是因为同事才重要。"
+  },
+  {
+   "zh": "路线；方针",
+   "ex": "Die Partei bleibt bei ihrer politischen Linie.",
+   "exz": "这个党派坚持自己的政治路线。"
+  }
+ ],
+ "w1513": [
+  {
+   "zh": "一顿饭",
+   "ex": "Eine warme Mahlzeit am Abend ist mir sehr wichtig.",
+   "exz": "晚上吃一顿热饭对我很重要。"
+  },
+  {
+   "p": "Mahlzeit!",
+   "zh": "（饭点的问候）用餐愉快",
+   "ex": "Mittags sagen viele Kollegen in der Kantine einfach Mahlzeit.",
+   "exz": "中午许多同事在食堂里就直接说一声“用餐愉快”。"
+  }
+ ],
+ "w1554": [
+  {
+   "zh": "师傅（手艺人）",
+   "ex": "Mein Onkel ist Meister und leitet eine kleine Autowerkstatt.",
+   "exz": "我叔叔是师傅，经营着一家小汽车修理厂。"
+  },
+  {
+   "p": "Meister werden",
+   "zh": "冠军",
+   "ex": "Die Mannschaft wurde zum dritten Mal in Folge Deutscher Meister.",
+   "exz": "这支球队连续第三次成为德国冠军。"
+  },
+  {
+   "p": "ein Meister seines Fachs",
+   "zh": "大师；高手",
+   "ex": "In seinem Fach ist er ein echter Meister.",
+   "exz": "在他的专业领域里，他是真正的高手。"
+  }
+ ],
+ "w1644": [
+  {
+   "p": "nächste Woche",
+   "zh": "下一个（时间、顺序）",
+   "ex": "Nächste Woche habe ich einen Termin beim Ausländeramt.",
+   "exz": "下周我在外管局有个预约。"
+  },
+  {
+   "p": "der nächste ...",
+   "zh": "最近的（距离）",
+   "ex": "Entschuldigung, wo ist hier die nächste Apotheke, bitte?",
+   "exz": "打扰一下，请问最近的药店在哪里？"
+  },
+  {
+   "p": "Der Nächste, bitte!",
+   "zh": "下一位",
+   "ex": "Der Nächste bitte, Sie können jetzt zum Schalter kommen.",
+   "exz": "请下一位，您现在可以到窗口来了。"
+  }
+ ],
+ "w1670": [
+  {
+   "p": "Der Test ist negativ.",
+   "zh": "（检测）阴性",
+   "ex": "Der Coronatest war zum Glück negativ.",
+   "exz": "新冠检测幸好是阴性。"
+  },
+  {
+   "p": "negative Erfahrungen",
+   "zh": "负面的；消极的",
+   "ex": "Er hat im Praktikum leider nur negative Erfahrungen gemacht.",
+   "exz": "他在实习中可惜只有不好的经历。"
+  },
+  {
+   "zh": "（数值）为负",
+   "ex": "Mein Kontostand ist am Monatsende oft leicht negativ.",
+   "exz": "我的账户余额月底经常是小幅负数。"
+  }
+ ],
+ "w1738": [
+  {
+   "p": "ein Opfer + Gen.",
+   "zh": "受害者",
+   "ex": "Die Polizei kümmert sich um die Opfer des Verkehrsunfalls.",
+   "exz": "警方在照料交通事故的受害者。"
+  },
+  {
+   "p": "ein Opfer bringen",
+   "zh": "牺牲；付出代价",
+   "ex": "Für die Karriere musste sie viele Opfer bringen.",
+   "exz": "为了事业，她做出了很多牺牲。"
+  }
+ ],
+ "w1877": [
+  {
+   "p": "am Rand + Gen.",
+   "zh": "边缘；边沿",
+   "ex": "Das Glas stand direkt am Rand des Tisches.",
+   "exz": "杯子就放在桌子的边缘。"
+  },
+  {
+   "p": "am Rand der Stadt",
+   "zh": "郊区；城边",
+   "ex": "Wir wohnen am Rand der Stadt, nahe dem Wald.",
+   "exz": "我们住在城郊，靠近森林。"
+  },
+  {
+   "p": "am Rand",
+   "zh": "页边空白",
+   "ex": "Der Lehrer schreibt seine Anmerkungen an den Rand des Textes.",
+   "exz": "老师把批注写在文章的页边空白处。"
+  }
+ ],
+ "w2091": [
+  {
+   "zh": "出汗",
+   "ex": "Bei dreißig Grad schwitze ich schon beim Treppensteigen.",
+   "exz": "三十度的天气，我光爬楼梯就出汗。"
+  },
+  {
+   "zh": "紧张；捏把汗（口语）",
+   "ex": "Bei der Verhandlung musste er ganz schön schwitzen.",
+   "exz": "在谈判中他着实捏了一把汗。"
+  }
+ ],
+ "w2208": [
+  {
+   "p": "auf der linken Spur",
+   "zh": "车道",
+   "ex": "Auf der Autobahn fahre ich meistens auf der mittleren Spur.",
+   "exz": "在高速公路上我大多开中间车道。"
+  },
+  {
+   "p": "eine Spur hinterlassen",
+   "zh": "痕迹；踪迹",
+   "ex": "Die Katze hat Spuren im frischen Schnee hinterlassen.",
+   "exz": "猫在新雪里留下了脚印。"
+  },
+  {
+   "p": "einer Spur folgen",
+   "zh": "线索",
+   "ex": "Die Polizei verfolgt eine neue Spur im Fall des Einbruchs.",
+   "exz": "警方在追查这起入室盗窃案的新线索。"
+  }
+ ],
+ "w2221": [
+  {
+   "p": "an der nächsten Station",
+   "zh": "（停靠）站",
+   "ex": "Wir steigen an der nächsten Station aus und nehmen die Linie 3.",
+   "exz": "我们在下一站下车，换乘三号线。"
+  },
+  {
+   "p": "auf Station",
+   "zh": "病区；科室",
+   "ex": "Meine Tante arbeitet als Krankenschwester auf der Station für Kinder.",
+   "exz": "我姑姑在儿童病区当护士。"
+  },
+  {
+   "zh": "（人生）阶段；经历",
+   "ex": "Die Reise war eine der wichtigsten Stationen in seinem Leben.",
+   "exz": "这次旅行是他人生中最重要的阶段之一。"
+  }
+ ],
+ "w2270": [
+  {
+   "p": "die ganze Strecke",
+   "zh": "路程；距离",
+   "ex": "Die Strecke von Karlsruhe nach München beträgt etwa dreihundert Kilometer.",
+   "exz": "从卡尔斯鲁厄到慕尼黑的路程大约三百公里。"
+  },
+  {
+   "zh": "（交通）线路",
+   "ex": "Die Strecke zwischen Mannheim und Frankfurt ist wegen Bauarbeiten gesperrt.",
+   "exz": "曼海姆和法兰克福之间的线路因施工被封了。"
+  },
+  {
+   "p": "auf der Strecke bleiben",
+   "zh": "被落下；半途而废",
+   "ex": "Bei der Reform bleiben vor allem die Schwächeren auf der Strecke.",
+   "exz": "改革中尤其是弱势群体被落下了。"
+  }
+ ],
+ "w2297": [
+  {
+   "zh": "金额；款项",
+   "ex": "Für die Wohnung musste er eine hohe Summe als Kaution zahlen.",
+   "exz": "为了这套房子，他得付一大笔押金。"
+  },
+  {
+   "zh": "总和；合计",
+   "ex": "Die Summe aller Einzelkosten beträgt am Ende rund achthundert Euro.",
+   "exz": "所有单项费用的总和最后约为八百欧元。"
+  }
+ ],
+ "w2328": [
+  {
+   "p": "taub sein",
+   "zh": "聋的",
+   "ex": "Nach dem Unfall ist er auf dem linken Ohr taub.",
+   "exz": "事故之后他左耳听不见了。"
+  },
+  {
+   "zh": "麻木的；冻僵的",
+   "ex": "Nach dem langen Spaziergang im Schnee waren meine Finger ganz taub.",
+   "exz": "在雪地里走了很久之后，我的手指完全冻僵了。"
+  }
+ ],
+ "w2429": [
+  {
+   "p": "jmdn. überfahren",
+   "zh": "轧倒；撞（人、动物）",
+   "ex": "Der Fahrer hat im Dunkeln fast einen Hund überfahren.",
+   "exz": "司机在黑暗中差点轧到一条狗。"
+  },
+  {
+   "p": "eine Ampel überfahren",
+   "zh": "闯过（红灯、标志）",
+   "ex": "Er hat das Stoppschild überfahren und musste eine Strafe zahlen.",
+   "exz": "他闯过了停车标志，得交罚款。"
+  }
+ ],
+ "w2460": [
+  {
+   "p": "in der Umgebung",
+   "zh": "周边；附近",
+   "ex": "In der Umgebung unserer Uni gibt es viele Cafés und Restaurants.",
+   "exz": "我们大学周边有很多咖啡馆和餐厅。"
+  },
+  {
+   "zh": "环境；周围的氛围",
+   "ex": "In einer neuen Umgebung braucht man am Anfang etwas Zeit.",
+   "exz": "在新的环境里，一开始需要一点时间适应。"
+  }
+ ],
+ "w2489": [
+  {
+   "p": "jmdn. unterbrechen",
+   "zh": "打断（别人说话）",
+   "ex": "Entschuldigung, dass ich Sie unterbreche, aber ich habe eine Frage.",
+   "exz": "不好意思打断您，我有个问题。"
+  },
+  {
+   "p": "etw. unterbrechen",
+   "zh": "中断（活动、学业）",
+   "ex": "Wegen der Krankheit musste sie ihr Studium für ein Semester unterbrechen.",
+   "exz": "由于生病，她不得不中断学业一个学期。"
+  }
+ ],
+ "w2586": [
+  {
+   "p": "etw. versäumen",
+   "zh": "错过；耽误",
+   "ex": "Wegen des Staus habe ich den ersten Teil der Vorlesung versäumt.",
+   "exz": "因为堵车，我错过了讲座的前半部分。"
+  },
+  {
+   "p": "versäumen zu + Inf.",
+   "zh": "疏忽；忘了做",
+   "ex": "Er hat versäumt, rechtzeitig einen Antrag zu stellen.",
+   "exz": "他没有及时提出申请。"
+  }
+ ],
+ "w2605": [
+  {
+   "p": "die Vertretung machen",
+   "zh": "代班；代课",
+   "ex": "Während ihres Urlaubs macht Herr Klein die Vertretung.",
+   "exz": "她休假期间由克莱因先生代班。"
+  },
+  {
+   "p": "in Vertretung",
+   "zh": "代理；代签",
+   "ex": "Der Brief wurde in Vertretung des Direktors unterschrieben.",
+   "exz": "这封信由人代表主任签署。"
+  },
+  {
+   "zh": "代表处；驻外机构",
+   "ex": "Die Vertretung des Landes in Berlin hilft bei Visaproblemen.",
+   "exz": "该国驻柏林的代表处可以帮助解决签证问题。"
+  }
+ ],
+ "w2633": [
+  {
+   "p": "Voraussetzung für + Akk.",
+   "zh": "必备条件",
+   "ex": "Ein Bachelorabschluss ist die Voraussetzung für die Zulassung zum Master.",
+   "exz": "本科学位是获准读硕士的必备条件。"
+  },
+  {
+   "p": "unter der Voraussetzung, dass",
+   "zh": "以……为前提",
+   "ex": "Wir stimmen zu, unter der Voraussetzung, dass der Preis gleich bleibt.",
+   "exz": "我们同意，前提是价格保持不变。"
+  }
+ ],
+ "w2677": [
+  {
+   "p": "Wärme tut gut",
+   "zh": "温暖；热",
+   "ex": "Bei Rückenschmerzen tut mir Wärme sehr gut.",
+   "exz": "背疼的时候，热敷对我很有效。"
+  },
+  {
+   "p": "menschliche Wärme",
+   "zh": "亲切；温情",
+   "ex": "Er strahlt eine menschliche Wärme aus, die alle schätzen.",
+   "exz": "他散发着一种大家都喜欢的亲切感。"
+  }
+ ],
+ "w2727": [
+  {
+   "p": "jmdm. widersprechen",
+   "zh": "反驳（某人）",
+   "ex": "Niemand wagte es, dem Chef zu widersprechen.",
+   "exz": "没有人敢反驳老板。"
+  },
+  {
+   "p": "etw. widerspricht + Dat.",
+   "zh": "与……相抵触",
+   "ex": "Diese Regel widerspricht dem Datenschutz.",
+   "exz": "这条规定与数据保护相抵触。"
+  },
+  {
+   "p": "sich widersprechen",
+   "zh": "自相矛盾",
+   "ex": "Der Zeuge hat sich mehrmals widersprochen.",
+   "exz": "证人好几次自相矛盾。"
+  }
+ ],
+ "w2840": [
+  {
+   "p": "zurück sein",
+   "zh": "回来；返回",
+   "ex": "Warte kurz hier, ich bin in fünf Minuten wieder zurück.",
+   "exz": "在这儿稍等，我五分钟后就回来。"
+  },
+  {
+   "p": "hin und zurück",
+   "zh": "往返",
+   "ex": "Eine Fahrkarte nach Köln, hin und zurück, bitte.",
+   "exz": "请给我一张去科隆的往返票。"
+  },
+  {
+   "p": "zurück zu + Dat.",
+   "zh": "回到（原话题）",
+   "ex": "Aber zurück zum Thema: Wann findet die Besprechung statt?",
+   "exz": "不过言归正传：会议什么时候开？"
+  }
+ ],
+ "w2861": [
+  {
+   "p": "Zweifel an + Dat. haben",
+   "zh": "怀疑；有疑虑",
+   "ex": "Ich habe starke Zweifel an dieser Rechnung.",
+   "exz": "我对这张账单有很大的疑问。"
+  },
+  {
+   "p": "ohne Zweifel",
+   "zh": "毫无疑问",
+   "ex": "Sie ist ohne Zweifel die beste Entwicklerin im Team.",
+   "exz": "她毫无疑问是团队里最好的开发者。"
+  },
+  {
+   "p": "im Zweifel",
+   "zh": "拿不准时；有疑问时",
+   "ex": "Im Zweifel frage ich lieber noch einmal beim Amt nach.",
+   "exz": "拿不准的时候，我宁可再向办事处问一次。"
+  }
+ ],
+ "x083": [
+  {
+   "p": "einen Termin vereinbaren",
+   "zh": "预约（看病、办事）",
+   "ex": "Ich habe morgen früh einen Termin beim Zahnarzt.",
+   "exz": "我明天早上约了牙医。"
+  },
+  {
+   "zh": "日程安排；会议",
+   "ex": "Heute habe ich drei Termine hintereinander und keine Mittagspause.",
+   "exz": "我今天连着有三个安排，没有午休。"
+  },
+  {
+   "zh": "期限；截止日",
+   "ex": "Der Termin für die Abgabe der Bachelorarbeit ist der fünfzehnte Dezember.",
+   "exz": "毕业论文的提交截止日是十二月十五日。"
+  }
+ ],
+ "y0001": [
+  {
+   "p": "etw. abschalten",
+   "zh": "关闭（设备）",
+   "ex": "Du musst das Gerät nach der Benutzung immer abschalten.",
+   "exz": "使用完之后你必须把设备关掉。"
+  },
+  {
+   "p": "vom Alltag abschalten",
+   "zh": "放松；放空",
+   "ex": "Nach der Arbeit kann ich nur schwer abschalten.",
+   "exz": "下班之后我很难放松下来。"
+  },
+  {
+   "zh": "走神；不再听",
+   "ex": "Er hört nicht mehr zu, weil er im Meeting einfach abschaltet.",
+   "exz": "他不再听了，因为开会时他干脆神游了。"
+  }
+ ],
+ "y0018": [
+  {
+   "p": "eine hohe Auflage",
+   "zh": "发行量；印数",
+   "ex": "Die Zeitung hat eine Auflage von zweihunderttausend Exemplaren.",
+   "exz": "这份报纸的发行量是二十万份。"
+  },
+  {
+   "p": "die zweite Auflage",
+   "zh": "版次",
+   "ex": "Das Lehrbuch erscheint im Herbst in der dritten Auflage.",
+   "exz": "这本教材秋天出第三版。"
+  },
+  {
+   "p": "mit Auflagen",
+   "zh": "附加条件；限制",
+   "ex": "Die Behörde hat das Projekt mit strengen Auflagen genehmigt.",
+   "exz": "主管部门附带严格条件批准了这个项目。"
+  }
+ ],
+ "y0029": [
+  {
+   "p": "eine Bemerkung machen",
+   "zh": "评论；随口一说",
+   "ex": "Er machte eine freche Bemerkung über meinen Dialekt.",
+   "exz": "他对我的口音说了句无礼的话。"
+  },
+  {
+   "zh": "备注（栏）",
+   "ex": "Wenn Sie Allergien haben, tragen Sie das bitte unter Bemerkung ein.",
+   "exz": "如果您有过敏，请填在备注一栏里。"
+  }
+ ],
+ "y0159": [
+  {
+   "p": "im Rhythmus der Musik",
+   "zh": "（音乐）节奏",
+   "ex": "Die Kinder tanzen im Rhythmus der Musik durch den Raum.",
+   "exz": "孩子们随着音乐的节奏在房间里跳舞。"
+  },
+  {
+   "zh": "作息；生活节律",
+   "ex": "Nach der Nachtschicht ist mein Rhythmus völlig durcheinander.",
+   "exz": "上完夜班后，我的作息完全乱了。"
+  }
+ ],
+ "y0184": [
+  {
+   "p": "die deutsche Synchronisation",
+   "zh": "配音（影视）",
+   "ex": "Ich finde die deutsche Synchronisation dieses Films richtig gut.",
+   "exz": "我觉得这部电影的德语配音真的很好。"
+  },
+  {
+   "zh": "同步（数据、设备）",
+   "ex": "Die Synchronisation der Daten zwischen Handy und Laptop dauert ein paar Minuten.",
+   "exz": "手机和笔记本之间的数据同步要几分钟。"
+  }
+ ],
+ "y0226": [
+  {
+   "p": "eine Aussage abschwächen",
+   "zh": "缓和；削弱（说法）",
+   "ex": "Der Politiker wollte seine Aussage nachträglich etwas abschwächen.",
+   "exz": "这位政客想事后把自己的说法缓和一点。"
+  },
+  {
+   "p": "sich abschwächen",
+   "zh": "减弱",
+   "ex": "Der Regen wird sich bis zum Abend abschwächen.",
+   "exz": "雨到傍晚会减弱。"
+  }
+ ],
+ "y0296": [
+  {
+   "p": "jmdn. begeistern",
+   "zh": "使兴奋；打动",
+   "ex": "Der Vortrag hat das ganze Publikum begeistert.",
+   "exz": "这场报告让所有听众都很兴奋。"
+  },
+  {
+   "p": "sich für + Akk. begeistern",
+   "zh": "对……着迷",
+   "ex": "Ich kann mich leicht für neue Technik begeistern.",
+   "exz": "我很容易对新技术着迷。"
+  }
+ ],
+ "y0309": [
+  {
+   "p": "auf + Dat. beruhen",
+   "zh": "基于；源于",
+   "ex": "Das Ergebnis beruht auf einer sehr kleinen Datenmenge.",
+   "exz": "这个结果是基于很少的数据得出的。"
+  },
+  {
+   "p": "auf sich beruhen lassen",
+   "zh": "搁置不管",
+   "ex": "Lassen wir die Sache lieber auf sich beruhen.",
+   "exz": "这件事我们还是搁置不提吧。"
+  }
+ ],
+ "y0320": [
+  {
+   "p": "etw. bevorzugen",
+   "zh": "更喜欢；偏爱",
+   "ex": "Ich bevorzuge Tee, weil mir Kaffee auf den Magen schlägt.",
+   "exz": "我更喜欢喝茶，因为咖啡伤胃。"
+  },
+  {
+   "p": "jmdn. bevorzugen",
+   "zh": "优待；偏袒",
+   "ex": "Der Lehrer darf keinen Schüler bevorzugen.",
+   "exz": "老师不能偏袒任何一个学生。"
+  }
+ ],
+ "y0352": [
+  {
+   "p": "keine Rolle spielen",
+   "zh": "无关紧要；有影响",
+   "ex": "Das Alter spielt bei der Bewerbung keine Rolle.",
+   "exz": "年龄在申请中不重要。"
+  },
+  {
+   "p": "die Rolle + Gen. spielen",
+   "zh": "扮演（角色）",
+   "ex": "Im Schultheater spielt er die Rolle des Königs.",
+   "exz": "在学校的戏剧里他扮演国王。"
+  }
+ ],
+ "y0365": [
+  {
+   "p": "sich ergeben",
+   "zh": "出现；产生（机会）",
+   "ex": "Bei der Konferenz hat sich eine gute Gelegenheit ergeben, ihn zu treffen.",
+   "exz": "在会议上出现了一个见他的好机会。"
+  },
+  {
+   "p": "sich aus + Dat. ergeben",
+   "zh": "由……得出",
+   "ex": "Aus der Analyse hat sich ergeben, dass wir mehr Server brauchen.",
+   "exz": "分析得出的结论是我们需要更多服务器。"
+  },
+  {
+   "p": "sich ergeben",
+   "zh": "投降；屈服",
+   "ex": "Nach langem Kampf mussten sich die Soldaten ergeben.",
+   "exz": "经过长时间战斗，士兵们不得不投降。"
+  }
+ ],
+ "y0504": [
+  {
+   "zh": "令人信服的；连贯的",
+   "ex": "Das Konzept des Start-ups ist klar und schlüssig.",
+   "exz": "这家初创公司的方案清楚而有说服力。"
+  },
+  {
+   "p": "sich schlüssig werden",
+   "zh": "拿定主意",
+   "ex": "Ich bin mir noch nicht schlüssig, ob ich das Angebot annehme.",
+   "exz": "我还没拿定主意要不要接受这个报价。"
+  }
+ ],
+ "y0514": [
+  {
+   "zh": "稳固的；结实的",
+   "ex": "Das Regal ist sehr stabil und trägt viele schwere Bücher.",
+   "exz": "这个书架很结实，能放很多重书。"
+  },
+  {
+   "zh": "稳定的；平稳的",
+   "ex": "Die Preise sind seit mehreren Monaten stabil.",
+   "exz": "价格已经稳定好几个月了。"
+  }
+ ],
+ "y0561": [
+  {
+   "p": "etw. vertiefen",
+   "zh": "加深；深化",
+   "ex": "Im Master möchte ich meine Kenntnisse in Datenbanken vertiefen.",
+   "exz": "读硕士时我想深化数据库方面的知识。"
+  },
+  {
+   "p": "sich in + Akk. vertiefen",
+   "zh": "埋头于；沉浸在",
+   "ex": "Sie vertiefte sich so sehr in das Buch, dass sie die Zeit vergaß.",
+   "exz": "她太沉浸在书里，连时间都忘了。"
+  }
+ ],
+ "y0579": [
+  {
+   "zh": "存在；出现",
+   "ex": "Wir können erst helfen, wenn ein konkreter Fehler vorliegt.",
+   "exz": "只有出现具体错误时，我们才能帮忙。"
+  },
+  {
+   "p": "jmdm. vorliegen",
+   "zh": "已收到；手头有",
+   "ex": "Ich kann den Antrag erst bearbeiten, wenn mir alle Unterlagen vorliegen.",
+   "exz": "只有所有材料都到了我手上，我才能处理申请。"
+  }
+ ],
+ "y0642": [
+  {
+   "p": "eine Abmahnung erhalten",
+   "zh": "（劳动）书面警告",
+   "ex": "Nach dem dritten Zuspätkommen bekam er von seinem Arbeitgeber eine Abmahnung.",
+   "exz": "第三次迟到之后，他收到了雇主的书面警告。"
+  },
+  {
+   "zh": "（侵权）律师警告函",
+   "ex": "Wegen des kopierten Fotos erhielt der Blogger eine teure Abmahnung vom Anwalt.",
+   "exz": "因为盗用照片，这位博主收到了律师寄来的昂贵警告函。"
+  }
+ ],
+ "y0669": [
+  {
+   "p": "aus + Dat. ausscheiden",
+   "zh": "离职；退出",
+   "ex": "Er wird Ende des Jahres aus der Firma ausscheiden.",
+   "exz": "他将在年底离开公司。"
+  },
+  {
+   "p": "in der Vorrunde ausscheiden",
+   "zh": "被淘汰",
+   "ex": "Die Mannschaft könnte schon in der Vorrunde ausscheiden.",
+   "exz": "这支球队可能在小组赛就被淘汰。"
+  },
+  {
+   "p": "etw. ausscheiden",
+   "zh": "排出（体内）",
+   "ex": "Der Körper muss Giftstoffe über die Nieren ausscheiden.",
+   "exz": "身体要通过肾脏排出毒素。"
+  }
+ ],
+ "y0698": [
+  {
+   "p": "etw. dokumentieren",
+   "zh": "记录；存档",
+   "ex": "Alle Testergebnisse müssen genau und lückenlos dokumentiert werden.",
+   "exz": "所有测试结果都必须准确、完整地记录下来。"
+  },
+  {
+   "zh": "证明；呈现",
+   "ex": "Die Fotos dokumentieren eindrucksvoll, wie stark sich die Stadt verändert hat.",
+   "exz": "这些照片有力地展现了这座城市变化有多大。"
+  }
+ ],
+ "y0780": [
+  {
+   "p": "das Protokoll führen",
+   "zh": "会议记录",
+   "ex": "Wer führt heute das Protokoll in der Teamsitzung?",
+   "exz": "今天团队会议谁来做记录？"
+  },
+  {
+   "p": "zu Protokoll geben",
+   "zh": "笔录；供述",
+   "ex": "Der Zeuge gab seine Aussage bei der Polizei zu Protokoll.",
+   "exz": "证人在警局做了笔录。"
+  },
+  {
+   "zh": "（通信）协议",
+   "ex": "Beide Systeme tauschen Daten über ein sicheres Protokoll aus.",
+   "exz": "两个系统通过一个安全的协议交换数据。"
+  }
+ ],
+ "y0822": [
+  {
+   "p": "jmdm. etw. vermitteln",
+   "zh": "介绍（工作）；促成",
+   "ex": "Das Arbeitsamt hat ihm eine Stelle in einer Softwarefirma vermittelt.",
+   "exz": "劳动局给他介绍了一份软件公司的工作。"
+  },
+  {
+   "p": "zwischen + Dat. vermitteln",
+   "zh": "调解",
+   "ex": "Der Betriebsrat versucht, zwischen beiden Seiten zu vermitteln.",
+   "exz": "职工委员会试图在双方之间调解。"
+  },
+  {
+   "p": "Wissen vermitteln",
+   "zh": "传授；传达",
+   "ex": "Gute Lehrer vermitteln Wissen auf eine verständliche Art.",
+   "exz": "好老师能用易懂的方式传授知识。"
+  }
+ ],
+ "y0867": [
+  {
+   "zh": "谦虚的",
+   "ex": "Trotz seines Erfolgs ist er immer bescheiden geblieben.",
+   "exz": "尽管成功了，他始终很谦虚。"
+  },
+  {
+   "p": "bescheiden leben",
+   "zh": "朴素的；简陋的",
+   "ex": "Die Studenten leben in einer kleinen, bescheidenen Wohnung.",
+   "exz": "学生们住在一套小而简陋的房子里。"
+  },
+  {
+   "zh": "微薄的",
+   "ex": "Mit meinem bescheidenen Gehalt kann ich keine großen Sprünge machen.",
+   "exz": "我的工资微薄，没法太铺张。"
+  }
+ ],
+ "y0905": [
+  {
+   "p": "einen Fehler gestehen",
+   "zh": "承认（过错、罪行）",
+   "ex": "Der Verdächtige gesteht den Einbruch bei der Polizei.",
+   "exz": "嫌疑人向警方承认了入室盗窃。"
+  },
+  {
+   "p": "jmdm. seine Liebe gestehen",
+   "zh": "表白；坦白心意",
+   "ex": "Er wollte ihr endlich seine Liebe gestehen.",
+   "exz": "他终于想向她表白了。"
+  }
+ ],
+ "y0920": [
+  {
+   "p": "die Initiative ergreifen",
+   "zh": "主动精神",
+   "ex": "Du solltest mehr Initiative zeigen, wenn du die Stelle willst.",
+   "exz": "如果你想要这份工作，就该多表现点主动性。"
+  },
+  {
+   "p": "auf Initiative von",
+   "zh": "倡议",
+   "ex": "Auf Initiative der Studierenden wurde ein neuer Lernraum eingerichtet.",
+   "exz": "在学生们的倡议下，设立了一间新的自习室。"
+  },
+  {
+   "zh": "公民团体；行动小组",
+   "ex": "Eine Bürgerinitiative kämpft gegen den Bau der neuen Straße.",
+   "exz": "一个公民行动小组在反对修建这条新路。"
+  }
+ ],
+ "y1053": [
+  {
+   "zh": "耐力（体能）",
+   "ex": "Beim Laufen trainiere ich vor allem meine Ausdauer.",
+   "exz": "跑步时我主要练耐力。"
+  },
+  {
+   "zh": "毅力；恒心",
+   "ex": "Für die Promotion braucht man viel Ausdauer und Geduld.",
+   "exz": "读博需要很大的毅力和耐心。"
+  }
+ ],
+ "y1067": [
+  {
+   "zh": "性格；个性",
+   "ex": "Sie hat einen sehr ruhigen und freundlichen Charakter.",
+   "exz": "她性格非常平和友善。"
+  },
+  {
+   "p": "ein Mann von Charakter",
+   "zh": "品格；气节",
+   "ex": "Ein Mann von Charakter steht zu seinem Wort.",
+   "exz": "有品格的人说话算数。"
+  },
+  {
+   "p": "Charakter haben",
+   "zh": "性质；特点",
+   "ex": "Das Treffen hat nur informellen Charakter.",
+   "exz": "这次见面只是非正式性质的。"
+  }
+ ],
+ "y1084": [
+  {
+   "zh": "敏感的（皮肤、体质）",
+   "ex": "Ich habe empfindliche Haut und vertrage keine starke Seife.",
+   "exz": "我皮肤敏感，受不了浓烈的香皂。"
+  },
+  {
+   "zh": "娇贵的；易损的",
+   "ex": "Das Messgerät ist empfindlich und darf nicht herunterfallen.",
+   "exz": "这台测量仪很娇贵，不能摔。"
+  },
+  {
+   "zh": "爱生气的；玻璃心",
+   "ex": "Er ist ziemlich empfindlich, wenn man ihn kritisiert.",
+   "exz": "别人一批评他，他就很容易生气。"
+  },
+  {
+   "zh": "严重的；重重的",
+   "ex": "Der Verstoß wurde mit einer empfindlichen Geldstrafe geahndet.",
+   "exz": "这次违规被处以重额罚款。"
+  }
+ ],
+ "y1160": [
+  {
+   "p": "die Pflege übernehmen",
+   "zh": "护理；照料",
+   "ex": "Die Pflege der kranken Mutter nimmt viel Zeit in Anspruch.",
+   "exz": "照顾生病的母亲要花很多时间。"
+  },
+  {
+   "zh": "保养；护理（物品、皮肤）",
+   "ex": "Das Auto braucht regelmäßige Pflege, damit der Lack glänzt.",
+   "exz": "汽车需要定期保养，漆面才会亮。"
+  },
+  {
+   "zh": "维护（数据、系统）",
+   "ex": "Die Pflege der Datenbank gehört zu den Aufgaben des Teams.",
+   "exz": "维护数据库是团队的任务之一。"
+  }
+ ],
+ "y1180": [
+  {
+   "zh": "头晕",
+   "ex": "Beim Aufstehen verspürte sie plötzlich Schwindel.",
+   "exz": "站起来时她突然觉得头晕。"
+  },
+  {
+   "zh": "骗局；谎言",
+   "ex": "Das Angebot im Internet war ein reiner Schwindel.",
+   "exz": "网上的那个优惠完全是骗局。"
+  }
+ ],
+ "y1192": [
+  {
+   "p": "über + Akk. stolpern",
+   "zh": "被绊倒；绊了一下",
+   "ex": "Im Dunkeln bin ich über einen Stein gestolpert und gefallen.",
+   "exz": "黑暗中我被一块石头绊倒了。"
+  },
+  {
+   "p": "über + Akk. stolpern",
+   "zh": "被难住；偶然撞见",
+   "ex": "Beim Lesen bin ich über ein unbekanntes Wort gestolpert.",
+   "exz": "读的时候我被一个不认识的词卡住了。"
+  }
+ ],
+ "y1205": [
+  {
+   "p": "sich an + Dat. verbrennen",
+   "zh": "烫伤；烧伤",
+   "ex": "Pass auf, dass du dich am heißen Topf nicht verbrennst.",
+   "exz": "小心别被热锅烫到。"
+  },
+  {
+   "p": "sich die Finger verbrennen",
+   "zh": "吃亏；栽跟头",
+   "ex": "Bei dieser riskanten Investition hat er sich ordentlich die Finger verbrannt.",
+   "exz": "在这笔高风险投资上，他吃了大亏。"
+  }
+ ],
+ "y1251": [
+  {
+   "p": "aus + Dat. austreten",
+   "zh": "退出；退会",
+   "ex": "Viele Menschen wollen aus der Kirche austreten, um Steuern zu sparen.",
+   "exz": "许多人想退出教会以省下税。"
+  },
+  {
+   "p": "austreten",
+   "zh": "去厕所（委婉）",
+   "ex": "Entschuldigung, ich muss kurz austreten.",
+   "exz": "不好意思，我得去一下洗手间。"
+  },
+  {
+   "zh": "泄漏；流出",
+   "ex": "Bei einem Leck kann gefährliches Gas austreten.",
+   "exz": "出现漏洞时，危险的气体可能泄漏出来。"
+  }
+ ],
+ "y1311": [
+  {
+   "p": "den Gipfel erreichen",
+   "zh": "山顶",
+   "ex": "Nach vier Stunden Wanderung haben wir endlich den Gipfel erreicht.",
+   "exz": "徒步四个小时后，我们终于到达山顶。"
+  },
+  {
+   "p": "das Gipfeltreffen",
+   "zh": "峰会",
+   "ex": "Der Gipfel der Regierungschefs findet nächste Woche in Brüssel statt.",
+   "exz": "各国政府首脑峰会下周在布鲁塞尔举行。"
+  },
+  {
+   "p": "Das ist der Gipfel!",
+   "zh": "太过分了；登峰造极",
+   "ex": "Dass er schon wieder zu spät kommt, ist wirklich der Gipfel!",
+   "exz": "他居然又迟到，真是太过分了！"
+  }
+ ],
+ "y1355": [
+  {
+   "p": "eine Richtlinie umsetzen",
+   "zh": "（欧盟）指令",
+   "ex": "Die EU hat eine neue Richtlinie zum Datenschutz beschlossen.",
+   "exz": "欧盟通过了一项新的数据保护指令。"
+  },
+  {
+   "p": "sich an die Richtlinien halten",
+   "zh": "准则；规定",
+   "ex": "Alle Mitarbeiter müssen sich an die internen Richtlinien der Firma halten.",
+   "exz": "所有员工都必须遵守公司的内部准则。"
+  }
+ ],
+ "y1379": [
+  {
+   "p": "jmdn. unterdrücken",
+   "zh": "压迫；镇压",
+   "ex": "Die Regierung versucht, jede Kritik der Opposition zu unterdrücken.",
+   "exz": "政府试图压制反对派的一切批评。"
+  },
+  {
+   "p": "Gefühle unterdrücken",
+   "zh": "压抑；忍住",
+   "ex": "Er konnte seinen Ärger kaum unterdrücken.",
+   "exz": "他几乎压不住心里的火气。"
+  }
+ ],
+ "y1410": [
+  {
+   "p": "jmdn. überwachen",
+   "zh": "监视",
+   "ex": "Die Kameras überwachen den Eingang rund um die Uhr.",
+   "exz": "摄像头全天候监视着入口。"
+  },
+  {
+   "p": "etw. überwachen",
+   "zh": "监测；监督（过程、数值）",
+   "ex": "Die Ärztin überwacht den Blutdruck des Patienten nach der Operation.",
+   "exz": "手术后医生在监测病人的血压。"
+  }
+ ],
+ "y1432": [
+  {
+   "p": "der Aufruf einer Funktion",
+   "zh": "（函数）调用",
+   "ex": "Beim Aufruf der Funktion wird ein Fehler ausgelöst.",
+   "exz": "调用这个函数时会触发一个错误。"
+  },
+  {
+   "p": "ein Aufruf zum Streik",
+   "zh": "呼吁；号召",
+   "ex": "Die Gewerkschaft veröffentlichte einen Aufruf zum Streik.",
+   "exz": "工会发出了罢工的号召。"
+  },
+  {
+   "p": "beim Aufruf der Seite",
+   "zh": "访问（网页）",
+   "ex": "Beim Aufruf der Webseite erscheint eine Fehlermeldung.",
+   "exz": "打开这个网页时会出现错误提示。"
+  }
+ ],
+ "y1443": [
+  {
+   "zh": "带宽",
+   "ex": "Unser Internet hat eine geringe Bandbreite und ist oft langsam.",
+   "exz": "我们的网络带宽很小，经常很慢。"
+  },
+  {
+   "zh": "范围；跨度",
+   "ex": "Die Studie zeigt eine große Bandbreite an Meinungen.",
+   "exz": "这项研究显示出意见的跨度很大。"
+  }
+ ],
+ "y1491": [
+  {
+   "zh": "功能；作用",
+   "ex": "Die App hat eine Funktion, mit der man Termine teilen kann.",
+   "exz": "这个应用有一个可以分享日程的功能。"
+  },
+  {
+   "p": "eine Funktion aufrufen",
+   "zh": "函数（编程）",
+   "ex": "In vielen Programmiersprachen definiert man eine Funktion mit einem eigenen Schlüsselwort.",
+   "exz": "在很多编程语言里，用一个专门的关键字来定义函数。"
+  },
+  {
+   "p": "in der Funktion als",
+   "zh": "职务；职责",
+   "ex": "In seiner Funktion als Teamleiter ist er für das Budget zuständig.",
+   "exz": "作为团队负责人，他负责预算。"
+  }
+ ],
+ "y1538": [
+  {
+   "p": "in + Dat. programmieren",
+   "zh": "编程；写程序",
+   "ex": "Ich programmiere seit fünf Jahren hauptsächlich in Python und Java.",
+   "exz": "五年来我主要用 Python 和 Java 编程。"
+  },
+  {
+   "p": "etw. programmieren",
+   "zh": "设定程序（设备）",
+   "ex": "Du kannst die Waschmaschine so programmieren, dass sie nachts läuft.",
+   "exz": "你可以设定洗衣机让它在夜里运行。"
+  }
+ ],
+ "y1560": [
+  {
+   "p": "eine Straße sperren",
+   "zh": "封锁（道路）",
+   "ex": "Wegen des Unfalls musste die Polizei die Straße sperren.",
+   "exz": "由于事故，警方不得不封锁道路。"
+  },
+  {
+   "p": "ein Konto sperren",
+   "zh": "冻结；禁用（账户、卡）",
+   "ex": "Die Bank hat mein Konto wegen verdächtiger Aktivitäten gesperrt.",
+   "exz": "银行因为可疑操作冻结了我的账户。"
+  },
+  {
+   "p": "einen Spieler sperren",
+   "zh": "禁赛",
+   "ex": "Der Verband wird den Spieler für drei Spiele sperren.",
+   "exz": "协会将禁止这名球员参加三场比赛。"
+  }
+ ],
+ "y1608": [
+  {
+   "p": "die Übertragung von Daten",
+   "zh": "（数据）传输",
+   "ex": "Die Übertragung der Daten ist durch Verschlüsselung gesichert.",
+   "exz": "数据传输通过加密得到保护。"
+  },
+  {
+   "p": "eine Live-Übertragung",
+   "zh": "转播；直播",
+   "ex": "Das Finale gibt es heute Abend als Live-Übertragung im Fernsehen.",
+   "exz": "决赛今晚在电视上直播。"
+  },
+  {
+   "p": "Übertragung von",
+   "zh": "传播；传染",
+   "ex": "Die Übertragung des Virus erfolgt meist über Tröpfchen.",
+   "exz": "这种病毒主要通过飞沫传播。"
+  }
+ ],
+ "y1620": [
+  {
+   "p": "etw. anbauen",
+   "zh": "种植",
+   "ex": "In dieser Region kann man gut Wein anbauen.",
+   "exz": "这个地区很适合种葡萄酿酒。"
+  },
+  {
+   "p": "an + Akk. anbauen",
+   "zh": "扩建；加盖",
+   "ex": "Wir wollen an unser Haus ein kleines Zimmer anbauen.",
+   "exz": "我们想在房子旁边加盖一个小房间。"
+  }
+ ],
+ "y1643": [
+  {
+   "p": "ein Brunnen auf dem Platz",
+   "zh": "喷泉",
+   "ex": "Im Sommer sitzen viele Leute am Brunnen auf dem Marktplatz.",
+   "exz": "夏天很多人坐在集市广场的喷泉边。"
+  },
+  {
+   "p": "einen Brunnen graben",
+   "zh": "井",
+   "ex": "Früher haben die Dorfbewohner ihr Wasser aus dem Brunnen geholt.",
+   "exz": "过去村民们从井里取水。"
+  }
+ ],
+ "y1665": [
+  {
+   "p": "etw. ernten",
+   "zh": "收获；收割",
+   "ex": "Im September können wir endlich die Äpfel ernten.",
+   "exz": "九月我们终于可以收苹果了。"
+  },
+  {
+   "p": "Lob ernten",
+   "zh": "得到（赞扬、批评）",
+   "ex": "Für seine Idee hat er viel Lob geerntet.",
+   "exz": "他的想法赢得了很多称赞。"
+  }
+ ],
+ "y1681": [
+  {
+   "zh": "肥沃的",
+   "ex": "Das Land am Rhein hat einen sehr fruchtbaren Boden.",
+   "exz": "莱茵河沿岸的土地非常肥沃。"
+  },
+  {
+   "zh": "有成效的",
+   "ex": "Das Gespräch mit dem Professor war sehr fruchtbar.",
+   "exz": "和教授的谈话很有成果。"
+  },
+  {
+   "zh": "有生育能力的",
+   "ex": "Nur wenige Tage im Monat ist eine Frau fruchtbar.",
+   "exz": "女性每个月只有几天是易孕的。"
+  }
+ ],
+ "y1717": [
+  {
+   "p": "Wild jagen",
+   "zh": "打猎",
+   "ex": "In diesem Wald dürfen nur Förster und Jäger Wild jagen.",
+   "exz": "在这片森林里只有护林员和猎人才能打猎。"
+  },
+  {
+   "p": "jmdn. jagen",
+   "zh": "追捕；追赶",
+   "ex": "Die Polizei jagt den Dieb quer durch die Innenstadt.",
+   "exz": "警察在市中心一路追捕小偷。"
+  }
+ ],
+ "y1777": [
+  {
+   "zh": "铁轨",
+   "ex": "Der Zug ist entgleist, weil die Schiene beschädigt war.",
+   "exz": "由于铁轨受损，火车脱轨了。"
+  },
+  {
+   "p": "auf die Schiene verlagern",
+   "zh": "铁路（运输方式）",
+   "ex": "Die Regierung will mehr Güter von der Straße auf die Schiene verlagern.",
+   "exz": "政府想把更多货物从公路转到铁路运输。"
+  },
+  {
+   "zh": "夹板（固定骨折）",
+   "ex": "Der Arzt legte dem verletzten Arm eine Schiene an.",
+   "exz": "医生给受伤的手臂上了夹板。"
+  }
+ ],
+ "y1850": [
+  {
+   "p": "für + Akk. aufkommen",
+   "zh": "承担（费用、损失）",
+   "ex": "Wer den Schaden verursacht hat, muss dafür aufkommen.",
+   "exz": "谁造成了损失，谁就得负责赔偿。"
+  },
+  {
+   "zh": "产生；萌生",
+   "ex": "Wenn Zweifel aufkommen, sollten wir offen darüber reden.",
+   "exz": "如果产生疑虑，我们应该坦率地谈。"
+  },
+  {
+   "zh": "刮起；兴起",
+   "ex": "Am Abend wird starker Wind aufkommen.",
+   "exz": "晚上会刮起大风。"
+  }
+ ],
+ "y1860": [
+  {
+   "p": "an die Börse gehen",
+   "zh": "证券交易所；股市",
+   "ex": "Das Start-up will im nächsten Jahr an die Börse gehen.",
+   "exz": "这家初创公司想在明年上市。"
+  },
+  {
+   "p": "die Jobbörse",
+   "zh": "交流会；交易平台",
+   "ex": "Auf der Jobbörse der Uni kann man viele Firmen kennenlernen.",
+   "exz": "在学校的招聘会上可以认识很多公司。"
+  }
+ ],
+ "y1928": [
+  {
+   "p": "die Rückgabe der Kaution",
+   "zh": "归还",
+   "ex": "Die Rückgabe der Kaution erfolgt nach der Wohnungsübergabe.",
+   "exz": "押金在交房之后退还。"
+  },
+  {
+   "p": "ein Rückgaberecht",
+   "zh": "退货",
+   "ex": "Bei der Rückgabe der Ware innerhalb von vierzehn Tagen bekommen Sie Ihr Geld zurück.",
+   "exz": "十四天内退货，您可以拿回货款。"
+  }
+ ],
+ "y2011": [
+  {
+   "p": "bei einer Prüfung durchfallen",
+   "zh": "考试不及格",
+   "ex": "Wer zweimal durchfällt, muss die Prüfung im nächsten Semester wiederholen.",
+   "exz": "两次没考过的人，要在下个学期重考。"
+  },
+  {
+   "p": "beim Publikum durchfallen",
+   "zh": "惨败；不受欢迎",
+   "ex": "Der neue Film wird beim Publikum wahrscheinlich durchfallen.",
+   "exz": "这部新电影很可能会在观众中惨败。"
+  }
+ ],
+ "y2101": [
+  {
+   "p": "eine steigende Tendenz",
+   "zh": "趋势",
+   "ex": "Die Zahl der Studierenden zeigt seit Jahren eine steigende Tendenz.",
+   "exz": "多年来大学生人数呈上升趋势。"
+  },
+  {
+   "p": "die Tendenz zu + Dat.",
+   "zh": "倾向",
+   "ex": "Er hat die Tendenz, alles auf den letzten Moment zu verschieben.",
+   "exz": "他总倾向于把什么事都拖到最后一刻。"
+  }
+ ],
+ "y2125": [
+  {
+   "p": "ein Zuwachs von + Dat.",
+   "zh": "增长；增加",
+   "ex": "Die Firma verzeichnet einen Zuwachs von zehn Prozent.",
+   "exz": "公司录得百分之十的增长。"
+  },
+  {
+   "p": "Zuwachs bekommen",
+   "zh": "添丁；新增成员",
+   "ex": "Familie Müller hat Zuwachs bekommen, es ist ein Mädchen.",
+   "exz": "米勒一家添了新成员，是个女孩。"
+  }
+ ],
+ "y0248": [
+  {
+   "p": "etw. anmerken",
+   "zh": "补充说；指出",
+   "ex": "Darf ich kurz anmerken, dass die Frist schon abgelaufen ist?",
+   "exz": "我能补充一句吗？期限已经过了。"
+  },
+  {
+   "p": "jmdm. etw. anmerken",
+   "zh": "看出（某人的情绪）",
+   "ex": "Man konnte ihm anmerken, dass er sich nicht wohlfühlte.",
+   "exz": "能看出他心里不舒服。"
+  }
+ ],
+ "y0355": [
+  {
+   "p": "etw. einräumen",
+   "zh": "承认",
+   "ex": "Der Minister musste einen schweren Fehler einräumen.",
+   "exz": "部长不得不承认犯了严重的错误。"
+  },
+  {
+   "p": "jmdm. etw. einräumen",
+   "zh": "给予（权利、期限）",
+   "ex": "Die Bank wird uns eine Frist von drei Monaten einräumen.",
+   "exz": "银行会给我们三个月的期限。"
+  },
+  {
+   "p": "etw. einräumen",
+   "zh": "把东西放进去归置",
+   "ex": "Ich muss noch die Spülmaschine einräumen, bevor die Gäste kommen.",
+   "exz": "客人来之前我还得把餐具放进洗碗机。"
+  }
+ ],
+ "y2131": [
+  {
+   "p": "jmdn. ablösen",
+   "zh": "接替；轮换",
+   "ex": "Am Abend wird die Nachtschicht die Tagschicht ablösen.",
+   "exz": "晚上夜班会接替白班。"
+  },
+  {
+   "p": "etw. ablösen",
+   "zh": "揭下；剥落",
+   "ex": "Das Etikett lässt sich leicht von der Flasche ablösen.",
+   "exz": "标签很容易从瓶子上揭下来。"
+  },
+  {
+   "p": "einen Kredit ablösen",
+   "zh": "提前还清（贷款）",
+   "ex": "Er möchte seinen Kredit vorzeitig ablösen.",
+   "exz": "他想提前还清贷款。"
+  }
+ ],
+ "y2368": [
+  {
+   "p": "Holz spalten",
+   "zh": "劈开",
+   "ex": "Am Wochenende hat er im Garten Holz gespalten.",
+   "exz": "周末他在院子里劈柴。"
+  },
+  {
+   "p": "die Gesellschaft spalten",
+   "zh": "使分裂；使分化",
+   "ex": "Die Debatte über das Thema könnte die Gesellschaft spalten.",
+   "exz": "围绕这个话题的辩论可能会使社会分裂。"
+  }
+ ],
+ "y2573": [
+  {
+   "zh": "诗歌创作；文学",
+   "ex": "In der Dichtung der Klassik spielt die Natur eine zentrale Rolle.",
+   "exz": "在古典主义的文学创作中，自然占据核心地位。"
+  },
+  {
+   "p": "die Dichtung austauschen",
+   "zh": "密封件；垫圈",
+   "ex": "Der Klempner musste die Dichtung am Wasserhahn austauschen, weil er tropfte.",
+   "exz": "水龙头在滴水，水管工只好更换上面的密封圈。"
+  }
+ ],
+ "y2592": [
+  {
+   "zh": "文学体裁；艺术类别",
+   "ex": "Die Kurzgeschichte ist eine Gattung, die im Deutschunterricht oft behandelt wird.",
+   "exz": "短篇小说是一种在德语课上经常讲到的体裁。"
+  },
+  {
+   "zh": "（生物的）属",
+   "ex": "Diese Gattung umfasst mehr als hundert verschiedene Arten von Käfern.",
+   "exz": "这个属包含一百多种不同的甲虫。"
+  }
+ ],
+ "y2718": [
+  {
+   "p": "etw. aufdecken",
+   "zh": "揭露；查明",
+   "ex": "Die Polizei konnte den Betrug erst nach einem Jahr aufdecken.",
+   "exz": "警方一年后才查明这起诈骗。"
+  },
+  {
+   "p": "Karten aufdecken",
+   "zh": "翻开；掀开",
+   "ex": "Bei dem Spiel müssen alle Spieler am Ende ihre Karten aufdecken.",
+   "exz": "这个游戏最后所有玩家都要把牌翻开。"
+  }
+ ],
+ "y2728": [
+  {
+   "p": "sich auf + Akk. berufen",
+   "zh": "援引；以……为依据",
+   "ex": "Der Vermieter beruft sich auf eine Klausel im Mietvertrag.",
+   "exz": "房东援引了租赁合同中的一项条款。"
+  },
+  {
+   "p": "jmdn. zu etw. berufen",
+   "zh": "任命；聘任",
+   "ex": "Die Universität hat ihn zum Professor für Informatik berufen.",
+   "exz": "大学聘任他为计算机科学教授。"
+  },
+  {
+   "p": "sich zu etw. berufen fühlen",
+   "zh": "觉得有使命",
+   "ex": "Sie fühlte sich schon früh dazu berufen, kranken Menschen zu helfen.",
+   "exz": "她很早就觉得自己有使命去帮助病人。"
+  }
+ ],
+ "y2785": [
+  {
+   "p": "ein Mandat gewinnen",
+   "zh": "议席；议员席位",
+   "ex": "Die Grünen konnten bei der Landtagswahl zwei zusätzliche Mandate gewinnen.",
+   "exz": "绿党在州议会选举中多赢得了两个议席。"
+  },
+  {
+   "p": "ein Mandat übernehmen",
+   "zh": "委托；受托案件",
+   "ex": "Die Anwältin hat das Mandat im Streit um die Kündigung übernommen.",
+   "exz": "这位律师接下了关于解雇纠纷的委托。"
+  },
+  {
+   "zh": "授权；权限",
+   "ex": "Die Mission arbeitet mit einem Mandat der Vereinten Nationen.",
+   "exz": "这个使团依据联合国的授权开展工作。"
+  }
+ ],
+ "y2816": [
+  {
+   "p": "Revision einlegen",
+   "zh": "提出上诉（法律审）",
+   "ex": "Der Angeklagte will gegen das Urteil Revision einlegen.",
+   "exz": "被告想对判决提出上诉。"
+  },
+  {
+   "p": "einer Revision unterziehen",
+   "zh": "修订；修改",
+   "ex": "Das Gesetz wird derzeit einer gründlichen Revision unterzogen.",
+   "exz": "这部法律目前正在接受全面修订。"
+  },
+  {
+   "p": "interne Revision",
+   "zh": "内部审计；稽核",
+   "ex": "Die interne Revision prüft jedes Jahr die Bücher der Firma.",
+   "exz": "内部审计部门每年检查公司的账目。"
+  }
+ ],
+ "y2872": [
+  {
+   "p": "etw. an + Akk. anbinden",
+   "zh": "接入；对接（系统）",
+   "ex": "Das neue Lagersystem wird per Schnittstelle an die Buchhaltung angebunden.",
+   "exz": "新的仓库系统通过接口与财务系统对接。"
+  },
+  {
+   "p": "ein Tier anbinden",
+   "zh": "拴住",
+   "ex": "Er band den Hund vor dem Laden an einen Pfahl an.",
+   "exz": "他把狗拴在店门口的一根柱子上。"
+  },
+  {
+   "p": "an + Akk. angebunden sein",
+   "zh": "与交通网连通",
+   "ex": "Das Viertel ist durch die neue U-Bahn gut an das Zentrum angebunden.",
+   "exz": "这个街区因新地铁与市中心连通得很好。"
+  }
+ ],
+ "y2883": [
+  {
+   "p": "Daten auslesen",
+   "zh": "读取（数据）",
+   "ex": "Mit einem Adapter kann man die Fehlercodes des Autos auslesen.",
+   "exz": "用转接器可以读取汽车的故障码。"
+  },
+  {
+   "p": "ein Buch auslesen",
+   "zh": "读完（书）",
+   "ex": "Ich habe den Roman gestern Abend endlich ausgelesen.",
+   "exz": "我昨天晚上终于把这本小说读完了。"
+  }
+ ],
+ "y3161": [
+  {
+   "p": "Lebensmittel einfrieren",
+   "zh": "冷冻",
+   "ex": "Wir frieren das Brot ein, damit es länger frisch bleibt.",
+   "exz": "我们把面包冷冻起来，让它保鲜更久。"
+  },
+  {
+   "p": "ein Konto einfrieren",
+   "zh": "冻结（账户、资产）",
+   "ex": "Die Bank hat sein Konto wegen des Verdachts auf Geldwäsche eingefroren.",
+   "exz": "银行因涉嫌洗钱冻结了他的账户。"
+  },
+  {
+   "p": "ein Projekt einfrieren",
+   "zh": "搁置；暂停",
+   "ex": "Das Projekt wurde wegen fehlender Mittel erst einmal eingefroren.",
+   "exz": "由于缺少经费，这个项目暂时被搁置了。"
+  }
+ ],
+ "y3094": [
+  {
+   "p": "im Zehn-Minuten-Takt",
+   "zh": "班次间隔",
+   "ex": "Zur Hauptverkehrszeit fahren die Busse in unserer Stadt im Zehn-Minuten-Takt.",
+   "exz": "高峰时段，我们城市的公交车每十分钟一班。"
+  },
+  {
+   "p": "den Takt angeben",
+   "zh": "节拍；拍子",
+   "ex": "Der Schlagzeuger gibt mit den Stöcken den Takt für die Band vor.",
+   "exz": "鼓手用鼓槌为乐队打出节拍。"
+  },
+  {
+   "p": "mit Takt",
+   "zh": "分寸；得体",
+   "ex": "Sie sprach die Kritik mit viel Takt an, ohne ihn zu verletzen.",
+   "exz": "她很有分寸地提出了批评，没有伤到他。"
+  }
+ ],
+ "y3145": [
+  {
+   "zh": "未付的；拖欠的",
+   "ex": "Die ausstehenden Gebühren müssen bis Ende des Monats überwiesen werden.",
+   "exz": "未缴的费用必须在月底前转账。"
+  },
+  {
+   "zh": "尚未做出的；悬而未决的",
+   "ex": "Die ausstehende Entscheidung des Gerichts wird nächste Woche erwartet.",
+   "exz": "法院尚未做出的裁决预计下周公布。"
+  }
+ ],
+ "y3231": [
+  {
+   "p": "etw. vergüten",
+   "zh": "支付报酬",
+   "ex": "Die Firma vergütet die Arbeit der Praktikanten mit 500 Euro monatlich.",
+   "exz": "公司每月支付实习生500欧元的报酬。"
+  },
+  {
+   "p": "jmdm. etw. vergüten",
+   "zh": "报销；补偿费用",
+   "ex": "Die Universität vergütet den Teilnehmern die Reisekosten nach der Konferenz.",
+   "exz": "会议结束后，大学向参会者报销差旅费。"
+  }
+ ],
+ "y3243": [
+  {
+   "zh": "国民经济",
+   "ex": "Die deutsche Volkswirtschaft ist stark vom Export abhängig.",
+   "exz": "德国的国民经济严重依赖出口。"
+  },
+  {
+   "zh": "经济学（专业）",
+   "ex": "Er studiert Volkswirtschaft und möchte später bei einer Bank arbeiten.",
+   "exz": "他学经济学，以后想去银行工作。"
+  }
+ ],
+ "y3258": [
+  {
+   "p": "etw. von + Dat. abgrenzen",
+   "zh": "区别开；划清",
+   "ex": "Wir müssen diese Methode klar von älteren Verfahren abgrenzen.",
+   "exz": "我们必须把这种方法和旧的做法明确区别开。"
+  },
+  {
+   "p": "etw. abgrenzen",
+   "zh": "划定范围",
+   "ex": "Zuerst müssen wir das Thema der Masterarbeit genau abgrenzen, sonst wird es zu breit.",
+   "exz": "我们首先要把硕士论文的题目范围划清，否则会太宽泛。"
+  },
+  {
+   "p": "sich von + Dat. abgrenzen",
+   "zh": "与……划清界限",
+   "ex": "Die Partei grenzt sich deutlich von extremen Positionen ab.",
+   "exz": "这个政党明确与极端立场划清界限。"
+  }
+ ],
+ "y3418": [
+  {
+   "p": "etw. mit + Dat. kennzeichnen",
+   "zh": "标明；做标记",
+   "ex": "Gefährliche Chemikalien müssen im Labor deutlich mit einem Warnschild gekennzeichnet sein.",
+   "exz": "实验室里的危险化学品必须用警示牌清楚标明。"
+  },
+  {
+   "p": "etw. kennzeichnet jmdn./etw.",
+   "zh": "是……的特点",
+   "ex": "Den Stil der Autorin kennzeichnet eine ungewöhnliche Mischung aus Ironie und Ernst.",
+   "exz": "这位作家风格的特点是讽刺与严肃的奇特结合。"
+  }
+ ],
+ "y2990": [
+  {
+   "p": "etw. mit + Dat. verknüpfen",
+   "zh": "关联（数据）",
+   "ex": "In der Tabelle sind die Studenten über ihre Matrikelnummer mit den Noten verknüpft.",
+   "exz": "表格里学生通过学号与成绩关联起来。"
+  },
+  {
+   "p": "etw. mit + Dat. verknüpfen",
+   "zh": "使联想到",
+   "ex": "Mit diesem Lied verknüpfe ich viele schöne Erinnerungen an den Sommer.",
+   "exz": "这首歌让我联想到许多关于夏天的美好回忆。"
+  },
+  {
+   "p": "A mit B verknüpfen",
+   "zh": "结合；融合",
+   "ex": "Der Studiengang verknüpft Theorie und Praxis auf besondere Weise.",
+   "exz": "这个专业以独特的方式把理论与实践结合起来。"
+  }
+ ],
+ "y3017": [
+  {
+   "zh": "剥削（劳动者）",
+   "ex": "In vielen Fabriken werden Arbeiter ausgebeutet und schlecht bezahlt.",
+   "exz": "在许多工厂里，工人被剥削，工资很低。"
+  },
+  {
+   "zh": "过度开采（资源）",
+   "ex": "Die Ölvorkommen vor der Küste wurden jahrzehntelang rücksichtslos ausgebeutet.",
+   "exz": "近海的石油储量被毫无顾忌地开采了几十年。"
+  }
+ ],
+ "y3111": [
+  {
+   "zh": "枯萎；发育不良",
+   "ex": "Die Pflanzen auf dem Balkon verkümmern, wenn sie nie Sonne bekommen.",
+   "exz": "阳台上的植物如果一直见不到阳光就会枯萎。"
+  },
+  {
+   "zh": "退化；荒废（能力）",
+   "ex": "Ohne regelmäßige Praxis verkümmern deine Deutschkenntnisse mit der Zeit schnell.",
+   "exz": "没有经常练习，你的德语水平会很快退化。"
+  }
+ ],
+ "y3402": [
+  {
+   "zh": "程度；规模",
+   "ex": "Das Ausmaß der Überschwemmung wurde erst am nächsten Morgen sichtbar.",
+   "exz": "洪水的规模直到第二天早上才显现出来。"
+  },
+  {
+   "p": "die Ausmaße",
+   "zh": "尺寸；面积",
+   "ex": "Die Ausmaße des Zimmers sind für drei Personen viel zu klein.",
+   "exz": "这个房间的面积对三个人来说小得多。"
+  }
+ ],
+ "y3437": [
+  {
+   "zh": "预先透露",
+   "ex": "Ich will nicht zu viel vorwegnehmen, aber das Ende überrascht alle.",
+   "exz": "我不想剧透太多，但结局会让所有人吃惊。"
+  },
+  {
+   "p": "eine Entscheidung vorwegnehmen",
+   "zh": "抢先；预先做出",
+   "ex": "Mit seiner Aussage hat der Minister die Entscheidung des Parlaments vorweggenommen.",
+   "exz": "部长这番话抢在议会做出决定之前表了态。"
+  }
+ ],
+ "y3222": [
+  {
+   "p": "Schulden tilgen",
+   "zh": "偿还（债务）",
+   "ex": "Sie tilgt den Kredit für ihre Wohnung in monatlichen Raten.",
+   "exz": "她按月分期偿还购房贷款。"
+  },
+  {
+   "p": "etw. aus + Dat. tilgen",
+   "zh": "抹去；删除",
+   "ex": "Die Behörde tilgte den Eintrag nach fünf Jahren aus dem Register.",
+   "exz": "五年后，主管部门把这条记录从登记簿里删除了。"
+  }
+ ],
+ "y2553": [
+  {
+   "zh": "清晰表达",
+   "ex": "Im Meeting konnte sie ihre Bedenken klar und sachlich artikulieren.",
+   "exz": "会上她能清楚而客观地说出自己的顾虑。"
+  },
+  {
+   "zh": "发音；吐字",
+   "ex": "Der Sprecher artikuliert jedes Wort so deutlich, dass man ihn gut versteht.",
+   "exz": "播音员每个词都吐字清晰，所以很容易听懂。"
+  }
+ ],
+ "y3081": [
+  {
+   "p": "Raubbau an + Dat.",
+   "zh": "掠夺式开发",
+   "ex": "Durch den Raubbau an den Fischbeständen sind viele Arten fast verschwunden.",
+   "exz": "由于对渔业资源的掠夺式捕捞，许多鱼种几乎消失了。"
+  },
+  {
+   "p": "Raubbau an der Gesundheit treiben",
+   "zh": "透支健康",
+   "ex": "Wer ständig nachts arbeitet und kaum schläft, treibt Raubbau an seiner Gesundheit.",
+   "exz": "经常夜里工作、几乎不睡觉的人是在透支自己的健康。"
+  }
+ ],
+ "y3426": [
+  {
+   "zh": "原则上（可行）",
+   "ex": "Prinzipiell können Studierende ihr Thema selbst wählen, wenn der Betreuer zustimmt.",
+   "exz": "只要导师同意，原则上学生可以自己选题。"
+  },
+  {
+   "zh": "从根本上；一概（反对）",
+   "ex": "Ich bin prinzipiell gegen jede Form von Gewalt in der Schule.",
+   "exz": "我从根本上反对学校里的任何暴力。"
+  }
+ ],
+ "y2478": [
+  {
+   "zh": "马虎的；疏忽的",
+   "ex": "Er hat die Daten nachlässig geprüft und mehrere Fehler übersehen.",
+   "exz": "他检查数据时很马虎，漏掉了好几处错误。"
+  },
+  {
+   "zh": "随便的；不修边幅的",
+   "ex": "Er war nachlässig gekleidet und kam mit zerknittertem Hemd zum Vorstellungsgespräch.",
+   "exz": "他穿着随便，带着皱巴巴的衬衫来参加面试。"
+  }
+ ]
+}

@@ -46,13 +46,21 @@ async def main():
     sem, stats = asyncio.Semaphore(8), {"ok": 0, "fail": []}
     await asyncio.gather(*(one(w, sem, stats) for w in words))
     print("新生成", stats["ok"], "失败", len(stats["fail"]), stats["fail"][:10])
-    index = json.loads((ADIR / "index.json").read_text(encoding="utf-8"))
-    index = {k: v for k, v in index.items() if not k.startswith("y")}
+    old = json.loads((ADIR / "index.json").read_text(encoding="utf-8"))
+    index = {k: v for k, v in old.items() if not k.startswith("y")}
+    # 已上线的包在设备上是缓存优先（sw.js），内容一变旧设备就拿不到新词 → 已有的包原样保留，
+    # 落在已有包号里的新 id 放进 1000 + id//100 号包（2026-11-18）
+    frozen = {v for k, v in old.items() if k.startswith("y")}
     packs = {}
     for w in words:
         f = RAW / f"{w['id']}.mp3"
+        if old.get(w["id"]) in frozen:
+            index[w["id"]] = old[w["id"]]
+            continue
         if f.exists() and f.stat().st_size > 500:
             b = FIRST + int(w["id"][1:]) // 100
+            if b in frozen:
+                b = 1000 + int(w["id"][1:]) // 100
             packs.setdefault(b, {})[w["id"]] = base64.b64encode(f.read_bytes()).decode()
             index[w["id"]] = b
     for b, pack in packs.items():

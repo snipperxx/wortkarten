@@ -51,7 +51,7 @@ jobs:
             --model claude-opus-5-5
             --effort high
             --max-turns 40
-            --allowedTools "Read,Edit,Write,Glob,Grep,Bash(python -I scripts/merge.py .),Bash(python -I scripts/check.py),Bash(git diff:*),Bash(git status)"
+            --allowedTools "Read,Edit,Write,Glob,Grep,Bash(python -I scripts/merge.py .),Bash(python -I scripts/build_content.py .),Bash(python -I scripts/check.py),Bash(git diff:*),Bash(git status)"
           prompt: |
             你在维护一个德语背单词网站 Wortkarten（仓库根目录就是当前目录），唯一的用户是作者本人。
             他在 App 里提交了一条反馈，内容在 .feedback/issue.json。
@@ -67,6 +67,11 @@ jobs:
                   不要直接改 docs/words.json 或 data/chunk*.json。
                3. 运行 python -I scripts/merge.py . 再运行 python -I scripts/check.py，必须通过。
                4. 顺手检查同一个词的其他字段有没有类似问题，一起改。
+            A2. 语法课 / 听力的内容错误（讲解、练习答案、中文翻译、解析、听力题目）：
+               1. 源文件在 data/grammar/*.txt 和 data/listen/*.txt（格式见 scripts/build_content.py 开头），在源文件里改，
+                  不要直接改 docs/grammar.json 或 docs/listening.json。
+               2. 听力里冒号后面的德语原文（会对应音频）不要改——那要重新生成音频，outcome 写 needs-human；听力的题目、中文、解析、生词可以改。
+               3. 运行 python -I scripts/build_content.py . 再运行 python -I scripts/check.py，必须通过。
             B. 页面 bug（按钮没反应、显示错乱、发音不播等）：可以小范围改 docs/index.html，
                改完把 APP_VERSION 的最后一位加 1，并运行 check.py。改动要小，别重构。
             C. 功能建议、大改动、你没把握的：不要改代码。在回复里写清楚你建议怎么做、要改哪些地方，outcome 写 needs-human。
@@ -79,7 +84,8 @@ jobs:
             - .feedback/outcome：只写一个词 fixed / wontfix / needs-human
             - .feedback/reply.md：给用户的中文回复，3–8 行，说明你确认了什么、改了什么（列出改前改后），或者为什么没改。
 
-            只允许改这几个文件：data/overrides.json、docs/words.json（由 merge.py 生成）、docs/changelog.json、docs/index.html、.feedback/*。
+            只允许改这几个文件：data/overrides.json、docs/words.json（由 merge.py 生成）、data/grammar/*.txt、data/listen/*.txt、
+            docs/grammar.json 和 docs/listening.json（由 build_content.py 生成）、docs/changelog.json、docs/index.html、.feedback/*。
 
       - name: 只允许改指定文件
         run: |
@@ -88,6 +94,7 @@ jobs:
           for f in $changed; do
             case "$f" in
               data/overrides.json|docs/words.json|docs/changelog.json|docs/index.html) ;;
+              data/grammar/*.txt|data/listen/*.txt|docs/grammar.json|docs/listening.json) ;;
               *) echo "::error::不允许改 $f"; exit 1 ;;
             esac
           done
@@ -99,7 +106,7 @@ jobs:
         run: |
           git config user.name "wortkarten-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/overrides.json docs/words.json docs/changelog.json docs/index.html
+          git add data/overrides.json docs/words.json docs/changelog.json docs/index.html data/grammar data/listen docs/grammar.json docs/listening.json
           if git diff --cached --quiet; then echo "没有改动"; exit 0; fi
           git commit -m "反馈 #$ISSUE：$(jq -r .title .feedback/issue.json | head -c 60)"
           git push

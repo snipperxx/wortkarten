@@ -6,9 +6,14 @@
 用法（在仓库根目录）：
   python -I scripts/build_exam.py exam_private/src exam_private/out           编译；官方 mp3 用 file= 引用
   python -I scripts/build_exam.py exam_private/src exam_private/out --audio   没有官方音频、只有原文的片段用 edge-tts 朗读
+  … --fams exam_private/work          另外读 <目录>/*/structure.json（转换代理写的考试结构，见 exam_private/CONVERT_SPEC.md）
+  … --check --only telc-b1-3.txt      只解析这一个文件并校验，不生成音频、不写输出（给转换代理自查）
 
-=== set | 级别 | 套题号 | 名称          套题名称，例如 Goethe-Zertifikat B1 · Übungssatz 01（官方）
+=== set | 级别 | 套题号 | 名称 [| 考试]   套题名称，例如 Goethe-Zertifikat B1 · Übungssatz 01（官方）；
+                                       考试默认 goethe（Teil 结构看 meta.json 的 levels），其他考试（telc / osd …）
+                                       的 Teil 结构写在 meta.json 的 fams.<考试>.levels.<级别>.mods.<模块>.teile（每个 {name, zh}）
 @audio twice file=B1_Hoeren_Teil1_01.mp3   用官方音频（相对源目录）；后面可写原文 K: …（不用 voices:，用作答完后看原文）
+@audio once file=x.mp3 from=83.5 to=412    只截取官方音频的一段（秒，或 分:秒）；录音里已经自带重复播放时用 once
 
 —— 文件格式 ——
 === 任务id | 级别 | 套题号 | 模块 L/H/S/M | Teil 号
@@ -38,9 +43,17 @@ from pathlib import Path
 
 sys.stdout.reconfigure(encoding="utf-8")
 R = Path(__file__).resolve().parent.parent
-SRC = Path(sys.argv[1]).resolve()
-DST = Path(sys.argv[2]).resolve()
-WANT_AUDIO = "--audio" in sys.argv
+ARGS = [a for a in sys.argv[1:] if not a.startswith("--")]
+OPT = {a[2:].partition("=")[0]: a.partition("=")[2] for a in sys.argv[1:] if a.startswith("--")}
+for i, a in enumerate(sys.argv):                      # 也接受 “--only x” 这种写法
+    if a in ("--only", "--fams") and i + 1 < len(sys.argv):
+        OPT[a[2:]] = sys.argv[i + 1]
+        if sys.argv[i + 1] in ARGS:
+            ARGS.remove(sys.argv[i + 1])
+SRC = Path(ARGS[0]).resolve()
+DST = Path(ARGS[1] if len(ARGS) > 1 else "exam_private/out").resolve()
+WANT_AUDIO = "audio" in OPT
+CHECK = "check" in OPT
 LEVELS = ["A1", "A2", "B1", "B2", "C1"]
 MODS = {"L": "Lesen", "H": "Hören", "S": "Schreiben", "M": "Sprechen"}
 VOICES = {
@@ -69,7 +82,12 @@ def parse_opts(line):
     return out
 
 
-SETS = {}
+SETS, SETFAM = {}, {}
+
+
+def secs(x):
+    m, _, s = x.rpartition(":")
+    return round((int(m) * 60 if m else 0) + float(s), 2)
 
 
 def parse_file(f):
@@ -79,8 +97,9 @@ def parse_file(f):
         if line.startswith("==="):
             head = [x.strip() for x in line[3:].split("|")]
             where = f"{f.name}:{n}"
-            if head[0] == "set" and len(head) == 4 and head[1] in LEVELS and head[2].isdigit():
+            if head[0] == "set" and len(head) in (4, 5) and head[1] in LEVELS and head[2].isdigit():
                 SETS[f"{head[1]}-{head[2]}"] = head[3]
+                SETFAM[f"{head[1]}-{head[2]}"] = head[4] if len(head) == 5 and head[4] else "goethe"
                 cur = None
                 continue
             if len(head) != 5 or head[1] not in LEVELS or head[3] not in MODS or not head[2].isdigit() or not head[4].isdigit():
@@ -115,6 +134,16 @@ def parse_file(f):
                     block["_file"] = src
                     if not (SRC / src).exists():
                         errors.append(f"{where}：找不到音频文件 {src}")
+                    try:
+                        for w in words:
+                            if w.startswith("from="):
+                                block["_from"] = secs(w[5:])
+                            elif w.startswith("to="):
+                                block["_to"] = secs(w[3:])
+                    except ValueError:
+                        errors.append(f"{where}：from= / to= 要写秒数或 分:秒")
+                    if block.get("_to") is not None and block["_to"] <= block.get("_from", 0):
+                        errors.append(f"{where}：to= 必须大于 from=")
                 cur["items"].append(block)
             elif tag == "q":
                 block = None
@@ -271,12 +300,14 @@ def build_audio(tasks):
             if it["k"] != "audio" or "_file" not in it:
                 continue
             srcf = SRC / it.pop("_file")
+            fr, to = it.pop("_from", None), it.pop("_to", None)
             if not srcf.exists():
                 continue
-            h = hashlib.sha1(srcf.read_bytes()).hexdigest()[:8]
+            h = hashlib.sha1(srcf.read_bytes() + f"|{fr}|{to}".encode()).hexdigest()[:8]
             name = f"{t['id']}-{i}-{h}.mp3"
             if not (OUT / name).exists():
-                p = subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", str(srcf), "-ac", "1", "-ar", "24000", "-c:a", "libmp3lame", "-b:a", "48k", str(OUT / name)], capture_output=True)
+                cut = (["-ss", str(fr)] if fr else []) + (["-to", str(to)] if to else [])
+                p = subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", str(srcf), *cut, "-vn", "-ac", "1", "-ar", "24000", "-c:a", "libmp3lame", "-b:a", "48k", str(OUT / name)], capture_output=True)
                 if p.returncode:
                     errors.append(f"{t['id']}：ffmpeg 转换失败 {srcf.name}")
                     continue
@@ -345,27 +376,63 @@ def build_audio(tasks):
 
 
 tasks, seen = [], set()
-DST.mkdir(parents=True, exist_ok=True)
+if not CHECK:
+    DST.mkdir(parents=True, exist_ok=True)
 for f in sorted(SRC.glob("*.txt")):
+    if OPT.get("only") and f.name != Path(OPT["only"]).name:
+        continue
     for t in parse_file(f):
         if t["id"] in seen:
             errors.append(f"任务 id 重复：{t['id']}")
         seen.add(t["id"])
         finish(t)
         tasks.append(t)
-build_audio(tasks)
 meta = json.loads((R / "data/exam/meta.json").read_text(encoding="utf-8"))
-# 每个级别的 Teil 必须在 meta 里有说明
+if OPT.get("fams"):                                   # 转换代理写的考试结构：goethe 补进 levels（不覆盖已有），其他进 fams
+    for sf in sorted(Path(OPT["fams"]).resolve().glob("*/structure.json")):
+        try:
+            st = json.loads(sf.read_text(encoding="utf-8"))
+            fam, lv, mods = st["fam"], st["lv"], st["mods"]
+            assert lv in LEVELS and all(m in MODS for m in mods)
+            assert all(isinstance(x.get("zh"), str) for m in mods.values() for x in m["teile"])
+        except Exception as e:
+            errors.append(f"{sf.parent.name}/structure.json 格式不对：{e}")
+            continue
+        if fam == "goethe":
+            meta["levels"].setdefault(lv, {"name": st.get("name", f"Goethe-Zertifikat {lv}"), "url": st.get("url", ""), "mods": mods})
+        else:
+            F = meta.setdefault("fams", {}).setdefault(fam, {"name": st.get("name", fam), "url": st.get("url", ""), "levels": {}})
+            F["levels"].setdefault(lv, {"name": st.get("lvname", st.get("name", fam)), "url": st.get("url", ""), "mods": mods})
+# 每个级别的 Teil 必须在 meta 里有说明；非 Goethe 的考试用 fams 里的结构和 Teil 名称
 for t in tasks:
-    teile = meta["levels"].get(t["lv"], {}).get("mods", {}).get(t["mod"], {}).get("teile", [])
+    fam = SETFAM.get(f"{t['lv']}-{t['set']}")
+    if fam is None:
+        errors.append(f"{t['id']}：没有 === set | {t['lv']} | {t['set']} | … 的套题表头")
+        fam = "goethe"
+    t["fam"] = fam
+    base = meta["levels"] if fam == "goethe" else meta.get("fams", {}).get(fam, {}).get("levels")
+    if base is None:
+        errors.append(f"{t['id']}：meta.json 里没有考试 fams.{fam}")
+        continue
+    teile = base.get(t["lv"], {}).get("mods", {}).get(t["mod"], {}).get("teile", [])
     if t["teil"] > len(teile):
-        errors.append(f"{t['id']}：meta.json 里 {t['lv']} {t['mod']} 没有 Teil {t['teil']}")
+        errors.append(f"{t['id']}：meta.json 里 {fam} {t['lv']} {t['mod']} 没有 Teil {t['teil']}")
+    elif teile[t["teil"] - 1].get("name"):
+        t["name"] = teile[t["teil"] - 1]["name"]
+if CHECK:
+    from collections import Counter
+    for e in errors[:80]:
+        print("✗", e)
+    print(f"检查 {OPT.get('only') or '全部'}：{len(tasks)} 个 Teil，客观题 {sum(len(t['q']) for t in tasks)}，"
+          f"写作/口语 {sum(len(t['wq']) for t in tasks)}，问题 {len(errors)} 个", dict(Counter(f"{t['lv']}-{t['set']}" for t in tasks)))
+    sys.exit(1 if errors else 0)
+build_audio(tasks)
 if errors:
     for e in errors[:60]:
         print("✗", e)
     sys.exit(f"编译失败：{len(errors)} 个问题")
 tasks.sort(key=lambda t: (LEVELS.index(t["lv"]), t["set"], "LHSM".index(t["mod"]), t["teil"]))
-meta["sets"] = SETS
+meta["sets"], meta["setfam"] = SETS, SETFAM
 (DST / "exam.json").write_text(json.dumps({"meta": meta, "tasks": tasks}, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
 from collections import Counter
 print("考题", len(tasks), "个 Teil", dict(Counter(f"{t['lv']}-{t['set']}" for t in tasks)),

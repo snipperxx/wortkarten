@@ -25,6 +25,8 @@ for w in words:
         want.add(k)
         want.add(k.lower())
         want.add(k[:1].upper() + k[1:])
+if len(sys.argv) > 4:                    # 可选：再加一份词表（JSON 列表，如 wikt_missing.py 找出的新词）
+    want |= {x["w"] if isinstance(x, dict) else x for x in json.loads(Path(sys.argv[4]).read_text(encoding="utf-8"))}
 
 GENDER = {"masculine": "m", "feminine": "f", "neuter": "n", "plural-only": "p"}
 
